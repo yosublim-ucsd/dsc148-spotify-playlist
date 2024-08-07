@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Hay Babies
 
-2,708 songs - 5 day 23 hr 57 min
+2,709 songs - 6 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1738,7 +1738,7 @@
 | [NINTENDO 64](https://open.spotify.com/track/6x853glEaRezDRdmA0dkVo) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v) | [INDUSTREET : Exotics & Bangers](https://open.spotify.com/album/6db262ipeW9iZVkrKvhz8s) | 3:25 | 2024-02-09 | 2024-02-17 |
 | [Nirvana](https://open.spotify.com/track/7FdeH1ziL9awJywvTbAsYO) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Nirvana](https://open.spotify.com/album/3URbWIl55rpVoX0NpQlGrD) | 2:59 | 2023-01-20 | 2023-02-04 |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-14 | 2024-06-22 |
-| [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-31 |  |
+| [NO LACK](https://open.spotify.com/track/6YojceyxipGujmAgHCm4ur) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/55LmawLdjtaSJbJTIvvKVd) | 2:33 | 2024-05-31 | 2024-08-07 |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-07-07 | 2023-09-09 |
 | [NO LÈCHE](https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [NO LÈCHE 🚫👅 \(feat\. Favé, Kerchak & Leto\)](https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn) | 3:14 | 2023-03-17 | 2023-04-15 |
 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 | 2024-04-26 | 2024-06-14 |
@@ -2221,6 +2221,7 @@
 | [Seul sur le vibe](https://open.spotify.com/track/0gyN7WAybxKPmHCBFWlbGj) | [RSVP](https://open.spotify.com/artist/3J7DLBE8pKkr7nrT18PFCf) | [Seul sur le vibe](https://open.spotify.com/album/2DAAxmsyE9jnbQHzTkRrVq) | 3:23 | 2022-03-18 | 2022-04-02 |
 | [Seule sans toi](https://open.spotify.com/track/1DsnRwPvZ67uC52PgUKQwt) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Seule sans toi](https://open.spotify.com/album/6ld0yFbiJKDth6dmtGKffN) | 2:49 | 2023-05-05 | 2023-05-13 |
 | [Señorita](https://open.spotify.com/track/09iCConrp2c78DObRUgiNP) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/0uleKHAzZR8auY98Vddkxc) | 3:23 | 2024-03-15 | 2024-04-19 |
+| [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 | 2024-08-02 |  |
 | [Shalala](https://open.spotify.com/track/5xvpBqznG7UWA7f8yAWTuE) | [La Chicane](https://open.spotify.com/artist/47Jz2n2v5J4DydiDUp3NkI) | [Shalala](https://open.spotify.com/album/46aFUJDVycrvzzrdXdEbZt) | 2:42 | 2024-05-17 | 2024-05-25 |
 | [Shatta \(feat\. Ghost Killer Track\)](https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ) | [Après Gambinerie](https://open.spotify.com/album/7eEGUogVe7Et5HU0NPqPtF) | 2:05 | 2023-09-08 | 2023-10-07 |
 | [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-07-28 | 2023-09-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,166 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,173 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 18 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 19 | [Tonika \(feat\. Ziggy Marley\)](https://open.spotify.com/track/6s3SoB0n5VypXrk84IGiNH) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [\#7DJ \(7 Días En Jamaica\)](https://open.spotify.com/album/7vZC8PTQUCcw3687OxqY98) | 3:50 |
 | 20 | [Coming In From the Cold \- Live](https://open.spotify.com/track/15LQnxwp1K12gUCsTpoqxt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 3:58 |
-| 21 | [A Lifetime](https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 4:48 |
+| 21 | [Peace & Love](https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 3:48 |
 | 22 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 |
-| 23 | [Peace & Love](https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 3:48 |
+| 23 | [A Lifetime](https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 4:48 |
 | 24 | [War \- Live](https://open.spotify.com/track/4DqBKhMrM27XLPxXMmSacn) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:43 |
 | 25 | [There's A Reward](https://open.spotify.com/track/2PHEYqrgMEiTqmx4HCxgSa) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Old Soul](https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um) | 3:45 |
 | 26 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
 | 50 | [Still Is Still Moving To Me \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/1Achm7qxXbkawlhQgRPoJv) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Long Story Short: Willie Nelson 90 \(Live At The Hollywood Bowl\)](https://open.spotify.com/album/1d6bEE3fpUfav6T1IdUBth) | 3:20 |
 
-Snapshot ID: `Zq7EgAAAAAD3qIKeqPuBqZfwPQLrGYHh`
+Snapshot ID: `ZrAWAAAAAABaHeEN0pITNPgOctvCn9Ri`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Revenge is best served raw...Watch Ali Wong and Steven Yeun in Beef, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,143 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,149 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 | 12 | [Natural One](https://open.spotify.com/track/4Gqy2Hhl142fdjgVjR3bNx) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Fellow Travelers](https://open.spotify.com/album/4yzgWf28xZsmCBeZnWvXCv) | 3:27 |
 | 13 | [Lonely Day](https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:47 |
 | 14 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
-| 15 | [Machinehead \- 2014 Remastered](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
+| 15 | [Machinehead \- 2014 Remastered](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \- 2014 Remastered](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 |
 | 16 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 17 | [Mockingbirds](https://open.spotify.com/track/5x19KF85NUG8HvzvKG0HNk) | [Grant Lee Buffalo](https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw) | [Mighty Joe Moon](https://open.spotify.com/album/6PtEmK9iNNZVuwYCFePLd4) | 4:40 |
 | 18 | [Jinx \- Remastered](https://open.spotify.com/track/78n6WlaPuUb3th6RNtVJLL) | [Tad](https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO) | [8\-Way Santa \(Deluxe Edition\)](https://open.spotify.com/album/453ha4HyeCoEcH0zCa6VV1) | 3:01 |

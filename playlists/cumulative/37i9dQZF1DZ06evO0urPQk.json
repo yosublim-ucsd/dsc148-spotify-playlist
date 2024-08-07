@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "name": "This Is Nana Mizuki",
+  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
+  "name": "This Is \u6c34\u6a39\u5948\u3005",
   "tracks": [
     {
       "album": {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 224150,
       "name": "Link or Chains",
       "url": "https://open.spotify.com/track/3KSIV445te911EhHIn25Pn"
@@ -2044,6 +2044,24 @@
       "duration_ms": 278640,
       "name": "\u7d76\u5bfe\u7684\u5e78\u798f\u8ad6",
       "url": "https://open.spotify.com/track/7xUn19Rgau7DnWwi1fSrie"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267906,
+      "name": "\u84bc\u304d\u5149\u306e\u679c\u3066-ULTIMATE MODE-",
+      "url": "https://open.spotify.com/track/5Uf9xVzD2h4HYr0kNyCBQK"
     },
     {
       "album": {

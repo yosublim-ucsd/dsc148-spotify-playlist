@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027,115 likes - 48 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,027,280 likes - 48 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 47 | [Justice \(Get Up, Stand Up\)](https://open.spotify.com/track/0vSNrXPYNh0o7HdSLgsdIY) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Justice \(Get Up, Stand Up\) \(ft\. Wiz Khalifa, Bob Marley & The Wailers\)](https://open.spotify.com/album/0zZhdEIwCXO6hQqIZWxWuC) | 3:18 |
 | 48 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 |
 
-Snapshot ID: `Zq7EgAAAAADap3P3CFjeu2e9zg+HgB/J`
+Snapshot ID: `ZrAWAAAAAADhzOvQaiiv8dzlnCRT2blb`

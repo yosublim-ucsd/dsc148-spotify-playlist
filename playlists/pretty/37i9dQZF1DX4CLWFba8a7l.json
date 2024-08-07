@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121309,
+  "num_followers": 121313,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -149,22 +149,6 @@
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
-    },
-    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "Room For You",
@@ -183,6 +167,22 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189966,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -335,8 +335,8 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Waiting For Tonight",
-        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
       },
       "artists": [
         {
@@ -344,13 +344,13 @@
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
         }
       ],
-      "duration_ms": 198019,
-      "name": "Waiting For Tonight",
-      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
+        "name": "Waiting For Tonight",
+        "url": "https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe"
       },
       "artists": [
         {
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
+      "duration_ms": 198019,
+      "name": "Waiting For Tonight",
+      "url": "https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv"
     },
     {
       "added_at": "2024-07-25 14:00:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "One Bad Day",
-        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "One Bad Day",
-      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
-    },
-    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "All Your Life",
@@ -623,6 +607,22 @@
       "duration_ms": 221693,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "One Bad Day",
+        "url": "https://open.spotify.com/album/5morg7Iz68tT3I4jqLHc1M"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "One Bad Day",
+      "url": "https://open.spotify.com/track/4W8oRIFw6bKw4p4ol1HL2Y"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 226689,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
-    },
-    {
       "added_at": "2024-07-25 14:00:00",
       "album": {
         "name": "Enough Of The Sweet Talk",
@@ -859,6 +843,22 @@
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 226689,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
     },
     {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "FRENEMIES",
+        "url": "https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 190264,
+      "name": "FRENEMIES",
+      "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
+    },
+    {
       "added_at": "2024-06-20 14:00:00",
       "album": {
         "name": "Snack",
@@ -941,22 +957,6 @@
       "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
       "added_at": "2024-06-06 14:00:00",
       "album": {
         "name": "24 Hours in Paris",
@@ -971,6 +971,22 @@
       "duration_ms": 180673,
       "name": "24 Hours in Paris",
       "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1005,6 +1021,22 @@
       "url": "https://open.spotify.com/track/04PlB7eNOehCCAf4Mdfx62"
     },
     {
+      "added_at": "2024-07-11 14:00:00",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+    },
+    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "What If",
@@ -1037,22 +1069,6 @@
       "url": "https://open.spotify.com/track/7ag9DNGZ1CYexgaPdecBtO"
     },
     {
-      "added_at": "2024-07-11 14:00:00",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Padam Padam",
@@ -1071,8 +1087,8 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
       },
       "artists": [
         {
@@ -1080,25 +1096,9 @@
           "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 215331,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
-    },
-    {
-      "added_at": "2024-08-01 14:00:00",
-      "album": {
-        "name": "FRENEMIES",
-        "url": "https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "FRENEMIES",
-      "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
+      "duration_ms": 199682,
+      "name": "Down To The Sea",
+      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk"
     },
     {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Down To The Sea",
-      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
-    },
-    {
       "added_at": "2024-07-11 14:00:00",
       "album": {
         "name": "Crystal Ball",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "The Worst Person Alive",
-        "url": "https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz"
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
       "artists": [
         {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 210417,
-      "name": "The Worst Person Alive",
-      "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1231,6 +1215,38 @@
       "duration_ms": 255000,
       "name": "Train Left The Station",
       "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "The Worst Person Alive",
+        "url": "https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 210417,
+      "name": "The Worst Person Alive",
+      "url": "https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa"
+    },
+    {
+      "added_at": "2024-08-01 14:00:00",
+      "album": {
+        "name": "I Wish I Never Loved You",
+        "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "I Wish I Never Loved You",
+      "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1267,22 +1283,6 @@
       "duration_ms": 190410,
       "name": "Powertrippn'",
       "url": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Pedestal",
-        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 261798,
-      "name": "Pedestal",
-      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     }
   ],
   "unique_name": "The Local List",

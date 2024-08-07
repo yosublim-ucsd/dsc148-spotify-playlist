@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 188981,
+  "num_followers": 189009,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Juancito Carnaval",
-        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Juancito Carnaval",
-      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tarumba",
         "url": "https://open.spotify.com/album/07JKpHFQF3FbhridKdBg4A"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 198000,
       "name": "Tarumba",
       "url": "https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Juancito Carnaval",
+        "url": "https://open.spotify.com/album/08eFM7C6sToLKcMy81rVNl"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Juancito Carnaval",
+      "url": "https://open.spotify.com/track/7JPRCdl8DaS85xs1B0p4RW"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2095,8 +2095,8 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/5sRlBY5xX2BaIkyMaYUM7p"
+        "name": "La Ley Y La Trampa",
+        "url": "https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc"
       },
       "artists": [
         {
@@ -2104,9 +2104,9 @@
           "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Amor Salvaje",
-      "url": "https://open.spotify.com/track/0drALgikHfRAxeVPsZp7D6"
+      "duration_ms": 168840,
+      "name": "La Ley Y La Trampa",
+      "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
     },
     {
       "added_at": "2024-07-12 03:00:00",

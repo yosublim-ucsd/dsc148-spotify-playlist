@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-285 songs - 13 hr 46 min
+286 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [For my Hood](https://open.spotify.com/track/6jKQfUYZsMDMmfkDQ7h4V4) | [Natural P](https://open.spotify.com/artist/16khoUSQ92GRCpReblExzP) | [For my Hood](https://open.spotify.com/album/7cQqQCDEqllFATrYy8ah9O) | 3:51 | 2023-10-24 | 2024-04-19 |
 | [Frame](https://open.spotify.com/track/2GIHkTdQvFQlZLy1WLPS2k) | [tanta](https://open.spotify.com/artist/6eKqglYANhgKUkoKI6QxBz), [LoVEisSiCK](https://open.spotify.com/artist/0kJl4J9DpciGrbf2AmSZyZ) | [Hold TIGHT](https://open.spotify.com/album/6eorAaO9dzc3rm44sShD58) | 2:10 | 2024-07-04 |  |
 | [Frogs Party](https://open.spotify.com/track/4whrY3tG6VpHnTHUNf4WwH) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5), [陽](https://open.spotify.com/artist/7sjW2fvyssPuZ7kVLWSNPP) | [Frogs Party](https://open.spotify.com/album/0wqd7P04sJCfBm8AigklCC) | 2:54 | 2024-07-04 |  |
+| [G.O.A.T](https://open.spotify.com/track/1uApzLM9ksJn4CqWuMrBKZ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [G.O.A.T / Never Disappoint](https://open.spotify.com/album/2tvMrD9fO4DfL2xMXeWTR9) | 1:40 | 2024-08-07 |  |
 | [garasunokutsu](https://open.spotify.com/track/0Pa7cmFwsIQldJYHshWLRj) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 2:47 | 2024-07-04 |  |
 | [GENZAI](https://open.spotify.com/track/1O2GQeWxLLMieXmzYah30v) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/3CGv41xqDNYNwPtIqgNbUT) | 1:53 | 2024-02-27 |  |
 | [GENZAI](https://open.spotify.com/track/2k9OjSoNMIcUjO3PUE5YZj) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [dubby bunny](https://open.spotify.com/artist/244odVvt89Qx3RNgzeXdMF) | [GENZAI](https://open.spotify.com/album/1xMfZDikITDqLuyLPxSlNd) | 1:53 | 2023-10-24 | 2024-04-19 |

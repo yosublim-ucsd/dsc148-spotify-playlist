@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59211,
+  "num_followers": 59206,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Dina \u00d6gon \u00c4r Nakna",
-        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
-      },
-      "artists": [
-        {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Dina \u00d6gon \u00c4r Nakna",
-      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Dina \u00d6gon \u00c4r Nakna",
+        "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Dina \u00d6gon \u00c4r Nakna",
+      "url": "https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Days Like These",
-        "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
-      },
-      "artists": [
-        {
-          "name": "Then Argus",
-          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
-        }
-      ],
-      "duration_ms": 140031,
-      "name": "Days Like These",
-      "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Som En Sol",
         "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 175384,
       "name": "Som En Sol",
       "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Days Like These",
+        "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
+      },
+      "artists": [
+        {
+          "name": "Then Argus",
+          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
+        }
+      ],
+      "duration_ms": 140031,
+      "name": "Days Like These",
+      "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Arena",
-        "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 238392,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Kontakt",
         "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 164725,
       "name": "Kontakt",
       "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Arena",
+        "url": "https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
-      },
-      "artists": [
-        {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "FR\u00c4KNAR",
         "url": "https://open.spotify.com/album/04nlURLc8M6HpECP1lNVkg"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 225050,
       "name": "FR\u00c4KNAR",
       "url": "https://open.spotify.com/track/5SUzt46A6j4bPmBFgoAxf7"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Borderline Iconic",
-        "url": "https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK"
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
       },
       "artists": [
         {
-          "name": "Linn Koch-Emmery",
-          "url": "https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu"
+          "name": "Fee van Deelen",
+          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Borderline Iconic",
-      "url": "https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG"
+      "duration_ms": 223676,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
+        "name": "Borderline Iconic",
+        "url": "https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK"
       },
       "artists": [
         {
-          "name": "Fee van Deelen",
-          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
+          "name": "Linn Koch-Emmery",
+          "url": "https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu"
         }
       ],
-      "duration_ms": 223676,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
+      "duration_ms": 186500,
+      "name": "Borderline Iconic",
+      "url": "https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Waterworks",
-        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
       },
       "artists": [
         {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 128920,
-      "name": "BeReal",
-      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
+      "duration_ms": 149333,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Hey Little Love",
-        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
+        "name": "Waterworks",
+        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
       },
       "artists": [
         {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Hey Little Love",
-      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
+      "duration_ms": 128920,
+      "name": "BeReal",
+      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Blomma i city",
         "url": "https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi"
       },
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "C-60",
-        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 3600000,
-      "name": "C-60",
-      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1375,18 +1343,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Closer To You",
-        "url": "https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V"
+        "name": "Hey Little Love",
+        "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
       },
       "artists": [
         {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 153165,
-      "name": "Closer To You",
-      "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
+      "duration_ms": 158181,
+      "name": "Hey Little Love",
+      "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1403,6 +1371,38 @@
       "duration_ms": 217586,
       "name": "Big Nose",
       "url": "https://open.spotify.com/track/0Vr1b1m2v5F4NorSjUUXym"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "C-60",
+        "url": "https://open.spotify.com/album/7Jk6ZUYXFZDkmA6lMqITer"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 3600000,
+      "name": "C-60",
+      "url": "https://open.spotify.com/track/2vUYH6wKQAGjGbTCz53ojI"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "Closer To You",
+        "url": "https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 153165,
+      "name": "Closer To You",
+      "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
-        "url": "https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl"
-      },
-      "artists": [
-        {
-          "name": "ASTE",
-          "url": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
-      "url": "https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7"
-    },
-    {
-      "added_at": "2024-06-28 14:04:42",
-      "album": {
         "name": "The People",
         "url": "https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 272500,
       "name": "The People",
       "url": "https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40"
+    },
+    {
+      "added_at": "2024-06-28 14:04:42",
+      "album": {
+        "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
+        "url": "https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl"
+      },
+      "artists": [
+        {
+          "name": "ASTE",
+          "url": "https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "borde sagt hejd\u00e5 f\u00f6r ett tag sen",
+      "url": "https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/1OAgP1uxTC1rSI9bYUKFIx"
+        "name": "NOSTALGI",
+        "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
       },
       "artists": [
         {
-          "name": "Sarah von Reis",
-          "url": "https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq"
+          "name": "Ella Rammelt",
+          "url": "https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE"
         }
       ],
-      "duration_ms": 208533,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/7oDjDXzXUC9rgi5InVv7wW"
+      "duration_ms": 146292,
+      "name": "NOSTALGI",
+      "url": "https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n"
     },
     {
       "added_at": "2024-06-28 14:04:42",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-06-28 14:04:42",
       "album": {
-        "name": "NOSTALGI",
-        "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/1OAgP1uxTC1rSI9bYUKFIx"
       },
       "artists": [
         {
-          "name": "Ella Rammelt",
-          "url": "https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE"
+          "name": "Sarah von Reis",
+          "url": "https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq"
         }
       ],
-      "duration_ms": 146292,
-      "name": "NOSTALGI",
-      "url": "https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n"
+      "duration_ms": 208533,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/7oDjDXzXUC9rgi5InVv7wW"
     },
     {
       "added_at": "2024-06-28 14:04:42",

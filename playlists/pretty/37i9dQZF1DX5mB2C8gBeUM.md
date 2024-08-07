@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Yung Gravy
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,586 likes - 125 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,587 likes - 125 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

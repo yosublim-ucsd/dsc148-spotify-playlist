@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Johnny Blue Skies
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,272 likes - 151 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,306 likes - 151 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

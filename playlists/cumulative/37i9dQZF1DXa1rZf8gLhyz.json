@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A New Star",
+        "url": "https://open.spotify.com/album/7Lk70Mc8MS8QBpRmMOeD8o"
+      },
+      "artists": [
+        {
+          "name": "Trent Garner",
+          "url": "https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168080,
+      "name": "A New Star",
+      "url": "https://open.spotify.com/track/1qSE4TcDqYgwcSS5cS8SGL"
+    },
+    {
+      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH"
       },
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "At the top",
+        "url": "https://open.spotify.com/album/5kpOLehm6cxdvT6nOmRpkH"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176408,
+      "name": "At the top",
+      "url": "https://open.spotify.com/track/6IeXFwnhij8GatMQIMOPX3"
+    },
+    {
+      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 137984,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95"
@@ -2320,7 +2356,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 226893,
       "name": "Emily",
       "url": "https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc"
@@ -4217,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "If You Want",
+        "url": "https://open.spotify.com/album/2eVETiZgt1OAf1Qf9bZdXo"
+      },
+      "artists": [
+        {
+          "name": "Randall Peterson",
+          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "If You Want",
+      "url": "https://open.spotify.com/track/43kgHUcwQlpwdIHBO5QeMS"
+    },
+    {
+      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4"
       },
@@ -4822,7 +4876,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 196466,
       "name": "Just One More",
       "url": "https://open.spotify.com/track/1fE8PAFqmiYaQoMT6zfjUl"
@@ -5456,6 +5510,24 @@
       "duration_ms": 205780,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u"
+    },
+    {
+      "album": {
+        "name": "Lovely With Me",
+        "url": "https://open.spotify.com/album/660j778SWkk6567Nxy9XMd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Marchal",
+          "url": "https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Lovely With Me",
+      "url": "https://open.spotify.com/track/5Libp5Ov0uG7yBOmZkMOEX"
     },
     {
       "album": {
@@ -7695,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/34FnrbjzUSh4lJNmTANyTP"
+      },
+      "artists": [
+        {
+          "name": "Trey Patton",
+          "url": "https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194127,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0smp1YZcD0pilQEGbc3KcS"
+    },
+    {
+      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
       },
@@ -7742,7 +7832,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 125318,
       "name": "Small World",
       "url": "https://open.spotify.com/track/6kYn1i8snskAJFjpxmMjEg"
@@ -7778,7 +7868,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 280124,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep"
@@ -8282,7 +8372,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 247788,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo"
@@ -10118,7 +10208,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 157744,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"

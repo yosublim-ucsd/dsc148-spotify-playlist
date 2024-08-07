@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3973640,
+  "num_followers": 3973980,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq48fwAAAAC0ZB2huie3FUb9bqC/9X4z",
+  "snapshot_id": "ZrJlpgAAAACdxTzXuLCHngUf0BswjeLU",
   "tracks": [
     {
       "added_at": "2024-08-03 14:19:43",
@@ -561,6 +561,22 @@
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
+      "added_at": "2024-08-06 18:04:22",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
       "added_at": "2024-07-08 21:47:59",
       "album": {
         "name": "JOYRIDE",
@@ -875,22 +891,6 @@
       "duration_ms": 251466,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
-    },
-    {
-      "added_at": "2024-07-04 01:59:42",
-      "album": {
-        "name": "kompa pasi\u00f3n",
-        "url": "https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf"
-      },
-      "artists": [
-        {
-          "name": "\u0444\u0440\u043e\u0437\u0438",
-          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "kompa pasi\u00f3n",
-      "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
     },
     {
       "added_at": "2024-07-04 01:59:42",

@@ -1,13 +1,29 @@
 {
   "description": "Future hits in the Philippines! Cover: Charli xcx, Billie Eilish",
-  "num_followers": 195200,
+  "num_followers": 195247,
   "original_name": "Pop Rising Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrBupQAAAACz8GV0xOeNAZlM6qL1z5xp",
+  "snapshot_id": "ZrGeyAAAAABSaJIqINGhHvSGWBfHZEfj",
   "tracks": [
+    {
+      "added_at": "2024-08-06 03:55:52",
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "pocket locket",
+      "url": "https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz"
+    },
     {
       "added_at": "2024-08-05 06:18:12",
       "album": {

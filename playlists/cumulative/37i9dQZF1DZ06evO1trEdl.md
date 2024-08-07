@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. The essential tracks, all in one playlist.
+> This is The Three Degrees\. Todos os maiores hits em uma só playlist.
 
 108 songs - 6 hr 42 min
 
@@ -22,7 +22,7 @@
 | [Distant Lover](https://open.spotify.com/track/77IGjPxsNS0ZKBgtyrQ6mQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:04 | 2023-02-19 |  |
 | [Drivin' Me Mad](https://open.spotify.com/track/6QrAi0u4yhK1Ew1Pi303DE) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:17 | 2022-12-14 |  |
 | [Ebb Tide](https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:55 | 2022-05-25 |  |
-| [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 | 2022-12-17 | 2024-08-06 |
+| [End Titles](https://open.spotify.com/track/37TKGTuBWeMfO1Nsy9lYqA) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:17 | 2022-12-17 |  |
 | [Everybody Gets to Go to the Moon \- Live](https://open.spotify.com/track/3Uzj51MegrbwSZg9hBFfpX) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:34 | 2022-05-25 |  |
 | [Falling In Love Again](https://open.spotify.com/track/5VK5CQ38Ey5lMqUUcnIDOj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:33 | 2024-03-30 | 2024-04-11 |
 | [Find My Way \(Mono\)](https://open.spotify.com/track/6idx90MHZPYXkIyMZLHNSb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:18 | 2023-02-04 | 2024-01-05 |
@@ -41,7 +41,7 @@
 | [I Didn't Know](https://open.spotify.com/track/21Y28bL36SaVy1tRc6KATk) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 2:49 | 2022-05-25 |  |
 | [I Do Take You](https://open.spotify.com/track/0qxo60yGHQWWROmJXvcSCy) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:16 | 2022-05-25 |  |
 | [I Like Being A Woman](https://open.spotify.com/track/1J8gk2wlXNnsabMGUOutl3) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 3:57 | 2022-05-27 | 2024-07-01 |
-| [I Turn to You \- Mono Version](https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:16 | 2023-03-01 |  |
+| [I Turn to You \- Mono Version](https://open.spotify.com/track/4WNofpNcxMXpnAPzu5c6Fz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [So Much Love \(Expanded Edition\)](https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U) | 3:16 | 2023-03-01 | 2024-08-07 |
 | [I Wanna Be Your Baby](https://open.spotify.com/track/7jyu10lLeLdV1dWtFmn9Yw) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Tales Are True / I Wanna Be Your Baby](https://open.spotify.com/album/5m0vIwKgbBqhDKQ1s3yeiW) | 2:51 | 2022-05-25 | 2023-01-29 |
 | [I Won't Let You Go](https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:58 | 2022-05-25 | 2024-07-23 |
 | [I'm Doing Fine Now \- Remastered](https://open.spotify.com/track/714Qo8liCsI4E8z6T5vQ5i) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Feel Good 70s](https://open.spotify.com/album/5OlvCPGbAd7AmkdbHTkg7P) | 3:36 | 2024-03-18 | 2024-04-04 |

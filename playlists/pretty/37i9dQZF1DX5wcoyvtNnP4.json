@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 488301,
+  "num_followers": 98554,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 175671,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 139422,
       "name": "Body Talk",
       "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 175671,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
     },
     {
       "added_at": "2024-07-26 08:09:58",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-26 08:09:58",
       "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 151071,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
+    },
+    {
+      "added_at": "2024-07-26 08:09:58",
+      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1QZ1DFVR4DNchZMURegY1H"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 154083,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/2eYw2v771lwzFUQ9sSBGpK"
-    },
-    {
-      "added_at": "2024-07-26 08:09:58",
-      "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/5MLZv8FjK5u2hA0277LPGF"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 151071,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/2Olt8sKVNmJ7WBuGbPvUuy"
     },
     {
       "added_at": "2024-07-26 08:09:58",

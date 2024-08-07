@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
+  "description": "This Is Bobby Pulido. Los temas esenciales, todos en una lista.",
   "name": "This Is Bobby Pulido",
   "tracks": [
     {
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 184360,
       "name": "Las Movidas",
       "url": "https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7"
@@ -1486,6 +1486,28 @@
       "duration_ms": 303533,
       "name": "Viviras Selena",
       "url": "https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG"
+    },
+    {
+      "album": {
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
+      },
+      "artists": [
+        {
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "album": {

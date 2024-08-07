@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 185474,
       "name": "An unexpected guest",
       "url": "https://open.spotify.com/track/5DWJOyeZPXPJlIog4SLMlo"
@@ -934,7 +934,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 124238,
       "name": "Before last month",
       "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Close Enough",
+        "url": "https://open.spotify.com/album/3P3OocbqmC9jhEeUCLa3jI"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167785,
+      "name": "Close Enough",
+      "url": "https://open.spotify.com/track/58bd0hNn1LYG6jSNE9WeM6"
+    },
+    {
+      "album": {
         "name": "Come Lay beside Me",
         "url": "https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di"
       },
@@ -1748,6 +1766,24 @@
       "duration_ms": 208000,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/67iXiDkmgd5cy2Tfcowx1G"
+    },
+    {
+      "album": {
+        "name": "Curtain Raises",
+        "url": "https://open.spotify.com/album/71SLGDtV8vaOXpzYrHWs9G"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163484,
+      "name": "Curtain Raises",
+      "url": "https://open.spotify.com/track/3UBeSlW4tzZlC8lPSEZygy"
     },
     {
       "album": {
@@ -3184,7 +3220,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 212848,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5Ipp7U3NUTdLcfUknpqYd3"
@@ -3634,7 +3670,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 149985,
       "name": "I don\u2019t need that",
       "url": "https://open.spotify.com/track/1TySgL1WjmOF5fObWRozz2"
@@ -3814,7 +3850,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 245121,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/3UXUeSaBLCmwlNekfs4AQh"
@@ -5794,7 +5830,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 243759,
       "name": "Misty Mornings",
       "url": "https://open.spotify.com/track/6G3iMQqvvrsNNDb5c9Zd1u"
@@ -5960,6 +5996,24 @@
       "duration_ms": 205933,
       "name": "Morning in Paris",
       "url": "https://open.spotify.com/track/4i7ZmDrBGDncsokMtNwJ3j"
+    },
+    {
+      "album": {
+        "name": "Mornings with you",
+        "url": "https://open.spotify.com/album/0CoFx2vPWOH0TT6iKjmrgm"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195727,
+      "name": "Mornings with you",
+      "url": "https://open.spotify.com/track/6z5UwDEhYBasDlMYBFaxD3"
     },
     {
       "album": {
@@ -6755,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/0OdxyjZX4YgwO9l9Dgcmfp"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163904,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/3Af6LPYOITWxloH7eED7Y1"
+    },
+    {
+      "album": {
         "name": "One Night",
         "url": "https://open.spotify.com/album/00ApSbsUpWTsbOy1cLuI8r"
       },
@@ -6892,7 +6964,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 177257,
       "name": "Over the River",
       "url": "https://open.spotify.com/track/0kYkCUA8GvXZMPeU1SgFuu"
@@ -8368,7 +8440,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 180594,
       "name": "Spring in Chicago",
       "url": "https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH"
@@ -8782,7 +8854,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 169446,
       "name": "That Old Fashioned Moon",
       "url": "https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v"
@@ -8926,7 +8998,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 188540,
       "name": "The Last Show",
       "url": "https://open.spotify.com/track/6qqU4X4ylPPSvGr4z38bh5"
@@ -10132,7 +10204,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 271124,
       "name": "What's New",
       "url": "https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF"

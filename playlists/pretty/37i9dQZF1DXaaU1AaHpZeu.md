@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. TELESCOPIOS y Barbi Recanati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,173 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,164 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 22 | [Deseo](https://open.spotify.com/track/1D5FqjsUvv5y2AIazkQwjz) | [Antiwa](https://open.spotify.com/artist/3vrqkwvGbQ02NlkDa2gyoN) | [Sopa de Letras](https://open.spotify.com/album/2QXxTdOzydngn8QPOnYUwz) | 2:00 |
 | 23 | [Viaje de Ida](https://open.spotify.com/track/4cdKXQTfktN3PNYkIzBDSr) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Viaje de Ida](https://open.spotify.com/album/1eFEg8bxg5m4Zy5eo2Pf2E) | 2:52 |
 | 24 | [Doy Con Vos](https://open.spotify.com/track/5cCFdYbwfzE22kPJWPePR1) | [Alem](https://open.spotify.com/artist/4Y4iQxPJ1BV03LEkW3vrTS) | [Doy Con Vos](https://open.spotify.com/album/5TzB3dfvqEG6JIO6amx08o) | 3:31 |
-| 25 | [ISLAS DE PLÁSTICO](https://open.spotify.com/track/0vyfnUKA1dfwYt4snZdVJd) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [ISLAS DE PLÁSTICO \(En Vivo\)](https://open.spotify.com/album/4DSRNrYfqvQoU2Nl9mqbJg) | 2:43 |
+| 25 | [ISLAS DE PLÁSTICO \- En Vivo](https://open.spotify.com/track/0vyfnUKA1dfwYt4snZdVJd) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [ISLAS DE PLÁSTICO \- En Vivo](https://open.spotify.com/album/4DSRNrYfqvQoU2Nl9mqbJg) | 2:43 |
 | 26 | [LOCURA](https://open.spotify.com/track/1vw7Rax2aTEtnAwzfafFt3) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [LOCURA](https://open.spotify.com/album/5hteSmvhg94Hk8oiQmO2n3) | 2:57 |
 | 27 | [Aire](https://open.spotify.com/track/6EGpLKgWeAgZMZ27Ja2Huc) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH) | [Aire](https://open.spotify.com/album/11owtn9TsCN9PGcQQDirqB) | 2:23 |
 | 28 | [Quedarme en silencio](https://open.spotify.com/track/54tcHZc7vJYCtKBH8WCvjY) | [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb) | [Quedarme en silencio](https://open.spotify.com/album/2bep7tBKm7lYUWZcSw6hrF) | 2:10 |

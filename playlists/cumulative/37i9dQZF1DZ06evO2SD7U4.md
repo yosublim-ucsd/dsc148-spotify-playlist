@@ -2,7 +2,7 @@
 
 ### [This Is Botellita De Jerez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2SD7U4)
 
-> This Is Botellita De Jerez\. Sus mejores éxitos, todos en una playlist.
+> This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 13 min
 

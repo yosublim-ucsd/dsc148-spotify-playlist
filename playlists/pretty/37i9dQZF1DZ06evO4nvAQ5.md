@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,431 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,437 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love Season](https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:46 |
-| 2 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
+| 1 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
+| 2 | [Love Season](https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:46 |
 | 3 | [Sunshine Girl](https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Peetah Morgan](https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:37 |
 | 4 | [Lonely Days \(with J Boog\)](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II \(The Rebirth\)](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 |
 | 5 | [Liki Tiki \- Reggae Remix](https://open.spotify.com/track/7ffWg1aiz44kiCF6wtvypd) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Liki Tiki \(Reggae Remix\)](https://open.spotify.com/album/3vu3P7k95GmGbcihFAPNf3) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Live Your Life \(feat\. J Boog & Busy Signal\)](https://open.spotify.com/track/7yZwDw6yHx5PyHXllicStI) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:33 |
 | 50 | [Blaze It for Days \(feat\. Lion Fiyah & Gappy Ranks\)](https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Lion Fiyah](https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:07 |
 
-Snapshot ID: `Zq7EgAAAAABX/38husWBLGL9JQvb3g1/`
+Snapshot ID: `ZrAWAAAAAABtDgsczI9VlGE15ZVKTwEX`

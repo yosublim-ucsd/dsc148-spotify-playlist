@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Alex Izenberg
 
-1,008 songs - 2 day 21 hr 23 min
+1,009 songs - 2 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-07-26 | 2022-09-15 |
 | [Cross This Heart](https://open.spotify.com/track/3vQQ28Ns9LqDbOoLojbQc7) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Laco / Cross This Heart](https://open.spotify.com/album/6LIDj2QaRausIuZMxHR8dA) | 5:56 | 2023-10-25 | 2023-11-30 |
 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 | 2024-04-17 | 2024-05-16 |
+| [Crying At The End](https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Crying At The End](https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9) | 1:41 | 2024-08-06 |  |
 | [CSI: Petralona](https://open.spotify.com/track/5h6NzUXL95t9f2dLLLkUn9) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [An Inbuilt Fault](https://open.spotify.com/album/2b1PiwT8a8UT9scekQGGtG) | 4:25 | 2023-06-28 | 2023-08-03 |
 | [Cut It Like A Diamond](https://open.spotify.com/track/5eQnPdGxqHKAyeqIotY1kn) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Cut It Like A Diamond](https://open.spotify.com/album/6EC9ICAiffDaIaiIIElaAK) | 4:26 | 2024-07-17 |  |
 | [Cut Me Off](https://open.spotify.com/track/3M4cMrOmTEeC438J7CypNT) | [Oscar Browne](https://open.spotify.com/artist/4bUu22hsY40JUvqwA4dkDE) | [Cut Me Off](https://open.spotify.com/album/21qNpxsGTKklEqZnUY4hKL) | 4:20 | 2023-07-12 | 2023-08-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 491200,
+  "num_followers": 491235,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Gord's Gold",
-        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Once Upon A Star",
         "url": "https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 170360,
       "name": "Bye Bye Baby",
       "url": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Gord's Gold",
+        "url": "https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Scrapbook",
-        "url": "https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Love Will Keep Us Together",
-      "url": "https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Everybody Plays The Fool: The Best Of The Main Ingredient",
         "url": "https://open.spotify.com/album/6jsWa1n8iL7fJYfMJaWa7K"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202253,
       "name": "Everybody Plays the Fool",
       "url": "https://open.spotify.com/track/3DkqEHCCqlkknDfksHWWu0"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Scrapbook",
+        "url": "https://open.spotify.com/album/6ezk9jUCncL6Dx7fdO7JfB"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Love Will Keep Us Together",
+      "url": "https://open.spotify.com/track/10pcZvQ4QTKeHRvTUAeHVD"
     },
     {
       "added_at": "2024-06-03 14:45:23",

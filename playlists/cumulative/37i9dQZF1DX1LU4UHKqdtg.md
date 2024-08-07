@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ＆TEAM
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: xikers
 
-1,139 songs - 2 day 13 hr 28 min
+1,142 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Agust D](https://open.spotify.com/track/6AknCCsxOsrJ2mkSdCtET1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/1qHUxg0YIm6caZQrDJvDdk) | 3:54 | 2023-04-04 | 2023-08-02 |
 | [Air](https://open.spotify.com/track/0vOG7sgElxsfQyJvRs4kSG) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre4 : Air>](https://open.spotify.com/album/63TxL3GOqpzcFY4LkeNXoB) | 2:27 | 2024-05-10 | 2024-06-14 |
 | [Alcohol\-Free \(English ver.\)](https://open.spotify.com/track/6rJjT5kPYhtXkUsot7tkjI) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 3:30 | 2023-11-22 | 2024-01-19 |
-| [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 |  |
+| [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-14 | 2024-08-07 |
 | [ALIVE](https://open.spotify.com/track/2G7qOmZGufZXTrDziq5QIs) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Into The Light](https://open.spotify.com/album/6EgsISsasLUQcy0e8CbAXQ) | 3:06 | 2022-05-24 | 2022-07-21 |
 | [All About You](https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[All About You\]](https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs) | 3:38 | 2022-12-06 | 2023-02-22 |
 | [All Day](https://open.spotify.com/track/44dD5PYO7ZM6SiM8tjhawx) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [All Day](https://open.spotify.com/album/3PGMnYo3uTCroKf64s8RHm) | 2:27 | 2024-07-19 |  |
@@ -227,6 +227,7 @@
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 | 2023-09-15 |
 | [CRIMINAL LOVE](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [CRIMINAL LOVE](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) | 3:35 | 2023-07-31 | 2024-01-24 |
 | [Cruel](https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Cruel](https://open.spotify.com/album/2XVAjpwJNlbMQF5N7cGfIf) | 3:15 | 2022-07-28 | 2022-09-23 |
+| [CRUSH](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [CRUSH](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) | 3:29 | 2024-08-06 |  |
 | [Cry](https://open.spotify.com/track/786NGh40psKOdopTcri1Wj) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Cry](https://open.spotify.com/album/179ZSrlXhGB0skW5Ygyeb9) | 4:23 | 2024-06-28 | 2024-07-31 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-15 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-10 | 2023-10-07 |
@@ -706,7 +707,7 @@
 | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-06 | 2023-04-11 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-27 | 2024-04-27 |
 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 | 2024-02-07 |
-| [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 | 2024-06-04 |  |
+| [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 | 2024-06-04 | 2024-08-07 |
 | [PERFORMER](https://open.spotify.com/track/2arrxX2BubTq86E4N067WY) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [VENI VIDI VICI](https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO) | 2:53 | 2023-10-27 | 2023-11-04 |
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-17 | 2023-08-01 |
 | [Phantom](https://open.spotify.com/track/1jGfbcAuQepTZhvRT3Sy4s) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Phantom \- The 4th Mini Album](https://open.spotify.com/album/2CEDCFgac8o2GUAkXOmg1G) | 3:47 | 2022-12-27 | 2023-03-18 |
@@ -787,9 +788,10 @@
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-07-15 |  |
 | [SAME SAME DIFFERENT \- JP Ver.](https://open.spotify.com/track/0MTRZzn4wNBjBEthtffOMk) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SAME SAME DIFFERENT \(JP Ver.\)](https://open.spotify.com/album/742XumfrnmfiQ7w7oGxvjR) | 3:35 | 2022-06-10 | 2022-07-27 |
 | [Sara Sara](https://open.spotify.com/track/0aLkYYO8w7T0U2Vhb0pe2O) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Sara Sara](https://open.spotify.com/album/1Q9cks7ruxKgspE9EFroNR) | 2:57 | 2023-08-15 | 2023-10-28 |
-| [Satellite](https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Satellite](https://open.spotify.com/album/12crE710s5Iy0ebsr3qDfc) | 3:35 | 2024-06-25 |  |
+| [Satellite](https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Satellite](https://open.spotify.com/album/12crE710s5Iy0ebsr3qDfc) | 3:35 | 2024-06-25 | 2024-08-07 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-20 | 2023-08-04 |
 | [save me](https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [save me](https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI) | 3:12 | 2022-04-07 | 2022-06-22 |
+| [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-06 |  |
 | [Save me, Kill me](https://open.spotify.com/track/0Z5gF9M35PmrQooN2lDlkK) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 6th EP Album 'OK' Episode 2 : I'm OK](https://open.spotify.com/album/6z25pxVQFfJgi7ymbORA02) | 3:37 | 2023-05-30 | 2023-07-19 |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-17 | 2022-07-19 |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/5Z44QP5dcX1lBhyonY7k1u) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3dN4xXrYaQfWvLr1oCorQy) | 3:02 | 2022-07-12 | 2022-07-29 |
@@ -987,7 +989,8 @@
 | [TRIGGER](https://open.spotify.com/track/2VhmgfllXg5YGG9blUJ3YZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [TRIGGER](https://open.spotify.com/album/75MbAlPMa5vekilWtXzVGo) | 2:47 | 2022-10-13 | 2022-12-03 |
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-20 | 2024-01-26 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-29 | 2023-10-18 |
-| [Twenty](https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:08 | 2024-07-01 |  |
+| [Tsuki \(Lunatic\)](https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [Tsuki \(Lunatic\)](https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc) | 3:16 | 2024-08-06 |  |
+| [Twenty](https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:08 | 2024-07-01 | 2024-08-07 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-09 | 2023-03-15 |
 | [U](https://open.spotify.com/track/0Qk13Xgp0glz8I875TuJRl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/3xHLRJDP7M05Gnt4VE1TwT) | 2:46 | 2022-03-29 | 2022-06-29 |
 | [U&Iverse](https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [U&Iverse](https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo) | 3:24 | 2022-07-22 | 2022-09-21 |
@@ -1083,7 +1086,7 @@
 | [Wonderful Day](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [Wondering](https://open.spotify.com/track/3QsWvo8g0fx8ap9gkP39Kh) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Wondering](https://open.spotify.com/album/6vDL2lO3D29KvIuTSMZGlt) | 3:30 | 2022-03-22 | 2022-05-11 |
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-05-31 |  |
-| [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/4AD5ip6CEgfBEkPMO1WCP9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5N4PH17Brh7JqJA0vvg76R) | 3:00 | 2024-06-05 |  |
+| [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/4AD5ip6CEgfBEkPMO1WCP9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5N4PH17Brh7JqJA0vvg76R) | 3:00 | 2024-06-05 | 2024-08-07 |
 | [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 | 2024-05-21 | 2024-06-01 |
 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 | 2024-07-12 |  |
 | [XOXO](https://open.spotify.com/track/2ZMkjvuOQOD9HLplTDjbTA) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 3:27 | 2021-12-23 | 2022-01-19 |

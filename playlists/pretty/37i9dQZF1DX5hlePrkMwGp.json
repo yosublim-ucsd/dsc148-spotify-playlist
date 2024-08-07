@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 134903,
+  "num_followers": 134957,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -197,6 +197,30 @@
       "url": "https://open.spotify.com/track/6sPW145Y3LSXd4p1LjBOcS"
     },
     {
+      "added_at": "2024-08-05 15:56:01",
+      "album": {
+        "name": "Paththavaikkum (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 222165,
+      "name": "Paththavaikkum (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
+    },
+    {
       "added_at": "2021-08-02 09:30:31",
       "album": {
         "name": "Kaaki Sattai (Original Motion Picture Soundtrack)",
@@ -227,30 +251,6 @@
       "duration_ms": 243772,
       "name": "Gaandakannazhagi",
       "url": "https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7"
-    },
-    {
-      "added_at": "2024-08-05 15:56:01",
-      "album": {
-        "name": "Paththavaikkum (From \"Devara Part 1\")",
-        "url": "https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB"
-      },
-      "artists": [
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 222165,
-      "name": "Paththavaikkum (From \"Devara Part 1\")",
-      "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
     },
     {
       "added_at": "2024-06-27 03:52:29",
@@ -459,26 +459,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Chellamma (From \"Doctor\")",
-        "url": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Chellamma (From \"Doctor\")",
-      "url": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Maari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 195709,
       "name": "Don'u Don'u Don'u - The Don's Romance",
       "url": "https://open.spotify.com/track/2kbxGCtWSV0f1ON720Bd4O"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Chellamma (From \"Doctor\")",
+        "url": "https://open.spotify.com/album/0ajbKuAGjGt7VBJeKpYyu8"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Chellamma (From \"Doctor\")",
+      "url": "https://open.spotify.com/track/0fGclndst25Qqy8j4u5De5"
     },
     {
       "added_at": "2021-08-02 09:30:31",

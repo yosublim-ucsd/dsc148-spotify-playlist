@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-153 songs - 10 hr 25 min
+154 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [てんけてんけてん](https://open.spotify.com/track/4KBtZxEMmb5VIdhrY2xY99) | [DJ Ichiro Yatsui](https://open.spotify.com/artist/1HbQFEIRSmSyGpt30bmX74) | [てんけてんけてん](https://open.spotify.com/album/5RzOUNQfkxR5JUhrkkQZQO) | 5:13 | 2022-03-08 |  |
 | [となりのバナナ\(ひまわり組\)](https://open.spotify.com/track/1TfTaYHLN8znTDlhcCzQ6K) | [AKB48](https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg) | [AKB48 ひまわり組 2nd stage 「夢を死なせるわけにいかない」 ～studio recordings コレクション～](https://open.spotify.com/album/7eTgH1IvY1IyvJ5lS7BGpd) | 3:51 | 2022-03-08 |  |
 | [どどどどどりーまー](https://open.spotify.com/track/4gb4EnBnCV6JJzv7PLjZS6) | [Tokimeki Sendenbu](https://open.spotify.com/artist/2lqUcuIdIv7Qyuw19ukFKP) | [どどどどどりーまー](https://open.spotify.com/album/0GRwTRbjuclectAUk0Jh6o) | 4:11 | 2022-03-08 |  |
+| [どーぱみんみん　あどれなりんりん](https://open.spotify.com/track/3aVwZ4dsAZPguBwi5oDt8e) | [THE SUPER FRUIT](https://open.spotify.com/artist/3I0DG4uOeYNPq5MCyHPPer) | [どーぱみんみん　あどれなりんりん](https://open.spotify.com/album/2JWpVazr3ePHr5MSmIO223) | 3:50 | 2024-08-06 |  |
 | [なめこんぷりけ](https://open.spotify.com/track/53WoLSb0SZoLLo6njG9SCV) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [なめこのCD](https://open.spotify.com/album/0gxvXUJzINAiHpctlySR7T) | 3:17 | 2022-03-08 |  |
 | [はすっぱ](https://open.spotify.com/track/7cX1R3VUSnX2rPIBNSY2kb) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [万謡集](https://open.spotify.com/album/2iFMzTeny0SdTHzj0oJKD6) | 4:58 | 2022-03-08 |  |
 | [ぼくらのfrai awei](https://open.spotify.com/track/3tRsqyKXjvdJxFNLOB0D3t) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [ぼくらのfrai awei](https://open.spotify.com/album/3XPDxuGbwfNmkznwPpmSSg) | 4:23 | 2022-03-08 |  |

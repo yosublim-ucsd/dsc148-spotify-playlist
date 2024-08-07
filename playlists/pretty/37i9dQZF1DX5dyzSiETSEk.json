@@ -1,15 +1,31 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 586716,
+  "num_followers": 586712,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpCqQAAAAADi7ihkXH2stiKL5JZVwaEH",
+  "snapshot_id": "ZrJ9swAAAABUMggZzY4fFp26H7v092jg",
   "tracks": [
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 154822,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Love In The Future (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Double Life (From \"Despicable Me 4\")",
         "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Youngblood (Deluxe)",
         "url": "https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Black Star Elephant",
         "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "this is what falling in love feels like (554Hz)",
         "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "The Midsummer Station",
         "url": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "More Than Just a Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Better When I'm Dancin'",
         "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
@@ -577,7 +577,27 @@
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Descendants: The Rise of Red (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
+      },
+      "artists": [
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 218723,
+      "name": "Life Is Sweeter",
+      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -617,27 +637,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Descendants: The Rise of Red (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
-      },
-      "artists": [
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 218723,
-      "name": "Life Is Sweeter",
-      "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
@@ -673,23 +673,7 @@
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257840,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
@@ -705,7 +689,23 @@
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257840,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "7 EP",
         "url": "https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Rather Be (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
@@ -829,27 +829,7 @@
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Santino Fontana",
-          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
-        }
-      ],
-      "duration_ms": 124733,
-      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Descendants 2 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI"
@@ -877,7 +857,27 @@
       "url": "https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        }
+      ],
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
@@ -909,23 +909,7 @@
       "url": "https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
@@ -945,7 +929,23 @@
       "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
@@ -981,23 +981,7 @@
       "url": "https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Better Place (From TROLLS Band Together)",
         "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
@@ -1017,7 +1001,23 @@
       "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
@@ -1033,7 +1033,7 @@
       "url": "https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
@@ -1049,7 +1049,23 @@
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
@@ -1069,23 +1085,7 @@
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Kung Fu Panda 4 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
@@ -1165,23 +1165,7 @@
       "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
@@ -1221,7 +1205,23 @@
       "url": "https://open.spotify.com/track/1RIYF8NDIIWBvJe4vhQr6y"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "High School Musical",
         "url": "https://open.spotify.com/album/4dOvFkIgrb6b9zCcGfCcci"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/0cqNGWvuukhCiKvEX7utys"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
@@ -1337,7 +1337,7 @@
       "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
@@ -1353,7 +1353,7 @@
       "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
@@ -1369,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "TALKING IS HARD (Expanded Edition)",
         "url": "https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy"
@@ -1385,7 +1385,7 @@
       "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-06 19:46:59",
       "album": {
         "name": "Summer Feelings (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"

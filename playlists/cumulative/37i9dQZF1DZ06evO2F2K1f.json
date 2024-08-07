@@ -662,7 +662,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 49560,
       "name": "Dave Allen at Large",
       "url": "https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE"
@@ -1594,6 +1594,24 @@
       "duration_ms": 226866,
       "name": "Neck And Neck",
       "url": "https://open.spotify.com/track/05146j3iazNxLQNF5b6lCH"
+    },
+    {
+      "album": {
+        "name": "Serious Business",
+        "url": "https://open.spotify.com/album/4HQlBN7s7dLNnhkgqwxfGI"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106893,
+      "name": "News Gathering",
+      "url": "https://open.spotify.com/track/3n5NMageflaCFoNpCtqxmW"
     },
     {
       "album": {

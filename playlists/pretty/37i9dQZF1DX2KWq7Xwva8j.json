@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Luis Cort\u00e9s",
-  "num_followers": 26875,
+  "num_followers": 26881,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/6MtdNWXRI8bYzFq4UX4GSg"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 192427,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/6AS6lW8vAo27DGEcbRT2Oj"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Duerme",
         "url": "https://open.spotify.com/album/2lh6z9MX5BEJ7dRHuvo5Rh"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 157000,
       "name": "Duerme",
       "url": "https://open.spotify.com/track/3nJxOzRqFnsknEP9O07cUX"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/6MtdNWXRI8bYzFq4UX4GSg"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 192427,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/6AS6lW8vAo27DGEcbRT2Oj"
     },
     {
       "added_at": "2024-07-18 22:00:00",

@@ -2563,6 +2563,24 @@
     },
     {
       "album": {
+        "name": "Attempted Lover",
+        "url": "https://open.spotify.com/album/1PtRIyLbXFu9B06kuKuve0"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Mulholland Drive",
+      "url": "https://open.spotify.com/track/1YQLuXSz5w8DIBmqoCwNsd"
+    },
+    {
+      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b"
       },

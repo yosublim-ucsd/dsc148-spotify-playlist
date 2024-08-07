@@ -2,7 +2,7 @@
 
 ### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This is George Michael\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is George Michael\. The essential tracks, all in one playlist.
 
 66 songs - 5 hr 19 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UtLWLELyQKG\_jVaQ4zSHfg">Billie Eilish</a> & <a href="https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5?si=\_p8Q0F2QSWuKunrlTkMg3Q">Charli xcx</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,973 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

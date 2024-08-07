@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of hip\-hop tracks from South Asia\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,088 likes - 86 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,163 likes - 86 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

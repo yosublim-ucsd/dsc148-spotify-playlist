@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
-  "num_followers": 141449,
+  "num_followers": 141535,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -795,30 +795,6 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
-        "name": "Taurus, Vol. 2",
-        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 127602,
-      "name": "Milion\u00e1rio e Jos\u00e9 Rico",
-      "url": "https://open.spotify.com/track/0VtURljcxQxeuCmeVZ6bsx"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
         "name": "Unique",
         "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 183414,
       "name": "Hostil",
       "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 127602,
+      "name": "Milion\u00e1rio e Jos\u00e9 Rico",
+      "url": "https://open.spotify.com/track/0VtURljcxQxeuCmeVZ6bsx"
     },
     {
       "added_at": "2024-07-26 03:03:00",

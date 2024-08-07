@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 168141,
+  "num_followers": 168163,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABfPFkk1G6l2hX88nyO01Zu",
+  "snapshot_id": "ZrAWAAAAAAAwrdAMhghyttspWbXXjHeZ",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "All Guns Blazing",
-      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Point Of Entry",
         "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 274866,
       "name": "Desert Plains",
       "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "All Guns Blazing",
+      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crown of Horns",
-        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 345760,
-      "name": "Crown of Horns",
-      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin After Sin",
         "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 203533,
       "name": "Diamonds and Rust",
       "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crown of Horns",
+        "url": "https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 345760,
+      "name": "Crown of Horns",
+      "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
     },
     {
       "added_at": null,

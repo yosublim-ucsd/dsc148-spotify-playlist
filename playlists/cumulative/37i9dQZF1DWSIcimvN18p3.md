@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Jensen McRae
 
-417 songs - 1 day 1 hr 27 min
+418 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Freight train](https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:46 | 2021-03-05 |  |
 | [From Me To You](https://open.spotify.com/track/6h57O3JjjlkEvoC4PQTdvd) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between The Lines](https://open.spotify.com/album/0bRlXo4f7P0gF30G3RACTN) | 3:17 | 2021-03-05 | 2022-07-29 |
 | [Game To Lose](https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:45 | 2021-03-05 |  |
-| [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-03-05 |  |
+| [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 | 2021-03-05 | 2024-08-07 |
 | [Gold Hills](https://open.spotify.com/track/2rBp6v1PkDP2GWg625RrCz) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Ar Uair Bhig An Lae \- The Small Hours](https://open.spotify.com/album/7MuIL1yaYFof17gjVzPr8T) | 3:51 | 2021-03-05 | 2022-07-27 |
 | [Good Fight](https://open.spotify.com/track/7GjuCYAw1uU2cWC3NnB42q) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Good Fight](https://open.spotify.com/album/5pVjHc7xmTOz0jmSAz6Auh) | 3:18 | 2021-03-05 | 2022-07-29 |
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-03-05 |  |
@@ -353,6 +353,7 @@
 | [The Dress](https://open.spotify.com/track/1BIEyC1UZOytwNgGv3X8Pg) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Dress](https://open.spotify.com/album/6t3pkOQcHUDJvQtpEgZJhc) | 3:00 | 2021-03-05 | 2022-03-09 |
 | [The Expert](https://open.spotify.com/track/2kfzVzDVqCBXjI3iohwdtg) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 3:33 | 2021-03-05 | 2022-06-25 |
 | [The Good Song](https://open.spotify.com/track/2SlxqvDsBSDd7iz3aEOEzi) | [Alessi's Ark](https://open.spotify.com/artist/6XfS2HuVcetcK1aN5QufKg) | [The Still Life](https://open.spotify.com/album/65HqI2CNr0Sg2FUMAyy6YV) | 1:28 | 2021-03-05 | 2022-02-16 |
+| [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 | 2024-07-05 |  |
 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 | 2021-03-05 |  |
 | [The One I Love Is Gone](https://open.spotify.com/track/1MPf9bmnd9DL1WEwgdD0Fn) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [No Depression: What It Sounds Like Vol\. 2](https://open.spotify.com/album/1Suv2gWJKTCR3NQZfzXrC2) | 3:13 | 2021-03-05 | 2022-07-29 |
 | [The Soft Apocalypse](https://open.spotify.com/track/5hDtB04aMDSqO0OCdFY51H) | [Emma Swift](https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R) | [The Soft Apocalypse](https://open.spotify.com/album/0SYvFOVMBtHvhAWUSjKapm) | 4:31 | 2021-03-05 | 2022-02-19 |

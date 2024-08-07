@@ -15277,6 +15277,28 @@
     },
     {
       "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u4e43\u30ea\u30ea\u30b5(CV: \u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz"
+        },
+        {
+          "name": "\u6a58 \u7f8e\u82b1\u8389(CV: \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x"
+    },
+    {
+      "album": {
         "name": "Water Carrier",
         "url": "https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav"
       },
@@ -22440,7 +22462,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 224517,
       "name": "\u4e3b\u4eba\u516c\u306b\u306a\u308b\u7269\u8a9e",
       "url": "https://open.spotify.com/track/6McneonVvucRzApcKpuUNV"

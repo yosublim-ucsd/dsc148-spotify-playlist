@@ -1,35 +1,123 @@
 {
   "description": "Le son des chichas !",
-  "num_followers": 382046,
+  "num_followers": 382135,
   "original_name": "Chicha Royale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrDOywAAAAC6AjCtSVC9n3/FCdzEuSUA",
+  "snapshot_id": "ZrJVrQAAAABiHj+w69QDpzsbvrPy3BE6",
   "tracks": [
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
-        "name": "Saiyan",
-        "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
+        "name": "Piranha (feat. Vacra)",
+        "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
       },
       "artists": [
         {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+          "name": "Nahir",
+          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
         },
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 189829,
-      "name": "Saiyan",
-      "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
+      "duration_ms": 155878,
+      "name": "Piranha (feat. Vacra)",
+      "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Seya",
+        "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
+      },
+      "artists": [
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 188484,
+      "name": "Seya",
+      "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "FADE UP",
+        "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 219187,
+      "name": "FADE UP",
+      "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Dans les yeux",
+        "url": "https://open.spotify.com/album/7Fr1UbMBBjPBYOOy7NQmkl"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "Sheitana (feat. Ninho)",
+      "url": "https://open.spotify.com/track/1GOIfWQmA3Tp6GlwcCd35K"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Balader",
+      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Bande organis\u00e9e",
         "url": "https://open.spotify.com/album/3FrSGEYwEQS2Qx9nPt5WUs"
@@ -77,231 +165,27 @@
       "url": "https://open.spotify.com/track/205HNJ73cgpC0LAOnuQiWT"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
-        "name": "Destin",
-        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
+        "name": "Saiyan",
+        "url": "https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Putana",
-      "url": "https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "A-One",
-        "url": "https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "M\u00e9dusa",
-      "url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Seya",
-        "url": "https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw"
-      },
-      "artists": [
-        {
-          "name": "SativaMusic",
-          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 188484,
-      "name": "Seya",
-      "url": "https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "FADE UP",
-        "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
-      },
-      "artists": [
-        {
-          "name": "ZEG P",
-          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 219187,
-      "name": "FADE UP",
-      "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Filtr\u00e9",
-        "url": "https://open.spotify.com/album/058Om1A7CKYMg5dEGU4dZH"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
         },
         {
           "name": "Gazo",
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 168877,
-      "name": "Filtr\u00e9",
-      "url": "https://open.spotify.com/track/58PwCUkHNkODqp2tCehNSP"
+      "duration_ms": 189829,
+      "name": "Saiyan",
+      "url": "https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Dans les yeux",
-        "url": "https://open.spotify.com/album/7Fr1UbMBBjPBYOOy7NQmkl"
-      },
-      "artists": [
-        {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "Sheitana (feat. Ninho)",
-      "url": "https://open.spotify.com/track/1GOIfWQmA3Tp6GlwcCd35K"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Extraterrestre",
-        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 189866,
-      "name": "J'ai tout su",
-      "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Enfant2LaRue Vol.1",
-        "url": "https://open.spotify.com/album/04m3RIehWDX3a2xBHzHIqF"
-      },
-      "artists": [
-        {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "J'picole",
-      "url": "https://open.spotify.com/track/3DIYanBth8SOpko0IIB5CD"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "2069'",
-        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Nouvelles",
-      "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Piranha (feat. Vacra)",
-        "url": "https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK"
-      },
-      "artists": [
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "Piranha (feat. Vacra)",
-      "url": "https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Ategban",
-        "url": "https://open.spotify.com/album/3mYubnzYXs2bgV5cd9Ajyn"
-      },
-      "artists": [
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "Elle est bonne sa m\u00e8re",
-      "url": "https://open.spotify.com/track/7j56bK7gq6iV7zsD6lbP4J"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Dans la l\u00e9gende",
-        "url": "https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE"
-      },
-      "artists": [
-        {
-          "name": "PNL",
-          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Ben\u00e9",
-      "url": "https://open.spotify.com/track/00X2yv2vrtritPt2CZnUTZ"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Day One",
         "url": "https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L"
@@ -321,23 +205,7 @@
       "url": "https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Autobahn",
-        "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Autobahn",
-      "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
@@ -357,27 +225,79 @@
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
-        "name": "Avec le temps",
-        "url": "https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8"
+        "name": "Ategban",
+        "url": "https://open.spotify.com/album/3mYubnzYXs2bgV5cd9Ajyn"
       },
       "artists": [
         {
-          "name": "Soso Maness",
-          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
         },
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 189933,
-      "name": "Petrouchka (feat. PLK)",
-      "url": "https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E"
+      "duration_ms": 196880,
+      "name": "Elle est bonne sa m\u00e8re",
+      "url": "https://open.spotify.com/track/7j56bK7gq6iV7zsD6lbP4J"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Enfant2LaRue Vol.1",
+        "url": "https://open.spotify.com/album/04m3RIehWDX3a2xBHzHIqF"
+      },
+      "artists": [
+        {
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "J'picole",
+      "url": "https://open.spotify.com/track/3DIYanBth8SOpko0IIB5CD"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Filtr\u00e9",
+        "url": "https://open.spotify.com/album/058Om1A7CKYMg5dEGU4dZH"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 168877,
+      "name": "Filtr\u00e9",
+      "url": "https://open.spotify.com/track/58PwCUkHNkODqp2tCehNSP"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "TRAFICANTE",
         "url": "https://open.spotify.com/album/0nPeXkFd5aPLew3VihbbQm"
@@ -393,7 +313,127 @@
       "url": "https://open.spotify.com/track/2nawMfIkbAc4okrbJ2Of5W"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Destin",
+        "url": "https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Putana",
+      "url": "https://open.spotify.com/track/5oePa8PlOTPAlRaGs2OZ3A"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "2069'",
+        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Nouvelles",
+      "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Extraterrestre",
+        "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "J'ai tout su",
+      "url": "https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "A-One",
+        "url": "https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "M\u00e9dusa",
+      "url": "https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Le monde est m\u00e9chant",
+        "url": "https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Jota",
+      "url": "https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "TDB",
+        "url": "https://open.spotify.com/album/0kdOCmgb1ZikkxZvVmiED3"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 154280,
+      "name": "TDB",
+      "url": "https://open.spotify.com/track/27Z3UdqvdAhtJlWBMoDjBD"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Tu le sais",
         "url": "https://open.spotify.com/album/6cPtIMxznYVT2LUH49rd5z"
@@ -413,7 +453,23 @@
       "url": "https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Dans la l\u00e9gende",
+        "url": "https://open.spotify.com/album/5GFHFEASZeJF0gyWuDDjGE"
+      },
+      "artists": [
+        {
+          "name": "PNL",
+          "url": "https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Ben\u00e9",
+      "url": "https://open.spotify.com/track/00X2yv2vrtritPt2CZnUTZ"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -433,27 +489,27 @@
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+        "name": "Olala (feat. Naza)",
+        "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
         },
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 176120,
-      "name": "Balader",
-      "url": "https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S"
+      "duration_ms": 171000,
+      "name": "Olala (feat. Naza)",
+      "url": "https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Enna",
         "url": "https://open.spotify.com/album/0IBVzjJxYn6o69T4FfXMLi"
@@ -473,23 +529,7 @@
       "url": "https://open.spotify.com/track/12GV2Wr4p1hBWQCrQcVsew"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "TDB",
-        "url": "https://open.spotify.com/album/0kdOCmgb1ZikkxZvVmiED3"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 154280,
-      "name": "TDB",
-      "url": "https://open.spotify.com/track/27Z3UdqvdAhtJlWBMoDjBD"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
@@ -509,39 +549,7 @@
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "Alicante",
-        "url": "https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw"
-      },
-      "artists": [
-        {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Alicante",
-      "url": "https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "BONKASA",
-        "url": "https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "BONKASA",
-      "url": "https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "ShegueyVara 2",
         "url": "https://open.spotify.com/album/0bnoOeocONcD9vlfua3HSE"
@@ -557,7 +565,39 @@
       "url": "https://open.spotify.com/track/4zCPOJ8FSnZRRwt9olAoke"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Alicante",
+        "url": "https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Alicante",
+      "url": "https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "BONKASA",
+        "url": "https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "BONKASA",
+      "url": "https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "1,2,3 Soleil",
         "url": "https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw"
@@ -581,7 +621,7 @@
       "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Nocif",
         "url": "https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy"
@@ -601,23 +641,27 @@
       "url": "https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+        "name": "Avec le temps",
+        "url": "https://open.spotify.com/album/5TE2SiYrwOUejoaU26rcs8"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Soso Maness",
+          "url": "https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         }
       ],
-      "duration_ms": 162373,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+      "duration_ms": 189933,
+      "name": "Petrouchka (feat. PLK)",
+      "url": "https://open.spotify.com/track/03y045SZqaC94yfXl1cU4E"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "On ira o\u00f9 ?",
         "url": "https://open.spotify.com/album/3fUfQjOcEGe7vvnPA29GBh"
@@ -633,7 +677,23 @@
       "url": "https://open.spotify.com/track/6P3FBaZfUjeWYExU2ShaPZ"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Pr\u00e9mices",
         "url": "https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ"
@@ -653,7 +713,7 @@
       "url": "https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Joli b\u00e9b\u00e9",
         "url": "https://open.spotify.com/album/5chNwCslLpT6N0wPBY5rNx"
@@ -673,7 +733,7 @@
       "url": "https://open.spotify.com/track/6ARJHbYGKNatxHVghTkWWp"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Confidences",
         "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
@@ -693,7 +753,7 @@
       "url": "https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Trucs de choses",
         "url": "https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm"
@@ -713,7 +773,7 @@
       "url": "https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ"
     },
     {
-      "added_at": "2024-07-12 11:41:47",
+      "added_at": "2024-08-06 16:56:13",
       "album": {
         "name": "Drapeau Blanc",
         "url": "https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu"
@@ -731,22 +791,6 @@
       "duration_ms": 176853,
       "name": "RS5",
       "url": "https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr"
-    },
-    {
-      "added_at": "2024-07-12 11:41:47",
-      "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        }
-      ],
-      "duration_ms": 134440,
-      "name": "VIBES",
-      "url": "https://open.spotify.com/track/6Xp82kv8pd7GVvpjYdgMdx"
     }
   ],
   "unique_name": "Chicha Royale",

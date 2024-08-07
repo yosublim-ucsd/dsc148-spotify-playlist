@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,499 songs - 3 day 10 hr 24 min
+1,500 songs - 3 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Capable](https://open.spotify.com/track/4zF7wq0oaptF2PfNmIWE36) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Capable](https://open.spotify.com/album/2FsNO7olIDUZaivgPx2ENj) | 3:26 | 2021-08-09 | 2021-10-04 |
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-12 | 2024-02-16 |
 | [Carretera](https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Carretera](https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa) | 2:47 | 2022-11-26 | 2022-11-28 |
-| [Carrousel](https://open.spotify.com/track/3VoiH20aQU7IbbgVidWE5P) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Enesse](https://open.spotify.com/artist/2QTqRHL8uDkArhkDvnKJFu) | [Carrousel](https://open.spotify.com/album/3cORauk7yyxgzT1ekgAcdJ) | 2:36 | 2024-04-21 |  |
+| [Carrousel](https://open.spotify.com/track/3VoiH20aQU7IbbgVidWE5P) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Enesse](https://open.spotify.com/artist/2QTqRHL8uDkArhkDvnKJFu) | [Carrousel](https://open.spotify.com/album/3cORauk7yyxgzT1ekgAcdJ) | 2:36 | 2024-04-21 | 2024-08-07 |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2021-04-06 | 2022-01-30 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-06-12 |
 | [Casablanca](https://open.spotify.com/track/1ThaPy4W188i5SFdjXl64J) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Mots croisés](https://open.spotify.com/album/7MKGYeEG0mGVL39JcNywKK) | 3:13 | 2022-05-07 | 2023-04-30 |
@@ -970,6 +970,7 @@
 | [No Estuviste En Lo Malo](https://open.spotify.com/track/3hQARI8XG01UawaCalyfjK) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:07 | 2023-05-13 | 2023-05-15 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-08 |
 | [No Life](https://open.spotify.com/track/0iPf1xVxV7rlbG4wn3ANFa) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:57 | 2021-12-05 | 2021-12-07 |
+| [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-08-06 |  |
 | [No Love](https://open.spotify.com/track/75EsRQtLXd1p3sZnCqYGtj) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 | 2024-06-25 | 2024-07-21 |
 | [NO MERCY](https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 4:19 | 2022-08-13 | 2022-10-09 |
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-02-28 | 2022-03-02 |

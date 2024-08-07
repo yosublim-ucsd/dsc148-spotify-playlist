@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 | 2023-03-22 |
+| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 |  |
 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 | 2024-02-09 |  |
 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 | 2023-03-24 |  |
 | [3am](https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [3am](https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM) | 2:56 | 2021-10-11 | 2022-04-20 |
@@ -92,7 +92,7 @@
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-09-29 | 2023-10-10 |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2022-07-06 | 2023-10-26 |
 | [Delicadeza](https://open.spotify.com/track/67RdRmkIRxl3iShk1hknwo) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Delicadeza](https://open.spotify.com/album/6irEnIp0EJnBsUE97CFa2u) | 2:58 | 2020-09-19 | 2022-07-03 |
-| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 |  |
+| [Detox](https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Detox](https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI) | 4:33 | 2022-02-24 | 2024-08-07 |
 | [Devil's Rain](https://open.spotify.com/track/18XFAgtkhDxKv1cpnr2C3w) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Devil's Rain](https://open.spotify.com/album/1BpmnOSr7soKNqnN3XQJqy) | 4:07 | 2021-02-26 | 2022-07-28 |
 | [Diamond Brand](https://open.spotify.com/track/5tOH5FgEC8CS2ukdSwwy93) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv), [David Alonso](https://open.spotify.com/artist/4UsGLneQCLnB5pdD9SgU8H) | [Diamond Brand](https://open.spotify.com/album/7DKw9lpME0EYfvuyW2gfST) | 3:02 | 2021-03-06 | 2022-07-26 |
 | [Digital Parallax](https://open.spotify.com/track/50G0Mc9N7C93qohJgraZbI) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Digital Parallax](https://open.spotify.com/album/1NavqWb4CWBpAkrEv99AFM) | 3:08 | 2022-02-24 | 2022-09-03 |

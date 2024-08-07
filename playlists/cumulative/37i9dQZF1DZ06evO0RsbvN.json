@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
+  "description": "This is Ma Rainey. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Ma Rainey",
   "tracks": [
     {
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 165720,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/3E5UIXFsJUO8M73il3du5S"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 167093,
       "name": "Lawd Send Me a Man Blues",
       "url": "https://open.spotify.com/track/59qNYlvIKsqEbt9yWXTN2K"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 180610,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 157733,
       "name": "Mountain Jack Blues",
       "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 167471,
       "name": "Traveling Blues",
       "url": "https://open.spotify.com/track/4Pcxzk9sLRQ6gAd6RuTV3t"

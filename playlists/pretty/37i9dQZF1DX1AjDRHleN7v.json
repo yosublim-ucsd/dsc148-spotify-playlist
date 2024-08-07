@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 319543,
+  "num_followers": 319605,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
+        "name": "15 Anos (Ao vivo)",
+        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
+      },
+      "artists": [
+        {
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
+      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "15 Anos (Ao vivo)",
-        "url": "https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L"
-      },
-      "artists": [
-        {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        }
-      ],
-      "duration_ms": 209226,
-      "name": "Uma onda que passou (E eu n\u00e3o dropei) - Ao vivo",
-      "url": "https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "O Amor Venceu",
-        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
-      },
-      "artists": [
-        {
-          "name": "Luc DubWise",
-          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
-        }
-      ],
-      "duration_ms": 187884,
-      "name": "O Amor Venceu",
-      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Flying High",
         "url": "https://open.spotify.com/album/75aD61Mdn46by45roKljUL"
       },
@@ -1015,34 +999,18 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+        "name": "O Amor Venceu",
+        "url": "https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl"
       },
       "artists": [
         {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+          "name": "Luc DubWise",
+          "url": "https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU"
         }
       ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "Se Joga",
-        "url": "https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 173269,
-      "name": "Se Joga",
-      "url": "https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS"
+      "duration_ms": 187884,
+      "name": "O Amor Venceu",
+      "url": "https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -1059,6 +1027,38 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+      },
+      "artists": [
+        {
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     }
   ],
   "unique_name": "Praiana",

@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 119826,
+  "num_followers": 119867,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Soy El Mas Sensual - Renato Classics",
-        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
-      },
-      "artists": [
-        {
-          "name": "Renato",
-          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Soy El Mas Sensual",
-      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Los Homerun-es",
         "url": "https://open.spotify.com/album/7uIGxnb0Th4Av0R5oui7A0"
       },
@@ -475,18 +459,38 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Playero 38 Special Edition",
-        "url": "https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha"
+        "name": "Soy El Mas Sensual - Renato Classics",
+        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
       },
       "artists": [
         {
-          "name": "Grupo Nizze",
-          "url": "https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm"
+          "name": "Renato",
+          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Puerto Rico Todos Quieren Fumar",
-      "url": "https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp"
+      "duration_ms": 210240,
+      "name": "Soy El Mas Sensual",
+      "url": "https://open.spotify.com/track/682nWbALzgmrOYovxI0Me1"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -527,22 +531,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+        "name": "Playero 38 Special Edition",
+        "url": "https://open.spotify.com/album/6gxcZ8M7Hpr5addTNfTqha"
       },
       "artists": [
         {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+          "name": "Grupo Nizze",
+          "url": "https://open.spotify.com/artist/3oD8OgngJolwwsVom3d1vm"
         }
       ],
-      "duration_ms": 190693,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/4NQg9QGJbJFRW7HjAsYu0z"
+      "duration_ms": 141200,
+      "name": "Puerto Rico Todos Quieren Fumar",
+      "url": "https://open.spotify.com/track/1g16JY82gekUlNhmFzhvbp"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Wassa Banga",
+          "url": "https://open.spotify.com/artist/3TWyInhPb6Ai7SCUK4zo5X"
+        }
+      ],
+      "duration_ms": 84192,
+      "name": "Quieren Chorizo",
+      "url": "https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "Ragga Heros, Vol. 1",
         "url": "https://open.spotify.com/album/3XaS7Nc8sf2l3TzWnSFng1"
       },
@@ -643,22 +663,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Mi Trayectoria",
-        "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
-      },
-      "artists": [
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Tra, Tra",
-      "url": "https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Fuera de lo Comun",
         "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
       },
@@ -671,6 +675,22 @@
       "duration_ms": 229160,
       "name": "Chin A Chin",
       "url": "https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
+      },
+      "artists": [
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Tra, Tra",
+      "url": "https://open.spotify.com/track/2xYB15HL6IjFSXnNTFyCLb"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -691,26 +711,6 @@
       "duration_ms": 166960,
       "name": "Sabanas Blancas",
       "url": "https://open.spotify.com/track/5KF17ePUmiBbS6IEKu5gQL"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Wassa Banga",
-          "url": "https://open.spotify.com/artist/3TWyInhPb6Ai7SCUK4zo5X"
-        }
-      ],
-      "duration_ms": 84192,
-      "name": "Quieren Chorizo",
-      "url": "https://open.spotify.com/track/25kTE35NF5YD9kR1J639Pd"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -743,6 +743,26 @@
       "duration_ms": 166440,
       "name": "Encendio",
       "url": "https://open.spotify.com/track/4vxPk9bmTGfkNE8wV5annp"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Jimmy Bad Boy",
+          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
+        }
+      ],
+      "duration_ms": 190589,
+      "name": "Luna y Estrellas",
+      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -811,22 +831,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Soy El Mas Sensual - Renato Classics",
-        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
-      },
-      "artists": [
-        {
-          "name": "Renato",
-          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "La Chica de los Ojos Cafe",
-      "url": "https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
       },
@@ -839,6 +843,42 @@
       "duration_ms": 275973,
       "name": "Las Pistolas Seguiran",
       "url": "https://open.spotify.com/track/6q1B6jMBv0Q5T7AnVFmQS2"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "A Mover el Culo Con el Chombo",
+        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Barbero 507",
+          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
+        }
+      ],
+      "duration_ms": 137613,
+      "name": "A Mover el Culo",
+      "url": "https://open.spotify.com/track/4OWxMVxaovn4jM8VvGUwHe"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Soy El Mas Sensual - Renato Classics",
+        "url": "https://open.spotify.com/album/4MfqddoCTSJHreuI2Fd57Q"
+      },
+      "artists": [
+        {
+          "name": "Renato",
+          "url": "https://open.spotify.com/artist/6VBd6EXDkDR7D9UjtEUtFn"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "La Chica de los Ojos Cafe",
+      "url": "https://open.spotify.com/track/4Bonn8aTkhFWUAQJaHwgl8"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -859,26 +899,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Jimmy Bad Boy",
-          "url": "https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r"
-        }
-      ],
-      "duration_ms": 190589,
-      "name": "Luna y Estrellas",
-      "url": "https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -891,6 +911,22 @@
       "duration_ms": 177666,
       "name": "Quiero Estar Contigo",
       "url": "https://open.spotify.com/track/38ItcgEkN3anw5LbfYihJX"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Ven y Vuela",
+      "url": "https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -935,22 +971,6 @@
       "duration_ms": 429267,
       "name": "Meneaito Mega-Mix (feat. Aldo Ranks, Kungfu & Robert Dance)",
       "url": "https://open.spotify.com/track/2yxKrSbzkk1O7E2Hps3yU1"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/7vQN5aljYXJcSD8Mq20NtS"
-      },
-      "artists": [
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Ven y Vuela",
-      "url": "https://open.spotify.com/track/1uiWVO2cKT6qVnaLvgeJ7q"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1035,26 +1055,6 @@
       "duration_ms": 181200,
       "name": "Metimos Las Patas",
       "url": "https://open.spotify.com/track/0FYoLW8XOwDWinWcqcaDst"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "A Mover el Culo Con el Chombo",
-        "url": "https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Barbero 507",
-          "url": "https://open.spotify.com/artist/7IOEDcSGzA00EhFam7X7Ec"
-        }
-      ],
-      "duration_ms": 137613,
-      "name": "A Mover el Culo",
-      "url": "https://open.spotify.com/track/4OWxMVxaovn4jM8VvGUwHe"
     },
     {
       "added_at": "2024-03-25 13:06:06",

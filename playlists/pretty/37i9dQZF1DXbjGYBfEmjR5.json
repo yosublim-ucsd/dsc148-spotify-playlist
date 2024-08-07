@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 327013,
+  "num_followers": 327115,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "SAILORSATURDAYS",
         "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 240000,
       "name": "SAILORSATURDAYS",
       "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "SOUL MATES",
         "url": "https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 185806,
       "name": "Love & Affection",
       "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Skylar Spence",
-          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
-        }
-      ],
-      "duration_ms": 170634,
-      "name": "Kratos in Love",
-      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "CHEESECAKE+",
         "url": "https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "BAD4ALL",
-          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
         }
       ],
-      "duration_ms": 145920,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
+      "duration_ms": 170634,
+      "name": "Kratos in Love",
+      "url": "https://open.spotify.com/track/1B5X9UpNce1ZEoTBWds6I2"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1659,6 +1643,22 @@
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+      },
+      "artists": [
+        {
+          "name": "BAD4ALL",
+          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
     },
     {
       "added_at": "2023-07-18 02:21:29",

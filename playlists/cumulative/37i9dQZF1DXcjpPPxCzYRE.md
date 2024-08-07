@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-283 songs - 16 hr 28 min
+284 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [brujita](https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [BABAYAGA](https://open.spotify.com/album/2p8CEb59obQ62nhqLbTE6I) | 2:39 | 2023-03-16 | 2023-04-21 |
 | [By Your Side](https://open.spotify.com/track/3VcmjpCGGY4ReELVr4R7aa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/5Ak10vSJ89AixhQQhx63kN) | 4:34 | 2024-04-11 |  |
 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 | 2022-11-11 | 2024-04-19 |
+| [C'est La Crème](https://open.spotify.com/track/64hn78Rht6qWoxXq47H66U) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [C'est La Crème](https://open.spotify.com/album/440qCEfkxCZnxuQu1KK8iA) | 2:37 | 2024-08-02 |  |
 | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/track/5uifWhPVNCyg0n6PhjjT05) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Caballo Blanco \(feat\. Macaco\)](https://open.spotify.com/album/25syvOHfcxMYUwdqkYqtE9) | 4:18 | 2023-03-16 | 2024-06-22 |
 | [Call It Dreaming](https://open.spotify.com/track/1MxHIIzcTeFnaNsDGY3pfj) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Beast Epic](https://open.spotify.com/album/33zayrSBdboyCyGTjtQrsw) | 3:51 | 2022-11-11 | 2024-04-19 |
 | [Cambios](https://open.spotify.com/track/2pehRZBrGUQrsAnnyG02ET) | [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Cambios](https://open.spotify.com/album/1JgQALH4p7iOtrcJPHrYqD) | 3:23 | 2024-04-11 | 2024-06-22 |
@@ -146,7 +147,7 @@
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-20 | 2024-03-15 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 | 2024-08-04 |
-| [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 |  |
+| [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 | 2024-08-07 |
 | [La Tortura \- Spotify Singles](https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Spotify Singles](https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli) | 2:31 | 2023-10-16 | 2023-12-30 |
 | [La ventanita](https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [La ventanita](https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS) | 4:15 | 2024-04-11 |  |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/1UH4viviUjZnS9aWgPGrk0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1z3T9KhIbOb7k2sBVCsn6p) | 3:24 | 2022-11-11 | 2024-02-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Iqhbal
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,085 likes - 87 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,090 likes - 87 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-664 songs - 1 day 19 hr 18 min
+665 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [I'm a Slave 4 U](https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:23 | 2024-01-29 |  |
 | [I'm Good \(feat\. Pharrell Williams\)](https://open.spotify.com/track/4dna9pp213lAcnSrbj3xGn) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Til The Casket Drops](https://open.spotify.com/album/3fFlGU0k3z7wle0gp4wNrU) | 4:21 | 2024-01-29 |  |
 | [I'm Not You \(feat\. Jadakiss, Style P & Rosco P\. Coldchain\)](https://open.spotify.com/track/4h1xaUGnbHp867AZ4mBM3m) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Style P](https://open.spotify.com/artist/3S906h2bFM8tXtQWGUerHu), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:18 | 2024-06-20 | 2024-06-22 |
+| [I'm On A Roll](https://open.spotify.com/track/6wAuGl9OzAm0t3EfiWcQn4) | [Destinee & Paris](https://open.spotify.com/artist/0UJ0dQEzoMpMhFeP70hlhO) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 3:10 | 2024-08-06 |  |
 | [I'm So Gone \(Patron\)](https://open.spotify.com/track/0M0tLcHjOJYhILFidH2Efg) | [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb) | [I'm So Gone \(Patron\)](https://open.spotify.com/album/3CXuPO8sJgNEoD4n9wMcZC) | 4:01 | 2024-06-20 | 2024-06-22 |
 | [I'm Ya Dogg \(feat\. Kendrick Lamar & Rick Ross\)](https://open.spotify.com/track/16utyJfWZGkTWYDobMzND7) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:38 | 2024-01-29 |  |
 | [If](https://open.spotify.com/track/68deyvfivX8kzvFfxJ0BdL) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Da Derrty Versions: The Re\-invention](https://open.spotify.com/album/3cSUd7H22DtZzvSUJkBIlM) | 3:38 | 2024-01-29 |  |

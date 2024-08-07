@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 794 songs - 1 day 16 hr 34 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 3 likes - 798 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -801,6 +801,10 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 791 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 | 792 | [FLIP THE SWITCH \(feat\. Drake\)](https://open.spotify.com/track/1rlIrbWboTRGeKfHhgbJRZ) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:36 |
 | 793 | [Took A While \(Be Us\)](https://open.spotify.com/track/2hM9XK7CRG631EdAbu5zFQ) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Took A While \(Be Us\)](https://open.spotify.com/album/3rE930Bcle8R4AEzVZm5sP) | 2:36 |
-| 794 | [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:59 |
+| 794 | [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:33 |
+| 795 | [RIVER](https://open.spotify.com/track/27N2bd3ait2QOnprc4seCK) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 4:07 |
+| 796 | [DEAD](https://open.spotify.com/track/3OIzMTyg6PIV2ZsefS3O2n) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 4:23 |
+| 797 | [FIELD TRIP](https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:47 |
+| 798 | [PROMOTION](https://open.spotify.com/track/5fvOIwB9AWT2iplRw6jYqm) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [PROMOTION](https://open.spotify.com/album/16DGISpTEIIFfBMBXMMswn) | 2:38 |
 
-Snapshot ID: `AAADx7fZPR97bJwXAD+qrFzAD/JmE1aj`
+Snapshot ID: `AAADy0rDj1FmV+kzBn6BV28+I58veQIN`

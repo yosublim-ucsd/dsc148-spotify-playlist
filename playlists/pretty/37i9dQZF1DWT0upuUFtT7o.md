@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,084 likes - 102 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,112 likes - 102 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

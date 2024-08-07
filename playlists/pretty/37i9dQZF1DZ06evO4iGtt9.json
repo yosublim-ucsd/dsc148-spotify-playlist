@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6923,
+  "num_followers": 6924,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAAQquNx0qLxhvPaOnu7/4tf",
+  "snapshot_id": "ZrAWAAAAAACDsh632G59LWY+Gki4/EUv",
   "tracks": [
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212498,
-      "name": "Abeg Abeg - Remix",
-      "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Than Them",
         "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 187586,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212498,
+      "name": "Abeg Abeg - Remix",
+      "url": "https://open.spotify.com/track/4xdmkDKb0Lb1ModZvup6QZ"
     },
     {
       "added_at": null,
@@ -623,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B A H D",
-        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 135186,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -671,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -687,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
       "artists": [
         {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+      "duration_ms": 135186,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/6hoUqY7KzLKbS5y8FE6dAz"
     },
     {
       "added_at": null,

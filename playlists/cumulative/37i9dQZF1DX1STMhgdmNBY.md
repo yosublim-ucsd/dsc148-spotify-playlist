@@ -4,7 +4,7 @@
 
 > For body and mind, blues straight from the soul.
 
-103 songs - 7 hr 42 min
+104 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 | 2023-01-10 | 2024-04-19 |
 | [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 | 2023-01-29 |
 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 | 2022-05-25 |  |
-| [Forever Shall Be](https://open.spotify.com/track/1APXtCtbg7ssoxpLXy3XWA) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 4:33 | 2023-10-05 |  |
+| [Forever Shall Be](https://open.spotify.com/track/1APXtCtbg7ssoxpLXy3XWA) | [Willie J\. Campbell](https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7) | [Be Cool](https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27) | 4:33 | 2023-10-05 | 2024-08-07 |
 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 | 2022-05-25 |  |
 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 | 2022-05-25 |  |
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-05-25 | 2022-10-03 |
@@ -63,6 +63,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/3etdnXxhAQcaZGh9wYr8ub) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/7HkdGOPmc7rmzbDXFR8Khb) | 4:56 | 2022-05-25 | 2022-07-29 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1CPoz537R6npR3w4VircRz) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Bluesed Up Soul Classics](https://open.spotify.com/album/2qKVu08JXkp4lpL57VjDq0) | 5:00 | 2022-08-19 | 2022-11-13 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 5:00 | 2022-06-29 | 2024-04-19 |
+| [I'll Carry My Burden](https://open.spotify.com/track/4NrMCLYzFtSjspceIFfAcJ) | [The Spiritual Five](https://open.spotify.com/artist/5kM0B7mSV47dwvOv6OijUC) | [Powerhouse Gospel](https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ) | 2:22 | 2024-05-28 |  |
 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 | 2022-06-29 | 2024-04-19 |
 | [I'm On My Way \- Remastered Version](https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2) | 3:09 | 2022-05-25 |  |
 | [I'm Slippin' In](https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe) | [Ford Eaglin](https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL) | [I'm Slippin' In \(Mono Version\)](https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8) | 2:53 | 2023-10-05 |  |

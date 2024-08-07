@@ -275,6 +275,38 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "golden smile",
+        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
+      },
+      "artists": [
+        {
+          "name": "DEHAZE",
+          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
+        }
+      ],
+      "duration_ms": 184279,
+      "name": "golden smile",
+      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Lost In Love",
+        "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
+      },
+      "artists": [
+        {
+          "name": "Tres Navy",
+          "url": "https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Lost In Love",
+      "url": "https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Payback",
         "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
       },
@@ -303,38 +335,6 @@
       "duration_ms": 192010,
       "name": "Verrassing",
       "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Lost In Love",
-        "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
-      },
-      "artists": [
-        {
-          "name": "Tres Navy",
-          "url": "https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Lost In Love",
-      "url": "https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "golden smile",
-        "url": "https://open.spotify.com/album/1MaTDkIrwzdb8Pbgc7sDoC"
-      },
-      "artists": [
-        {
-          "name": "DEHAZE",
-          "url": "https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4"
-        }
-      ],
-      "duration_ms": 184279,
-      "name": "golden smile",
-      "url": "https://open.spotify.com/track/53O7MrXH2wD9aiDlBf31gD"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Cure for My Feels",
-        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
-      },
-      "artists": [
-        {
-          "name": "Simpleton",
-          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
-        }
-      ],
-      "duration_ms": 197917,
-      "name": "A Cure for My Feels",
-      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "FASE",
         "url": "https://open.spotify.com/album/2Lh1lQDHQNAlRc8tkUIAgB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 180705,
       "name": "FASE",
       "url": "https://open.spotify.com/track/7dMFcCdzfyj1mC7zX3bEZd"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "A Cure for My Feels",
+        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
+      },
+      "artists": [
+        {
+          "name": "Simpleton",
+          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
+        }
+      ],
+      "duration_ms": 197917,
+      "name": "A Cure for My Feels",
+      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "23 going on 18",
-        "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
-      },
-      "artists": [
-        {
-          "name": "Julia Tan",
-          "url": "https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "23 going on 18",
-      "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 151730,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "23 going on 18",
+        "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
+      },
+      "artists": [
+        {
+          "name": "Julia Tan",
+          "url": "https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "23 going on 18",
+      "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
-      },
-      "artists": [
-        {
-          "name": "MADOUX",
-          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
-        }
-      ],
-      "duration_ms": 207440,
-      "name": "In Our Blood",
-      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 196159,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
+      },
+      "artists": [
+        {
+          "name": "MADOUX",
+          "url": "https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ"
+        }
+      ],
+      "duration_ms": 207440,
+      "name": "In Our Blood",
+      "url": "https://open.spotify.com/track/4EXFYjZSHhmQVSkP3OSGBT"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Take Me Somewhere Nice",
         "url": "https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175909,
       "name": "Take Me Somewhere Nice",
       "url": "https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "FUEGO",
-        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
       },
       "artists": [
         {
-          "name": "QUANZA",
-          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
         }
       ],
-      "duration_ms": 220068,
-      "name": "FUEGO",
-      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
+      "duration_ms": 178382,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -791,34 +791,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
       },
       "artists": [
         {
-          "name": "Zo Lief",
-          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
         }
       ],
-      "duration_ms": 178382,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Everything I Need Is Here",
-        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Everything I Need Is Here",
-      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -835,6 +819,22 @@
       "duration_ms": 236646,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/1VeEoIo2F4ofmtQsQM6Qf9"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Everything I Need Is Here",
+        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Everything I Need Is Here",
+      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Isaak's Marble",
-        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
-      },
-      "artists": [
-        {
-          "name": "Heath",
-          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
-        }
-      ],
-      "duration_ms": 601682,
-      "name": "Isaak's Marble",
-      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Godless",
         "url": "https://open.spotify.com/album/5vrfRIjLT9WjGKS5oXBOJW"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 221692,
       "name": "Godless",
       "url": "https://open.spotify.com/track/3j9ZIIAVBeKZ4wL477j78n"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Isaak's Marble",
+        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
+      },
+      "artists": [
+        {
+          "name": "Heath",
+          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
+        }
+      ],
+      "duration_ms": 601682,
+      "name": "Isaak's Marble",
+      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Haya",
+        "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
+      },
+      "artists": [
+        {
+          "name": "Guusje Walstra",
+          "url": "https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk"
+        }
+      ],
+      "duration_ms": 175264,
+      "name": "Haya",
+      "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Niks Doen",
         "url": "https://open.spotify.com/album/4F6tgYvqXPDj6r5eQmhEkZ"
       },
@@ -931,42 +947,6 @@
       "duration_ms": 128821,
       "name": "Niks Doen",
       "url": "https://open.spotify.com/track/1Np2YDk3Ti4DnMV3tTrSOJ"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Maankind",
-        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
-      },
-      "artists": [
-        {
-          "name": "Rijnbaart",
-          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
-        },
-        {
-          "name": "Jeroen Antoine",
-          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
-        }
-      ],
-      "duration_ms": 163032,
-      "name": "wist je niet",
-      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Then You Know",
-        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 287179,
-      "name": "Then You Know",
-      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -987,18 +967,38 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Haya",
-        "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
+        "name": "Then You Know",
+        "url": "https://open.spotify.com/album/33szRZCRaCeSIPXhmzsEn2"
       },
       "artists": [
         {
-          "name": "Guusje Walstra",
-          "url": "https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk"
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
         }
       ],
-      "duration_ms": 175264,
-      "name": "Haya",
-      "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
+      "duration_ms": 287179,
+      "name": "Then You Know",
+      "url": "https://open.spotify.com/track/3wloUn32vK3P5sX0VV5wxj"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Maankind",
+        "url": "https://open.spotify.com/album/14ScUgJJXyRXGLvgHmXxBm"
+      },
+      "artists": [
+        {
+          "name": "Rijnbaart",
+          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
+        },
+        {
+          "name": "Jeroen Antoine",
+          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+        }
+      ],
+      "duration_ms": 163032,
+      "name": "wist je niet",
+      "url": "https://open.spotify.com/track/3hwIQDZxwEF7iLV4T637Yh"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "IK WIL EEN PORSCHE",
-        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
+        "name": "Titanomachy",
+        "url": "https://open.spotify.com/album/5l6XiWQn8o8QOOuDHu3mhf"
       },
       "artists": [
         {
-          "name": "Viccens",
-          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
+          "name": "Man as Plague",
+          "url": "https://open.spotify.com/artist/3cFPT1tw7lNNW2I35OUiI4"
         }
       ],
-      "duration_ms": 126816,
-      "name": "IK WIL EEN PORSCHE",
-      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+      "duration_ms": 220853,
+      "name": "Titanomachy",
+      "url": "https://open.spotify.com/track/3Iws68nj1dBXQy3siGYOuM"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Titanomachy",
-        "url": "https://open.spotify.com/album/5l6XiWQn8o8QOOuDHu3mhf"
+        "name": "IK WIL EEN PORSCHE",
+        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
       },
       "artists": [
         {
-          "name": "Man as Plague",
-          "url": "https://open.spotify.com/artist/3cFPT1tw7lNNW2I35OUiI4"
+          "name": "Viccens",
+          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Titanomachy",
-      "url": "https://open.spotify.com/track/3Iws68nj1dBXQy3siGYOuM"
+      "duration_ms": 126816,
+      "name": "IK WIL EEN PORSCHE",
+      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Shit / Verliefd",
-        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
-      },
-      "artists": [
-        {
-          "name": "Loen",
-          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Shit / Verliefd",
-      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "High On The Moon",
         "url": "https://open.spotify.com/album/0O1sBTZe2g6yxslc9UJhy5"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 162798,
       "name": "Two Times In A Moment",
       "url": "https://open.spotify.com/track/4UAzaQT3EVnIqLBHFwETJo"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Shit / Verliefd",
+        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
+      },
+      "artists": [
+        {
+          "name": "Loen",
+          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Shit / Verliefd",
+      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
     },
     {
       "added_at": "2024-07-01 08:44:42",

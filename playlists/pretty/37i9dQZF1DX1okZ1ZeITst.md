@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,772 likes - 136 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,048,934 likes - 136 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 16 | [Remember Me \(Ernesto de la Cruz\)](https://open.spotify.com/track/4ljlAxfaEjO4Q4g9FMtVj4) | [Benjamin Bratt](https://open.spotify.com/artist/52H65pWOSERcDK6uVFRwN8) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:49 |
 | 17 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 18 | [Something That I Want](https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 2:43 |
-| 19 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 |
+| 19 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 |
 | 20 | [For the First Time](https://open.spotify.com/track/55dk5wKH4izQ95SfjDnxEB) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 4:08 |
 | 21 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 |
 | 22 | [Grim Grinning Ghosts \(Dance Party\)](https://open.spotify.com/track/7raiG1962Kb1UyD8otwGXZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Haunted Mansion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JNLw46VIKt7zqPxFA69l7) | 1:32 |

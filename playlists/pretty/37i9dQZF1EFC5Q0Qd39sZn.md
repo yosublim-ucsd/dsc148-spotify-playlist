@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,037 likes - 569 songs - 1 day 15 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,040 likes - 569 songs - 1 day 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 17 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 |
 | 18 | [Why Did You Do That?](https://open.spotify.com/track/1sv0BhPPnrUgQ6dziZlmuM) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:04 |
 | 19 | [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 |
-| 20 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 |
-| 21 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
+| 20 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
+| 21 | [Too Lost In You](https://open.spotify.com/track/0tRQ7UZtDQtKUkFFRtyTyM) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Three](https://open.spotify.com/album/2hBj2SLHPGubIkbgNE2p8T) | 3:57 |
 | 22 | [Love Will Lead You Back](https://open.spotify.com/track/0m8PenXC6y9fo0LaSd4vPw) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/08nkVfPFOyoL5vH3B0ehSn) | 4:38 |
 | 23 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 24 | [For You I Will](https://open.spotify.com/track/2b29qJRy4asbQNFjPO96XC) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:54 |
@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 167 | [Here In My Heart](https://open.spotify.com/track/13rVu8eRwoCb14fAHea824) | [Tiffany](https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe) | [New Inside](https://open.spotify.com/album/6JjjIH7QBynrssqyphngYi) | 4:08 |
 | 168 | [I Am](https://open.spotify.com/track/25Pvx66yRLQ6mfwQAEzY2D) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/3PkUFix54f7aKr6Jbqnsom) | 3:43 |
 | 169 | [Nothing Broken But My Heart](https://open.spotify.com/track/03xpqxQ2tCUuDAKNLThmGO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 5:55 |
-| 170 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
-| 171 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
+| 170 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
+| 171 | [I'll Fight \- From "RBG" Soundtrack](https://open.spotify.com/track/7ELxtyrasiOfwsRUJiEMGR) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I'll Fight \(From "RBG" Soundtrack\)](https://open.spotify.com/album/4xUSPYluy7p9aYTobDT3du) | 3:19 |
 | 172 | [Feels Like Forever](https://open.spotify.com/track/0ygfFhs5y9Zr9eWAxDfFV1) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Night Calls](https://open.spotify.com/album/61HuqPzUcoc940Bf7Ss0ob) | 4:41 |
 | 173 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
 | 174 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
@@ -578,4 +578,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 568 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 569 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AbYo3gAAAADl/EbfhCYZWoWNyEZ1+dC0`
+Snapshot ID: `AbYuggAAAAD8Sd6sHUyehymOKiio67tY`

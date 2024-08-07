@@ -4,11 +4,11 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-570 songs - 1 day 4 hr 6 min
+572 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-05 |  |
+| [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-05 | 2024-08-07 |
 | [432 Hz Dulces Sueño](https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [432 Hz Dulces Sueño](https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U) | 3:04 | 2024-06-18 |  |
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2023-03-23 | 2024-03-21 |
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2023-03-23 | 2024-04-06 |
@@ -192,6 +192,7 @@
 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 | 2023-03-23 | 2024-02-09 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2023-03-23 | 2024-03-21 |
 | [Ethereal Echoes](https://open.spotify.com/track/2TwiFLI95iEFaXZOw8Rn7s) | [Ella Hush](https://open.spotify.com/artist/6dcMOViRlnkmZkjhckcMmx) | [Ethereal Echoes](https://open.spotify.com/album/1v4DPTFv9C7L0Xia3k2Jsp) | 3:04 | 2024-05-04 |  |
+| [Etherealism](https://open.spotify.com/track/5xcMiHMYeXbjdcYUDYzZzL) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Etherealism](https://open.spotify.com/album/2uk1QgUcIbDYyrFmrnVNEn) | 3:30 | 2024-08-02 |  |
 | [Etoile](https://open.spotify.com/track/683qBY5WPSLBPfgDioGVmS) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Etoile](https://open.spotify.com/album/4s0qbwDBSI2z9tjahbd4WT) | 2:15 | 2023-03-23 | 2024-05-05 |
 | [Etéreo](https://open.spotify.com/track/332LsZnqbuZPRiiknROvfy) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Etéreo](https://open.spotify.com/album/6iUYSrnRQ5BKvECnWParnE) | 3:16 | 2023-03-23 | 2024-03-21 |
 | [Eudaimonia](https://open.spotify.com/track/6KU6lJNEwpHSB8EdI6klNN) | [Gaea Antoniou](https://open.spotify.com/artist/3L8lia6SiogIvkEl2qQ32d) | [Eudaimonia](https://open.spotify.com/album/09qRQwHteDmqgCTEe2HcYl) | 2:57 | 2023-03-23 | 2024-02-09 |
@@ -246,7 +247,7 @@
 | [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2023-03-23 | 2024-01-18 |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-23 | 2024-05-05 |
-| [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 |  |
+| [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 | 2024-08-07 |
 | [Humming](https://open.spotify.com/track/4d4F77AGLne08uoZIyHTwz) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Saving Memories](https://open.spotify.com/album/56I9XURKmO3N785tQTlBtL) | 2:56 | 2023-03-23 | 2024-01-18 |
 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 | 2023-03-23 | 2024-01-18 |
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2023-03-23 | 2024-03-21 |
@@ -446,6 +447,7 @@
 | [Sessiz Tepeler](https://open.spotify.com/track/7KmNEkS0sCpZPFBh2uqZu6) | [Cakir Vardar](https://open.spotify.com/artist/28bBNTIW2aR4EQKrkqpzF7) | [Sessiz Tepeler](https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP) | 2:50 | 2023-03-23 | 2024-02-09 |
 | [Shimmering Above Clouds](https://open.spotify.com/track/5qGiDfE4iUmc9ZChUCunTO) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Shimmering Above Clouds](https://open.spotify.com/album/3YdKMnC2KdW1Z1KFt5rRBA) | 2:57 | 2023-03-23 | 2024-01-18 |
 | [Sidereal](https://open.spotify.com/track/6l2dsZpGNmYsWmr7HxqLiB) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Sidereal](https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN) | 2:12 | 2024-05-04 |  |
+| [Signs In The Sky](https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7) | [Riseran](https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho) | [Signs In The Sky](https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf) | 2:39 | 2024-08-02 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-03-23 | 2024-05-05 |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 |  |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > se vienen cositas 💚💅🏽🤫 2 y 3 de noviembre, Parque Bicentenario.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,709 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,225 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

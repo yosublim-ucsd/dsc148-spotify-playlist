@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-953 songs - 2 day 9 hr 41 min
+954 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Break the Line](https://open.spotify.com/track/5ze7yZ99744gLl83y2qDyx) | [Jon Mangan](https://open.spotify.com/artist/4K9OHYek6QkS7HHzSKQyrM) | [Break the Line](https://open.spotify.com/album/6HVtUbow3vnWnOhcu8FQ5I) | 3:30 | 2024-02-16 | 2024-07-27 |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-05-14 |
 | [Breaking Light](https://open.spotify.com/track/616t2cVL8B7jUtzxqyLRAx) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Sharon Valerona](https://open.spotify.com/artist/5QqFl3TTNF95pndfKUr1Vb) | [Breaking Light](https://open.spotify.com/album/3qYFbXf36nY6ChDS26Q268) | 3:42 | 2022-02-18 | 2022-10-29 |
-| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 |  |
+| [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 | 2024-08-07 |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 | 2023-12-09 |
 | [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-06-10 |
 | [Breathing](https://open.spotify.com/track/37bZneyU8dqpl2TAiSe0pw) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Einar K](https://open.spotify.com/artist/3bupuvTQ70NllkKaZtwC1c), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Breathing](https://open.spotify.com/album/2iriCUVPYMoO4w0fYz5CPH) | 3:12 | 2023-05-26 | 2024-05-18 |
@@ -253,6 +253,7 @@
 | [Enough for Me](https://open.spotify.com/track/64efbrqLb53cBFwoWS9mAE) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Enough for Me](https://open.spotify.com/album/4RJviCzbAljHR4ZLKI71TF) | 3:53 | 2022-08-12 | 2023-06-10 |
 | [Era](https://open.spotify.com/track/5X4LSyx1CyH0FJiJwQH29c) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2) | [Era](https://open.spotify.com/album/3utAPcjvEBKwAOto8dfG1u) | 3:06 | 2021-12-17 | 2022-02-26 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-22 | 2022-09-24 |
+| [Escape](https://open.spotify.com/track/79XSml1tPuRVHSnEcPE6sf) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Escape](https://open.spotify.com/album/32nCASbx4gdjVd5Hq0gXEd) | 3:21 | 2024-08-02 |  |
 | [Eternal Spirit \(Original Mix\)](https://open.spotify.com/track/5uF5FKDrP1fGcGE6TqlAu0) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Eternal Spirit](https://open.spotify.com/album/4C96gLRlLxpGVmbXsaDVIS) | 3:31 | 2021-12-17 | 2022-04-16 |
 | [Eternally](https://open.spotify.com/track/17Ho4UqADU55oec5f82Col) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Eternally](https://open.spotify.com/album/6vdozS4ezEC1RNlmJ5Hb5i) | 3:43 | 2023-05-26 | 2024-05-18 |
 | [Ether](https://open.spotify.com/track/1n4b2t3xNYfArg6J3wrw4h) | [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Ether](https://open.spotify.com/album/7HJlQGH5Skt8jPLYv3zUpl) | 4:31 | 2023-02-24 | 2023-05-20 |

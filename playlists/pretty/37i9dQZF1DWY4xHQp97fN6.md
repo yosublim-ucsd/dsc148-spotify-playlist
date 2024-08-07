@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mood: Turnt Cover: Central Cee & Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,665,198 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,665,120 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

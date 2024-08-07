@@ -2,7 +2,7 @@
 
 ### [This Is Megan Moroney](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3qZfmr)
 
-> This is Megan Moroney\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Megan Moroney\. The essential tracks, all in one playlist.
 
 35 songs - 1 hr 57 min
 

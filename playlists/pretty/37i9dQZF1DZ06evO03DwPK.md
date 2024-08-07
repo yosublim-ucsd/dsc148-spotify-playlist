@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 
 ### [This Is Bruno Mars](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03DwPK)
 
-> This Is Bruno Mars\. Los temas esenciales, todos en una lista.
+> This is Bruno Mars\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,882,406 likes - 42 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,882,822 likes - 42 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03DwPK.md) - [plain]
 | 41 | [Versace on the Floor \(Bruno Mars vs\. David Guetta\)](https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Versace On The Floor \(Bruno Mars vs\. David Guetta\)](https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL) | 3:48 |
 | 42 | [24K Magic \- R3hab Remix](https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [24K Magic \(R3hab Remix\)](https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK) | 2:38 |
 
-Snapshot ID: `Zq7EgAAAAACr8N9I0DsZdIbkE50fU1Hu`
+Snapshot ID: `ZrAWAAAAAAAEzaNjYpi0uQZ3EcF4yfzV`

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,196 songs - 3 day 0 hr 44 min
+1,197 songs - 3 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Bridge over Troubled Water \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/0b0Q8bYchJLk4fCIyJhC0i) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Spotify Singles](https://open.spotify.com/album/6Q9QCXE8F7ubD0PE2bialv) | 5:00 | 2022-01-19 |  |
 | [Brinca \- Spotify Singles](https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Brinca \- Spotify Singles](https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC) | 3:24 | 2024-05-08 |  |
 | [Broccoli \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 2:43 | 2022-01-19 |  |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 |  |
 | [BRUTAL](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-19 |  |
 | [Bubble Gum \- Spotify Singles](https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:06 | 2023-03-29 |  |
 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 | 2022-01-19 |  |

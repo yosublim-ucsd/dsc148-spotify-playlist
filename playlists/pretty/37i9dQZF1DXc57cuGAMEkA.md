@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Charli xcx & Billie Eilish, Sam Smith, imase, Khalid and more! cover: Charli xcx & Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,920 likes - 88 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,927 likes - 88 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

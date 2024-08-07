@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 454057,
+  "num_followers": 454219,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAB70s07YFsCyKZlTqqkmGai",
+  "snapshot_id": "ZrAWAAAAAABPVb7hQq7IPbw7fFWBG9Xg",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 236866,
       "name": "Cuento - Sesi\u00f3n de Estudio",
       "url": "https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
     },
     {
       "added_at": null,

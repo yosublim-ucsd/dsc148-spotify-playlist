@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  Magixx
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,958 likes - 79 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,978 likes - 79 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

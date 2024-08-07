@@ -546,7 +546,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 143119,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/4t3VUdmd9z0rETtydUK4BT"
@@ -1412,6 +1412,32 @@
       "duration_ms": 208695,
       "name": "Aima",
       "url": "https://open.spotify.com/track/7dbwdaU5belAQj5Qc0cFle"
+    },
+    {
+      "album": {
+        "name": "AIORA",
+        "url": "https://open.spotify.com/album/5sidwkMrq3BGtdevCxebKz"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC"
+        },
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "AIORA",
+      "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
     },
     {
       "album": {
@@ -14669,6 +14695,36 @@
     },
     {
       "album": {
+        "name": "I Adore You (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Adore You (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -24210,7 +24266,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 213733,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Psycho YP, Magixx, Jeriq and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,773 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,829 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 38 | [No Stress](https://open.spotify.com/track/4CydaGHyaPjkzR5ZNB93uf) | [BetejayMadeIt](https://open.spotify.com/artist/4pvwFJJ5bMKFB3QYZTzDdY) | [No Stress](https://open.spotify.com/album/5kpImbjboySbuvSwz76O3B) | 2:56 |
 | 39 | [Tell Nobody](https://open.spotify.com/track/3ex4n03yOotY0eirXAJzbT) | [Eony](https://open.spotify.com/artist/35PHHSNJJEoq7yVYbOnl7G) | [Tell Nobody](https://open.spotify.com/album/6gq9iQ7St0zEkcwIXJrvd2) | 2:32 |
 | 40 | [UEFA](https://open.spotify.com/track/5qYYofJmpgigudaj3HENQN) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [UEFA](https://open.spotify.com/album/1hKN16Z7UmAnqKP6dtkBWe) | 2:08 |
-| 41 | [Something Something](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 |
+| 41 | [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \- Remix](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 |
 | 42 | [Echoes of Dad Beat](https://open.spotify.com/track/4NYBkk8Af6f97pVkaIChQV) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Echoes of Dad Beat](https://open.spotify.com/album/7tmUr3kfBAlpD79IlYTf8G) | 2:41 |
 | 43 | [MONEY MAKER](https://open.spotify.com/track/0GlW8vwkMu1WAn0JjVD2eK) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [MONEY MAKER](https://open.spotify.com/album/5Kr7Q1ER46eHhHyvG68Ds0) | 1:13 |
 | 44 | [What If?](https://open.spotify.com/track/5PN3owalUOgi57RFVZ7H9N) | [Leczy](https://open.spotify.com/artist/58mxed076t8Hn7mAdxtLzT) | [What If?](https://open.spotify.com/album/2X114z5ioHbh4GSUAMmVuA) | 2:36 |

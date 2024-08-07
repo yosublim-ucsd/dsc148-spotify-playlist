@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: \uff06TEAM",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: xikers",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 187140,
       "name": "Algorhythm",
       "url": "https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a"
@@ -4172,6 +4172,24 @@
       "duration_ms": 195020,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/0SxQz5uPZ5cAGWzj6MvzrX"
+    },
+    {
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F"
     },
     {
       "album": {
@@ -13192,7 +13210,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 184185,
       "name": "Perfect Storm (feat. TAEHYUN of TOMORROW X TOGETHER)",
       "url": "https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm"
@@ -14690,7 +14708,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 215853,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5nEuBeII9tTOpEs4zCQJrY"
@@ -14730,6 +14748,24 @@
       "duration_ms": 192596,
       "name": "save me",
       "url": "https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY"
+    },
+    {
+      "album": {
+        "name": "Open \u266deta v6.3",
+        "url": "https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/42i24oTxRFR53ezroofUtx"
     },
     {
       "album": {
@@ -18447,6 +18483,24 @@
     },
     {
       "album": {
+        "name": "Tsuki (Lunatic)",
+        "url": "https://open.spotify.com/album/2p7tMsiP0DIt8eqYjgeHsc"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Tsuki (Lunatic)",
+      "url": "https://open.spotify.com/track/4s6jZby9w8PesKpfA0B3l5"
+    },
+    {
+      "album": {
         "name": "Metamorphic",
         "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
       },
@@ -18458,7 +18512,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 128744,
       "name": "Twenty",
       "url": "https://open.spotify.com/track/3itibY53OwV21OP7m6VHbX"
@@ -20262,7 +20316,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 180000,
       "name": "WORK Pt.2 - ATEEZ X Don Diablo",
       "url": "https://open.spotify.com/track/4AD5ip6CEgfBEkPMO1WCP9"

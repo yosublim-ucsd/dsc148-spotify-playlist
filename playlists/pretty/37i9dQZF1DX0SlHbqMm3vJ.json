@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Amaeya",
-  "num_followers": 237875,
+  "num_followers": 237937,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 166350,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -183,22 +187,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -403,18 +403,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
       "artists": [
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 189015,
-      "name": "American Love",
-      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -443,22 +447,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 184267,
       "name": "Olufunmi Reimagined",
       "url": "https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 216564,
-      "name": "Turn Me Up",
-      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 220865,
       "name": "Tiny Apartment (with SAINt JHN)",
       "url": "https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 216564,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Abeke",
-        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
-      },
-      "artists": [
-        {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        },
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Abeke",
-      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Abeke",
+        "url": "https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv"
+      },
+      "artists": [
+        {
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        }
+      ],
+      "duration_ms": 247880,
+      "name": "Abeke",
+      "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "If I Be You",
-        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 136719,
-      "name": "If I Be You",
-      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "BOOK OF VASA",
         "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "If I Be You",
+        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 136719,
+      "name": "If I Be You",
+      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Hiii!",
+        "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hiii!",
+      "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Honey & Spice (Remix)",
         "url": "https://open.spotify.com/album/2I7Z3i5s8Ukwl7MRshNquA"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 152319,
       "name": "Honey & Spice - Remix",
       "url": "https://open.spotify.com/track/4oADK0NfY8u1RlW7IKFTFz"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Hiii!",
-        "url": "https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q"
-      },
-      "artists": [
-        {
-          "name": "ShineTTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hiii!",
-      "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
     },
     {
       "added_at": "2024-08-02 00:01:00",

@@ -1873,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "G.O.A.T / Never Disappoint",
+        "url": "https://open.spotify.com/album/2tvMrD9fO4DfL2xMXeWTR9"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100219,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/1uApzLM9ksJn4CqWuMrBKZ"
+    },
+    {
+      "album": {
         "name": "DREAM HORIZON",
         "url": "https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8"
       },

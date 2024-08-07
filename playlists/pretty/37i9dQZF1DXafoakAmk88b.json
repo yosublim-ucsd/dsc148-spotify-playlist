@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Jelani Aryeh",
-  "num_followers": 48135,
+  "num_followers": 48155,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-07-05 16:37:13",
       "album": {
+        "name": "Cruzafied",
+        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
+    },
+    {
+      "added_at": "2024-07-05 16:37:13",
+      "album": {
         "name": "Junebug (feat. JPEGMAFIA)",
         "url": "https://open.spotify.com/album/3tNvAR0dlCWi58TQmkwwBz"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 225384,
       "name": "Junebug (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7"
-    },
-    {
-      "added_at": "2024-07-05 16:37:13",
-      "album": {
-        "name": "Cruzafied",
-        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     }
   ],
   "unique_name": "Indie Frequency",

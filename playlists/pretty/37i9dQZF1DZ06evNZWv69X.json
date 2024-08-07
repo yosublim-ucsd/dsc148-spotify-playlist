@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAAC0/W46mCBvAFCtESlfy1H",
+  "snapshot_id": "ZrAWAAAAAAB+QU2qtMBB1vQoSP8P/Ofi",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Un Nuevo Intento",
-      "url": "https://open.spotify.com/track/71h02ya68CI1PNvfw9Ea9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 225626,
       "name": "Otra Canci\u00f3n",
       "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Un Nuevo Intento",
+      "url": "https://open.spotify.com/track/71h02ya68CI1PNvfw9Ea9Z"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 279013,
-      "name": "Morir un Poco / Viajo en Tu Piel",
-      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre los \u00c1rboles",
         "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 165360,
       "name": "Blu Ice",
       "url": "https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 279013,
+      "name": "Morir un Poco / Viajo en Tu Piel",
+      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Una Historia M\u00e1s",
-      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Soundtrack de una Vida",
         "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201453,
       "name": "El Dolor del Amor",
       "url": "https://open.spotify.com/track/0dbg6Rzu2hhXrvn6bwT39n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Una Historia M\u00e1s",
+      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "Momentos de Ti",
-      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suna",
         "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
       "artists": [
         {
@@ -708,9 +692,25 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 291320,
-      "name": "Cuenta la Historia",
-      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
+      "duration_ms": 137533,
+      "name": "Momentos de Ti",
+      "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Regalo de Amor",
+      "url": "https://open.spotify.com/track/3xHQGvUg0EiLQw0ali1XKi"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Cuenta la Historia",
+      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 208613,
       "name": "Esos D\u00edas",
       "url": "https://open.spotify.com/track/3uGefvMlhG2ITP6FdJcOPL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre los \u00c1rboles",
-        "url": "https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Regalo de Amor",
-      "url": "https://open.spotify.com/track/3xHQGvUg0EiLQw0ali1XKi"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Popurr\u00ed",
-      "url": "https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs"
+      "duration_ms": 281986,
+      "name": "Prisi\u00f3n",
+      "url": "https://open.spotify.com/track/1vqDaboJexxFgHaJ2T4yYQ"
     }
   ],
   "unique_name": "This Is Mar de Copas",

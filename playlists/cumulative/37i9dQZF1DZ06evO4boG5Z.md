@@ -2,7 +2,7 @@
 
 ### [This Is Millencolin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4boG5Z)
 
-> This is: Millencolin\. Alle wichtigen Tracks in einer Playlist.
+> This is Millencolin\. The essential tracks, all in one playlist.
 
 65 songs - 2 hr 55 min
 

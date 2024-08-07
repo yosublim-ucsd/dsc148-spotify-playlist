@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 53031,
+  "num_followers": 53032,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
-      },
-      "artists": [
-        {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
         "name": "EGO 90'S PART 3",
         "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
       },
       "artists": [
         {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+          "name": "Joosiq",
+          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+      "duration_ms": 173296,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -999,6 +983,22 @@
       "duration_ms": 191706,
       "name": "Shining Love Song",
       "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
         "name": "FM302",
         "url": "https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 226894,
       "name": "LOL (LOUDNESS OF LOVE)",
       "url": "https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "It`s Been A While (Maxim City Summer Life c.f)",
+      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
       "artists": [
         {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
         }
       ],
-      "duration_ms": 203573,
-      "name": "It`s Been A While (Maxim City Summer Life c.f)",
-      "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
         "name": "Plastic Candy",
         "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
       },
@@ -1475,26 +1475,6 @@
       "duration_ms": 214106,
       "name": "Plastic Candy",
       "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
-        "name": "Kona (feat. Jennifer Choi)",
-        "url": "https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7"
-      },
-      "artists": [
-        {
-          "name": "90yonge St.",
-          "url": "https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r"
-        },
-        {
-          "name": "Jennifer Choi",
-          "url": "https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Kona (feat. Jennifer Choi)",
-      "url": "https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
-        "name": "Our love like tonight",
-        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
+        "name": "Kona (feat. Jennifer Choi)",
+        "url": "https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7"
       },
       "artists": [
         {
-          "name": "SOOIN",
-          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
+          "name": "90yonge St.",
+          "url": "https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r"
+        },
+        {
+          "name": "Jennifer Choi",
+          "url": "https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ"
         }
       ],
-      "duration_ms": 240687,
-      "name": "Our love like tonight",
-      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
+      "duration_ms": 215031,
+      "name": "Kona (feat. Jennifer Choi)",
+      "url": "https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-08-05 16:12:23",
       "album": {
+        "name": "Our love like tonight",
+        "url": "https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x"
+      },
+      "artists": [
+        {
+          "name": "SOOIN",
+          "url": "https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "Our love like tonight",
+      "url": "https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
         "name": "My Universe - Home Recording Project #4",
         "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 200000,
       "name": "My Universe - Home Recording Project #4",
       "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
+    },
+    {
+      "added_at": "2024-08-05 16:12:23",
+      "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
     },
     {
       "added_at": "2024-08-05 16:12:23",
@@ -1587,22 +1603,6 @@
       "duration_ms": 252208,
       "name": "Afterlife (Feat. OOHYO) - Voradory Ver.",
       "url": "https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q"
-    },
-    {
-      "added_at": "2024-08-05 16:12:23",
-      "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO"
     },
     {
       "added_at": "2024-08-05 16:12:23",

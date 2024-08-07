@@ -1,12 +1,12 @@
 {
-  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 280470,
+  "description": "This is Megan Thee Stallion. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 280579,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADf1qwM2GppHupSJHc3FbGt",
+  "snapshot_id": "ZrAWAAAAAAAqbw4Aszug3iFAw7eCVrKG",
   "tracks": [
     {
       "added_at": null,
@@ -298,11 +298,15 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 191711,
-      "name": "Where Them Girls At",
-      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
+      "duration_ms": 206461,
+      "name": "B.A.S. (feat. Kyle Richh)",
+      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
     },
     {
       "added_at": null,
@@ -378,15 +382,11 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 206461,
-      "name": "B.A.S. (feat. Kyle Richh)",
-      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
+      "duration_ms": 191711,
+      "name": "Where Them Girls At",
+      "url": "https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr"
     },
     {
       "added_at": null,

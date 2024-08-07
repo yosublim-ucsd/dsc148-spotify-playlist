@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > That's that big energy\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,384 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,415 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
-| 2 | [Spit](https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit](https://open.spotify.com/album/00WnMLBOx4vXamTuUfuahE) | 2:36 |
+| 2 | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/album/00WnMLBOx4vXamTuUfuahE) | 2:36 |
 | 3 | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 |
 | 4 | [GLIMMER.](https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [SNAKEGANG](https://open.spotify.com/artist/7FuPPJX0pZUYlBAsf7cAIZ) | [SNAKEGANG EP Volume 1](https://open.spotify.com/album/0WaPDGSO9jDHgvlSNuBiuu) | 2:38 |
 | 5 | [Change Your Mind](https://open.spotify.com/track/66vsd3ks4Y0kfoSV6Upi8h) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Change Your Mind](https://open.spotify.com/album/6zRzvlanraxksqmhaDjbhP) | 3:07 |

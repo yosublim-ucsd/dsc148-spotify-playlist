@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 9 hr 47 min
+169 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2024-01-29 |  |
 | [Where the Poison Is](https://open.spotify.com/track/0UTnTG899YM9lL9ZZnXuZd) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/2lJK72MPLZG031lJ9xGy4Q) | 3:14 | 2024-02-02 | 2024-03-04 |
 | [Where the Poison Is](https://open.spotify.com/track/1SoM1cY0dpIz2U5GwSr0lT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/2I1Tadjt5P5r7aIyXKABDw) | 3:14 | 2024-01-29 | 2024-02-03 |
-| [Where the Poison Is](https://open.spotify.com/track/2rPduOYc8QyiQVtoNEixk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/1YBBcW2P8MyuBNmAcjpggV) | 3:14 | 2024-08-04 |  |
+| [Where the Poison Is](https://open.spotify.com/track/2rPduOYc8QyiQVtoNEixk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Where the Poison Is](https://open.spotify.com/album/1YBBcW2P8MyuBNmAcjpggV) | 3:14 | 2024-08-04 | 2024-08-07 |
+| [Where the Poison Is](https://open.spotify.com/track/0HfgblzLTEfuBwYoIXhjwy) | [JuntunenPhD](https://open.spotify.com/artist/01AZH8KY1rE7MoN464nQTi) | [Where the Poison Is](https://open.spotify.com/album/6szOV51vxOrtaf7TNdEvdd) | 3:14 | 2024-08-06 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-19 |  |
 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 | 2024-01-29 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2024-01-29 |  |

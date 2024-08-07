@@ -6425,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "DION",
+        "url": "https://open.spotify.com/album/3yMbuAGfX1HlbQ1yR6QjSj"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "DION",
+      "url": "https://open.spotify.com/track/2zOtDNXMlDRohxAHsFGUwg"
+    },
+    {
+      "album": {
         "name": "CITY PARK",
         "url": "https://open.spotify.com/album/2kb2tNZjWv2Eq45Q3xzEHk"
       },
@@ -16542,7 +16560,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 184000,
       "name": "MMA",
       "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
@@ -25816,7 +25834,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -26412,7 +26430,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"

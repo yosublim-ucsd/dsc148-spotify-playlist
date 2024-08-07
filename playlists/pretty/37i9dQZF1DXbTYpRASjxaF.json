@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131085,
+  "num_followers": 131081,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-26 03:03:00",
       "album": {
+        "name": "GLUVTRON: EXPER X",
+        "url": "https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "duration_ms": 145990,
+      "name": "ROUBO",
+      "url": "https://open.spotify.com/track/1B0qFaktj8fIljxwimMJqn"
+    },
+    {
+      "added_at": "2024-07-26 03:03:00",
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
-    },
-    {
-      "added_at": "2024-07-26 03:03:00",
-      "album": {
-        "name": "GLUVTRON: EXPER X",
-        "url": "https://open.spotify.com/album/4QsT1o0lD8ale3RKm7WXIk"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        }
-      ],
-      "duration_ms": 145990,
-      "name": "ROUBO",
-      "url": "https://open.spotify.com/track/1B0qFaktj8fIljxwimMJqn"
     },
     {
       "added_at": "2024-07-26 03:03:00",

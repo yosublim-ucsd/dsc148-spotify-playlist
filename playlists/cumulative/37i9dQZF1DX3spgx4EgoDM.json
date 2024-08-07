@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
@@ -4530,6 +4530,24 @@
       "duration_ms": 271031,
       "name": "Procura",
       "url": "https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro y Demonio",
+        "url": "https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226390,
+      "name": "P\u00e1jaro y Demonio",
+      "url": "https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx"
     },
     {
       "album": {

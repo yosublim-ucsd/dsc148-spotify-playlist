@@ -2,7 +2,7 @@
 
 ### [This Is BIGBANG](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MKBFK)
 
-> This is BIGBANG\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is BIGBANG\. Todos os maiores hits em uma só playlist.
 
 65 songs - 3 hr 59 min
 

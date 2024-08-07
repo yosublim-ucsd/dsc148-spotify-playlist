@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-326 songs - 20 hr 18 min
+327 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 | 2022-07-05 | 2024-04-19 |
 | [Ayer te vi con el](https://open.spotify.com/track/6fsjUt0zs7FtLDvLzLqwQM) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 3:34 | 2022-07-05 | 2022-07-21 |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2022-07-05 |  |
-| [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2022-07-05 |  |
+| [Boquita De Caramelo](https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ) | [Los Vikings 5](https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7) | [Iconos Kitsch](https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME) | 3:29 | 2022-07-05 | 2024-08-07 |
 | [Báilalo](https://open.spotify.com/track/2kXjQNAuP4dBb8gb1xO39E) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Garras De Amor](https://open.spotify.com/album/4qB23xglnEYsCn5FAKFShx) | 3:49 | 2022-07-05 | 2022-07-21 |
 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 | 2022-07-05 |  |
 | [Callejero](https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Afrorumba Chilenera](https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03) | 3:29 | 2022-07-05 | 2022-07-23 |
@@ -244,6 +244,7 @@
 | [Prisionera](https://open.spotify.com/track/2xrbnCU22dWCJostDEWvLl) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [15Añero](https://open.spotify.com/album/6VANTf2CMQHLbGdxtvaXKN) | 3:13 | 2022-07-05 | 2022-07-29 |
 | [Procura](https://open.spotify.com/track/3zbSYBDUbDEbqUIlCmOw09) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'O](https://open.spotify.com/album/7goOcWuzsNfNmEOFQvDBqF) | 4:31 | 2022-07-05 | 2022-07-29 |
 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2022-07-05 | 2024-04-19 |
+| [Pájaro y Demonio](https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio](https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ) | 3:46 | 2024-07-26 |  |
 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 | 2024-03-07 |  |
 | [Que Lloro](https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp) | [Zona Cumbia](https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ) | [Que Lloro](https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq) | 3:20 | 2022-07-05 | 2022-07-27 |
 | [Que Nadie Se Entere](https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:01 | 2022-07-05 |  |

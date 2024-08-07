@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 97005,
+  "num_followers": 97046,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Circle of Eyes",
-        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
-      },
-      "artists": [
-        {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
-        }
-      ],
-      "duration_ms": 420313,
-      "name": "Circle of Eyes",
-      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Circle of Eyes",
+        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+        }
+      ],
+      "duration_ms": 420313,
+      "name": "Circle of Eyes",
+      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Melting Hazard",
-        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 306676,
-      "name": "Melting Hazard",
-      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Weltenwandler",
         "url": "https://open.spotify.com/album/3XyVUgsWgSN4TRzovG9dVb"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+        "name": "Melting Hazard",
+        "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
       "artists": [
         {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+      "duration_ms": 306676,
+      "name": "Melting Hazard",
+      "url": "https://open.spotify.com/track/3GYAfSrDV0z6hurUomcELr"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -767,6 +751,22 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Cr\u00e9puscule I & II",
         "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "In Electric Time",
         "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 271240,
       "name": "Seawater Swell",
       "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Birds & Beasts",
-        "url": "https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p"
-      },
-      "artists": [
-        {
-          "name": "SUSS",
-          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
-        }
-      ],
-      "duration_ms": 602733,
-      "name": "Beasts",
-      "url": "https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -895,6 +879,22 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Birds & Beasts",
+        "url": "https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p"
+      },
+      "artists": [
+        {
+          "name": "SUSS",
+          "url": "https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS"
+        }
+      ],
+      "duration_ms": 602733,
+      "name": "Beasts",
+      "url": "https://open.spotify.com/track/2IoGAGwSw2uafOBq9dSe71"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Diamond Beach",
         "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Earth and Beyond",
         "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Into The Echo",
         "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 421021,
       "name": "Dreamers (Part I)",
       "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 242142,
       "name": "17\u00b0C",
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Falling but Not Alone",
+        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 600028,
+      "name": "Hang in There, Baby!",
+      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Camina",
         "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
       },
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Falling but Not Alone",
-        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 600028,
-      "name": "Hang in There, Baby!",
-      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Petrovo Uho Remixes Part I/III",
         "url": "https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 420923,
       "name": "Tramuntana - Efdemin Remix",
       "url": "https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
-      },
-      "artists": [
-        {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
-        }
-      ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "La Batterie",
         "url": "https://open.spotify.com/album/3djwoCHWzGnsGNVyUuMpf5"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 360765,
       "name": "Alap On Benares",
       "url": "https://open.spotify.com/track/3WpvOcNbqABE7vExODuITD"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+      },
+      "artists": [
+        {
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+        }
+      ],
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
     },
     {
       "added_at": "2024-06-28 14:30:27",

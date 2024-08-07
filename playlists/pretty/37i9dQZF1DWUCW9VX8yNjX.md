@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,662 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,653 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 97 | [No Vuelvas por Favor](https://open.spotify.com/track/7eSM6EAwQO66cuE82Jd8s1) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 3:02 |
 | 98 | [Como Queriendo y No](https://open.spotify.com/track/2wYa8fKaw4oBkBtjdFEvRE) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:12 |
 | 99 | [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 |
-| 100 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\) \- Remasterizado 2005](https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:32 |
-| 101 | [Un Beso A Medias](https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:55 |
+| 100 | [Un Beso A Medias](https://open.spotify.com/track/4VAoK0jOH7uLShGgJhZ5RR) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:55 |
+| 101 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\) \- Remasterizado 2005](https://open.spotify.com/track/0k5Dw1ZT0rS8qw9e4laIlY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:32 |
 | 102 | [Pude \- Live](https://open.spotify.com/track/3Yp7Rqe2sSNAjlWzRNNSMi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Pude \(Live\)](https://open.spotify.com/album/1mUqOexJKeMSeVjkJviwI8) | 3:01 |
 | 103 | [Lo Primero Que Haría](https://open.spotify.com/track/1zJUUvR9eoqyrVGxhtu6uF) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:18 |
 | 104 | [Cómo Agradecer](https://open.spotify.com/track/6IvVhryOV4LBXGNnoq8dID) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:02 |

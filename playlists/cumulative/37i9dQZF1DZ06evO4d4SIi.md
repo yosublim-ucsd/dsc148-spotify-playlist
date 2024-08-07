@@ -2,7 +2,7 @@
 
 ### [This Is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
 
-> This is Jordan Davis\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Jordan Davis\. The essential tracks, all in one playlist.
 
 53 songs - 2 hr 46 min
 

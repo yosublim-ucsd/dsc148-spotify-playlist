@@ -4,11 +4,12 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 55 min
+37 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A 120](https://open.spotify.com/track/4EoN3Bs1YcuARuDe2VdNhm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [A 120](https://open.spotify.com/album/6JcFpKkFg2knFRoFyefJib) | 3:04 | 2024-06-19 |  |
+| [A 120](https://open.spotify.com/track/4EoN3Bs1YcuARuDe2VdNhm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [A 120](https://open.spotify.com/album/6JcFpKkFg2knFRoFyefJib) | 3:04 | 2024-06-19 | 2024-08-07 |
+| [A 120 \- Version Discoteca](https://open.spotify.com/track/5LoW6EWegjAE0jBdybEWnS) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [A 120 \(Version Discoteca\)](https://open.spotify.com/album/2d2CgHfIxI3JyqbirVtvJk) | 2:24 | 2024-08-07 |  |
 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 | 2024-06-19 |  |
 | [Actua](https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn) | 3:58 | 2024-06-19 |  |
 | [Billetes Verdes \- Live](https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx) | 1:59 | 2024-06-19 |  |
@@ -27,8 +28,8 @@
 | [Olvidando el pasado](https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Olvidando el pasado](https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u) | 3:18 | 2024-06-19 |  |
 | [Otra Vez](https://open.spotify.com/track/6NxJLNvSZgFf1ffadqWtqm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:53 | 2024-07-12 |  |
 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 | 2024-07-12 |  |
-| [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 |  |
-| [Pilita](https://open.spotify.com/track/5piUgE2U1yqAADrkUb6oFM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6W0MM8aD5jKmefxReDfxIk) | 2:58 | 2024-06-19 |  |
+| [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 | 2024-08-07 |
+| [Pilita](https://open.spotify.com/track/5piUgE2U1yqAADrkUb6oFM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6W0MM8aD5jKmefxReDfxIk) | 2:58 | 2024-06-19 | 2024-08-07 |
 | [Prende](https://open.spotify.com/track/0HDlIJj210agV16lELqz63) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende](https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk) | 3:06 | 2024-06-19 |  |
 | [Provoca](https://open.spotify.com/track/2E59zaPJmV79zkp4iBqGws) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/425a8VovhxQ2sGLTbscygp) | 3:26 | 2024-06-19 |  |
 | [Quedate \- Version Discoteca](https://open.spotify.com/track/4fNoiC78XH83V907TSAk9m) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [King Jeff](https://open.spotify.com/artist/0g0BQxLVob6wSIglSFck5d) | [Quedate \(Version Discoteca\)](https://open.spotify.com/album/49marj4ERkHVY510ycGNMr) | 3:20 | 2024-06-19 |  |

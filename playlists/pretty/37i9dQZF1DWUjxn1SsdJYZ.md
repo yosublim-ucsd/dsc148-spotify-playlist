@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > OOS OOS!!! It's your weekly dose of AUS & NZ Rap\. Cover: Hooligan Hefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,321 likes - 95 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,317 likes - 95 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

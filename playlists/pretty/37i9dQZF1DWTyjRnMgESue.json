@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 79171,
+  "num_followers": 79179,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Tear It All Apart",
         "url": "https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 186342,
       "name": "Tear It All Apart",
       "url": "https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+        "name": "Maine/The Sink",
+        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+      "duration_ms": 293389,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Maine/The Sink",
-        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
       "artists": [
         {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 293389,
-      "name": "Maine",
-      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Lose You Now",
-        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
-      },
-      "artists": [
-        {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
-        }
-      ],
-      "duration_ms": 198572,
-      "name": "Lose You Now",
-      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Lose You Now",
+        "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 198572,
+      "name": "Lose You Now",
+      "url": "https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Timeline",
-        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 332585,
-      "name": "Timeline",
-      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Simple Like 17 (Deluxe)",
         "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198287,
       "name": "Shut Up About It",
       "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Timeline",
+        "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 332585,
+      "name": "Timeline",
+      "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "4 foot 2",
+        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 154936,
+      "name": "4 foot 2",
+      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "little me",
         "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "4 foot 2",
-        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
+        "name": "Wishes",
+        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
       },
       "artists": [
         {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 154936,
-      "name": "4 foot 2",
-      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
+      "duration_ms": 249138,
+      "name": "Wishes",
+      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 249138,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+      "duration_ms": 154340,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "talking to myself",
-        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "talking to myself",
-      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "One Less Question",
         "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "talking to myself",
+        "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "talking to myself",
+      "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
       },
       "artists": [
         {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Watchman",
-      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

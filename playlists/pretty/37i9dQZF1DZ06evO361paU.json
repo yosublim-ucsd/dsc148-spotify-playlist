@@ -1,33 +1,13 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 265485,
+  "num_followers": 265528,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABdhTDOKsKyoStXtEkvzUnx",
+  "snapshot_id": "ZrAWAAAAAAD4hbe6Iugse/CdUZhU2UEi",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human (Paul Woolford Remix)",
-        "url": "https://open.spotify.com/album/6L9Z6gzQugGXIh8WdODMnI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        }
-      ],
-      "duration_ms": 215999,
-      "name": "Human - Paul Woolford Edit",
-      "url": "https://open.spotify.com/track/0NdFZWmia7IfFMPI8ZYNAD"
-    },
     {
       "added_at": null,
       "album": {
@@ -263,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 230237,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -291,6 +255,22 @@
       "duration_ms": 297301,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 230237,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
     },
     {
       "added_at": null,
@@ -331,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 327378,
-      "name": "TK421",
-      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Is Time For A Love Revolution",
         "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
       },
@@ -359,6 +323,22 @@
       "duration_ms": 259186,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/2HPVtKMWRlP1r9ODenvePM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
     },
     {
       "added_at": null,
@@ -395,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 379513,
-      "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
-      "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -427,6 +391,22 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 379513,
+      "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
+      "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
     },
     {
       "added_at": null,
@@ -463,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 310937,
-      "name": "Stuck in the Middle",
-      "url": "https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -491,6 +455,22 @@
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 310937,
+      "name": "Stuck in the Middle",
+      "url": "https://open.spotify.com/track/3KOUSBKibyAQo5LbIJh8pS"
     },
     {
       "added_at": null,
@@ -527,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 273790,
-      "name": "Spirit in My Heart",
-      "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -555,6 +519,22 @@
       "duration_ms": 317026,
       "name": "If You Can't Say No",
       "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 273790,
+      "name": "Spirit in My Heart",
+      "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"
     },
     {
       "added_at": null,
@@ -819,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Black Velveteen",
-      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -847,6 +811,22 @@
       "duration_ms": 214653,
       "name": "Minister Of Rock 'N Roll",
       "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
     },
     {
       "added_at": null,

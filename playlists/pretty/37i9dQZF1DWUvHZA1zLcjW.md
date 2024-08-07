@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 
 > Chilled classical tunes to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,182 likes - 118 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,233 likes - 118 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvHZA1zLcjW.md) - [plain]
 | 49 | [Gabriel's Oboe \(From "The Mission"\)](https://open.spotify.com/track/0kRB0hhG9KYXiokmqZehwn) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Cinema](https://open.spotify.com/album/243oDF9ZIj87IaQp8duXzR) | 3:42 |
 | 50 | [Homebound](https://open.spotify.com/track/1YC73UseIZ9AjZ3bkh7YoM) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [DAWN](https://open.spotify.com/album/3AIuVXMYIVziYMYM7UxW2h) | 2:02 |
 | 51 | [L'Oiseau de feu \(1911 Version\): X\. Khorovod \(Ronde\) des princesses](https://open.spotify.com/track/6oVBLpHQIR1pSwgBjMOFkO) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Klaus Mäkelä](https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE) | [Stravinsky: L'Oiseau de feu \(1911 Version\): X\. Khorovod \(Ronde\) des princesses](https://open.spotify.com/album/7EnZm1nR8zwrm3lUSKmmbU) | 4:42 |
-| 52 | [Keyboard Sonata in F Minor, Kk\. 466 \- Upright Version](https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin – Scarlatti: Singles \(Pt\. 2\)](https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI) | 3:57 |
+| 52 | [Keyboard Sonata in F Minor, Kk\. 466 \- Upright Version](https://open.spotify.com/track/67N2IvstYvCgJub1SrixLd) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Julius Asal](https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE) | [Scriabin – Scarlatti: Singles \- Pt\. 2](https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI) | 3:57 |
 | 53 | [Emerald and Stone](https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Emerald and Stone](https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5) | 2:15 |
 | 54 | [String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Sphinx Virtuosi](https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn) | [Price: String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/album/50Cnys8oPsROratizJAoed) | 7:06 |
 | 55 | [Abendlied, Op\. 85 No\. 12 \(Arr\. Grosvenor\)](https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s) | [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Schumann & Brahms](https://open.spotify.com/album/4BGkbzqf7R95Ce9lrSzflR) | 3:27 |

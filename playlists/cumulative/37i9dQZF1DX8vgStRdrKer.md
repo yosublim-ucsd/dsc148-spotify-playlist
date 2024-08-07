@@ -4,12 +4,12 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-202 songs - 16 hr 17 min
+203 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 U](https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [4 U](https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0) | 2:27 | 2024-06-14 |  |
-| [Abide](https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Abide](https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR) | 3:01 | 2024-06-07 |  |
+| [Abide](https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Abide](https://open.spotify.com/album/033oTE2UMHHRG3utN87UvR) | 3:01 | 2024-06-07 | 2024-08-07 |
 | [Adonai](https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Adonai](https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D) | 4:09 | 2023-10-20 | 2024-03-16 |
 | [Adore You](https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Adore You](https://open.spotify.com/album/5GV2IQqxEByoiovHXo3FsK) | 2:46 | 2024-03-08 | 2024-04-20 |
 | [After All These Years](https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [after all these years](https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs) | 4:28 | 2024-01-05 |  |
@@ -74,6 +74,7 @@
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 |  |
+| [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 |  |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 |  |
 | [Higher](https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Higher](https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc) | 2:38 | 2024-06-14 | 2024-07-21 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |

@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30605,
+  "num_followers": 30625,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
-        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
+        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
       },
       "artists": [
         {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "USTYM",
+          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
         }
       ],
-      "duration_ms": 177468,
-      "name": "\u041b\u0435\u0441\u044f",
-      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
+      "duration_ms": 187123,
+      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
+        "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
+        "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
       "artists": [
         {
-          "name": "USTYM",
-          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 187123,
-      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
+      "duration_ms": 177468,
+      "name": "\u041b\u0435\u0441\u044f",
+      "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -755,22 +755,6 @@
       "duration_ms": 182571,
       "name": "\u041c\u043e\u044f \u0443\u0442\u043e\u043c\u0430",
       "url": "https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
-        "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
-      },
-      "artists": [
-        {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 136304,
-      "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "\u0414\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
+          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "Makoterchyk",
         "url": "https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 112262,
       "name": "\u041b\u0438\u043d\u0443",
       "url": "https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "\u0414\u0456\u0442\u0438",
-        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
-        }
-      ],
-      "duration_ms": 238672,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "Made You Up",
-        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
+        "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
+        "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
       },
       "artists": [
         {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
         }
       ],
-      "duration_ms": 166245,
-      "name": "Made You Up",
-      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
+      "duration_ms": 136304,
+      "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0412\u043e\u043b\u044f (full version)",
-        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+        "name": "Made You Up",
+        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
       },
       "artists": [
         {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
         }
       ],
-      "duration_ms": 164636,
-      "name": "\u0412\u043e\u043b\u044f - full version",
-      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+      "duration_ms": 166245,
+      "name": "Made You Up",
+      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-        "url": "https://open.spotify.com/album/1RltwzS3oGphyquYRIReC4"
+        "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+        "url": "https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM"
       },
       "artists": [
         {
-          "name": "Oxana Trach",
-          "url": "https://open.spotify.com/artist/1VqqAM2W8jfZSq8hKU7Kww"
+          "name": "ba.latskii",
+          "url": "https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz"
         }
       ],
-      "duration_ms": 143953,
-      "name": "\u0421\u043e\u043b\u043e\u0432'\u0457",
-      "url": "https://open.spotify.com/track/2LFs6apdfs1cIkrVscZpca"
+      "duration_ms": 233777,
+      "name": "\u0422\u0438 \u0441\u043e\u043d\u0446\u0435 \u044f \u0441\u043d\u0456\u0433",
+      "url": "https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -1023,6 +1007,22 @@
       "duration_ms": 261500,
       "name": "\u0426\u0456\u043b\u0443\u0439",
       "url": "https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0412\u043e\u043b\u044f (full version)",
+        "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
+      },
+      "artists": [
+        {
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 164636,
+      "name": "\u0412\u043e\u043b\u044f - full version",
+      "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-09",
-  "description": "This is HARDY. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "description": "This is HARDY. The essential tracks, all in one playlist.",
   "name": "This Is HARDY",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 153747,
       "name": "I DON'T MISS",
       "url": "https://open.spotify.com/track/0m22YjrIi3UzD0XpSS9pW4"
@@ -1214,10 +1214,28 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
     },
     {
       "album": {

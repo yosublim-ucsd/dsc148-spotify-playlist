@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584 likes - 171 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,581 likes - 171 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 142 | [Sugarpills](https://open.spotify.com/track/3w0DRBcknOR9HeT8LE1KmW) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:08 |
 | 143 | [AYO \(That's What I Like\)](https://open.spotify.com/track/7C00Nu91xbJQAvMwBhwsYz) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:17 |
 | 144 | [San Fran](https://open.spotify.com/track/6cjxIBKlxTIMLFdOf601YC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:31 |
-| 145 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Japanese Edition\)](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 |
+| 145 | [Reminds Me Of You](https://open.spotify.com/track/2RTJW4LGOiz0pboM8LJWkp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \- Japanese Edition](https://open.spotify.com/album/5N2cKMFxO89SjxJgDWmsQ5) | 3:14 |
 | 146 | [Serpent Queen Pt 2](https://open.spotify.com/track/5i93CjdsuBlklQsAWHJT9v) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me On Your Side](https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz) | 2:53 |
 | 147 | [Home](https://open.spotify.com/track/1XsX1UjkAnVKnRFadCYdIF) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/67NWJ3RuWpPohz3zvJmmOb) | 4:36 |
 | 148 | [Apart Of You](https://open.spotify.com/track/1DWDQ3oTtgVbvxwcnnATDP) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:19 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 170 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 171 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `AbYo2gAAAAA3LWFV5eLZuYRn18qGNlZs`
+Snapshot ID: `AbYuegAAAABOXb/4WHPlxO+A2I0+ckJl`

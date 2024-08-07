@@ -1,13 +1,29 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: IDLES",
-  "num_followers": 219898,
+  "num_followers": 219899,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZquBpwAAAAB1UjSc8SOdAT8aIjb+unzk",
+  "snapshot_id": "ZrIxTAAAAAAiocSWiH9aoY0RHPUT4S27",
   "tracks": [
+    {
+      "added_at": "2024-08-06 14:21:00",
+      "album": {
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
+    },
     {
       "added_at": "2024-08-01 12:37:58",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: A$AP Rocky\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,795 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,925 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 20 | [On Up](https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [On Up](https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c) | 2:30 |
 | 21 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 |
 | 22 | [SLUT ME OUT 2 \- Wet N Wild Mix](https://open.spotify.com/track/3fwVLzMn0LiGVRR8ttuoF8) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [SLUT ME OUT 2: THE RAUNCHY REMIXES](https://open.spotify.com/album/1F5YB6ZCBlRPj32B9Wvvpt) | 2:33 |
-| 23 | [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:59 |
+| 23 | [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:33 |
 | 24 | [最像你的決定](https://open.spotify.com/track/4G7DyozFEttMYuhGdKse9m) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [最像你的決定](https://open.spotify.com/album/7FFU8c4XZwp3kOB695sQiy) | 2:38 |
 | 25 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 |
 | 26 | [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 |

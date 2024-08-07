@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259667,
+  "num_followers": 259661,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2024-08-02 18:36:43",
       "album": {
+        "name": "Mem\u00f3ria Degrad\u00ea",
+        "url": "https://open.spotify.com/album/7lcd90LcAx66MZ67yymMRE"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 199062,
+      "name": "Mem\u00f3ria Degrad\u00ea",
+      "url": "https://open.spotify.com/track/6OegJfS05TKWZzAVk1Jc8k"
+    },
+    {
+      "added_at": "2024-08-02 18:36:43",
+      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 191986,
       "name": "Blame It On Me - Acoustic",
       "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
-    },
-    {
-      "added_at": "2024-08-02 18:36:43",
-      "album": {
-        "name": "Mem\u00f3ria Degrad\u00ea",
-        "url": "https://open.spotify.com/album/7lcd90LcAx66MZ67yymMRE"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 199062,
-      "name": "Mem\u00f3ria Degrad\u00ea",
-      "url": "https://open.spotify.com/track/6OegJfS05TKWZzAVk1Jc8k"
     },
     {
       "added_at": "2024-08-02 18:36:43",

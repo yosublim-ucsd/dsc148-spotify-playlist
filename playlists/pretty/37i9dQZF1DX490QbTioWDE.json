@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4 Lokura.",
-  "num_followers": 710851,
+  "num_followers": 710870,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 152536,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Anti Amor",
         "url": "https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 180198,
       "name": "Anti Amor",
       "url": "https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        }
-      ],
-      "duration_ms": 152536,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/6PYk6EfSUUqIbU9QLXvxGV"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 145088,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "De Nada",
         "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Completamente Un Incompleto",
-        "url": "https://open.spotify.com/album/1JasZQXnVOyfk7XLYLg5G7"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6PYk6EfSUUqIbU9QLXvxGV"
       },
       "artists": [
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 176993,
-      "name": "Completamente Un Incompleto",
-      "url": "https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1"
+      "duration_ms": 145088,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 183502,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/6nZwpyKnTEFK059OflV4a4"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Completamente Un Incompleto",
+        "url": "https://open.spotify.com/album/1JasZQXnVOyfk7XLYLg5G7"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 176993,
+      "name": "Completamente Un Incompleto",
+      "url": "https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1"
     },
     {
       "added_at": "2024-08-02 03:00:00",

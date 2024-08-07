@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 203517,
       "name": "Audrey and Jack",
       "url": "https://open.spotify.com/track/6Zxx0HOw0vDjvO5URV6C4b"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 223643,
       "name": "In The Wee Small Hours Of The Mornin",
       "url": "https://open.spotify.com/track/7xOTO27JomMqWgzaeyD7WQ"
@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Kind Gesture",
+        "url": "https://open.spotify.com/album/5n5jCckzOj1upa0dV3gLrQ"
+      },
+      "artists": [
+        {
+          "name": "Berliner Luft Quartet",
+          "url": "https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304305,
+      "name": "Kind Gesture",
+      "url": "https://open.spotify.com/track/4UvBttlat06xtjbeZ6zMsa"
+    },
+    {
+      "album": {
         "name": "Know About This",
         "url": "https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z"
       },
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 170952,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/23DcHmLNaFGDZgwvDGFZAr"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 208096,
       "name": "My Friend In Tanganyika",
       "url": "https://open.spotify.com/track/2xVVCXzIuILeIRoQrZYlQD"
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 177353,
       "name": "My Heart Wont Tell Me No",
       "url": "https://open.spotify.com/track/5CHYbV9TiI3V823hZBqN92"
@@ -3453,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Say What You Mean",
+        "url": "https://open.spotify.com/album/47aVJWrtJZNVxg9Gwa5T9w"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mendez Group",
+          "url": "https://open.spotify.com/artist/631XePl2r4gmsvDUTJgxqj"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201334,
+      "name": "Say What You Mean",
+      "url": "https://open.spotify.com/track/2H61wQkJnlml24lEvefckV"
+    },
+    {
+      "album": {
         "name": "Schnitz n\u00b4Schniggles",
         "url": "https://open.spotify.com/album/1ObA1O7H3uDG6kV6CROeVw"
       },
@@ -3969,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6UiI3PsyvwQJtQROjYuCan"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190989,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6zD1FxAEfRxLs3EKK1nPx6"
+    },
+    {
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -4067,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Sweet Conversation",
+        "url": "https://open.spotify.com/album/0N8Y7V2xTpEf2DR1HTUhNy"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279789,
+      "name": "Sweet Conversation",
+      "url": "https://open.spotify.com/track/6U7RcKkQf6OVgTQKtwTV1c"
+    },
+    {
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/3zzFdi4zMi1OwjrOvg6Au7"
       },
@@ -4136,6 +4208,24 @@
       "duration_ms": 195285,
       "name": "Tenor Madness",
       "url": "https://open.spotify.com/track/5l5afwiBQjRVT5ukYvF1br"
+    },
+    {
+      "album": {
+        "name": "Thanks for Coming",
+        "url": "https://open.spotify.com/album/3cHDD98DUzgNMj05KqY4yz"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157291,
+      "name": "Thanks for Coming",
+      "url": "https://open.spotify.com/track/01gKWL5LmFKMjsrBVvV0hH"
     },
     {
       "album": {
@@ -4258,7 +4348,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 225633,
       "name": "The Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL"
@@ -4864,6 +4954,24 @@
       "duration_ms": 193697,
       "name": "Volare",
       "url": "https://open.spotify.com/track/5wrPY0DoczKtiaqLtozTmc"
+    },
+    {
+      "album": {
+        "name": "Walking By",
+        "url": "https://open.spotify.com/album/3D0p0Nd2uLQVShpQcVIYiJ"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167507,
+      "name": "Walking By",
+      "url": "https://open.spotify.com/track/0CtufKbrnk06oIhgAxqY3H"
     },
     {
       "album": {

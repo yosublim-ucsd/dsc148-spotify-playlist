@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
-  "num_followers": 14623,
+  "num_followers": 14628,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "N.D. State Of Mind",
-        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
-      },
-      "artists": [
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "N.D. State Of Mind",
-      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "PAC-MAN",
         "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "N.D. State Of Mind",
+        "url": "https://open.spotify.com/album/0WZZYgUGfNvIzjVmDuYww9"
+      },
+      "artists": [
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "N.D. State Of Mind",
+      "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Recuerda",
+        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 160941,
       "name": "El Humito",
       "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Recuerda",
-        "url": "https://open.spotify.com/album/46Npdj6F3ebBB4SuUI5GLE"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/1bJFy4c5zO2e5hPeaJ5Jru"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "La Laif",
         "url": "https://open.spotify.com/album/6BqhuS0nwbKStk4xTjzr4v"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 227571,
       "name": "La Laif",
       "url": "https://open.spotify.com/track/7uItIg7h3ahTcTM670Z0pl"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Tiempo y Espacio",
+        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
+      },
+      "artists": [
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 177756,
+      "name": "Tiempo y Espacio",
+      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Tiempo y Espacio",
-        "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
-      },
-      "artists": [
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 177756,
-      "name": "Tiempo y Espacio",
-      "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "3 RAP",
         "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
@@ -939,6 +939,30 @@
       "duration_ms": 255339,
       "name": "3 RAP",
       "url": "https://open.spotify.com/track/1MdgjClX0dCx2qCEuo05pF"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "La pr\u00e1ctica",
+        "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        },
+        {
+          "name": "Yakari.",
+          "url": "https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs"
+        },
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "La pr\u00e1ctica",
+      "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -991,50 +1015,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "La pr\u00e1ctica",
-        "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        },
-        {
-          "name": "Yakari.",
-          "url": "https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs"
-        },
-        {
-          "name": "Robert Tiamo",
-          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "La pr\u00e1ctica",
-      "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Gabanna",
-          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
-        },
-        {
-          "name": "Lupita's Friends",
-          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Tasmania",
-      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Cxrtier",
         "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
       },
@@ -1059,22 +1039,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "MC Davo En Vivo: Parte 1",
-        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194383,
-      "name": "Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "No Era para M\u00ed",
         "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
       },
@@ -1087,6 +1051,26 @@
       "duration_ms": 117418,
       "name": "No Era para M\u00ed",
       "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/3xcboZ4sXClPniEFbaEW9M"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Gabanna",
+          "url": "https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm"
+        },
+        {
+          "name": "Lupita's Friends",
+          "url": "https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW"
+        }
+      ],
+      "duration_ms": 189486,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "MC Davo En Vivo: Parte 1",
+        "url": "https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw"
       },
@@ -1123,6 +1123,26 @@
       "duration_ms": 157037,
       "name": "V",
       "url": "https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "ICONIC PERRA",
+        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "duration_ms": 124705,
+      "name": "ICONIC PERRA",
+      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1151,22 +1171,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "ICONIC PERRA",
-        "url": "https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU"
+        "name": "No Pidas Tanto",
+        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
       },
       "artists": [
         {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+          "name": "El Muisca",
+          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
         },
         {
-          "name": "Viangogh",
-          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+          "name": "Pedro Navajas",
+          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
         }
       ],
-      "duration_ms": 124705,
-      "name": "ICONIC PERRA",
-      "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
+      "duration_ms": 152441,
+      "name": "No Pidas Tanto",
+      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1199,46 +1223,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "No Pidas Tanto",
-        "url": "https://open.spotify.com/album/6gEcoYe8NQdcVZSQy23cSc"
-      },
-      "artists": [
-        {
-          "name": "El Muisca",
-          "url": "https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5"
-        },
-        {
-          "name": "Pedro Navajas",
-          "url": "https://open.spotify.com/artist/1K71G4Q54XLGcY5WKPc5Ux"
-        },
-        {
-          "name": "Arion",
-          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
-        }
-      ],
-      "duration_ms": 152441,
-      "name": "No Pidas Tanto",
-      "url": "https://open.spotify.com/track/35AK8srOaFTQBnwN2RxQTJ"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 186197,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1279,26 +1279,6 @@
       "duration_ms": 228837,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Charic",
-        "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
-      },
-      "artists": [
-        {
-          "name": "GUANACO",
-          "url": "https://open.spotify.com/artist/7hU7xPPEEDgzWw3Ao8SupC"
-        },
-        {
-          "name": "Don De Gente",
-          "url": "https://open.spotify.com/artist/33fV4jYWFmoIiZZVlBGT9N"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "Charic",
-      "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Charic",
+        "url": "https://open.spotify.com/album/1H7Xl7VVVoizaRx7P8XJx5"
+      },
+      "artists": [
+        {
+          "name": "GUANACO",
+          "url": "https://open.spotify.com/artist/7hU7xPPEEDgzWw3Ao8SupC"
+        },
+        {
+          "name": "Don De Gente",
+          "url": "https://open.spotify.com/artist/33fV4jYWFmoIiZZVlBGT9N"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "Charic",
+      "url": "https://open.spotify.com/track/5hDWlCSRBsoI5Xb3C4DbAq"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
       },
@@ -1363,6 +1363,26 @@
       "duration_ms": 167127,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Just in Case",
+        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "duration_ms": 209490,
+      "name": "Just in Case",
+      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Just in Case",
-        "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        },
-        {
-          "name": "Eptos Uno",
-          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
-        }
-      ],
-      "duration_ms": 209490,
-      "name": "Just in Case",
-      "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
       },
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "El Juanito Y El Mu\u00f1equia",
-        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
+        "name": "NOS CRUZAS EN EL POGO",
+        "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
       },
       "artists": [
         {
-          "name": "Baby Syko",
-          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
         }
       ],
-      "duration_ms": 214569,
-      "name": "El Juanito Y El Mu\u00f1equia",
-      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+      "duration_ms": 160000,
+      "name": "MI PROP\u00d3SITO",
+      "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1487,22 +1491,38 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "NOS CRUZAS EN EL POGO",
-        "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
+        "name": "El Juanito Y El Mu\u00f1equia",
+        "url": "https://open.spotify.com/album/7CC5r2ibyDJUtoGHbxRCs6"
       },
       "artists": [
         {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        },
-        {
-          "name": "Zica",
-          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
+          "name": "Baby Syko",
+          "url": "https://open.spotify.com/artist/3i6sJo42FddEYbBoBmwgqY"
         }
       ],
-      "duration_ms": 160000,
-      "name": "MI PROP\u00d3SITO",
-      "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
+      "duration_ms": 214569,
+      "name": "El Juanito Y El Mu\u00f1equia",
+      "url": "https://open.spotify.com/track/5ruRhEiDPP7ysu4kKEnZp3"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "\"El Camino\" Session 8",
+        "url": "https://open.spotify.com/album/5PHkNDkaWVF7naFQayISSP"
+      },
+      "artists": [
+        {
+          "name": "Araus Danesi",
+          "url": "https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK"
+        },
+        {
+          "name": "El Menor",
+          "url": "https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW"
+        }
+      ],
+      "duration_ms": 165176,
+      "name": "\"El Camino\" Session 8",
+      "url": "https://open.spotify.com/track/2MtssIysbW81WBAhOMTBmI"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1547,26 +1567,6 @@
       "duration_ms": 189767,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/1y7x4qStqQmSaGFDGPEmuE"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "\"El Camino\" Session 8",
-        "url": "https://open.spotify.com/album/5PHkNDkaWVF7naFQayISSP"
-      },
-      "artists": [
-        {
-          "name": "Araus Danesi",
-          "url": "https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK"
-        },
-        {
-          "name": "El Menor",
-          "url": "https://open.spotify.com/artist/5jAbdQuetN1LntrEphYBTW"
-        }
-      ],
-      "duration_ms": 165176,
-      "name": "\"El Camino\" Session 8",
-      "url": "https://open.spotify.com/track/2MtssIysbW81WBAhOMTBmI"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+      },
+      "artists": [
+        {
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "SHININ' (PISPO)",
         "url": "https://open.spotify.com/album/2qJeWkFjVmcK9X11QgkcS6"
       },
@@ -1791,22 +1811,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Lucifer",
-        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
+        "name": "Juega Vivo",
+        "url": "https://open.spotify.com/album/1hYuX32YL4KwBgR7wRrI2W"
       },
       "artists": [
         {
-          "name": "Fierros Mancilla",
-          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
         }
       ],
-      "duration_ms": 267558,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+      "duration_ms": 199480,
+      "name": "Juega Vivo",
+      "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1831,22 +1847,6 @@
       "duration_ms": 259312,
       "name": "Dependiente",
       "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Juega Vivo",
-        "url": "https://open.spotify.com/album/1hYuX32YL4KwBgR7wRrI2W"
-      },
-      "artists": [
-        {
-          "name": "Yorking HB",
-          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Juega Vivo",
-      "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "SENSOU",
-        "url": "https://open.spotify.com/album/2kIclQyee6jM7Z2DhASF9D"
-      },
-      "artists": [
-        {
-          "name": "cKovi",
-          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "SENSOU",
-      "url": "https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 148636,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "SENSOU",
+        "url": "https://open.spotify.com/album/2kIclQyee6jM7Z2DhASF9D"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "SENSOU",
+      "url": "https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "ZO",
+        "url": "https://open.spotify.com/album/2eKAuWR9X0E0iuKlTtjeTl"
+      },
+      "artists": [
+        {
+          "name": "inDiazo",
+          "url": "https://open.spotify.com/artist/2nwQnQVnBmyJMyMrsEllLZ"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "GroCERO",
+      "url": "https://open.spotify.com/track/3B73ptNPZzGTYsQqHjZEP1"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Eyes On The Prize",
         "url": "https://open.spotify.com/album/3MCruYqKfStP4fd0CDab2a"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 212466,
       "name": "Eyes On The Prize",
       "url": "https://open.spotify.com/track/4tuubvvEWkgmEWkxg2Dqti"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "ZO",
-        "url": "https://open.spotify.com/album/2eKAuWR9X0E0iuKlTtjeTl"
-      },
-      "artists": [
-        {
-          "name": "inDiazo",
-          "url": "https://open.spotify.com/artist/2nwQnQVnBmyJMyMrsEllLZ"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "GroCERO",
-      "url": "https://open.spotify.com/track/3B73ptNPZzGTYsQqHjZEP1"
     }
   ],
   "unique_name": "Rimas Frescas ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,783 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,784 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 39 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 |
 | 40 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv) | 3:34 |
 | 41 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 |
-| 42 | [Swimming Pool](https://open.spotify.com/track/1tAXRG24pKcKqSJB42JXcL) | [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P), [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Swimming Pool](https://open.spotify.com/album/7E2PC1UukNMvbnqadklf66) | 3:47 |
+| 42 | [Swimming Pool](https://open.spotify.com/track/1tAXRG24pKcKqSJB42JXcL) | [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P), [Juliet By Night](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Swimming Pool](https://open.spotify.com/album/7E2PC1UukNMvbnqadklf66) | 3:47 |
 | 43 | [Hoàng Ku](https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Hoàng Ku](https://open.spotify.com/album/63sY910Q108Te3OjWqt1KH) | 3:03 |
 | 44 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
 | 45 | [UMBALA \- Acoustic version](https://open.spotify.com/track/0ubZvjPkpi7mJxAI9PkCtd) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR) | [UMBALA \(Acoustic version\)](https://open.spotify.com/album/6xQVtFRH4WGlHTpuZ4U7oi) | 3:34 |

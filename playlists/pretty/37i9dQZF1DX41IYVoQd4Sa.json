@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 29955,
+  "num_followers": 29961,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
-      },
-      "artists": [
-        {
-          "name": "Jane Bordeaux",
-          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
-        }
-      ],
-      "duration_ms": 227532,
-      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 151719,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
+        "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU"
+      },
+      "artists": [
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        }
+      ],
+      "duration_ms": 227532,
+      "name": "\u05de\u05d2\u05d3\u05dc \u05d4\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05dc\u05d1",
-        "url": "https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj"
+        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
-          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "VuVuVu",
+          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
         }
       ],
-      "duration_ms": 225800,
-      "name": "\u05dc\u05d1",
-      "url": "https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP"
+      "duration_ms": 229362,
+      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -875,26 +879,6 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz"
-      },
-      "artists": [
-        {
-          "name": "Karolina",
-          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
-        },
-        {
-          "name": "VuVuVu",
-          "url": "https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP"
-        }
-      ],
-      "duration_ms": 229362,
-      "name": "\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
         "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
         "url": "https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174750,
       "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
       "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+      },
+      "artists": [
+        {
+          "name": "GADEE",
+          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Fool For Your Smile",
+      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -939,18 +939,38 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
       },
       "artists": [
         {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Odelly",
+          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
         }
       ],
-      "duration_ms": 219000,
-      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
-      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
+      "duration_ms": 170994,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
+    },
+    {
+      "added_at": "2024-08-01 21:00:00",
+      "album": {
+        "name": "\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05d2\u05d1 \u05d2\u05dc\u05d5\u05e1\u05de\u05df",
+          "url": "https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "\u05dc\u05d1",
+      "url": "https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -975,18 +995,18 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
+        "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+        "url": "https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6"
       },
       "artists": [
         {
-          "name": "Yoni Rechter",
-          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
         }
       ],
-      "duration_ms": 205720,
-      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
-      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
+      "duration_ms": 219000,
+      "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
+      "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -1007,18 +1027,18 @@
     {
       "added_at": "2024-08-01 21:00:00",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+        "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/0Ch02uieisTBRUvU3i5vfJ"
       },
       "artists": [
         {
-          "name": "GADEE",
-          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Fool For Your Smile",
-      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+      "duration_ms": 205720,
+      "name": "\u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
+      "url": "https://open.spotify.com/track/6m3qxagd6VP0zpBnfd6MXi"
     },
     {
       "added_at": "2024-08-01 21:00:00",
@@ -1035,26 +1055,6 @@
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
-      },
-      "artists": [
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

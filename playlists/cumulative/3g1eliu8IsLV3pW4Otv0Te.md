@@ -4,7 +4,7 @@
 
 > 
 
-218 songs - 14 hr 53 min
+219 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Middle](https://open.spotify.com/track/2Fn3coxd0xAZ09JtrgcgHa) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Middle](https://open.spotify.com/album/0d0vGVA9SEIQF6dok7hnK0) | 3:40 | 2018-01-23 |  |
 | [Mind Games](https://open.spotify.com/track/1eJ8OO6hINoaczlMkQri9I) | [Alphabet Pony](https://open.spotify.com/artist/3n1CiDY4COv1vf7tW6IuRa) | [Mind Games](https://open.spotify.com/album/6gcW5nLuTDbMDlvKTYYc4D) | 5:23 | 2016-10-05 |  |
 | [Mind In Motion \- Original Mix](https://open.spotify.com/track/1WVE6fsHpmoM6i2jw1FjYH) | [Doxx](https://open.spotify.com/artist/0e1SJik6wCXJnOqsNLmuPl), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU) | [Doxx & Feint EP](https://open.spotify.com/album/5Nca9r4mw5bopsEwPt9DzW) | 4:40 | 2016-01-15 |  |
+| [Mulholland Drive](https://open.spotify.com/track/1YQLuXSz5w8DIBmqoCwNsd) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Attempted Lover](https://open.spotify.com/album/1PtRIyLbXFu9B06kuKuve0) | 2:50 | 2024-08-06 |  |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2024-07-07 |  |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2019-01-19 |  |
 | [No Way Out](https://open.spotify.com/track/3pe9GoJxujrV3Wpl2XvY2t) | [Gemini](https://open.spotify.com/artist/3QqJ1L8cWsPFZ1YDPpUmvG) | [Fire Inside EP](https://open.spotify.com/album/5INYTDy5JYDnLtdIQxQ0sL) | 3:22 | 2016-01-14 |  |

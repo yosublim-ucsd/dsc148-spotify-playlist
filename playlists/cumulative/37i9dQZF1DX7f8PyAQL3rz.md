@@ -2,7 +2,7 @@
 
 ### [creme](https://open.spotify.com/playlist/37i9dQZF1DX7f8PyAQL3rz)
 
-> tuê diz bye bye
+> surpresinha do tuê
 
 348 songs - 20 hr 50 min
 

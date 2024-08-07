@@ -791,6 +791,32 @@
     },
     {
       "album": {
+        "name": "C'est La Cr\u00e8me",
+        "url": "https://open.spotify.com/album/440qCEfkxCZnxuQu1KK8iA"
+      },
+      "artists": [
+        {
+          "name": "Vera GRV",
+          "url": "https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa"
+        },
+        {
+          "name": "STEGA",
+          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157543,
+      "name": "C'est La Cr\u00e8me",
+      "url": "https://open.spotify.com/track/64hn78Rht6qWoxXq47H66U"
+    },
+    {
+      "album": {
         "name": "Caballo Blanco (feat. Macaco)",
         "url": "https://open.spotify.com/album/25syvOHfcxMYUwdqkYqtE9"
       },
@@ -2640,7 +2666,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 212486,
       "name": "La desped\u00eda",
       "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"

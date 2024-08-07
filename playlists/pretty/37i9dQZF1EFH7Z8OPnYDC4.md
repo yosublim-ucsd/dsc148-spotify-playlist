@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 326 songs - 19 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 326 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 325 | [Sweet Peter](https://open.spotify.com/track/6s0VmlgfeasPS5dFaQ2q18) | [Cyril Ritchard & Chorus](https://open.spotify.com/artist/1jSYHtyZRHcVhvyh7Jh1gL) | [Dearest Enemy](https://open.spotify.com/album/7fuQb6l4iSJSOfHwzq0MYo) | 2:24 |
 | 326 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 
-Snapshot ID: `AbYo3gAAAAD+kerTCogp2Jm1TPo1B2JB`
+Snapshot ID: `AbYufgAAAABdaE3QPiRr0cGB9Hra5+3V`

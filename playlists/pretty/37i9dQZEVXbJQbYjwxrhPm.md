@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 45 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 |
 | 46 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 47 | [Докторе](https://open.spotify.com/track/3w30KXcLHK8crsWlDAxSVe) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:29 |
-| 48 | [Пуши, пуши](https://open.spotify.com/track/2aAauMPpypnaxndfR1y6Y6) | [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8), [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Пуши, пуши](https://open.spotify.com/album/7yF4PVvRoaoCQtxgke3XvY) | 3:40 |
+| 48 | [Пуши, пуши](https://open.spotify.com/track/2aAauMPpypnaxndfR1y6Y6) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Danna](https://open.spotify.com/artist/2M8DUpSnqu7TlGxEgjUocd) | [Пуши, пуши](https://open.spotify.com/album/7yF4PVvRoaoCQtxgke3XvY) | 3:40 |
 | 49 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 50 | [Houdini](https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:47 |
 
-Snapshot ID: `LkQ5GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LkWM8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Rhymastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,570 likes - 54 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,576 likes - 54 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 11 | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz) | [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [Sài Gòn Hôm Nay Mưa](https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX) | 4:07 |
 | 12 | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/track/3Alwi53Ahc2GwHgvel42b2) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/album/3iFlB14QgBcKFkaChZ9cYq) | 3:40 |
 | 13 | [1000 Ánh Mắt](https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc) | [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Lặng](https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN) | 2:32 |
-| 14 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Nicky](https://open.spotify.com/artist/7yOWWIVWNJZzCzzpEw8NoI) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 |
+| 14 | [tình yêu chậm trễ](https://open.spotify.com/track/6jcLKVmEKAQIXIVHJZ8vzS) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [NICKY](https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw) | [Over The Moon](https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7) | 4:05 |
 | 15 | [Để Ý](https://open.spotify.com/track/4oGgxjxVOI69h9uOpHOzwn) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Để Ý](https://open.spotify.com/album/1zepqfAr5SlceotYS3bbGR) | 2:39 |
 | 16 | [giá như](https://open.spotify.com/track/1LxaXT8hwdBWSNpOqTjF8R) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [giá như](https://open.spotify.com/album/1PgoX59M7df5NBcsAqhsiq) | 3:43 |
 | 17 | [Ánh Sao Và Bầu Trời](https://open.spotify.com/track/5iZHnufFUgATzrpGgH1K0W) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ánh Sao Và Bầu Trời](https://open.spotify.com/album/1JLUfM3IFpFyBSyhNQWkYw) | 4:20 |

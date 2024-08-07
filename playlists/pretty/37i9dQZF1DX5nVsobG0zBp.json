@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Dillaz",
-  "num_followers": 65938,
+  "num_followers": 65978,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,22 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Mi\u00fada",
-        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
       "artists": [
         {
-          "name": "Holly Hood",
-          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 168133,
-      "name": "Mi\u00fada",
-      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2024-07-05 14:22:48",
@@ -687,22 +691,18 @@
     {
       "added_at": "2024-07-05 14:22:48",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+        "name": "Mi\u00fada",
+        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
         }
       ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+      "duration_ms": 168133,
+      "name": "Mi\u00fada",
+      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
     },
     {
       "added_at": "2024-07-05 14:22:48",

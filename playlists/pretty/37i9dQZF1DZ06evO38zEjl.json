@@ -1,12 +1,12 @@
 {
-  "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3049,
+  "description": "This is Jon Hassell. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3051,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAC10+HJhvwDLQoQuWQV7Skd",
+  "snapshot_id": "ZrAWAAAAAACsMCIaD9FaQ38PZX7h8WVH",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Moons Of Titan",
+      "url": "https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Utopies",
         "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 213253,
       "name": "Parasol Blanc, pt. 2",
       "url": "https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Moons Of Titan",
-      "url": "https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
         }
       ],
-      "duration_ms": 256533,
-      "name": "Ayshyin Raquin",
-      "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
+      "duration_ms": 403186,
+      "name": "Itimad",
+      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
     },
     {
       "added_at": null,
@@ -836,101 +836,9 @@
           "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
         }
       ],
-      "duration_ms": 403186,
-      "name": "Itimad",
-      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Empire V",
-      "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
-        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "J.A. Deane",
-          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
-        },
-        {
-          "name": "Jean-Philippe Rykiel",
-          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
-        },
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 429381,
-      "name": "Hamburg",
-      "url": "https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Spot",
-        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siwan",
-        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Amina Alaoui",
-          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
-        },
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Kheir Eddine M'Kachiche",
-          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
-        },
-        {
-          "name": "Bjarte Eike",
-          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
-        }
-      ],
-      "duration_ms": 317093,
-      "name": "Jadwa",
-      "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
+      "duration_ms": 256533,
+      "name": "Ayshyin Raquin",
+      "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
     },
     {
       "added_at": null,
@@ -963,6 +871,98 @@
       "duration_ms": 293373,
       "name": "Sundown Dance",
       "url": "https://open.spotify.com/track/5DGHn0xwZBebRFt4g4tzq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "duration_ms": 429381,
+      "name": "Hamburg",
+      "url": "https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Empire V",
+      "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "duration_ms": 317093,
+      "name": "Jadwa",
+      "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
     }
   ],
   "unique_name": "This Is Jon Hassell",

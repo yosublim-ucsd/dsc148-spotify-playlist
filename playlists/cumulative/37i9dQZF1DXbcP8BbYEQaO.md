@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-678 songs - 1 day 14 hr 8 min
+679 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [cologne](https://open.spotify.com/track/4fg9f45CwQmbGbwsdH1q4h) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [cologne](https://open.spotify.com/album/2H1DLafa0NXc3NxvC7Iqse) | 3:50 | 2020-10-13\* | 2020-11-18 |
 | [Colourblind](https://open.spotify.com/track/3G7f7oJuDmJ7CFgbkfDiJp) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming \- EP](https://open.spotify.com/album/49QPpqyxeTbzWHUJpZuUsC) | 3:26 | 2020-10-13\* | 2020-11-18 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
+| [Come Down](https://open.spotify.com/track/1tk9GzJ9eLsoRL3ZRtAPK3) | [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [Come Down](https://open.spotify.com/album/19TjD0BJcRrNMMoIbPwyto) | 3:12 | 2024-08-06 |  |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 | 2022-12-29 |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
@@ -148,7 +149,7 @@
 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 | 2021-06-19 | 2021-07-04 |
 | [DFHMPU](https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DFHMPU](https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl) | 2:27 | 2024-02-23 | 2024-05-25 |
 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 | 2022-07-21 | 2023-02-11 |
-| [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 | 2022-04-16 |  |
+| [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 | 2022-04-16 | 2024-08-07 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-05 | 2023-09-25 |
 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 | 2020-10-13\* | 2021-07-17 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 |  |

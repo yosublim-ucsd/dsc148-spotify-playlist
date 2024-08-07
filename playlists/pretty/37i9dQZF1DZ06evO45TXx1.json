@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 9712,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 9729,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAADsmpOBAlSkmRfYgg3O6JV",
+  "snapshot_id": "ZrAWAAAAAAAmtMVb5+fnn8z0F7iO0ZJm",
   "tracks": [
     {
       "added_at": null,
@@ -767,17 +767,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c1udio Proibido",
-        "url": "https://open.spotify.com/album/6HBxzrHFqJRwioFBogNii6"
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
       },
       "artists": [
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
           "name": "Mello Santana",
@@ -788,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 162519,
-      "name": "\u00c1udio Proibido",
-      "url": "https://open.spotify.com/track/5XrZZrWUTuv66Z9gMK7iu2"
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": null,
@@ -819,13 +815,17 @@
     {
       "added_at": null,
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+        "name": "\u00c1udio Proibido",
+        "url": "https://open.spotify.com/album/6HBxzrHFqJRwioFBogNii6"
       },
       "artists": [
         {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
           "name": "Mello Santana",
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+      "duration_ms": 162519,
+      "name": "\u00c1udio Proibido",
+      "url": "https://open.spotify.com/track/5XrZZrWUTuv66Z9gMK7iu2"
     },
     {
       "added_at": null,

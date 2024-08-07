@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 273869,
       "name": "Forever Shall Be",
       "url": "https://open.spotify.com/track/1APXtCtbg7ssoxpLXy3XWA"
@@ -1040,6 +1040,24 @@
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
+    },
+    {
+      "album": {
+        "name": "Powerhouse Gospel",
+        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
+      },
+      "artists": [
+        {
+          "name": "The Spiritual Five",
+          "url": "https://open.spotify.com/artist/5kM0B7mSV47dwvOv6OijUC"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142384,
+      "name": "I'll Carry My Burden",
+      "url": "https://open.spotify.com/track/4NrMCLYzFtSjspceIFfAcJ"
     },
     {
       "album": {

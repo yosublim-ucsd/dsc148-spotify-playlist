@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: C\u00e9line Dion.",
-  "num_followers": 950424,
+  "num_followers": 951109,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-31 08:21:27",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-07-31 08:21:27",
-      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 194454,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/6kH7Bipic064vclZxCZxbm"
+    },
+    {
+      "added_at": "2024-07-31 08:21:27",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-07-31 08:21:27",

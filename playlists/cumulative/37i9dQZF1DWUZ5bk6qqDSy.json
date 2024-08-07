@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 289413,
       "name": "Eggshell White Noise",
       "url": "https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH"
@@ -6734,6 +6734,24 @@
       "duration_ms": 140451,
       "name": "White Noise Dreams",
       "url": "https://open.spotify.com/track/20BI2mW4dmSdRuICaicI0t"
+    },
+    {
+      "album": {
+        "name": "White Noise Dreamscape",
+        "url": "https://open.spotify.com/album/4Z262b4GxRrPcvRUdiNUIJ"
+      },
+      "artists": [
+        {
+          "name": "Soundverb",
+          "url": "https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo"
+        }
+      ],
+      "date_added": "2024-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338825,
+      "name": "White Noise Dreamscape",
+      "url": "https://open.spotify.com/track/42FxykPQSw208rlExXPRU0"
     },
     {
       "album": {

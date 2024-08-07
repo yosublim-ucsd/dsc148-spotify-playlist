@@ -4,7 +4,7 @@
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-181 songs - 9 hr 55 min
+182 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Don't You Worry 'Bout A Thing \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25walIhXLHe6MyWFCT6vNL) | 4:01 | 2024-04-19 | 2024-07-13 |
 | [Don’t Feel Like Crying](https://open.spotify.com/track/1ABvDz0JnQGO8M8NYjRNMp) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:37 | 2020-09-29 | 2023-05-16 |
 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 | 2024-07-12 |  |
+| [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 | 2024-08-06 |  |
 | [Everyday Life](https://open.spotify.com/track/3l80ChsWwZKAog5KSmcdIG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/4dBp8rzdqH9unSndGk6g6o) | 4:18 | 2020-09-29 | 2023-05-16 |
-| [exes](https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [exes](https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ) | 2:40 | 2024-07-12 |  |
+| [exes](https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [exes](https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ) | 2:40 | 2024-07-12 | 2024-08-07 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-05-15 | 2023-11-07 |
 | [Faded](https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:32 | 2020-09-29 | 2023-11-07 |
 | [Feather](https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Feather](https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6) | 3:04 | 2024-04-19 | 2024-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 43983,
+  "num_followers": 43988,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAACFClygyvm6msJ9A0ndudQA",
+  "snapshot_id": "ZrAWAAAAAAACpv4VwEahR5Z64xTofoH9",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Just Tonight",
-      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
+      "duration_ms": 238426,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/6vkN5oRi56GK0lPX0X0EZN"
     },
     {
       "added_at": null,

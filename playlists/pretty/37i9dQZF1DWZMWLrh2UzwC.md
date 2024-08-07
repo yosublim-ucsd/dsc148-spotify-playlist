@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,379 likes - 91 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,386 likes - 91 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 |
 | 2 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
 | 3 | [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 |
-| 4 | [Ashiap](https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Ashiap](https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b) | 3:26 |
+| 4 | [Ashiap \- New Version](https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Ashiap \(New Version\)](https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b) | 3:26 |
 | 5 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |
 | 6 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
 | 7 | [Bukan Sendiri \- From "Harimau Malaya: The Untold Journey"](https://open.spotify.com/track/2cdHUFkH7E69WTac9boTPc) | [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Bukan Sendiri \(From "Harimau Malaya: The Untold Journey"\)](https://open.spotify.com/album/3hsTPqZBMYwyPSUTRbLGsD) | 4:28 |

@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-455 songs - 1 day 3 hr 58 min
+456 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Absentee](https://open.spotify.com/track/23fEZLdzHoZlNZZu4E1pSp) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Tip of the Sphere](https://open.spotify.com/album/7A9lD57JDmqxshUGkvTdiG) | 2:48 | 2022-12-12 |  |
 | [All Being Fine](https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/42anHsnzFORglZyMr9udzN) | 3:29 | 2023-10-27 | 2024-04-19 |
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-05-25 | 2024-01-13 |
-| [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 |  |
+| [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 | 2024-08-07 |
 | [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 |  |
 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 | 2024-03-01 |  |
 | [all of my lessons](https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [all of my lessons](https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO) | 2:56 | 2023-04-14 |  |
@@ -101,7 +101,7 @@
 | [Consolation Prize](https://open.spotify.com/track/71wiJ619MbaSStsiN6XT06) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Consolation Prize](https://open.spotify.com/album/5KyVj6FfbV3lwwMIXyQeZ1) | 4:00 | 2022-07-11 | 2023-07-08 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2022-04-01 | 2022-04-20 |
 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 | 2022-07-11 | 2024-04-19 |
-| [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-11-12 |  |
+| [Cool Jam](https://open.spotify.com/track/20kSLZz8XyhV6ocOyrLU8B) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Cool Jam/Good For You](https://open.spotify.com/album/6vmdjFe8QexVakjOEbtMdY) | 3:26 | 2021-11-12 | 2024-08-07 |
 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 | 2021-11-12 |  |
 | [Crazy](https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Crazy](https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T) | 3:52 | 2022-01-14 | 2022-07-27 |
 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 | 2022-07-11 | 2024-04-19 |
@@ -173,6 +173,7 @@
 | [Got a Lotta Love](https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 3:02 | 2022-07-11 | 2023-04-30 |
 | [Got a Lotta Love](https://open.spotify.com/track/2eudmfFsYkZv1MEI1acWih) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/3fE0XsKfZtrTFVcVGIQWBX) | 3:02 | 2021-11-12 | 2022-07-29 |
 | [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 | 2022-09-16 | 2022-11-14 |
+| [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 | 2024-07-05 |  |
 | [Halo \- Acoustic Version](https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Halo & Begin Again \(Unplugged\)](https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU) | 3:37 | 2022-04-01 |  |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 |  |
 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 | 2022-07-11 | 2024-04-19 |
@@ -433,7 +434,7 @@
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-10-14 | 2024-04-19 |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 |  |
 | [TNT](https://open.spotify.com/track/179A1qSTXEGDi9AZ6DpOW3) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [TNT](https://open.spotify.com/album/762iwsnUB2xG34C0PdPUuZ) | 4:04 | 2021-11-12 | 2022-07-29 |
-| [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 | 2022-10-14 | 2022-12-08 |
+| [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 | 2022-10-14 |  |
 | [Turn Off The News \(Build A Garden\) \- Acoustic](https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 3:01 | 2021-11-12 |  |
 | [Turn The Car Around \- Early Monitor Mix](https://open.spotify.com/track/5E1iER8N0uBFnn1rAXE4xN) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Turn The Car Around](https://open.spotify.com/album/6NbZ7gMVSsDovvsuAEnmBU) | 4:13 | 2023-04-28 | 2023-05-17 |
 | [UFOF](https://open.spotify.com/track/0DZfBeJhOPyjhqoaTkE3kZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [UFOF](https://open.spotify.com/album/13arYJWgDb5xGDHU49Nlj9) | 3:08 | 2021-11-12 | 2022-07-28 |

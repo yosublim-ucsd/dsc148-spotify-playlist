@@ -1,6 +1,6 @@
 {
   "description": "The best side! Cover: Warren G",
-  "num_followers": 864517,
+  "num_followers": 864701,
   "original_name": "West Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-02 22:25:25",
       "album": {
-        "name": "Safe + Sound",
-        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
-      },
-      "artists": [
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "Dollaz + Sense",
-      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
-    },
-    {
-      "added_at": "2024-07-02 22:25:25",
-      "album": {
         "name": "Crenshaw",
         "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 237013,
       "name": "Face the World",
       "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
+    },
+    {
+      "added_at": "2024-07-02 22:25:25",
+      "album": {
+        "name": "Safe + Sound",
+        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "Dollaz + Sense",
+      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
     },
     {
       "added_at": "2024-07-02 22:25:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-02 22:25:25",
       "album": {
-        "name": "Quik Is The Name",
-        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
-      },
-      "artists": [
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 323266,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
-    },
-    {
-      "added_at": "2024-07-02 22:25:25",
-      "album": {
         "name": "G Funk Classics, Vols. 1 & 2",
         "url": "https://open.spotify.com/album/65VsPlhdWF5PH1CViFskY5"
       },
@@ -827,22 +811,6 @@
       "duration_ms": 274440,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/7miy73aP7NFhj8PL7V4VqM"
-    },
-    {
-      "added_at": "2024-07-02 22:25:25",
-      "album": {
-        "name": "Get In Where You Fit In",
-        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 361266,
-      "name": "I'm a Player - Street Version",
-      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
     },
     {
       "added_at": "2024-07-02 22:25:25",
@@ -867,6 +835,38 @@
       "duration_ms": 204521,
       "name": "Let's Play House",
       "url": "https://open.spotify.com/track/0CMgg7xeATgHXd9MmpO6rU"
+    },
+    {
+      "added_at": "2024-07-02 22:25:25",
+      "album": {
+        "name": "Get In Where You Fit In",
+        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 361266,
+      "name": "I'm a Player - Street Version",
+      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
+    },
+    {
+      "added_at": "2024-07-02 22:25:25",
+      "album": {
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     },
     {
       "added_at": "2024-07-02 22:25:25",

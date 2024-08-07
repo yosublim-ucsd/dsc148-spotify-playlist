@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: VINI \(Thailand\)
 
-1,450 songs - 3 day 15 hr 23 min
+1,451 songs - 3 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [BAHASA BARU](https://open.spotify.com/track/2t4dVJGywyzTvjAZjzRBIN) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [BAHASA BARU](https://open.spotify.com/album/0PnkH2LvSSZwXCtoRJdfEg) | 4:10 | 2023-03-09 | 2023-04-09 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/4PdPDjESMm6jf9VNjwLTJH) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us \(Sunset Rollercoaster & JORDANN\)](https://open.spotify.com/album/6k4rWWRiqarzduIMA8SYFn) | 3:42 | 2023-06-08 | 2023-06-22 |
 | [Balloon \- Sunset Rollercoaster Remake](https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [us](https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ) | 3:42 | 2023-06-15 | 2023-10-12 |
-| [Bara To Yaju](https://open.spotify.com/track/25u8erynTO1nKCYcJSAhRu) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Bara To Yaju](https://open.spotify.com/album/0dt3tdiGB5wUf23Cm8liJ5) | 4:22 | 2024-07-11 |  |
+| [Bara To Yaju](https://open.spotify.com/track/25u8erynTO1nKCYcJSAhRu) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Bara To Yaju](https://open.spotify.com/album/0dt3tdiGB5wUf23Cm8liJ5) | 4:22 | 2024-07-11 | 2024-08-07 |
 | [Bashbo Bhalo](https://open.spotify.com/track/1Khtxo7T3iRCBrR3CVHRSW) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [Bashbo Bhalo](https://open.spotify.com/album/3XhYDE30eDGN3ZBeSw2ZoY) | 3:28 | 2022-03-24 | 2022-05-20 |
 | [Bawat Piyesa \(Secret Verse Ver.\)](https://open.spotify.com/track/68qOMum0kIvub5W3yQsTPo) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs), [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [Kasama Kita](https://open.spotify.com/album/5taKMMxKn6OKw7iy4pQ4ru) | 6:50 | 2023-04-20 | 2023-11-24 |
 | [Bayang\-Bayang](https://open.spotify.com/track/2TLAWyJ6LLoNUOMKfQsP4u) | [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Bayang\-Bayang](https://open.spotify.com/album/3dtw0tzcdEntohwfNgXf90) | 4:25 | 2023-02-09 | 2023-04-01 |
@@ -536,6 +536,7 @@
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-05-09 | 2024-08-02 |
 | [I Lied to You](https://open.spotify.com/track/1gG3meJ45Zb5YLG3w30tNZ) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [I Lied to You](https://open.spotify.com/album/3bfGyprzzKISA9pN5n4CtF) | 3:13 | 2024-04-04 | 2024-04-26 |
 | [I Like Me Better Now](https://open.spotify.com/track/6jTqsb08gdgzHfnnQSHRsc) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [I Like Me Better Now](https://open.spotify.com/album/4Nqv5gCSOIPSCmlxtoRqUR) | 3:56 | 2022-06-09 | 2022-07-23 |
+| [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 | 2024-08-01 |  |
 | [i like u](https://open.spotify.com/track/5UHPob6XgbZw5CXOyHtMhD) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [i like u](https://open.spotify.com/album/0il3XZ7i2T01i0M4Ij9SVZ) | 2:27 | 2022-05-26 | 2022-07-08 |
 | [I Lost My Smile Somewhere](https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [I Lost My Smile Somewhere](https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS) | 3:21 | 2024-07-25 | 2024-08-02 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 | 2023-02-10 |

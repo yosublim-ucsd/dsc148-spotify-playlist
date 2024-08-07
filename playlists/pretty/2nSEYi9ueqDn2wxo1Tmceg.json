@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Alex Izenberg",
-  "num_followers": 66826,
+  "num_followers": 66824,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPzM4XRTl0h2VXU2a7IIhqNyBncD+P",
+  "snapshot_id": "AAAPzRq9Aqa/nv1mMqBx6TaG3jb0cDpw",
   "tracks": [
+    {
+      "added_at": "2024-08-06 14:05:08",
+      "album": {
+        "name": "Crying At The End",
+        "url": "https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 101718,
+      "name": "Crying At The End",
+      "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
+    },
     {
       "added_at": "2024-08-05 14:03:31",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 686910,
+  "num_followers": 686996,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
@@ -1051,22 +1051,6 @@
       "duration_ms": 218354,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "End of Beginning (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "End of Beginning - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1087,6 +1071,22 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "End of Beginning (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "End of Beginning - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Holding Out for a Hero (Stripped)",
-        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
-      },
-      "artists": [
-        {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Holding Out for a Hero - Stripped",
-      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Yellow (Torch Songs)",
         "url": "https://open.spotify.com/album/27ENhkMbawDNqLdLNeN5vC"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 267000,
       "name": "Yellow - Torch Songs",
       "url": "https://open.spotify.com/track/2b5OTshtoFvtctAsKJOwyw"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Holding Out for a Hero (Stripped)",
+        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Holding Out for a Hero - Stripped",
+      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
     },
     {
       "added_at": "2024-07-17 15:08:46",

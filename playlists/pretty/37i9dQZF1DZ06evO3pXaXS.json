@@ -1,12 +1,12 @@
 {
-  "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 337239,
+  "description": "This is The Police. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 337302,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAASaBvN//6G2NbRJRzAji6V",
+  "snapshot_id": "ZrAWAAAAAADu+0cnd4c8KRCM3LADVFsH",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Police",
-        "url": "https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP"
+        "name": "Synchronicity (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 123360,
-      "name": "Fall Out",
-      "url": "https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE"
+      "duration_ms": 202106,
+      "name": "Every Bomb You Make",
+      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Police",
+        "url": "https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Synchronicity (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
       },
@@ -644,33 +660,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Every Bomb You Make",
-      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
-      },
-      "artists": [
-        {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
-        },
-        {
-          "name": "Adam Driver",
-          "url": "https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M"
-        },
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 82613,
-      "name": "We Are the Police",
-      "url": "https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h"
+      "duration_ms": 184546,
+      "name": "Someone To Talk To",
+      "url": "https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF"
     },
     {
       "added_at": null,
@@ -707,34 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synchronicity (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea"
+        "name": "Annette (Unlimited Edition) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf"
       },
       "artists": [
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        },
+        {
+          "name": "Adam Driver",
+          "url": "https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M"
+        },
         {
           "name": "The Police",
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 184546,
-      "name": "Someone To Talk To",
-      "url": "https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flexible Strategies",
-        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Landlord",
-      "url": "https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn"
+      "duration_ms": 82613,
+      "name": "We Are the Police",
+      "url": "https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h"
     },
     {
       "added_at": null,
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 215093,
-      "name": "Dead End Job",
-      "url": "https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj"
+      "duration_ms": 187933,
+      "name": "Landlord",
+      "url": "https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn"
     },
     {
       "added_at": null,
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 216053,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE"
+      "duration_ms": 215093,
+      "name": "Dead End Job",
+      "url": "https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 119920,
       "name": "Loch",
       "url": "https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flexible Strategies",
+        "url": "https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE"
     }
   ],
   "unique_name": "This Is The Police",

@@ -10731,6 +10731,28 @@
     },
     {
       "album": {
+        "name": "Milano ad Agosto",
+        "url": "https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l"
+      },
+      "artists": [
+        {
+          "name": "Diorama",
+          "url": "https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk"
+        },
+        {
+          "name": "I Melodrama",
+          "url": "https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Milano ad Agosto",
+      "url": "https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v"
+    },
+    {
+      "album": {
         "name": "Milano sei tossica",
         "url": "https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn"
       },

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 679783,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 680077,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABlsNV559sPhKRWPle+v6f6",
+  "snapshot_id": "ZrAWAAAAAAAagER8LTvGB1RX0wKnNO3+",
   "tracks": [
     {
       "added_at": null,
@@ -266,15 +266,11 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
+      "duration_ms": 250146,
+      "name": "Aunque Te Mueras Por Volver",
+      "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
     },
     {
       "added_at": null,
@@ -338,11 +334,15 @@
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 250146,
-      "name": "Aunque Te Mueras Por Volver",
-      "url": "https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD"
+      "duration_ms": 189000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
         "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
       },
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+        "name": "Tornasol",
+        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 243880,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+      "duration_ms": 256540,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 225400,
       "name": "Caderas Blancas",
       "url": "https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tornasol",
-        "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256540,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
     },
     {
       "added_at": null,

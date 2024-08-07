@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 164133,
       "name": "Jota",
       "url": "https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm"
@@ -1070,6 +1070,28 @@
       "duration_ms": 179653,
       "name": "Nouvelles",
       "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
+    },
+    {
+      "album": {
+        "name": "Olala (feat. Naza)",
+        "url": "https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Olala (feat. Naza)",
+      "url": "https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX"
     },
     {
       "album": {
@@ -1445,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165353,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
+    },
+    {
+      "album": {
         "name": "Toko Toko",
         "url": "https://open.spotify.com/album/3Op7cAYJ0VWN4NUAgICcMQ"
       },
@@ -1588,7 +1632,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 134440,
       "name": "VIBES",
       "url": "https://open.spotify.com/track/6Xp82kv8pd7GVvpjYdgMdx"

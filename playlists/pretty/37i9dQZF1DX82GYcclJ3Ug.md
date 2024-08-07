@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Brigitte Calls Me Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123,545 likes - 127 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,587 likes - 127 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 121 | [Perfume](https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Perfume](https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV) | 2:27 |
 | 122 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 |
 | 123 | [Light Runner](https://open.spotify.com/track/3AfwSzagDnKTUXc7lqVzdx) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Light Runner](https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c) | 3:35 |
-| 124 | [Vacation](https://open.spotify.com/track/0KXsTfqbeFd82yeSYgD17K) | [Jive Talk](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Vacation](https://open.spotify.com/album/76iAvtd3fTAYSaum8RTyLK) | 4:52 |
+| 124 | [Vacation](https://open.spotify.com/track/0KXsTfqbeFd82yeSYgD17K) | [New Translations](https://open.spotify.com/artist/3C2Tyt29f7b96RXvH5ltHd) | [Vacation](https://open.spotify.com/album/76iAvtd3fTAYSaum8RTyLK) | 4:52 |
 | 125 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 |
 | 126 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 127 | [Skin On Skin](https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Skin On Skin](https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4) | 3:20 |

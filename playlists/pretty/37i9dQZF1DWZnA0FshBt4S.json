@@ -1,6 +1,6 @@
 {
   "description": "The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: <a href=\"spotify:artist:1zK4ACgLi1lVPpfmmcwOTh\">DC Talk</a>",
-  "num_followers": 111389,
+  "num_followers": 111422,
   "original_name": "Youth Group Throwback",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "Speechless",
-        "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 237708,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 370360,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "Speechless",
+        "url": "https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 237708,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3"
     },
     {
       "added_at": "2024-07-04 20:41:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-04 20:41:02",
       "album": {
-        "name": "The Best Of Plumb",
-        "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
-      },
-      "artists": [
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
-    },
-    {
-      "added_at": "2024-07-04 20:41:02",
-      "album": {
         "name": "Thrifty Mr. Kickstar",
         "url": "https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 406726,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7"
+    },
+    {
+      "added_at": "2024-07-04 20:41:02",
+      "album": {
+        "name": "The Best Of Plumb",
+        "url": "https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l"
     },
     {
       "added_at": "2024-07-04 20:41:02",

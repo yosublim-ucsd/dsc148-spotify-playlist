@@ -2,7 +2,7 @@
 
 ### [This Is Sonny Okosun](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x3RAa)
 
-> This is Sonny Okosun\. Tutti i brani in un'unica playlist.
+> This is Sonny Okosun\. The essential tracks, all in one playlist.
 
 78 songs - 8 hr 28 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 143634,
+  "num_followers": 143777,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2024-08-01 13:37:43",
-      "album": {
         "name": "\u0643\u0644 \u0648\u0639\u062f",
         "url": "https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 208846,
       "name": "\u0643\u0644 \u0648\u0639\u062f",
       "url": "https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW"
+    },
+    {
+      "added_at": "2024-08-01 13:37:43",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -495,8 +495,8 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
+        "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
+        "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
         }
       ],
-      "duration_ms": 252065,
-      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
+      "duration_ms": 258333,
+      "name": "\u062e\u0644\u064a\u0643 \u0645\u0639\u0627\u0647\u0627",
+      "url": "https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -639,8 +639,8 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
-        "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
         }
       ],
-      "duration_ms": 258333,
-      "name": "\u062e\u0644\u064a\u0643 \u0645\u0639\u0627\u0647\u0627",
-      "url": "https://open.spotify.com/track/66xEfcpMCCim4juc0dN4Q2"
+      "duration_ms": 252065,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "Hala Beek Ya Medala3",
-        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Hala Beek Ya Medala3",
-      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-08-01 13:37:43",
-      "album": {
         "name": "Awel Mara Etabelna",
         "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 218827,
       "name": "Awel Mara Etabelna",
       "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
+    },
+    {
+      "added_at": "2024-08-01 13:37:43",
+      "album": {
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
-      },
-      "artists": [
-        {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
-        }
-      ],
-      "duration_ms": 194116,
-      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
-      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
-    },
-    {
-      "added_at": "2024-08-01 13:37:43",
-      "album": {
         "name": "Nancy 9 (Hassa Beek)",
         "url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
-        "url": "https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc"
+        "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
         }
       ],
-      "duration_ms": 316250,
-      "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
-      "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"
+      "duration_ms": 194116,
+      "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -895,6 +879,22 @@
       "duration_ms": 206015,
       "name": "Beiny we Beinak",
       "url": "https://open.spotify.com/track/6QF6pUccUrZTj3PXeubsZa"
+    },
+    {
+      "added_at": "2024-08-01 13:37:43",
+      "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+        "url": "https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 316250,
+      "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
+      "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
+        "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
+        "url": "https://open.spotify.com/album/3lzttV0COflpTgSuUqbjlP"
       },
       "artists": [
         {
-          "name": "SAMO ZAEN",
-          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
         }
       ],
-      "duration_ms": 232511,
-      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
-      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
+      "duration_ms": 185701,
+      "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
+      "url": "https://open.spotify.com/track/5z0qVVVJPgJWaz7amQFlqH"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
+        "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+        "url": "https://open.spotify.com/album/51H6iYdNtR5szs6gji45LJ"
+      },
+      "artists": [
+        {
+          "name": "SAMO ZAEN",
+          "url": "https://open.spotify.com/artist/4DW2hW7UeUenUJo7MUWEQl"
+        }
+      ],
+      "duration_ms": 232511,
+      "name": "\u062f\u064a \u062d\u0628\u064a\u0628\u062a\u064a",
+      "url": "https://open.spotify.com/track/1usEdJo0r9qk2gcnvx7bTr"
+    },
+    {
+      "added_at": "2024-08-01 13:37:43",
+      "album": {
         "name": "Ya Bakhty Beh",
         "url": "https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 195535,
       "name": "Ya Bakhty Beh",
       "url": "https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f"
-    },
-    {
-      "added_at": "2024-08-01 13:37:43",
-      "album": {
-        "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
-        "url": "https://open.spotify.com/album/3lzttV0COflpTgSuUqbjlP"
-      },
-      "artists": [
-        {
-          "name": "Ramy Sabry",
-          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
-        }
-      ],
-      "duration_ms": 185701,
-      "name": "\u0645\u0627\u0628\u062a\u062d\u0635\u0644\u064a\u0634 \u0643\u062a\u064a\u0631",
-      "url": "https://open.spotify.com/track/5z0qVVVJPgJWaz7amQFlqH"
     },
     {
       "added_at": "2024-08-01 13:37:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-01 13:37:43",
       "album": {
-        "name": "Shabah El Sama",
-        "url": "https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv"
-      },
-      "artists": [
-        {
-          "name": "Adham Seliman",
-          "url": "https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF"
-        }
-      ],
-      "duration_ms": 218759,
-      "name": "Shabah El Sama",
-      "url": "https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY"
-    },
-    {
-      "added_at": "2024-08-01 13:37:43",
-      "album": {
         "name": "Rawa2any",
         "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 191322,
       "name": "Rawa2any",
       "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
+    },
+    {
+      "added_at": "2024-08-01 13:37:43",
+      "album": {
+        "name": "Shabah El Sama",
+        "url": "https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv"
+      },
+      "artists": [
+        {
+          "name": "Adham Seliman",
+          "url": "https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF"
+        }
+      ],
+      "duration_ms": 218759,
+      "name": "Shabah El Sama",
+      "url": "https://open.spotify.com/track/4oxKGIYNawlTBHK76Ah3eY"
     },
     {
       "added_at": "2024-08-01 13:37:43",

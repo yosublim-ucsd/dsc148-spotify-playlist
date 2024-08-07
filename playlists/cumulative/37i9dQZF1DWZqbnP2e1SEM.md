@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-392 songs - 21 hr 7 min
+393 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [No Time \(feat\. SadBoi\)](https://open.spotify.com/track/4NOoZeetavZyquNLaGyxXC) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [No Time \(feat\. SadBoi\)](https://open.spotify.com/album/5K0QqzOKeqI504SN4wMAIe) | 2:51 | 2024-06-14 |  |
 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 | 2021-07-09 | 2024-07-21 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-09-11 | 2024-08-03 |
+| [Numb](https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Numb](https://open.spotify.com/album/3nnrKNmGfvnZofnAA8wxMq) | 2:11 | 2024-08-02 |  |
 | [Number 1](https://open.spotify.com/track/3uRIGDDdT4tztwsOSLmjZg) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [N\-Dubz](https://open.spotify.com/artist/52Syw7gkGRePCAYvEY2X9D) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:32 | 2021-07-09 | 2022-05-09 |
 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 | 2023-09-11 | 2024-08-03 |
 | [Open Up The Door](https://open.spotify.com/track/3ar20lJHzjL873uKthoQc6) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/1NJxF1Nz8KJerri0pJJI9b) | 2:14 | 2024-05-24 | 2024-06-17 |
@@ -348,7 +349,7 @@
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-05-10 | 2024-06-14 |
 | [Tengo Fuego](https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Tengo Fuego](https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG) | 3:07 | 2024-06-21 |  |
 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 | 2021-07-09 | 2022-05-11 |
-| [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2024-08-02 |  |
+| [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2024-08-02 | 2024-08-07 |
 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 | 2024-08-02 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-05-10 | 2024-06-14 |
 | [The Nighttrain](https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Maitland](https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL) | [The Nighttrain](https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v) | 3:06 | 2024-05-24 |  |

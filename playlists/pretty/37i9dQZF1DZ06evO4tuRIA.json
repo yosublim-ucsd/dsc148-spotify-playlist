@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 82100,
+  "num_followers": 82113,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAABRLeHsl00MQvSzj28qIh/",
+  "snapshot_id": "ZrAWAAAAAABpvA0lTQ22nehsPoTVcsGL",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bravo 57",
+        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Motivado (feat. Banda La Fantastica)",
         "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bravo 57",
-        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Gori",
+        "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 137256,
+      "name": "El Gori",
+      "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Gori",
-        "url": "https://open.spotify.com/album/22J5eVxDiCkMMalHqT2jzK"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 137256,
-      "name": "El Gori",
-      "url": "https://open.spotify.com/track/1HKCPYUanIF67N6vWknABj"
     },
     {
       "added_at": null,

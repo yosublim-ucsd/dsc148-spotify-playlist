@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
 
 308 songs - 19 hr 16 min
 
@@ -222,7 +222,7 @@
 | [Samson And Delilah](https://open.spotify.com/track/2xyA4n0bCLCQzXYskm4EZV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2022-05-29 |  |
 | [Save up Your Money, John D Rockerfeller Put the Panic On](https://open.spotify.com/track/3CukN14yE52yNQurwvD1gL) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 1:55 | 2022-11-25 | 2023-07-17 |
 | [Save up Your Money, John D\. Rockefeller Put the Panic On](https://open.spotify.com/track/4R7yI4rTPPAtZ9TYIxfkbv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 3:54 | 2022-10-24 | 2023-07-31 |
-| [Save Up Your Money, John D\. Rockerfeller Put The P](https://open.spotify.com/track/7eXk6qhkpVxT2ZLWpJbmbS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 1:55 | 2023-07-16 |  |
+| [Save Up Your Money, John D\. Rockerfeller Put The P](https://open.spotify.com/track/7eXk6qhkpVxT2ZLWpJbmbS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 1:55 | 2023-07-16 | 2024-08-07 |
 | [Say No to the Devil](https://open.spotify.com/track/0aYS1D1hSqQXinxawgOHLy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:20 | 2022-05-25 |  |
 | [See What the Lord Has Done for Me](https://open.spotify.com/track/2xGQNARTCLqjDBArQbmOqh) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 3:16 | 2023-03-20 | 2023-03-22 |
 | [Seven Sisters](https://open.spotify.com/track/6jGGhFZ74CYhQ0DVGBWYMj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 3:00 | 2022-10-12 | 2024-08-01 |
@@ -280,7 +280,7 @@
 | [Tryin' To Get To Heaven In Due Time](https://open.spotify.com/track/1rf5Hq6UjxScYRwnZ1TBne) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:24 | 2022-05-25 |  |
 | [Trying to Get to Heaven](https://open.spotify.com/track/1ziyI723U16MUGPqsTlDOi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:17 | 2023-05-07 | 2023-05-09 |
 | [Twelve Gates To The City](https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:09 | 2022-05-27 |  |
-| [Twelve Sticks](https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Bluegrass Instrumentals](https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq) | 3:14 | 2022-05-25 | 2024-08-06 |
+| [Twelve Sticks](https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Bluegrass Instrumentals](https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq) | 3:14 | 2022-05-25 |  |
 | [Two Step Candyman](https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2022-05-28 | 2024-04-24 |
 | [Two\-Step](https://open.spotify.com/track/56WKvciu3HfYsOAeV4QWfK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 3:41 | 2023-01-31 | 2024-04-02 |
 | [United States March \(Soldier's Drill\) \- Instrumental](https://open.spotify.com/track/5VnTgyxelyGYKapBOhfCr7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 6:29 | 2022-05-26 | 2022-10-13 |

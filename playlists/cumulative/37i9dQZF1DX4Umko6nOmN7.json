@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Tid & Tro",
+        "url": "https://open.spotify.com/album/3OLi7nPMD2hZK4zAEzZ2Ic"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2024-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118574,
+      "name": "031.",
+      "url": "https://open.spotify.com/track/2peizBkvIiDK4BuJpbGhys"
+    },
+    {
+      "album": {
         "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
         "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 181000,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
@@ -516,7 +534,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 196830,
       "name": "dina armar",
       "url": "https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 209840,
       "name": "\u00c4ngel",
       "url": "https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ"

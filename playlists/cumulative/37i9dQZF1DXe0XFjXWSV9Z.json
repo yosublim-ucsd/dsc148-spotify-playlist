@@ -2397,6 +2397,32 @@
     },
     {
       "album": {
+        "name": "Onda tropical (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
+      },
+      "artists": [
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        },
+        {
+          "name": "Doble Play",
+          "url": "https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8"
+        },
+        {
+          "name": "Rodrigo Mart\u00ednez Torres",
+          "url": "https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Onda tropical - Cumbia Version",
+      "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
+    },
+    {
+      "album": {
         "name": "Los Miticos del Ritmo",
         "url": "https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6"
       },
@@ -2848,7 +2874,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 492786,
       "name": "Solo Yo",
       "url": "https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj"

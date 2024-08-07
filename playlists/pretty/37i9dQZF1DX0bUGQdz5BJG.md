@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Don Louis
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,502 likes - 215 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,567 likes - 215 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

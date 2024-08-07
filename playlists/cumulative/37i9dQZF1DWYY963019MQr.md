@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-94 songs - 5 hr 17 min
+95 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 | 2022-10-13 | 2023-05-24 |
+| [The Lateness of the Hour](https://open.spotify.com/track/2ZqDI60tN497TkR1LI3Wsn) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [The Lateness of the Hour](https://open.spotify.com/album/2GYw7huJFwf5toR3LnDPIm) | 2:06 | 2024-08-06 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-10-13 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/1fpRIAQoMjwO9VPCc5LP8d) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 4:09 | 2022-10-13 | 2023-01-20 |
 | [The Way You Look Tonight](https://open.spotify.com/track/4QzkLSRHaqdAj9MYdyzf5Z) | [Martin Taylor](https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62) | [Love Songs](https://open.spotify.com/album/1mP0H6sPc8lEHpaBlsUw0i) | 5:35 | 2022-10-13 | 2023-08-17 |
@@ -100,7 +101,7 @@
 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 | 2022-10-13 |  |
 | [Where or When](https://open.spotify.com/track/1VuheeJ6lNwZ9nO5FB4aqM) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [World's Fair](https://open.spotify.com/album/1YlIUjf2RiZfLzvK7Db7mi) | 2:21 | 2022-10-13 | 2023-09-16 |
 | [While We're Young](https://open.spotify.com/track/6TYTG0Y8dZZHP8EluhrXel) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [So Much Guitar!](https://open.spotify.com/album/1sTp3ReToGw9Ds3ScQG6RD) | 2:15 | 2022-10-13 |  |
-| [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 | 2023-01-12 |  |
+| [You Are Too Beautiful](https://open.spotify.com/track/4Z21YnfFOk7DCoRmSDsbDE) | [Kevin Richard](https://open.spotify.com/artist/0rH3yL76S15p46AsE3jQL8) | [You Are Too Beautiful](https://open.spotify.com/album/321bjucXAq72mVgASyC5eT) | 2:07 | 2023-01-12 | 2024-08-07 |
 | [You Go to My Head](https://open.spotify.com/track/1VB3aOUzV1vkjPYCUTmdMg) | [Maarten van der Grinten](https://open.spotify.com/artist/37e1k0TyFygkdwIn5paeFN) | [A Guitar, a Man & a Song, Vol\. I](https://open.spotify.com/album/44EMmTgbEmnr89sTqbnGLM) | 2:42 | 2023-01-05 |  |
 
 \*This playlist was first scraped on 2022-10-15. Prior content cannot be recovered.

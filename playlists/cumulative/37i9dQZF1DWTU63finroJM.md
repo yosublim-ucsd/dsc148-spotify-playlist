@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Annural Khalid.
 
-1,547 songs - 3 day 12 hr 33 min
+1,550 songs - 3 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [C.C.G](https://open.spotify.com/track/0neY86dLQyT6FPYbpdizTT) | [Lorena Santos](https://open.spotify.com/artist/4joarc2IPqP1ZvWfcbZ52C) | [C.C.G](https://open.spotify.com/album/4J8TjKFG6ZIOjRjYHSwlIR) | 2:04 | 2022-03-24 | 2022-06-20 |
 | [Cachemire](https://open.spotify.com/track/4oKvj7JpbW6YDoC9lVF1MK) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Toujours pas rappeur.](https://open.spotify.com/album/4KStzhPjqdg6DsBvz8HWQu) | 3:15 | 2022-03-24 | 2022-08-05 |
 | [Cafeliko](https://open.spotify.com/track/1ke6DDQfH9iW2g1abrUdua) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:07 | 2022-09-08 | 2023-05-31 |
-| [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 | 2024-05-10 |  |
+| [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 | 2024-05-10 | 2024-08-07 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-03-21 | 2022-06-26 |
 | [Call of Valhalla](https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:53 | 2023-10-27 | 2024-04-27 |
 | [Call You Mine](https://open.spotify.com/track/2mK80eNz1IrJh2Yyi2glRe) | [FML](https://open.spotify.com/artist/0fUa0Fw2rm0HCRtKYmBJ1N), [Seachains](https://open.spotify.com/artist/6UiKZD9yB7Gxjol62s431k), [Nhat Hoang](https://open.spotify.com/artist/12rPv2DR0Jq0dKp7Rz0iZK) | [Call You Mine](https://open.spotify.com/album/0qVrL3DlsGeJn7prR1e07a) | 2:38 | 2022-02-03 | 2023-01-21 |
@@ -306,6 +306,7 @@
 | [daughter](https://open.spotify.com/track/6l6a62hc6yDyN71JV7gLvQ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [daughter](https://open.spotify.com/album/3pjCq58rNfmhrl6p0GXMVE) | 3:23 | 2023-10-13 | 2024-03-31 |
 | [Davet](https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Davet](https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx) | 2:32 | 2024-05-03 | 2024-06-11 |
 | [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-24 | 2024-07-27 |
+| [Daylight](https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Daylight](https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ) | 2:48 | 2024-08-02 |  |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-03-24 | 2022-08-02 |
 | [De la Cueva a los Olivos](https://open.spotify.com/track/5HxlKgVbbQqSfoXYB72Gq3) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Pureza](https://open.spotify.com/album/3hTQf3Mj4ty2N69RCZ07D8) | 3:37 | 2023-02-08 | 2023-10-06 |
 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 | 2024-05-03 | 2024-08-03 |
@@ -641,6 +642,7 @@
 | [Jakarta Hari Ini](https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Get Closer with For Revenge](https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd) | 3:37 | 2023-05-30 | 2024-02-03 |
 | [Jalan Tengah](https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Jalan Tengah](https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn) | 4:50 | 2023-05-30 | 2024-01-20 |
 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 | 2024-04-19 | 2024-05-20 |
+| [January](https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [January](https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I) | 4:13 | 2024-08-02 |  |
 | [Jauh](https://open.spotify.com/track/2iECqZwGqfoSTjJ0Mal8Cn) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Jauh](https://open.spotify.com/album/0U8j5HBVsgyRJVedu4XrSD) | 3:19 | 2023-05-30 | 2023-10-06 |
 | [Je suis fan](https://open.spotify.com/track/3mPCozV61t2CENgcBNOyJ8) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [DRAMA](https://open.spotify.com/album/07Vv8jai6rYMEj7eL0MZTy) | 2:48 | 2022-03-24 | 2022-08-02 |
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-09-08 | 2023-05-31 |
@@ -1051,7 +1053,8 @@
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2022-03-24 | 2023-01-28 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2022-02-03 | 2022-08-02 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-03-21 | 2023-04-18 |
-| [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-04-05 |  |
+| [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 | 2024-08-02 |  |
+| [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-04-05 | 2024-08-07 |
 | [Ridículo](https://open.spotify.com/track/1BDuJupH2LXLs8IptcN7Oh) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [ORIGEN](https://open.spotify.com/album/69uttGVf6dDFwYEpzzOCGL) | 3:11 | 2022-03-24 | 2022-04-17 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 | 2023-05-30 | 2024-01-20 |
 | [River Rain](https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [River Rain](https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W) | 4:58 | 2022-09-30 | 2023-05-31 |
@@ -1099,7 +1102,7 @@
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [Sei del Mattino](https://open.spotify.com/track/0SeoeFL0XM5YpTag15SX9n) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 3:05 | 2024-03-15 | 2024-03-18 |
 | [Self\-Care 101](https://open.spotify.com/track/4PK8vwNQuscUXTx4ySI8bm) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Self\-Care 101](https://open.spotify.com/album/7KMHbaMkFywuhG4OJ9piN5) | 3:21 | 2024-04-26 | 2024-05-16 |
-| [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-28 |  |
+| [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-28 | 2024-08-07 |
 | [sennik \(vol.2\)](https://open.spotify.com/track/39zA36ymdG2wApLdb4uSqT) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [sennik \(vol.2\)](https://open.spotify.com/album/2yCozxpnHoE06DqOrR5kFh) | 2:28 | 2022-11-18 | 2023-05-31 |
 | [SENSATION](https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:27 | 2023-08-18 | 2024-03-09 |
 | [SENSATION](https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:27 | 2023-08-18 | 2023-11-29 |

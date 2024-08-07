@@ -4071,6 +4071,28 @@
     },
     {
       "album": {
+        "name": "I.D.G.A.F",
+        "url": "https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz"
+      },
+      "artists": [
+        {
+          "name": "Bob.B Randhawa",
+          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
+        },
+        {
+          "name": "Mani Sidhu",
+          "url": "https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269781,
+      "name": "I.D.G.A.F",
+      "url": "https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0"
+    },
+    {
+      "album": {
         "name": "Identity",
         "url": "https://open.spotify.com/album/59aXMQs16Orh4mN14dbdg3"
       },
@@ -4090,28 +4112,6 @@
       "duration_ms": 117272,
       "name": "Identity",
       "url": "https://open.spotify.com/track/4DMVfbVKN4dJAm7wdNUXlK"
-    },
-    {
-      "album": {
-        "name": "I.D.G.A.F",
-        "url": "https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz"
-      },
-      "artists": [
-        {
-          "name": "Bob.B Randhawa",
-          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
-        },
-        {
-          "name": "Mani Sidhu",
-          "url": "https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN"
-        }
-      ],
-      "date_added": "2024-08-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268467,
-      "name": "IDGAF M1",
-      "url": "https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0"
     },
     {
       "album": {
@@ -5388,6 +5388,10 @@
         {
           "name": "Wilson Brar",
           "url": "https://open.spotify.com/artist/0j7J3wf8J3uAHjsS80IEjd"
+        },
+        {
+          "name": "Beat Cop",
+          "url": "https://open.spotify.com/artist/76nwNgZnm3YaJifXM02LtY"
         }
       ],
       "date_added": "2024-04-19",
@@ -5696,6 +5700,24 @@
       "duration_ms": 148952,
       "name": "Mann Di Ni Tu",
       "url": "https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA"
+    },
+    {
+      "album": {
+        "name": "Masle",
+        "url": "https://open.spotify.com/album/06dpLPWKYdm1T6bdMJBROL"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "Masle",
+      "url": "https://open.spotify.com/track/1i2Hf9IxuHbfi8MbrdmfRx"
     },
     {
       "album": {

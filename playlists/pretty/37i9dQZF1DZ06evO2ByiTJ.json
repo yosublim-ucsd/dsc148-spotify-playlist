@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 14627,
+  "num_followers": 14633,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABCLNDCjAb2d2+O9JCliL2L",
+  "snapshot_id": "ZrAWAAAAAAClj52IkqUNbEAwUuSl72TT",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Cora\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samba Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 217640,
       "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
       "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Cora\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 303020,
       "name": "\u00daltimos Dias",
       "url": "https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -499,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
       },
       "artists": [
         {
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 271534,
-      "name": "Buscar Tua Face \u00e9 Preciso",
-      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 271534,
+      "name": "Buscar Tua Face \u00e9 Preciso",
+      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1grimas Ensinam",
         "url": "https://open.spotify.com/album/2MFTze1Xttlv9M8I4TKpOu"
       },
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crian\u00e7a Nota 10",
-        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
       "artists": [
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Coral de Crian\u00e7as",
-          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
         }
       ],
-      "duration_ms": 164165,
-      "name": "Crian\u00e7a Nota 10",
-      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
       "artists": [
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
         }
       ],
-      "duration_ms": 257416,
-      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
-        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Raridade - Live MK 10 MI",
-      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 256534,
       "name": "Deus Indecifr\u00e1vel",
       "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elaine Martins (Ao Vivo) - Live MK 10 MI",
+        "url": "https://open.spotify.com/album/18FC3cu0Q7b8F2pCPc2DuD"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Raridade - Live MK 10 MI",
+      "url": "https://open.spotify.com/track/6uMYKg90PUb1ShNbQ2l5pH"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 294846,
-      "name": "Minha Alma Canta",
-      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Elyon",
         "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240976,
       "name": "El Elyon",
       "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 294846,
+      "name": "Minha Alma Canta",
+      "url": "https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU"
     },
     {
       "added_at": null,

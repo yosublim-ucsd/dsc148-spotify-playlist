@@ -1,12 +1,12 @@
 {
-  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 184267,
+  "description": "This Is Talking Heads. Los temas esenciales, todos en una lista.",
+  "num_followers": 184298,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADos0uMshsRSbSHC2XYTG4G",
+  "snapshot_id": "ZrAWAAAAAABzVa7wRCb9ycbu6FKoYo+P",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
-        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 305000,
-      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
-      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
+      "duration_ms": 183186,
+      "name": "The Good Thing - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "The Name of This Band Is Talking Heads (Expanded 2004 Remaster)",
+        "url": "https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 183186,
-      "name": "The Good Thing - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
+      "duration_ms": 305000,
+      "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
+      "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
     },
     {
       "added_at": null,

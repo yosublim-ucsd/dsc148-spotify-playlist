@@ -1,12 +1,12 @@
 {
   "description": "This Is Perdidos De Sinaloa. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 49369,
+  "num_followers": 49376,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABADXXjd0tgs/x7CDVkpcus",
+  "snapshot_id": "ZrAWAAAAAACBp1sTuy8SY7iNkZ+BJuVP",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Voy a Amarte (Remix)",
+        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 142422,
+      "name": "Voy a Amarte - Remix",
+      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voy a Amarte (Remix)",
-        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 142422,
-      "name": "Voy a Amarte - Remix",
-      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dariel Party, Vol. 1",
         "url": "https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 243885,
       "name": "Conv\u00e9nceme (En Vivo)",
       "url": "https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex de Verdad (En Vivo)",
-        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 218202,
-      "name": "Ex de Verdad (En Vivo)",
-      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callando Bocas",
         "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 160307,
       "name": "Callando Bocas",
       "url": "https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ex de Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 218202,
+      "name": "Ex de Verdad (En Vivo)",
+      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
     },
     {
       "added_at": null,
@@ -967,26 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Del Rancho Para El Mundo",
-        "url": "https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
       "artists": [
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Banda La Perdida",
-          "url": "https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Las ciudades",
-      "url": "https://open.spotify.com/track/2Io0LtuRg1m2AjHLTsaIJ5"
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: شارموفرز
 
-1,087 songs - 2 day 13 hr 1 min
+1,088 songs - 2 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [عكسهم](https://open.spotify.com/track/3Lui4jMSqPFnB3bwNEOKqE) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj) | [عكسهم](https://open.spotify.com/album/5olZ9K1iqwlW7fyHPBgm91) | 3:18 | 2023-08-15 | 2023-09-30 |
 | [على مين ياسطى \- من فيلم العميل صفر](https://open.spotify.com/track/2VKYBhkaNecElDMvLgExvd) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [على مين ياسطى \(من فيلم العميل صفر\)](https://open.spotify.com/album/76AH4Vj7TLBmuXgYfVOGOH) | 2:55 | 2023-08-08 | 2023-09-26 |
 | [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 | 2023-02-22 |
-| [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 | 2024-07-22 |  |
+| [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 | 2024-07-22 | 2024-08-07 |
 | [عملة نادرة \- تتر بداية المسلسل](https://open.spotify.com/track/2Eneo9yawKGoBxHTimTozd) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [عملة نادرة \(تتر بداية المسلسل\)](https://open.spotify.com/album/6exv42Ui7EwRX7QJvMVvI5) | 3:37 | 2023-04-05 | 2023-05-17 |
 | [عيب عليك](https://open.spotify.com/track/23l46DmLn0eyNHbhuMXmyD) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [عيب عليك](https://open.spotify.com/album/2VnptIglpsakIaCYyAy4j0) | 4:09 | 2023-07-13 | 2023-08-04 |
 | [عيشلك يومين](https://open.spotify.com/track/6R8PQXyw78JTVKy8tqkeVI) | [Karim Abo Zaid](https://open.spotify.com/artist/3J1e5KrKoa03ZWWFhL4lRT) | [عيشلك يومين](https://open.spotify.com/album/1eYpPeVJJNWubBqq7dfe0m) | 2:52 | 2023-09-19 | 2023-09-21 |
@@ -978,6 +978,7 @@
 | [كان ياما كان](https://open.spotify.com/track/0U7LKLwPwAoRK5vF6CxY9I) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [كان ياما كان](https://open.spotify.com/album/0HqJNj4BLxv28jhxZud7m0) | 3:33 | 2024-03-08 | 2024-06-12 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [كتاكيت](https://open.spotify.com/track/3jteVEmOXFUyWJ651mhgyc) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [كتاكيت](https://open.spotify.com/album/7ClhEA7NvStla8CQiHB6nN) | 2:46 | 2024-04-10 | 2024-06-01 |
+| [كداب](https://open.spotify.com/track/1KK6btqSOoG2uW0dldinOx) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كداب](https://open.spotify.com/album/5l0kncVsCrQpzxC2vnbEkn) | 3:27 | 2024-08-06 |  |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-07-28 | 2023-08-10 |
 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 | 2023-07-28 | 2023-09-30 |
 | [كل الحكاية](https://open.spotify.com/track/0s1sc7gWtigPnKEEkjBojU) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [كل الحكاية](https://open.spotify.com/album/4EmGOjK0vbZnHf5lyzhESK) | 3:48 | 2024-04-11 | 2024-06-21 |

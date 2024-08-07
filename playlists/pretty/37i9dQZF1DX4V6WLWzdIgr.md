@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,491 likes - 78 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,682 likes - 78 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

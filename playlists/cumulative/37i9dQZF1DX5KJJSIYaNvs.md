@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- Sukriti Kakar, Prakriti Kakar
+> Listen to women at full volume\. Cover \- Rekha Bharadwaj
 
 349 songs - 20 hr 28 min
 

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-577 songs - 1 day 5 hr 21 min
+578 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [corrupted](https://open.spotify.com/track/39GHv2K1RKIQfZHFjR1yjY) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [corrupted](https://open.spotify.com/album/3BvcTWoK35dqfpunJgJBHm) | 1:42 | 2024-07-12 |  |
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 | 2023-08-10 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
+| [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Charlotte Reed](https://open.spotify.com/artist/2QJptU1vtIdk7WQIuylCjs) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
 | [Crazy](https://open.spotify.com/track/5nihLVpUd4birzwDlSp1Ph) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Crazy](https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY) | 3:08 | 2023-08-08 | 2023-12-14 |
 | [Crossed The Line](https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Crossed The Line](https://open.spotify.com/album/2hlugmYMiNqGeMYmksckMe) | 2:27 | 2023-08-08 | 2024-03-08 |
 | [Cruising](https://open.spotify.com/track/6wbsJTgOAlKbpKvhQbQkqW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Cruising](https://open.spotify.com/album/4wS9vXssesDfru8gNF7aNY) | 2:40 | 2024-03-26 |  |

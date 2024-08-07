@@ -2,9 +2,9 @@
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-55 songs - 2 hr 50 min
+56 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-25 | 2024-05-03 |
 | [Contracorriente](https://open.spotify.com/track/5ze6uwfM4IziOIspbBmN3N) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:47 | 2024-04-27 | 2024-06-03 |
 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 | 2023-09-25 |  |
-| [Cuesta Amarte](https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:21 | 2024-06-01 |  |
+| [Cuesta Amarte](https://open.spotify.com/track/1v65TkytkaJKvvFR9mIOJp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:21 | 2024-06-01 | 2024-08-07 |
 | [Cuesta Amarte](https://open.spotify.com/track/4DGZh7uAyj4s7zaGqAGNHR) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuesta Amarte](https://open.spotify.com/album/2iZl32x6FhDIVsCbJOvPSK) | 2:21 | 2024-04-11 | 2024-06-01 |
 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-17 |  |
 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 | 2023-09-25 |  |
@@ -35,7 +35,8 @@
 | [Explicación \(feat\. Santiago Deluchi\) \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Santiago Deluchi](https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:54 | 2023-09-25 | 2023-11-11 |
 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2023-09-25 |  |
 | [Inevitables](https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:51 | 2024-04-27 |  |
-| [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-09-25 |  |
+| [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-09-25 | 2024-08-07 |
+| [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 | 2024-08-07 |  |
 | [La Vida Sin Ti](https://open.spotify.com/track/382e4hfqVal6gfgYyLUHsp) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:51 | 2023-09-25 |  |
 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 | 2023-09-25 |  |
 | [Me Equivoqué](https://open.spotify.com/track/1Ab8LMRP4syFbYZKtGUwss) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:43 | 2023-09-25 |  |

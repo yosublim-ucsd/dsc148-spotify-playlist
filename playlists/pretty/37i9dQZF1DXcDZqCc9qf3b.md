@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Saving Bikini Bottom
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,163 likes - 97 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,259 likes - 97 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

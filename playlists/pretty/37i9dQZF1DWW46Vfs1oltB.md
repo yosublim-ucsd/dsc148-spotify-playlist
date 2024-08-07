@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: DON MALIK\(던말릭\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,715 likes - 108 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,678 likes - 108 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

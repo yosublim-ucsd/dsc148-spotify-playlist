@@ -4,7 +4,7 @@
 
 > 
 
-1,564 songs - 3 day 12 hr 52 min
+1,567 songs - 3 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Demonic Playgrounds](https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Disarray](https://open.spotify.com/artist/5HzAVjYVX8EYbLnNv9Vrke) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:08 | 2022-09-06 |  |
 | [Demons \- Restrained Remix](https://open.spotify.com/track/1DfWr7DrXQ01w8UZbrRpAK) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Jantine](https://open.spotify.com/artist/6T9cbIq48QxRl7bm5fqQL7) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 4:00 | 2022-08-23 |  |
 | [Demons In My Head Again](https://open.spotify.com/track/2PLZvF2SpJQ8uEt4Eo0TxP) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l), [Cry Louder](https://open.spotify.com/artist/7lfG1euNRBmLHhKVwoWbbs) | [Demons In My Head Again](https://open.spotify.com/album/4qJM7BjlzDmbvVfnOd2Do2) | 2:43 | 2023-07-14 |  |
+| [Destiny Awakes](https://open.spotify.com/track/2L3xAX7ibbYLpgTF339zfE) | [Sunhiausa](https://open.spotify.com/artist/1qDgh7C7FRYAln38RsYZ0x) | [Destiny Awakes](https://open.spotify.com/album/6XSmtN4JajxXJ8rAOVrPXZ) | 3:14 | 2024-08-06 |  |
 | [Destroyer](https://open.spotify.com/track/5bI2cNS1i0OtGcb8xZsN6T) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Destroyer](https://open.spotify.com/album/0aBJ8z0BUR8KC76iNyfJOm) | 2:32 | 2024-01-12 |  |
 | [Detonate](https://open.spotify.com/track/2c7Jv9fSxjPS0kxMZkqHky) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Detonate](https://open.spotify.com/album/517fKTIPfH45YYWLIp4zGf) | 2:50 | 2023-12-08 |  |
 | [Devil](https://open.spotify.com/track/3nUnCEIxM1SIdnbkwr76zN) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Devil](https://open.spotify.com/album/1TlQ9SoUfYzcVNkD5kTu9z) | 3:17 | 2024-06-17 |  |
@@ -513,6 +514,7 @@
 | [Forget the Real World](https://open.spotify.com/track/52BmlGYyXjcQLqBISvN7Nd) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Forget the Real World](https://open.spotify.com/album/2cAXdmY5D2Yd3XBw8eEd3F) | 3:48 | 2022-11-21 |  |
 | [Forsaken](https://open.spotify.com/track/7cyecRXZ6UTnNqARZ1eeng) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Forsaken](https://open.spotify.com/album/4QcTmGj1mTaiYdAfApZJPC) | 2:51 | 2024-07-07 |  |
 | [Foutue Babylone](https://open.spotify.com/track/5wwabiQyDJSOmz8165DBON) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Foutue Babylone](https://open.spotify.com/album/0gsdd1nsSRvU0GEebaNHT9) | 3:36 | 2022-11-21 |  |
+| [FREAK](https://open.spotify.com/track/0kuqEsTBch85rvpl48SgmZ) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY) | [FREAK](https://open.spotify.com/album/0l2JDEEbBviDh8mKEEJIl5) | 2:13 | 2024-08-06 |  |
 | [Freaks](https://open.spotify.com/track/5ar09Jwqg3MwPpAip6WaBk) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Freaks](https://open.spotify.com/album/1qsunA2Wk6W5M3IMnuyS3a) | 3:52 | 2022-09-06 |  |
 | [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 | 2024-05-03 |  |
 | [Free To Fly](https://open.spotify.com/track/4atzHpbNPrr1fheYMoF2VX) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Free To Fly](https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y) | 3:16 | 2022-02-14 |  |
@@ -1062,6 +1064,7 @@
 | [Poedersneeuw 5.0](https://open.spotify.com/track/5rVzUHCSkH2LjK1ofGQfx6) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Poedersneeuw 5.0](https://open.spotify.com/album/5FRORa9GaUex3InbzgUFC3) | 3:20 | 2022-12-22 |  |
 | [Polarized \(Back 2 The Future\)](https://open.spotify.com/track/5soMrKiCesnecKTCohSsAx) | [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Polarized \(Back 2 The Future\)](https://open.spotify.com/album/5rcO2lgLqzB03rrKvgquI4) | 3:49 | 2024-05-10 |  |
 | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/track/4QzhzKPrduGWqUU6nfXiyh) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/album/7dmkSNhEhI9k6h72gQ4bDa) | 4:13 | 2023-12-08 |  |
+| [Pon De Replay](https://open.spotify.com/track/7yDossRdcjgcmuSOwFa66q) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu) | [Pon De Replay](https://open.spotify.com/album/7sr2T1E8dZc40bN2BkbVtE) | 3:01 | 2024-08-06 |  |
 | [Pop Drop](https://open.spotify.com/track/3jGUFiSRRCJUUzigTws8ir) | [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Mike Reverie](https://open.spotify.com/artist/66BGGk95uamfiRchHngiCz) | [Pop Drop](https://open.spotify.com/album/0CAGxynvsfroSLy9wmBvD3) | 2:11 | 2024-04-14 |  |
 | [Pray](https://open.spotify.com/track/6HYHztsGgR6knevrHHAOsN) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [DEVIL'S NIGHTMARE](https://open.spotify.com/album/1WOKfBZWmMvQWTR9SOP47F) | 3:17 | 2022-11-04 |  |
 | [Premortality](https://open.spotify.com/track/6VEtzi0LA2RX2rWJYyWiOj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Premortality](https://open.spotify.com/album/7sAvf5SwuqKJ9qv9sHckWO) | 3:59 | 2023-03-12 |  |

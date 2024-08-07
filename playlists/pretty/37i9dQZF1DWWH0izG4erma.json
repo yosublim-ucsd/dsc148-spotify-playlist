@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: A Thousand Horses",
-  "num_followers": 603011,
+  "num_followers": 603080,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pray All The Way Home",
-        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
       },
       "artists": [
         {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 144173,
-      "name": "Pray All The Way Home",
-      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -507,38 +507,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+        "name": "Pray All The Way Home",
+        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+      "duration_ms": 144173,
+      "name": "Pray All The Way Home",
+      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
         }
       ],
-      "duration_ms": 205767,
-      "name": "red (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
+      "duration_ms": 198113,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -559,18 +555,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
         {
-          "name": "Hayden Coffman",
-          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 198113,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+      "duration_ms": 205767,
+      "name": "red (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Love You Again",
         "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 258799,
+      "name": "Heart On Fire",
+      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Heart On Ice",
         "url": "https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82"
       },
@@ -743,24 +743,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Heart On Fire",
-      "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "TRUCK BED",
-        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
@@ -768,25 +752,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -823,6 +791,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Something's Gonna Kill Me",
         "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Muddy Water Rockstar",
+        "url": "https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "Muddy Water Rockstar",
+      "url": "https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Muddy Water Rockstar",
-        "url": "https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Austin Snell",
-          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 152866,
-      "name": "Muddy Water Rockstar",
-      "url": "https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k"
+      "duration_ms": 227226,
+      "name": "Homeboy",
+      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "TRUCK BED",
+        "url": "https://open.spotify.com/album/1boiPTdVLFiJQIhcH3dWVq"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 227226,
-      "name": "Homeboy",
-      "url": "https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy"
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/73NzYbpaYvQ7JfpjztFESL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1111,42 +1111,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Guilty (feat. DL of Bad Wolves)",
-        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
-      },
-      "artists": [
-        {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
-        },
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Guilty (feat. DL of Bad Wolves)",
-      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Madeline Edwards",
-        "url": "https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd"
-      },
-      "artists": [
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        }
-      ],
-      "duration_ms": 180136,
-      "name": "Hold My Horses",
-      "url": "https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1167,6 +1131,42 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Madeline Edwards",
+        "url": "https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "duration_ms": 180136,
+      "name": "Hold My Horses",
+      "url": "https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Guilty (feat. DL of Bad Wolves)",
+        "url": "https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        },
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Guilty (feat. DL of Bad Wolves)",
+      "url": "https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d"
     },
     {
       "added_at": "2024-08-02 04:00:00",

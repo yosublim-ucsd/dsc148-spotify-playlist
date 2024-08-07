@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "gece g\u00fcnd\u00fcz",
+        "url": "https://open.spotify.com/album/0sNUfaDpHlSkgLDlm7gfQx"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Macit",
+          "url": "https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148596,
+      "name": "gece g\u00fcnd\u00fcz",
+      "url": "https://open.spotify.com/track/5vT94MAha3TdhV4LPsECyG"
+    },
+    {
+      "album": {
         "name": "Gitti\u011finden Beri",
         "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 202173,
       "name": "Sesim Kulakl\u0131klar\u0131nda",
       "url": "https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W"

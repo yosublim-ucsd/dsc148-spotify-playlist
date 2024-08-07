@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: kZm
 
-768 songs - 1 day 15 hr 13 min
+769 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-08 | 2024-04-05 |
 | [Feeling Alive](https://open.spotify.com/track/1guGFwq2ErO0y9zK4BzGIq) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Feeling Alive](https://open.spotify.com/album/2ip8d5Cj7PvJ19EWpEGWjq) | 2:38 | 2023-11-09 | 2023-12-09 |
 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 | 2024-04-04 | 2024-07-13 |
+| [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:47 | 2024-08-06 |  |
 | [Find A Way](https://open.spotify.com/track/3gupIvNUT3ZP8tQ8PZ9ESE) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Radiant](https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW) | 4:11 | 2024-05-15 | 2024-06-29 |
 | [fIT chECK fREEsTYle](https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [fIT chECK fREEsTYle](https://open.spotify.com/album/34TDMPJjH7oqvyFXwxGeUB) | 3:03 | 2024-04-11 | 2024-05-24 |
 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 | 2023-10-19 | 2023-12-09 |
@@ -361,7 +362,7 @@
 | [LET'S GO](https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [LET'S GO](https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan) | 3:16 | 2023-10-19 | 2023-11-11 |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-04-11 | 2024-04-19 |
 | [Let's Slide](https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Let's Slide](https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK) | 2:24 | 2023-04-20 | 2023-05-26 |
-| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-01 |  |
+| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-01 | 2024-08-07 |
 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 | 2023-05-25 | 2023-07-21 |
 | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [LiGhT rAiLs \*ੈ✩‧₊˚](https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu) | 2:25 | 2024-01-12 | 2024-02-09 |
 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 | 2024-06-06 |  |

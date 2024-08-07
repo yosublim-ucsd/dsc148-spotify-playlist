@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli XCX & Billie Eilish, Khalid, A$AP Rocky, Kacey Musgraves and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,206,564 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,206,711 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-719 songs - 1 day 16 hr 15 min
+720 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Get It On](https://open.spotify.com/track/3Ho2FJutH67enqPLYc1K51) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Get It On](https://open.spotify.com/album/0l8a4E9Qc0w6TPHbweipbI) | 3:05 | 2023-05-12 | 2023-09-18 |
 | [Get Up](https://open.spotify.com/track/5bW5xB2hInPhcLHhwJXbYR) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF) | [Get Up](https://open.spotify.com/album/1VxLRJpczwSafsznDhCUtU) | 3:04 | 2022-04-01 | 2022-11-01 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-28 |  |
+| [Ghost in the Shadows](https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM) | [Ghost in the Shadows](https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4) | 3:47 | 2024-08-02 |  |
 | [GIGACHAD](https://open.spotify.com/track/2VXSei3puBk9C8EW5v1MmF) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [GIGACHAD](https://open.spotify.com/album/4ZsbsF13Yc5hSQ4y6XZlnV) | 3:32 | 2022-02-25 | 2023-04-01 |
 | [Gimme](https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Gimme](https://open.spotify.com/album/5CtuvqCkEu11jscm6KkU7t) | 2:52 | 2024-05-10 |  |
 | [Glass Kingdom](https://open.spotify.com/track/4oE1lWOhoZpB4wXNxNriWd) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Glass Kingdom](https://open.spotify.com/album/36LdIPkAIq9PQzX3ooWziR) | 2:54 | 2024-02-16 | 2024-07-19 |
@@ -667,7 +668,7 @@
 | [Thermos](https://open.spotify.com/track/7rRMDmpE2mafOZwMtIyEe4) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Staysick](https://open.spotify.com/artist/45uC5ia7f1oj4TGlOSbtC4) | [Untouchable EP](https://open.spotify.com/album/0XX9TG7A9lvoB1IxoMRlES) | 3:45 | 2021-12-17 | 2022-03-12 |
 | [Thicc Boi Mega VIP](https://open.spotify.com/track/7DIzQTojGTUqP7cxwZnp48) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Thicc Boi Mega VIP](https://open.spotify.com/album/5EMXlmp3WKweMXx43ikNFL) | 3:32 | 2024-02-02 |  |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-15 | 2022-11-12 |
-| [Third Eye Vision](https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz) | [Third Eye Vision](https://open.spotify.com/album/4x9v3IPqnl8YFexbrnL8by) | 4:56 | 2024-06-21 |  |
+| [Third Eye Vision](https://open.spotify.com/track/1waLYktQF1ByPCP3PjTTfb) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz) | [Third Eye Vision](https://open.spotify.com/album/4x9v3IPqnl8YFexbrnL8by) | 4:56 | 2024-06-21 | 2024-08-07 |
 | [Thirst For Revenge](https://open.spotify.com/track/1HtTWVwNFgGip90QlHOlai) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [VOYD Vol\. II](https://open.spotify.com/album/3Ccis9RvuassE2mtVWqwI5) | 4:53 | 2022-03-18 | 2023-02-07 |
 | [This Could Be Us](https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Modestep](https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [This Could Be Us](https://open.spotify.com/album/3LDO3EsSED9KNkt8ycUAHH) | 5:08 | 2021-12-17 | 2023-04-01 |
 | [Thoughts Of You](https://open.spotify.com/track/3kcF9tCDBjg1cEKovHpopQ) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Peytn](https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV) | [Thoughts Of You](https://open.spotify.com/album/208m3z47W4iFtJPgrmW34k) | 3:02 | 2021-12-17 | 2022-05-07 |

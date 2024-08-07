@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
@@ -1858,6 +1858,52 @@
       "duration_ms": 265689,
       "name": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc - English Jazz Ver.",
       "url": "https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU"
+    },
+    {
+      "album": {
+        "name": "Answer to Remember II",
+        "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
+      },
+      "artists": [
+        {
+          "name": "Answer to Remember",
+          "url": "https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9"
+        },
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        },
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        },
+        {
+          "name": "Gensuke Kanki",
+          "url": "https://open.spotify.com/artist/6wKIQpK2Xmxfoto8ezWfZC"
+        },
+        {
+          "name": "\u4e95\u4e0a\u9298",
+          "url": "https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg"
+        },
+        {
+          "name": "MELRAW",
+          "url": "https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N"
+        },
+        {
+          "name": "\u6d77\u5800\u5f18\u592a",
+          "url": "https://open.spotify.com/artist/2agGhXNQXZhNjIgVKeDkF1"
+        },
+        {
+          "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30db\u30ed\u30d9\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342293,
+      "name": "\uff08\u3064\u3065\u304f\uff09",
+      "url": "https://open.spotify.com/track/2gMxAHUFrJqvBlRvBorkjE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI"

@@ -9866,7 +9866,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 105542,
       "name": "Brightly",
       "url": "https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j"
@@ -69832,6 +69832,28 @@
       "duration_ms": 90000,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/7nYhAy1cex36y6UKkpLUXO"
+    },
+    {
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/1mzmSYFMEb5A580W4dj2D7"
+      },
+      "artists": [
+        {
+          "name": "Lowkey",
+          "url": "https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Summer Lovin'",
+      "url": "https://open.spotify.com/track/5nfqd8rNYxZaPW3GuYsWc6"
     },
     {
       "album": {

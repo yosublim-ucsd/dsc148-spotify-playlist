@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > salt air and the rust on your door 🍃 cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,845 likes - 104 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,944 likes - 104 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

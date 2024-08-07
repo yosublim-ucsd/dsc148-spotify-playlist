@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Rochak Kohli
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,627 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,644 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 |
 | 4 | [F\*CK WHAT THEY SAY](https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:52 |
 | 5 | [Rang](https://open.spotify.com/track/7IWDMat26EfRqf2rC61f5z) | [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Rang](https://open.spotify.com/album/5XWSenWV9adW3ta8PWIxrl) | 3:10 |
-| 6 | [Babumoshai \- From "Made in India"](https://open.spotify.com/track/4gBCkOT2Tm1GPA10HtHtst) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Babumoshai \(From "Made in India"\)](https://open.spotify.com/album/6Ec5qq0mgmUDri7bNavmoe) | 2:12 |
+| 6 | [Babumoshai \- From "Made in India"](https://open.spotify.com/track/4gBCkOT2Tm1GPA10HtHtst) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Babumoshai \- From "Made in India"](https://open.spotify.com/album/6Ec5qq0mgmUDri7bNavmoe) | 2:12 |
 | 7 | [Party Fever](https://open.spotify.com/track/2tbzVCoQSiQZ8oEmtdN6hF) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Agni](https://open.spotify.com/artist/3PPwUrqoLq5PbPq5p1onrZ), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Party Fever](https://open.spotify.com/album/2qVdGp8BiMtpnPYSAaJGZ8) | 3:00 |
 | 8 | [Mileya](https://open.spotify.com/track/6cJ3GZcfx0hMlaW48BBPqo) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Mileya](https://open.spotify.com/album/3HInUVZgm1xhmyZTShK7kk) | 3:29 |
 | 9 | [Baadal Barse](https://open.spotify.com/track/0mWej4p9syAAr36x7XdEuG) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Gourov Dasgupta](https://open.spotify.com/artist/3o3G8YHpQHYo70WtJ4Hg8W), [Farhan Memon](https://open.spotify.com/artist/1C0aNdorffHCQOIQLlXhxX) | [Baadal Barse](https://open.spotify.com/album/3YYqXiv3KnyFQe8RbAa2XV) | 3:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 474494,
+  "num_followers": 474616,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
-        "name": "Meant 2 Be",
-        "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
-      },
-      "artists": [
-        {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        },
-        {
-          "name": "Nuca",
-          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
-        }
-      ],
-      "duration_ms": 277359,
-      "name": "Meant 2 Be",
-      "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
-    },
-    {
-      "added_at": "2024-06-10 04:41:27",
-      "album": {
         "name": "Berona",
         "url": "https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV"
       },
@@ -1339,18 +1319,38 @@
     {
       "added_at": "2024-06-10 04:41:27",
       "album": {
-        "name": "Kasmaran",
-        "url": "https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu"
+        "name": "Meant 2 Be",
+        "url": "https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd"
       },
       "artists": [
         {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        },
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
         }
       ],
-      "duration_ms": 242390,
-      "name": "Kasmaran",
-      "url": "https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf"
+      "duration_ms": 277359,
+      "name": "Meant 2 Be",
+      "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
+    },
+    {
+      "added_at": "2024-06-10 04:41:27",
+      "album": {
+        "name": "Tanpa Tergesa",
+        "url": "https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 218405,
+      "name": "Tanpa Tergesa",
+      "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"
     }
   ],
   "unique_name": "Santai Sejenak",

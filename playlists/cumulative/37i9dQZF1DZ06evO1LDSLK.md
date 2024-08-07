@@ -2,7 +2,7 @@
 
 ### [This Is Iggy Pop](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LDSLK)
 
-> This is Iggy Pop\. The essential tracks, all in one playlist.
+> This Is Iggy Pop\. Los temas esenciales, todos en una lista.
 
 93 songs - 5 hr 52 min
 
@@ -22,7 +22,7 @@
 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 | 2022-11-04 |  |
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2023-01-07 |  |
 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 | 2022-11-04 |  |
-| [Dirty Love \(feat\. Iggy Pop\)](https://open.spotify.com/track/5qhRMJY1TQwljFlC6aW8OJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 2:44 | 2022-11-04 | 2024-07-24 |
+| [Dirty Love \(feat\. Iggy Pop\)](https://open.spotify.com/track/5qhRMJY1TQwljFlC6aW8OJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 2:44 | 2022-11-04 |  |
 | [Do Not Go Gentle Into That Good Night](https://open.spotify.com/track/06de1At9cfYJEsktmw4Ec0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 1:48 | 2023-01-14 | 2023-02-22 |
 | [Dum Dum Boys](https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 7:13 | 2022-11-04 | 2024-07-11 |
 | [Et Si Tu n'existais Pas](https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:33 | 2023-02-07 |  |
@@ -65,7 +65,7 @@
 | [Neo Punk](https://open.spotify.com/track/1DX0TkV2vX5T8tUQrTOmlH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 2:15 | 2023-01-07 | 2023-01-09 |
 | [New Atlantis](https://open.spotify.com/track/6XMvpM1luxKj9gCwvifL2D) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:08 | 2023-01-07 | 2024-02-13 |
 | [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 | 2022-11-04 |  |
-| [No Fun \- ADF30 Rework](https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [No Fun \(ADF30 Rework\)](https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo) | 4:18 | 2024-05-27 |  |
+| [No Fun \- ADF30 Rework](https://open.spotify.com/track/07eH74CD3b1pPxQHrXCP0m) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [No Fun \(ADF30 Rework\)](https://open.spotify.com/album/4RMo1eqb2vwG6BqG02vHCo) | 4:18 | 2024-05-27 | 2024-08-07 |
 | [No Shit](https://open.spotify.com/track/0l2vXaJQDNz9deAITHdpST) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Avenue B](https://open.spotify.com/album/3CVnxmcJy6gCrkh6lFY0fm) | 1:20 | 2023-01-05 | 2024-06-11 |
 | [Paraguay](https://open.spotify.com/track/0NxkgttWBebPhJhQkW6t8n) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:25 | 2022-11-05 | 2022-11-28 |
 | [Personal Jesus](https://open.spotify.com/track/39T5kfrzZZ1I6BgUk5Pmv2) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Personal Jesus](https://open.spotify.com/album/18dZevcCy8WBDLu4kchXiN) | 3:26 | 2023-11-10 | 2024-07-08 |

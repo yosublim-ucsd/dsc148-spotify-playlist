@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 573430,
+  "num_followers": 573507,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -771,26 +771,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Turning Onto You (HNNY Remix)",
-        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        },
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Turning Onto You - HNNY Remix",
-      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Turning Onto You (HNNY Remix)",
+        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Turning Onto You - HNNY Remix",
+      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
+      },
+      "artists": [
+        {
+          "name": "Final Djs",
+          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Be with You Tonight",
         "url": "https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Never Let It Go",
-        "url": "https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q"
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
       "artists": [
         {
-          "name": "Final Djs",
-          "url": "https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa"
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
         }
       ],
-      "duration_ms": 158405,
-      "name": "Never Let It Go",
-      "url": "https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP"
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1827,30 +1827,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Something On My Mind",
-        "url": "https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Something On My Mind",
-      "url": "https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Into the Ether",
         "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
       },
@@ -1887,6 +1863,30 @@
       "duration_ms": 381639,
       "name": "In This Life - Cassara Remix",
       "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR"
       },
@@ -1987,6 +1967,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Type of Girl",
+        "url": "https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ"
+      },
+      "artists": [
+        {
+          "name": "Teilz",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 265161,
+      "name": "Type of Girl Pt. 2",
+      "url": "https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -2007,6 +2007,26 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2047,6 +2067,22 @@
       "duration_ms": 215823,
       "name": "Workin\u2019 On It",
       "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Ol\u00e9 Maca - Single",
+        "url": "https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 157922,
+      "name": "Ol\u00e9 Maca",
+      "url": "https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2127,22 +2163,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Ol\u00e9 Maca - Single",
-        "url": "https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 157922,
-      "name": "Ol\u00e9 Maca",
-      "url": "https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Call On Me & Lifetime (Remixes)",
         "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
       },
@@ -2163,22 +2183,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Type of Girl",
-        "url": "https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ"
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
       "artists": [
         {
-          "name": "Teilz",
-          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         },
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
         }
       ],
-      "duration_ms": 265161,
-      "name": "Type of Girl Pt. 2",
-      "url": "https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs"
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2359,22 +2383,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Debt",
-        "url": "https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6"
-      },
-      "artists": [
-        {
-          "name": "Schur",
-          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
-        }
-      ],
-      "duration_ms": 139637,
-      "name": "Debt",
-      "url": "https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -2399,6 +2407,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Debt",
+        "url": "https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6"
+      },
+      "artists": [
+        {
+          "name": "Schur",
+          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
+        }
+      ],
+      "duration_ms": 139637,
+      "name": "Debt",
+      "url": "https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
@@ -2411,30 +2435,6 @@
       "duration_ms": 337975,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 166341,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     }
   ],
   "unique_name": "Poolside Disco",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,814,772 likes - 136 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,815,215 likes - 136 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

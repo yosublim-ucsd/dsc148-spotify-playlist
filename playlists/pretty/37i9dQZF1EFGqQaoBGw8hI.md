@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,229 likes - 575 songs - 1 day 16 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,228 likes - 575 songs - 1 day 16 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -399,9 +399,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 389 | [In Neon](https://open.spotify.com/track/7lt7Ln4T1msZFAOyuLvs1I) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 4:19 |
 | 390 | [Where Have All The Good Times Gone \- Remastered 2003](https://open.spotify.com/track/3qe4VBx2tsMcnXp66Puf2w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:01 |
 | 391 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 |
-| 392 | [The Panic In Me \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3eG1olclVmYZCFX7fx1xUl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 5:40 |
-| 393 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
-| 394 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 392 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 393 | [The Panic In Me \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3eG1olclVmYZCFX7fx1xUl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 5:40 |
+| 394 | [Hymn 2000](https://open.spotify.com/track/4sh4ALvv53VAiq2D1yszYq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 4:29 |
 | 395 | [On Dark Street](https://open.spotify.com/track/1eRNWai6OWRRKN7xI2OH17) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:43 |
 | 396 | [Between Seventeen And Twenty](https://open.spotify.com/track/33vpBgjk5jRZbUdvYRaOFL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:17 |
 | 397 | [My Elusive Drug](https://open.spotify.com/track/4quVhM2f0bt6DpIYUJRbhY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:12 |
@@ -498,8 +498,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 488 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
 | 489 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
 | 490 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
-| 491 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
-| 492 | [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 |
+| 491 | [Fascist Faces \- Remastered 2003](https://open.spotify.com/track/2byAwZoNnmSKGMdPo7hyS9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:11 |
+| 492 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
 | 493 | [Heart In The Right Place \- Remastered 2003](https://open.spotify.com/track/4L4Bs8mRMrjf1RC12ZQ1Lx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:14 |
 | 494 | [Gypsy Heart](https://open.spotify.com/track/2UetIVN5j3he2NN74senIA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:45 |
 | 495 | [Since God Invented Girls](https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:54 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbYo1AAAAABEqR/qANL53q8XmWWR6mL4`
+Snapshot ID: `AbYudAAAAACCppzZLNiPHGWPJwcEMaoj`

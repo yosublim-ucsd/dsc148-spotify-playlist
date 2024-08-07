@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Colde\(콜드\)\)
 
-729 songs - 1 day 14 hr 59 min
+730 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Lotus \(feat\. bluetin\)](https://open.spotify.com/track/269hsEUZuvhQ3dkONmgrNc) | [Hanon](https://open.spotify.com/artist/4Lj2K1MmY34I1CX08LqeR1), [bluetin](https://open.spotify.com/artist/5SblXf2aM3Dy65ja16JhuB) | [Water Lily \(feat\. bluetin\)](https://open.spotify.com/album/4WFh1X5whmRko0kxY9fuIx) | 3:12 | 2022-06-09 | 2022-06-19 |
 | [Love \(feat\. Loco, Moon Sujin & Jason Lee\)](https://open.spotify.com/track/0unN86elNEKkjrscaPjKbB) | [Spray](https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [Love](https://open.spotify.com/album/673LeCLGE4vwfR72Zhr3X9) | 3:15 | 2022-10-13 | 2022-10-28 |
 | [Love Affair \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/3kKNLD9mE0l3hK2MIQ8FkN) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Love Affair](https://open.spotify.com/album/0NM7anLn4eTJZe2OBeCLWH) | 2:33 | 2022-06-23 | 2022-07-08 |
-| [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 | 2022-04-19 |  |
+| [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 | 2022-04-19 | 2024-08-07 |
 | [Love Again](https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 2:59 | 2022-12-09 | 2022-12-16 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-29 |  |
 | [Love Eventually](https://open.spotify.com/track/15CJ0oqfcOeF0ySnqpW05E) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Love Eventually](https://open.spotify.com/album/3I3z1EN6WoUO8TT2fJrdmg) | 3:37 | 2023-07-07 | 2023-07-15 |
@@ -450,6 +450,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/60O330MwrWVWCp9fpxzulM) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-01-14 | 2023-02-15 |
 | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/track/1Ga3nLN6OuWfYlVotVhBAy) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [NEW GIRL \(feat\. Kid Milli\)](https://open.spotify.com/album/2Q2A0i59Uk99vBKRjLvvKx) | 3:44 | 2022-04-19 | 2022-04-21 |
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2023-07-07 |  |
+| [Night & Day](https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [We Will Meet Again](https://open.spotify.com/album/0PfezZ9IzgTP74n8tPDZcv) | 4:05 | 2024-08-06 |  |
 | [NIGHT DANCER \- Korean Ver.](https://open.spotify.com/track/19V8IRXP5XdFs1SVL58ZSA) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER \(BIG Naughty Remix\)](https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu) | 3:29 | 2023-05-15 | 2023-06-02 |
 | [Night Time Drive](https://open.spotify.com/track/09rIgAZRTmK2LDv0xleDfI) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:13 | 2023-01-23 | 2023-02-14 |
 | [Nightmare \(feat\. Plo6, Stay.d & O RO\)](https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa), [Stay.d](https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ), [O RO](https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n) | [The moment I loved](https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn) | 2:40 | 2024-01-04 | 2024-01-09 |

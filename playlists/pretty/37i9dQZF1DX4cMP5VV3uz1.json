@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 156990,
+  "num_followers": 156998,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "Break It Down (feat. Emily Makis)",
+        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Break It Down (feat. Emily Makis)",
+      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -663,22 +683,6 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "flight fm",
-        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 247820,
-      "name": "flight fm",
-      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
       },
@@ -699,6 +703,22 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Cyclone",
         "url": "https://open.spotify.com/album/5cnK9r9zaVKoBGrfWUDhzo"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 158965,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
-        "name": "Break It Down (feat. Emily Makis)",
-        "url": "https://open.spotify.com/album/3rVUj16tkYgoUShijrDkO7"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "Emily Makis",
-          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Break It Down (feat. Emily Makis)",
-      "url": "https://open.spotify.com/track/1iES2GLJnnPzP1TfT8ntyh"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Party Muscle",
-        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 122069,
-      "name": "Party Muscle",
-      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
         "name": "Energy In Motion",
         "url": "https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 260689,
       "name": "Energy In Motion",
       "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
+        "name": "Party Muscle",
+        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 122069,
+      "name": "Party Muscle",
+      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
     },
     {
       "added_at": "2024-08-02 10:54:46",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Circus Four",
         "url": "https://open.spotify.com/album/7qj4xzuZKpPdJ1zx8vM14e"
       },
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
         "name": "Sabertooth",
         "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
       },
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-08-02 10:54:46",
       "album": {
+        "name": "Wearing My Tracky",
+        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        }
+      ],
+      "duration_ms": 105090,
+      "name": "Wearing My Tracky",
+      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
+    },
+    {
+      "added_at": "2024-08-02 10:54:46",
+      "album": {
         "name": "Green & Gold (feat. Charlotte Plank & Riko Dan) [Skepsis VIP Mix]",
         "url": "https://open.spotify.com/album/3d8vPJ1esOUjt8tm32v5iZ"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 181028,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan) - Skepsis VIP Mix",
       "url": "https://open.spotify.com/track/72XbhXFWC35fbBPmMUA0NR"
-    },
-    {
-      "added_at": "2024-08-02 10:54:46",
-      "album": {
-        "name": "Wearing My Tracky",
-        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
-      },
-      "artists": [
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        }
-      ],
-      "duration_ms": 105090,
-      "name": "Wearing My Tracky",
-      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
     }
   ],
   "unique_name": "Proper Naughty ",

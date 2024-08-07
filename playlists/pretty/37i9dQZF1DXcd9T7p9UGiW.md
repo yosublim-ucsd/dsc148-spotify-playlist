@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,413 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,457 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

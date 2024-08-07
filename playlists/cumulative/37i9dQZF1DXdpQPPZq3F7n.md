@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Mr\. & Mrs\. Mahi
+> Let these songs be the background score to your love story\. Cover \- Bad Newz
 
 234 songs - 16 hr 25 min
 

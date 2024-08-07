@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,187 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,223 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 73 | [Fuck You](https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/4wYOdi0GyF2Dxt4MTzOssW) | 3:03 |
 | 74 | [Zombie](https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/2OrzskCbMc8Bu5rbPXppJp) | 2:42 |
 | 75 | [Scissorhands](https://open.spotify.com/track/5wC6xF8adOW6WQKZEBibCq) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Scissorhands](https://open.spotify.com/album/75la8mqEDlQzN6r9gy1tJH) | 2:38 |
-| 76 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
+| 76 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \- INHUMAN Remix](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 |
 | 77 | [We Appreciate Power](https://open.spotify.com/track/5b0DJPEs6UUlDmpZuoDD2X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [We Appreciate Power](https://open.spotify.com/album/65hPTJNhxg9P2bIHyKkZUE) | 5:34 |
 | 78 | [Mega City Nine \(unknown virus 4.\)](https://open.spotify.com/track/4rMBG6PXvcI3AJ85NJfEPN) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Cyber Cop \[Unauthorized MP3.\]](https://open.spotify.com/album/3hqPGbyxJ0vLKv3GFvvNgw) | 2:14 |
 | 79 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 |

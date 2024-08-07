@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 360466,
+  "num_followers": 360493,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADOo9imTVXocGd+vQYq4Cvn",
+  "snapshot_id": "ZrAWAAAAAADDU/dbQ2aXgiqUAFrB4Reu",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O' Lord (Radio Version)",
-        "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "O' Lord - Radio Version",
-      "url": "https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 319574,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O' Lord (Radio Version)",
+        "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP"
     },
     {
       "added_at": null,
@@ -595,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
-        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
       },
       "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 217693,
-      "name": "HARD LOVE (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light of the World",
-        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
+        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
+        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
       },
       "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 259720,
-      "name": "Light of the World",
-      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
+      "duration_ms": 217693,
+      "name": "HARD LOVE (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
     },
     {
       "added_at": null,

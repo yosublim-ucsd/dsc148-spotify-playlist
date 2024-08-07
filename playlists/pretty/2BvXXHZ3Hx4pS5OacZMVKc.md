@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 135,343 likes - 108 songs - 5 hr 41 min
+[NoCopyrightSounds](https://open.spotify.com/user/nocopyrightsounds) - 135,327 likes - 109 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 |
-| 2 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 |
+| 1 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 |
+| 2 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 |
 | 3 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
 | 4 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 |
 | 5 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
@@ -116,5 +116,6 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 | 106 | [Flow](https://open.spotify.com/track/3ZE0FgsjBycgnNKBzp67ic) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [Flow](https://open.spotify.com/album/0yVWAOYtACtksGgAu3xOSn) | 2:24 |
 | 107 | [Over It](https://open.spotify.com/track/4Qx4kYkwuXMZjLd3aRS0ot) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [Over It](https://open.spotify.com/album/1PBGk50F3o9bkJUpJpI9zt) | 3:27 |
 | 108 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [CENTRIC](https://open.spotify.com/artist/1mTKB32KqqaiEp7GP4lK1L), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 |
+| 109 | [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Charlotte Reed](https://open.spotify.com/artist/2QJptU1vtIdk7WQIuylCjs) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 |
 
-Snapshot ID: `AAAL1euF+jNJ0ILjTwwTOejFPD1NAd6N`
+Snapshot ID: `AAAL16D2esKgE+bVZaZ9/T2+Wq0M2NMG`

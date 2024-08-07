@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 94378,
+  "num_followers": 94467,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "Nerdesin",
+        "url": "https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "Nerdesin",
+      "url": "https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "G\u00f6rmem B\u00f6ylesini",
         "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 192446,
       "name": "G\u00f6rmem B\u00f6ylesini",
       "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Nerdesin",
-        "url": "https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "Nerdesin",
-      "url": "https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "ARABA",
-        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
+        "name": "Pofuduk",
+        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
       },
       "artists": [
         {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
         }
       ],
-      "duration_ms": 91413,
-      "name": "ARABA",
-      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
+      "duration_ms": 142855,
+      "name": "Pofuduk",
+      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -339,22 +343,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "Pofuduk",
-        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
+        "name": "ARABA",
+        "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
       },
       "artists": [
         {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
         }
       ],
-      "duration_ms": 142855,
-      "name": "Pofuduk",
-      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
+      "duration_ms": 91413,
+      "name": "ARABA",
+      "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -391,26 +391,18 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
-        "name": "KONTAK (feat. Ezhel)",
-        "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
+        "name": "Bul Beni",
+        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
       },
       "artists": [
-        {
-          "name": "Summer Cem",
-          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
-        },
-        {
-          "name": "Geenaro & Ghana Beats",
-          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
-        },
         {
           "name": "Ezhel",
           "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 158023,
-      "name": "KONTAK (feat. Ezhel)",
-      "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
+      "duration_ms": 154173,
+      "name": "Bul Beni",
+      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
     },
     {
       "added_at": "2024-07-08 08:41:13",
@@ -451,6 +443,30 @@
     {
       "added_at": "2024-07-08 08:41:13",
       "album": {
+        "name": "KONTAK (feat. Ezhel)",
+        "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "Geenaro & Ghana Beats",
+          "url": "https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 158023,
+      "name": "KONTAK (feat. Ezhel)",
+      "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
+    },
+    {
+      "added_at": "2024-07-08 08:41:13",
+      "album": {
         "name": "EVA & MIA",
         "url": "https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 174883,
       "name": "EVA & MIA",
       "url": "https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG"
-    },
-    {
-      "added_at": "2024-07-08 08:41:13",
-      "album": {
-        "name": "Bul Beni",
-        "url": "https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Bul Beni",
-      "url": "https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz"
     },
     {
       "added_at": "2024-07-08 08:41:13",

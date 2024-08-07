@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Ice Spice & Central Cee",
-  "num_followers": 562621,
+  "num_followers": 562583,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Star Girl",
-        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Star Girl",
-      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Dog Daze",
         "url": "https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 148058,
       "name": "Indeed",
       "url": "https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "Star Girl",
+        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Star Girl",
+      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "HEATWAVE",
+        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 219833,
+      "name": "THE BOTTOM",
+      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 224933,
       "name": "Millionaire (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "HEATWAVE",
-        "url": "https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 219833,
-      "name": "THE BOTTOM",
-      "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "86Sentra",
-        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 186967,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/7iYoFGzYNNhoSdMBgSo5Bb"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "NICE OUT",
         "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "86Sentra",
+        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/7iYoFGzYNNhoSdMBgSo5Bb"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Greatest Hits",
+      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "I Love You Jennifer B",
-        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Greatest Hits",
-      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 188800,
       "name": "Protect My Energy",
       "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "LOUIE",
-        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
-      },
-      "artists": [
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 133546,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1443,6 +1427,22 @@
       "duration_ms": 189090,
       "name": "Be With U (feat. DETO BLACK)",
       "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "LOUIE",
+        "url": "https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj"
+      },
+      "artists": [
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 133546,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+      "duration_ms": 190706,
+      "name": "Feint",
+      "url": "https://open.spotify.com/track/1d9p7cxhZFhW2OraawvKuy"
     }
   ],
   "unique_name": "'fit check",

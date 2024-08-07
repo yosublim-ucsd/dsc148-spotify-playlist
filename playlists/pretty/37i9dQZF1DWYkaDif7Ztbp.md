@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=HMBe58GZTPOPYLkqS\-wldQ"> Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,612,586 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,764 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-771 songs - 1 day 14 hr 52 min
+772 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [Vibe Check](https://open.spotify.com/track/3b7YMGle84C9SLNmJC6dz0) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Vibe Check](https://open.spotify.com/album/0OrXgNFMNUFlwddX4NnCtD) | 3:12 | 2023-08-10 | 2023-09-29 |
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-08-16 | 2022-09-30 |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-06-08 | 2023-08-03 |
+| [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-08-06 |  |
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-06-08 | 2023-06-23 |
 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 |  |
 | [Välkommen Åter](https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Välkommen Åter](https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX) | 2:55 | 2022-05-19 | 2022-10-14 |

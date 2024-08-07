@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 26253,
+  "num_followers": 26287,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 146000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -699,6 +699,26 @@
       "duration_ms": 236906,
       "name": "Favourite Story",
       "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Vision Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Vision Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -791,26 +811,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Vision Remix (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Vision Remix (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
-        }
-      ],
-      "duration_ms": 158833,
-      "name": "Pier 46 (with KTIZO)",
-      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 158833,
+      "name": "Pier 46 (with KTIZO)",
+      "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Love Garden",
-        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150765,
-      "name": "Love Garden",
-      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 140963,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 250920,
       "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 140963,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
     },
     {
       "added_at": "2024-08-02 00:01:00",

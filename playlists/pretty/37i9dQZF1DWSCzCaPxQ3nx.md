@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain]
 
 > Les incontournables du Raï.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,725 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,764 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sbaart Ou Tal Adabi](https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:46 |
 | 2 | [Les ailes](https://open.spotify.com/track/1tOqGNgDtElg5th7KrBTZu) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Best Of](https://open.spotify.com/album/0EPtnknFIXdVyOsck4rvz8) | 4:52 |
-| 3 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
-| 4 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
+| 3 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
+| 4 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 | 5 | [Sahr lyali](https://open.spotify.com/track/2Bfpg8xw0QGnCusfxo3RPq) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Best of, Vol\. 2](https://open.spotify.com/album/2JP2xygFZcca8kyEquQPA0) | 5:33 |
 | 6 | [Bakhta](https://open.spotify.com/track/1pCctyl9kblRtKKVr0KQt7) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [N'Ssi N'Ssi](https://open.spotify.com/album/7JiTkfgNZqx6TSfVfLBpAJ) | 5:10 |
 | 7 | [N'Direk Amour](https://open.spotify.com/track/7MKLtQiD18XDNzZFdGgnx3) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Cheb Nasro, Le meilleur du prince de la chanson sentimentale Vol.3](https://open.spotify.com/album/4hK6jG2gxt32QL8sTDyWp9) | 5:59 |
 | 8 | [Abdel Kader \- Live à Bercy, Paris / 1998](https://open.spotify.com/track/3PNqtQFVeULgHm7Cs7Yofd) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [1,2,3, Soleils](https://open.spotify.com/album/1fYYDAZ9C2gg3rB66JpHjS) | 4:57 |
-| 9 | [Trigue Lycee](https://open.spotify.com/track/1WjHI9D4syoy6rhrkNjzzZ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Kenza](https://open.spotify.com/album/4PQFrVyQ6xWGjbq5kkVVaX) | 4:43 |
-| 10 | [Ana Al Ghaltan](https://open.spotify.com/track/460n4I7Dhf2XPp6ExQTBt0) | [Cheb Rezki](https://open.spotify.com/artist/1FtSXD0ARrkd7yDHg6jEd7) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 5:39 |
+| 9 | [Ana Al Ghaltan](https://open.spotify.com/track/460n4I7Dhf2XPp6ExQTBt0) | [Cheb Rezki](https://open.spotify.com/artist/1FtSXD0ARrkd7yDHg6jEd7) | [Ana Al Ghaltan](https://open.spotify.com/album/6CqdkI81UEvtVB8MDDIzIk) | 5:39 |
+| 10 | [Trigue Lycee](https://open.spotify.com/track/1WjHI9D4syoy6rhrkNjzzZ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Kenza](https://open.spotify.com/album/4PQFrVyQ6xWGjbq5kkVVaX) | 4:43 |
 | 11 | [Bravo Alik](https://open.spotify.com/track/5cYGnhS7RXRtpOWoeLfJdH) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [La star du raï moral \[Original Masters\]](https://open.spotify.com/album/2cJBvpzqteQNdG6rwM5xoG) | 6:08 |
 | 12 | [Mazal souvenir andi](https://open.spotify.com/track/1O6LMbb0xx10FzwYZfO0Fj) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Mazal Souvenir Andi](https://open.spotify.com/album/2kCXuQIqPA68ue2p67NOmz) | 5:30 |
 | 13 | [Ya Ouahrane Rouhi](https://open.spotify.com/track/7KdE8J2p4WqW0yWmBYvXb6) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [La légende, vol\. 3](https://open.spotify.com/album/5KsCi2juWgKZi5fRWoayqo) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCzCaPxQ3nx.md) - [plain]
 | 49 | [Hagda](https://open.spotify.com/track/6lsKI4DqRT9l7JX2tp7IXY) | [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Zina](https://open.spotify.com/album/4TmTq4AWcssjcQTgEPgDZF) | 3:58 |
 | 50 | [Ghebentni Behadi La Décision](https://open.spotify.com/track/2xxsiXgAsZIoqpAYUJkI2y) | [Cheba Faiza](https://open.spotify.com/artist/3Fe9Br9kOKaTpTjFIHp2vc) | [Cheba Faiza](https://open.spotify.com/album/3pogm7xGyezeucLRvl5qYr) | 7:28 |
 
-Snapshot ID: `ZZU7DQAAAACQtzZARS8eyLzto+m1X6Nz`
+Snapshot ID: `ZrHKVwAAAADzFtoi2jJ8UkdkVaqz85lm`

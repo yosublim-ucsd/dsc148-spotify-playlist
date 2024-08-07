@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,931 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,002 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jDTenPbqLo.md) - [plain]
 | 29 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 |
 | 30 | [Morning Mood Variation \(Arr\. for Piano from Peer Gynt Suite No.1, Op\. 36 by Ketan & Vivan Bhatti\)](https://open.spotify.com/track/0o9pjv0gW5DvHJMaTG6cEm) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Morning Mood Variation \(Arr\. for Piano from Peer Gynt Suite No.1, Op\. 36 by Ketan & Vivan Bhatti\)](https://open.spotify.com/album/4dFBrG7gdhFQZYYhJf7UEo) | 2:32 |
 | 31 | [Piano Sonata in C Major, WoO 51: II\. Adagio](https://open.spotify.com/track/7EmiVtjY6KsnDgroaePON5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Beethoven Trilogy 2: Childhood](https://open.spotify.com/album/4XiKDj6xqe9fxq7BSPxaE7) | 2:30 |
-| 32 | [Bagatelles I\-XIII: Bagatelle III](https://open.spotify.com/track/766z8SbSmEmkprAFF4ff6A) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger \(Extended Version\)](https://open.spotify.com/album/0KHFzKj2JJAojWJGh1scpL) | 4:26 |
+| 32 | [Bagatelles I\-XIII: Bagatelle III](https://open.spotify.com/track/766z8SbSmEmkprAFF4ff6A) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger \- Extended Version](https://open.spotify.com/album/0KHFzKj2JJAojWJGh1scpL) | 4:26 |
 | 33 | [The place where they go \(Munich Session\)](https://open.spotify.com/track/4L6I60PSwMVVrMDrjczXO5) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [The place where they go \(Munich Session\)](https://open.spotify.com/album/7E4jAi32IRE8kGpOwCuBmg) | 4:20 |
 | 34 | [Brahms: 3 Intermezzi, Op\. 117: No\. 1 in E\-Flat Major](https://open.spotify.com/track/2AgUNLzpD2RBfarEvMiTxZ) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Nicholas Angelich](https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E) | [Brahms: Fantasien, Op\. 116, Intermezzi, Op\. 117, Klavierstücke, Op\. 118 & 119](https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J) | 5:29 |
 | 35 | [Say: Art of Piano, Op\. 66: III\. Winter Morning in Istanbul](https://open.spotify.com/track/3egedbHAzuJwdAJr267H3H) | [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Troy Sonata \- Fazil Say Plays Say](https://open.spotify.com/album/1klvBh6CVQKV7laBnraXCh) | 3:31 |

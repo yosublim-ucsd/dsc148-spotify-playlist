@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,246 likes - 111 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,245 likes - 111 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 24 | [Dubai Shit](https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 3:48 |
 | 25 | [FeRRis WhEEL \(feat\. Trippie Redd\)](https://open.spotify.com/track/0Z1nbG2KOuRKntstSAkSox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LoVE me NOw \(ReLoAdeD\)](https://open.spotify.com/album/0RK6vpJWuCZpNWNdRJ8rpY) | 2:31 |
 | 26 | [Gold Roses \(feat\. Drake\)](https://open.spotify.com/track/1rX5L6pyl3rVWb55D8Cprr) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Port of Miami 2](https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0) | 5:49 |
-| 27 | [Let's Go](https://open.spotify.com/track/6AIccJIWHGK26xi34FAkwl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:24 |
-| 28 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 |
+| 27 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 |
+| 28 | [Let's Go](https://open.spotify.com/track/6AIccJIWHGK26xi34FAkwl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:24 |
 | 29 | [BANG!](https://open.spotify.com/track/5uPvflN6t4ORihIjTHIQOu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:43 |
 | 30 | [Peta \(feat\. Meek Mill\)](https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:18 |
 | 31 | [Metro Spider \(with Young Thug\)](https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:54 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 84 | [BIG DAWG](https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 1:45 |
 | 85 | [The Uber Song](https://open.spotify.com/track/5aUmQKLTmVHwPMoyhgrd8p) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [The Uber Song](https://open.spotify.com/album/0ZGvbOurEuFF3nqbGwoaa9) | 3:54 |
 | 86 | [GET THE FUCK OUT](https://open.spotify.com/track/3DCe9Tj1KsZ1K9iQh8uNQF) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 1:49 |
-| 87 | [Crumbs \(feat\. Playboi Carti\)](https://open.spotify.com/track/2nA9k5r4tGS720wHL8W6Ip) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 2:36 |
-| 88 | [HOP OUT THE VAN](https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:00 |
+| 87 | [HOP OUT THE VAN](https://open.spotify.com/track/6Ez0uo35BcJ7TaknGDnH5v) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:00 |
+| 88 | [Crumbs \(feat\. Playboi Carti\)](https://open.spotify.com/track/2nA9k5r4tGS720wHL8W6Ip) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Big Baby DRAM \(Deluxe Version\)](https://open.spotify.com/album/2NTDsRS6J2OF8qZwHWQjFV) | 2:36 |
 | 89 | [Big Dope](https://open.spotify.com/track/2MdMP2y5mCkGVnp3DkbJ8b) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 2:35 |
 | 90 | [You Ain't Hard](https://open.spotify.com/track/21t8Edns1aUrUC8nMl0KZM) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 3:46 |
 | 91 | [Came Up](https://open.spotify.com/track/4SnvJDymo0LkkuFNNLemQl) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Came Up](https://open.spotify.com/album/7f22HnE6AmI4cFtPu1PmHj) | 2:41 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 110 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 111 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbYo4gAAAADwGDaRRqNCAnOjZrtdoraf`
+Snapshot ID: `AbYuggAAAAAUfd8+eixyWvy8C5GRm1mS`

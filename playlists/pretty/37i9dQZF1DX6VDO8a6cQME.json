@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: Destiny's Child",
-  "num_followers": 3612440,
+  "num_followers": 3612835,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+        "name": "The Best of Tevin Campbell",
+        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
       },
       "artists": [
         {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
         }
       ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+      "duration_ms": 284586,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "The Best of Tevin Campbell",
-        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
       "artists": [
         {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
         }
       ],
-      "duration_ms": 284586,
-      "name": "Can We Talk",
-      "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
-        }
-      ],
-      "duration_ms": 274533,
-      "name": "Freak Me",
-      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Do You Wanna Ride?",
@@ -1147,6 +1131,22 @@
       "duration_ms": 253613,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        }
+      ],
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Kevin \"K.D.\" Davis",
+          "url": "https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa"
         }
       ],
-      "duration_ms": 262893,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+      "duration_ms": 276013,
+      "name": "Spend My Life With You",
+      "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
     }
   ],
   "unique_name": "I Love My '90s R&B",

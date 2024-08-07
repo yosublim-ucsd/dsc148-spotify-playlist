@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 20484,
+  "num_followers": 20490,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADWogvHg1O9K0uKpAiKFwzV",
+  "snapshot_id": "ZrAWAAAAAAA2DsZBU3GXVjk0IMjqOsXz",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddamnit!",
-        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 143893,
-      "name": "Cringe",
-      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
+      "duration_ms": 200240,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+        "name": "Goddamnit!",
+        "url": "https://open.spotify.com/album/6600hazblXXS27uIdcPLBs"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/4xQa40wrBDGrIyt3GpHlU1"
+      "duration_ms": 143893,
+      "name": "Cringe",
+      "url": "https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
       "duration_ms": 198893,
       "name": "Every Thug Needs a Lady",
       "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Demon and Division",
+      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Demon and Division",
-      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 237813,
       "name": "Queen Of Pain",
       "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Found a Way",
         "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 225533,
       "name": "I Found a Way",
       "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is This Thing Cursed?",
+        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Sweet Vampires",
+      "url": "https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Cursed?",
-        "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Sweet Vampires",
-      "url": "https://open.spotify.com/track/0bNh4dFYghzvk3uCNKweap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Maybe I'll Catch Fire",
-      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is This Thing Cursed?",
         "url": "https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 140293,
       "name": "Heart Attacks",
       "url": "https://open.spotify.com/track/28vbpQYAJaUQvQ9s5Rc6lv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
     }
   ],
   "unique_name": "This Is Alkaline Trio",

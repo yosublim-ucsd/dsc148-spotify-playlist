@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Gabi Sampaio, N\u00edvea Izabella",
-  "num_followers": 1060666,
+  "num_followers": 1060740,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
+        "name": "Promessas (Promises) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 347927,
+      "name": "Promessas (Promises) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
+    },
+    {
+      "added_at": "2024-07-23 16:44:36",
+      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
-    },
-    {
-      "added_at": "2024-07-23 16:44:36",
-      "album": {
-        "name": "Promessas (Promises) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 347927,
-      "name": "Promessas (Promises) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -519,22 +519,6 @@
       "duration_ms": 383184,
       "name": "Eu Creio (Believe For It)",
       "url": "https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF"
-    },
-    {
-      "added_at": "2024-07-23 16:44:36",
-      "album": {
-        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 303346,
-      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -615,18 +599,18 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+        "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 416842,
-      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
+      "duration_ms": 303346,
+      "name": "O Medo N\u00e3o Vai Me Parar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -647,6 +631,22 @@
       "duration_ms": 518306,
       "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
       "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
+    },
+    {
+      "added_at": "2024-07-23 16:44:36",
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
       },
       "artists": [
         {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 350274,
-      "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -795,22 +791,6 @@
       "duration_ms": 378000,
       "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
       "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
-    },
-    {
-      "added_at": "2024-07-23 16:44:36",
-      "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -859,6 +839,26 @@
       "duration_ms": 403538,
       "name": "\u00c9s o Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+    },
+    {
+      "added_at": "2024-07-23 16:44:36",
+      "album": {
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 350274,
+      "name": "A Boa Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
-        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
-      },
-      "artists": [
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 266086,
-      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
-    },
-    {
-      "added_at": "2024-07-23 16:44:36",
-      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -971,22 +951,22 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
       },
       "artists": [
         {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
         },
         {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+      "duration_ms": 266086,
+      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -1043,6 +1023,26 @@
       "duration_ms": 313141,
       "name": "Quebro Meu Vaso",
       "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
+    },
+    {
+      "added_at": "2024-07-23 16:44:36",
+      "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     },
     {
       "added_at": "2024-07-23 16:44:36",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-23 16:44:36",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 354173,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
-    },
-    {
-      "added_at": "2024-07-23 16:44:36",
-      "album": {
         "name": "Excelso Criador (Ao Vivo)",
         "url": "https://open.spotify.com/album/6KWEGW4sFieBrSk4OGxcW5"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 516612,
       "name": "Excelso Criador - Ao Vivo",
       "url": "https://open.spotify.com/track/2IuwD2nnXDdSjE8nW72U5C"
+    },
+    {
+      "added_at": "2024-07-23 16:44:36",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
     },
     {
       "added_at": "2024-07-23 16:44:36",

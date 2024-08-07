@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 190537,
+  "num_followers": 190634,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "Alex Rodriguez",
+          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
         }
       ],
-      "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
-      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+      "duration_ms": 327400,
+      "name": "Merecedor de Alabanza",
+      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -783,18 +779,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
       "artists": [
         {
-          "name": "Alex Rodriguez",
-          "url": "https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
         }
       ],
-      "duration_ms": 327400,
-      "name": "Merecedor de Alabanza",
-      "url": "https://open.spotify.com/track/6x8I8rtoNFAvj70zdvtCQi"
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1095,42 +1095,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "El Dios Que Cambia Nombre",
-        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Delgado",
-          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "El Dios Que Cambia Nombre",
-      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Dios Es Capaz",
-        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
-      },
-      "artists": [
-        {
-          "name": "Neil Velez",
-          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Cristo Vive En Mi",
-      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Barra Libre",
         "url": "https://open.spotify.com/album/3fSi0aNkOhmid18Dt15UUZ"
       },
@@ -1155,6 +1119,42 @@
       "duration_ms": 206875,
       "name": "Barra Libre",
       "url": "https://open.spotify.com/track/1zcR1cWcNL2oVTDznAtpMx"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Dios Es Capaz",
+        "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
+      },
+      "artists": [
+        {
+          "name": "Neil Velez",
+          "url": "https://open.spotify.com/artist/3nmPn9zOoi1qRWg53KPmeO"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Cristo Vive En Mi",
+      "url": "https://open.spotify.com/track/5EtaxdTij2mISJwbnwWhsD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "El Dios Que Cambia Nombre",
+        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Delgado",
+          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "El Dios Que Cambia Nombre",
+      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Triduo",
+        "url": "https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 159860,
+      "name": "Santa Cruz",
+      "url": "https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 465386,
       "name": "S\u00e9 Entronado - Live",
       "url": "https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Triduo",
-        "url": "https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 159860,
-      "name": "Santa Cruz",
-      "url": "https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z"
     },
     {
       "added_at": "2024-07-01 23:21:40",

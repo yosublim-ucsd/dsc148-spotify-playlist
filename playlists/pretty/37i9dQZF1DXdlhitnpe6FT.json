@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 245442,
+  "num_followers": 245573,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
-        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
-      },
-      "artists": [
-        {
-          "name": "Scott Joplin",
-          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
-        },
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Entertainer",
-      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
         "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 187866,
       "name": "Maria Elena",
       "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
+        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Entertainer",
+      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Die Sch\u00f6nsten Melodien Der Welt",
         "url": "https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 124240,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212053,
       "name": "Adam's Hotel",
       "url": "https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
         "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 279320,
       "name": "M\u00e9lissa (de \"Bilitis\")",
       "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Saute-Mouton",
-      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Michel Legrand y Su Gran Orquesta",
         "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 159586,
       "name": "Kiss of Fire",
       "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Exploring New Sounds In Stereo",
-        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
       "artists": [
         {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 165200,
-      "name": "Lazy Bones",
-      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
+      "duration_ms": 126226,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1499,38 +1499,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
-        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
+        "name": "The Essential Kenny G 3.0",
+        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
       },
       "artists": [
         {
-          "name": "Chris Barber",
-          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
-        },
-        {
-          "name": "Monty Sunshine",
-          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 164360,
-      "name": "Petite Fleur",
-      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
+      "duration_ms": 303253,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1551,18 +1531,38 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Essential Kenny G 3.0",
-        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
+        "name": "Exploring New Sounds In Stereo",
+        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
       },
       "artists": [
         {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 303253,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
+      "duration_ms": 165200,
+      "name": "Lazy Bones",
+      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "60 Timeless Classics from the Giants of Traditional Jazz",
+        "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
+      },
+      "artists": [
+        {
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        },
+        {
+          "name": "Monty Sunshine",
+          "url": "https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Petite Fleur",
+      "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
     },
     {
       "added_at": "2020-12-08 19:02:01",

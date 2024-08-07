@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-439 songs - 22 hr 34 min
+440 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 | 2024-06-28 |  |
 | [Disturb](https://open.spotify.com/track/43p0oGbCed8SfxNhPivTqp) | [DJ Xclusive](https://open.spotify.com/artist/6eYjM3EJ2ux62CjigGQIiU) | [Disturb](https://open.spotify.com/album/1xnVrGYqelK5bISTyVS1YV) | 2:22 | 2023-11-17 | 2023-12-08 |
 | [Disturbing U](https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Disturbing U](https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc) | 2:31 | 2023-04-14 | 2023-09-24 |
-| [DND](https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg) | 2:48 | 2023-09-29 |  |
+| [DND](https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DND](https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg) | 2:48 | 2023-09-29 | 2024-08-07 |
 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 | 2024-04-19 |  |
 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2023-11-08 | 2024-04-19 |
 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 | 2023-09-09 | 2023-09-28 |
@@ -220,6 +220,7 @@
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-28 | 2024-06-15 |
 | [JOKORIKO \(feat\. Qdot\)](https://open.spotify.com/track/4j8LBXFyTA0OetJEK877kf) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [JOKORIKO \(feat\. Qdot\)](https://open.spotify.com/album/6V71aso6OEL1f0sDnoqyWo) | 2:15 | 2024-04-19 | 2024-05-17 |
 | [Jonzing](https://open.spotify.com/track/0om00rGNa6FVFSIS6jQrmI) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jonzing](https://open.spotify.com/album/2i247u8TZNCeqvVeEnaDIm) | 2:35 | 2022-03-24 | 2022-07-29 |
+| [JOY](https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [JOY](https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq) | 2:49 | 2024-08-02 |  |
 | [JOY \(feat\. Olamide\)](https://open.spotify.com/track/29JDKOT4cf9fI6B52aTMKm) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Pheelz Good \(Triibe Tape\)](https://open.spotify.com/album/1ZkAEtHY1UkPo9LguYVmMZ) | 2:45 | 2023-12-01 | 2024-01-27 |
 | [Jumeirah](https://open.spotify.com/track/38xttLsyfUwd284fbNjymm) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jumeirah](https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm) | 2:42 | 2023-05-11 | 2023-05-27 |
 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 | 2022-09-09 | 2022-09-24 |

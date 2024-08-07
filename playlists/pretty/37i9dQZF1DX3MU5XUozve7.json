@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 955168,
+  "num_followers": 955558,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "The Great Burrito Extortion Case",
-        "url": "https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "High School Never Ends - Main Version - Explicit",
-      "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Camp Kill Yourself, Vol.1",
-        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
-      },
-      "artists": [
-        {
-          "name": "CKY",
-          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "96 Quite Bitter Beings",
-      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 127533,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "The Great Burrito Extortion Case",
+        "url": "https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "High School Never Ends - Main Version - Explicit",
+      "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Camp Kill Yourself, Vol.1",
+        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
+      },
+      "artists": [
+        {
+          "name": "CKY",
+          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "96 Quite Bitter Beings",
+      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Andiamo (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "So Long, Astoria",
         "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230666,
       "name": "In This Diary",
       "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Andiamo (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "All My Friends Are Nobodies",
-      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Heart Beats Pacific",
         "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 134706,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "All My Friends Are Nobodies",
+      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
     },
     {
       "added_at": "2022-07-26 16:46:12",

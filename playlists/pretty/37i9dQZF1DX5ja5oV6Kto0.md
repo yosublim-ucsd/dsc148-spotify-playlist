@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Boj
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,474 likes - 84 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,503 likes - 84 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

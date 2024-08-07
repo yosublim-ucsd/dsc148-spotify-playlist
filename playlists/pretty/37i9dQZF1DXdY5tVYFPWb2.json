@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 165112,
+  "num_followers": 165151,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "Flower Garden",
+        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Flower Garden",
+      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Flower Garden",
-        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Flower Garden",
-      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -995,22 +1011,6 @@
       "duration_ms": 259615,
       "name": "\u541b\u3068drive",
       "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 217659,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Fuwa Fuwa",
         "url": "https://open.spotify.com/album/4LpVGSJSLbmDoFMB5ac3y3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 206400,
       "name": "Fuwa Fuwa",
       "url": "https://open.spotify.com/track/7Axvw9obCAZmXrl6gNPcjo"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "Windy You",
-        "url": "https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 230172,
-      "name": "Windy You",
-      "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "Windy You",
+        "url": "https://open.spotify.com/album/3hEFC5XDTZfSalZz5mb2zp"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 230172,
+      "name": "Windy You",
+      "url": "https://open.spotify.com/track/0e4ksqJMLNDiI5235bLwHi"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1343,22 +1343,6 @@
       "duration_ms": 198586,
       "name": "City Drive",
       "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "noidleap",
-        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 203863,
-      "name": "Noidleap",
-      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 230786,
       "name": "eden",
       "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1539,6 +1539,54 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "LOOP",
+      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "into the wind",
+        "url": "https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "\u30b7\u30e9\u30d5",
+      "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
         "name": "fab",
         "url": "https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT"
       },
@@ -1567,54 +1615,6 @@
       "duration_ms": 173338,
       "name": "MissU",
       "url": "https://open.spotify.com/track/1tg3VgpyHR8YmiNTyHOoaZ"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "FEEL GOOD",
-        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
-      },
-      "artists": [
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 305760,
-      "name": "LOOP",
-      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "into the wind",
-        "url": "https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "\u30b7\u30e9\u30d5",
-      "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
     },
     {
       "added_at": "2024-07-30 15:00:00",

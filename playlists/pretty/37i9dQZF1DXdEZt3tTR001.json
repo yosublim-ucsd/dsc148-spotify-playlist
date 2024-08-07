@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 175465,
+  "num_followers": 175560,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Lyfe 268-192",
+        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
+      },
+      "artists": [
+        {
+          "name": "Lyfe Jennings",
+          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "Must Be Nice",
+      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Lyfe 268-192",
-        "url": "https://open.spotify.com/album/4oqN5rLI1MdqAftbHnskYp"
-      },
-      "artists": [
-        {
-          "name": "Lyfe Jennings",
-          "url": "https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "Must Be Nice",
-      "url": "https://open.spotify.com/track/2mp3sLUNQaJ025Lx5f4AAJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",

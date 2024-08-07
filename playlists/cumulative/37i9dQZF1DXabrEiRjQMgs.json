@@ -420,7 +420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 123893,
-      "name": "Faust, Ballet Music (1869): 6. Variations du miroir (Allegretto)",
+      "name": "Faust, CG 4, Ballet Music: VI. Variations du miroir. Allegretto",
       "url": "https://open.spotify.com/track/0J6zh4NzKHpT3g0dDFNzXl"
     },
     {
@@ -763,6 +763,32 @@
     },
     {
       "album": {
+        "name": "Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",
+        "url": "https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268613,
+      "name": "Les Sylphides (Orch. Douglas): VII. Waltz No. 7 in C-Sharp Minor, Op. 64 No. 2",
+      "url": "https://open.spotify.com/track/6X0f3blXFFAA0TcCSSjMgu"
+    },
+    {
+      "album": {
         "name": "F\u00eate de Ballet",
         "url": "https://open.spotify.com/album/1nm1LDxKmxUH5xiaVS6XbK"
       },
@@ -838,32 +864,6 @@
       "duration_ms": 366133,
       "name": "Les Sylphides: 2. Nocturne, Op. 32, No. 2",
       "url": "https://open.spotify.com/track/5U7eGdN1CsZw6R2ZXlfljf"
-    },
-    {
-      "album": {
-        "name": "Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",
-        "url": "https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        }
-      ],
-      "date_added": "2021-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 268613,
-      "name": "Les Sylphides: 7. Valse in C\u266f minor, Op. 64, No. 2",
-      "url": "https://open.spotify.com/track/6X0f3blXFFAA0TcCSSjMgu"
     },
     {
       "album": {

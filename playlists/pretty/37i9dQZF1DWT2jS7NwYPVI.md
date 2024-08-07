@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Yam Haus
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,456 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,492 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 92 | [Kansas](https://open.spotify.com/track/3ctU7NgvMZWFxTIfJY26LT) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [Kansas](https://open.spotify.com/album/3mDI8OjWB6xLN2vgkVDeuG) | 2:36 |
 | 93 | [Showbiz](https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Showbiz](https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5) | 2:45 |
 | 94 | [Pennsylvania Queen](https://open.spotify.com/track/4QSeEyFOfCt9H7YAE7igFO) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Song and Dance](https://open.spotify.com/album/3pXl7bC879gCm2cLIZjDP2) | 2:16 |
-| 95 | [Vacation](https://open.spotify.com/track/0KXsTfqbeFd82yeSYgD17K) | [Jive Talk](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Vacation](https://open.spotify.com/album/76iAvtd3fTAYSaum8RTyLK) | 4:52 |
+| 95 | [Vacation](https://open.spotify.com/track/0KXsTfqbeFd82yeSYgD17K) | [New Translations](https://open.spotify.com/artist/3C2Tyt29f7b96RXvH5ltHd) | [Vacation](https://open.spotify.com/album/76iAvtd3fTAYSaum8RTyLK) | 4:52 |
 | 96 | [Fragile](https://open.spotify.com/track/5ymrOQvUqZa7F1nykunisd) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Fragile](https://open.spotify.com/album/6E3tgclAN6SrBVbsrjntsS) | 3:41 |
 | 97 | [Vertigo](https://open.spotify.com/track/0rijvctdYx2IPclTRsI5je) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Vertigo](https://open.spotify.com/album/5aPqZIKUjZ7d3Q8ajJdYuw) | 4:00 |
 | 98 | [To Be Young](https://open.spotify.com/track/2Pzv6KG655tzUQQPhcVzGR) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [To Be Young](https://open.spotify.com/album/1VS08p1cNWDOkb3v1AHBoe) | 2:15 |

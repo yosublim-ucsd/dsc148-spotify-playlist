@@ -4,7 +4,7 @@
 
 > Future hits in the Philippines! Cover: Charli xcx, Billie Eilish
 
-116 songs - 6 hr 5 min
+117 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-29 |  |
 | [Please Don't Fall In Love With Me](https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Please Don't Fall In Love With Me](https://open.spotify.com/album/6PRJURaaU6YmwLW0rn44rt) | 2:57 | 2024-07-01 | 2024-07-09 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 |  |
+| [pocket locket](https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF) | 3:08 | 2024-08-06 |  |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-07-01 |  |
 | [Power of Two \- From "Star Wars: The Acolyte"](https://open.spotify.com/track/0cDYBv72lfW0wWGmCGiESV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Power of Two \(From "Star Wars: The Acolyte"\)](https://open.spotify.com/album/1V18j7d2a9thfb7IB3wW6n) | 3:16 | 2024-07-01 | 2024-07-16 |
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-07-01 | 2024-07-23 |

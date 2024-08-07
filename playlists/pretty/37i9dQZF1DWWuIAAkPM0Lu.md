@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. så længe jeg er sexyyy 🧡 <a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,890 likes - 101 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,888 likes - 101 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 75 | [the devil](https://open.spotify.com/track/2Lg0U1Sgy9RjYnGyTIdEow) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [the devil](https://open.spotify.com/album/3ZuADPmQpHAx400bDZE5E4) | 2:21 |
 | 76 | [If I Stay](https://open.spotify.com/track/3bjL4dOZv3rXciUCcNknow) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [If I Stay](https://open.spotify.com/album/08rgWv8wBhDJeg9Lso1awd) | 2:50 |
 | 77 | [Beach House](https://open.spotify.com/track/5xnyGqWotwgJDsHPuopzcp) | [BOV](https://open.spotify.com/artist/5VMLMTwGEhhA7PnNHYyDj9) | [Beach House](https://open.spotify.com/album/2Ht4NeG1EmsqTXIYo4966U) | 3:21 |
-| 78 | [Forretning/Kapital](https://open.spotify.com/track/0AIjL3B1YfNIreQhp2Vzoy) | [prosa](https://open.spotify.com/artist/1nPzemRQBvsx9PbVsYsoku) | [Forretning/Kapital](https://open.spotify.com/album/3jGQjIswpUl6MvD0L4Pag5) | 2:42 |
+| 78 | [Forretning/Kapital](https://open.spotify.com/track/0AIjL3B1YfNIreQhp2Vzoy) | [prosa](https://open.spotify.com/artist/1nPzemRQBvsx9PbVsYsoku) | [Forretning/Kapital](https://open.spotify.com/album/3jGQjIswpUl6MvD0L4Pag5) | 2:39 |
 | 79 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 80 | [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 |
 | 81 | [Salt Water Taffy](https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Salt Water Taffy](https://open.spotify.com/album/7z9LxFMfUtFV6YGyZHhdHR) | 3:26 |

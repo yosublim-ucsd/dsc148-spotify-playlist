@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,105 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,111 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 48 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 | 49 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 |
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
-| 51 | [No Chill \(Heartsteel\)](https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [REMIX RUMBLE \(Original Soundtrack from Teamfight Tactics Set 10\)](https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT) | 3:14 |
+| 51 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
 
-Snapshot ID: `Zq7EgAAAAACzqOqi5nPpmSUP8g1HPfIk`
+Snapshot ID: `ZrAWAAAAAAD+hJ5FVzeE3s2bqcNGgMNa`

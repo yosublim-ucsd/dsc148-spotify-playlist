@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Wazir Patar
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,704 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,718 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 |
 | 2 | [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 |
-| 3 | [IDGAF M1](https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Mani Sidhu](https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN) | [I.D.G.A.F](https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz) | 4:28 |
+| 3 | [I.D.G.A.F](https://open.spotify.com/track/5GRBhy8yYd1cDcWX4g5VW0) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Mani Sidhu](https://open.spotify.com/artist/3uxMBHiw4EJoiEwCbsoYqN) | [I.D.G.A.F](https://open.spotify.com/album/5HqvriTTVPLaWfQfZykTQz) | 4:29 |
 | 4 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 |
 | 5 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 |
 | 6 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 |

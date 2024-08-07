@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Better Lovers
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,424 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,489 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 33 | [Around The Sun](https://open.spotify.com/track/2jE7Aalv5311I9Jd6TfCj1) | [Fate](https://open.spotify.com/artist/1szDGgaqTyUCe7GKITo8BT) | [Around The Sun](https://open.spotify.com/album/4xcdQNbe0pahA25bmTKzU9) | 5:16 |
 | 34 | [SEVENTEEN](https://open.spotify.com/track/3OQtt2KSUixWzf2peHiTPs) | [Daemon Grey](https://open.spotify.com/artist/5JCa4aQDrKf3nFxPfJ34Sv) | [SEVENTEEN](https://open.spotify.com/album/3klOb0S5tJ5qpd9z4Ul30P) | 4:10 |
 | 35 | [G.O.D.](https://open.spotify.com/track/2hlmrMNzqaaN2OpiIbJYSQ) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [G.O.D.](https://open.spotify.com/album/3RWQDMBUOJp4JLRTC6ksp8) | 3:29 |
-| 36 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 |
+| 36 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g), [Jacob Charlton](https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 |
 | 37 | [Bazooka](https://open.spotify.com/track/01VdiTMVpkFzzegz9VpDIh) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bazooka](https://open.spotify.com/album/6CYsi2RE2ThxH068VqqeYg) | 2:49 |
-| 38 | [Hopium](https://open.spotify.com/track/2yJzCGsR6HB8ZoGxEopwHn) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Hopium](https://open.spotify.com/album/2LXsO3Eet7IdkRu4C5RWB3) | 8:23 |
-| 39 | [VIVE LA DÉCEPTION](https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [VIVE LA DÉCEPTION](https://open.spotify.com/album/387GBSNSWJV8TsjuAYy7of) | 2:58 |
-| 40 | [’Til Death Do Us Part](https://open.spotify.com/track/32nHr6XZmnBxe9GtGWYxZP) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [’Til Death Do Us Part](https://open.spotify.com/album/0oi5CbZgnI2Pl8QTqqcMF7) | 3:49 |
-| 41 | [LIGHT](https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [LIGHT](https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv) | 3:46 |
-| 42 | [Synthetic](https://open.spotify.com/track/4W0QsHDvIxxkj0jC5EQD3K) | [Heartline](https://open.spotify.com/artist/70uKQVKslnIIFw3IUTqGfu) | [Synthetic](https://open.spotify.com/album/4JSuvqd3VKDXPnAekOUMh9) | 3:49 |
-| 43 | [On Repeat](https://open.spotify.com/track/7r7WkaZOxZ2hhYxZvhJf4o) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc) | [On Repeat](https://open.spotify.com/album/32hWoNXQ6Q9bNu9jNThDAL) | 4:01 |
-| 44 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
-| 45 | [The Weight Of The World](https://open.spotify.com/track/23bUMVYuwXqFJyl496cedP) | [The Comfort](https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q) | [The Weight Of The World](https://open.spotify.com/album/0HoXMovIpp3GkUQopWXwAt) | 3:52 |
-| 46 | [Nox Nostra Est](https://open.spotify.com/track/2Mo0itFz9wtJC4h9dD1cHy) | [Asenblut](https://open.spotify.com/artist/1iuwMlGW6i8UojhyL0rQZi) | [Entfesselt](https://open.spotify.com/album/03m7PZx76pnZaqFTROORPq) | 5:01 |
-| 47 | [Valotus](https://open.spotify.com/track/3Q34KJgFoUykhy5ymytTcx) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Valotus](https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe) | 6:57 |
-| 48 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
-| 49 | [The Broken Past](https://open.spotify.com/track/7x8Dj8ZJneOWUC0rRwMrf9) | [Vision Divine](https://open.spotify.com/artist/5L6lO4X5v3GJpTkBg1BdW2) | [The Broken Past](https://open.spotify.com/album/3sqqfhcBB4bnk4Bzjfu1Y9) | 4:05 |
-| 50 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 |
+| 38 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 |
+| 39 | [Hopium](https://open.spotify.com/track/2yJzCGsR6HB8ZoGxEopwHn) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Hopium](https://open.spotify.com/album/2LXsO3Eet7IdkRu4C5RWB3) | 8:23 |
+| 40 | [VIVE LA DÉCEPTION](https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [VIVE LA DÉCEPTION](https://open.spotify.com/album/387GBSNSWJV8TsjuAYy7of) | 2:58 |
+| 41 | [’Til Death Do Us Part](https://open.spotify.com/track/32nHr6XZmnBxe9GtGWYxZP) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [’Til Death Do Us Part](https://open.spotify.com/album/0oi5CbZgnI2Pl8QTqqcMF7) | 3:49 |
+| 42 | [LIGHT](https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [LIGHT](https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv) | 3:46 |
+| 43 | [Synthetic](https://open.spotify.com/track/4W0QsHDvIxxkj0jC5EQD3K) | [Heartline](https://open.spotify.com/artist/70uKQVKslnIIFw3IUTqGfu) | [Synthetic](https://open.spotify.com/album/4JSuvqd3VKDXPnAekOUMh9) | 3:49 |
+| 44 | [On Repeat](https://open.spotify.com/track/7r7WkaZOxZ2hhYxZvhJf4o) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc) | [On Repeat](https://open.spotify.com/album/32hWoNXQ6Q9bNu9jNThDAL) | 4:01 |
+| 45 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
+| 46 | [The Weight Of The World](https://open.spotify.com/track/23bUMVYuwXqFJyl496cedP) | [The Comfort](https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q) | [The Weight Of The World](https://open.spotify.com/album/0HoXMovIpp3GkUQopWXwAt) | 3:52 |
+| 47 | [Nox Nostra Est](https://open.spotify.com/track/2Mo0itFz9wtJC4h9dD1cHy) | [Asenblut](https://open.spotify.com/artist/1iuwMlGW6i8UojhyL0rQZi) | [Entfesselt](https://open.spotify.com/album/03m7PZx76pnZaqFTROORPq) | 5:01 |
+| 48 | [Valotus](https://open.spotify.com/track/3Q34KJgFoUykhy5ymytTcx) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Valotus](https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe) | 6:57 |
+| 49 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
+| 50 | [The Broken Past](https://open.spotify.com/track/7x8Dj8ZJneOWUC0rRwMrf9) | [Vision Divine](https://open.spotify.com/artist/5L6lO4X5v3GJpTkBg1BdW2) | [The Broken Past](https://open.spotify.com/album/3sqqfhcBB4bnk4Bzjfu1Y9) | 4:05 |
+| 51 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 |
 
-Snapshot ID: `ZqxZwAAAAAARc1TDhxtn4rJ3hovJRKJd`
+Snapshot ID: `ZrI7AAAAAAAsA+RgI+t50fjgCmN5yGqg`

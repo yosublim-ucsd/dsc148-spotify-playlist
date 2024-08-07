@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,330,144 likes - 150 songs - 8 hr 2 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,331,400 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
-| 2 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 |
-| 3 | [I Don't Wanna Know](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY), [BACOLE](https://open.spotify.com/artist/0L4qbCVTh5Rox6JU4Ez5LX), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [I Don't Wanna Know](https://open.spotify.com/album/7LKvDGzevXWkxJYYvM0vi7) | 2:26 |
+| 1 | [I Don't Wanna Know](https://open.spotify.com/track/5nUlevjEAdIKeMBKxpSEHm) | [Buzz Low](https://open.spotify.com/artist/0tytC9SBvhGJFUA0MPHucY), [BACOLE](https://open.spotify.com/artist/0L4qbCVTh5Rox6JU4Ez5LX), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [I Don't Wanna Know](https://open.spotify.com/album/7LKvDGzevXWkxJYYvM0vi7) | 2:26 |
+| 2 | [Miss You](https://open.spotify.com/track/329PAO2XpurUBEWszXKG5K) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Miss You](https://open.spotify.com/album/5OeAiEg5TsF2tKhwewL951) | 3:14 |
+| 3 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 |
 | 4 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 5 | [Secrets](https://open.spotify.com/track/0WmXuaTTXkS5ePtRP24htZ) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Secrets](https://open.spotify.com/album/3a581sY3CEIpRmVAgs0f0r) | 2:17 |
 | 6 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 149 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 150 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `AAAPy494PLeP8IfBSWHPOop3RlpZknp/`
+Snapshot ID: `AAAPzHsmvEL+5EBzP5q+ArfeStDkH6C1`

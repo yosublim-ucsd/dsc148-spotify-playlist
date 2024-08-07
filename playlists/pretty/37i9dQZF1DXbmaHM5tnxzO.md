@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > Celebrate the music of Pixar Animation Studios with this playlist of classic favorites and new hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,928 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,953 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 50 | [I'm Not Gonna Sing You a Song](https://open.spotify.com/track/3KPoadUPq5thlwBMcnEdVg) | [Billy Crystal](https://open.spotify.com/artist/4obZSxPoSs6iedmMKPzhwh) | [Monsters at Work \(Original Soundtrack\)](https://open.spotify.com/album/3hWE0SToC8n3y78kcpls1s) | 1:04 |
 | 51 | [Le Festin](https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:50 |
 | 52 | [Song Of Mor'du \- From "Brave"/Soundtrack](https://open.spotify.com/track/3AVQq5hpwkuJxAzM3g34hz) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Billy Connolly](https://open.spotify.com/artist/7ubX7CBZbkPM3O1m2WBBd8), [Alex Norton](https://open.spotify.com/artist/2b9MlNoA12XMIj7wfBX17U), [Carey Wilson](https://open.spotify.com/artist/3yH2nOnPWWhNiy87z7aIBb), [Scott Davies](https://open.spotify.com/artist/5jobbHDw0XMVOKMlvJYXco), [Gordon Neville](https://open.spotify.com/artist/0lf11SWBHFcyIlivj9asbC) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:17 |
-| 53 | [We Belong Together](https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:02 |
+| 53 | [We Belong Together](https://open.spotify.com/track/2m1mYan1nvOMORlb12q2Y9) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 4:02 |
 | 54 | [Noble Maiden Fair \(A Mhaighdean Bhan Uasal\) \- From "Brave"/Soundtrack](https://open.spotify.com/track/47d2mzkc3bPUD93NB0gKLR) | [Emma Thompson](https://open.spotify.com/artist/4tB1f1h4TQqDz4bNaibMpl), [Peigi Barker](https://open.spotify.com/artist/7qFPUIUb5iU3p3q1ZAyszH) | [Brave](https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R) | 2:36 |
 | 55 | [Monsters, Inc.](https://open.spotify.com/track/5e0O7MjhNHq9G67qDFM8nR) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:06 |
 | 56 | [Opening Race](https://open.spotify.com/track/6qfba0w04MpxEIJBbu2bX0) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:04 |

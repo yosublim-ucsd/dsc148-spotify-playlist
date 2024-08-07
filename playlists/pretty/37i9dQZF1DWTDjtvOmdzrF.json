@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 555778,
+  "num_followers": 555817,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-24 04:05:04",
       "album": {
+        "name": "Apa Mungkin",
+        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 238879,
+      "name": "Apa Mungkin",
+      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
+    },
+    {
+      "added_at": "2024-07-24 04:05:04",
+      "album": {
         "name": "Selamat (Selamat Tinggal)",
         "url": "https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
-    },
-    {
-      "added_at": "2024-07-24 04:05:04",
-      "album": {
-        "name": "Apa Mungkin",
-        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 238879,
-      "name": "Apa Mungkin",
-      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
       "added_at": "2024-07-24 04:05:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-07-24 04:05:04",
       "album": {
-        "name": "Surat Cinta Untuk Starla",
-        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
-      },
-      "artists": [
-        {
-          "name": "Virgoun",
-          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
-        }
-      ],
-      "duration_ms": 308036,
-      "name": "Surat Cinta Untuk Starla",
-      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
-    },
-    {
-      "added_at": "2024-07-24 04:05:04",
-      "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
@@ -579,22 +563,6 @@
       "duration_ms": 373824,
       "name": "Membasuh",
       "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
-    },
-    {
-      "added_at": "2024-07-24 04:05:04",
-      "album": {
-        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
-        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
-      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
       "added_at": "2024-07-24 04:05:04",
@@ -619,18 +587,34 @@
     {
       "added_at": "2024-07-24 04:05:04",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+        "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
       },
       "artists": [
         {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+      "duration_ms": 308036,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310"
+    },
+    {
+      "added_at": "2024-07-24 04:05:04",
+      "album": {
+        "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
+        "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
+      "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
       "added_at": "2024-07-24 04:05:04",
@@ -647,6 +631,22 @@
       "duration_ms": 235643,
       "name": "Terlintas",
       "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "added_at": "2024-07-24 04:05:04",
+      "album": {
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2024-07-24 04:05:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-24 04:05:04",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2024-07-24 04:05:04",
-      "album": {
         "name": "Tuhan Sebut Sia-Sia",
         "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
+    },
+    {
+      "added_at": "2024-07-24 04:05:04",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2024-07-24 04:05:04",

@@ -4,7 +4,7 @@
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Better Lovers
 
-7,059 songs - 19 day 20 hr 52 min
+7,060 songs - 19 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Brainwashed](https://open.spotify.com/track/7ud2DgkYAwnFXlrAERXoLj) | [Farewell to Fear](https://open.spotify.com/artist/4yQR54TcPI6uaTDVMBAB93) | [Brainwashed](https://open.spotify.com/album/6X9V9hyEJJwD5togCFoVhn) | 4:32 | 2022-07-08 | 2022-07-16 |
 | [Brainwaves](https://open.spotify.com/track/21dYFGqhGaopayCk8ZRyQc) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Brainwaves](https://open.spotify.com/album/2GTkEwxz768m2BpOLm627K) | 3:50 | 2023-01-13 | 2023-01-21 |
 | [Brand New Journey](https://open.spotify.com/track/5un0oUQkpPsmRzHUsuXNsR) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Brand New Journey](https://open.spotify.com/album/7b3tt26oN91ikWd440I4jr) | 3:48 | 2023-01-20 | 2023-01-28 |
+| [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-06 |  |
 | [Brave](https://open.spotify.com/track/4LMasyRkUm6SqV05e6N2QY) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Unison Life](https://open.spotify.com/album/60DKd6JfoatLAE9c2z03ac) | 3:56 | 2022-10-21 | 2022-10-29 |
 | [Brave New World](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [Brave New World](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-03 | 2024-05-11 |
 | [Brave The Impossible \- VOL.1](https://open.spotify.com/track/5LVIgkJgWlbCYY0znQqvHh) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [LIFE SUPPORT 1 & 2 \(2013 \-2023\)](https://open.spotify.com/album/656uHsUyxFeXcrCIr89zq9) | 3:43 | 2024-05-03 | 2024-05-11 |
@@ -3600,7 +3601,7 @@
 | [Letting go](https://open.spotify.com/track/6kw4attfLLykH3onleiOJJ) | [LUNE](https://open.spotify.com/artist/4Fg9wlaoqD9IMyyWpOAtws) | [The Change Around Us & The Change In You](https://open.spotify.com/album/4SCCSQVkOXIJ7hbcvxRw57) | 4:04 | 2023-11-10 | 2023-11-18 |
 | [Leviathan](https://open.spotify.com/track/7GQySNHooG5azXnoLKaMzV) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [The Singularity](https://open.spotify.com/album/3F3bn1GGgjTSn8AQadLo4w) | 4:14 | 2024-05-03 | 2024-05-11 |
 | [Leviathan](https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Leviathan](https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS) | 4:34 | 2022-03-03 | 2022-03-11 |
-| [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 | 2024-08-02 |  |
+| [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g), [Jacob Charlton](https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 | 2024-08-02 |  |
 | [Leviathan](https://open.spotify.com/track/5Q7EvbPIC4ipRVlduRrnMn) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Children Of The Moon](https://open.spotify.com/album/7tqqBxs66oVjVvz7a9Isg7) | 4:10 | 2024-07-26 | 2024-08-03 |
 | [Leviathan's Moonlit Sanctum](https://open.spotify.com/track/0ZlHhqOnzB2P166pCmqYSW) | [Malphas](https://open.spotify.com/artist/0BznQnNFP6qf7DISSjumhg) | [Leviathan's Moonlit Sanctum](https://open.spotify.com/album/1a9yJJHm8Fv2sm2jpeBW0S) | 4:54 | 2024-03-29 | 2024-04-06 |
 | [Levitate](https://open.spotify.com/track/2SgByd2PWdNoRjx2DGRe7z) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Levitate](https://open.spotify.com/album/2bMQD49fEURDgaJGt0T5Td) | 1:44 | 2023-09-01 | 2023-09-09 |

@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-181 songs - 11 hr 19 min
+182 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Noche triler](https://open.spotify.com/track/5ze6zmZ1sEIIFPSvrNi75n) | [LA MECANICA POPULAR](https://open.spotify.com/artist/5HSs4Esw2LP6dSBsjCL2kK) | [Noche triler](https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId) | 3:58 | 2021-10-20 |  |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 | 2024-04-19 |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 | 2024-04-19 |
+| [Onda tropical \- Cumbia Version](https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7), [Doble Play](https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8), [Rodrigo Martínez Torres](https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK) | [Onda tropical \(Cumbia Version\)](https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8) | 3:24 | 2024-08-07 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 | 2024-04-19 |
 | [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 |  |
 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 | 2024-04-19 |
@@ -158,7 +159,7 @@
 | [Selva Negra](https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chimborazo](https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB) | 3:28 | 2023-03-10 |  |
 | [Shake & Bake](https://open.spotify.com/track/24a7pZ4U6ISIY7NXLNnaWm) | [King Edi K](https://open.spotify.com/artist/4yg0AcCM1U7Qf0JA4Y5OsO) | [Shake & Bake](https://open.spotify.com/album/06sv8HPUv9q8rbrlILmVHu) | 4:40 | 2023-02-28 |  |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-20 |  |
-| [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 | 2021-10-20 |  |
+| [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 | 2021-10-20 | 2024-08-07 |
 | [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 | 2021-10-20 | 2024-07-08 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-20 | 2024-04-19 |
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2021-10-20 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lonely The Brave. The essential tracks, all in one playlist.",
-  "num_followers": 1090,
+  "num_followers": 1089,
   "original_name": "This Is Lonely The Brave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAAAe3OADaP8WEgXD+FWAq09H",
+  "snapshot_id": "ZrAWAAAAAACqaHCgdn84ot6w/1inNYi7",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 252733,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
+      "duration_ms": 177080,
+      "name": "Bright Eyes",
+      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 177080,
-      "name": "Bright Eyes",
-      "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
+      "duration_ms": 252733,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/00FXop2LfX8GdbHm5BL1tq"
     },
     {
       "added_at": null,

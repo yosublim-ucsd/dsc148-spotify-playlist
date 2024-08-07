@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Anya Mondd Meg",
+        "url": "https://open.spotify.com/album/6fCvrwrrkELaT2UNTsACD2"
+      },
+      "artists": [
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Anya Mondd Meg",
+      "url": "https://open.spotify.com/track/1qqKoZpSq1KQDP80KlnUYS"
+    },
+    {
+      "album": {
         "name": "Az id\u0151 p\u00e9nz",
         "url": "https://open.spotify.com/album/5SPRZ9X6KhK1jwchF9uWZp"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 141000,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6nWYv7FQBsbWlv6Mf8G7Nd"
@@ -74,6 +96,42 @@
       "duration_ms": 179200,
       "name": "Bab\u00e1m",
       "url": "https://open.spotify.com/track/2pDC7xMkbVDjAxclZVkMe2"
+    },
+    {
+      "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
+    },
+    {
+      "album": {
+        "name": "Borosty\u00e1n",
+        "url": "https://open.spotify.com/album/3cyuGB0gib9RzhYDbCYCg9"
+      },
+      "artists": [
+        {
+          "name": "Margo",
+          "url": "https://open.spotify.com/artist/6Ge1Tinxf0QQNG80ESfuhF"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249020,
+      "name": "Borosty\u00e1n",
+      "url": "https://open.spotify.com/track/1k4Q7gNplEGycKBpiXeetk"
     },
     {
       "album": {
@@ -114,6 +172,28 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/5rpyL75EYivpTah1qUGLPu"
+      },
+      "artists": [
+        {
+          "name": "Fluidia",
+          "url": "https://open.spotify.com/artist/6ORKVNt3KGpnWTVV71BKa8"
+        },
+        {
+          "name": "R\u0113Ka",
+          "url": "https://open.spotify.com/artist/47F2OP6NMCGOLkPGHqtTch"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250250,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/74v8nYzL49XVU57CsdkCwa"
     },
     {
       "album": {
@@ -208,10 +288,46 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 216457,
       "name": "Egy \u00f6lel\u00e9s a vil\u00e1g",
       "url": "https://open.spotify.com/track/0DomUrKdWGEmYiMJxvCiBp"
+    },
+    {
+      "album": {
+        "name": "Elf\u00e1radtam",
+        "url": "https://open.spotify.com/album/4Z3aLNpDJwVJ04sGoQhrdX"
+      },
+      "artists": [
+        {
+          "name": "Szak\u00e1cs Erika",
+          "url": "https://open.spotify.com/artist/23ltpq7XAfU79WAfGCEQiY"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Elf\u00e1radtam",
+      "url": "https://open.spotify.com/track/0zzmj3qlJdET4mzpDahSKg"
+    },
+    {
+      "album": {
+        "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+        "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127885,
+      "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
+      "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
     },
     {
       "album": {
@@ -230,6 +346,28 @@
       "duration_ms": 154285,
       "name": "Embernek maradni",
       "url": "https://open.spotify.com/track/6ssiErojPiIvggWhPDcQea"
+    },
+    {
+      "album": {
+        "name": "Engedn\u00e9d-e",
+        "url": "https://open.spotify.com/album/22ZaotqfRiiJjOyl5Weybj"
+      },
+      "artists": [
+        {
+          "name": "Czig\u00e1ny Judit",
+          "url": "https://open.spotify.com/artist/4MUVB7JMV5yGZAWaEya3R6"
+        },
+        {
+          "name": "Zoli Vekony",
+          "url": "https://open.spotify.com/artist/7oh6qDA0zjRQDnf96iC1Nh"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218086,
+      "name": "Engedn\u00e9d-e",
+      "url": "https://open.spotify.com/track/3bp9jct7AyHUPibmPrV8uO"
     },
     {
       "album": {
@@ -334,7 +472,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 151384,
       "name": "Generation Fearless - Get High",
       "url": "https://open.spotify.com/track/28klPDirA7JMsBbmUOZCaS"
@@ -356,6 +494,24 @@
       "duration_ms": 184238,
       "name": "Gond",
       "url": "https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6"
+    },
+    {
+      "album": {
+        "name": "Gyere Kicsi",
+        "url": "https://open.spotify.com/album/6Tqa22RwgMVed6npqO7ZLG"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Gyere Kicsi",
+      "url": "https://open.spotify.com/track/6QEu7mjc6ukjLZB8KDr563"
     },
     {
       "album": {
@@ -417,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Holdf\u00e9ny j\u00e1r",
+        "url": "https://open.spotify.com/album/1m1J02w1SMZihxT8ohVxHv"
+      },
+      "artists": [
+        {
+          "name": "Volkova",
+          "url": "https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268750,
+      "name": "Holdf\u00e9ny j\u00e1r",
+      "url": "https://open.spotify.com/track/7y3inNI0WJvIckcxYpanYJ"
+    },
+    {
+      "album": {
         "name": "I Don't",
         "url": "https://open.spotify.com/album/76SvDGe68sXk9nP9xr1O8f"
       },
@@ -458,6 +632,24 @@
       "duration_ms": 158095,
       "name": "Illeg*lis party",
       "url": "https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV"
+    },
+    {
+      "album": {
+        "name": "kapunyit\u00e1si p\u00e1nik",
+        "url": "https://open.spotify.com/album/4dXfutjXoN3waqbIqPMgo1"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "kapunyit\u00e1si p\u00e1nik",
+      "url": "https://open.spotify.com/track/77cSEXTUwyFrOHnSbowhKn"
     },
     {
       "album": {
@@ -544,7 +736,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 151500,
       "name": "kurvanagy ???",
       "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
@@ -584,7 +776,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 233170,
       "name": "K\u00edgy\u00f3",
       "url": "https://open.spotify.com/track/7sUi8ykmnax6Z4S47M0z0S"
@@ -602,7 +794,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 207600,
       "name": "Leave you like this",
       "url": "https://open.spotify.com/track/52uPOZtinELjG1T0pbjefz"
@@ -620,7 +812,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 189000,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/7dLxHTTSIdK6AJIvcwEe3Z"
@@ -782,7 +974,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 150400,
       "name": "Nikotin",
       "url": "https://open.spotify.com/track/01aCI0XatGFDWxiOTQ0wLl"
@@ -872,7 +1064,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 174250,
       "name": "Romeo and Juliet",
       "url": "https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp"
@@ -894,6 +1086,24 @@
       "duration_ms": 195000,
       "name": "Rulett",
       "url": "https://open.spotify.com/track/1Oe6yPVl5KgB14ZLssTvJq"
+    },
+    {
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo"
     },
     {
       "album": {
@@ -948,7 +1158,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 123173,
       "name": "Style",
       "url": "https://open.spotify.com/track/3s3J5jfuTV0eDlJUfHTwAe"
@@ -966,7 +1176,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 182952,
       "name": "Sz\u00f6rny vagyok",
       "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
@@ -1009,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Temeg\u00e9n",
+        "url": "https://open.spotify.com/album/4fTxzt1AmW9PofflebFXfA"
+      },
+      "artists": [
+        {
+          "name": "Hor\u00e1nyi Juli",
+          "url": "https://open.spotify.com/artist/5RvRW4DzvwWPTwYHDkcO86"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Temeg\u00e9n",
+      "url": "https://open.spotify.com/track/2kwGZfmsS9MbDKEAQY6snw"
+    },
+    {
+      "album": {
         "name": "The Worst Thing",
         "url": "https://open.spotify.com/album/2xfdFJpzvMK9fFvVWKHqLs"
       },
@@ -1020,7 +1248,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 190655,
       "name": "The Worst Thing",
       "url": "https://open.spotify.com/track/3LvrZCROLSkPLR6yeXn8oi"
@@ -1038,7 +1266,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 177785,
       "name": "Titokban",
       "url": "https://open.spotify.com/track/66Y5FeMvNRAAMGtcMcTDQX"
@@ -1063,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Unnom k\u00e9ne",
+        "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
+      },
+      "artists": [
+        {
+          "name": "Malurid\u00e9",
+          "url": "https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6"
+        },
+        {
+          "name": "Mark Zentai",
+          "url": "https://open.spotify.com/artist/0h3a2a9FOPPUEA5TaOfBHO"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "Unnom k\u00e9ne",
+      "url": "https://open.spotify.com/track/0Idt6JYcE5YPAalcMohdk8"
+    },
+    {
+      "album": {
         "name": "Zavar",
         "url": "https://open.spotify.com/album/06vjC95WN9GPWdaHsbnKaT"
       },
@@ -1082,6 +1332,24 @@
       "duration_ms": 177039,
       "name": "Zavar",
       "url": "https://open.spotify.com/track/7dm2yr6YRLS4lkJwZA7Rad"
+    },
+    {
+      "album": {
+        "name": "\u00c9des V\u00edzi \u00c9let",
+        "url": "https://open.spotify.com/album/3HkSmD8PUXJtqkbRKoEIIA"
+      },
+      "artists": [
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176770,
+      "name": "\u00c9des V\u00edzi \u00c9let",
+      "url": "https://open.spotify.com/track/2Y5RniLHK7f71mVrOCb5t1"
     },
     {
       "album": {
@@ -1114,7 +1382,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 130063,
       "name": "\u00daj Reni",
       "url": "https://open.spotify.com/track/6XJQIFP1uDTCnDBKSJz3Ie"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Speed
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,618 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,626 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,37 +56,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 46 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 |
 | 47 | [Git Some Balls](https://open.spotify.com/track/2537WG5KdqGVGeDgU7aTvi) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Git Some Balls / Air Con](https://open.spotify.com/album/7EGNNZlyXVERZ3DG2dObR1) | 2:26 |
 | 48 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
-| 49 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
-| 50 | [Ultimatum](https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Ultimatum](https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP) | 3:26 |
+| 49 | [Ultimatum](https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Ultimatum](https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP) | 3:26 |
+| 50 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |
 | 51 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
 | 52 | [Mob DLA](https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mob DLA](https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw) | 2:29 |
 | 53 | [Sour](https://open.spotify.com/track/1eEq2illl2lZlqawke83S8) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Sour](https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ) | 2:45 |
 | 54 | [Johnny](https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Johnny](https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r) | 2:29 |
-| 55 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 |
-| 56 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
-| 57 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
-| 58 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
+| 55 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 56 | [Cheapskate](https://open.spotify.com/track/3ydtco4AwW0uPKi3GFpnGQ) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Cheapskate](https://open.spotify.com/album/4J3fxlyKmCqkgK6C9jwJkG) | 3:11 |
+| 57 | [Body of Mine](https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country / Body of Mine](https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql) | 2:11 |
+| 58 | [Elster Stares the Desert Down](https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Elster Stares the Desert Down](https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3) | 3:41 |
 | 59 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
 | 60 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 |
 | 61 | [Final Words](https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [The Mosaic](https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW) | 3:33 |
 | 62 | [Found a Job](https://open.spotify.com/track/2nm6tAe3rTXi7gDaYtgms6) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Found a Job](https://open.spotify.com/album/2Og3RBFo4N89O90dYQctX7) | 4:12 |
-| 63 | [i hate people](https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [i hate people](https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx) | 1:31 |
-| 64 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 63 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
+| 64 | [i hate people](https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [i hate people](https://open.spotify.com/album/5C7vprfUvdSflev3jTfVHx) | 1:31 |
 | 65 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
 | 66 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 |
 | 67 | [Sail Away](https://open.spotify.com/track/1zBKzHhW0JDglXhGuI0Yzh) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn), [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Sail Away](https://open.spotify.com/album/7LHNEaG4vAGmD9vCO0gRrt) | 3:17 |
 | 68 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 |
-| 69 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
-| 70 | [The Last Drag](https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 6:10 |
+| 69 | [The Last Drag](https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 6:10 |
+| 70 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
 | 71 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
 | 72 | [Karma Too Close](https://open.spotify.com/track/7wknILHOI4wqc7MowtsNI7) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Karma Too Close](https://open.spotify.com/album/1e0UiI1obOMLnuCmfQESyJ) | 2:21 |
-| 73 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 |
-| 74 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
+| 73 | [Stop Living & Don't Dream](https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [The Prius Diaries: A Hybrid Story](https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU) | 2:22 |
+| 74 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 |
 | 75 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 |
 | 76 | [Love And Pain](https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore Special Edition](https://open.spotify.com/album/6Jqw7LKE3lEkc5GTEFrjNf) | 4:13 |
 | 77 | [Sixteen](https://open.spotify.com/track/4FmRAiDgkm7KxzZM64406E) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Sixteen](https://open.spotify.com/album/71jVpE2XmMErw3Ef45xrOY) | 3:44 |
-| 78 | [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 |
-| 79 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 78 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
+| 79 | [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 |
 | 80 | [Cry Your Eyes Out](https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 2:25 |
 
 Snapshot ID: `ZppDaAAAAABHqQlPHFGmiumAxItTVwJc`

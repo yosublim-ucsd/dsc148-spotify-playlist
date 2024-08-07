@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 115302,
+  "num_followers": 115319,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAACDlNagF5q0EoyGJrl6XTVY",
+  "snapshot_id": "ZrAWAAAAAAANNEzOyJ6FnqqEXmD3q2jz",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomtown",
         "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 147026,
       "name": "You Ain't Much Fun",
       "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Bullets in the Gun",
+      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Bullets in the Gun",
-      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 188920,
-      "name": "She's A Hottie - Single Version",
-      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+      "duration_ms": 197560,
+      "name": "Getcha Some",
+      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Getcha Some",
-      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
+      "duration_ms": 188920,
+      "name": "She's A Hottie - Single Version",
+      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
     },
     {
       "added_at": null,

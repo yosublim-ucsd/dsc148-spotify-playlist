@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 218 songs - 14 hr 53 min
+[codym2011](https://open.spotify.com/user/codym2011) - 564 likes - 219 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 216 | [Give It To Me](https://open.spotify.com/track/3ebvEbKKCzxCmNUvrYIKUq) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give It To Me](https://open.spotify.com/album/61zZi6lk2jkwQmCfvrvQG6) | 3:26 |
 | 217 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 |
 | 218 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
+| 219 | [Mulholland Drive](https://open.spotify.com/track/1YQLuXSz5w8DIBmqoCwNsd) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Attempted Lover](https://open.spotify.com/album/1PtRIyLbXFu9B06kuKuve0) | 2:50 |
 
-Snapshot ID: `AAAA7CPhy7xTYIKGugSWqOvncsnf3Yt/`
+Snapshot ID: `AAAA7Ze/OXX+F0tVC58+kwJG1fusDBYy`

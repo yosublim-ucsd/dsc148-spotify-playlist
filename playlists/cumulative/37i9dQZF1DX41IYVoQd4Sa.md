@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-89 songs - 5 hr 24 min
+90 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [If Whiskey Was A Friend](https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [If Whiskey Was A Friend](https://open.spotify.com/album/6MUOd5Aud7D5CfsD3DK9BQ) | 3:33 | 2024-07-18 |  |
 | [In Love Again](https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [In love Again](https://open.spotify.com/album/5ysI0lyjbTNUI0w7MoVvHA) | 3:01 | 2024-08-01 |  |
 | [Not in Vain \- In A Box III Version](https://open.spotify.com/track/5Yc2fKkRskvU7l2f8gRiHh) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [In A Box III: Acoustic Recordings](https://open.spotify.com/album/28FLk4QDTvSQWJoSS6NNoM) | 4:44 | 2024-06-27 | 2024-07-27 |
+| [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 |  |
 | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc) | 2:59 | 2024-06-27 |  |
 | [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 | 2024-06-27 |  |
 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 | 2024-06-27 | 2024-07-27 |
@@ -48,7 +49,7 @@
 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 | 2024-06-27 |  |
 | [הכלים השבורים](https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [הכלים השבורים](https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk) | 3:27 | 2024-07-25 |  |
 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 | 2024-06-27 |  |
-| [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 | 2024-07-25 |  |
+| [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 | 2024-07-25 | 2024-08-07 |
 | [זה הסוף](https://open.spotify.com/track/6byQRm6aWdMwcacX1MIxz5) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [זה הסוף](https://open.spotify.com/album/71pTFfLhPQ6uEjx1uOmHr4) | 2:55 | 2024-06-27 |  |
 | [זנב לאריות](https://open.spotify.com/track/65XRdzcboylqk9YbfOHjbu) | [Haze'evot](https://open.spotify.com/artist/4p3CuBU6qQdQgIqec3hooj) | [זנב לאריות](https://open.spotify.com/album/63puPTqi1TeyCgpurPx7v7) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [חברה שלי \- Havera Sheli](https://open.spotify.com/track/05DpO0iqMUbE7O02BaVp5l) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [חור בלב](https://open.spotify.com/album/5ArcoQTg4d5o1e1Dgd0ZzX) | 3:56 | 2024-06-27 | 2024-07-19 |

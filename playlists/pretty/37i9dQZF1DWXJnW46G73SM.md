@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: شارموفرز
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,040 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,071 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 7 | [7agara Wara2a M2as](https://open.spotify.com/track/3UGfqoXhpu8QKyGEdcO6Vq) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [7agara Wara2a M2as](https://open.spotify.com/album/1dOV6WNImrm5N5MD8xa43J) | 4:10 |
 | 8 | [Rouh](https://open.spotify.com/track/5sIBV8CrFL1NzVEZWu7B6T) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Rouh](https://open.spotify.com/album/08Rw6H6OHaOcCeAMBKFDlD) | 2:54 |
 | 9 | [Kelma \- بينى وبينك كلمة](https://open.spotify.com/track/6nQfWKAZnLSY48qCTMpig4) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [Kelma \- بينى وبينك كلمة](https://open.spotify.com/album/6XpVEjCFEgBdx2gfcMSMNs) | 2:56 |
-| 10 | [Kefaya Foraa](https://open.spotify.com/track/3Zven3QT9Wt2C8QuaIVHLQ) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kefaya Foraa](https://open.spotify.com/album/4ZI99AJbqBq4iDI1H6D3Ag) | 3:21 |
-| 11 | [الله يسهلك](https://open.spotify.com/track/5m5fK6zj6YNcbf1WzmfKop) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [الله يسهلك](https://open.spotify.com/album/0EcTMO8PyQKBjJt84krJWY) | 2:43 |
-| 12 | [اضحك](https://open.spotify.com/track/2Du4t16DUMIQl15VyC6Hi2) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [اضحك](https://open.spotify.com/album/56I8KK1PEo0ckpnKe3R157) | 2:51 |
-| 13 | [ZANN](https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [ZANN](https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX) | 2:56 |
-| 14 | [Bena2es](https://open.spotify.com/track/04h3IarMzjkix8Ump6gXlY) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Bena2es](https://open.spotify.com/album/2VpB2Qz2Iv7WZsOaXToKu6) | 4:22 |
-| 15 | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/track/7Hf149WpSudxajnex8j11d) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Youssra](https://open.spotify.com/artist/3OOsp0nm674o3Ih8T7wgRJ) | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/album/13NXGOc8tw6F42bLMRFfjs) | 3:12 |
-| 16 | [Effeh](https://open.spotify.com/track/6EyUQ6UVrkcfrRrjqynjz1) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Effeh](https://open.spotify.com/album/5QV8g0pZYHJZoRvnNbkM7A) | 3:25 |
-| 17 | [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 |
+| 10 | [كداب](https://open.spotify.com/track/1KK6btqSOoG2uW0dldinOx) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كداب](https://open.spotify.com/album/5l0kncVsCrQpzxC2vnbEkn) | 3:27 |
+| 11 | [Kefaya Foraa](https://open.spotify.com/track/3Zven3QT9Wt2C8QuaIVHLQ) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kefaya Foraa](https://open.spotify.com/album/4ZI99AJbqBq4iDI1H6D3Ag) | 3:21 |
+| 12 | [الله يسهلك](https://open.spotify.com/track/5m5fK6zj6YNcbf1WzmfKop) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [الله يسهلك](https://open.spotify.com/album/0EcTMO8PyQKBjJt84krJWY) | 2:43 |
+| 13 | [اضحك](https://open.spotify.com/track/2Du4t16DUMIQl15VyC6Hi2) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [اضحك](https://open.spotify.com/album/56I8KK1PEo0ckpnKe3R157) | 2:51 |
+| 14 | [ZANN](https://open.spotify.com/track/5qFmwvoaeilACAQCYF7OC0) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [ZANN](https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX) | 2:56 |
+| 15 | [Bena2es](https://open.spotify.com/track/04h3IarMzjkix8Ump6gXlY) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Bena2es](https://open.spotify.com/album/2VpB2Qz2Iv7WZsOaXToKu6) | 4:22 |
+| 16 | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/track/7Hf149WpSudxajnex8j11d) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Youssra](https://open.spotify.com/artist/3OOsp0nm674o3Ih8T7wgRJ) | [Naghza Men Bernameg Beit El Saad](https://open.spotify.com/album/13NXGOc8tw6F42bLMRFfjs) | 3:12 |
+| 17 | [Effeh](https://open.spotify.com/track/6EyUQ6UVrkcfrRrjqynjz1) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Effeh](https://open.spotify.com/album/5QV8g0pZYHJZoRvnNbkM7A) | 3:25 |
 | 18 | [Hob Taht El Enshaa](https://open.spotify.com/track/7ASe4X29gwQLvO2dTtj04d) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Hob Taht El Enshaa](https://open.spotify.com/album/7IoYxk1XGAwq8bdXdVkS52) | 3:22 |
 | 19 | [Shakly Ha3esh](https://open.spotify.com/track/2oWNiZYY8W5YEy2M9CPp2J) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Shakly Ha3esh](https://open.spotify.com/album/6KISR3mmosRXkxfSzVQxGz) | 3:42 |
 | 20 | [Kebeer Balad](https://open.spotify.com/track/3OksxsyRovRJPVxWmCP4cL) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Kebeer Balad](https://open.spotify.com/album/2q6Ko4FYL8j1HL0vr41IpQ) | 2:45 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 73 | [Aayzeen Netdalaa](https://open.spotify.com/track/1JZFZnrzMVzC1snNn6HRPA) | [Lama Shreif](https://open.spotify.com/artist/3g6wVPkHomiONRHWn6v5YZ) | [Aayzeen Netdalaa](https://open.spotify.com/album/5Da6KyhIsmnwzfJL6Y1ban) | 3:03 |
 | 74 | [Naddart El Shams](https://open.spotify.com/track/532L1SCyf7z5Rb0qrfqmUo) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Naddart El Shams](https://open.spotify.com/album/2tRmQ2V0j4YYsNxxCG9B5R) | 2:56 |
 
-Snapshot ID: `ZrBeggAAAACoPkiII6xrFq1UIqv0niWj`
+Snapshot ID: `ZrHq+gAAAAAlddOpD7LM7YZHuVyswGZ6`

@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 129306,
+  "num_followers": 129384,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Canto Vallenato",
-        "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 317893,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Mis Nuevos Cantares",
         "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Canto Vallenato",
+        "url": "https://open.spotify.com/album/1nbW9IiNSMm4saZxmma99d"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 317893,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/6hlmfSjhKSWuZDujvW7p74"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -179,26 +179,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "El Disco Que Me Gusta",
-        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
-      },
-      "artists": [
-        {
-          "name": "Elder Day\u00e1n D\u00edaz",
-          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
-        },
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Amantes",
-      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Son Para El Mundo",
         "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 237800,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "El Disco Que Me Gusta",
+        "url": "https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W"
+      },
+      "artists": [
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Amantes",
+      "url": "https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -315,22 +315,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
+      "duration_ms": 312783,
+      "name": "Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 312783,
-      "name": "Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 284473,
       "name": "Vives En Mi",
       "url": "https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -439,22 +439,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+        "name": "Coleccion Top 50",
+        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
         },
         {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "\u00c1lvaro L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+      "duration_ms": 282920,
+      "name": "No Comprendi Tu Amor",
+      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -479,22 +479,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Coleccion Top 50",
-        "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
       },
       "artists": [
         {
-          "name": "Jorge O\u00f1ate",
-          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
-          "name": "\u00c1lvaro L\u00f3pez",
-          "url": "https://open.spotify.com/artist/5sjNYuS0jubMekjJ5T56AG"
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 282920,
-      "name": "No Comprendi Tu Amor",
-      "url": "https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z"
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "\u00a1Juepa Je!",
-        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 294466,
-      "name": "El Invierno Pasado",
-      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "El Poder del Amor",
         "url": "https://open.spotify.com/album/6Egg4KXDy9yhJox4gjGjmZ"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 310400,
       "name": "Sirena Encantada",
       "url": "https://open.spotify.com/track/0hjgPmqi7IzcWnSiJYm2OL"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "\u00a1Juepa Je!",
+        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 294466,
+      "name": "El Invierno Pasado",
+      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Rafael Orozco El \u00cddolo de Siempre",
-        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Muere una Flor",
-      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Destellos de Amor",
         "url": "https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 255613,
       "name": "Dilo",
       "url": "https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Rafael Orozco El \u00cddolo de Siempre",
+        "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Muere una Flor",
+      "url": "https://open.spotify.com/track/0Df14K1BlLhjb2DnIR1Qmi"
     },
     {
       "added_at": "2024-03-28 01:45:52",

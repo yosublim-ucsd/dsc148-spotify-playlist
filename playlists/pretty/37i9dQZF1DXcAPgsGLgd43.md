@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,847 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,919 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 79 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
 | 80 | [Viper](https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [4 ON DA FLOOR](https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu) | 2:37 |
 | 81 | [Bidi Bam](https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bidi Bam](https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7) | 2:00 |
-| 82 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 83 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 |
+| 82 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 |
+| 83 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 84 | [Bullerengue](https://open.spotify.com/track/0wZC3aP8YeXjYvw0Ua8Qnn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Bullerengue](https://open.spotify.com/album/5QPON1QI3Z09s01yzq5kb3) | 3:15 |
 | 85 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 |
 | 86 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 95 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
 | 96 | [¡Date Prisa!](https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [¡Date Prisa!](https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe) | 3:19 |
 | 97 | [Vamo Que Vamo](https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Vamo Que Vamo](https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI) | 4:05 |
-| 98 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 |
-| 99 | [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 |
-| 100 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 |
+| 98 | [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 |
+| 99 | [Tiki Tiki](https://open.spotify.com/track/3j6NrZ43zwIPANl4kcDUs8) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Tiki Tiki](https://open.spotify.com/album/2iE41dsSA4TVsWkPhf1o0V) | 2:04 |
+| 100 | [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 |
 
 Snapshot ID: `ZqxZwAAAAABzfbl3sQKqLXNtaB6isP4W`

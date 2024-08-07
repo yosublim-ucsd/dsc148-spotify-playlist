@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: A$AP Rocky\)
 
-2,203 songs - 4 day 15 hr 52 min
+2,203 songs - 4 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,7 @@
 | [Freeway's Revenge](https://open.spotify.com/track/2ovysxfiSxqyErYKMGBVUi) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Freeway's Revenge](https://open.spotify.com/album/5RcMzX90p7MGnEATaVuZHi) | 4:40 | 2024-05-14 | 2024-06-28 |
 | [Fresh](https://open.spotify.com/track/2zytHWc2uJXV7hEkJCUGo8) | [다니엘 지칼](https://open.spotify.com/artist/2tsU4AP4cmCsMVxtoYS8DI) | [Fresh](https://open.spotify.com/album/555uOzuWShkK0slg9OaaaC) | 2:28 | 2024-03-15 | 2024-05-10 |
 | [Friday Night](https://open.spotify.com/track/6taaPcd1yroEhGVWHtr7d9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DYNAMICDUO 6th DIGILOG 1/2](https://open.spotify.com/album/0820v5cltCHxKXVUc2YRtk) | 4:00 | 2024-03-28 | 2024-04-05 |
-| [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:59 | 2024-08-05 |  |
+| [FRIED](https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 2](https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e) | 2:33 | 2024-08-05 |  |
 | [friend](https://open.spotify.com/track/5kUvjEjP1mD4aRCdbUaAdO) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y), [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690) | [friend](https://open.spotify.com/album/5Y35b7wTtFFhpHXR3zYbcV) | 2:47 | 2024-06-13 | 2024-07-12 |
 | [FRIENDS GO FOE](https://open.spotify.com/track/4RXo0smHrIPDjQRb67LYRv) | [Kim Ximya](https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q) | [FRIENDS GO FOE](https://open.spotify.com/album/3rLOkDqmEaHahlivtaZqIv) | 2:38 | 2023-01-12 | 2023-02-10 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-24 | 2022-07-29 |

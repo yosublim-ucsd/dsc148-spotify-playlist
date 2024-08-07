@@ -982,7 +982,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 141692,
       "name": "A Barreira Vai Virar Baile",
       "url": "https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf"
@@ -1672,40 +1672,6 @@
       "duration_ms": 122250,
       "name": "Aces",
       "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
-    },
-    {
-      "album": {
-        "name": "Achei Que Era Pagode",
-        "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
-      },
-      "artists": [
-        {
-          "name": "Digdin",
-          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
-        },
-        {
-          "name": "MC ERYCK HK",
-          "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
-        },
-        {
-          "name": "DJ Ferrujo da Serra",
-          "url": "https://open.spotify.com/artist/7yq1E7CCXcq43AcjgYYssR"
-        },
-        {
-          "name": "Mc Priscila",
-          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
-        },
-        {
-          "name": "DJ Tezinho",
-          "url": "https://open.spotify.com/artist/1vQmEkUObXvubDjIJb4Urv"
-        }
-      ],
-      "date_added": "2024-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147727,
-      "name": "Achei Que Era Pagode",
-      "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
       "album": {
@@ -3134,6 +3100,24 @@
       "duration_ms": 172548,
       "name": "Anestesiado - Ao Vivo",
       "url": "https://open.spotify.com/track/7vCtJ5u7dFM4tAWtgFf4l8"
+    },
+    {
+      "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
     },
     {
       "album": {
@@ -6029,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
+    },
+    {
+      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -6490,6 +6492,40 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "album": {
+        "name": "Achei Que Era Pagode",
+        "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
+      },
+      "artists": [
+        {
+          "name": "MC ERYCK HK",
+          "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
+        },
+        {
+          "name": "Digdin",
+          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
+        },
+        {
+          "name": "DJ Tezinho",
+          "url": "https://open.spotify.com/artist/1vQmEkUObXvubDjIJb4Urv"
+        },
+        {
+          "name": "DJ Ferrujo da Serra",
+          "url": "https://open.spotify.com/artist/7yq1E7CCXcq43AcjgYYssR"
+        },
+        {
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147727,
+      "name": "Bem Vindos a Marconex",
+      "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
       "album": {
@@ -9453,6 +9489,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173557,
+      "name": "Cedo Ou Tarde",
+      "url": "https://open.spotify.com/track/6ckJpZArtp9UwOmMA3onES"
+    },
+    {
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -9624,7 +9678,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 144923,
       "name": "Chapeluda",
       "url": "https://open.spotify.com/track/7cvkRqpx8xtSreFfOg6HPz"
@@ -9817,6 +9871,28 @@
     },
     {
       "album": {
+        "name": "MTG CHIHIRO",
+        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
+      },
+      "artists": [
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
+    },
+    {
+      "album": {
         "name": "CHIHIRO (MTG)",
         "url": "https://open.spotify.com/album/2IaxWSIP4DSrUlfRGEfeRJ"
       },
@@ -9828,7 +9904,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 150923,
       "name": "CHIHIRO - MTG",
       "url": "https://open.spotify.com/track/2uoqxEz9kqytYKmlQTxvUh"
@@ -9854,6 +9930,24 @@
       "duration_ms": 152973,
       "name": "Chihiro - MTG, 8D Audio",
       "url": "https://open.spotify.com/track/6xBaWJHN5oENLES4BDWW2Z"
+    },
+    {
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
     },
     {
       "album": {
@@ -12174,6 +12268,24 @@
       "duration_ms": 61074,
       "name": "DE GLOCK RAJADA AQUI NO PPG",
       "url": "https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
       "album": {
@@ -16238,7 +16350,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 426356,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1fWa6ZQQAxt9maPGnN2WE4"
@@ -30647,6 +30759,28 @@
     },
     {
       "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "album": {
         "name": "We All Shine",
         "url": "https://open.spotify.com/album/09b9NC1oQbYaHcacgXn66k"
       },
@@ -31478,7 +31612,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
@@ -32790,7 +32924,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -34994,7 +35128,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 117230,
       "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
@@ -38470,7 +38604,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 168371,
       "name": "Perigos Noturnos",
       "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
@@ -38604,6 +38738,24 @@
       "duration_ms": 178843,
       "name": "Pers\u00e9fone",
       "url": "https://open.spotify.com/track/3u9FHHLrJ9st71IIXnSXCb"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Perto De Voc\u00ea",
+      "url": "https://open.spotify.com/track/5sXZxVZZMn4ImhotK2Y3D1"
     },
     {
       "album": {
@@ -41254,7 +41406,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 192000,
       "name": "Quem Manda em Mim",
       "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
@@ -41618,7 +41770,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 166153,
       "name": "Rainha da Finesse",
       "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
@@ -41946,7 +42098,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 188674,
       "name": "Red - From \"Descendants: The Rise of Red\"",
       "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
@@ -44258,6 +44410,40 @@
       "duration_ms": 200000,
       "name": "Sementinha do Mal",
       "url": "https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn"
+    },
+    {
+      "album": {
+        "name": "Sempre na Simplicidade",
+        "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        },
+        {
+          "name": "Boladin 211",
+          "url": "https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Sempre na Simplicidade",
+      "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
     },
     {
       "album": {
@@ -47536,6 +47722,24 @@
       "duration_ms": 221860,
       "name": "S\u00f3 Deus",
       "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203337,
+      "name": "S\u00f3 F\u00e9",
+      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
       "album": {
@@ -54496,10 +54700,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 107971,
       "name": "WHINE IN BRAZIL FUNK",
       "url": "https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q"
+    },
+    {
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
       "album": {
@@ -54554,6 +54776,28 @@
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+    },
+    {
+      "album": {
+        "name": "Wi-Fi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161312,
+      "name": "Wi-Fi - Ao Vivo",
+      "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
     },
     {
       "album": {

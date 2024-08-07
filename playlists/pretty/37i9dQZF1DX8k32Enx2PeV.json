@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 11104,
+  "num_followers": 11105,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-06-28 10:03:00",
       "album": {
-        "name": "Milanoche",
-        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 168282,
-      "name": "Milanoche",
-      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 256847,
       "name": "Quiromancia (feat. Vic Mirallas)",
       "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "Milanoche",
+        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 168282,
+      "name": "Milanoche",
+      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
     },
     {
       "added_at": "2024-06-28 10:03:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-06-28 10:03:00",
       "album": {
-        "name": "Guarever",
-        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
-      },
-      "artists": [
-        {
-          "name": "Aguas Ardientes",
-          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
-        }
-      ],
-      "duration_ms": 257009,
-      "name": "No Hay Luka",
-      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
-    },
-    {
-      "added_at": "2024-06-28 10:03:00",
-      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2024-06-28 10:03:00",
+      "album": {
+        "name": "Guarever",
+        "url": "https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF"
+      },
+      "artists": [
+        {
+          "name": "Aguas Ardientes",
+          "url": "https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc"
+        }
+      ],
+      "duration_ms": 257009,
+      "name": "No Hay Luka",
+      "url": "https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh"
     },
     {
       "added_at": "2024-06-28 10:03:00",

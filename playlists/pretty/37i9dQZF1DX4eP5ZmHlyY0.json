@@ -1,15 +1,31 @@
 {
-  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: SUPER EIGHT",
-  "num_followers": 48026,
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: &TEAM",
+  "num_followers": 48023,
   "original_name": "Boys Group Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqj/8AAAAAAh+ak53kDWNAHABJnVp8DW",
+  "snapshot_id": "ZrJjQQAAAACfr3TZWgQGhYvQ0Yz0edyF",
   "tracks": [
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "\u9752\u5d50 (Aoarashi)",
+        "url": "https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 175230,
+      "name": "\u9752\u5d50 (Aoarashi)",
+      "url": "https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "SUPER EIGHT",
         "url": "https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4NPPfmUsi86rgdRZNL5oWa"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Love seeker",
         "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "SUPER EIGHT",
-        "url": "https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA"
-      },
-      "artists": [
-        {
-          "name": "SUPER EIGHT",
-          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
-        }
-      ],
-      "duration_ms": 209322,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5M2HzcdIN7jz6jSJsm3qn6"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "No.O -ring-",
         "url": "https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ"
@@ -109,23 +109,23 @@
       "url": "https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "I wonder",
-        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
         }
       ],
-      "duration_ms": 157746,
-      "name": "I wonder",
-      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
+      "duration_ms": 192653,
+      "name": "LOUD",
+      "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Hush-Hush",
         "url": "https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK"
@@ -145,167 +145,7 @@
       "url": "https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "halfmoon",
-        "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "halfmoon",
-      "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "moooove!!",
-        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "moooove!!",
-      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u4e94\u6708\u96e8 (Samidare)",
-        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
-      },
-      "artists": [
-        {
-          "name": "&TEAM",
-          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "\u4e94\u6708\u96e8 (Samidare)",
-      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 146453,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Believe in You",
-        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 256999,
-      "name": "Believe in You",
-      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "What Time Is It?",
-        "url": "https://open.spotify.com/album/0EwMZukqVpTkfii1Oz0WFY"
-      },
-      "artists": [
-        {
-          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "What Time Is It?",
-      "url": "https://open.spotify.com/track/1j98eCtsVtPdxilHndXcsv"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 167219,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u8a93\u3044 (CHIKAI)",
-        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
-      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Seaside Story",
-        "url": "https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt"
-      },
-      "artists": [
-        {
-          "name": "MAZZEL",
-          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Seaside Story",
-      "url": "https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Youth Spark",
-        "url": "https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC"
-      },
-      "artists": [
-        {
-          "name": "LIL LEAGUE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Youth Spark",
-      "url": "https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Masterplan",
         "url": "https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz"
@@ -321,7 +161,167 @@
       "url": "https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "moooove!!",
+        "url": "https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "moooove!!",
+      "url": "https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "\u4e94\u6708\u96e8 (Samidare)",
+        "url": "https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "\u4e94\u6708\u96e8 (Samidare)",
+      "url": "https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 146453,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Believe in You",
+        "url": "https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 256999,
+      "name": "Believe in You",
+      "url": "https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "What Time Is It?",
+        "url": "https://open.spotify.com/album/0EwMZukqVpTkfii1Oz0WFY"
+      },
+      "artists": [
+        {
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "What Time Is It?",
+      "url": "https://open.spotify.com/track/1j98eCtsVtPdxilHndXcsv"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 167219,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "\u8a93\u3044 (CHIKAI)",
+        "url": "https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "\u3072\u3068\u3064\u306e\u8a93\u3044 (We\u2019ll Never Change)",
+      "url": "https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Seaside Story",
+        "url": "https://open.spotify.com/album/1tcQGv1r3PTF9H7igHDwWt"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Seaside Story",
+      "url": "https://open.spotify.com/track/1ZMv8crk9nkfKhTyneEB5s"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Youth Spark",
+        "url": "https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Youth Spark",
+      "url": "https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Ride the Vibe",
         "url": "https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Sweetest Tune",
         "url": "https://open.spotify.com/album/5gRsws4YWZtH2I9LbnnCYc"
@@ -353,23 +353,23 @@
       "url": "https://open.spotify.com/track/6uY7MpqSGdXwmMiQlEw6h1"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
         }
       ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+      "duration_ms": 188400,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "DEPARTURE",
         "url": "https://open.spotify.com/album/2IcaFXt9KAgLFdcNAktqlU"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/6fG4sExielzxmQlhX7pEr7"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
@@ -401,23 +401,23 @@
       "url": "https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/6GXhrItMV3o5txOWLETTBA"
+        "name": "halfmoon",
+        "url": "https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF"
       },
       "artists": [
         {
-          "name": "INI",
-          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
         }
       ],
-      "duration_ms": 192653,
-      "name": "LOUD",
-      "url": "https://open.spotify.com/track/312amIo1Pj8FH0vYMy5yOu"
+      "duration_ms": 255760,
+      "name": "halfmoon",
+      "url": "https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/6ajt1XhJpEPr2aD2nb9LC6"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/46UQWck0zzo98vT3I9nlxb"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Love Triangle",
         "url": "https://open.spotify.com/album/5Qm1VnWx4KqoeJGrcd2eoW"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/09NZJcGT23meog6z9O7R0B"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "HIGHER EX",
         "url": "https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "AND,",
         "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/184kWNlVptebPcguQpz51T"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3iOnBb4PlT1NtUmSDrwiq7"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "SUPER EIGHT",
         "url": "https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA"
@@ -517,23 +517,23 @@
       "url": "https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "Boom Boom Back",
-        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
       "artists": [
         {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Boom Boom Back",
-      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "\u541b\u3058\u3083\u306a\u304d\u3083\u3060\u3081\u306a\u3093\u3060",
         "url": "https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Sweets",
         "url": "https://open.spotify.com/album/16Dzbyra2qYvkYQu3hMmPN"
@@ -565,39 +565,7 @@
       "url": "https://open.spotify.com/track/073JEUkbq7Obqcl0o2zaTU"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "SUPER EIGHT",
-        "url": "https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA"
-      },
-      "artists": [
-        {
-          "name": "SUPER EIGHT",
-          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
-        }
-      ],
-      "duration_ms": 264824,
-      "name": "\u201c\u8d85\u201d\u52dd\u624b\u306b\u4ed5\u4e0a\u304c\u308c",
-      "url": "https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/0qNXKiJPsedjbHFkJbq4Fp"
-      },
-      "artists": [
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "GRAVITY",
-      "url": "https://open.spotify.com/track/2C8qDeJBt7KfpPwXTSLsHA"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
@@ -613,91 +581,23 @@
       "url": "https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "REVERSE",
-        "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/0qNXKiJPsedjbHFkJbq4Fp"
       },
       "artists": [
         {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE"
         }
       ],
-      "duration_ms": 210521,
-      "name": "REVERSE",
-      "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
+      "duration_ms": 252226,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/2C8qDeJBt7KfpPwXTSLsHA"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "\u30a4\u30de",
-        "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 227662,
-      "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
-      "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Let Me Kiss U",
-        "url": "https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj"
-      },
-      "artists": [
-        {
-          "name": "WATWING",
-          "url": "https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e"
-        }
-      ],
-      "duration_ms": 148563,
-      "name": "Let Me Kiss U",
-      "url": "https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Goodest Baddest",
-        "url": "https://open.spotify.com/album/1wOWdIMT7uuHq5tKNNKVj8"
-      },
-      "artists": [
-        {
-          "name": "THE RAMPAGE from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
-        },
-        {
-          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
-          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Goodest Baddest",
-      "url": "https://open.spotify.com/track/0v3CCJQWb0YWkqxZr5sFmQ"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "P.U!",
-        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
-      },
-      "artists": [
-        {
-          "name": "Hey! Say! JUMP",
-          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
-        }
-      ],
-      "duration_ms": 299606,
-      "name": "DEAR MY LOVER",
-      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Mainstream",
         "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
@@ -713,55 +613,23 @@
       "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb"
+        "name": "REVERSE",
+        "url": "https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum"
       },
       "artists": [
         {
-          "name": "Cool-X",
-          "url": "https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl"
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
         }
       ],
-      "duration_ms": 145200,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA"
+      "duration_ms": 210521,
+      "name": "REVERSE",
+      "url": "https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
-      },
-      "artists": [
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 158795,
-      "name": "GOAT",
-      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9"
-      },
-      "artists": [
-        {
-          "name": "Last Forever from BATTLE BOYS",
-          "url": "https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "99.9 Psychic Radio",
         "url": "https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB"
@@ -781,23 +649,123 @@
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
-        "name": "What's Up!!",
-        "url": "https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c"
+        "name": "Let Me Kiss U",
+        "url": "https://open.spotify.com/album/6YNinPRBgr1TH73hJgycRj"
       },
       "artists": [
         {
-          "name": "BOYZTERIOS from BATTLE BOYS",
-          "url": "https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t"
+          "name": "WATWING",
+          "url": "https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e"
         }
       ],
-      "duration_ms": 241578,
-      "name": "What's Up!!",
-      "url": "https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56"
+      "duration_ms": 148563,
+      "name": "Let Me Kiss U",
+      "url": "https://open.spotify.com/track/1XrmJHvtsx7eHBFkU9fF4n"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Goodest Baddest",
+        "url": "https://open.spotify.com/album/1wOWdIMT7uuHq5tKNNKVj8"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        },
+        {
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Goodest Baddest",
+      "url": "https://open.spotify.com/track/0v3CCJQWb0YWkqxZr5sFmQ"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "duration_ms": 299606,
+      "name": "DEAR MY LOVER",
+      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "\u30a4\u30de",
+        "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 227662,
+      "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb"
+      },
+      "artists": [
+        {
+          "name": "Cool-X",
+          "url": "https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 158795,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/074s54XQPsBttINKj02W9T"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9"
+      },
+      "artists": [
+        {
+          "name": "Last Forever from BATTLE BOYS",
+          "url": "https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Be on Your side",
         "url": "https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF"
@@ -813,7 +781,23 @@
       "url": "https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "What's Up!!",
+        "url": "https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c"
+      },
+      "artists": [
+        {
+          "name": "BOYZTERIOS from BATTLE BOYS",
+          "url": "https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t"
+        }
+      ],
+      "duration_ms": 241578,
+      "name": "What's Up!!",
+      "url": "https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4"
@@ -829,7 +813,7 @@
       "url": "https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r"
     },
     {
-      "added_at": "2024-07-30 15:00:00",
+      "added_at": "2024-08-06 17:54:09",
       "album": {
         "name": "\u30d4\u30a2\u30b9",
         "url": "https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE"
@@ -843,6 +827,26 @@
       "duration_ms": 197933,
       "name": "\u30d4\u30a2\u30b9",
       "url": "https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI"
+    },
+    {
+      "added_at": "2024-08-06 17:54:09",
+      "album": {
+        "name": "366\u65e5",
+        "url": "https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        },
+        {
+          "name": "\u8207\u90a3\u57ce\u5968",
+          "url": "https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly"
+        }
+      ],
+      "duration_ms": 350700,
+      "name": "366\u65e5",
+      "url": "https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA"
     }
   ],
   "unique_name": "Boys Group Japan",

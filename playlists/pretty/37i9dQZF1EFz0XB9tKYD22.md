@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 311 songs - 18 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 311 songs - 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 243 | [Sunday Paper](https://open.spotify.com/track/6KgRxOcqfmspwIeNbdoHPA) | [Calaisa](https://open.spotify.com/artist/1LbgoQujblOd8uXOQeS977) | [Calaisa](https://open.spotify.com/album/0EM1ygtvyr5WkKbjgE8W54) | 2:58 |
 | 244 | [You Were Just Here](https://open.spotify.com/track/2GLiyuv81cBc4srbQwksLX) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Delicious Surprise](https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb) | 3:27 |
 | 245 | [Sky Full Of Stars](https://open.spotify.com/track/7is31jFJdTZyB1T5f5sWyK) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Sky Full Of Stars](https://open.spotify.com/album/61YQphetN76rhyTm9hxPsR) | 3:37 |
-| 246 | [The Story Of My Life](https://open.spotify.com/track/0bGMqMbzmmUl2y5RGHJxZW) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 4:22 |
-| 247 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
+| 246 | [All My Ghosts](https://open.spotify.com/track/1zX3yr9Cb5ZmnM8AJJByCS) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 4:22 |
+| 247 | [The Story Of My Life](https://open.spotify.com/track/0bGMqMbzmmUl2y5RGHJxZW) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Call Me Crazy](https://open.spotify.com/album/0KXK77Q3lYrmzqSnFvtBfW) | 4:22 |
 | 248 | [Let Her Go](https://open.spotify.com/track/6GTiLfDygM7euChFBDDjOb) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [Let Her Go](https://open.spotify.com/album/6BzP690n4yPUBxfMg8w8Xt) | 3:19 |
 | 249 | [Breaking Records](https://open.spotify.com/track/72FNsFFDdqEo33zpQOvuKi) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Grace & Grit](https://open.spotify.com/album/1DkXrCQ2RrEZBX9dlEXY3k) | 3:53 |
 | 250 | [Straight To The Bone](https://open.spotify.com/track/74tSY8ywhMkqzW0ivzLk3K) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Hits And More](https://open.spotify.com/album/6qP0ktcSi5AOcDIAMwCxXu) | 4:17 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 310 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
 | 311 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 
-Snapshot ID: `AbYorAAAAAAu02JuC2gTTQsaMl+DdXsR`
+Snapshot ID: `AbYuiAAAAABHUxt1aE+KVTcZISryUn+V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,242 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,241 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 27 | [Hippie Radio](https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man](https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx) | 2:54 |
 | 28 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 |
 | 29 | [Losing Side of Twenty Five](https://open.spotify.com/track/2PXumYrwMjU2lF5yxFVYhs) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Wolves](https://open.spotify.com/album/37qnyTNIEoahRSVaNzcKMK) | 3:34 |
-| 30 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
-| 31 | [Rodeo Clown](https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 2](https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK) | 3:13 |
-| 32 | [Ain't A Road Too Long](https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Providence Canyon](https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj) | 3:41 |
+| 30 | [Ain't A Road Too Long](https://open.spotify.com/track/61KyJ3aQJYu4tpJEmQOHdw) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Providence Canyon](https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj) | 3:41 |
+| 31 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 32 | [Rodeo Clown](https://open.spotify.com/track/0rbXbCiZAocA7bYP8JbQx2) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer, Vol\. 2](https://open.spotify.com/album/4UvP4sa5O6YQP1xr7Yb1xK) | 3:13 |
 | 33 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
 | 34 | [Hope the High Road](https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:03 |
 | 35 | [Make It A Good One](https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 3:25 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 73 | [Loud and Heavy](https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19) | 3:49 |
 | 74 | [Heading South](https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp) | 2:51 |
 | 75 | [The Luckier You Get](https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [The Luckier You Get](https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP) | 3:01 |
-| 76 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
+| 76 | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr) | 3:44 |
 | 77 | [Be There](https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 3:06 |
-| 78 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
-| 79 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/24rXTPooQ6LoF0o3djEdYj) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0sqerD9BSgS3tuD7tEPD3M) | 4:40 |
+| 78 | [Somebody's Daughter](https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Somebody's Daughter](https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I) | 3:46 |
+| 79 | [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 |
 | 80 | [God Speed](https://open.spotify.com/track/2NkPawxG0L9hSrB1wU2D3z) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/3YYZIztXVAGgWTnoNsK1XA) | 4:13 |
 
 Snapshot ID: `ZgGsBwAAAABZ7/Ex5TGWDl9l7m/fzTCn`

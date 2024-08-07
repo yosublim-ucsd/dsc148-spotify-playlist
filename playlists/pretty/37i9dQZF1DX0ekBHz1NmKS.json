@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Jacqline",
-  "num_followers": 195637,
+  "num_followers": 195631,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "V\u00e5t cigg",
-        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "V\u00e5t cigg",
-      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Som du r\u00f6r dig",
         "url": "https://open.spotify.com/album/6leT3esDbYQrR47KUGgEM7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 133933,
       "name": "Som du r\u00f6r dig",
       "url": "https://open.spotify.com/track/2wzXMY7p5Y5eXh7pDznhKM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "V\u00e5t cigg",
+        "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "V\u00e5t cigg",
+      "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Sprit & Blondiner",
         "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 203571,
       "name": "Sprit & Blondiner",
       "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 195187,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Vilken del av oss gick fel?",
         "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        },
-        {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 195187,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Tysta Leken",
         "url": "https://open.spotify.com/album/1bRVrtj926Vp6Zdysyif1p"
       },
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Pappa",
+        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
+      },
+      "artists": [
+        {
+          "name": "Atmosf\u00e4r",
+          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Pappa",
+      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 177200,
       "name": "Flyttat d\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Pappa",
-        "url": "https://open.spotify.com/album/15NiHKbQoeA3poJIq7TxBM"
-      },
-      "artists": [
-        {
-          "name": "Atmosf\u00e4r",
-          "url": "https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Pappa",
-      "url": "https://open.spotify.com/track/6oHZYJdNPWSFnOjigxUc78"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
+      },
+      "artists": [
+        {
+          "name": "Josefine Ridell",
+          "url": "https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8"
+        }
+      ],
+      "duration_ms": 188495,
+      "name": "Only Heart That's Bleeding",
+      "url": "https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "En v\u00e4n som du",
         "url": "https://open.spotify.com/album/6O978opVcr08Fw4uoXSFW9"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 198461,
       "name": "En v\u00e4n som du",
       "url": "https://open.spotify.com/track/3A02QRPJAWHPgk1UTP1TGM"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "ITU",
+        "url": "https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V"
+      },
+      "artists": [
+        {
+          "name": "Gamebojj",
+          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
+        }
+      ],
+      "duration_ms": 139928,
+      "name": "ITU",
+      "url": "https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1279,22 +1311,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "ITU",
-        "url": "https://open.spotify.com/album/1XGtPfBQiibTyAciRath3V"
-      },
-      "artists": [
-        {
-          "name": "Gamebojj",
-          "url": "https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j"
-        }
-      ],
-      "duration_ms": 139928,
-      "name": "ITU",
-      "url": "https://open.spotify.com/track/76QeAjK4hohWISYPPRG6aB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Underbart \u00e4r kort",
         "url": "https://open.spotify.com/album/3DLq7TpZfPda8HtNA8CIsx"
       },
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca & Fiona",
-          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
-        }
-      ],
-      "duration_ms": 242276,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 231346,
       "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7hmdO5DOqskwVbiLPs2YGV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca & Fiona",
+          "url": "https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75"
+        }
+      ],
+      "duration_ms": 242276,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/7GK7HWp2xsLkVGU2apwFan"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "When You Were Mine",
-        "url": "https://open.spotify.com/album/4M24A6zHYnqqZAOjta3FjC"
-      },
-      "artists": [
-        {
-          "name": "Josefine Ridell",
-          "url": "https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8"
-        }
-      ],
-      "duration_ms": 188495,
-      "name": "Only Heart That's Bleeding",
-      "url": "https://open.spotify.com/track/5Uyh904h8oFtT7MsrEDFNc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Imagine Paradise",
         "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
-        }
-      ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1563,58 +1547,6 @@
       "duration_ms": 189583,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sommarens famn",
-        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 174631,
-      "name": "Sommarens famn",
-      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Born a Riot",
-        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
-      },
-      "artists": [
-        {
-          "name": "DAKOO",
-          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
-        }
-      ],
-      "duration_ms": 159764,
-      "name": "Born a Riot",
-      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Draw Me Closer 2.0",
-        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
-      },
-      "artists": [
-        {
-          "name": "Christoffer Hiding",
-          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
-        },
-        {
-          "name": "Chapee",
-          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
-        }
-      ],
-      "duration_ms": 309166,
-      "name": "Draw Me Closer 2.0",
-      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1635,6 +1567,74 @@
       "duration_ms": 158181,
       "name": "Jag vill ha dig HETT",
       "url": "https://open.spotify.com/track/4lBC21w1qJvrUeZGBdN8NZ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+        }
+      ],
+      "duration_ms": 176776,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Born a Riot",
+        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
+      },
+      "artists": [
+        {
+          "name": "DAKOO",
+          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
+        }
+      ],
+      "duration_ms": 159764,
+      "name": "Born a Riot",
+      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Sommarens famn",
+        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 174631,
+      "name": "Sommarens famn",
+      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Draw Me Closer 2.0",
+        "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
+      },
+      "artists": [
+        {
+          "name": "Christoffer Hiding",
+          "url": "https://open.spotify.com/artist/5JLv8I5m5yPUC7Tnw36g7a"
+        },
+        {
+          "name": "Chapee",
+          "url": "https://open.spotify.com/artist/1l63szZeUpN1m87MOD1u7K"
+        }
+      ],
+      "duration_ms": 309166,
+      "name": "Draw Me Closer 2.0",
+      "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
       "added_at": "2024-06-27 22:00:00",

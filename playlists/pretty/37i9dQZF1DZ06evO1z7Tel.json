@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 32661,
+  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
+  "num_followers": 32672,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADn6y2tJE2h+V8Vfvacze2p",
+  "snapshot_id": "ZrAWAAAAAADTuSxOzumAdsPLFC9jLTyf",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 165280,
-      "name": "El Rayo De Sinaloa",
-      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
+      "duration_ms": 164053,
+      "name": "Jorge Y El Comandante",
+      "url": "https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 164053,
-      "name": "Jorge Y El Comandante",
-      "url": "https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG"
+      "duration_ms": 165280,
+      "name": "El Rayo De Sinaloa",
+      "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Otro Amor",
         "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
@@ -644,9 +628,25 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Con Cartitas",
-      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
+      "duration_ms": 193567,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,

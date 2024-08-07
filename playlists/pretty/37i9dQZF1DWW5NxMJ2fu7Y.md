@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,755 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,791 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
-| 2 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 |
-| 3 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
-| 4 | [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 |
-| 5 | [Sacrifice](https://open.spotify.com/track/2FKXYXYUzmR7eHZmJLWggj) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Black Rose](https://open.spotify.com/album/0fvgRVxvuHOZJdJgjez8EM) | 3:13 |
-| 6 | [Kan Kits7abhoum](https://open.spotify.com/track/1mQj46mzQdL5Cru6Wor8Sx) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 4:30 |
-| 7 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 |
-| 8 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 |
+| 1 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 |
+| 2 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 |
+| 3 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 |
+| 4 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
+| 5 | [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 |
+| 6 | [Sacrifice](https://open.spotify.com/track/2FKXYXYUzmR7eHZmJLWggj) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Black Rose](https://open.spotify.com/album/0fvgRVxvuHOZJdJgjez8EM) | 3:13 |
+| 7 | [Kan Kits7abhoum](https://open.spotify.com/track/1mQj46mzQdL5Cru6Wor8Sx) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 4:30 |
+| 8 | [Ah Bon](https://open.spotify.com/track/0yYoSGrzF15p22ow5wbcSJ) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Ah Bon](https://open.spotify.com/album/0qSLkM5OH8bhCkyxPwEGxC) | 3:42 |
 | 9 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 |
 | 10 | [Kfaya](https://open.spotify.com/track/5FRBGBRj7uF3YkkTPZr6iP) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Kfaya](https://open.spotify.com/album/74htAwUDmZoyck8bfVmhNr) | 3:30 |
 | 11 | [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 |
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 42 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 |
 | 43 | [Cactus](https://open.spotify.com/track/0iXa48XpxfpfJCHZg54Mwk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Cactus](https://open.spotify.com/album/1iGBzkAEeVfMuhoagrgEsP) | 3:41 |
 | 44 | [Light](https://open.spotify.com/track/7B81kYMqsw0gMWtghdo7Q6) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:28 |
-| 45 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
-| 46 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
-| 47 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 |
-| 48 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
-| 49 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 |
-| 50 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
+| 45 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
+| 46 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 |
+| 47 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 |
+| 48 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 |
+| 49 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 
-Snapshot ID: `ZqwhgAAAAACNzUh/AYH2XRZtf82G5Ka9`
+Snapshot ID: `ZrHD7AAAAAAl9sQEC9G5tFbKA4Fy8K1c`

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0urPQk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is Nana Mizuki\. The essential tracks, all in one playlist.
+> This is 水樹奈々\. The essential tracks, all in one playlist.
 
-116 songs - 8 hr 11 min
+117 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Invisible Heat](https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 4:27 | 2022-06-09 | 2023-09-13 |
 | [Justice to Believe](https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Justice to Believe/アオイイロ](https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av) | 5:02 | 2022-06-09 | 2023-02-01 |
 | [Level Hi!](https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SECRET AMBITION](https://open.spotify.com/album/2M97BLXBpREKzRgChj527r) | 3:43 | 2024-07-05 |  |
-| [Link or Chains](https://open.spotify.com/track/3KSIV445te911EhHIn25Pn) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Link or Chains](https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4) | 3:44 | 2024-07-02 |  |
+| [Link or Chains](https://open.spotify.com/track/3KSIV445te911EhHIn25Pn) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Link or Chains](https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4) | 3:44 | 2024-07-02 | 2024-08-07 |
 | [Link or Chains](https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:45 | 2022-07-23 | 2022-10-07 |
 | [Love Fight!](https://open.spotify.com/track/3U8eJXgb6ciqcb347KYOwm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:27 | 2023-09-09 | 2023-09-11 |
 | [MARIA&JOKER](https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:11 | 2022-08-09 | 2022-09-02 |
@@ -121,6 +121,7 @@
 | [終末のラブソング](https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [エデン](https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI) | 3:57 | 2022-06-09 |  |
 | [結界](https://open.spotify.com/track/5i4Z1BDoVoL8D8sczmwhmu) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [WONDER QUEST EP](https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3) | 4:14 | 2022-06-09 | 2022-10-12 |
 | [絶対的幸福論](https://open.spotify.com/track/7xUn19Rgau7DnWwi1fSrie) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEOGENE CREATION](https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR) | 4:38 | 2022-06-09 | 2023-05-01 |
+| [蒼き光の果て\-ULTIMATE MODE\-](https://open.spotify.com/track/5Uf9xVzD2h4HYr0kNyCBQK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:27 | 2024-08-07 |  |
 | [迷宮バタフライ\-diverse\-](https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 5:04 | 2022-06-11 | 2023-07-11 |
 | [革命デュアリズム](https://open.spotify.com/track/4DLJ9irMfkzSdr7EfjhxHx) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:03 | 2022-06-09 |  |
 | [革命デュアリズム \-アニメバージョン\-](https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [革命デュアリズム](https://open.spotify.com/album/2PC0pafvHcNe9j66iGfwQv) | 1:31 | 2022-06-09 | 2024-06-24 |

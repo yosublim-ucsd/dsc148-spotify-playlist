@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,052 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,073 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 66 | [Dame Tu Querer](https://open.spotify.com/track/1Yc1LJO98ivNjwB94AfODf) | [Los Ocho De Colombia](https://open.spotify.com/artist/60xSkF4ZZ7Grsov9spiUEO) | [Historia Musical de los Ocho de Colombia](https://open.spotify.com/album/0wLFj3QG1gd34XYjHSJCTq) | 4:07 |
 | 67 | [Sufro por Este Amor \(Baile de la Quebradita\)](https://open.spotify.com/track/50pqdArO9o1AZx4C4eQ0TH) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [El Baile de la Quebradita](https://open.spotify.com/album/1vRkuGwrTKgOcSPOGwOTSV) | 3:56 |
 | 68 | [Las Calaveras](https://open.spotify.com/track/1JpeagoyT9ax1fZlGyXrCR) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Historia Musical de Latin Brothers](https://open.spotify.com/album/3jjm4AU9sojwfHVH4zHXll) | 4:46 |
-| 69 | [Los Camarones](https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Homenaje a los Alegres Vallenatos](https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE) | 2:19 |
+| 69 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
 | 70 | [Encanto](https://open.spotify.com/track/3AxARmSZAUeLbeXNfEAYFv) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM), [Elkin Serna](https://open.spotify.com/artist/2cVWJswg6JyYxrtfwo4nun) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:02 |
-| 71 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/3GHagaqsSRMhMG8XjUXnKR) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 2:35 |
+| 71 | [Los Camarones](https://open.spotify.com/track/5LBuNwKEvl3v49kUfDLikn) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Homenaje a los Alegres Vallenatos](https://open.spotify.com/album/5QgtF4pnp5Z67fPrFXgJCE) | 2:19 |
 | 72 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
 | 73 | [Usted Es la Culpable](https://open.spotify.com/track/6ssKSM4HcodzZ1OIxAyq63) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:26 |
 | 74 | [Cayetano Baila](https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 2:49 |

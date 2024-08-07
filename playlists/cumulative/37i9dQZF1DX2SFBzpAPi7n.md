@@ -2,14 +2,14 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: MEMI\(매미\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kisnue\(키스누\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-715 songs - 1 day 19 hr 16 min
+718 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/379tO5t6C4eFENqNBF29RV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/34qIpVQVdQaaWQhBwAv5oJ) | 0:00 | 2022-04-12 | 2022-07-20 |
-| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 |  |
+| ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2024-07-02 | 2024-08-07 |
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-08 | 2022-07-10 |
 | [100 WINS](https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Chief Detective 1958 OST Part.1](https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS) | 3:25 | 2024-04-22 | 2024-05-10 |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2023-05-31 | 2023-06-14 |
@@ -140,6 +140,7 @@
 | [Dear Love](https://open.spotify.com/track/0R4i9qbhgNQjJt5tGFbslP) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Rendez\-Vous](https://open.spotify.com/album/6vK3j1RpbI17a2Tn2SqbTQ) | 5:02 | 2022-04-22 | 2022-07-14 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
+| [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-07 |  |
 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 | 2022-04-22 | 2022-07-22 |
 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 | 2022-05-24 | 2022-06-21 |
 | [DIAMOND](https://open.spotify.com/track/6uGQf0XAjHkXooeSk3fFAB) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [DIAMOND](https://open.spotify.com/album/7KE2RqHy21ZGDYNoNCTdw5) | 5:24 | 2022-09-05 | 2022-10-01 |
@@ -157,6 +158,7 @@
 | [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 | 2022-10-05 |
 | [don't leave me](https://open.spotify.com/track/5Fb64pKATb2BrH4yMPHkW3) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [don't leave me \(The Last 10 Years X TOIL, Gist\)](https://open.spotify.com/album/7C76NLb32tjJMRdZBzrALg) | 3:03 | 2024-05-21 | 2024-07-03 |
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
+| [Don't Tell My Papa](https://open.spotify.com/track/25xBTsB2GbF5ce1YgX9I1T) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Don't Tell My Papa](https://open.spotify.com/album/2Mxm0aqGb4dFaEf6kj8kFP) | 3:32 | 2024-08-07 |  |
 | [DRACULAGIRL](https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan) | [Wussami](https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi) | [DRACULAGIRL](https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC) | 3:39 | 2024-05-28 | 2024-06-06 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
@@ -290,7 +292,7 @@
 | [I.L.Y.](https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) | 3:33 | 2022-07-22 | 2023-01-04 |
 | [I.L.Y.](https://open.spotify.com/track/5MkZkFLnUrsMrVKQwqv5zV) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/0HIDsIWC43WiecL3qO7IUP) | 3:33 | 2022-04-21 | 2022-07-29 |
 | [I.L.Y.](https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk) | 3:42 | 2023-01-10 | 2023-07-25 |
-| [ice sea](https://open.spotify.com/track/24HGQKvNuXORD8m4kvUAaY) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [ice sea](https://open.spotify.com/album/0zlDKtTQjbHk1dOBWIsenR) | 4:57 | 2024-07-23 |  |
+| [ice sea](https://open.spotify.com/track/24HGQKvNuXORD8m4kvUAaY) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [ice sea](https://open.spotify.com/album/0zlDKtTQjbHk1dOBWIsenR) | 4:57 | 2024-07-23 | 2024-08-07 |
 | [ICN > YVR](https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [ICN > YVR](https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi) | 2:25 | 2023-11-23 | 2024-05-10 |
 | [If I were rich](https://open.spotify.com/track/6jHc4ETMA0MVnwwaFkt2zp) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK), [Ravi](https://open.spotify.com/artist/33Cti7pK8o3exjycH47Xk5) | [If I were rich](https://open.spotify.com/album/36uTV3j8uvWe4aRbdDBDQH) | 3:19 | 2022-04-12 | 2022-07-26 |
 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 | 2022-10-02 | 2022-10-19 |
@@ -452,7 +454,7 @@
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |
 | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz) | 3:07 | 2023-06-13 | 2023-06-23 |
-| [PLUTO](https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2024-06-05 |  |
+| [PLUTO](https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2024-06-05 | 2024-08-07 |
 | [Polaroid](https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 3:26 | 2022-11-17 | 2023-04-06 |
 | [Police Class](https://open.spotify.com/track/0jdXQM3NDFpxLz1ZH4XvCK) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6GyojMQTX2rSgtNsYdyO8N) | 3:31 | 2022-04-12 | 2022-07-17 |
 | [Poor Little Cake](https://open.spotify.com/track/4BBHp4LONJ886Sgav5ed4L) | [Kim Seung Joo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KOSHIEN](https://open.spotify.com/album/27V5Zkabh3T1YQJjdwV8Gb) | 3:33 | 2024-04-09 | 2024-05-10 |
@@ -508,6 +510,7 @@
 | [Rushlight](https://open.spotify.com/track/6yXyBbBNlgQmnHwlbQ64vp) | [Hanjoo Kim](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Rushlight\(Hope or Dope2 Original Soundtrack\)](https://open.spotify.com/album/0LyLWDW6EqAyCjZgxHkeJj) | 4:34 | 2022-06-13 | 2022-07-15 |
 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 | 2024-04-09 | 2024-05-10 |
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
+| [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 |  |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 |  |
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-12 | 2023-08-04 |

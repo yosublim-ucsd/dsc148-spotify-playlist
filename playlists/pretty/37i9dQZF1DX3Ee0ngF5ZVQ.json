@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Silverada",
-  "num_followers": 411392,
+  "num_followers": 411384,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Long Ride In A Short Bed",
+        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        },
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 216341,
+      "name": "Long Ride In A Short Bed",
+      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Learnin' my Lesson",
         "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 184867,
       "name": "Keep Lookin' Down The Road",
       "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Long Ride In A Short Bed",
-        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        },
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 216341,
-      "name": "Long Ride In A Short Bed",
-      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Here's To You. Here's To Me.",
         "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 182318,
       "name": "Tennessee Drinkin'",
       "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+        "name": "What's Left of My Heart",
+        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
         }
       ],
-      "duration_ms": 219163,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+      "duration_ms": 157083,
+      "name": "What's Left Of My Heart",
+      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1479,22 +1479,6 @@
       "duration_ms": 207893,
       "name": "Don\u2019t Mess With Exes",
       "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "What's Left of My Heart",
-        "url": "https://open.spotify.com/album/4OKDR3Qzo1FNKwVWklJjiI"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 157083,
-      "name": "What's Left Of My Heart",
-      "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1527,6 +1511,22 @@
       "duration_ms": 255159,
       "name": "The Greys Between",
       "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1603,42 +1603,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "All I Wanna Do Is Drink",
-        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "All I Wanna Do Is Drink",
-      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Burn The Ground",
-        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
-      },
-      "artists": [
-        {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "How To Love You",
-      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1655,22 +1619,6 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Too Many Honky Tonks",
-        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 193050,
-      "name": "Too Many Honky Tonks",
-      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1707,22 +1655,54 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
-        "url": "https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG"
+        "name": "Too Many Honky Tonks",
+        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
       },
       "artists": [
         {
-          "name": "Larry Fleet",
-          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
-        },
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 195398,
-      "name": "Quittin' Ain't Workin' (feat. Mike Ryan)",
-      "url": "https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz"
+      "duration_ms": 193050,
+      "name": "Too Many Honky Tonks",
+      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "All I Wanna Do Is Drink",
+        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "All I Wanna Do Is Drink",
+      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Burn The Ground",
+        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
+      },
+      "artists": [
+        {
+          "name": "Mason Lively",
+          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "How To Love You",
+      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1743,6 +1723,26 @@
       "duration_ms": 212946,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
     }
   ],
   "unique_name": "Texas Country Now",

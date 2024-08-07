@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: JØRD
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,860 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,859 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 5 | [DREAM](https://open.spotify.com/track/3DIhIFClJnFyEdxj2ONqlw) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [DREAM](https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn) | 2:40 |
 | 6 | [Lights](https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Lights](https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr) | 3:53 |
 | 7 | [Music To Myself](https://open.spotify.com/track/0y1EyWihaibBQGeD5K0Hiv) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Clara Sofie](https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4) | [Music To Myself](https://open.spotify.com/album/4LZar79sP34vpGRmAwyfTv) | 2:29 |
-| 8 | [N'body Problem](https://open.spotify.com/track/0rIxrPwnnsCiX41CisWQ6w) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [N'body Problem](https://open.spotify.com/album/3TQ1nhXszSTdximyTVYITi) | 2:22 |
+| 8 | [N'body Problem](https://open.spotify.com/track/0rIxrPwnnsCiX41CisWQ6w) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [N'Body Problem \(feat\. Brave Culture\)](https://open.spotify.com/album/3TQ1nhXszSTdximyTVYITi) | 2:22 |
 | 9 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 |
 | 10 | [What You Want](https://open.spotify.com/track/5aoy0Xf1ojp3NAaRImuEz8) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Gustavo Koch](https://open.spotify.com/artist/3d81jYgc8CxZ0dN0KC5k6w), [A.IFF](https://open.spotify.com/artist/34qFUgffoclkPOTcCarEiC) | [What You Want](https://open.spotify.com/album/2MV109Ut6kpE4V1DeYw9kS) | 3:50 |
 | 11 | [Scarlett](https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Scarlett](https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv) | 3:12 |

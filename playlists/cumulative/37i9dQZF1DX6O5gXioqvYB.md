@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Lucrezia
 
-113 songs - 5 hr 26 min
+114 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [DIMEDITE](https://open.spotify.com/track/3ZdJA0Fcf7UtlCOjSPLP1N) | [PVTRA](https://open.spotify.com/artist/2nGnEStqjgEw2wGpVk7GMX) | [DIMEDITE](https://open.spotify.com/album/5cI9Q2szBMyGNlQXctG08e) | 3:19 | 2024-06-27 | 2024-07-05 |
 | [Disordine](https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Disordine](https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N) | 2:58 | 2024-07-18 |  |
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 |  |
-| [Eclisse Twist](https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR) | [Guidobaldi](https://open.spotify.com/artist/2zgFe8Mm2pUdykATzPcjva) | [Eclisse Twist](https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy) | 2:57 | 2024-06-27 |  |
+| [Eclisse Twist](https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR) | [Guidobaldi](https://open.spotify.com/artist/2zgFe8Mm2pUdykATzPcjva) | [Eclisse Twist](https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy) | 2:57 | 2024-06-27 | 2024-08-07 |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-06-27 | 2024-07-19 |
 | [Estate infinita](https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Andare, tornare](https://open.spotify.com/album/10lbkXiO0z7BzlpX2tGUFf) | 3:09 | 2024-06-27 |  |
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
@@ -70,6 +70,7 @@
 | [Mariù](https://open.spotify.com/track/6jK5DrUCGwQAnsAEODR3r4) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Mariù](https://open.spotify.com/album/4z05lOnsXxT3eiXA3mKkft) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [MEGA LIMONE](https://open.spotify.com/track/1SlFveNB8qOsydb3A145Z8) | [CALICE](https://open.spotify.com/artist/7Alkpa4UYC4Ly1A9hRUb5V), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [MEGA LIMONE](https://open.spotify.com/album/3E3ufDQYrZxqkHXhcJgtYJ) | 2:32 | 2024-06-27 | 2024-07-19 |
 | [MEGAGALATTICO](https://open.spotify.com/track/4Mwq2uShIgIPKqxr2v14cG) | [CRETA](https://open.spotify.com/artist/2GoVj8Yh4VGg4JibTBLAXS) | [MEGAGALATTICO](https://open.spotify.com/album/7bqOe8aw1dOfCOTMxF9wuF) | 2:40 | 2024-06-27 | 2024-07-12 |
+| [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 |  |
 | [MONDO CONVENIENZA](https://open.spotify.com/track/0IKSHbq0ArWlTbvdP0fxAq) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [MONDO CONVENIENZA](https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [Mosche](https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Mosche](https://open.spotify.com/album/7H4vm4CBeNtkjGRzBzPpOE) | 2:35 | 2024-07-25 |  |
 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 | 2024-06-27 |  |

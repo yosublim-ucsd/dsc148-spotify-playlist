@@ -1,6 +1,6 @@
 {
   "description": "Can't stop, won't stop! Cover: Ufo361",
-  "num_followers": 142313,
+  "num_followers": 142326,
   "original_name": "DREAMCHASERS",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
+        "name": "Ich w\u00fcnschte, es w\u00fcrd' mich k\u00fcmmern",
+        "url": "https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "duration_ms": 132125,
+      "name": "Diamantstein",
+      "url": "https://open.spotify.com/track/3UhJb0BOiY6joXpAANMe9R"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
         "name": "Scary (feat. Aitch)",
         "url": "https://open.spotify.com/album/35Fe3Uvw64VWPPYLdf9Ts9"
       },
@@ -627,26 +643,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "EWIGKEIT",
-        "url": "https://open.spotify.com/album/2xWhgzAtUIf8tL32eoaD2x"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 117320,
-      "name": "EWIGKEIT",
-      "url": "https://open.spotify.com/track/55BabkNtx4kGFMehbr2355"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Take it",
         "url": "https://open.spotify.com/album/3W3co9SDAzroZoUME3aaZ3"
       },
@@ -663,18 +659,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Ich w\u00fcnschte, es w\u00fcrd' mich k\u00fcmmern",
-        "url": "https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW"
+        "name": "EWIGKEIT",
+        "url": "https://open.spotify.com/album/2xWhgzAtUIf8tL32eoaD2x"
       },
       "artists": [
         {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
         }
       ],
-      "duration_ms": 132125,
-      "name": "Diamantstein",
-      "url": "https://open.spotify.com/track/3UhJb0BOiY6joXpAANMe9R"
+      "duration_ms": 117320,
+      "name": "EWIGKEIT",
+      "url": "https://open.spotify.com/track/55BabkNtx4kGFMehbr2355"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "NO SPECIAL DAY",
-        "url": "https://open.spotify.com/album/3BeACFo1DTgPBAgixdW8sq"
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
       },
       "artists": [
         {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        },
-        {
-          "name": "Endzone",
-          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
         }
       ],
-      "duration_ms": 165230,
-      "name": "NO SPECIAL DAY",
-      "url": "https://open.spotify.com/track/5VsWmjQcBtbiuopvAWyjYJ"
+      "duration_ms": 167889,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Let me love you",
-        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+        "name": "NO SPECIAL DAY",
+        "url": "https://open.spotify.com/album/3BeACFo1DTgPBAgixdW8sq"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
         }
       ],
-      "duration_ms": 167889,
-      "name": "Let me love you",
-      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+      "duration_ms": 165230,
+      "name": "NO SPECIAL DAY",
+      "url": "https://open.spotify.com/track/5VsWmjQcBtbiuopvAWyjYJ"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Lonlee",
-        "url": "https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb"
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
       },
       "artists": [
         {
-          "name": "Pajel",
-          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
         }
       ],
-      "duration_ms": 170607,
-      "name": "Nostalgie",
-      "url": "https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M"
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1395,18 +1391,38 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+        "name": "Lonlee",
+        "url": "https://open.spotify.com/album/5arNpuwGmkczhRMerGHaWb"
       },
       "artists": [
         {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+      "duration_ms": 170607,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/6AUuQdsDyBzF65zw4cjG5M"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Jerry & Tom",
+        "url": "https://open.spotify.com/album/5XQAaHdqTMcx6Xratisi09"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "Jerry & Tom",
+      "url": "https://open.spotify.com/track/6wm7nuIQTOjviSpkk22F87"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1427,22 +1443,6 @@
       "duration_ms": 180000,
       "name": "lana del rey",
       "url": "https://open.spotify.com/track/6amXqG5jwyO6PI4SQtRRt1"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Jerry & Tom",
-        "url": "https://open.spotify.com/album/5XQAaHdqTMcx6Xratisi09"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 180140,
-      "name": "Jerry & Tom",
-      "url": "https://open.spotify.com/track/6wm7nuIQTOjviSpkk22F87"
     },
     {
       "added_at": "2024-07-25 22:00:00",

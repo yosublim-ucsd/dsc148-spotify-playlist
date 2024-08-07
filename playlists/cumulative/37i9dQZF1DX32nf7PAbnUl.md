@@ -4,7 +4,7 @@
 
 > Le son des chichas !
 
-77 songs - 3 hr 58 min
+79 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Joli bébé](https://open.spotify.com/track/6ARJHbYGKNatxHVghTkWWp) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Joli bébé](https://open.spotify.com/album/5chNwCslLpT6N0wPBY5rNx) | 2:58 | 2023-08-08 |  |
 | [Jolie demoiselle](https://open.spotify.com/track/4qdRH3I8RsPdfXFswlQzMc) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Jolie demoiselle](https://open.spotify.com/album/5BmOoqMBvP9WbC92ph7nqE) | 3:01 | 2023-08-08 | 2023-09-30 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-09-29 | 2024-03-14 |
-| [Jota](https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:44 | 2024-01-05 | 2024-02-16 |
+| [Jota](https://open.spotify.com/track/6Fnriu0MGPeYMZ6l8GkWZm) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:44 | 2024-01-05 |  |
 | [La clé](https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La clé](https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA) | 2:55 | 2023-08-08 | 2024-02-16 |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2023-08-08 | 2024-08-06 |
 | [La machine](https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:03 | 2024-01-05 | 2024-07-13 |
@@ -58,6 +58,7 @@
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2024-06-06 |  |
 | [Nocif](https://open.spotify.com/track/7FeWKPL2gj7xIRv5gyHejU) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nocif](https://open.spotify.com/album/4aPOkge6RO4vsrI31pX6Hy) | 3:49 | 2023-09-29 |  |
 | [Nouvelles](https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:59 | 2023-12-01 |  |
+| [Olala \(feat\. Naza\)](https://open.spotify.com/track/5M2CMmyYb0GrmUCxFxhycX) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Olala \(feat\. Naza\)](https://open.spotify.com/album/2zFuzuLOoOxCYvmQ57Td2w) | 2:51 | 2024-08-06 |  |
 | [Oublie\-moi](https://open.spotify.com/track/2MNKcFgf3wCLeE9pb44hOm) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Coeur ouvert](https://open.spotify.com/album/0QEGWT2rxEPmNmjnClMYVi) | 2:58 | 2023-08-08 | 2023-09-30 |
 | [Panama](https://open.spotify.com/track/2HimJmsy7QZOauXXvlCd2m) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:45 | 2024-07-12 |  |
 | [Parabellum](https://open.spotify.com/track/4bBRs90EOLh9ydBDsH3mgu) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Parabellum](https://open.spotify.com/album/0ghjB2aqTW2WVtuIuR5Psb) | 2:34 | 2024-02-15 | 2024-07-13 |
@@ -76,13 +77,14 @@
 | [Sheitana \(feat\. Ninho\)](https://open.spotify.com/track/1GOIfWQmA3Tp6GlwcCd35K) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Dans les yeux](https://open.spotify.com/album/7Fr1UbMBBjPBYOOy7NQmkl) | 3:19 | 2023-08-08 |  |
 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 | 2023-08-08 | 2023-12-02 |
 | [TDB](https://open.spotify.com/track/27Z3UdqvdAhtJlWBMoDjBD) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [TDB](https://open.spotify.com/album/0kdOCmgb1ZikkxZvVmiED3) | 2:34 | 2023-08-08 |  |
+| [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 | 2024-08-06 |  |
 | [Toko Toko](https://open.spotify.com/track/11jljbDlwqMyvQdepjse5G) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Toko Toko](https://open.spotify.com/album/3Op7cAYJ0VWN4NUAgICcMQ) | 2:54 | 2023-08-08 | 2023-12-02 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2023-08-08 | 2024-06-07 |
 | [TRAFICANTE](https://open.spotify.com/track/2nawMfIkbAc4okrbJ2Of5W) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [TRAFICANTE](https://open.spotify.com/album/0nPeXkFd5aPLew3VihbbQm) | 3:07 | 2023-08-08 |  |
 | [Trucs de choses](https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Trucs de choses](https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm) | 2:54 | 2023-08-08 |  |
 | [Tu le sais](https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tu le sais](https://open.spotify.com/album/6cPtIMxznYVT2LUH49rd5z) | 3:42 | 2023-08-08 |  |
 | [Vamos](https://open.spotify.com/track/5QowMIujytktMDC8pktNXH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [La TN \(Team Naps\)](https://open.spotify.com/album/7MNbcWeCe5gCt3PdMXFXeI) | 4:01 | 2023-08-08 | 2024-01-06 |
-| [VIBES](https://open.spotify.com/track/6Xp82kv8pd7GVvpjYdgMdx) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:14 | 2024-06-06 |  |
+| [VIBES](https://open.spotify.com/track/6Xp82kv8pd7GVvpjYdgMdx) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:14 | 2024-06-06 | 2024-08-07 |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2024-02-15 | 2024-04-13 |
 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-13 | 2024-04-13 |
 

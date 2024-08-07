@@ -16185,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "Brandish The Blade",
+        "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
+      },
+      "artists": [
+        {
+          "name": "Undeath",
+          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Brandish The Blade",
+      "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
+    },
+    {
+      "album": {
         "name": "Unison Life",
         "url": "https://open.spotify.com/album/60DKd6JfoatLAE9c2z03ac"
       },
@@ -67120,6 +67138,10 @@
         {
           "name": "Inertia",
           "url": "https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g"
+        },
+        {
+          "name": "Jacob Charlton",
+          "url": "https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s"
         }
       ],
       "date_added": "2024-08-02",

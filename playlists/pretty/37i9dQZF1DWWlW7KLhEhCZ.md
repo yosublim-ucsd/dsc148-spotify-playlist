@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,274 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,252 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bebê](https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Bebê](https://open.spotify.com/album/0DzH6XjlTm6RIdTAIDQaUf) | 3:02 |
+| 1 | [bb!](https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [bb!](https://open.spotify.com/album/0DzH6XjlTm6RIdTAIDQaUf) | 3:02 |
 | 2 | [Sujeito de Sorte](https://open.spotify.com/track/1BNcWJlDHCkdq44p4xuRLW) | [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH) | [Sujeito de Sorte](https://open.spotify.com/album/2tlIDmMjCdIgP9KTZRritN) | 2:00 |
 | 3 | [Dialeto Delinquente](https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:16 |
 | 4 | [WORKSHOP](https://open.spotify.com/track/2Qr23jliYkdIH46pUWBGLu) | [Kayin](https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [KAREN$](https://open.spotify.com/album/5h2YZMY6BW13byZl9cTVwU) | 1:49 |

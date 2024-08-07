@@ -4,7 +4,7 @@
 
 > did you guess billie x charli x the dare x dylan brady?  cover: Charli xcx & Billie Eilish
 
-2,909 songs - 6 day 13 hr 7 min
+2,910 songs - 6 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
 | [Broke Mine Too](https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [PEE](https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS) | 3:48 | 2022-11-11 | 2023-04-20 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-05-11 |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 |  |
 | [Brother](https://open.spotify.com/track/4e8Eqj6ynTG5HjewvBaVH3) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Sand Radio / Brother](https://open.spotify.com/album/4nYcuk8KMLHgeRgjhLCY57) | 3:23 | 2022-04-09 | 2022-04-23 |
 | [Brown Eyes and Backwoods](https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Brown Eyes and Backwoods](https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG) | 2:58 | 2022-01-21 | 2022-04-09 |
 | [Bruise](https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [I Love My Girl, She's My Boy](https://open.spotify.com/album/6CS7IxjsKQAamJTVWvQWOF) | 2:59 | 2023-08-25 | 2024-02-15 |
@@ -2121,7 +2122,7 @@
 | [Saving Grace](https://open.spotify.com/track/2ULM1nq5MSVp0QE1anwcbT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Running on Mercy](https://open.spotify.com/album/1HJ9fWCIDXrORYph9y3D4b) | 2:59 | 2021-05-03 | 2022-01-08 |
 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 | 2021-07-17 | 2021-07-29 |
 | [Savior Complex](https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 4:01 | 2020-08-20 | 2020-08-21 |
-| [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 | 2024-08-01 |  |
+| [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 | 2024-08-01 | 2024-08-07 |
 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 | 2022-05-27 | 2022-10-13 |
 | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/track/4677jRCDMa05jcA94EQ0hG) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Say It \- Spotify Studio Oyster Recording](https://open.spotify.com/album/2uAuylgnp2HX5mLl3M5OW1) | 2:53 | 2020-05-15 | 2020-08-20 |
 | [say it first](https://open.spotify.com/track/0XSncrobBZoW1A0bFh8Ttx) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 2:39 | 2019-11-14 | 2020-07-29 |

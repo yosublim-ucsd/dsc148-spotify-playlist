@@ -4,7 +4,7 @@
 
 > 
 
-1,942 songs - 4 day 8 hr 43 min
+1,943 songs - 4 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1906,6 +1906,7 @@
 | [wtf](https://open.spotify.com/track/3OYSWIgKXiwjutuQ4NEk1b) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 1:12 | 2021-08-05 |  |
 | [WTF](https://open.spotify.com/track/7iZw6wgm7duXlA1uT5ACxF) | [Young Spool](https://open.spotify.com/artist/0yq8vmzSViFTXmrdPeWDrB), [Jakob](https://open.spotify.com/artist/28CcJl2mUKYXWpUhLGRqpd) | [WTF](https://open.spotify.com/album/7Fsnty3Gb788dnTXTxQCld) | 1:29 | 2021-08-05 |  |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-12 |  |
+| [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 | 2024-08-06 |  |
 | [X](https://open.spotify.com/track/2W2QiVQs0TugOUUYWgnV8E) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:54 | 2022-11-03 |  |
 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 | 2021-08-05 |  |
 | [Xenobeat](https://open.spotify.com/track/0jwFNzGu6vnxQU9xomySQo) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Rituals](https://open.spotify.com/album/2wksMR06cu1z0P3UHB8rlJ) | 2:32 | 2022-06-09 |  |

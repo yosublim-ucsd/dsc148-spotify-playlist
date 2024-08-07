@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,083 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,277 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,24 +52,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 42 | [ギミギミ](https://open.spotify.com/track/0rV0W6Hp9qeCumczGXPjL9) | [りぶ\(CV:ファイルーズあい\)](https://open.spotify.com/artist/5wwzTSv7Uw6AjvfE3TTrYf), [苺子\(CV:伊藤ゆいな\)](https://open.spotify.com/artist/0NBtlxA07nkxc0Z0FIOMJ2), [譜風\(CV:羊宮妃那\)](https://open.spotify.com/artist/0S3jo4bRYRiG1ZwEtFHTTr), [十景\(CV:上田瞳\)](https://open.spotify.com/artist/3mDj3M54oDhi3E5giK4Z37), [ゆき\(CV:茅野愛衣）](https://open.spotify.com/artist/0AUxIWmmNUihnWN3cj4ENm) | [TVアニメ「真夜中ぱんチ」テーマソングシングル「ギミギミ / 編集点」](https://open.spotify.com/album/27yQYRaAS6aEAfptrxQCsz) | 4:08 |
 | 43 | [結婚行進曲](https://open.spotify.com/track/3czzy4fEz5M88VVA4KeE1f) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [結婚行進曲](https://open.spotify.com/album/6faFIqRjGu5EW702zf6c7b) | 2:51 |
 | 44 | [晴々！](https://open.spotify.com/track/583o9Mq3GaRdTQWYkwRTW3) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [晴々！](https://open.spotify.com/album/0j5lA2YJu1SbYrtAxCdVPH) | 3:59 |
-| 45 | [UnchainxUnchain](https://open.spotify.com/track/35mObsHy7Yg46yxAKNcxFU) | [Amber's](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [UnchainxUnchain](https://open.spotify.com/album/2rV5leOQvSClJkEIeeWMI7) | 4:02 |
-| 46 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 |
-| 47 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
-| 48 | [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 |
-| 49 | [WILLSHINE](https://open.spotify.com/track/3gvgE5UTkcpzGrWOz8JJ51) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [WILLSHINE](https://open.spotify.com/album/6zd8PpZoZRMCCTnUu0ZuIZ) | 4:09 |
-| 50 | [KATAWARA](https://open.spotify.com/track/0YXwlA1KffuEdnqeYfb9Ra) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [KATAWARA](https://open.spotify.com/album/1BuyA7L7w3eRY5XQqKdxG6) | 3:38 |
-| 51 | [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [さよなら、素晴らしき世界よ（TVアニメ「異世界失格」エンディングテーマ）](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 |
-| 52 | [見参!革ブロ☆ふぉーえばー](https://open.spotify.com/track/0aaftBdMefQLdsDUAt5OOa) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [SUMIRE CATALOG](https://open.spotify.com/album/5akD8SyQWPNIgpm4l5suaC) | 3:34 |
-| 53 | [Hazure](https://open.spotify.com/track/0d71kse4wROg8GrkqbRVaU) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Hazure](https://open.spotify.com/album/1HaXmimeKNGAdz6nTN4bdH) | 3:18 |
-| 54 | [Resurrection](https://open.spotify.com/track/1vse9vFEYxxF3AhzWU0lz6) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Resurrection（ゲーム「Re:ゼロから始める異世界生活　Witch's Re:surrection」主題歌）](https://open.spotify.com/album/658Pd2ohjZCxWe5QgDjxTS) | 4:00 |
-| 55 | [Another World](https://open.spotify.com/track/6EdGKs6WWfgDJdlGcZG0YN) | [布袋寅泰](https://open.spotify.com/artist/1rNI6fUYXyMUtLjOBd4sW6) | [Another World](https://open.spotify.com/album/4p4DEIrZgiKQHHgTkNmGaK) | 3:10 |
-| 56 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 |
-| 57 | [Miracle soup](https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Miracle soup](https://open.spotify.com/album/3RB2BMUkv12GW4lL2Zb8hc) | 3:20 |
-| 58 | [会心ノ一撃](https://open.spotify.com/track/7cgxUDKToj4Y8m8AO64Xhz) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [会心ノ一撃](https://open.spotify.com/album/6NH9zmaXkzaew0ahAzxpwv) | 3:46 |
-| 59 | [灰ト祈リ](https://open.spotify.com/track/2YDcTSeBYrfKwHt1ABMVYH) | [GEMS COMPANY](https://open.spotify.com/artist/6XnWrx5hdp7NtFzHQ1SbZ9) | [灰ト祈リ](https://open.spotify.com/album/24iWQBAAvREhJeSxw07mox) | 4:37 |
-| 60 | [I LUV U 2](https://open.spotify.com/track/4pOPQhidhShpGrrVkcAV1j) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [I LUV U 2 EP](https://open.spotify.com/album/2e4WeFLOf9lsNOqmSKwbM6) | 3:57 |
-| 61 | [Backbone](https://open.spotify.com/track/42muqtulD0P6wVTDXdBI24) | [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [.MAD TRIGGER CREW](https://open.spotify.com/album/3BChtlUGl3RGIjMSp5MLul) | 3:11 |
-| 62 | [主人公になる物語](https://open.spotify.com/track/6McneonVvucRzApcKpuUNV) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [HARETTER](https://open.spotify.com/album/0fuM1w34GMErgwn3QJDY9U) | 3:44 |
+| 45 | [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 |
+| 46 | [UnchainxUnchain](https://open.spotify.com/track/35mObsHy7Yg46yxAKNcxFU) | [Amber's](https://open.spotify.com/artist/02uHSOwZg81iN67YEBbc0O) | [UnchainxUnchain](https://open.spotify.com/album/2rV5leOQvSClJkEIeeWMI7) | 4:02 |
+| 47 | [Story](https://open.spotify.com/track/1G3QIdTjFO0DpLZlYwfqzx) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Story](https://open.spotify.com/album/3HxXbGrwquGzrjgZAmIcuX) | 2:26 |
+| 48 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 |
+| 49 | [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 |
+| 50 | [WILLSHINE](https://open.spotify.com/track/3gvgE5UTkcpzGrWOz8JJ51) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [WILLSHINE](https://open.spotify.com/album/6zd8PpZoZRMCCTnUu0ZuIZ) | 4:09 |
+| 51 | [KATAWARA](https://open.spotify.com/track/0YXwlA1KffuEdnqeYfb9Ra) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [KATAWARA](https://open.spotify.com/album/1BuyA7L7w3eRY5XQqKdxG6) | 3:38 |
+| 52 | [さよなら、素晴らしき世界よ](https://open.spotify.com/track/4rYWDye90sC4oYuNiyp7qt) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [さよなら、素晴らしき世界よ（TVアニメ「異世界失格」エンディングテーマ）](https://open.spotify.com/album/2YQKSYZ7HcKYHF9M1loWTn) | 3:57 |
+| 53 | [見参!革ブロ☆ふぉーえばー](https://open.spotify.com/track/0aaftBdMefQLdsDUAt5OOa) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [SUMIRE CATALOG](https://open.spotify.com/album/5akD8SyQWPNIgpm4l5suaC) | 3:34 |
+| 54 | [Hazure](https://open.spotify.com/track/0d71kse4wROg8GrkqbRVaU) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Hazure](https://open.spotify.com/album/1HaXmimeKNGAdz6nTN4bdH) | 3:18 |
+| 55 | [Resurrection](https://open.spotify.com/track/1vse9vFEYxxF3AhzWU0lz6) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Resurrection（ゲーム「Re:ゼロから始める異世界生活　Witch's Re:surrection」主題歌）](https://open.spotify.com/album/658Pd2ohjZCxWe5QgDjxTS) | 4:00 |
+| 56 | [Another World](https://open.spotify.com/track/6EdGKs6WWfgDJdlGcZG0YN) | [布袋寅泰](https://open.spotify.com/artist/1rNI6fUYXyMUtLjOBd4sW6) | [Another World](https://open.spotify.com/album/4p4DEIrZgiKQHHgTkNmGaK) | 3:10 |
+| 57 | [天使たちの歌 \- TVアニメ「義妹生活」オープニング主題歌](https://open.spotify.com/track/4bSY6LK4KNiTGdc0C8EYYk) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [天使たちの歌 \(TVアニメ「義妹生活」オープニング主題歌\)](https://open.spotify.com/album/2DmXlUHvWAFWpaOg8fsLCX) | 4:16 |
+| 58 | [Miracle soup](https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Miracle soup](https://open.spotify.com/album/3RB2BMUkv12GW4lL2Zb8hc) | 3:20 |
+| 59 | [会心ノ一撃](https://open.spotify.com/track/7cgxUDKToj4Y8m8AO64Xhz) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [会心ノ一撃](https://open.spotify.com/album/6NH9zmaXkzaew0ahAzxpwv) | 3:46 |
+| 60 | [灰ト祈リ](https://open.spotify.com/track/2YDcTSeBYrfKwHt1ABMVYH) | [GEMS COMPANY](https://open.spotify.com/artist/6XnWrx5hdp7NtFzHQ1SbZ9) | [灰ト祈リ](https://open.spotify.com/album/24iWQBAAvREhJeSxw07mox) | 4:37 |
+| 61 | [I LUV U 2](https://open.spotify.com/track/4pOPQhidhShpGrrVkcAV1j) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [I LUV U 2 EP](https://open.spotify.com/album/2e4WeFLOf9lsNOqmSKwbM6) | 3:57 |
+| 62 | [Backbone](https://open.spotify.com/track/42muqtulD0P6wVTDXdBI24) | [ヒプノシスマイク \-D.R.B\- \(碧棺左馬刻\)](https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562) | [.MAD TRIGGER CREW](https://open.spotify.com/album/3BChtlUGl3RGIjMSp5MLul) | 3:11 |
 | 63 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 |
 | 64 | [またたび](https://open.spotify.com/track/0vYAQvD13yIkxb7121Z2tj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [またたび](https://open.spotify.com/album/23fFju9jbNjgRSvrB2Ql6S) | 4:10 |
 | 65 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [マイクロレボリューション](https://open.spotify.com/track/21DU0BAhKB8EDrpiKjZUni) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [マイクロレボリューション](https://open.spotify.com/album/1ERoZdUQh6aXrzAwnZNWpK) | 3:55 |
 | 85 | [意解けない](https://open.spotify.com/track/6scErVzEb9MrpaMQCeTFld) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [意解けない](https://open.spotify.com/album/3kbsCLdjF3xWylKkSzvUtN) | 3:47 |
 
-Snapshot ID: `Zq4UlwAAAABbq6daF2kpgfozC7aGVUBO`
+Snapshot ID: `ZrI6cAAAAADcXOBLCpZ/j4t/a8epnEYW`

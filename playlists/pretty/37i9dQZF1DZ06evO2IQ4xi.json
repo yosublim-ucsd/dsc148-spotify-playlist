@@ -1,12 +1,12 @@
 {
-  "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 10291,
+  "description": "This is Doechii. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 10342,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAACCQnPt2obbMXRRGd0519XA",
+  "snapshot_id": "ZrAWAAAAAACySXArb1BS3S+8z+1wU8HY",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spookie Coochie",
         "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
       },
@@ -175,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 217792,
-      "name": "Phenomenal (feat. Doechii)",
-      "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitch I'm Nice",
         "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
       },
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NISSAN ALTIMA",
-        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 128132,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+      "duration_ms": 217792,
+      "name": "Phenomenal (feat. Doechii)",
+      "url": "https://open.spotify.com/track/5iDrSIUAbuajDctFTGRRiR"
     },
     {
       "added_at": null,

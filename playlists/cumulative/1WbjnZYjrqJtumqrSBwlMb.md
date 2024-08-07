@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-978 songs - 2 day 12 hr 6 min
+979 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,7 +812,7 @@
 | [tell me a joke](https://open.spotify.com/track/7BZgDEld5mMdr1G39dIkvW) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [tell me a joke](https://open.spotify.com/album/6BLLjSqBTRPmrUSjd72D9b) | 5:05 | 2022-10-24 |  |
 | [Tell Me What I Don't Know](https://open.spotify.com/track/3yM8iyra4fkuyf0H5RFHuE) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 2:31 | 2022-11-30 |  |
 | [Tell Me Where To Go](https://open.spotify.com/track/28rYYAT4AF7aeUV5rzCOBB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:53 | 2023-07-11 |  |
-| [Tell Your Friends](https://open.spotify.com/track/2POhSUOXkU7xEIi2z2nEDE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights \(Deluxe\)](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 5:34 | 2024-02-12 |  |
+| [Tell Your Friends](https://open.spotify.com/track/2POhSUOXkU7xEIi2z2nEDE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights \- Deluxe](https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC) | 5:34 | 2024-02-12 |  |
 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 | 2024-05-02 |  |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2022-04-07 |  |
 | [TEXAS BLUE](https://open.spotify.com/track/6OOvIBnf2HxxW7IU9tsyWx) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 5:23 | 2024-02-16 |  |
@@ -857,6 +857,7 @@
 | [the ride\-](https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:10 | 2023-01-29 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-05-28 |  |
 | [The Sharpest Lives](https://open.spotify.com/track/2kMjk14RmYyYhhSbipoa9U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:20 | 2022-05-24 |  |
+| [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-07 |  |
 | [The Ultracheese](https://open.spotify.com/track/3PhbzvTllkq1rkULafc6ns) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:37 | 2020-02-24 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:42 | 2020-12-06 |  |
 | [The Violence](https://open.spotify.com/track/0sQj2Ggna6UjRyIO0tKE7y) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 6:03 | 2024-05-13 |  |

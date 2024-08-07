@@ -3044,10 +3044,28 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 194472,
       "name": "Where the Poison Is",
       "url": "https://open.spotify.com/track/2rPduOYc8QyiQVtoNEixk8"
+    },
+    {
+      "album": {
+        "name": "Where the Poison Is",
+        "url": "https://open.spotify.com/album/6szOV51vxOrtaf7TNdEvdd"
+      },
+      "artists": [
+        {
+          "name": "JuntunenPhD",
+          "url": "https://open.spotify.com/artist/01AZH8KY1rE7MoN464nQTi"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194472,
+      "name": "Where the Poison Is",
+      "url": "https://open.spotify.com/track/0HfgblzLTEfuBwYoIXhjwy"
     },
     {
       "album": {

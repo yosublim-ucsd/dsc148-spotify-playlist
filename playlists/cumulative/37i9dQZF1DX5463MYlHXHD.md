@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Turros.
 
-284 songs - 16 hr 3 min
+285 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amigos en la Distancia](https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 2:47 | 2024-03-05 | 2024-06-17 |
 | [Amor de Chat](https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sin Rivales](https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP) | 3:58 | 2024-03-05 | 2024-04-19 |
 | [Amor de Colegio](https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Dando Clase](https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a) | 4:34 | 2024-04-19 | 2024-05-18 |
+| [Amor Prohibido](https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:26 | 2024-07-26 |  |
 | [Anoche Yo Me Fui](https://open.spotify.com/track/6Zk6ORgEAzGMfIyBBuCA2E) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Anoche Yo Me Fui](https://open.spotify.com/album/1MYLcG9u7IRQqYfs4oUhcn) | 3:02 | 2023-05-29 | 2023-06-20 |
 | [Atorrante](https://open.spotify.com/track/1IbBMlx0zQsQBVivwBcIKy) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Atorrante](https://open.spotify.com/album/5Fk5Jivf8cdfhk1ZpgqG4F) | 3:16 | 2023-12-01 | 2023-12-14 |
 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 | 2023-12-08 |  |
@@ -236,7 +237,7 @@
 | [Sexy Soltera](https://open.spotify.com/track/3WZCUO10KxZp5XExAAmbd7) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ) | [Rompelo Ahí](https://open.spotify.com/album/4J6M9C6Zs0Ae3GIhactWyt) | 2:33 | 2023-05-26 | 2024-03-06 |
 | [Si Me Vez Fumando una Seca por Vos](https://open.spotify.com/track/0YK6zUsPZyMIf5lhzu9dzV) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Volverás](https://open.spotify.com/album/46c1Anl2GJq3unG1KVDpWV) | 2:56 | 2023-05-26 | 2024-03-06 |
 | [Siempre Es la Misma Situación](https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv) | [Barrabox](https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp) | [Moviendo la Cola](https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O) | 3:20 | 2024-03-05 |  |
-| [Sigue bailando mi amor](https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:50 | 2024-03-15 |  |
+| [Sigue bailando mi amor](https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:50 | 2024-03-15 | 2024-08-07 |
 | [Siguiendo la Luna](https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [La Humildad Es Sinónimo de Grandeza](https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk) | 3:28 | 2024-03-08 |  |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2023-05-26 | 2024-03-06 |
 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 | 2023-05-26 | 2024-04-19 |

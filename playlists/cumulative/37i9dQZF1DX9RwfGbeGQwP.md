@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,426 songs - 2 day 5 hr 43 min
+1,427 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Friends at the Bar](https://open.spotify.com/track/7diLyaE6Zw3zOhm6D1n8vy) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Friends at the Bar](https://open.spotify.com/album/3Vcabmig7QgQmqA32ushPB) | 2:09 | 2022-01-27 | 2022-09-03 |
 | [Frolic](https://open.spotify.com/track/2KNFOqcjVlBX4Gq4ieiysa) | [fallover](https://open.spotify.com/artist/7IcaEh6tPfZwI4FHtbPMD6) | [Frolic](https://open.spotify.com/album/16veguDPc6MecMoXfcYOUt) | 1:57 | 2022-01-27 | 2022-09-17 |
 | [from now on](https://open.spotify.com/track/4P6QOKuRt98JSyHFJkWG5c) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Good old days](https://open.spotify.com/album/2bciU0sX2lE6JWhjPi5m2v) | 2:27 | 2023-07-13 | 2023-09-29 |
+| [From The Start \- Lofi Version](https://open.spotify.com/track/68LrZzbxlgoqxWKTv28230) | [Mei Mei The Bunny](https://open.spotify.com/artist/03Yc0U1YKJK2WG4fLDHdY4) | [From The Start \(Lofi Version\)](https://open.spotify.com/album/38EIBx5KjcXdqAENvqtDT7) | 2:35 | 2024-07-25 |  |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-01-27 | 2022-09-03 |
 | [fruitful](https://open.spotify.com/track/16ZBxJvYhFW3hRu40WG5qO) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [fruitful](https://open.spotify.com/album/54Aa9l1DxkwKe73vq424cr) | 3:03 | 2024-07-12 |  |
 | [Fudge](https://open.spotify.com/track/5GmSjNEypkbo1NCsculloA) | [StopLock](https://open.spotify.com/artist/1gkcZxjftNAWnTbfbmnUqQ) | [Fudge](https://open.spotify.com/album/5cRYDjSTpYmsVv4wezkkEH) | 2:09 | 2022-01-27 | 2022-06-03 |
@@ -815,7 +816,7 @@
 | [Motto](https://open.spotify.com/track/1ENJ8Fg32aGAxoh8mZdfCX) | [Happy Chap](https://open.spotify.com/artist/1a6c3Rh1y3kQ1KKfy58EyZ) | [Motto](https://open.spotify.com/album/0innXMWH0PqamCZQIFSTSa) | 3:52 | 2022-01-27 | 2022-12-24 |
 | [Movies Time](https://open.spotify.com/track/0gwgKnS4Xrq7G8X3HenOWM) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Movies Time](https://open.spotify.com/album/7nNyru9BHyuFekEAmfrFdv) | 1:57 | 2022-12-09 | 2023-09-29 |
 | [moviestar](https://open.spotify.com/track/2aQjIW6o8Arj5RtA32cY6F) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [moviestar](https://open.spotify.com/album/5RvO023RqWdqu5ICoSbH1b) | 2:09 | 2023-09-22 | 2024-08-01 |
-| [Movin' On](https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Movin' On](https://open.spotify.com/album/7yHEoIHZSI5YCrHiUMOYbJ) | 2:26 | 2024-07-12 |  |
+| [Movin' On](https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Movin' On](https://open.spotify.com/album/7yHEoIHZSI5YCrHiUMOYbJ) | 2:26 | 2024-07-12 | 2024-08-07 |
 | [mt\. fuji](https://open.spotify.com/track/2RNNPl9fpAb0ziigldf85I) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [kyoto](https://open.spotify.com/album/0ekYAWFyx9byUsfY6L00kq) | 1:49 | 2022-01-27 | 2022-09-17 |
 | [Mugged Off](https://open.spotify.com/track/6n8ig4sDJ41aOA3NflHscL) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [On Track](https://open.spotify.com/album/0Ez9sSh1xGvNMOdVmft9mi) | 2:16 | 2022-01-27 | 2022-05-20 |
 | [Mulholland Cruise](https://open.spotify.com/track/5idpF5W5D1TmaQ1kcvrT4l) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [Mulholland Cruise](https://open.spotify.com/album/72uP2pUWQ0nNgBn9JQsCly) | 2:14 | 2022-01-27 | 2022-09-09 |

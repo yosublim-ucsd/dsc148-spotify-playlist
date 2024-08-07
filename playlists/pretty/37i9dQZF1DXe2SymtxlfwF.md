@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,065 likes - 94 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,099 likes - 94 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

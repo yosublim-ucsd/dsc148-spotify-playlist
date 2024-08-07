@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Swedish House Mafia ",
-  "num_followers": 255943,
+  "num_followers": 256080,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         }
       ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1175,26 +1179,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Like A G6 (with Naeleck)",
-        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 148751,
-      "name": "Like A G6 (with Naeleck)",
-      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -1287,30 +1311,6 @@
       "duration_ms": 123624,
       "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Danza Kuduro - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "MAGIC",
-        "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "babyidontlikeyou",
-          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "MAGIC (feat. babyidontlikeyou)",
-      "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Gangster",
         "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 136000,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "babyidontlikeyou",
+          "url": "https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "MAGIC (feat. babyidontlikeyou)",
+      "url": "https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2071,30 +2071,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "By Now",
-        "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Laura Welsh",
-          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi"
       },
@@ -2115,6 +2091,30 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5ayaI14vSPFDIUK23VwzRX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Laura Welsh",
+          "url": "https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe"
+        }
+      ],
+      "duration_ms": 153040,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/0OxLol8qf9zsrXSs1IqyMu"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "DANCE THROUGH THE NIGHT (with Norma Jean Martine)",
         "url": "https://open.spotify.com/album/5cAiM2i25q6vHhJsMFAiIT"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 187000,
       "name": "DANCE THROUGH THE NIGHT (with Norma Jean Martine)",
       "url": "https://open.spotify.com/track/19s4YWDwmyYOLWiAqTB4EX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
     }
   ],
   "unique_name": "EDM 2024",

@@ -2,16 +2,16 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: SUPER EIGHT
+> 日本で活躍するボーイズグループを特集。cover: &TEAM
 
-303 songs - 17 hr 34 min
+304 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 | 2023-11-23 | 2024-01-10 |
 | [1st SONG](https://open.spotify.com/track/1CEhK1YwRkkDNmDD90mJld) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [1st SONG](https://open.spotify.com/album/2xVMZnRPnNuczI88IgVtnA) | 5:04 | 2024-06-25 | 2024-07-31 |
 | [24karats GOLD GENESIS](https://open.spotify.com/track/3DOBALd9w4fDZ122HzF7CC) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/2um16q15odwpmhiAjf8pqi) | 4:17 | 2024-06-12 | 2024-07-10 |
-| [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 | 2024-04-23 | 2024-08-01 |
+| [366日](https://open.spotify.com/track/66NAy1FnkkF7Phkpkg52nA) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [與那城奨](https://open.spotify.com/artist/3e8u8G5lYrmLijn9JcG2Ly) | [366日](https://open.spotify.com/album/58WW9mLbx7C8G2Ob90ormT) | 5:50 | 2024-04-23 |  |
 | [366日](https://open.spotify.com/track/1ZqhXy7BcjqNYgWWRTm04v) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM), [藤牧京介](https://open.spotify.com/artist/6aSXOB3rXi0nLXVmmC4jhz) | [366日](https://open.spotify.com/album/52mNHSoryRNd6DRndTwg6V) | 5:50 | 2024-05-07 | 2024-05-22 |
 | [A2Z](https://open.spotify.com/track/5LnOxZHrMEhsfFNDRdYm2B) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [A2Z](https://open.spotify.com/album/2vKHhkgrdmovL4o0Sfr4lN) | 2:39 | 2024-02-13 | 2024-04-17 |
 | [Ace In The Hole](https://open.spotify.com/track/4p6xTqUf2JWIfKYqsSArxi) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Ace In The Hole](https://open.spotify.com/album/05rxFaDkVxQgQpAQrhbKQg) | 3:30 | 2024-03-05 | 2024-03-13 |
@@ -92,7 +92,7 @@
 | [halfmoon](https://open.spotify.com/track/35a21TsJpAibvzwzTUHCi5) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [halfmoon](https://open.spotify.com/album/76xz9bp3cZxNEgJfV1u4zF) | 4:15 | 2024-05-21 |  |
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [Hapidan](https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Hapidan](https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm) | 3:08 | 2023-11-24 | 2024-01-10 |
-| [HAPPY](https://open.spotify.com/track/5M2HzcdIN7jz6jSJsm3qn6) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:29 | 2024-07-30 |  |
+| [HAPPY](https://open.spotify.com/track/5M2HzcdIN7jz6jSJsm3qn6) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:29 | 2024-07-30 | 2024-08-07 |
 | [HAPPY UNBIRTHDAY](https://open.spotify.com/track/2o0XgPxLvZKlVsuQjZ0WzO) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [HAPPY UNBIRTHDAY](https://open.spotify.com/album/1pvXyLugVj8JLeCh8FraWv) | 3:25 | 2024-03-26 | 2024-05-01 |
 | [HEAVY GAMER](https://open.spotify.com/track/7A5w2FDIv8NERGk59C6dF9) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [HEAVY GAMER](https://open.spotify.com/album/5thtZUHXDTXNPvd5qKvnJV) | 3:24 | 2024-04-16 | 2024-05-08 |
 | [Hi!Clap!!!!](https://open.spotify.com/track/5HbACHlt5CJ2hcqGtz29D8) | [Hi!Superb](https://open.spotify.com/artist/7ivV5s6CUdQFMowoqpuNZT) | [Hi!Clap!!!!](https://open.spotify.com/album/0kHtlHmRY6Z4QCLZdaVCGc) | 3:45 | 2024-03-19 | 2024-03-27 |
@@ -266,7 +266,7 @@
 | [YO MA SUNSHINE](https://open.spotify.com/track/5B70iJSr2BaCm1WJvBo2fS) | [WATWING](https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e) | [YO MA SUNSHINE](https://open.spotify.com/album/4hBZeFNtTuGX89VFdsHevj) | 3:20 | 2024-02-09 | 2024-02-21 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 |  |
-| [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 |  |
+| [“超”勝手に仕上がれ](https://open.spotify.com/track/2nsaIqfTeFqsIeqE5N4QSD) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:24 | 2024-07-30 | 2024-08-07 |
 | [それぞれ。](https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:57 | 2023-11-28 | 2023-12-13 |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-09 |  |
 | [わたし](https://open.spotify.com/track/3Fe0fU2ugeqK7rd5Smpat0) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [わたし](https://open.spotify.com/album/3iWKJAWZA2vtdAZhLKqps8) | 4:23 | 2024-07-09 | 2024-07-31 |
@@ -310,6 +310,7 @@
 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 | 2024-02-15 | 2024-03-06 |
 | [踊れピエロ](https://open.spotify.com/track/7lFlPqGM6CajadNT5G1Qfh) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [踊れピエロ](https://open.spotify.com/album/74wtkw5rmbTnyPFj30gVoQ) | 3:31 | 2024-04-23 | 2024-05-29 |
 | [霜花](https://open.spotify.com/track/2DLEAYyePjxHjF1b2fhWqm) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [Bull's Eye](https://open.spotify.com/album/3mCD8c66aHjHCgfQpJToGu) | 3:39 | 2024-01-31 | 2024-02-14 |
+| [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 | 2024-08-06 |  |
 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 | 2023-12-19 | 2024-01-03 |
 
 \*This playlist was first scraped on 2023-11-24. Prior content cannot be recovered.

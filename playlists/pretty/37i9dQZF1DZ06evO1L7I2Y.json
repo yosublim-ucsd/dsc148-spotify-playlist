@@ -1,12 +1,12 @@
 {
-  "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 2869,
+  "description": "This is N.I.N.A. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 2870,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAADxJbQJiUeph7FH9c0NBr3w",
+  "snapshot_id": "ZrAWAAAAAAA5xeqawhfAdMjCN/hRTGwx",
   "tracks": [
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dysfunktional Family (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Too Street 4 T.V.",
-      "url": "https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 174861,
       "name": "MEC",
       "url": "https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dysfunktional Family (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Too Street 4 T.V.",
+      "url": "https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL"
     }
   ],
   "unique_name": "This Is N.I.N.A",

@@ -4,7 +4,7 @@
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-451 songs - 21 hr 7 min
+452 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Dreamy White Water](https://open.spotify.com/track/6RW7Mx0mQeEDXCxPu8Fpnu) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 | 2021-12-01 | 2022-06-10 |
 | [Dull White Noise](https://open.spotify.com/track/2NbKo7vh9ysSALZTCb2wiw) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [Out Cold with White Noise](https://open.spotify.com/album/7izx6fRu7oJnc608X5wG70) | 4:04 | 2022-10-27 |  |
 | [Echoes From Nowhere](https://open.spotify.com/track/5mGPuajka7C75r5sFwbN10) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 3:05 | 2024-02-02 |  |
-| [Eggshell White Noise](https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Eggshell White Noise](https://open.spotify.com/album/7vUivGX1FkXnOeBeAyX4cd) | 4:49 | 2024-07-31 |  |
+| [Eggshell White Noise](https://open.spotify.com/track/2KQqc8N4myvQciVgjwhWGH) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [Eggshell White Noise](https://open.spotify.com/album/7vUivGX1FkXnOeBeAyX4cd) | 4:49 | 2024-07-31 | 2024-08-07 |
 | [Elbaite White Noise](https://open.spotify.com/track/1yaAENnzbW8jXejbIWjVCX) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [GEMS White Noise](https://open.spotify.com/album/7L6q5m82FqliymskSFTVfD) | 1:30 | 2021-12-01 | 2022-07-02 |
 | [Electric White Noise](https://open.spotify.com/track/0t3XIvAYQrLMziJJuANG72) | [Sleepings](https://open.spotify.com/artist/0lDVdckPGoJ2JylJFtdp6n) | [Electric White Noise](https://open.spotify.com/album/6pgDFxRCHS1Gx1jbXIvLy4) | 2:21 | 2021-12-01 | 2022-06-10 |
 | [Endless White Noise](https://open.spotify.com/track/0vXwLcYUyiwOEPVihyhAwy) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Endless White Noise](https://open.spotify.com/album/3RKwxDuYhBt8MTBFAwAsX3) | 4:19 | 2021-12-01 | 2023-01-20 |
@@ -382,6 +382,7 @@
 | [White Noise Dream Machine](https://open.spotify.com/track/123u7pGwURuZ5RWPGPttt4) | [White Noise Android](https://open.spotify.com/artist/3TecHR1axQjLLjWh9lyygb) | [White Noise Dream Machine](https://open.spotify.com/album/11AUijHDjP5CgQKt9jqqQq) | 3:09 | 2021-12-01 | 2022-10-28 |
 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 | 2022-10-27 |  |
 | [White Noise Dreams](https://open.spotify.com/track/20BI2mW4dmSdRuICaicI0t) | [Espacious](https://open.spotify.com/artist/521e3mjRhBkTgjRW8bDfA2) | [White Noise Flow](https://open.spotify.com/album/4bjdhr0j4BJZwtyShH8OYc) | 2:20 | 2021-12-01 |  |
+| [White Noise Dreamscape](https://open.spotify.com/track/42FxykPQSw208rlExXPRU0) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [White Noise Dreamscape](https://open.spotify.com/album/4Z262b4GxRrPcvRUdiNUIJ) | 5:38 | 2024-07-31 |  |
 | [White Noise Eternity](https://open.spotify.com/track/4Vqw8dAFAVITkiALTRo2HA) | [Reality Sound](https://open.spotify.com/artist/34yGVl5CKVdhqRost8UeJ1) | [Founded Noise](https://open.spotify.com/album/5Kxejh6FtCIuvY674BpXvb) | 2:14 | 2021-12-01 |  |
 | [White Noise Fantasia](https://open.spotify.com/track/6AdspxzlNr5DE5Q5fwCWZ0) | [Valdervande](https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX) | [White Noise Fantasia](https://open.spotify.com/album/1jRuiYMbU9lzDdZ0jsCT1O) | 5:32 | 2024-07-31 |  |
 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 | 2022-10-27 |  |

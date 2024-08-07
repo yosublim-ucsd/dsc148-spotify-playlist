@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 286107,
       "name": "California",
       "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
@@ -5666,6 +5666,24 @@
       "duration_ms": 142627,
       "name": "Day Off",
       "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
+    },
+    {
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2ueoZ5FTVb8yDcpHtNS3dQ"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168515,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/4unqnzQWWPmiDZEPrGzeoE"
     },
     {
       "album": {
@@ -12040,6 +12058,24 @@
       "duration_ms": 206632,
       "name": "Jam Satu",
       "url": "https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F"
+    },
+    {
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253280,
+      "name": "January",
+      "url": "https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl"
     },
     {
       "album": {
@@ -19835,6 +19871,24 @@
     },
     {
       "album": {
+        "name": "Ride Away",
+        "url": "https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313610,
+      "name": "Ride Away",
+      "url": "https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw"
+    },
+    {
+      "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu"
       },
@@ -19846,7 +19900,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 177876,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD"
@@ -20766,7 +20820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 212451,
       "name": "Semesta - From \"X-Change\"",
       "url": "https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX"

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Rohony
+> 50 nejžhavějších hitů v České republice\. Cover: Calin
 
-56 songs - 2 hr 36 min
+57 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Get Low](https://open.spotify.com/track/7BrC5U8OUWPHKR4QgzzoE6) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 3:23 | 2024-07-15 |  |
 | [Givenchy](https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Givenchy](https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE) | 3:01 | 2024-07-01 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-07-01 | 2024-07-16 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 |  |
 | [Habibi](https://open.spotify.com/track/5FXDsBtTJRSMmmWhFxhAI0) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Habibi](https://open.spotify.com/album/7EdhZU5wyU8jwdZmcyQvAZ) | 2:26 | 2024-07-01 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 |  |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-01 |  |
@@ -51,7 +52,7 @@
 | [Pondělí až neděle \- Sped Up](https://open.spotify.com/track/3lcCxnxPqh0Rp7vsrD7KD6) | [Totally Nothin](https://open.spotify.com/artist/4esOzxPLunJ597xOtRt0A1), [DJ Kadr](https://open.spotify.com/artist/1GFQTS0zSjX2tLhV37rFkU) | [Waves](https://open.spotify.com/album/7aGS901TtaEwj4PzRQxeGy) | 3:27 | 2024-07-01 |  |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2024-07-01 |  |
 | [Pussy Power \(feat\. Porsche Boy\)](https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [DVOJBODKAHVIEZDIČKA](https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4) | 2:59 | 2024-07-01 |  |
-| [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 | 2024-07-01 |  |
+| [Safír](https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:29 | 2024-07-01 | 2024-08-07 |
 | [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 | 2024-07-01 |  |
 | [Směj se teď](https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Směj se teď](https://open.spotify.com/album/6bdzA456CycgXZowM9rIhC) | 3:10 | 2024-07-01 |  |
 | [space](https://open.spotify.com/track/5YwRYw9u0Abs5R3sDiPAXJ) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [space](https://open.spotify.com/album/0MwH6PaO0rV86yqyF1R0hL) | 2:52 | 2024-07-01 |  |

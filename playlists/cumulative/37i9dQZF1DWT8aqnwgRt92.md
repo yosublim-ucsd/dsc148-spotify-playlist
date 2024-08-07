@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,500 songs - 3 day 21 hr 49 min
+1,501 songs - 3 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [Watashi to Sekai](https://open.spotify.com/track/46u9BAGpdHauFrFRRxkr0C) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [Anata to Watashi wo Tsunagumono](https://open.spotify.com/album/5TL5jmTLrfk3KAplSZ4Uph) | 4:23 | 2022-10-04 | 2022-11-16 |
 | [WATASHITACHI Marginal Service](https://open.spotify.com/track/05aMlgQOcdv8IcIxGh40Vz) | [ブライアン・ナイトレイダー\(CV.宮野真守\)](https://open.spotify.com/artist/6UnV8YKsYQosXeBMfq9GqP), [ゼノ・ストークス\(CV.森川智之\)](https://open.spotify.com/artist/0IljlUqmZ6MeeMe8drVUP4), [ボルツ・デクスター\(CV.杉田智和\)](https://open.spotify.com/artist/2p7VuZ2Aq1zR2vXodU6GfH), [ロビン・ティンバート\(CV.中村悠一\)](https://open.spotify.com/artist/56FPkPzV0zsE2mHfsNXcYL), [ライラ・キャンディハート\(CV.名塚佳織\)](https://open.spotify.com/artist/4N8NOReEz18c15XLvVcch4), [サイラス・N・空閑\(CV.下野紘\)](https://open.spotify.com/artist/5nkKXRKKxw6WZKLWnT8lkA), [セオドア・トンプソン\(CV.三木眞一郎\)](https://open.spotify.com/artist/7vtJXzGCl0lEZDTcVPpoQc), [ペック・デズモント\(CV.内山昂輝\)](https://open.spotify.com/artist/1Y5IHVVB3JvwBGQBa3t6XR) | [WATASHITACHI Marginal Service \(TV Animation ”THE MARGINAL SERVICE”\)](https://open.spotify.com/album/7HOYKTTVHVILbEUF1FqfWi) | 3:35 | 2023-04-11 | 2023-04-26 |
 | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/track/7eZTR8aZ0BRr6Tfkh4xrI6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Watashiwa Saikyou \- From CrosSing](https://open.spotify.com/album/1P7zqeYRHJM7UlXJKv8ooq) | 4:17 | 2023-12-28 | 2024-01-17 |
+| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-08-06 |  |
 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 | 2024-04-19 |
 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-04-24 |
 | [Wave](https://open.spotify.com/track/6FApYvz1OV0qcrhlR9h9YL) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Wave](https://open.spotify.com/album/7e50ytl8w63oodD8YLpsQy) | 3:40 | 2024-07-03 |  |
@@ -1198,7 +1199,7 @@
 | [七色の絵の具で](https://open.spotify.com/track/6X3JSvWiDKI9zbcOJUKAtp) | [NANALAND](https://open.spotify.com/artist/50LJWpfb50Or2UZo6PgAcx) | [七色の絵の具で / なんじゃこりゃ / コ・ナ・オ・ト・シ / もう一度僕と恋愛してくれませんか?](https://open.spotify.com/album/3pYEx2sh7E0HYGXfdmzoSA) | 4:18 | 2023-05-10 | 2023-05-31 |
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-05-28 | 2022-06-03 |
 | [世界を射抜いて](https://open.spotify.com/track/3doh9ovpudSkasN8mW0mnz) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [世界を射抜いて](https://open.spotify.com/album/7wAz3uZOdusfHucBgWNASD) | 3:42 | 2024-04-16 | 2024-07-06 |
-| [主人公になる物語](https://open.spotify.com/track/6McneonVvucRzApcKpuUNV) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [HARETTER](https://open.spotify.com/album/0fuM1w34GMErgwn3QJDY9U) | 3:44 | 2024-07-30 |  |
+| [主人公になる物語](https://open.spotify.com/track/6McneonVvucRzApcKpuUNV) | [Hiroshi Kamiya](https://open.spotify.com/artist/3vf0sytS69HHOURI4Ze3gD) | [HARETTER](https://open.spotify.com/album/0fuM1w34GMErgwn3QJDY9U) | 3:44 | 2024-07-30 | 2024-08-07 |
 | [云う透り](https://open.spotify.com/track/41NFzRUXoCWR94hVRNqNTV) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り e.p](https://open.spotify.com/album/5Ng3rikw2a7AWG0bbK9ccN) | 2:51 | 2023-01-19 | 2023-01-21 |
 | [云う透り \- Maniac ver.](https://open.spotify.com/track/3Qe02mMZQuCc1hyr71Nd3l) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [云う透り \(Maniac ver.\)](https://open.spotify.com/album/1D6iNejlXLIaqdzpRrhXle) | 1:59 | 2022-12-27 | 2022-12-29 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-05-28 | 2022-07-27 |

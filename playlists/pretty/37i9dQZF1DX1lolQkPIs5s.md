@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪ディズニー映画最新作『ウィッシュ』の最新楽曲から、『リトル・マーメイド』『アナと雪の女王』『アラジン』等の名曲、パークの大人気楽曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,871 likes - 158 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,874 likes - 158 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 118 | [Nobody Like U](https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 2:40 |
 | 119 | [Call me Cruella](https://open.spotify.com/track/1Jx8CmvsnWWfwNhSRMqDR9) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Os0o1zAzszqNfbg4yFsVj) | 1:59 |
 | 120 | [Colombia, Mi Encanto](https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:55 |
-| 121 | [Strangers Like Me](https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 3:00 |
+| 121 | [Strangers Like Me](https://open.spotify.com/track/3T74kgnbHw8JqkYGJKD4Tl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 3:00 |
 | 122 | [A Girl Worth Fighting For](https://open.spotify.com/track/6kAopJAwSQ0TNhjmR6mZrj) | [Ryusei Nakao](https://open.spotify.com/artist/2RcS47TgXS4sQM2r0QfIBh), [Yutaka Oda](https://open.spotify.com/artist/4txzpEXMlLubRkm52dpMFe), [Kozo Shioya](https://open.spotify.com/artist/10D4tBG5mUPnF3ThELDaxp), [MAYUMI SUZUKI](https://open.spotify.com/artist/2A898Bz1BlL0RbbRL1n0RJ), [Yoshito Yasuhara](https://open.spotify.com/artist/0sXEhArKRBPiG2vzQm6Nro) | [Mulan \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/0lFW1DXVwIoHcn6Zr4xzZB) | 2:23 |
 | 123 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 |
 | 124 | [The Incredits](https://open.spotify.com/track/3EVjVuIfi8Xcju9V5EMtKI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/11xH29oetpVw9g9DAhXTUA) | 7:21 |

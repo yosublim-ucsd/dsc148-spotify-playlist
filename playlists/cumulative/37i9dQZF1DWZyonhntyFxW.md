@@ -4,14 +4,14 @@
 
 > .أنا كدة كدة🐐\. غلاف: مروان موسى
 
-339 songs - 16 hr 52 min
+340 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 | 2023-08-17 | 2024-06-26 |
 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 | 2023-08-17 | 2024-08-05 |
 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 | 2024-02-28 | 2024-05-15 |
-| [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 | 2024-07-23 |  |
+| [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 | 2024-07-23 | 2024-08-07 |
 | [3andy Sahb](https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3andy Saheb](https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR) | 2:48 | 2024-04-18 | 2024-05-21 |
 | [3arabawy](https://open.spotify.com/track/08b9YG42AnVIh70EwEeLpX) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [EL 3ARAB](https://open.spotify.com/album/5sgTY990OE2XMzxrn3Ob5I) | 2:09 | 2024-03-20 | 2024-05-10 |
 | [3azraeel](https://open.spotify.com/track/3j5XyebVOoFAG7i2b5rAub) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wa7ed Wa7ed](https://open.spotify.com/album/72ZPz1ikH0Ub2Sjtx78S4u) | 2:44 | 2023-06-15 | 2023-08-18 |
@@ -55,6 +55,7 @@
 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 | 2024-01-28 | 2024-02-23 |
 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 | 2022-11-07 | 2023-05-17 |
 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 | 2023-03-02 | 2024-07-25 |
+| [Baklem El Amar](https://open.spotify.com/track/7L15zTOGWGnKZY7a7Fr2ol) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa) | [Moga](https://open.spotify.com/album/74pPbkercbdyczbWsW5ZcA) | 2:31 | 2024-08-06 |  |
 | [BARBARY](https://open.spotify.com/track/5NcTOxzo2WE20tFdtUhbAM) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BARBARY](https://open.spotify.com/album/3RiX3QwpPvPEaBeLfRtvRR) | 2:36 | 2022-05-10 | 2023-04-12 |
 | [BASHA](https://open.spotify.com/track/1fgU43Ln9aByhg4kZpTJnX) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [BASHA](https://open.spotify.com/album/0rcbVE8UgjA7xWJUy95Ww3) | 2:33 | 2023-03-02 | 2023-07-27 |
 | [Bawazek \( Red Bull Sada Sot\)](https://open.spotify.com/track/4PENC94eQR9ZiFqjQdVkcL) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Bawazek \(Red Bull Sada Sot\)](https://open.spotify.com/album/0CzH7T1KYAVuPzwplk2vx6) | 3:10 | 2024-05-24 | 2024-06-14 |

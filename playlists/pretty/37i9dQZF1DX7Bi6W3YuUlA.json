@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 47142,
+  "num_followers": 47209,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "TIGHTROPE",
+        "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "TIGHTROPE",
+      "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "ME VS ME",
         "url": "https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 168750,
       "name": "Main",
       "url": "https://open.spotify.com/track/0vYQS3JfEzjAa8g2SBuMEa"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "TIGHTROPE",
-        "url": "https://open.spotify.com/album/5PDi46ieLVa8dQagMPxySo"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        },
-        {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "TIGHTROPE",
-      "url": "https://open.spotify.com/track/1AUw3hXkj4phJ29UQ3WsiD"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -855,30 +855,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "2BIG!",
-        "url": "https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 194283,
-      "name": "2BIG!",
-      "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Swerve That",
         "url": "https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11"
       },
@@ -899,6 +875,30 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "2BIG!",
+        "url": "https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 194283,
+      "name": "2BIG!",
+      "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
-      },
-      "artists": [
-        {
-          "name": "Lj the Messenger",
-          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
-        },
-        {
-          "name": "Hyper Fenton",
-          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Pray 2 God",
         "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 193234,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/755eT9EDA6vjWcFv5lLUGI"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
+      },
+      "artists": [
+        {
+          "name": "Lj the Messenger",
+          "url": "https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB"
+        },
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
-      },
-      "artists": [
-        {
-          "name": "Dreamers",
-          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
-        }
-      ],
-      "duration_ms": 175582,
-      "name": "That's What Happens",
-      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
         "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 143512,
       "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
       "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
+      },
+      "artists": [
+        {
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
+        }
+      ],
+      "duration_ms": 175582,
+      "name": "That's What Happens",
+      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "POSSIBLE",
-        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
-      },
-      "artists": [
-        {
-          "name": "Ngoga",
-          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "POSSIBLE",
-      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Throne",
         "url": "https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 162899,
       "name": "Throne",
       "url": "https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "POSSIBLE",
+        "url": "https://open.spotify.com/album/0otXDYuMij2kKeuFU9Xqc0"
+      },
+      "artists": [
+        {
+          "name": "Ngoga",
+          "url": "https://open.spotify.com/artist/0xotvpYJxDDrxTu6MFS17C"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "POSSIBLE",
+      "url": "https://open.spotify.com/track/1g9uGfP5KkNQYIIO7MhhVs"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 201204,
-      "name": "Great Is He",
-      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "moving different",
         "url": "https://open.spotify.com/album/7g0P3jKT61MLTy0RXz6LZY"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 117678,
       "name": "moving different",
       "url": "https://open.spotify.com/track/07B3kbnkNMpP93tZKhEK9y"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 201204,
+      "name": "Great Is He",
+      "url": "https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML"
     },
     {
       "added_at": "2024-06-28 07:29:32",

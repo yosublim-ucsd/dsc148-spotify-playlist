@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: george(\uc8e0\uc9c0))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: jeebanoff(\uc9c0\ubc14\ub178\ud504))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 213541,
       "name": "dear goodbye",
       "url": "https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6"
@@ -1814,6 +1814,24 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "album": {
+        "name": "DUSK",
+        "url": "https://open.spotify.com/album/2jbCByI5iMiDkkuTqq9RzF"
+      },
+      "artists": [
+        {
+          "name": "YOON SAN-HA (ASTRO)",
+          "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/61zU5KDGPC3OIYOwJJvbbC"
     },
     {
       "album": {
@@ -3478,7 +3496,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 184277,
       "name": "JAMI (feat. THAMA)",
       "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 183414,
       "name": "Like a Dream (Feat. Mingginyu, TRADE L, Touch the Sky)",
       "url": "https://open.spotify.com/track/1wKoQyKMKXnjkkMlNuZA14"
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 208000,
       "name": "Like a Star",
       "url": "https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX"
@@ -4433,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/0PfezZ9IzgTP74n8tPDZcv"
+      },
+      "artists": [
+        {
+          "name": "jeebanoff",
+          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245426,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc"
+    },
+    {
+      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/6x9ZhTzPQNzzcgCncunY8M"
       },
@@ -4686,6 +4722,24 @@
       "duration_ms": 207493,
       "name": "OceanooM Duet\u2218\u263d (feat. Jung YoungEun)",
       "url": "https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU"
+    },
+    {
+      "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/7iFKkuuz5IPEoiGkor2AyX"
+      },
+      "artists": [
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129994,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/5RQreDiOgjXeIHbIaZaipY"
     },
     {
       "album": {
@@ -5084,7 +5138,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 197250,
       "name": "Re (Feat. Leellamarz)",
       "url": "https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF"

@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Gidelim Mi Buralardan",
+        "url": "https://open.spotify.com/album/6J3syGa0knTEtQnndxxAfa"
+      },
+      "artists": [
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160382,
+      "name": "Gidelim Mi Buralardan",
+      "url": "https://open.spotify.com/track/2vsqjcIGoGK4opKEhVWqf0"
+    },
+    {
+      "album": {
         "name": "Girdap",
         "url": "https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 156631,
       "name": "Salla",
       "url": "https://open.spotify.com/track/62Hh7prEpSyMMd8wNxsOQO"

@@ -2,16 +2,16 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Kendrick Lamar
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Billie Eilish
 
-54 songs - 2 hr 38 min
+56 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 | 2024-07-01 |  |
 | [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2024-07-01 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-15 |  |
-| [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-07-01 |  |
+| [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-07-01 | 2024-08-07 |
 | [BAKPAKK](https://open.spotify.com/track/6dd2fGbktU3zOHHWK58nto) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0oCPs1829LWGJUVlx50BNE) | 2:47 | 2024-07-15 |  |
 | [bangkok](https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [zekő](https://open.spotify.com/album/7fSpOvhym4ns1HJwa6Igag) | 2:37 | 2024-07-01 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 |  |
@@ -26,6 +26,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-06 |  |
 | [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 |  |
 | [HENN \(SANDELA\)](https://open.spotify.com/track/70EqnZ68XyFO16FkSEidUJ) | [Bazsi](https://open.spotify.com/artist/7IvNSZxcwOVm9Sn8z4y1k4) | [HENN \(SANDELA\)](https://open.spotify.com/album/4AKT0vHVHrEJwLizOVJkps) | 2:57 | 2024-07-01 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 |  |
@@ -39,6 +40,7 @@
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-07-16 |
 | [mariana.árok](https://open.spotify.com/track/4iLTcaEz2yfnUDkO5XTe3B) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [mariana.árok](https://open.spotify.com/album/4gv0VIH1MPraYV0foPyFP0) | 4:04 | 2024-07-01 |  |
 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 | 2024-07-01 |  |
+| [MOKKA](https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [MOKKA](https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk) | 2:43 | 2024-08-06 |  |
 | [Nem vagyok rosszul](https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV) | [Misshmusic](https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nem vagyok rosszul](https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U) | 2:56 | 2024-07-01 | 2024-07-16 |
 | [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-15 |  |
@@ -53,7 +55,7 @@
 | [Smash!](https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:24 | 2024-07-01 |  |
 | [SOFIA COPPOLA](https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 3:33 | 2024-07-01 | 2024-07-16 |
 | [Strawberry](https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Strawberry](https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU) | 2:42 | 2024-07-01 |  |
-| [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2024-07-01 |  |
+| [Százszorszép](https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:26 | 2024-07-01 | 2024-08-07 |
 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 | 2024-07-01 |  |
 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 | 2024-07-01 |  |
 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-07-01 |  |

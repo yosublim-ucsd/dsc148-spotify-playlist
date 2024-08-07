@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-28",
+      "date_removed": null,
       "duration_ms": 241800,
       "name": "(We\u2019ll Understand it Better) By and By",
       "url": "https://open.spotify.com/track/6SZxiMD3V8hXW4DRQy4lSo"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 255546,
       "name": "23rd Psalm - Feat. Michelle Jordan",
       "url": "https://open.spotify.com/track/2k2lsjEr1pP43ItYoD2Ut4"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/42hwIg34ZMXbI5G47UY5Vu"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 104840,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/3eiBUKyA2ZR6SQBtTGOrYv"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 127703,
       "name": "Balm In Gilead",
       "url": "https://open.spotify.com/track/3LCvxWsmC6UVTWpynIYFWo"
@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Lord, You Keep On Proving Yourself To Me",
+        "url": "https://open.spotify.com/album/5crSZ6zfGQ4RTMA2ZkFYnF"
+      },
+      "artists": [
+        {
+          "name": "The Florida Mass Choir",
+          "url": "https://open.spotify.com/artist/276XJGytn0WM29N4J0N7DI"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402120,
+      "name": "Be Ye Steadfast",
+      "url": "https://open.spotify.com/track/0G28AqJnAojAqcj7Qjo8tu"
+    },
+    {
+      "album": {
         "name": "Come Walk With Me",
         "url": "https://open.spotify.com/album/4C0ByaAwvVtouMqWs5MRaq"
       },
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 306293,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/641RXBhAmRVgJwACuy2SuK"
@@ -3568,7 +3586,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 327742,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 335795,
       "name": "Everything Will Be Alright",
       "url": "https://open.spotify.com/track/6lbPZ2r6Lnxz59rjq1L7ny"
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 208864,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/077yGhj0JCilTx1aNgoAE8"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 272982,
       "name": "Faith That Conquers",
       "url": "https://open.spotify.com/track/1bXijLYK9IMVFiegCRWDTr"
@@ -5242,7 +5260,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 272675,
       "name": "Finish Strong",
       "url": "https://open.spotify.com/track/3VFrdTWOnOX70YFOH2IqEF"
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 266866,
       "name": "Get Ready for Your Miracle",
       "url": "https://open.spotify.com/track/4IEkOribYwuthpoevTICb5"
@@ -6010,7 +6028,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 137000,
       "name": "Give Me A Clean Heart",
       "url": "https://open.spotify.com/track/3Nhuvb5suZTyk0Zz0LuMkh"
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 346500,
       "name": "God Has Been So Good",
       "url": "https://open.spotify.com/track/2WQgBeDpIPdDmD675sMiva"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 219093,
       "name": "God is Faithful",
       "url": "https://open.spotify.com/track/6gbON833XLxqlNP3COoENm"
@@ -6824,7 +6842,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 261613,
       "name": "God's Got a Blessing (with My Name on It!)",
       "url": "https://open.spotify.com/track/208coS3K4leplVIBvrY6Pu"
@@ -6962,7 +6980,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 300606,
       "name": "Goin' Up Yonder - Music from the Original TV Series: Greenleaf, Season 5",
       "url": "https://open.spotify.com/track/5TDLyJCRXrszN4b4r8wTFx"
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 384066,
       "name": "Hands Of God",
       "url": "https://open.spotify.com/track/15i3FHudJFisO0M1g36odJ"
@@ -7740,7 +7758,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 386360,
       "name": "Have You Been Tried In The Fire",
       "url": "https://open.spotify.com/track/66FWIHFpbPyJ1Kdkajsxji"
@@ -10194,7 +10212,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 249933,
       "name": "I Found The Answers",
       "url": "https://open.spotify.com/track/0ZR2NGxhAB0GdiU6ooqnHu"
@@ -10418,7 +10436,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -10516,7 +10534,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 313253,
       "name": "I Know You're Gonna Make It",
       "url": "https://open.spotify.com/track/6dWzaNFDPLNDSoComTLawV"
@@ -10560,7 +10578,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
@@ -10934,7 +10952,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 316066,
       "name": "I Stepped Out",
       "url": "https://open.spotify.com/track/5XBWPJnBGkz7ZEN5uC65cN"
@@ -10982,7 +11000,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 421220,
       "name": "I Threw In The Towel",
       "url": "https://open.spotify.com/track/13BNT5tyNkMGQUxYKijweO"
@@ -11012,7 +11030,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 289500,
       "name": "I Threw in the Towel - Radio Edit",
       "url": "https://open.spotify.com/track/3zdaL9qdMNcGi0kCRE4WlD"
@@ -11666,7 +11684,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 241698,
       "name": "I'll Always Be Thankful (Live)",
       "url": "https://open.spotify.com/track/0WHBbnfUWNSjEX400PFjxe"
@@ -11880,6 +11898,24 @@
       "duration_ms": 141426,
       "name": "I'm Gonna Sing Till The Spirit Moves",
       "url": "https://open.spotify.com/track/6Yyz8PsxlnWg5bPcvh9zgX"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/1CSsbA06EQOBv1lwA93Ym5"
+      },
+      "artists": [
+        {
+          "name": "New Direction",
+          "url": "https://open.spotify.com/artist/1TpXFTRji6OtOrX061RT9F"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245453,
+      "name": "I'm Gonna Wave My Hands",
+      "url": "https://open.spotify.com/track/00pSz3TNFCpJ4Z7RRZWtdK"
     },
     {
       "album": {
@@ -12860,7 +12896,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 359609,
       "name": "It Belongs To Me (feat. Marvin L. Winans)",
       "url": "https://open.spotify.com/track/6uY12z9dd3ySOiaaMrqoQH"
@@ -13782,7 +13818,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 391320,
       "name": "Jesus on the Mainline",
       "url": "https://open.spotify.com/track/1YKEOXvx17tT8pVSM8KQTL"
@@ -13836,7 +13872,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 264600,
       "name": "Jesus Promised Me A Home Over There",
       "url": "https://open.spotify.com/track/3skyxWR7CvllvzFpcohn7P"
@@ -14076,7 +14112,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 466760,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6Q38EW83rUUiiow2TV7nGZ"
@@ -14520,7 +14556,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 348323,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/5oF37rEl8wpzMFyyOyjJqa"
@@ -15378,7 +15414,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 467509,
       "name": "Lift Up Your Voices",
       "url": "https://open.spotify.com/track/60YO6vmmFsIPIhxvLTmwhL"
@@ -15708,7 +15744,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 295386,
       "name": "Look At Me v1.1",
       "url": "https://open.spotify.com/track/2a39B0nVWUiSyc0IbSThYX"
@@ -16102,7 +16138,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 109053,
       "name": "Love Lifted Me",
       "url": "https://open.spotify.com/track/55uOKpQwCmmXHoRgseAhqI"
@@ -18300,7 +18336,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 466253,
       "name": "Nobody but You",
       "url": "https://open.spotify.com/track/7kGpaWD640bYutSam2SCEK"
@@ -19510,7 +19546,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 252619,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
@@ -20900,7 +20936,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 155021,
       "name": "Resting Place",
       "url": "https://open.spotify.com/track/4yoVR5jhf7OhBUebSu5SSh"
@@ -21344,7 +21380,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 243800,
       "name": "Safety Zone",
       "url": "https://open.spotify.com/track/2f6oGrt5TdNNn11GQdDoJD"
@@ -21452,7 +21488,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 202592,
       "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
       "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
@@ -22006,7 +22042,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 297290,
       "name": "Shout Like You Got It",
       "url": "https://open.spotify.com/track/2mJejlFobZcPFBZPzNnYWl"
@@ -22750,7 +22786,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 238584,
       "name": "Souls Anchored",
       "url": "https://open.spotify.com/track/3RGLwFXRrRAyTQtIxNc3cQ"
@@ -24234,7 +24270,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 270367,
       "name": "The Best Day of My Life",
       "url": "https://open.spotify.com/track/2tCeJtxgpzRZ0IGJS2jP6k"
@@ -24416,7 +24452,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 467130,
       "name": "The Blood Will Never Lose Its Power",
       "url": "https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o"
@@ -24528,7 +24564,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 328520,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"
@@ -25496,7 +25532,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 304226,
       "name": "There'S A Leak In This Old Building",
       "url": "https://open.spotify.com/track/6sPkXf8cl3c48U4ZFVyd3B"
@@ -26222,7 +26258,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 91026,
       "name": "U-Know, Pt. 2",
       "url": "https://open.spotify.com/track/0HBYmBTSLcle92c1K14BPI"
@@ -26962,7 +26998,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 93802,
       "name": "We Have Come",
       "url": "https://open.spotify.com/track/1HY7BQLLptnRe7HJrwV2xk"
@@ -27186,7 +27222,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 185439,
       "name": "Weak",
       "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
@@ -27418,7 +27454,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 392733,
       "name": "When God Is In The Building",
       "url": "https://open.spotify.com/track/3FKPnYuJED1V3bBsadSnT0"

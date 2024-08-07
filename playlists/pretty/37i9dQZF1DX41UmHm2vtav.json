@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 469431,
+  "num_followers": 469456,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2024-08-02 03:03:00",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2024-08-02 03:03:00",
-      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+    },
+    {
+      "added_at": "2024-08-02 03:03:00",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2024-08-02 03:03:00",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2024-08-02 03:03:00",
       "album": {
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2024-08-02 03:03:00",
+      "album": {
         "name": "A Dois Passos do Para\u00edso (Remix)",
         "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
       },
@@ -1507,26 +1531,6 @@
       "duration_ms": 178328,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
-    },
-    {
-      "added_at": "2024-08-02 03:03:00",
-      "album": {
-        "name": "Frevo Mulher (Remixes)",
-        "url": "https://open.spotify.com/album/5MuVLg9WRgDmDo14nGJwS4"
-      },
-      "artists": [
-        {
-          "name": "FLAR",
-          "url": "https://open.spotify.com/artist/3TmTT72nBrAzHsQ1KkBppa"
-        },
-        {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Frevo Mulher (Remix) - Radio Mix",
-      "url": "https://open.spotify.com/track/2pd4ZghZfqaFpp5d3kBrW8"
     }
   ],
   "unique_name": "Festa na Praia",

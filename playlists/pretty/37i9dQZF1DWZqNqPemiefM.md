@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,743 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,740 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 43 | [Nova](https://open.spotify.com/track/165sdKbKB2By9Hs3T5CYoQ) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 10:47 |
 | 44 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 | 45 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 |
-| 46 | [First Sleep](https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:52 |
-| 47 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 46 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 47 | [First Sleep](https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:52 |
 | 48 | [Dawn](https://open.spotify.com/track/5MHOn6Lsy0m4OtZr3Cjaln) | [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dawn](https://open.spotify.com/album/0wh5AkPy23Aj3y75hiROGE) | 6:36 |
 | 49 | [Umi No Sunatsubu](https://open.spotify.com/track/64IcvG8Hba5MWv4C3IPUlF) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:12 |
 | 50 | [Mouthfeel 1](https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Josiah Steinbrick](https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP) | [Mouthfeel / Serene](https://open.spotify.com/album/6nYVmyI2ZsMoFQJyB9bz1x) | 1:48 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 60 | [Cinco](https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS) | [César Hernández Martínez](https://open.spotify.com/artist/2YQhbjGak4eGVvZjQXLTjP) | [Cinco](https://open.spotify.com/album/1i3Qeu4cBxecY6qyxSbxoB) | 4:04 |
 | 61 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
 | 62 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
-| 63 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [サウナ好きすぎ、より深く](https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3) | 4:24 |
-| 64 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
-| 65 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
+| 63 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック \~はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
+| 64 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
+| 65 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [サウナ好きすぎ、より深く](https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3) | 4:24 |
 | 66 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ・トリガー オリジナル・サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
 | 67 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
 | 68 | [Imminent](https://open.spotify.com/track/4GYWbWRnrGBkXOOTp3bqyi) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 4:56 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 82 | [Marginalia \#119](https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia \#119](https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs) | 6:09 |
 | 83 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 |
 | 84 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
-| 85 | [DARK SIDE OF THE STAR/地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
-| 86 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
+| 85 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 |
+| 86 | [DARK SIDE OF THE STAR/地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
 | 87 | [月の光](https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 5:55 |
 | 88 | [BALLADE OF AYA](https://open.spotify.com/track/3iBBDYtZzxyMfaTPBUonuh) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 1:38 |
 | 89 | [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 |

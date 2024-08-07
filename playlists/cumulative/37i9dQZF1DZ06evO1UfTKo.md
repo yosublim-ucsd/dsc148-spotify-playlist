@@ -2,7 +2,7 @@
 
 ### [This Is Los Tigres Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UfTKo)
 
-> This Is Los Tigres Del Norte\. Sus mejores éxitos, todos en una playlist.
+> This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 16 min
 

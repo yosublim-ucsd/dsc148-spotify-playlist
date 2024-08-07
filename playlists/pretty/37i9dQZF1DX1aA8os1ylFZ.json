@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242587,
+  "num_followers": 242609,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Good People",
+        "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 272836,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Good People",
-        "url": "https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 272836,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Luv 4 U",
+        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Next Chapter",
         "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 165520,
       "name": "Double Tragedy",
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Luv 4 U",
-        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Your Love Is All I Need",
-        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Your Love Is All I Need",
-      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 215152,
       "name": "Slide",
       "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 109270,
+      "name": "Solutions",
+      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Unfiltered",
-        "url": "https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT"
+        "name": "Your Love Is All I Need",
+        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
       },
       "artists": [
         {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 109270,
-      "name": "Solutions",
-      "url": "https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O"
+      "duration_ms": 176843,
+      "name": "Your Love Is All I Need",
+      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "L.I.T (Lost In Translation)",
         "url": "https://open.spotify.com/album/5Welfv6PlfPJqQcrSmb44F"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "Amelia Rose",
+          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Make You Remember Me",
         "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/70KMbElvbjKSWUPERYbVCp"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        },
-        {
-          "name": "Amelia Rose",
-          "url": "https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/0rUmvpKfigC5jL0jnIcYTB"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
+      },
+      "artists": [
+        {
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Say You Do",
         "url": "https://open.spotify.com/album/0WDr2AfJ9DWLVXUQmZnui4"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 189024,
       "name": "Say You Do",
       "url": "https://open.spotify.com/track/2sC5Cdda0VyNHJGhGKey0L"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 181511,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/2l3UrQ9RRUDHH2H6vUV723"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc"
+      },
+      "artists": [
+        {
+          "name": "Anuka",
+          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
+        }
+      ],
+      "duration_ms": 160944,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/695ukF8LGhGU4pagxtsxFc"
-      },
-      "artists": [
-        {
-          "name": "Anuka",
-          "url": "https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp"
-        }
-      ],
-      "duration_ms": 160944,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/2IS5TQnd26IKxRg7cewEdO"
     }
   ],
   "unique_name": "R&B Magic",

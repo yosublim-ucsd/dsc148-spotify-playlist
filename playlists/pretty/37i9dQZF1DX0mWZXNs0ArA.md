@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,985,054 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,985,076 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 88 | [BAIXO \- sped up](https://open.spotify.com/track/6Quq03vHz7XrWZhpLS1vCQ) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 1:33 |
 | 89 | [In The Stars \- Sped Up](https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Sped Up\)](https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu) | 2:50 |
 | 90 | [Popular \(Sped Up\) \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/7H3cuCPaX9WHZXQ0Q9RlxH) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [Popular](https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ) | 3:07 |
-| 91 | [White Tee \- Sped Up](https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [White Tee \(Sped Up\)](https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS) | 2:39 |
-| 92 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
+| 91 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
+| 92 | [White Tee \- Sped Up](https://open.spotify.com/track/0kyM7PrYjF4vH8FyOkEBuN) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [White Tee \(Sped Up\)](https://open.spotify.com/album/7fjaZibcYJdHjdODt68lDS) | 2:39 |
 | 93 | [Wasted Summers \- Sped Up](https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers \(Sped Up\)](https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx) | 1:58 |
 | 94 | [RAHHHH \- sped up](https://open.spotify.com/track/5LB9v4VyqssaahwzNdjSES) | [alt!](https://open.spotify.com/artist/2JUbvars1Q5hnkRa8IglAa) | [RAHHHH](https://open.spotify.com/album/0kBzlWRuGqJCKTLU453Hoa) | 0:57 |
 | 95 | [Perfume \(Glory Pt.2\) \- Sped up](https://open.spotify.com/track/5MM2Sb9G3hXuQVwIkAbcbE) | [Billi Royce](https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic) | [Perfume \(Glory Pt 2\)](https://open.spotify.com/album/3uPWYkXGsureGGnZeDSvZL) | 2:22 |

@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-288 songs - 15 hr 27 min
+289 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Arenales 2984](https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Arenales 2984](https://open.spotify.com/album/23ven5o2tmccqzRJ2ETSu4) | 2:48 | 2024-06-28 | 2024-07-06 |
 | [Asereje](https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM) | [Jean Massey](https://open.spotify.com/artist/0jxlHo3OVSP5B5u0MsU8rE) | [Asereje](https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV) | 2:48 | 2023-12-01 |  |
 | [Asi Lo Grita](https://open.spotify.com/track/5eXAJrSoUOx9LfNDm2svO7) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Asi Lo Grita](https://open.spotify.com/album/3HHmPnky6PZCgIqZpSiY2a) | 3:10 | 2024-03-29 | 2024-04-19 |
+| [Atardecer](https://open.spotify.com/track/4lgrZY890RzjqNGA7awcH2) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [NIINE](https://open.spotify.com/artist/6gsA8VU32Q7HZy84xOihW8) | [Atardecer](https://open.spotify.com/album/2dmBNrGn4ucWFUGTh1M7rF) | 2:11 | 2024-08-02 |  |
 | [Ay](https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Ay](https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7) | 4:06 | 2024-03-01 | 2024-07-06 |
 | [Ay Papi](https://open.spotify.com/track/2EhWf9BWQFFCp8gOvOY7J7) | [Jack Bailey](https://open.spotify.com/artist/0nvtleWgvZzWCF1xQ8mdwc), [Nick Proof](https://open.spotify.com/artist/1cFOVkSIXej2ndDMhKholO) | [Ay Papi](https://open.spotify.com/album/0vvPwvAHIQUqHEUvjeLSqb) | 2:51 | 2024-02-16 | 2024-03-20 |
 | [Ay Papi](https://open.spotify.com/track/3PVZ7Y6VhTAmrfJGpwRJOu) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Ay Papi](https://open.spotify.com/album/7rUjdLfXmcQ3IYE8WHb0Qe) | 3:25 | 2021-10-08 | 2023-11-11 |
@@ -108,7 +109,7 @@
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
 | [Espantapájaros \- Captain Planet Remix](https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Espantapájaros \(Captain Planet Remix\)](https://open.spotify.com/album/6hZ9Q3g6K6INboa4DFWglx) | 4:25 | 2024-03-29 | 2024-05-02 |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
-| [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 | 2024-04-19 |  |
+| [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 | 2024-04-19 | 2024-08-07 |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 | 2024-06-07 |
 | [Eu Vou Pra Bahia \- Felguk, Watzgood Remix](https://open.spotify.com/track/4URoP8kzqgmBfo3WcXFzFb) | [DOT \(BR\)](https://open.spotify.com/artist/7FNFSXlkICere98esgLRyQ), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Eu Vou Pra Bahia \(Felguk, Watzgood Remix\)](https://open.spotify.com/album/6t5UoBRyZejocCUowTmzSW) | 3:50 | 2024-06-07 | 2024-07-02 |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 | 2024-03-27 |

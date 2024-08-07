@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 166572,
+  "num_followers": 166678,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 343400,
-      "name": "Infinite Surprise",
-      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Shannon In Nashville",
         "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 163280,
       "name": "Goodbye Summer",
       "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cousin",
+        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 343400,
+      "name": "Infinite Surprise",
+      "url": "https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 318826,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Hanging On",
-        "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
-      },
-      "artists": [
-        {
-          "name": "Brainstory",
-          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
-        }
-      ],
-      "duration_ms": 191801,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Cosmic American Blues",
         "url": "https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+        "name": "Hanging On",
+        "url": "https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Brainstory",
+          "url": "https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j"
         }
       ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+      "duration_ms": 191801,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -755,6 +739,22 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-07-05 19:49:15",

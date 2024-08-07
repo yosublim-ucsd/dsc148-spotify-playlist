@@ -2,9 +2,9 @@
 
 ### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
 
-> The songs you love, in ways you’ve never heard before\. Cover: hemlocke springs
+> The songs you love, in ways you’ve never heard before\. Cover: Clairo
 
-435 songs - 1 day 2 hr 52 min
+436 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Brass in Pocket](https://open.spotify.com/track/1NUpIqsrU4UBxNvmeznDQK) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/7yzvoOWugzfdTuqCeedb4l) | 4:01 | 2021-09-24 | 2022-07-29 |
 | [Bridge over Troubled Water \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/0b0Q8bYchJLk4fCIyJhC0i) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Spotify Singles](https://open.spotify.com/album/6Q9QCXE8F7ubD0PE2bialv) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Broccoli \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 2:43 | 2022-03-24 | 2022-04-21 |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 |  |
 | [Bubble Gum \- Spotify Singles](https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:06 | 2023-05-03 |  |
 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 | 2021-09-24 | 2022-05-27 |
 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 | 2021-09-24 | 2022-07-27 |
@@ -133,7 +134,7 @@
 | [Feels Like We Only Go Backwards \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/51Tb0DkANWOoURN81p4ugm) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Spotify Singles](https://open.spotify.com/album/4PzCTggaYEmBDgzAE3DjtA) | 3:19 | 2021-09-24 | 2022-07-15 |
 | [Fire on the Mountain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0VYh7UE0QG71xFfPEI353W) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Spotify Singles](https://open.spotify.com/album/1jairj919ADwCPsOTF0Z1j) | 2:49 | 2022-03-24 | 2022-07-26 |
 | [Flaco \- Spotify Singles](https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 4:20 | 2022-06-07 | 2022-07-25 |
-| [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 |  |
+| [Flume \- Spotify Singles](https://open.spotify.com/track/6DaG27cevNVA1lozVKd6dw) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Spotify Singles](https://open.spotify.com/album/3Cxj3L18VM6Iytn2CeQw4j) | 3:51 | 2022-03-09 | 2024-08-07 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 | 2022-06-07 | 2024-04-19 |
 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG) | 3:24 | 2021-09-24 | 2022-07-29 |
 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 | 2021-09-24 |  |

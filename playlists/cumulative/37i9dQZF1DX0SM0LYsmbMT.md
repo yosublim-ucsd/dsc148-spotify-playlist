@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,200 songs - 6 day 16 hr 20 min
+4,201 songs - 6 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Bright Nights](https://open.spotify.com/track/00R0qA40OIfPnRdxfT5Oab) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bright Nights](https://open.spotify.com/album/0TYKFLKzySAXjQduGbewiC) | 2:00 | 2020-05-20 | 2020-07-31 |
 | [Bright Vibe](https://open.spotify.com/track/2r2wiGOIo44ggXw9f9Znfu) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Bright Vibe](https://open.spotify.com/album/2YMx3drHfpwPqrgz9crbfu) | 2:28 | 2020-10-30 | 2021-01-04 |
 | [Brighter Days](https://open.spotify.com/track/114GXUgTtjmq5f95HIvxzQ) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Brighter Days](https://open.spotify.com/album/5XOKLWlXhSNzxU2SWRQ5fX) | 2:09 | 2021-05-07 | 2023-01-27 |
-| [Brightly](https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Brightly](https://open.spotify.com/album/7o2bLQeYIf86HGtCn5KaBT) | 1:45 | 2024-08-01 |  |
+| [Brightly](https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Brightly](https://open.spotify.com/album/7o2bLQeYIf86HGtCn5KaBT) | 1:45 | 2024-08-01 | 2024-08-07 |
 | [Brisa](https://open.spotify.com/track/1WTEmKXl7MAfgFaKQSVaDj) | [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Brisa](https://open.spotify.com/album/1YIwJeWvyvCIVzwHvDag5s) | 2:09 | 2021-08-27 | 2022-03-18 |
 | [Broadway](https://open.spotify.com/track/5uMO7gj1q6B98f0d0Uj5Gs) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Broadway](https://open.spotify.com/album/3NV9XaxRcwUdtDUuoiPxWx) | 1:10 | 2021-07-09 | 2021-08-27 |
 | [broadway street](https://open.spotify.com/track/6s2CxU2BJQuBdPYmLbjkHQ) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [broadway street](https://open.spotify.com/album/4IhniXCMvcdi8lK2wdu2i3) | 2:26 | 2021-12-08 | 2022-07-08 |
@@ -3463,6 +3463,7 @@
 | [Summer is here](https://open.spotify.com/track/0H6U4KccRnCxH5ckF7I25X) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Summer is here](https://open.spotify.com/album/6GdmQiRzeAOtqmyhmnYYoV) | 1:15 | 2019-05-28 | 2019-06-12 |
 | [Summer Love](https://open.spotify.com/track/5KN52B6YpKpUjEVNbizfLN) | [reysi](https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS), [Tibeauthetraveler](https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb) | [Summer Love](https://open.spotify.com/album/3Wevu2I0GrZFzkFtEWzZot) | 2:46 | 2022-06-09 | 2022-06-15 |
 | [Summer Love](https://open.spotify.com/track/7nYhAy1cex36y6UKkpLUXO) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [Poolside Stories](https://open.spotify.com/album/1SKd5dpfDD0zshApmnLA9Y) | 1:30 | 2020-07-28 | 2020-10-23 |
+| [Summer Lovin'](https://open.spotify.com/track/5nfqd8rNYxZaPW3GuYsWc6) | [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Summer Lovin'](https://open.spotify.com/album/1mzmSYFMEb5A580W4dj2D7) | 1:48 | 2024-08-01 |  |
 | [Summer Nights](https://open.spotify.com/track/04dbNPRQDxon4cWm66KKi5) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS) | [Summer Nights](https://open.spotify.com/album/0HciBUAUDyGP6eWPUzdwls) | 2:26 | 2022-04-28 | 2022-07-01 |
 | [Summer Nights](https://open.spotify.com/track/1p0hNrv8wXVYbJhEvF2bm4) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Summer Nights](https://open.spotify.com/album/2YVlodLQ18qLuDOdMBkDuF) | 2:06 | 2020-05-01 | 2020-07-14 |
 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 | 2021-08-27 | 2021-09-22 |

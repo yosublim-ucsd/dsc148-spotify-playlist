@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75062,
+  "num_followers": 75059,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Oh My Girl",
-        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
-      },
-      "artists": [
-        {
-          "name": "Freight Train Foxes",
-          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
-        }
-      ],
-      "duration_ms": 168393,
-      "name": "Oh My Girl",
-      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Love Is an Open Road",
         "url": "https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 166000,
       "name": "Love Is an Open Road",
       "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Oh My Girl",
+        "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
+      },
+      "artists": [
+        {
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+        }
+      ],
+      "duration_ms": 168393,
+      "name": "Oh My Girl",
+      "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Love Is So Easy",
-        "url": "https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC"
-      },
-      "artists": [
-        {
-          "name": "Joel Leggett",
-          "url": "https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Love Is So Easy",
-      "url": "https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232639,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Love Is So Easy",
+        "url": "https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC"
+      },
+      "artists": [
+        {
+          "name": "Joel Leggett",
+          "url": "https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Love Is So Easy",
+      "url": "https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0"
     },
     {
       "added_at": "2023-11-30 13:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Tan Bionica & Airbag
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,512 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,533 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 32 | [Savia \- Vivo en Luna Park](https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Los Lunáticos Planes de una Mariposa Incandescente \(Vivo en Luna Park\)](https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E) | 4:54 |
 | 33 | [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 |
 | 34 | [Sueles Dejarme Solo \- Me Verás Volver Gira 2007](https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC) | 4:21 |
-| 35 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
-| 36 | [Adonde Están](https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Hasta La Luna \- EN VIVO LUNA PARK](https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4) | 4:35 |
+| 35 | [Adonde Están](https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Hasta La Luna \- EN VIVO LUNA PARK](https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4) | 4:35 |
+| 36 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
 | 37 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
 | 38 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 |
 | 39 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 49 | [La Rueda Mágica \- En Vivo](https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:07 |
 | 50 | [Cosa Linda/Clara \- En Vivo](https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [MVD/05/03/05 \(En Vivo\)](https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U) | 6:38 |
 | 51 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
-| 52 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
-| 53 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
+| 52 | [Avanti Morocha \(En Vivo Provincia Emergente\)](https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Provincia Emergente Estadio Unico de La Plata \(En Vivo\)](https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi) | 5:34 |
+| 53 | [Sé Vos \- En Vivo](https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8) | [Almafuerte](https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV) | [En Vivo Obras](https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT) | 4:09 |
 | 54 | [Pronta Entrega \- En Vivo](https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Vivo](https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm) | 4:23 |
 | 55 | [Espadas y Serpientes \- Acústico en Vivo](https://open.spotify.com/track/26gc3gRiPBIpvvBP87sdxg) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 4:48 |
 | 56 | [Las Cosas Que No Se Tocan \- En Vivo Luna Park](https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otra Noche en la Luna \(Episodio I\)](https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI) | 4:04 |

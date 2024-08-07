@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 59347,
+  "num_followers": 59391,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
+        "name": "S\u00f3 Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4GxPHApUC1I89SuDbMiiVX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "S\u00f3 Agradecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/5F5zaoD15lYmW3yGB1VNm3"
+    },
+    {
+      "added_at": "2024-07-26 03:01:00",
+      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
-    },
-    {
-      "added_at": "2024-07-26 03:01:00",
-      "album": {
-        "name": "S\u00f3 Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4GxPHApUC1I89SuDbMiiVX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Dan",
-          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "S\u00f3 Agradecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/5F5zaoD15lYmW3yGB1VNm3"
     },
     {
       "added_at": "2024-07-26 03:01:00",

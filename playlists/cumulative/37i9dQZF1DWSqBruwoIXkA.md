@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. Cover: Gracie Abrams
 
-766 songs - 1 day 18 hr 16 min
+767 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [No Words](https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [No Words](https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz) | 3:09 | 2022-03-15 | 2022-04-21 |
 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 | 2024-02-14 |  |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-08-01 |
-| [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 |  |
+| [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 | 2022-07-15 | 2024-08-07 |
 | [not over you](https://open.spotify.com/track/1hXAkVaCozEsMUPVCcEkO9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [bye](https://open.spotify.com/album/6qgMAtWzDo8Y1yBoGxv189) | 3:10 | 2022-01-07 | 2022-03-15 |
 | [Not Used To Normal](https://open.spotify.com/track/7hOCTGGlJBfdenJDrjduht) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Not Used To Normal](https://open.spotify.com/album/6kz7FJsraxGIXVN3dqsnYM) | 2:02 | 2022-05-27 | 2022-10-22 |
 | [Not Usually Like This](https://open.spotify.com/track/6jFzlVYVaGUUBbkZtMPxWh) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Not Usually Like This](https://open.spotify.com/album/0LEquNgl5YmOrDs2yLymJV) | 3:19 | 2021-12-17 | 2022-01-08 |
@@ -705,6 +705,7 @@
 | [Us](https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Electric Light](https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R) | 3:01 | 2024-07-19 |  |
 | [used to be pretty](https://open.spotify.com/track/7CcSmXQOev37UcoAeohMpn) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [used to be pretty](https://open.spotify.com/album/2mtJKmvi7iaUSUpdSAzhgk) | 2:48 | 2024-05-03 | 2024-07-02 |
 | [Used To It](https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Used To It](https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C) | 2:42 | 2022-12-16 | 2023-03-20 |
+| [Velvet Ring \- 2023 Remaster](https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:35 | 2024-08-06 |  |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-18 | 2023-01-21 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-17 | 2023-04-01 |
 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-04-12 |  |

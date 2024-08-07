@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Justin Quiles
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,644 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,618 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 37 | [Que Zumbe Mi Voz](https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Jrbextz](https://open.spotify.com/artist/2yq6HRmiyockVzLndwmU7U) | [Que Zumbe Mi Voz](https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw) | 4:40 |
 | 38 | [DM](https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [DM](https://open.spotify.com/album/4GR94M7zemJWFWyxnzsJSy) | 2:09 |
 | 39 | [Vinito y Música](https://open.spotify.com/track/6hXqVE268sb9KoiLEtouM3) | [Producto Sin Corte](https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Vinito y Música](https://open.spotify.com/album/0vGnfMBi3GUlTv8F5H1lnY) | 2:42 |
-| 40 | [Bebê](https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [Bebê](https://open.spotify.com/album/0DzH6XjlTm6RIdTAIDQaUf) | 3:02 |
+| 40 | [bb!](https://open.spotify.com/track/6DZY80ickEfZe0Fi7nkFA0) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [DJ JB Mix](https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w) | [bb!](https://open.spotify.com/album/0DzH6XjlTm6RIdTAIDQaUf) | 3:02 |
 | 41 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 42 | [malvado ft\. Trinidad Cardona](https://open.spotify.com/track/4pJPIGlkJBtOssDrofdBRE) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [under the sun](https://open.spotify.com/album/7Lpjm53ncGewKefvziDOMa) | 2:31 |
 | 43 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 |

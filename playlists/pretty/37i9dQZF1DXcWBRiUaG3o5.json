@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1242315,
+  "num_followers": 1242280,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 236236,
       "name": "Go Baby",
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Nordic Mellow",
-        "url": "https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 185235,
-      "name": "Blanket",
-      "url": "https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Acoustic EP",
         "url": "https://open.spotify.com/album/7qrefGYj0VGyK601YKgxsx"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 284880,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/0Lrw2If9v68OrhrOw1FV3C"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "The Nordic Mellow",
+        "url": "https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 185235,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Mary Glenn",
-        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
-      },
-      "artists": [
-        {
-          "name": "Mary Glenn",
-          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Ballroom",
-      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Some Kind of Heaven",
         "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 310799,
       "name": "Some Kind of Heaven",
       "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Mary Glenn",
+        "url": "https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR"
+      },
+      "artists": [
+        {
+          "name": "Mary Glenn",
+          "url": "https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0"
+        }
+      ],
+      "duration_ms": 246920,
+      "name": "Ballroom",
+      "url": "https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK"
-      },
-      "artists": [
-        {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Fortune - Acoustic",
-      "url": "https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Witness Trees",
         "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 160821,
       "name": "Witness Trees",
       "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Fortune - Acoustic",
+      "url": "https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Folding Leaves",
+        "url": "https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        }
+      ],
+      "duration_ms": 331111,
+      "name": "Wake Me",
+      "url": "https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Top to Toe",
         "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Folding Leaves",
-        "url": "https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        }
-      ],
-      "duration_ms": 331111,
-      "name": "Wake Me",
-      "url": "https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj"
       },
       "artists": [
         {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 253946,
-      "name": "One More Chance",
-      "url": "https://open.spotify.com/track/5WXoxLVNn7Bxrn0Q2RHfka"
+      "duration_ms": 230520,
+      "name": "Even The Darkness Has Arms",
+      "url": "https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1"
     }
   ],
   "unique_name": "Evening Acoustic",

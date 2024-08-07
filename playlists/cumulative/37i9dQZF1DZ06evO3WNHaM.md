@@ -2,7 +2,7 @@
 
 ### [This Is Deftones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WNHaM)
 
-> This Is Deftones\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Deftones\. The essential tracks, all in one playlist.
 
 60 songs - 4 hr 12 min
 

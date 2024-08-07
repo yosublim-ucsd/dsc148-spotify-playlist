@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Gepe.",
-  "num_followers": 25676,
+  "num_followers": 25683,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Soy lo que Doy",
-        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Soy lo que Doy",
-      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "AHORA QUE ME VOY",
         "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 184889,
       "name": "AHORA QUE ME VOY",
       "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Soy lo que Doy",
+        "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Soy lo que Doy",
+      "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "S\u00e1banas Azules",
-        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "S\u00e1banas Azules",
-      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Los Ojos del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
       },
@@ -587,22 +571,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Lo que necesito",
-        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+        "name": "S\u00e1banas Azules",
+        "url": "https://open.spotify.com/album/2VR2qofaUSX0gWdZS436e6"
       },
       "artists": [
         {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 200191,
-      "name": "Lo que necesito",
-      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
+      "duration_ms": 177000,
+      "name": "S\u00e1banas Azules",
+      "url": "https://open.spotify.com/track/2gCqFVyb4QGHe0ZxrKsDYf"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -627,6 +607,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Lo que necesito",
+        "url": "https://open.spotify.com/album/4IsJ57gam4V2vSqrN5GlKT"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 200191,
+      "name": "Lo que necesito",
+      "url": "https://open.spotify.com/track/3uTIEwwY9uHgmKEbkaGDFd"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Los Lobos del Recuerdo",
         "url": "https://open.spotify.com/album/17BgcItk2ixHXDenSIdA4T"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 171990,
       "name": "F\u00f3sil",
       "url": "https://open.spotify.com/track/0gxxQkcl0XPRnAvwG0XZ5K"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -679,6 +695,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Frik",
+        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
+      },
+      "artists": [
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 193911,
+      "name": "Frik",
+      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -699,38 +735,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+        "name": "La noche ha ca\u00eddo",
+        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
       },
       "artists": [
         {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Frik",
-        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
-      },
-      "artists": [
-        {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 193911,
-      "name": "Frik",
-      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
+      "duration_ms": 250615,
+      "name": "La noche ha ca\u00eddo",
+      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -779,38 +795,6 @@
       "duration_ms": 226543,
       "name": "PENAS",
       "url": "https://open.spotify.com/track/63joaviht0iheSEokFFzgV"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "La noche ha ca\u00eddo",
-        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 250615,
-      "name": "La noche ha ca\u00eddo",
-      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Compostaje",
-        "url": "https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 192565,
-      "name": "Compostaje",
-      "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 144545,
       "name": "Nace una Madre",
       "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Compostaje",
+        "url": "https://open.spotify.com/album/0CFAjH7BZwFxZ8SgXpgYjS"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 192565,
+      "name": "Compostaje",
+      "url": "https://open.spotify.com/track/3AJKDVldCDfyOPlEH2rXEz"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Ibamos",
+        "url": "https://open.spotify.com/album/1sDWPwNEdWj2pSl31lONPH"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213761,
+      "name": "Ibamos",
+      "url": "https://open.spotify.com/track/3kImUcpEk3KoXp2RX6cwPa"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Track",
+        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 204241,
+      "name": "Track Track",
+      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -1079,38 +1111,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Track",
-        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        }
-      ],
-      "duration_ms": 204241,
-      "name": "Track Track",
-      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Ibamos",
-        "url": "https://open.spotify.com/album/1sDWPwNEdWj2pSl31lONPH"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213761,
-      "name": "Ibamos",
-      "url": "https://open.spotify.com/track/3kImUcpEk3KoXp2RX6cwPa"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "LIBRE",
-        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 206803,
-      "name": "Todo lo que puedo darte",
-      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "FR\u00c1GIL",
         "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 324000,
       "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
       "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "LIBRE",
+        "url": "https://open.spotify.com/album/6opBoHmSflI3SYsk9XbR5O"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 206803,
+      "name": "Todo lo que puedo darte",
+      "url": "https://open.spotify.com/track/45vVudfLzNbFgiYjWpQCsh"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Esperarte",
-        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Esperarte",
-      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Esperarte",
+        "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Esperarte",
+      "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Podr\u00eda Ser",
-        "url": "https://open.spotify.com/album/1VXacXfFyc0IrqBPHaC76V"
-      },
-      "artists": [
-        {
-          "name": "Ana Prada",
-          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Podr\u00eda Ser",
-      "url": "https://open.spotify.com/track/71zKKPiAt3saVxhaMAwvdf"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Un Viajecito",
         "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 282114,
       "name": "Tonada de Luna Llena",
       "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Podr\u00eda Ser",
+        "url": "https://open.spotify.com/album/1VXacXfFyc0IrqBPHaC76V"
+      },
+      "artists": [
+        {
+          "name": "Ana Prada",
+          "url": "https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Podr\u00eda Ser",
+      "url": "https://open.spotify.com/track/71zKKPiAt3saVxhaMAwvdf"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1643,6 +1643,26 @@
       "duration_ms": 367388,
       "name": "Latinoam\u00e9rica (Aqu\u00ed estamos de pie)",
       "url": "https://open.spotify.com/track/2LSLrUEM8IZ3WrUE4wv8vO"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
+      },
+      "artists": [
+        {
+          "name": "Abi Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
+        },
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 258778,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1759,22 +1779,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "No lo necesito",
-        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "No lo necesito",
-      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Ya No",
         "url": "https://open.spotify.com/album/7492tJpGlwrroaV9KnT0qI"
       },
@@ -1791,26 +1795,6 @@
       "duration_ms": 206000,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/6dQOKFz7kc78aMWHTKNJN4"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
-      },
-      "artists": [
-        {
-          "name": "Abi Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
-        },
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 258778,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1895,6 +1879,42 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "No lo necesito",
+        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "No lo necesito",
+      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Me Late",
         "url": "https://open.spotify.com/album/0Mkxb8rknAgLlrwqv9XdFv"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 206737,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
-        }
-      ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2024-08-02 03:00:00",

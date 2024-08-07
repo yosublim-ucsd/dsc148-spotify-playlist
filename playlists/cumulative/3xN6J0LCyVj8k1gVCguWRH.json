@@ -9455,6 +9455,24 @@
     },
     {
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/6DsNP2pVlT4zNAwJxkuWpS"
+      },
+      "artists": [
+        {
+          "name": "Izzy Stylez",
+          "url": "https://open.spotify.com/artist/4pEod5b5VcEVvERxLzi456"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3n34ONVv5ZFcxSPZNnTteb"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -10328,7 +10346,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 121874,
       "name": "Careless",
       "url": "https://open.spotify.com/track/5P3i6ApSZNcb9zG0dYfYuE"
@@ -21044,7 +21062,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 149386,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5vZxsA4a002KSXHB5g0Kkr"
@@ -21218,6 +21236,24 @@
       "duration_ms": 193090,
       "name": "Fixations",
       "url": "https://open.spotify.com/track/1DPtuwtUxem0qvTRXz2Rzt"
+    },
+    {
+      "album": {
+        "name": "Fiyah",
+        "url": "https://open.spotify.com/album/3eVagZhjuvBs4gzIRKKI6C"
+      },
+      "artists": [
+        {
+          "name": "Angel + Dren",
+          "url": "https://open.spotify.com/artist/6Ye3j17VAZMvh1v24l1hXc"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "Fiyah",
+      "url": "https://open.spotify.com/track/33G8UNApZc1wizedNUbYOX"
     },
     {
       "album": {
@@ -24932,7 +24968,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 176172,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/3a86vrsmi1lDfqw1nGQHux"
@@ -28845,6 +28881,24 @@
     },
     {
       "album": {
+        "name": "I Just Wish",
+        "url": "https://open.spotify.com/album/2WP0D3mEt7ieRvV5ypzOEX"
+      },
+      "artists": [
+        {
+          "name": "Victoria Sorensen",
+          "url": "https://open.spotify.com/artist/1ezhiaH3xp6eMO7L7HO4bh"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "I Just Wish",
+      "url": "https://open.spotify.com/track/4L5SAcyv6nl2AQYLGP5FcS"
+    },
+    {
+      "album": {
         "name": "I Keep Changing",
         "url": "https://open.spotify.com/album/4yc4vFhNWAeBgFAL7kokFL"
       },
@@ -29808,7 +29862,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 188891,
       "name": "I'm the Man",
       "url": "https://open.spotify.com/track/61TecE9fSXzVK411EAMmWi"
@@ -47788,7 +47842,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 296103,
       "name": "Play Pretend",
       "url": "https://open.spotify.com/track/6YHAPEW6qoB0zyuLKwNVfb"
@@ -52054,7 +52108,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 169586,
       "name": "satisfied",
       "url": "https://open.spotify.com/track/2SoWaWEWXagoEm8hhnsp42"

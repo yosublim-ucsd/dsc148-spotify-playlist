@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sycco
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,006 likes - 96 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,027 likes - 96 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 91 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
 | 92 | [Make Up Moves](https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Make Up Moves](https://open.spotify.com/album/3GfloiOsCKtnIczfMUwBtY) | 3:14 |
 | 93 | [Colours of My Daydream](https://open.spotify.com/track/30PWjgRrPk1Rv7vNqJG6Qa) | [Charlie Gradon](https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU) | [Colours of My Daydream](https://open.spotify.com/album/6iHe3J2Mzh7DnJiqQEHfJw) | 3:53 |
-| 94 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 |
+| 94 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g), [Jacob Charlton](https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 |
 | 95 | [Back To](https://open.spotify.com/track/3sHslQ40B0HUCF7YEWrHmy) | [darvid thor](https://open.spotify.com/artist/40WIumh8mZB6blJX5FJNQ2) | [In The Space You Carry](https://open.spotify.com/album/0Zwakjw8z6sgdNAxNkVoNG) | 4:12 |
 | 96 | [Real Life = No Fun](https://open.spotify.com/track/6Akiwo0NUV2CcwgQZlbX7S) | [LT](https://open.spotify.com/artist/1H9tC3HHjabSLu8rbq9ECA) | [Real Life = No Fun](https://open.spotify.com/album/4cbN3dl7Fn1cR1Bh0rPjIj) | 2:38 |
 

@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-142 songs - 6 hr 15 min
+143 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Cruising](https://open.spotify.com/track/6fFRzJrLWUTTBiCzyMRTnG) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 4:26 | 2022-05-29 |  |
 | [Crystal Cascade](https://open.spotify.com/track/0XI6a5hslyflBMIHuFWrrz) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:26 | 2023-11-10 | 2024-03-12 |
 | [Dark Vision](https://open.spotify.com/track/5WuOblWMG2QcshyAU0eKxN) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [1980's Synth Dark Drama](https://open.spotify.com/album/1OvLPPH43KA37S0UnBZRk9) | 3:07 | 2024-02-18 |  |
-| [Dave Allen at Large](https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 0:49 | 2022-05-29 |  |
+| [Dave Allen at Large](https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 0:49 | 2022-05-29 | 2024-08-07 |
 | [Dave Is Not Here](https://open.spotify.com/track/18LmkmkifrB5KQ9Wot8unF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Alessandro Rizzo](https://open.spotify.com/artist/6E3g7aS7Tngha3AtNeuc44), [Elliot Ireland](https://open.spotify.com/artist/3mDHOImVK3BjoclJQM8RXb) | [Vintage Remix Boutique \- Skeewiff vs Kpm](https://open.spotify.com/album/0omBhh34SdDB0XYUwWRG7S) | 3:52 | 2022-05-30 | 2022-09-03 |
 | [Days of Orange Squash](https://open.spotify.com/track/2qoCKiFr4ndUP54Cx0Cyr5) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:19 | 2022-06-21 |  |
 | [Daytripper](https://open.spotify.com/track/5sCLrLK23NaohKCvKVzBf0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Synthesizer and Percussion](https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310) | 2:23 | 2022-11-12 | 2023-12-22 |
@@ -88,6 +88,7 @@
 | [Mystique Voyage](https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 2:49 | 2022-05-29 | 2024-05-05 |
 | [Name of the Game](https://open.spotify.com/track/7jsactTYPuOWrVfLRL40lt) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Hot Wax](https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr) | 4:26 | 2022-05-29 |  |
 | [Neck And Neck](https://open.spotify.com/track/05146j3iazNxLQNF5b6lCH) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Live Action](https://open.spotify.com/album/0aK3l7mzwVJOHvdQGqm9I2) | 3:46 | 2022-09-19 | 2022-09-21 |
+| [News Gathering](https://open.spotify.com/track/3n5NMageflaCFoNpCtqxmW) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Serious Business](https://open.spotify.com/album/4HQlBN7s7dLNnhkgqwxfGI) | 1:46 | 2024-08-07 |  |
 | [Oddball](https://open.spotify.com/track/64cp2gJk8vTFmLKX5djyOg) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Synthesizer and Percussion](https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310) | 3:03 | 2022-05-29 |  |
 | [On The Nile](https://open.spotify.com/track/0YLgGHYNK5B3diFWckaHUU) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:31 | 2022-06-18 | 2024-03-09 |
 | [One Step Ahead](https://open.spotify.com/track/3fjunzo6VwfnWb2o0bbV31) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 2:59 | 2022-05-29 | 2022-10-13 |

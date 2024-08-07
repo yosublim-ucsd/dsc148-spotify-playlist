@@ -16,7 +16,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN"
@@ -203,6 +203,42 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389773,
+      "name": "Al-Hobbi Koullou",
+      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "album": {
+        "name": "Badak Maleoun Seneh",
+        "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 954506,
+      "name": "Ala Babee Waqef Qamaren",
+      "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+    },
+    {
+      "album": {
         "name": "Best of Wadih El Safi, Vol. 1",
         "url": "https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2"
       },
@@ -236,6 +272,42 @@
       "duration_ms": 2497280,
       "name": "Alf Leila We Leila",
       "url": "https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD"
+    },
+    {
+      "album": {
+        "name": "Noujoum aghani zamane",
+        "url": "https://open.spotify.com/album/1qwsdN250QIB3s13ibi16U"
+      },
+      "artists": [
+        {
+          "name": "Wadie Essafi",
+          "url": "https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363106,
+      "name": "Allaylou ya Layla",
+      "url": "https://open.spotify.com/track/6cfPLNdptZyDvDD6ugWCro"
+    },
+    {
+      "album": {
+        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
+        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+      },
+      "artists": [
+        {
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666840,
+      "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
+      "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
     },
     {
       "album": {
@@ -448,7 +520,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 207560,
       "name": "Bala Wala Chi",
       "url": "https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX"
@@ -506,6 +578,24 @@
       "duration_ms": 2394493,
       "name": "El Atlal",
       "url": "https://open.spotify.com/track/7rZPVMXSYn63KC2Fco2vr6"
+    },
+    {
+      "album": {
+        "name": "El Layale",
+        "url": "https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6"
+      },
+      "artists": [
+        {
+          "name": "Mayada El Hennawy",
+          "url": "https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1185163,
+      "name": "El Hop Elly Kan",
+      "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
     },
     {
       "album": {
@@ -628,10 +718,64 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 1248014,
       "name": "Gabar",
       "url": "https://open.spotify.com/track/0fq53r3URq2W2Oyioi4WwP"
+    },
+    {
+      "album": {
+        "name": "El Toba",
+        "url": "https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu"
+      },
+      "artists": [
+        {
+          "name": "Abdel Halim Hafez",
+          "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 742100,
+      "name": "Gana El Hawa Live Record",
+      "url": "https://open.spotify.com/track/4vN8c5cbkX3Zg9NyWGf661"
+    },
+    {
+      "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ"
+    },
+    {
+      "album": {
+        "name": "Haramt Ahebak",
+        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476487,
+      "name": "Haramt Ahebak",
+      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
     },
     {
       "album": {
@@ -650,6 +794,24 @@
       "duration_ms": 223712,
       "name": "Helwi W Ya Niyalha",
       "url": "https://open.spotify.com/track/0pK13fWr2YzS8UjHMq9vUY"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "album": {
@@ -718,10 +880,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-07",
       "duration_ms": 580272,
       "name": "La Mosh Ana Ely Abky",
       "url": "https://open.spotify.com/track/0uJDPlP8M8GX3rtkN42zmw"
+    },
+    {
+      "album": {
+        "name": "Law Fina",
+        "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
+      },
+      "artists": [
+        {
+          "name": "Mais Harb",
+          "url": "https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371890,
+      "name": "Law Fina",
+      "url": "https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s"
     },
     {
       "album": {
@@ -740,6 +920,46 @@
       "duration_ms": 375640,
       "name": "Machroul Alik Machroul",
       "url": "https://open.spotify.com/track/3cwqnP80jyybhbb8n1kIfW"
+    },
+    {
+      "album": {
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
+    },
+    {
+      "album": {
+        "name": "Midri",
+        "url": "https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs"
+      },
+      "artists": [
+        {
+          "name": "Malek El Yaman",
+          "url": "https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI"
+        },
+        {
+          "name": "Carole Aoun",
+          "url": "https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275906,
+      "name": "Midri",
+      "url": "https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW"
     },
     {
       "album": {
@@ -833,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Melhem Barakat",
+        "url": "https://open.spotify.com/album/5NV5n0I5B6MxYYWV9cd3vK"
+      },
+      "artists": [
+        {
+          "name": "Melhem Barakat",
+          "url": "https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325485,
+      "name": "Sallem Aaleha",
+      "url": "https://open.spotify.com/track/0fV5cFZhetebJVSe4HCIiO"
+    },
+    {
+      "album": {
         "name": "Legend - The Best Of Fairuz",
         "url": "https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM"
       },
@@ -887,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Sahra (Live Rare Concert Recording)",
+        "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293093,
+      "name": "Tair ya hawa - Live",
+      "url": "https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie"
+    },
+    {
+      "album": {
         "name": "Rawaeaa Abd El Halim 5",
         "url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3"
       },
@@ -902,6 +1158,42 @@
       "duration_ms": 353026,
       "name": "Toba",
       "url": "https://open.spotify.com/track/463xNIeV700zPD76R2wXQq"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376386,
+      "name": "Wahashtini",
+      "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
+    },
+    {
+      "album": {
+        "name": "Wehyaty Andak",
+        "url": "https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP"
+      },
+      "artists": [
+        {
+          "name": "\u0630\u0643\u0631\u0649",
+          "url": "https://open.spotify.com/artist/1pqxZozlopgLx5QhDAoKIB"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427142,
+      "name": "Wehyaty Andak",
+      "url": "https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u"
     },
     {
       "album": {
@@ -1010,6 +1302,24 @@
       "duration_ms": 392840,
       "name": "Ya Sarek Makatibi",
       "url": "https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN"
+    },
+    {
+      "album": {
+        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
+        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+      },
+      "artists": [
+        {
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160413,
+      "name": "Ya Tera Tiri",
+      "url": "https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ"
     },
     {
       "album": {

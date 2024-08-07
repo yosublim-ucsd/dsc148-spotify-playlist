@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: Jonah Yano
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,727 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,739 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 7 | [Communication](https://open.spotify.com/track/68fRVWyPvb63bjiKYigmxj) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Communication](https://open.spotify.com/album/14kGxa1vF3z4BiSiwNPXSC) | 1:30 |
 | 8 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
 | 9 | [Monkey Madness](https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Monkey Madness](https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu) | 2:49 |
-| 10 | [Spit](https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit](https://open.spotify.com/album/00WnMLBOx4vXamTuUfuahE) | 2:36 |
+| 10 | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit \(feat\. BEAM & Lady Lykez\)](https://open.spotify.com/album/00WnMLBOx4vXamTuUfuahE) | 2:36 |
 | 11 | [GiNGA](https://open.spotify.com/track/30jS2pH1jqAIHNB5MUGXyh) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [$kyhook](https://open.spotify.com/artist/0lxgPYvUjEApUKpZmr61IE) | [GiNGA](https://open.spotify.com/album/7onrXtU0ycpBhY7GPfYEp8) | 2:17 |
 | 12 | [You Could Hate Me](https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [You Could Hate Me](https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd) | 4:11 |
 | 13 | [New Black History \(feat\. Vince Staples\)](https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:16 |

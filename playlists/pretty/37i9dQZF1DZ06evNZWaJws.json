@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 307997,
+  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
+  "num_followers": 308060,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq7EgAAAAABqS+Y0s1M0e27oqvZCSru/",
+  "snapshot_id": "ZrAWAAAAAABJb47mxcb5uJiF8uRUKEu9",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00c1guila Blanca",
         "url": "https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 135882,
       "name": "El \u00c1guila Blanca",
       "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,

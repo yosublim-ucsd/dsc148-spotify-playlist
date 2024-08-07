@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 74349,
+  "num_followers": 74378,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 221578,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Oasis (The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/37PYdrUtg45otbte44i8C1"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 194666,
       "name": "Oasis - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/1EBbJK4lkT2dpsgZoaioRD"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 221578,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/5v5rbWpEf9toQLUmMo1JdW"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "Someone To Understand",
+        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Someone To Understand",
+      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 175800,
       "name": "Raven",
       "url": "https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "Someone To Understand",
-        "url": "https://open.spotify.com/album/3Mjmru8yIQ82iI1FhUeOjR"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Someone To Understand",
-      "url": "https://open.spotify.com/track/2id33zu9qH4rfLR8qPvr8v"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
     },
     {
       "added_at": "2024-08-02 06:50:39",
