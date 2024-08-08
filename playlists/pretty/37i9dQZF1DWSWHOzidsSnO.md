@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Elsa y Elmar.
+> ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greccia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,885 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,799 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
-| 2 | [La Sentada](https://open.spotify.com/track/6iql0jmyrOmtI58SGMI3IJ) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Más Canciones Crudas](https://open.spotify.com/album/72xjCUlKRiJbEtQo9Zt9BV) | 2:28 |
-| 3 | [La Guerrillera](https://open.spotify.com/track/7rYpStRgGuYLORHiK9T77c) | [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi), [Adriana Lizcano](https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje) | [Panfletos](https://open.spotify.com/album/4ICrtpGBkeJrD6wtoZTbsV) | 3:11 |
-| 4 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
-| 5 | [De Curvo Cuerpo](https://open.spotify.com/track/2xsXk1ryjN5Z4nhODZuIcr) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:37 |
-| 6 | [A Eme O](https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:27 |
-| 7 | [ME OYES](https://open.spotify.com/track/4OOBhhIndRwpgK5kagX6yh) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Directo al Cora](https://open.spotify.com/album/5WwLBuJddCTKWReuK0vg81) | 2:58 |
-| 8 | [Al Frente](https://open.spotify.com/track/45vUOhtCmbO1cNa5lIpBrF) | [Mareah](https://open.spotify.com/artist/30fNLnUSmzaRkYy9ygsBpf) | [Al Frente](https://open.spotify.com/album/6AwjofI0SIR9wVZV7t7bJO) | 3:02 |
-| 9 | [Quiero Que Te Quedes](https://open.spotify.com/track/6xAM9IOtQC7OLlCqLU2EKN) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Porro Nuevo](https://open.spotify.com/album/3aZKbAXvqmmK4m3HcZUN1t) | 3:55 |
-| 10 | [Niña Bonita](https://open.spotify.com/track/1P4FdxMW67mPPbbM4FBhqR) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Baile de los Sueños](https://open.spotify.com/album/4t6JSY0PRzS9rIX7faeDCJ) | 3:59 |
-| 11 | [De Repente](https://open.spotify.com/track/1V5RyvGRDqPVtTQJmvgolV) | [Ines Gaviria](https://open.spotify.com/artist/5csQq4TumSO1XpuaxiL9V7) | [A Mi Manera](https://open.spotify.com/album/6fRhAx0ubcgmvRfyOs5pvS) | 3:55 |
-| 12 | [De Repente](https://open.spotify.com/track/1eosB5ApmpsOCza1ZrH4gT) | [Soraya](https://open.spotify.com/artist/5QV6mGzGzt5zPKhzGgl05z) | [Gold](https://open.spotify.com/album/5jpQixMcvqrfvcGiUC8f7F) | 4:04 |
-| 13 | [Lo Que Más](https://open.spotify.com/track/6c8ZIkGXlKE5vSzrUbHLDr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:26 |
-| 14 | [A Ella](https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Unstoppable](https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR) | 3:18 |
-| 15 | [Me Borrarás](https://open.spotify.com/track/44jOpWBjFxM30IdLVOmjEs) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:49 |
-| 16 | [Candela](https://open.spotify.com/track/0dDoN55gxbg0PmFvtcmn9H) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Candela](https://open.spotify.com/album/4RANXwB2YN0cmRpSCvCNXk) | 2:38 |
-| 17 | [No Soy Del Valle](https://open.spotify.com/track/3tkrKE6l85eRvrek4Nu4Fk) | [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:10 |
-| 18 | [A Rró Rró](https://open.spotify.com/track/1LLlEN65HIIi0tClviD66f) | [Petrona Martinez](https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa) | [Mi Tambolero](https://open.spotify.com/album/4mNkZ83rQuDORGfHmQscKJ) | 5:45 |
-| 19 | [Buscando Un Final](https://open.spotify.com/track/54WkwkUcQkceca0pAU5lhQ) | [Ilona](https://open.spotify.com/artist/26maRQ2rFqGC9vHNB39a6Z) | [Desde Mi Ventana](https://open.spotify.com/album/5UX026UHSbkr5fOSpygdyT) | 3:08 |
-| 20 | [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 |
-| 21 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
+| 1 | [21 de septiembre](https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [21 de septiembre](https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko) | 2:07 |
+| 2 | [Me Miro](https://open.spotify.com/track/6icywknGZ8t3r9gs5FMHNf) | [Daniela De Izcue](https://open.spotify.com/artist/4Iv6Q2peY4JAsy289Ez8r3) | [Me Miro](https://open.spotify.com/album/1JnL8DPkXhhuABWdIhUgdk) | 1:49 |
+| 3 | [Bossa](https://open.spotify.com/track/7vcW9mEMLdzZrfkNYOKRZg) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Bossa](https://open.spotify.com/album/0YAlotKeb1bClOpn3xpj3C) | 2:29 |
+| 4 | [valentina](https://open.spotify.com/track/24PrVa1GTS1QwdKs50eKE7) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 2:48 |
+| 5 | [Sunny Dayzzz](https://open.spotify.com/track/6nAjN1pkakBSZ6RRhVkhZn) | [Michaela Fano](https://open.spotify.com/artist/7HRqGghJV95hgMIuRligBR), [Uawa](https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF) | [Sunny Dayzzz](https://open.spotify.com/album/2ELyofosw0umANenLrOyza) | 2:27 |
+| 6 | [Abril](https://open.spotify.com/track/0Hene4TxlQgPi6nB8y7Ipn) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Luna Nueva](https://open.spotify.com/album/5yQ9Q20mt43xcd3arHgB2L) | 2:51 |
+| 7 | [Un Poco Más de Tiempo](https://open.spotify.com/track/4nEpzqWzqgYM7qCWcRQJso) | [Hidalgø](https://open.spotify.com/artist/3oif5D6VaYHccDARKfTQlK), [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [Un Poco Más de Tiempo](https://open.spotify.com/album/7uI5zk12xKLEkuQaV8XFfL) | 2:31 |
+| 8 | [FLECHA ROTA](https://open.spotify.com/track/3fuZQb4faCTSiqGtz0X1Rc) | [Ciané](https://open.spotify.com/artist/3cpha5URieEAvUwWwLE348), [GRIAL](https://open.spotify.com/artist/3YWsZJKaRyTdDewYLNTif1), [El Pez Diablo](https://open.spotify.com/artist/0MRjcNNPJHZOagT6bmoSCN) | [FLECHA ROTA](https://open.spotify.com/album/2tgjKxc5itm72ARdFImZnf) | 2:45 |
+| 9 | [Nasty](https://open.spotify.com/track/4jikJL2f8dOlDly0NwX2aD) | [Marié](https://open.spotify.com/artist/4lRYotl47YWZ4otfWML8dX) | [Chica Alfa](https://open.spotify.com/album/1ON0wdY39KBDlYRX8NM6z4) | 3:01 |
+| 10 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 11 | [Loca](https://open.spotify.com/track/0JlvmfAxJlUE2rCthIxIJJ) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [Loca](https://open.spotify.com/album/01fgle2itlUalSwNrqb3ZC) | 3:02 |
+| 12 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
+| 13 | [Kung Fushion](https://open.spotify.com/track/7CQMkI6QdBlGHcY5KrxcWD) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [DEBUT](https://open.spotify.com/album/7dQNB0f4oHyXikawZWmuUU) | 4:44 |
+| 14 | [XQ TAN DIFERENTE? \(≠\)](https://open.spotify.com/track/5DeT4M05uBKK6mAuVTXYIY) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:00 |
+| 15 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
+| 16 | [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 |
+| 17 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 |
+| 18 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
+| 19 | [Pero Frágil](https://open.spotify.com/track/5VhKKkNdzFCeijhApJWnis) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [Pero Frágil](https://open.spotify.com/album/4Ru87PmTzlRJxwh0zgptXc) | 4:15 |
+| 20 | [Dead To Me](https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:19 |
+| 21 | [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 |
 | 22 | [Fórmula 1](https://open.spotify.com/track/0LxCc5e6eYqCytwaiXDTXB) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Fórmula 1](https://open.spotify.com/album/03AqKstdfmHhXioC73KQ3B) | 2:37 |
 | 23 | [entre las piernas](https://open.spotify.com/track/4f2r4lwi75qoFAPFNAhOE9) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [VISTO](https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR) | 3:31 |
 | 24 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 99 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 100 | [Habitación](https://open.spotify.com/track/6Za9ddL9Q4Azhh1PKm2rXE) | [rulolo](https://open.spotify.com/artist/0wUnZqPe3TfKVj7Fbbgfqt), [Maya Endo](https://open.spotify.com/artist/05swzPCeWZMjApcUBYLyyi) | [Habitación](https://open.spotify.com/album/5ziLtNjrl2ZeyF4ZwauFQm) | 3:00 |
 
-Snapshot ID: `ZoTalAAAAAAPwBz/sy+f2sNYH6KhQV+u`
+Snapshot ID: `ZrL/FAAAAAB5YW1NFy6v6aKxFqhKMMxP`

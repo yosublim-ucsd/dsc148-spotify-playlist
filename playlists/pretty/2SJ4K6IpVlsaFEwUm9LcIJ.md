@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,768 likes - 45 songs - 2 hr 34 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,778 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 43 | [Does Love Last Forever?](https://open.spotify.com/track/3oZjGlG2QP22zqhT0G3rHU) | [Brighter](https://open.spotify.com/artist/0A4i4n0dws4gJWhdg1OWJu) | [Disney & Other Singles](https://open.spotify.com/album/0D1f2vDRkveLgO8N5hWjtG) | 2:32 |
 | 44 | [Bizarre Love Triangle \- Remastered](https://open.spotify.com/track/3AJ7w7Un7IIMyRJ6PJ2pOJ) | [Even As We Speak](https://open.spotify.com/artist/76TkEBFTqaVNF4KWwaQudW) | [Blue Suburban Skies \(1987 Remastered\)](https://open.spotify.com/album/55mptKYNpfe7yjIdAlXK2H) | 2:02 |
 | 45 | [Twee](https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ) | [Tullycraft](https://open.spotify.com/artist/3KtOvpYuKClAuYxJqdITm6) | [Beat Surf Fun](https://open.spotify.com/album/6AN7guo4oFxMb5OU3pAe3m) | 3:21 |
+| 46 | [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 |
 
-Snapshot ID: `AAAK3UJ9tEAQyts+izIsV6/0o4u35vZ1`
+Snapshot ID: `AAAK3h9GyZ/z0GekGG59IppFxomd8go2`

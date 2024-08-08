@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 136561,
       "name": "Cakewalk",
       "url": "https://open.spotify.com/track/1yhc4lkoOvE0IgWxU3WXeT"
@@ -2675,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205897,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
+    },
+    {
+      "album": {
         "name": "Girls Just Wanna Have Funds",
         "url": "https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf"
       },
@@ -2954,7 +2976,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 155685,
       "name": "H.O.T.",
       "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
@@ -3028,6 +3050,24 @@
       "duration_ms": 195428,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "album": {
@@ -3189,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "I Am Free (C&B's Deep Mix)",
+        "url": "https://open.spotify.com/album/6pqVO4XJZU0uOuSA66Hua8"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212462,
+      "name": "I Am Free - C&B's Deep Mix",
+      "url": "https://open.spotify.com/track/6L0kVeuHGnSnrTJS53TwT8"
+    },
+    {
+      "album": {
         "name": "I Know It",
         "url": "https://open.spotify.com/album/2fJGRJvukowSvJyk1kwjxV"
       },
@@ -3310,6 +3368,24 @@
       "duration_ms": 209763,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
+    },
+    {
+      "album": {
+        "name": "Inter Transit",
+        "url": "https://open.spotify.com/album/5heGxFe0I0vDVKR3HTtMMy"
+      },
+      "artists": [
+        {
+          "name": "AceMo",
+          "url": "https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316537,
+      "name": "Inter Transit",
+      "url": "https://open.spotify.com/track/5LC0lrlC74v1onS2FoOkQ8"
     },
     {
       "album": {
@@ -3495,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "Keep Dancing (4Korners Remix)",
+        "url": "https://open.spotify.com/album/4G9jyZ2oouNqKbFrtT46Fw"
+      },
+      "artists": [
+        {
+          "name": "Aliya Janell",
+          "url": "https://open.spotify.com/artist/5hLxDgnestofBUnhBoOkjI"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245235,
+      "name": "Keep Dancing (4Korners Remix)",
+      "url": "https://open.spotify.com/track/3fQWjVDJXdrvzNNkJ1DyUI"
+    },
+    {
+      "album": {
         "name": "Monsieur Frazier EP",
         "url": "https://open.spotify.com/album/79jwkyOfXm3NDYkFsMhapz"
       },
@@ -3536,6 +3634,32 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "album": {
+        "name": "King Of My Castle (feat. Kali Mija) [Hypaphonik Remixes]",
+        "url": "https://open.spotify.com/album/6fWb0AIOfAXLj54KelcKmP"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343728,
+      "name": "King Of My Castle (feat. Kali Mija) - Hypaphonik Derived Mix",
+      "url": "https://open.spotify.com/track/1lJOyFAgSx5qORyC6tLEeF"
     },
     {
       "album": {
@@ -3745,6 +3869,28 @@
     },
     {
       "album": {
+        "name": "lift off!",
+        "url": "https://open.spotify.com/album/5PCGG2ken65WpPN06uqa08"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214391,
+      "name": "lift off!",
+      "url": "https://open.spotify.com/track/1lsuQNbQXg0smdcAaRpmja"
+    },
+    {
+      "album": {
         "name": "Liftin Me Up",
         "url": "https://open.spotify.com/album/0dcn0RB0Ox33CNrXIU51P9"
       },
@@ -3852,6 +3998,24 @@
       "duration_ms": 185697,
       "name": "Look At Me Dance",
       "url": "https://open.spotify.com/track/2ByH7zQsZ5ZGjbWRZpFoRI"
+    },
+    {
+      "album": {
+        "name": "LOOKING FOR JOY",
+        "url": "https://open.spotify.com/album/3wCt9lFevXlCjEugo5LPlV"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "LOOKING FOR JOY",
+      "url": "https://open.spotify.com/track/5EqfKJSbG8yQBicX9YRMKu"
     },
     {
       "album": {
@@ -4034,7 +4198,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 182960,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/1NMSZn1gconZXGv0NSRuO6"
@@ -4316,7 +4480,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 158140,
       "name": "Motown Philly",
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
@@ -5379,6 +5543,28 @@
     },
     {
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41"
       },
@@ -5456,7 +5642,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -5908,7 +6094,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
@@ -6132,7 +6318,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 430186,
       "name": "She Raised Us in Sunset Park",
       "url": "https://open.spotify.com/track/1kPF7DWqhc0uZb6VxhFHTr"
@@ -6634,7 +6820,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 207895,
       "name": "Sweet Devotion - Edit",
       "url": "https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd"
@@ -7364,7 +7550,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE"

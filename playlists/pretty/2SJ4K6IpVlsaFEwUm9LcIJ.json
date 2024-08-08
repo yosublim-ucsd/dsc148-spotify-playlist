@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-aug 2024 (previous playlists archived on my profile)",
-  "num_followers": 20768,
+  "num_followers": 20778,
   "original_name": "living alone",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAK3UJ9tEAQyts+izIsV6/0o4u35vZ1",
+  "snapshot_id": "AAAK3h9GyZ/z0GekGG59IppFxomd8go2",
   "tracks": [
     {
       "added_at": "2024-07-12 00:10:32",
@@ -735,6 +735,22 @@
       "duration_ms": 201500,
       "name": "Twee",
       "url": "https://open.spotify.com/track/54JWqjwNUiAOI5lLzUX9IQ"
+    },
+    {
+      "added_at": "2024-08-07 19:43:32",
+      "album": {
+        "name": "Kpm 1000 Series: Archive Series Volume 1 - Light Atmospheres",
+        "url": "https://open.spotify.com/album/49GCMOquJta60c00taYMZ4"
+      },
+      "artists": [
+        {
+          "name": "Cedric King Palmer",
+          "url": "https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1"
+        }
+      ],
+      "duration_ms": 117160,
+      "name": "Hackney Carriage",
+      "url": "https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu"
     }
   ],
   "unique_name": "living alone",

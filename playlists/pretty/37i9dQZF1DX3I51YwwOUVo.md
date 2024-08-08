@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2024 Artists to Watch! Cover: Mochakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,154 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,162 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

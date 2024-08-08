@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? \(Cover:90TAN \(BTOB\)\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,569 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,512 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [90TAN \(BTOB\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 |
+| 1 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [구공탄 \(비투비\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 |
 | 2 | [SLASH](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
 | 3 | [Walk](https://open.spotify.com/track/5o5mfjvxzxRChb45hbWuuw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [WALK \- The 6th Album](https://open.spotify.com/album/1awTeiNvKPg5ZIVHrK0QML) | 3:11 |
 | 4 | [dummy](https://open.spotify.com/track/0sAq8cN9lvt9dkAWa5DtWb) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [dummy](https://open.spotify.com/album/0FUVybD9tZfWhKdCkLEC0v) | 3:22 |

@@ -3195,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231381,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
+    },
+    {
+      "album": {
         "name": "Ocells Com Tu",
         "url": "https://open.spotify.com/album/2EGrqsA5FKXfKdXI085gQB"
       },

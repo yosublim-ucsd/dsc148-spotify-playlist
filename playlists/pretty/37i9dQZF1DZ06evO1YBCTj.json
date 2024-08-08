@@ -1,12 +1,12 @@
 {
   "description": "This is keshi. The essential tracks, all in one playlist.",
-  "num_followers": 223033,
+  "num_followers": 223115,
   "original_name": "This Is keshi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAD/0wf7ZqfeVhnVrGyvHglt",
+  "snapshot_id": "ZrFngAAAAAC0GbET/pLLkqylYHVs8hY2",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "it kills me",
-        "url": "https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU"
+        "name": "magnolia",
+        "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
       },
       "artists": [
-        {
-          "name": "demxntia",
-          "url": "https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH"
-        },
         {
           "name": "keshi",
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 155428,
-      "name": "it kills me",
-      "url": "https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv"
+      "duration_ms": 139623,
+      "name": "magnolia",
+      "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "magnolia",
-        "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
+        "name": "it kills me",
+        "url": "https://open.spotify.com/album/2Pvln0VWu4UmatZ9cvlveU"
       },
       "artists": [
+        {
+          "name": "demxntia",
+          "url": "https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH"
+        },
         {
           "name": "keshi",
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 139623,
-      "name": "magnolia",
-      "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
+      "duration_ms": 155428,
+      "name": "it kills me",
+      "url": "https://open.spotify.com/track/5QWGib8UBj4U9ybzmpuTUv"
     },
     {
       "added_at": null,

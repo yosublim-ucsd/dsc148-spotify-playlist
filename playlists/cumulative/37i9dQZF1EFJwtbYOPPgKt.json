@@ -1317,6 +1317,36 @@
     },
     {
       "album": {
+        "name": "The Beach House",
+        "url": "https://open.spotify.com/album/4dpGegCDRiNp7zmjeMkK32"
+      },
+      "artists": [
+        {
+          "name": "Ninski",
+          "url": "https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS"
+        },
+        {
+          "name": "xoxo",
+          "url": "https://open.spotify.com/artist/39TA8es1L8uctnTtB7TBpa"
+        },
+        {
+          "name": "Ben Attic",
+          "url": "https://open.spotify.com/artist/7AtSIkvYZ5VZKGmFYXQJ5B"
+        },
+        {
+          "name": "Harina",
+          "url": "https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "You Give Me Something",
+      "url": "https://open.spotify.com/track/2pHD1Bf8bNI7irXb3m6DPi"
+    },
+    {
+      "album": {
         "name": "You've Got That Body",
         "url": "https://open.spotify.com/album/1hwKb2vCmbKze9IpC6ll21"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charli XCX & Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,337 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,366 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 57 | [Spinning](https://open.spotify.com/track/0konGKeICsTN7QNanNxQ5O) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Spinning](https://open.spotify.com/album/7IwA96mZthwarmei8ZThJF) | 2:46 |
 | 58 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 |
 | 59 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 |
-| 60 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 60 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 61 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 |
 | 62 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 |
 | 63 | [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 |

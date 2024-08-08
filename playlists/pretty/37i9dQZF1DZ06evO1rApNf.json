@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
-  "num_followers": 124354,
+  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
+  "num_followers": 124350,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACRqTdX5x5C6T95DIteALlk",
+  "snapshot_id": "ZrFngAAAAAA2Q0JDamDUwHrpdtjQzjw1",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malo",
-        "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 181804,
-      "name": "Malo",
-      "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/45YWYjXP1nV0l61m50E5dL"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 252268,
       "name": "Bota Fuego (feat. D\u00edmelo Flow, Justin Quiles & Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/4MxYiw28F30NGOaTZ1ySqd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malo",
+        "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 181804,
+      "name": "Malo",
+      "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
     },
     {
       "added_at": null,

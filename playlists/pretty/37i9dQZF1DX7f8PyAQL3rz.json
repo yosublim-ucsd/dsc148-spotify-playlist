@@ -1,6 +1,6 @@
 {
   "description": "surpresinha do tu\u00ea",
-  "num_followers": 1393420,
+  "num_followers": 1393609,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2024-08-06 15:17:21",
       "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
         "name": "O Cara Do Momento",
         "url": "https://open.spotify.com/album/2GJl4ruFhOBOghvHKVv6wV"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
-        "name": "Filho da Noite",
-        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Filho da Noite",
-      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "added_at": "2024-08-06 15:17:21",
@@ -735,6 +735,30 @@
     {
       "added_at": "2024-08-06 15:17:21",
       "album": {
+        "name": "Fala na Cara",
+        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Fala na Cara",
+      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 271058,
       "name": "\u00c9 Isso Beb\u00ea, T\u00e1 Certa!",
       "url": "https://open.spotify.com/track/6xW61JP2f3hcsbOwn7dzi5"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
-        "name": "Fala na Cara",
-        "url": "https://open.spotify.com/album/7lJy7mlkpSW21llZgg96bb"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Fala na Cara",
-      "url": "https://open.spotify.com/track/0OBv4CEP5FKS19ZQGHAUM6"
     },
     {
       "added_at": "2024-08-06 15:17:21",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-06 15:17:21",
       "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 197903,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
         "name": "O Cara Do Momento, Vol. 2",
         "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 168959,
       "name": "Me Chama Pelo Meu Vulgo",
       "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 197903,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
     },
     {
       "added_at": "2024-08-06 15:17:21",
@@ -1603,90 +1603,6 @@
     {
       "added_at": "2024-08-06 15:17:21",
       "album": {
-        "name": "Caranguejo do Trap",
-        "url": "https://open.spotify.com/album/2FcEqf4hGkHkJ1bV4toLXO"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Prodbythb",
-          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
-        },
-        {
-          "name": "WR No Beat",
-          "url": "https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs"
-        }
-      ],
-      "duration_ms": 176358,
-      "name": "Caranguejo do Trap",
-      "url": "https://open.spotify.com/track/3ZWBnOnNIhZnvBD2slFm1V"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
-        "name": "Humor",
-        "url": "https://open.spotify.com/album/2aBzpLvjfN6nUwjgcj1OFA"
-      },
-      "artists": [
-        {
-          "name": "Oliveira",
-          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
-        }
-      ],
-      "duration_ms": 167608,
-      "name": "Humor",
-      "url": "https://open.spotify.com/track/3PAV8YFEK1LXKMSaXrCZYU"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Tkd",
-          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "2023",
-      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2024-08-06 15:17:21",
-      "album": {
         "name": "M\u00eddia",
         "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
       },
@@ -1723,6 +1639,90 @@
       "duration_ms": 233181,
       "name": "M\u00eddia",
       "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
+        "name": "Caranguejo do Trap",
+        "url": "https://open.spotify.com/album/2FcEqf4hGkHkJ1bV4toLXO"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        },
+        {
+          "name": "WR No Beat",
+          "url": "https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs"
+        }
+      ],
+      "duration_ms": 176358,
+      "name": "Caranguejo do Trap",
+      "url": "https://open.spotify.com/track/3ZWBnOnNIhZnvBD2slFm1V"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Tkd",
+          "url": "https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2024-08-06 15:17:21",
+      "album": {
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2aBzpLvjfN6nUwjgcj1OFA"
+      },
+      "artists": [
+        {
+          "name": "Oliveira",
+          "url": "https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n"
+        }
+      ],
+      "duration_ms": 167608,
+      "name": "Humor",
+      "url": "https://open.spotify.com/track/3PAV8YFEK1LXKMSaXrCZYU"
     },
     {
       "added_at": "2024-08-06 15:17:21",

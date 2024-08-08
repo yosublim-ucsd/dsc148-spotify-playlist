@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,442 likes - 127 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,547 likes - 127 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 9 | [Into the Starfield \(Main Theme\)](https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Starfield: Original Game Soundtrack](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) | 2:49 |
 | 10 | [Secunda \(Transcr\. Trifonov for Piano\) \- From "The Elder Scrolls: Skyrim"](https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Soule: Secunda \(Transcr\. Trifonov for Piano\) \[From "The Elder Scrolls: Skyrim"\]](https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9) | 2:27 |
 | 11 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 |
-| 12 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
+| 12 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \- Original Video Game Soundtrack](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 | 13 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 14 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 |
 | 15 | [Assassin's Creed IV Black Flag Main Theme](https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Original Game Soundtrack\)](https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz) | 2:13 |

@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "YEDUTE",
+        "url": "https://open.spotify.com/album/4YCTjeh88KZ8ezpSqUMjWy"
+      },
+      "artists": [
+        {
+          "name": "G.J.Karthikeyan",
+          "url": "https://open.spotify.com/artist/1uTjKbwpM4hySyqqd8Ft5f"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272999,
+      "name": "YEDUTE",
+      "url": "https://open.spotify.com/track/2oXKykfqxhnPQ5HkNY6JRy"
+    },
+    {
+      "album": {
         "name": "Yekamaipodhuma",
         "url": "https://open.spotify.com/album/3pydpMyNsxUtKIW8jYFTAa"
       },

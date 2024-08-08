@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Deorro, Oscar Ortiz & 8onthebeat,",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Los Esquivel & Deorro",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 125402,
       "name": "Andamos Francos",
       "url": "https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV"
@@ -998,6 +998,24 @@
       "duration_ms": 171500,
       "name": "BELICLUB",
       "url": "https://open.spotify.com/track/0lTif5y1QBpaIdE5W6MUxF"
+    },
+    {
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181578,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/7flg5peNvW82lmpT6nVtbZ"
     },
     {
       "album": {
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 142372,
       "name": "DELTAS",
       "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 180558,
       "name": "Dembow Zumba La Srt",
       "url": "https://open.spotify.com/track/0Pqo8dMSWl0FTHSqcrZlgB"
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 202551,
       "name": "DESQUITE",
       "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 148480,
       "name": "Ducati",
       "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
@@ -3042,6 +3060,40 @@
       "duration_ms": 160980,
       "name": "ELECTRO BELICO",
       "url": "https://open.spotify.com/track/2fWnYF2iZOxNeDVmYoCSh2"
+    },
+    {
+      "album": {
+        "name": "Electromorbo",
+        "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "Electromorbo",
+      "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
     },
     {
       "album": {
@@ -3674,7 +3726,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 151612,
       "name": "FREAKY FREAKY",
       "url": "https://open.spotify.com/track/4VpTPw4gPDdhSITd3okIaZ"
@@ -3938,7 +3990,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 142000,
       "name": "GDL",
       "url": "https://open.spotify.com/track/3SZ0KQJWzFwqAEEOUz34Rv"
@@ -4300,7 +4352,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 222850,
       "name": "Hong Kong",
       "url": "https://open.spotify.com/track/4jJY4P5bdA3da1iRnwIMok"
@@ -4688,7 +4740,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
@@ -4736,7 +4788,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 169523,
       "name": "Kyc",
       "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
@@ -5050,7 +5102,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 174545,
       "name": "La Rumba",
       "url": "https://open.spotify.com/track/0BPSGtYuoqoqQcNanivyuI"
@@ -5340,6 +5392,28 @@
       "duration_ms": 219806,
       "name": "Lit",
       "url": "https://open.spotify.com/track/0ETPISu4ITwOZNuyR5QOzr"
+    },
+    {
+      "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "album": {
@@ -5928,7 +6002,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 181463,
       "name": "Mercedes Cuadrada",
       "url": "https://open.spotify.com/track/1gufxXlSBds5zb9UW755Id"
@@ -7436,7 +7510,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
@@ -7794,7 +7868,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 168230,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
@@ -7970,7 +8044,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
@@ -8022,7 +8096,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 150618,
       "name": "QUEMA",
       "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
@@ -8202,7 +8276,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
@@ -9172,7 +9246,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
@@ -9724,7 +9798,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 130750,
       "name": "TRAKA",
       "url": "https://open.spotify.com/track/2UAmkhEPYWeFZQGNQja4WJ"
@@ -9874,7 +9948,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 172100,
       "name": "Triston",
       "url": "https://open.spotify.com/track/299rfDZMpOrAXqSLsPhNde"
@@ -10524,7 +10598,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 137060,
       "name": "YEA",
       "url": "https://open.spotify.com/track/13lsklotK3vGsUR4y1Y5sr"

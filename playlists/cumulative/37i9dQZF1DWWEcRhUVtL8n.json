@@ -921,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Aggy",
+        "url": "https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "Aggy",
+      "url": "https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg"
+    },
+    {
+      "album": {
         "name": "Airbnb",
         "url": "https://open.spotify.com/album/4YhBDAkXqEvWvqaiaK2PAt"
       },
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 177250,
       "name": "Better ft. Cuco",
       "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"

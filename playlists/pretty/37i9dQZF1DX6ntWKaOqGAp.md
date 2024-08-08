@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: BREIMEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,440 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,488 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 59 | [Mum](https://open.spotify.com/track/1a5gMGqtnZ6IbtGqcDnQ4A) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Mum](https://open.spotify.com/album/45M6qIt9hro1rXMpnRhkQA) | 4:21 |
 | 60 | [Sensation](https://open.spotify.com/track/3S85AJeTGicEboPknU8rfd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [CIRCUS](https://open.spotify.com/album/7qQegy1ol3L6QZmBdp3TzC) | 3:09 |
 | 61 | [あと5秒](https://open.spotify.com/track/64crUn9qese1wYnYHtyf1W) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [あと5秒](https://open.spotify.com/album/58QfpOCdwQC2fqbvMxQJQ1) | 4:19 |
-| 62 | [DUNK](https://open.spotify.com/track/49xAwRCNEsLG0PIHFLxnQE) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q), [MASATO](https://open.spotify.com/artist/2flEOrQvyavqADhLGNOIhu) | [DUNK](https://open.spotify.com/album/6pEgEbwVhMrYBYEbBZrt0g) | 4:14 |
+| 62 | [DUNK feat.Masato \(coldrain\)](https://open.spotify.com/track/49xAwRCNEsLG0PIHFLxnQE) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q), [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8) | [DUNK feat.Masato \(coldrain\)](https://open.spotify.com/album/6pEgEbwVhMrYBYEbBZrt0g) | 4:14 |
 | 63 | [helm’N bass](https://open.spotify.com/track/1dVRH1xnZgOTFQoCKl1Ha5) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [helm’N bass](https://open.spotify.com/album/6ShhFUdgi20EuTJMq5rHdi) | 3:54 |
 | 64 | [Vidro](https://open.spotify.com/track/1rLeLI1uKaZtNvNEO5B2Mw) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Vidro](https://open.spotify.com/album/07YbMPIGaNkBD2QlJCXM5s) | 3:10 |
 | 65 | [忘れたい](https://open.spotify.com/track/7njSOHd2xt61IJppN3IlCT) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [忘れたい](https://open.spotify.com/album/5ZHm5pMkxoQ7zZkMQQl9fs) | 5:24 |

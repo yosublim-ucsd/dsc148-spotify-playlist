@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-288 songs - 16 hr 38 min
+289 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bible](https://open.spotify.com/track/2YWhFsixQdDGS391Wom0s4) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Bible](https://open.spotify.com/album/7nidHGnHANwdtpPgJvPQUY) | 3:21 | 2022-04-08 | 2024-01-26 |
 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 | 2024-01-19 |  |
 | [Blood Moon](https://open.spotify.com/track/4CEHrmFFbvlf0CFAWm2W7Z) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Blood Moon](https://open.spotify.com/album/14ZX1sy4hoqCsiMSL2cd0T) | 2:36 | 2022-04-08 | 2022-07-02 |
+| [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-19 |  |
 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 | 2023-10-06 | 2024-06-08 |
 | [Brother](https://open.spotify.com/track/1lxDwx8DAex50hPiJKEtI7) | [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Fall](https://open.spotify.com/album/1MZp8IYKsLWpkZtDJ488Dg) | 3:18 | 2022-04-08 | 2022-07-29 |
 | [Brother](https://open.spotify.com/track/5oC1CYQXwu4Q2qW4oIVSOF) | [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Fall](https://open.spotify.com/album/4Tmkpf55SwXHqJd3Rbe09g) | 3:19 | 2022-07-01 | 2022-08-27 |
@@ -187,7 +188,7 @@
 | [Necking](https://open.spotify.com/track/3h51UW08rH9dbdU8uV24WS) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Necking](https://open.spotify.com/album/5MUh83LAA2EFO6eXSU24Ah) | 5:44 | 2022-04-08 | 2022-07-02 |
 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 | 2024-07-19 |  |
 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 | 2024-06-07 |  |
-| [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-07 |  |
+| [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-07 | 2024-08-08 |
 | [Normal](https://open.spotify.com/track/7ds2RsOBtrTTBZ4gc7P0er) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:11 | 2022-04-08 | 2022-10-08 |
 | [Old Friend Night](https://open.spotify.com/track/4XQ0jF6YJ1BF7y3kC6okq5) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [The Keeper](https://open.spotify.com/album/6TVrNauoPcbsT5wYGE7YrW) | 3:40 | 2022-04-08 | 2022-07-02 |
 | [Old Times](https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [Old Times](https://open.spotify.com/album/6Ub6Ympxgyntxct4EgrpKw) | 4:34 | 2022-04-08 | 2024-01-20 |

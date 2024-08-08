@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1483210,
+  "num_followers": 1483249,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "Camberwell",
-        "url": "https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y"
-      },
-      "artists": [
-        {
-          "name": "Khutko",
-          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Camberwell",
-      "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
-    },
-    {
-      "added_at": "2024-08-03 00:50:15",
-      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 128496,
       "name": "Its Rainy",
       "url": "https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI"
+    },
+    {
+      "added_at": "2024-08-03 00:50:15",
+      "album": {
+        "name": "Camberwell",
+        "url": "https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y"
+      },
+      "artists": [
+        {
+          "name": "Khutko",
+          "url": "https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Camberwell",
+      "url": "https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "oak",
-        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
-      },
-      "artists": [
-        {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
-        }
-      ],
-      "duration_ms": 130920,
-      "name": "oak",
-      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
-    },
-    {
-      "added_at": "2024-08-03 00:50:15",
-      "album": {
         "name": "easy",
         "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
       },
@@ -1055,26 +1039,6 @@
       "duration_ms": 203500,
       "name": "easy",
       "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
-    },
-    {
-      "added_at": "2024-08-03 00:50:15",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
-      },
-      "artists": [
-        {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1099,22 +1063,38 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "Summit",
-        "url": "https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2"
+        "name": "oak",
+        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
       },
       "artists": [
         {
-          "name": "Lowkey Vanni",
-          "url": "https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz"
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "duration_ms": 130920,
+      "name": "oak",
+      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
+    },
+    {
+      "added_at": "2024-08-03 00:50:15",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+      },
+      "artists": [
+        {
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
         },
         {
           "name": "Kanimayo",
           "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 129679,
-      "name": "Summit",
-      "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1135,6 +1115,26 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
+    },
+    {
+      "added_at": "2024-08-03 00:50:15",
+      "album": {
+        "name": "Summit",
+        "url": "https://open.spotify.com/album/1PFaGA1C6C31JlqYSMedx2"
+      },
+      "artists": [
+        {
+          "name": "Lowkey Vanni",
+          "url": "https://open.spotify.com/artist/2akxx91vwl1uec0zXY9ORz"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Summit",
+      "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2024-08-03 00:50:15",
-      "album": {
         "name": "Reminders",
         "url": "https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
+    },
+    {
+      "added_at": "2024-08-03 00:50:15",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "EVOKE",
-        "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        },
-        {
-          "name": "Excursions",
-          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
+          "name": "Sling Dilly",
+          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
         }
       ],
-      "duration_ms": 234226,
-      "name": "EVOKE",
-      "url": "https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t"
+      "duration_ms": 101650,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
     },
     {
       "added_at": "2024-08-03 00:50:15",
@@ -1447,18 +1443,18 @@
     {
       "added_at": "2024-08-03 00:50:15",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz"
+        "name": "smwhere, smtime",
+        "url": "https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8"
       },
       "artists": [
         {
-          "name": "Sling Dilly",
-          "url": "https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9"
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
         }
       ],
-      "duration_ms": 101650,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
+      "duration_ms": 116000,
+      "name": "Smoke Rings",
+      "url": "https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu"
     }
   ],
   "unique_name": "Mellow Beats",

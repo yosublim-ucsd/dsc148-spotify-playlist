@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Sahil Cheema",
+  "description": "Discover new Punjabi artists! Cover: Diljot Mavi",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -250,6 +250,28 @@
       "duration_ms": 181458,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
+    },
+    {
+      "album": {
+        "name": "Challa",
+        "url": "https://open.spotify.com/album/0vrCMhN4z8gASZ1B39gqrh"
+      },
+      "artists": [
+        {
+          "name": "Diljot Mavi",
+          "url": "https://open.spotify.com/artist/4KjMby3WwsuFNQVaqrKYkb"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R"
     },
     {
       "album": {

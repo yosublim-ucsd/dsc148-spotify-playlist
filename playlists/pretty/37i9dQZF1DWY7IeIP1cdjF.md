@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Fuerza Regida, Maluma, Feid, Cris Mj and more.🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,787,244 likes - 59 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,787,011 likes - 59 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

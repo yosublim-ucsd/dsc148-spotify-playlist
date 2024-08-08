@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Mina Mina, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: mathi, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3437,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "charlie chaplin",
+        "url": "https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174707,
+      "name": "charlie chaplin",
+      "url": "https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB"
+    },
+    {
+      "album": {
         "name": "Cheerful Pessimist",
         "url": "https://open.spotify.com/album/5z5LpevdN0rM7mfQ99VwUd"
       },
@@ -5497,6 +5515,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/2OU7GrBV6WgNmkpgwJ0mnx"
+      },
+      "artists": [
+        {
+          "name": "Pia Klein",
+          "url": "https://open.spotify.com/artist/35KLbeS7YtH4MTBa6VfBfU"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0KUVoCxO7yWundhdGqoNoz"
+    },
+    {
+      "album": {
         "name": "Echo Park",
         "url": "https://open.spotify.com/album/3yMDSupsMzNHYOlQI7J4NV"
       },
@@ -5650,6 +5686,24 @@
       "duration_ms": 205113,
       "name": "Eggshells",
       "url": "https://open.spotify.com/track/40n311gRKG2MSflwoCxgf1"
+    },
+    {
+      "album": {
+        "name": "Egoritt",
+        "url": "https://open.spotify.com/album/638cnedSKUS7mIGPbIEfU9"
+      },
+      "artists": [
+        {
+          "name": "MARNELE",
+          "url": "https://open.spotify.com/artist/0IYqTMlpmVrLsnpyHyvbxv"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Egoritt",
+      "url": "https://open.spotify.com/track/5rl7zNjEdwn4uMVc6rzEOw"
     },
     {
       "album": {
@@ -6664,7 +6718,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 208000,
       "name": "five star hotel",
       "url": "https://open.spotify.com/track/7m6S53TkH0GpM7Jmk9unbZ"
@@ -9394,7 +9448,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 201618,
       "name": "i liked the party when you were gone",
       "url": "https://open.spotify.com/track/7hxAkU7VxOMNq8ylj9JeFC"
@@ -19405,6 +19459,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Scene",
+        "url": "https://open.spotify.com/album/6eSeOTU7zw2h1ra0HLltZK"
+      },
+      "artists": [
+        {
+          "name": "SMLR",
+          "url": "https://open.spotify.com/artist/5xcxUFVfqSacGCQKSMBqkh"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "Tunnel Scene",
+      "url": "https://open.spotify.com/track/5IPTG9NNyxpa2hByrRy2VL"
+    },
+    {
+      "album": {
         "name": "Turmalin",
         "url": "https://open.spotify.com/album/52muBhbUWgx8y63ZnqvW7h"
       },
@@ -20048,7 +20120,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 183200,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/5g8kKXcZ8czC4OiH7CZPMW"
@@ -20214,7 +20286,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 152909,
       "name": "w0h1n",
       "url": "https://open.spotify.com/track/1XaocztXVNrRKYVySXQszD"

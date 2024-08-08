@@ -1,6 +1,6 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: JESENN",
-  "num_followers": 155959,
+  "num_followers": 155958,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
@@ -260,12 +260,12 @@
       },
       "artists": [
         {
-          "name": "Armand Maulana",
-          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
-        },
-        {
           "name": "Isnaeni Achdiat",
           "url": "https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO"
+        },
+        {
+          "name": "Armand Maulana",
+          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
         }
       ],
       "duration_ms": 243333,

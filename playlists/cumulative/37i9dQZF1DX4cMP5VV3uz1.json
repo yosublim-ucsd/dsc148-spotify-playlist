@@ -1085,7 +1085,7 @@
     },
     {
       "album": {
-        "name": "Hazmat/ Deserted",
+        "name": "Hazmat / Deserted",
         "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
       },
       "artists": [
@@ -1258,6 +1258,28 @@
       "duration_ms": 187755,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/2uQzyvEzpJvGxeJF8lUNHu"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
+      },
+      "artists": [
+        {
+          "name": "Captain Bass",
+          "url": "https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG"
+        },
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C"
     },
     {
       "album": {
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 181028,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan) - Skepsis VIP Mix",
       "url": "https://open.spotify.com/track/72XbhXFWC35fbBPmMUA0NR"

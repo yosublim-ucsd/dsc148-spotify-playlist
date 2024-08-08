@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,851 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,900 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 56 | [Hennessy Cypher](https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Hennessy Cypher](https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw) | 8:20 |
 | 57 | [Soul](https://open.spotify.com/track/7npn3Z5IorbgkrJMYpvftK) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Soul](https://open.spotify.com/album/4bkDiNK9oEkwKIZA0Dl8Ru) | 3:13 |
 | 58 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
-| 59 | [Requirements](https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:39 |
-| 60 | [System](https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw) | [TGUT](https://open.spotify.com/artist/623WZ64cXpmy7sYYz1BwOR), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [System](https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4) | 1:54 |
-| 61 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
+| 59 | [System](https://open.spotify.com/track/1y6xfcsZVHcu29iv2WLSDw) | [TGUT](https://open.spotify.com/artist/623WZ64cXpmy7sYYz1BwOR), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [System](https://open.spotify.com/album/055nOXgofQYv5z4l1qsuX4) | 1:54 |
+| 60 | [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 |
+| 61 | [Requirements](https://open.spotify.com/track/0Fxxn7X2NRSqfRJbJi8AM2) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:39 |
 | 62 | [Change My Gear](https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Rich And Wacko](https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c) | 4:40 |
 | 63 | [Next to Me](https://open.spotify.com/track/1dRcJH6gdBPnXKcvVU8SiB) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Beautiful Lies](https://open.spotify.com/album/2mPFn6vASk3VVP1M3nTeCM) | 3:16 |
 | 64 | [Aholé](https://open.spotify.com/track/3L5zmSXtVNYF1nrRtbyaQy) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Famas](https://open.spotify.com/artist/4t8EKJ7Yp6F2F1vG1NFANE) | [Aholé](https://open.spotify.com/album/5GKcIxZeCqFlyak5bJV7ju) | 3:01 |

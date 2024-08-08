@@ -4,7 +4,7 @@
 
 > 
 
-734 songs - 1 day 11 hr 11 min
+736 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Fuck Good Business](https://open.spotify.com/track/1VD6wUwdgSGlvRap1ygUA5) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Fuck Good Business](https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4) | 2:23 | 2023-01-11 | 2023-04-12 |
 | [Fukit](https://open.spotify.com/track/2QJLqxLXlzMiApFS6eBY4G) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:28 | 2023-01-06 | 2023-12-14 |
 | [G.O.D., Pt\. III](https://open.spotify.com/track/7AY6pRA83f75jEbP6YvUbJ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:16 | 2024-05-23 |  |
+| [Gain Clout](https://open.spotify.com/track/4EgL00l7AjD7mWuW4JMJ7r) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 2:05 | 2024-08-07 |  |
 | [Gallo](https://open.spotify.com/track/6MxQI7I1R4oXwRdZ09g4Yy) | [Kankan](https://open.spotify.com/artist/7si09ku22hK6h4WQmvlVAb), [BenjiCold](https://open.spotify.com/artist/0qqFi0cuGlFtBzmRIQOQa9) | [Gallo](https://open.spotify.com/album/0aKpQa6FrzHjn1eicljFUR) | 1:42 | 2022-12-21 | 2023-05-09 |
 | [gang](https://open.spotify.com/track/4ygYHBVVDwA2QBRrO74Sod) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:46 | 2022-11-07 | 2023-12-14 |
 | [Geeked Up](https://open.spotify.com/track/6MEvdgFV9t2k6LqsAAUDHU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Boy Barbie](https://open.spotify.com/album/4qp7MpTf0DBrHmnHROj99y) | 1:43 | 2022-03-25 | 2023-05-09 |
@@ -678,6 +679,7 @@
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2022-09-26 |  |
 | [Trippin](https://open.spotify.com/track/4huciygZHFSjTP5DHmPs20) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 2:19 | 2023-12-27 | 2024-03-05 |
 | [Trippple H](https://open.spotify.com/track/1ydS1YSLGA9ESh7GROrnWR) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Thot Slayer 2](https://open.spotify.com/album/1PrvzRiC3jFGKR0GRSkLz4) | 3:32 | 2022-08-14 | 2023-05-09 |
+| [Tsunami](https://open.spotify.com/track/0GOOWPWqR2N7h3NkDi7oez) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:07 | 2024-08-07 |  |
 | [Turban](https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:35 | 2021-11-17 | 2023-05-09 |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-10-03 | 2024-03-05 |
 | [Twisted](https://open.spotify.com/track/4yCQIx1PvxQAZJDiZfVQVQ) | [R.T.R Jae](https://open.spotify.com/artist/78hm4BtifRj8NLY2hqZMwq) | [For The People](https://open.spotify.com/album/44sKf6tTgvJ5tbDkkzdnKW) | 1:49 | 2023-05-31 | 2023-12-14 |

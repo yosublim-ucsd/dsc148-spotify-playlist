@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den største danske rap lige nu..\. Anton Westerlin x Kundo <a href="spotify:album:1WzzRG4FdwNgBPxiVuhdT7">Bellingham Freestyle</a> 🚨
+> den største danske rap lige nu..\.  <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> gæster <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI's</a> radiokanal <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊🔊 lyt lige med der
 
-206 songs - 8 hr 53 min
+209 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
+| [Brutalt](https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 3:49 | 2024-08-07 |  |
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 |  |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 1:45 | 2024-05-02 |  |
 | [Chanel Freestyle](https://open.spotify.com/track/5LAsl3k0Vas49Pnoj9GJr3) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Chanel Freestyle](https://open.spotify.com/album/19GP2Hpfv764Wi35GNrbvz) | 2:06 | 2024-04-25 |  |
@@ -66,6 +67,7 @@
 | [Du & Jeg](https://open.spotify.com/track/5NJgjCGDgufp9FRlNrYb4c) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:53 | 2023-11-16 | 2024-01-05 |
 | [Du Ikk' Alene](https://open.spotify.com/track/5nbIirRTI7rjHOKQRGy0kW) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Du Ikk' Alene](https://open.spotify.com/album/6LAc4qUx2to6KfAZZxhjyX) | 2:46 | 2023-11-10 | 2023-12-14 |
 | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB) | 2:06 | 2023-09-21 | 2024-04-05 |
+| [E.T.A](https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:51 | 2024-08-07 |  |
 | [Early Morning](https://open.spotify.com/track/3LRm9sflmioeTgaiLVylmy) | [Chanelbigs](https://open.spotify.com/artist/4CIgpJioANhknACYsDfcKG), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa) | [Early Morning](https://open.spotify.com/album/5fR2lxQW91zljY6JYmFyTM) | 2:07 | 2023-11-16 | 2024-05-14 |
 | [ELEVATOR \(feat\. Stepz\)](https://open.spotify.com/track/5KZqhvLLmjOXaFOP6jjaZa) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [ELEVATOR](https://open.spotify.com/album/6vqIrUHCsxp1iVLkZFkXkJ) | 2:19 | 2023-11-10 | 2024-01-19 |
 | [Energien](https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Energien](https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV) | 2:45 | 2024-06-27 |  |
@@ -189,6 +191,7 @@
 | [Tar Dig Med](https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Tar Dig Med](https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc) | 2:00 | 2023-09-21 | 2023-12-14 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
 | [TMAX](https://open.spotify.com/track/4ssk9gSrtDLemExleFmYeS) | [LOLO](https://open.spotify.com/artist/30G2LsTs2NCXeCbjuZYvnf) | [TMAX](https://open.spotify.com/album/0DQG2g45oPf0Zvi5gbCh0a) | 2:01 | 2023-09-21 | 2023-11-11 |
+| [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 |  |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 |  |
 | [Tsamina](https://open.spotify.com/track/0qBSIf8Ic0SYCYvGozlqKB) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Tsamina](https://open.spotify.com/album/4xElpKHXJv700nJ3eTwQPN) | 3:42 | 2024-02-08 | 2024-04-05 |

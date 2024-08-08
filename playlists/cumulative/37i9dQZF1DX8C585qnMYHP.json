@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. Cavolo Nero on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -1998,6 +1998,24 @@
       "duration_ms": 204800,
       "name": "Angst",
       "url": "https://open.spotify.com/track/3WSIkYPCdO2OEfdeWFQuY6"
+    },
+    {
+      "album": {
+        "name": "Pt. II",
+        "url": "https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "ANIMAL SEEKING",
+      "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
     },
     {
       "album": {
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 252108,
       "name": "Break Bandits",
       "url": "https://open.spotify.com/track/6Xmm7xYQZBdI1gIVZGIYnq"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 342146,
       "name": "Breath",
       "url": "https://open.spotify.com/track/6GNDrXNj0AZWu3SwN2GOVj"
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 1202372,
       "name": "Breathing Flute 88",
       "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
@@ -4976,6 +4994,28 @@
       "duration_ms": 381125,
       "name": "capitOl pt. 2",
       "url": "https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo"
+    },
+    {
+      "album": {
+        "name": "Car Alarm, Turn Signal",
+        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
     },
     {
       "album": {
@@ -6496,7 +6536,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 366549,
       "name": "CRUX",
       "url": "https://open.spotify.com/track/1qIbIW1dPNEIB8enJh9QwD"
@@ -6558,7 +6598,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 191733,
       "name": "cyanotype memories - edit - joe goddard remix",
       "url": "https://open.spotify.com/track/1qTLK7XA1zRMcrmXQ2VLsr"
@@ -7473,6 +7513,32 @@
     },
     {
       "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
+      "album": {
         "name": "Elixa",
         "url": "https://open.spotify.com/album/5K1wTcRwBr2t9PMm1clF7K"
       },
@@ -7886,6 +7952,28 @@
       "duration_ms": 337102,
       "name": "Dreamy Hamilton - Oneironautics Remix",
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
+    },
+    {
+      "album": {
+        "name": "Dr\u00efpsody",
+        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
+      },
+      "artists": [
+        {
+          "name": "WTRGRL",
+          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Drip Coda",
+      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
     },
     {
       "album": {
@@ -8684,7 +8772,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/3o9i2sgJhKv8HEFtJWsbxo"
@@ -13378,7 +13466,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 188889,
       "name": "Ignore",
       "url": "https://open.spotify.com/track/5WlZMqOIDB4O1y4kONHMOa"
@@ -16398,7 +16486,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
@@ -18285,6 +18373,24 @@
     },
     {
       "album": {
+        "name": "Moon Needs The Owl Pt. 1",
+        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298828,
+      "name": "Moon Needs The Owl Pt. 1",
+      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
+    },
+    {
+      "album": {
         "name": "OUT OF THIS WORLD",
         "url": "https://open.spotify.com/album/69n01B4dzNMnlZxhQnGrd1"
       },
@@ -18492,6 +18598,32 @@
       "duration_ms": 192000,
       "name": "Mudblood",
       "url": "https://open.spotify.com/track/2wqF5seUP5zZm5BV2NKono"
+    },
+    {
+      "album": {
+        "name": "Muerte a Televisa",
+        "url": "https://open.spotify.com/album/4FMyQOyT9UY4Y2JojH6LdC"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118732,
+      "name": "Muerte a Televisa",
+      "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
     },
     {
       "album": {
@@ -19582,7 +19714,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
@@ -21746,6 +21878,32 @@
       "duration_ms": 395251,
       "name": "Prithee",
       "url": "https://open.spotify.com/track/5WwKfaTLFUsVyskww7NYcB"
+    },
+    {
+      "album": {
+        "name": "Privilegiada",
+        "url": "https://open.spotify.com/album/1n1ZI4cFUVeTGOD9wpnQ5A"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "Privilegiada",
+      "url": "https://open.spotify.com/track/5ZKItiErHMCGPXKc7PqI9Y"
     },
     {
       "album": {
@@ -24157,6 +24315,24 @@
     },
     {
       "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/5hab0z3EOOETkiq1HU2t9B"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131493,
+      "name": "She\u2019s All We Have",
+      "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
+    },
+    {
+      "album": {
         "name": "Poly Pointillism",
         "url": "https://open.spotify.com/album/66zkrppo8OPQq9kMhxhzp0"
       },
@@ -24620,7 +24796,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 781460,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
@@ -25823,6 +25999,24 @@
     },
     {
       "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+    },
+    {
+      "album": {
         "name": "Blue Alibi",
         "url": "https://open.spotify.com/album/3fLvBgK02fzdFAJ1aB8cKv"
       },
@@ -26241,6 +26435,24 @@
     },
     {
       "album": {
+        "name": "Sundown Muse",
+        "url": "https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs"
+      },
+      "artists": [
+        {
+          "name": "ERHA",
+          "url": "https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261004,
+      "name": "Sundown Muse",
+      "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
+    },
+    {
+      "album": {
         "name": "it's a secret / sunflower",
         "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
       },
@@ -26652,7 +26864,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 224064,
       "name": "Tac Tac Tac - Joaqu\u00edn Cornejo Remix",
       "url": "https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A"
@@ -26782,6 +26994,28 @@
       "duration_ms": 93733,
       "name": "Tascam",
       "url": "https://open.spotify.com/track/4ERw6RlOXBKW8Q20As61Pb"
+    },
+    {
+      "album": {
+        "name": "Taste The Air (Julia Holter Mix)",
+        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203031,
+      "name": "Taste The Air - Julia Holter Mix",
+      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "album": {
@@ -27922,7 +28156,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 258293,
       "name": "the REAL",
       "url": "https://open.spotify.com/track/3RwZGa13Iv5Wk1XYnQ90ya"
@@ -30944,7 +31178,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 157646,
       "name": "Virtual Forrest",
       "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
@@ -32650,6 +32884,32 @@
       "duration_ms": 248934,
       "name": "you're always with me",
       "url": "https://open.spotify.com/track/5AXa5jxDOTBTLiTdZJcjvP"
+    },
+    {
+      "album": {
+        "name": "Heat Ray: The Archimedes Project",
+        "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
+      },
+      "artists": [
+        {
+          "name": "Will Gregory Moog Ensemble",
+          "url": "https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l"
+        },
+        {
+          "name": "Will Gregory",
+          "url": "https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
+      "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
       "album": {

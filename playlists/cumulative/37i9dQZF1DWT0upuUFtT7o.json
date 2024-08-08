@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Sophia Stel",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Sex Week",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 167647,
       "name": "13",
       "url": "https://open.spotify.com/track/1DW1hVZJ2Wy8UZEZGdaNb7"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 234223,
       "name": "Autograph",
       "url": "https://open.spotify.com/track/6J8ZggXxpGiOjB3Pm9Alji"
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 209000,
       "name": "Babe I Miss You",
       "url": "https://open.spotify.com/track/2KkxQnS8PM880dkdQpO9ER"
@@ -3478,10 +3478,28 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 272996,
       "name": "Back to the Garden",
       "url": "https://open.spotify.com/track/3TJTjZzK5FZ2oJsGJWB3Iq"
+    },
+    {
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/5vByKX383Uixr7KVphjpns"
+      },
+      "artists": [
+        {
+          "name": "Olive B",
+          "url": "https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188824,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/4jnpDGtUTtloIQHq8TdbNW"
     },
     {
       "album": {
@@ -3882,6 +3900,24 @@
       "duration_ms": 210687,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb"
+    },
+    {
+      "album": {
+        "name": "G\u00fafigis",
+        "url": "https://open.spotify.com/album/3ce5PIIXYHhKyXD5MZShdI"
+      },
+      "artists": [
+        {
+          "name": "Goofy Geese",
+          "url": "https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210687,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/4A0yQ8p8rivsMC9eZ8G5dq"
     },
     {
       "album": {
@@ -7845,6 +7881,24 @@
     },
     {
       "album": {
+        "name": "Chasing a Comfort",
+        "url": "https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA"
+      },
+      "artists": [
+        {
+          "name": "16 Underground",
+          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Chasing a Comfort",
+      "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
+    },
+    {
+      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -7928,7 +7982,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 139877,
       "name": "Chicken Pot Pie",
       "url": "https://open.spotify.com/track/2nu1aVNmxtUmz6JC8jPVJS"
@@ -17280,7 +17334,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 247027,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0pSlOOmmPMzZ1sFRIMjAyV"
@@ -22833,6 +22887,24 @@
     },
     {
       "album": {
+        "name": "IF THE SHOE FITS, WEAR IT (ONE LAST CRY EDITION)",
+        "url": "https://open.spotify.com/album/30DtBHGdhiZKhyXjRE7vi8"
+      },
+      "artists": [
+        {
+          "name": "Tristan",
+          "url": "https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255600,
+      "name": "Keep That to Yourself",
+      "url": "https://open.spotify.com/track/5JZpOGMOdM05nYGuYmwUt4"
+    },
+    {
+      "album": {
         "name": "Keep Up!",
         "url": "https://open.spotify.com/album/4kXXloqfOzhOAxjyBtHZIw"
       },
@@ -22920,6 +22992,24 @@
       "duration_ms": 170000,
       "name": "Kid 1",
       "url": "https://open.spotify.com/track/7idYQwNY9qVkXgl4F4p4es"
+    },
+    {
+      "album": {
+        "name": "Kid Muscle",
+        "url": "https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311500,
+      "name": "Kid Muscle",
+      "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
     },
     {
       "album": {
@@ -23338,7 +23428,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 184451,
       "name": "Last Cigarette",
       "url": "https://open.spotify.com/track/03VLqh2sl2rktfvXn3BxnF"
@@ -24665,6 +24755,24 @@
     },
     {
       "album": {
+        "name": "Lonnie Frisbee",
+        "url": "https://open.spotify.com/album/3yJ7imqee3RVWmV6CdGz0u"
+      },
+      "artists": [
+        {
+          "name": "Rex Laurent",
+          "url": "https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236688,
+      "name": "Lonnie Frisbee",
+      "url": "https://open.spotify.com/track/1yFRrquTPANa3sCmYo9TGI"
+    },
+    {
+      "album": {
         "name": "Look Around / Simple",
         "url": "https://open.spotify.com/album/5OGV9LPH8d63btJ904hLwi"
       },
@@ -24676,7 +24784,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 94330,
       "name": "Look Around",
       "url": "https://open.spotify.com/track/5CUOFCvL4p8BlJZUDoqWJl"
@@ -25560,6 +25668,24 @@
       "duration_ms": 168387,
       "name": "lust 4 u",
       "url": "https://open.spotify.com/track/5xuhGlAIY4D6Ll0HwNddjP"
+    },
+    {
+      "album": {
+        "name": "Yes, No Question",
+        "url": "https://open.spotify.com/album/50IJsoyMo22R78EN1jMcPh"
+      },
+      "artists": [
+        {
+          "name": "Jia*",
+          "url": "https://open.spotify.com/artist/23B8icZGpSGzcedCDa2Cjy"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126476,
+      "name": "Lying",
+      "url": "https://open.spotify.com/track/0TjBfsd2yWRTWLcLjRJncz"
     },
     {
       "album": {
@@ -28419,6 +28545,24 @@
     },
     {
       "album": {
+        "name": "Never Coming Home",
+        "url": "https://open.spotify.com/album/4p8f75FV2dXfa85yCrPSUZ"
+      },
+      "artists": [
+        {
+          "name": "Bent Knee",
+          "url": "https://open.spotify.com/artist/69f5J6OIgAP1G54zQfesv1"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240150,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/2LP8iYmEZKJbBWJg8HFUu9"
+    },
+    {
+      "album": {
         "name": "Sharpie",
         "url": "https://open.spotify.com/album/7lMdnF7sxeYhJDiEavd7wV"
       },
@@ -28744,7 +28888,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 252663,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/5CKmnfDzwrUOOu9nCqBDOd"
@@ -31870,7 +32014,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 216000,
       "name": "phantom pain",
       "url": "https://open.spotify.com/track/3PyVxXaeefGYDfluoE1Fha"
@@ -33021,6 +33165,24 @@
     },
     {
       "album": {
+        "name": "You Don't Want Help",
+        "url": "https://open.spotify.com/album/69a5okdnPiKibQloWFERLV"
+      },
+      "artists": [
+        {
+          "name": "Zoe Bayani",
+          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131656,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/0sfMxN6tLc0LkZ37vp4yoO"
+    },
+    {
+      "album": {
         "name": "Pruning",
         "url": "https://open.spotify.com/album/1zN9NT8QKXXLLka5knxiX3"
       },
@@ -33584,6 +33746,24 @@
       "duration_ms": 153103,
       "name": "Read the Room",
       "url": "https://open.spotify.com/track/22w30WW0AzmGGwf8lpNB12"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "album": {
@@ -34316,7 +34496,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 217215,
       "name": "Rocket Woman",
       "url": "https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I"
@@ -34428,7 +34608,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 143800,
       "name": "Roll Me",
       "url": "https://open.spotify.com/track/3ZevgFancksuHKVZfDPhLd"
@@ -43123,6 +43303,24 @@
     },
     {
       "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/4tJrtdSJJqO10OuJNtq9dv"
+      },
+      "artists": [
+        {
+          "name": "JESS REISS",
+          "url": "https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
+    },
+    {
+      "album": {
         "name": "Too Much for Me",
         "url": "https://open.spotify.com/album/5TJPtvfEouXDbFfFRSWrGq"
       },
@@ -43174,6 +43372,24 @@
       "duration_ms": 231566,
       "name": "too strong",
       "url": "https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb"
+    },
+    {
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu"
+      },
+      "artists": [
+        {
+          "name": "Holdan Sutton",
+          "url": "https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308072,
+      "name": "Too Timid",
+      "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
     },
     {
       "album": {
@@ -44795,6 +45011,24 @@
     },
     {
       "album": {
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/37NICF3tB3QbQNXbm2N5Z8"
+      },
+      "artists": [
+        {
+          "name": "voyeur",
+          "url": "https://open.spotify.com/artist/3NvIlmrQdMib4ST6sbd58n"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223644,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/4PSEhHtZqenSU1cgxw0DBe"
+    },
+    {
+      "album": {
         "name": "Velvet Connection",
         "url": "https://open.spotify.com/album/3o8TXLlJk1IrXXFHq8Q3EC"
       },
@@ -44900,7 +45134,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 263500,
       "name": "Vinalhaven",
       "url": "https://open.spotify.com/track/4KgTdZON9IsR6jkOUbTIA3"
@@ -45268,7 +45502,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 129690,
       "name": "Wake UP!",
       "url": "https://open.spotify.com/track/0KMvA5OyFqK8zEeWz1II17"
@@ -45416,6 +45650,24 @@
       "duration_ms": 219717,
       "name": "Want More",
       "url": "https://open.spotify.com/track/3u4I0wG01BfLQmRx7l1o8Y"
+    },
+    {
+      "album": {
+        "name": "Want U Gone + Look the Other Way",
+        "url": "https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj"
+      },
+      "artists": [
+        {
+          "name": "Nick Wagen",
+          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Want U Gone",
+      "url": "https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u"
     },
     {
       "album": {

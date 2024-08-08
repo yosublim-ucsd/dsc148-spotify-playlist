@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bodysnatcher",
-  "num_followers": 216207,
+  "num_followers": 216339,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Amongst The Low & Empty",
-        "url": "https://open.spotify.com/album/22Jf4cycfboklXm8lwrljV"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 243874,
-      "name": "Malady",
-      "url": "https://open.spotify.com/track/3cD4OgJyoj28hvnjdw7BqG"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 123730,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Amongst The Low & Empty",
+        "url": "https://open.spotify.com/album/22Jf4cycfboklXm8lwrljV"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "duration_ms": 243874,
+      "name": "Malady",
+      "url": "https://open.spotify.com/track/3cD4OgJyoj28hvnjdw7BqG"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Nihilus",
-        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
+        "name": "Pernicious",
+        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
       },
       "artists": [
         {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Nihilus",
-      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
+      "duration_ms": 315178,
+      "name": "Pernicious",
+      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Pernicious",
-        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
+        "name": "Nihilus",
+        "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
         }
       ],
-      "duration_ms": 315178,
-      "name": "Pernicious",
-      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
+      "duration_ms": 214973,
+      "name": "Nihilus",
+      "url": "https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Deathtouch",
         "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 201101,
       "name": "Deathtouch",
       "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "No Name Graves",
+        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 170956,
+      "name": "Feel My Fangs in You",
+      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Adamaster",
         "url": "https://open.spotify.com/album/7fkm6iQaQ6A54jQRglHVkm"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 265371,
       "name": "Adamaster",
       "url": "https://open.spotify.com/track/114hhdSWl6iOCStbinlQ4b"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "No Name Graves",
-        "url": "https://open.spotify.com/album/5e4EUEcJ1CBfNGmPY9EGf7"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 170956,
-      "name": "Feel My Fangs in You",
-      "url": "https://open.spotify.com/track/4rgsjGJjQmPNQKrJcU0h46"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        }
+      ],
+      "duration_ms": 191909,
+      "name": "Dead Pacifist",
+      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 200629,
       "name": "Dying Life",
       "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        }
-      ],
-      "duration_ms": 191909,
-      "name": "Dead Pacifist",
-      "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "No One's Above",
-        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
-      },
-      "artists": [
-        {
-          "name": "Abbie Falls",
-          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "No One's Above",
-      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "The Bleeding Machine",
         "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 223381,
       "name": "The Bleeding Machine",
       "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "No One's Above",
+        "url": "https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH"
+      },
+      "artists": [
+        {
+          "name": "Abbie Falls",
+          "url": "https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "No One's Above",
+      "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Under the Weight of Things I Couldn't Change",
-        "url": "https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU"
-      },
-      "artists": [
-        {
-          "name": "Distinguisher",
-          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Coffin of Pain",
-      "url": "https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Axe Of Kindness",
         "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 248600,
       "name": "Axe of Kindness",
       "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Under the Weight of Things I Couldn't Change",
+        "url": "https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU"
+      },
+      "artists": [
+        {
+          "name": "Distinguisher",
+          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Coffin of Pain",
+      "url": "https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Within Worlds",
-        "url": "https://open.spotify.com/album/3OXZiQ4cjcQcRtNNTfpRl1"
-      },
-      "artists": [
-        {
-          "name": "Alleviate",
-          "url": "https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm"
-        }
-      ],
-      "duration_ms": 239124,
-      "name": "Within Worlds",
-      "url": "https://open.spotify.com/track/0gxYfEfhI2XrcwKEbi4rzG"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr"
       },
@@ -1907,22 +1891,18 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Mournful Benediction (feat. Ben Duerr)",
-        "url": "https://open.spotify.com/album/5jwvhbhjLUy5wePrQCQDY1"
+        "name": "Within Worlds",
+        "url": "https://open.spotify.com/album/3OXZiQ4cjcQcRtNNTfpRl1"
       },
       "artists": [
         {
-          "name": "A Wake in Providence",
-          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
-        },
-        {
-          "name": "Ben Duerr",
-          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+          "name": "Alleviate",
+          "url": "https://open.spotify.com/artist/5dfB8okcJRsAoU0zlylZrm"
         }
       ],
-      "duration_ms": 380639,
-      "name": "Mournful Benediction (feat. Ben Duerr)",
-      "url": "https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl"
+      "duration_ms": 239124,
+      "name": "Within Worlds",
+      "url": "https://open.spotify.com/track/0gxYfEfhI2XrcwKEbi4rzG"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -1963,6 +1943,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
+        "name": "Necromanteum",
+        "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "duration_ms": 266908,
+      "name": "Necromanteum",
+      "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
       },
@@ -1979,18 +1975,22 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Necromanteum",
-        "url": "https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X"
+        "name": "Mournful Benediction (feat. Ben Duerr)",
+        "url": "https://open.spotify.com/album/5jwvhbhjLUy5wePrQCQDY1"
       },
       "artists": [
         {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
         }
       ],
-      "duration_ms": 266908,
-      "name": "Necromanteum",
-      "url": "https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M"
+      "duration_ms": 380639,
+      "name": "Mournful Benediction (feat. Ben Duerr)",
+      "url": "https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "COCKSNATCHER",
-        "url": "https://open.spotify.com/album/1GeTfE2jUquPWvVok5uUkq"
-      },
-      "artists": [
-        {
-          "name": "Brojob",
-          "url": "https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "COCKSNATCHER",
-      "url": "https://open.spotify.com/track/77QKvXOMECqax6FVtEzmXu"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Forest of Lust",
         "url": "https://open.spotify.com/album/2t51pbixg76sMxiLnCgiCt"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 238222,
       "name": "Forest of Lust",
       "url": "https://open.spotify.com/track/2OioZqscBMwmPXMQ2eS4Nj"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "COCKSNATCHER",
+        "url": "https://open.spotify.com/album/1GeTfE2jUquPWvVok5uUkq"
+      },
+      "artists": [
+        {
+          "name": "Brojob",
+          "url": "https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "COCKSNATCHER",
+      "url": "https://open.spotify.com/track/77QKvXOMECqax6FVtEzmXu"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Sentenced",
-        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
-      },
-      "artists": [
-        {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
-        }
-      ],
-      "duration_ms": 256699,
-      "name": "Sentenced",
-      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Seven Souls",
         "url": "https://open.spotify.com/album/0bBueyc98CNTvVvJJBqXL5"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 283373,
       "name": "Seven Souls",
       "url": "https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Sentenced",
+        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
+      },
+      "artists": [
+        {
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+        }
+      ],
+      "duration_ms": 256699,
+      "name": "Sentenced",
+      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
     },
     {
       "added_at": "2024-06-25 20:50:46",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-06-25 20:50:46",
       "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Traumadoll - Withdrawal Edition",
-      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
-    },
-    {
-      "added_at": "2024-06-25 20:50:46",
-      "album": {
         "name": "Reapers",
         "url": "https://open.spotify.com/album/7woFAbfwUDeSRxDKMraMvk"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 238208,
       "name": "Reapers",
       "url": "https://open.spotify.com/track/1KtGs6R84lkQGWWDYI3jqz"
+    },
+    {
+      "added_at": "2024-06-25 20:50:46",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Traumadoll - Withdrawal Edition",
+      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
     },
     {
       "added_at": "2024-06-25 20:50:46",

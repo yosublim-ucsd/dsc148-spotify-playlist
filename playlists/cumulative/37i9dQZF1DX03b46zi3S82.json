@@ -6085,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/72fypJ6Ikrw15nvVhFT1yG"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/7hWj5ZNuvZfCSn24MFRzwx"
+    },
+    {
+      "album": {
         "name": "Un sogno tutto mio",
         "url": "https://open.spotify.com/album/4RoP7tZyamHdU49ZI17BFb"
       },

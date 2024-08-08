@@ -5249,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "Salt and Skin",
+        "url": "https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177072,
+      "name": "Salt and Skin",
+      "url": "https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx"
+    },
+    {
+      "album": {
         "name": "Sanctum Sonar",
         "url": "https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1"
       },

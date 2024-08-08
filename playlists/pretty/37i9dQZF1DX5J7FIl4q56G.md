@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new tracks in metal, hard rock, and all things heavy\. Cover: Better Lovers
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,489 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,561 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 30 | [ALL F\*CKED \(Live It Up\)](https://open.spotify.com/track/1T5qan2A6p62s8KqWPGwk4) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [ALL F\*CKED \(Live It Up\)](https://open.spotify.com/album/0agtwoGA4CkxROdj5h4aLw) | 3:27 |
 | 31 | [Lost and Broken](https://open.spotify.com/track/77kwXwc2RA1ufmh0PeMVLX) | [Beyond Unbroken](https://open.spotify.com/artist/7obLlvWcHU4oZjXm21IfpH) | [Lost and Broken](https://open.spotify.com/album/2Yw8TVHrZmtOqNgs9JEHGQ) | 3:38 |
 | 32 | [A New Kind of Hero](https://open.spotify.com/track/7o5aPIPS6KXKHU4ceGeZHb) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [A New Kind of Hero](https://open.spotify.com/album/4Pjb9uX9zhhBCBCwcjHuJm) | 4:50 |
-| 33 | [Around The Sun](https://open.spotify.com/track/2jE7Aalv5311I9Jd6TfCj1) | [Fate](https://open.spotify.com/artist/1szDGgaqTyUCe7GKITo8BT) | [Around The Sun](https://open.spotify.com/album/4xcdQNbe0pahA25bmTKzU9) | 5:16 |
+| 33 | [Around The Sun](https://open.spotify.com/track/2jE7Aalv5311I9Jd6TfCj1) | [Fate](https://open.spotify.com/artist/45baJ7ZJkTN2QkcSwj4BN2) | [Around The Sun](https://open.spotify.com/album/4xcdQNbe0pahA25bmTKzU9) | 5:16 |
 | 34 | [SEVENTEEN](https://open.spotify.com/track/3OQtt2KSUixWzf2peHiTPs) | [Daemon Grey](https://open.spotify.com/artist/5JCa4aQDrKf3nFxPfJ34Sv) | [SEVENTEEN](https://open.spotify.com/album/3klOb0S5tJ5qpd9z4Ul30P) | 4:10 |
 | 35 | [G.O.D.](https://open.spotify.com/track/2hlmrMNzqaaN2OpiIbJYSQ) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [G.O.D.](https://open.spotify.com/album/3RWQDMBUOJp4JLRTC6ksp8) | 3:29 |
 | 36 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g), [Jacob Charlton](https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 42 | [LIGHT](https://open.spotify.com/track/6W06BKDgkzr319KGFgVUxN) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [LIGHT](https://open.spotify.com/album/0fFmfmsqjtzb2LFy7gbqYv) | 3:46 |
 | 43 | [Synthetic](https://open.spotify.com/track/4W0QsHDvIxxkj0jC5EQD3K) | [Heartline](https://open.spotify.com/artist/70uKQVKslnIIFw3IUTqGfu) | [Synthetic](https://open.spotify.com/album/4JSuvqd3VKDXPnAekOUMh9) | 3:49 |
 | 44 | [On Repeat](https://open.spotify.com/track/7r7WkaZOxZ2hhYxZvhJf4o) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc) | [On Repeat](https://open.spotify.com/album/32hWoNXQ6Q9bNu9jNThDAL) | 4:01 |
-| 45 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
+| 45 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
 | 46 | [The Weight Of The World](https://open.spotify.com/track/23bUMVYuwXqFJyl496cedP) | [The Comfort](https://open.spotify.com/artist/4AdKPbj3YEx5r1vfB63R4q) | [The Weight Of The World](https://open.spotify.com/album/0HoXMovIpp3GkUQopWXwAt) | 3:52 |
 | 47 | [Nox Nostra Est](https://open.spotify.com/track/2Mo0itFz9wtJC4h9dD1cHy) | [Asenblut](https://open.spotify.com/artist/1iuwMlGW6i8UojhyL0rQZi) | [Entfesselt](https://open.spotify.com/album/03m7PZx76pnZaqFTROORPq) | 5:01 |
 | 48 | [Valotus](https://open.spotify.com/track/3Q34KJgFoUykhy5ymytTcx) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Valotus](https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe) | 6:57 |

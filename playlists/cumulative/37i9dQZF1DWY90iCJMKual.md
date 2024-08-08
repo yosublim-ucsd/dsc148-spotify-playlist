@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: Denise Julia
 
-269 songs - 15 hr 12 min
+270 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 | 2022-10-12 | 2023-07-29 |
 | [Bitter](https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Bitter](https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8) | 2:26 | 2024-06-03 |  |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 | 2024-01-16 |
+| [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-07 |  |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-05-02 | 2023-10-03 |
 | [BURN](https://open.spotify.com/track/3I15kjOXZ5BWoNyGEhMV9B) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [DĖMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [BURN](https://open.spotify.com/album/5UinUFeyhjArW24gIKT9PN) | 2:42 | 2023-06-13 | 2023-09-07 |
 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-09-21 | 2024-03-30 |
@@ -76,7 +77,7 @@
 | [Fight or Flight](https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Fight or Flight](https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT) | 3:30 | 2023-04-06 | 2023-09-16 |
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 | 2024-07-02 |
-| [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 |  |
+| [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 | 2024-08-08 |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 | 2023-07-29 |
 | [Galit](https://open.spotify.com/track/34WoMs2Lg6hG2VoeFehBwS) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u) | [Galit](https://open.spotify.com/album/4NpsJCdOhCApSkJEuSzXSJ) | 3:05 | 2024-07-08 |  |
 | [Ganon ka rin?](https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [Ganon ka rin?](https://open.spotify.com/album/5wz40XGa9q0pksUOPS6you) | 2:28 | 2024-03-08 |  |

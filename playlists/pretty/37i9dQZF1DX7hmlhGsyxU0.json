@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 170483,
+  "num_followers": 170548,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "Words Left Unspoken",
-        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
-      },
-      "artists": [
-        {
-          "name": "Malin Eriksson",
-          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
-        }
-      ],
-      "duration_ms": 165741,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "No Time But Eternity",
         "url": "https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 399544,
       "name": "No Time But Eternity",
       "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "Words Left Unspoken",
+        "url": "https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc"
+      },
+      "artists": [
+        {
+          "name": "Malin Eriksson",
+          "url": "https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU"
+        }
+      ],
+      "duration_ms": 165741,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 132755,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS"
     },
     {
       "added_at": "2024-05-28 16:28:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-05-28 16:28:00",
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
+      },
+      "artists": [
+        {
+          "name": "Rolig",
+          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
+    },
+    {
+      "added_at": "2024-05-28 16:28:00",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 108690,
       "name": "S\u00e9r\u00e9nit\u00e9",
       "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
-    },
-    {
-      "added_at": "2024-05-28 16:28:00",
-      "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q"
-      },
-      "artists": [
-        {
-          "name": "Rolig",
-          "url": "https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Autumn",
-      "url": "https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX"
     },
     {
       "added_at": "2024-05-28 16:28:00",

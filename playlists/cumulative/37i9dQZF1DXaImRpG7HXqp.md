@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-755 songs - 1 day 8 hr 47 min
+759 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Better Days](https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:08 | 2021-12-08 | 2024-05-24 |
 | [Beyond Any Doubt](https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Beyond Any Doubt](https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5) | 2:48 | 2023-05-12 | 2024-05-04 |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2024-04-05 |
+| [Bilbo](https://open.spotify.com/track/6iDSCK18tX5CCloZyhE2KR) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Bilbo](https://open.spotify.com/album/6SB4qQhsTWvtYmlLceZS37) | 2:45 | 2024-08-07 |  |
 | [Birds](https://open.spotify.com/track/6E4AgBT32JYKLCOYVrpchQ) | [Rob Willard](https://open.spotify.com/artist/4AZkp9pNQJf5f8EZkjVgTl) | [Birds](https://open.spotify.com/album/48Wc7vr5SmjAwuu5RCxIiR) | 1:55 | 2023-02-24 | 2023-08-19 |
 | [Black Orpheus](https://open.spotify.com/track/1F3JVqEYMtyfSDbdVPlXrW) | [Acoustic Connection](https://open.spotify.com/artist/4G9idcODSdGDMhkGJOIvFl) | [Black Orpheus](https://open.spotify.com/album/7rseTHCACqGwogO4FUmDWI) | 3:32 | 2021-12-08 | 2022-07-08 |
 | [Blame It On My Youth](https://open.spotify.com/track/4fNVjILYK5Qcaqh4N7HOye) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua), [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Blame It On My Youth](https://open.spotify.com/album/2SZYaprEBU5XyEHIT9jrKB) | 2:23 | 2021-12-08 | 2022-10-14 |
@@ -209,6 +210,7 @@
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-21 | 2024-07-19 |
 | [Encounters](https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Encounters](https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um) | 2:11 | 2023-10-27 |  |
 | [End Of A Great Day](https://open.spotify.com/track/5kkOITX3VBmYCyNQR6TbM7) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [End Of A Great Day](https://open.spotify.com/album/102hRVui7PAAfIzDl63ITE) | 4:03 | 2021-12-08 | 2024-05-24 |
+| [Endless Encounters](https://open.spotify.com/track/4c2UTkfuwN3cGJVNvS1NM1) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Encounters](https://open.spotify.com/album/0DSVCOolijun5ZrPht9tXL) | 2:34 | 2024-08-07 |  |
 | [Endless Path](https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Path](https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF) | 2:19 | 2024-04-19 |  |
 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 | 2022-06-10 | 2023-08-19 |
 | [Englischer Garten](https://open.spotify.com/track/3wblhyTGdAtGqKImUoy2W0) | [Brit Koch](https://open.spotify.com/artist/3kxcXQwZj8D8tXsHLnswf4) | [Englischer Garten](https://open.spotify.com/album/7HSlothoNNxPl3xLRE9Vxh) | 2:40 | 2021-12-08 | 2024-03-08 |
@@ -236,6 +238,7 @@
 | [First Light](https://open.spotify.com/track/5eIg1epMoq4ZRNPEy0W7wH) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [First Light](https://open.spotify.com/album/0S5xUJOjVtl6g3WXVGi5ED) | 1:42 | 2023-05-12 | 2023-08-19 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 | 2023-08-19 |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 |  |
+| [Flutuar](https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Flutuar](https://open.spotify.com/album/38GesdrKsOotrRglt30vK5) | 3:04 | 2024-08-07 |  |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-24 |  |
 | [Follow Me](https://open.spotify.com/track/60q1MEc0pXjOhCV1pHoPpf) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Follow Me](https://open.spotify.com/album/2SCPE6W9kz3Om5tlbCpY9i) | 2:39 | 2024-06-14 |  |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2021-12-08 | 2022-04-06 |
@@ -585,6 +588,7 @@
 | [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 | 2024-02-23 |
 | [Sognefjord](https://open.spotify.com/track/51FuKbJLNSBIY30sB8QOyA) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sognefjord](https://open.spotify.com/album/2wSqMTBBSwtLkU9NejexdH) | 2:40 | 2022-12-16 | 2024-04-05 |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 |  |
+| [Solace](https://open.spotify.com/track/2XewCUAMIlFH8KtxsWCvyR) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Solace](https://open.spotify.com/album/144y87LfcSG4yfQ3OT8bb7) | 2:19 | 2024-08-07 |  |
 | [Solitaire](https://open.spotify.com/track/0mpYde0CZ1SV1OMNlZiTf5) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Solitaire](https://open.spotify.com/album/1aY61d1qrLkO9C8roanTWK) | 2:08 | 2023-01-06 |  |
 | [Solitude](https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5) | [Casper Hatlestad](https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU) | [Solitude](https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL) | 2:24 | 2024-05-03 |  |
 | [Solus Iterum](https://open.spotify.com/track/4xFhPhpAFyMFMZkySfjcIC) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Solus Iterum](https://open.spotify.com/album/35rpeAjXlKdZnPbs6zrRyH) | 2:00 | 2022-09-02 | 2024-07-30 |

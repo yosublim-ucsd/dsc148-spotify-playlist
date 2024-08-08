@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Glocky e Faneto in cover, aggiornata ogni venerdì
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,815 likes - 60 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,816 likes - 60 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

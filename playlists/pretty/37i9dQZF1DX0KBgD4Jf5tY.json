@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8618,
+  "num_followers": 8621,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "SCOSSA",
-        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
+        "name": "Berlino",
+        "url": "https://open.spotify.com/album/36PeW7WZE4KZtSrLQmi2U9"
       },
       "artists": [
         {
-          "name": "FLUOSEXXX",
-          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+          "name": "cinelli",
+          "url": "https://open.spotify.com/artist/2WkXVoXLEzS944CXXlWXIF"
         }
       ],
-      "duration_ms": 136991,
-      "name": "SCOSSA",
-      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
+      "duration_ms": 134318,
+      "name": "Berlino",
+      "url": "https://open.spotify.com/track/6MzinKgAsG2a6xmxYJUbZx"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Berlino",
-        "url": "https://open.spotify.com/album/36PeW7WZE4KZtSrLQmi2U9"
+        "name": "SCOSSA",
+        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
       },
       "artists": [
         {
-          "name": "cinelli",
-          "url": "https://open.spotify.com/artist/2WkXVoXLEzS944CXXlWXIF"
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
         }
       ],
-      "duration_ms": 134318,
-      "name": "Berlino",
-      "url": "https://open.spotify.com/track/6MzinKgAsG2a6xmxYJUbZx"
+      "duration_ms": 136991,
+      "name": "SCOSSA",
+      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Karnevale di Rio",
+        "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
+      },
+      "artists": [
+        {
+          "name": "Yaraki",
+          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
+        }
+      ],
+      "duration_ms": 150537,
+      "name": "Karnevale di Rio",
+      "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "MERO CREDIT",
         "url": "https://open.spotify.com/album/0ToH1czj1bGlNTGka6cdzm"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 213230,
       "name": "LEGAMI",
       "url": "https://open.spotify.com/track/1C9OAXQN4zKkPbTRO17Hma"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Karnevale di Rio",
-        "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
-      },
-      "artists": [
-        {
-          "name": "Yaraki",
-          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
-        }
-      ],
-      "duration_ms": 150537,
-      "name": "Karnevale di Rio",
-      "url": "https://open.spotify.com/track/5NPvMrIzj1cMiKZ4TB4qld"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "su misura",
-        "url": "https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J"
-      },
-      "artists": [
-        {
-          "name": "daze+",
-          "url": "https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT"
-        },
-        {
-          "name": "+sudore",
-          "url": "https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC"
-        }
-      ],
-      "duration_ms": 151903,
-      "name": "su misura",
-      "url": "https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Il vento del nord",
         "url": "https://open.spotify.com/album/6qaturmycSCGiH4mEasn0n"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 209189,
       "name": "attenta",
       "url": "https://open.spotify.com/track/5ahVqOw2VwevQQXVqSWwey"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "su misura",
+        "url": "https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J"
+      },
+      "artists": [
+        {
+          "name": "daze+",
+          "url": "https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT"
+        },
+        {
+          "name": "+sudore",
+          "url": "https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC"
+        }
+      ],
+      "duration_ms": 151903,
+      "name": "su misura",
+      "url": "https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC"
+      },
+      "artists": [
+        {
+          "name": "Jay Evans",
+          "url": "https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy"
+        }
+      ],
+      "duration_ms": 123830,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "FUORITEMPO",
         "url": "https://open.spotify.com/album/0E5XoSkIRriGVTp4cZBZeJ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 160500,
       "name": "FUORITEMPO",
       "url": "https://open.spotify.com/track/0701lxppqec6LlbBa122WN"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC"
-      },
-      "artists": [
-        {
-          "name": "Jay Evans",
-          "url": "https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy"
-        }
-      ],
-      "duration_ms": 123830,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX"
     },
     {
       "added_at": "2024-07-18 22:01:00",

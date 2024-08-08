@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB"
       },

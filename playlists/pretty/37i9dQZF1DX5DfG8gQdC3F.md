@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charli xcx & Billie Eilish, NAV, A$AP Rocky, Orville Peck and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,744 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,767 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 61 | [Call Me Up High](https://open.spotify.com/track/3HmgyyyokSYo7iKwKObO1o) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Call Me Up High](https://open.spotify.com/album/2urklLZj9dfzEnItNkRJ4Y) | 2:43 |
 | 62 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
 | 63 | [We're out of phase again](https://open.spotify.com/track/77t8I81Wj6Fl7c2wg51vrU) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Elegant Rhythms](https://open.spotify.com/album/1sYDJJDSmoMHnHl0uTLeDH) | 2:47 |
-| 64 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 64 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 65 | [Darlin' Baby](https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Darlin' Baby](https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov) | 4:25 |
 | 66 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
 | 67 | [New Black History \(feat\. Vince Staples\)](https://open.spotify.com/track/4HzV6IvuKEuKdh5O60v52u) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Screen Cleaner](https://open.spotify.com/track/0Mov1mEZkKFHTGgFiO3ONa) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Screen Cleaner](https://open.spotify.com/album/6knmBybayTL36FPFPge1TI) | 3:29 |
 | 100 | [Race To The Bottom](https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Race To The Bottom](https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up) | 2:30 |
 
-Snapshot ID: `Zqxc/wAAAABAkwgl7EdkluWKQquFxJDp`
+Snapshot ID: `ZrOmTAAAAAAfsg9i1xGN1UJIKUZ39w81`

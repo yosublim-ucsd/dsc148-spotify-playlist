@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 244519,
+  "num_followers": 244517,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV"
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
       "artists": [
         {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
         },
         {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Thandi",
+          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
         }
       ],
-      "duration_ms": 162644,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V"
+      "duration_ms": 162338,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -987,26 +991,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV"
       },
       "artists": [
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
         },
         {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Thandi",
-          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
         }
       ],
-      "duration_ms": 162338,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
+      "duration_ms": 162644,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V"
     }
   ],
   "unique_name": "melancholia",

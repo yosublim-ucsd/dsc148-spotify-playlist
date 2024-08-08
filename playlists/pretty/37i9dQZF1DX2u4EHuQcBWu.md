@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,153 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,188 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 81 | [Plegaria A Un Labrador](https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [20 Grandes Exitos](https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN) | 3:13 |
 | 82 | [Canción De Alicia En El País \- En Vivo](https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 4:17 |
 | 83 | [Cinco Siglos Igual](https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [15 Años De Mi](https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY) | 4:14 |
-| 84 | [Si Somos Americanos](https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1) | [Rolando Alarcon](https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 2:03 |
+| 84 | [Verte Regresar](https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Paulina Lasa](https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:02 |
 | 85 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
-| 86 | [Verte Regresar](https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Paulina Lasa](https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:02 |
+| 86 | [Si Somos Americanos](https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1) | [Rolando Alarcon](https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 2:03 |
 | 87 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 |
 | 88 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
 | 89 | [Los dinosaurios](https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:29 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 93 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
 | 94 | [La Canción Es Protesta](https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Fuego \(Canciones de Emergencia\)](https://open.spotify.com/album/41S8vaZ1x2DS1T1U9fH3ZR) | 4:58 |
 | 95 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 |
-| 96 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
-| 97 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
-| 98 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
-| 99 | [Promesas y Perdones](https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Split](https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1) | 3:40 |
+| 96 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
+| 97 | [Promesas y Perdones](https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Split](https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1) | 3:40 |
+| 98 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
+| 99 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
 | 100 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |
 
 Snapshot ID: `Zobl8wAAAADSuc2o3shougLhSid6HxaH`

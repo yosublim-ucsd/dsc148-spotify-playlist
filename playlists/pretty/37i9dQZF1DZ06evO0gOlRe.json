@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 32007,
+  "num_followers": 32021,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAAyeP/N3ZzMkBzDzP0y6LA9",
+  "snapshot_id": "ZrFngAAAAADjdf1u98mgsHi32dOjv59v",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "if you only knew",
-        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "if you only knew",
-      "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 175600,
       "name": "day i die",
       "url": "https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "if you only knew",
+        "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "if you only knew",
+      "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "leave me in the dark",
-        "url": "https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "leave me in the dark",
-      "url": "https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "bleeding heart",
         "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 150866,
       "name": "how dare you",
       "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "leave me in the dark",
+        "url": "https://open.spotify.com/album/5BGIm4ntyzoIiOYKw9SIIe"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "leave me in the dark",
+      "url": "https://open.spotify.com/track/6ggcyYvhJCnUID8EZGQng1"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+        "name": "Compare Myself",
+        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
+      "duration_ms": 211948,
+      "name": "Compare Myself",
+      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compare Myself",
-        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 211948,
-      "name": "Compare Myself",
-      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
+      "duration_ms": 148965,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Be Sad",
-      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 173195,
       "name": "Single",
       "url": "https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Be Sad",
+      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
     }
   ],
   "unique_name": "This Is Alexander Stewart",

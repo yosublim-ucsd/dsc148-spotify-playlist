@@ -1,12 +1,12 @@
 {
-  "description": "This is Saweetie. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 39493,
+  "description": "This is Saweetie. The essential tracks, all in one playlist.",
+  "num_followers": 39497,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADUPJx8e9rH+01LD+dGWCre",
+  "snapshot_id": "ZrFngAAAAAAuyzqrBC/4rbZ0LElVXnkQ",
   "tracks": [
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Was Said?",
-        "url": "https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121833,
-      "name": "Only Live Once (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1z1VdvqDHeuqklquYp43k3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 159152,
       "name": "Risky (feat. Drakeo the Ruler)",
       "url": "https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Was Said?",
+        "url": "https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 121833,
+      "name": "Only Live Once (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1z1VdvqDHeuqklquYp43k3"
     },
     {
       "added_at": null,

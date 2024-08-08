@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,591 likes - 175 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,560 likes - 175 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 19 | [After Hours \- Cater 2 U Mix](https://open.spotify.com/track/6rrYNfGHPUhFoGF2aCuO4L) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours \(Cater 2 U Mix\)](https://open.spotify.com/album/46QpFhP3TcBugzNkZjxUUz) | 3:51 |
 | 20 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 |
 | 21 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 |
-| 22 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 22 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 23 | [High](https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD) | 3:16 |
 | 24 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 |
 | 25 | [He Don't Know](https://open.spotify.com/track/1QWSfV2BlRyUkTiNxPT3Qv) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [It's Complicated](https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p) | 2:41 |

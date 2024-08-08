@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-148 songs - 4 hr 58 min
+149 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Still Waters Run Deep](https://open.spotify.com/track/6K46cdspMPu9K3FWSL7Vbo) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [In the Stillness](https://open.spotify.com/album/0RKqBzih1tgkqTInODST75) | 1:48 | 2024-02-05 |  |
 | [Sublime Illusions](https://open.spotify.com/track/0LZKpPM5aWUqcBuMHFHRv3) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Harmonic Wanderlust](https://open.spotify.com/album/5xHSvK424GXmtHEFeIuHWj) | 2:18 | 2024-02-05 |  |
 | [Summer Breeze](https://open.spotify.com/track/508KH4UogBy9ZhIeBR1RpW) | [Burstell](https://open.spotify.com/artist/5GkPupoxyFQbeCGlEkhT5C), [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [Crystal Clear](https://open.spotify.com/album/4PMOqn6bo9U228D2XzBoV4) | 1:36 | 2024-02-05 |  |
+| [Summer Shower](https://open.spotify.com/track/0sDKM1Au5SxOB2TPSDGzF9) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Sunset Squall](https://open.spotify.com/album/1ppxD1UzZpIeFuK7U7ERPI) | 2:17 | 2024-08-07 |  |
 | [The Art of Relaxation](https://open.spotify.com/track/01HSXwAvX4UyKYGzxHMvWD) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [The Art of Relaxation](https://open.spotify.com/album/0ceMy6a1h5NOkV4qO02QiW) | 2:02 | 2024-02-05 |  |
 | [The Fall](https://open.spotify.com/track/4pGSzP7Ggn9V5U0hOoxRPm) | [Constantine](https://open.spotify.com/artist/51iYgazp7BtRA3br2bFzSW) | [The Fall](https://open.spotify.com/album/1fH1UmiEQH19JuRWpVA00T) | 2:40 | 2024-05-16 | 2024-06-10 |
 | [The Ripple Effect](https://open.spotify.com/track/5NDwBtJO7iBtxjcrycQJOw) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [The Beauty of Stillness](https://open.spotify.com/album/0IFkgVAGC741t0pXQRh7Y4) | 1:42 | 2024-02-05 |  |

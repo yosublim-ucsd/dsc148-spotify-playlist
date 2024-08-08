@@ -1,53 +1,13 @@
 {
-  "description": "ft. charli",
-  "num_followers": 461696,
+  "description": "tsubi club is back",
+  "num_followers": 461814,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq5Y6wAAAAAv5YXGGdXZv81Ir2tyKY+V",
+  "snapshot_id": "ZrPEXwAAAAAn/XZ+nh41oJZam/5rpKaO",
   "tracks": [
-    {
-      "added_at": "2024-08-03 15:58:38",
-      "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-07-19 20:54:01",
-      "album": {
-        "name": "VVFROST",
-        "url": "https://open.spotify.com/album/0cU6y450RZN5dWTjZP54WU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Boss Baby",
-      "url": "https://open.spotify.com/track/3iHihR9gGDWNuiIJs65OUR"
-    },
     {
       "added_at": "2024-08-03 15:58:38",
       "album": {
@@ -97,24 +57,84 @@
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
-      "added_at": "2024-08-03 16:20:59",
+      "added_at": "2024-08-07 19:00:47",
       "album": {
-        "name": "SMILE! :D",
-        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+        "name": "just not sure",
+        "url": "https://open.spotify.com/album/4BRMTaQJ1sXM2YsZbqdWAH"
       },
       "artists": [
         {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
         },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 170206,
+      "name": "just not sure",
+      "url": "https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV"
+    },
+    {
+      "added_at": "2024-07-19 20:54:01",
+      "album": {
+        "name": "VVFROST",
+        "url": "https://open.spotify.com/album/0cU6y450RZN5dWTjZP54WU"
+      },
+      "artists": [
         {
           "name": "Frost Children",
           "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
         }
       ],
-      "duration_ms": 225388,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/10eSd64aL2TYuGLdrYCfU9"
+      "duration_ms": 154000,
+      "name": "Boss Baby",
+      "url": "https://open.spotify.com/track/3iHihR9gGDWNuiIJs65OUR"
+    },
+    {
+      "added_at": "2024-08-03 15:58:38",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2024-06-14 05:37:00",
+      "album": {
+        "name": "Upgrade (CROOK's System Update)",
+        "url": "https://open.spotify.com/album/2010X4TmZW120C1jclxuDM"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        },
+        {
+          "name": "CROOK",
+          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
+        }
+      ],
+      "duration_ms": 129776,
+      "name": "Upgrade (CROOK's System Update)",
+      "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
       "added_at": "2024-06-07 05:00:00",
@@ -159,26 +179,6 @@
     {
       "added_at": "2024-06-14 05:37:00",
       "album": {
-        "name": "Upgrade (CROOK's System Update)",
-        "url": "https://open.spotify.com/album/2010X4TmZW120C1jclxuDM"
-      },
-      "artists": [
-        {
-          "name": "twst",
-          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
-        },
-        {
-          "name": "CROOK",
-          "url": "https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Upgrade (CROOK's System Update)",
-      "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
-    },
-    {
-      "added_at": "2024-06-14 05:37:00",
-      "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
       },
@@ -207,6 +207,26 @@
       "duration_ms": 130817,
       "name": "Block",
       "url": "https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y"
+    },
+    {
+      "added_at": "2024-08-03 16:20:59",
+      "album": {
+        "name": "SMILE! :D",
+        "url": "https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/10eSd64aL2TYuGLdrYCfU9"
     },
     {
       "added_at": "2024-05-14 16:01:28",
@@ -2651,310 +2671,6 @@
       "duration_ms": 111963,
       "name": "Want me like!",
       "url": "https://open.spotify.com/track/38p5nmDKCoo8ckfMKbe0Y7"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "STARFUCKER (Deluxe)",
-        "url": "https://open.spotify.com/album/28AykhX6LH9IJeE8U1zMNn"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Starfucker",
-      "url": "https://open.spotify.com/track/1HBOsPD7SbbShkxh1qfTRn"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "wish \u272e\u22c6\u02d9",
-        "url": "https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "wish \u272e\u22c6\u02d9",
-      "url": "https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "GORE",
-        "url": "https://open.spotify.com/album/18qf5tvWCzzhPauoKyJSTh"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 148678,
-      "name": "unpredictable thinGs",
-      "url": "https://open.spotify.com/track/3pDAsFoenMVsbPFEkdGuXR"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Cyberia",
-        "url": "https://open.spotify.com/album/2XOAKEIdwyPdnFgX3rL53T"
-      },
-      "artists": [
-        {
-          "name": "Meth Math",
-          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Cyberia",
-      "url": "https://open.spotify.com/track/2j9Xt4l2ISs2acdrv19uJr"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "a night in virginia",
-        "url": "https://open.spotify.com/album/6hR5LXmqqaonYxc2oQe7EG"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 113865,
-      "name": "two am",
-      "url": "https://open.spotify.com/track/0DFyo7KI5TihXA6xKI7nCO"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "thicc",
-        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Cosha",
-          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "thicc",
-      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/2G8vQf90vV1VaZil0ukv6g"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 213154,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/6vKq8Q4UCs4q6LqlijQGKE"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "THE RUNAROUND",
-        "url": "https://open.spotify.com/album/3p7WqXW7b0edoEZkgHU0gL"
-      },
-      "artists": [
-        {
-          "name": "nelward",
-          "url": "https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "THE RUNAROUND",
-      "url": "https://open.spotify.com/track/5S2t7uGKhP8GjUsJeVwv57"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Dang",
-        "url": "https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 164514,
-      "name": "Dang",
-      "url": "https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Nothing Lasts Forever (with Grimes)",
-        "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "Nothing Lasts Forever (with Grimes)",
-      "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 182375,
-      "name": "SummerTime Blood",
-      "url": "https://open.spotify.com/track/0NTxPkoyndrAN07DYS2ouO"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Wallsocket",
-        "url": "https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 245122,
-      "name": "Johnny johnny johnny",
-      "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Night Killaz Vol. 1",
-        "url": "https://open.spotify.com/album/0BYXEDtEXZ1fMYXCOb9Pnw"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Just A Hint",
-      "url": "https://open.spotify.com/track/7hE0JjXftoo3euDhjwgNIQ"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "crying at the Orgy",
-        "url": "https://open.spotify.com/album/34KIJfUuoxN8NFgTrLsrp6"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 143272,
-      "name": "crying at the Orgy",
-      "url": "https://open.spotify.com/track/67k9cC6UadKPmToT2OZm1D"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 145414,
-      "name": "Idolize",
-      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Affirmations",
-      "url": "https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Lost Everything / Reign",
-        "url": "https://open.spotify.com/album/6n6uqHl0JaMqDe2sFErG83"
-      },
-      "artists": [
-        {
-          "name": "Thy Slaughter",
-          "url": "https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        },
-        {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        }
-      ],
-      "duration_ms": 241368,
-      "name": "Lost Everything",
-      "url": "https://open.spotify.com/track/55gIwFTMl1c3ZuesPM0VHo"
     }
   ],
   "unique_name": "hyperpop",

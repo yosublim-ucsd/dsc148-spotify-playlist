@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895030,
+  "num_followers": 3895070,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "All We Ever Do",
         "url": "https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 195121,
       "name": "All We Ever Do",
       "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "U REALLY HURT ME",
         "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 162406,
       "name": "U REALLY HURT ME",
       "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/0UBMDH6SZpQCvGq42yjRtp"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 165952,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6D8hNLZL3lz5Cp392mjrlG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 140952,
       "name": "fever",
       "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "LMK",
         "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 233532,
       "name": "LMK",
       "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Indefinitely",
+        "url": "https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Indefinitely",
+      "url": "https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
       },
@@ -1239,34 +1255,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Indefinitely",
-        "url": "https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0"
+        "name": "Company",
+        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 129373,
-      "name": "Indefinitely",
-      "url": "https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc"
-      },
-      "artists": [
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Thandi",
+          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
         }
       ],
-      "duration_ms": 236129,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
+      "duration_ms": 162338,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1295,18 +1303,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
         }
       ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+      "duration_ms": 136615,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1331,46 +1343,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/5HGX6eQ7du1wpxHBekpWwc"
       },
       "artists": [
         {
-          "name": "Iaco",
-          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
-        },
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
+      "duration_ms": 236129,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
       },
       "artists": [
         {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Thandi",
-          "url": "https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 162338,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz"
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Highest Love",
-        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "LANKS",
-          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 297374,
-      "name": "Highest Love",
-      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1447,34 +1443,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Gleams",
-        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
+        "name": "Highest Love",
+        "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Gleams",
-      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
-      },
-      "artists": [
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "LANKS",
+          "url": "https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb"
         }
       ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+      "duration_ms": 297374,
+      "name": "Highest Love",
+      "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 267860,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
       },
       "artists": [
         {
-          "name": "Headrow",
-          "url": "https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T"
+      "duration_ms": 267860,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1715,6 +1695,26 @@
       "duration_ms": 251474,
       "name": "Roused",
       "url": "https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2"
+      },
+      "artists": [
+        {
+          "name": "Headrow",
+          "url": "https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        }
+      ],
+      "duration_ms": 253548,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 201866,
       "name": "iwaly",
       "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        }
-      ],
-      "duration_ms": 253548,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1839,6 +1839,42 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 231784,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Devices / Green",
+        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "Devices",
+      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/3BRgsslGw2N7tIa47JWm97"
       },
@@ -1875,46 +1911,6 @@
       "duration_ms": 196500,
       "name": "Friday Lake",
       "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 231784,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/6PBmEy7AwKSRnZbxnDmDzU"
-      },
-      "artists": [
-        {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
-        },
-        {
-          "name": "S:NE",
-          "url": "https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3"
-        }
-      ],
-      "duration_ms": 224445,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj"
     },
     {
       "added_at": "2024-08-02 04:00:00",

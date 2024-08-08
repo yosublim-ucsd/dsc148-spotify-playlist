@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 214287,
+  "num_followers": 214309,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABub+xhfyw8/N7Kekd2e2E9",
+  "snapshot_id": "ZrFngAAAAADNr+9dAeRaRQZaYpm+JOKt",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Basket Case (From \u2018The Tick\u2019 TV Series)",
+        "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 153548,
+      "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
+      "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Cabana (Deluxe Version)",
         "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 272547,
       "name": "No One\u2019s Here To Sleep",
       "url": "https://open.spotify.com/track/0txjdg6j38GxiWzfH2Skpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Basket Case (From \u2018The Tick\u2019 TV Series)",
-        "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 153548,
-      "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
-      "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
     },
     {
       "added_at": null,

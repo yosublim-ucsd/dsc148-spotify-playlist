@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-211 songs - 10 hr 19 min
+214 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Amarcord](https://open.spotify.com/track/5FRQe614oqDkHGf4LVZCr9) | [Les Musettes de Montmartre](https://open.spotify.com/artist/7DsLMRMVsh4L7LcwWpps2j) | [More Accordions Of Paris](https://open.spotify.com/album/1No7DEy8vVaAmqYmVSaY6r) | 3:32 | 2022-11-25 |  |
 | [Amor del Bajo Corrales](https://open.spotify.com/track/1ULkKtUQyODQheFCYbuXHZ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:28 | 2022-11-25 |  |
 | [Amour, Mon Cher Amour](https://open.spotify.com/track/7je6JyunzZyZ0FSEfkpgMg) | [Hot Club De Norvege](https://open.spotify.com/artist/4zppvokHD35NLS7W7w5wf8) | [Swinging with Jimmy Rosenberg](https://open.spotify.com/album/4z1txNSbOCoJNtujT6Z6GR) | 3:12 | 2023-03-07 | 2023-06-16 |
+| [Amusement](https://open.spotify.com/track/7eCbXJ0o1JUYQQ7jdJehNK) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [Amusement](https://open.spotify.com/album/2n3vXVojSN4OAbzC5mV67k) | 2:44 | 2024-08-07 |  |
 | [Arc de Triomphe](https://open.spotify.com/track/523gSUSIfg3v88dW9Xp4Bq) | [Paris Café Society](https://open.spotify.com/artist/5jjHcJSJq9lyKfh4j6mNro) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp) | 2:43 | 2022-02-18 | 2023-05-12 |
 | [Arc de Triomphe](https://open.spotify.com/track/0bgST5jybVh3OOYK9Pxorb) | [Sababaman](https://open.spotify.com/artist/7BY3oEfszung40oUYjbKO7) | [Jazz & Blues Guitar](https://open.spotify.com/album/2Pl6sJl6PDR4oqoAvvhXX5) | 2:43 | 2022-08-05 | 2022-11-13 |
 | [Arc de Triomphe](https://open.spotify.com/track/5TbdQuOnaVZXnWVdu9elLU) | [World Music Ensemble](https://open.spotify.com/artist/0f3rGPN9VHlAWAQnSZB0OG) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/67jVIvQuFnU0nh40CsRbUr) | 2:43 | 2022-02-18 | 2022-07-29 |
-| [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 | 2023-03-28 |  |
+| [Au Bistrot](https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [The Sound of Paris](https://open.spotify.com/album/1o9x9MH5jHm5PwewyWato8) | 3:07 | 2023-03-28 | 2024-08-08 |
 | [Au Vieux Bal Musette](https://open.spotify.com/track/2XZaBz843U00YVkOJLHtGx) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Une Belle Histoire](https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG) | 2:33 | 2022-02-18 | 2023-05-12 |
 | [Aux Champs\-Elyseés](https://open.spotify.com/track/7i4BGa7PRBJeXqhZMJxeFG) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Aux Champs\-Elyseés](https://open.spotify.com/album/63UeIk6OkauXHONXtVhFU9) | 2:12 | 2023-04-27 |  |
 | [Avenue du chêne](https://open.spotify.com/track/3phcmP1I7wiwPrKXHG6QyV) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [Avenue du chêne](https://open.spotify.com/album/4aU8jI69t9fmIz5w1fKAT7) | 2:32 | 2024-04-02 |  |
@@ -56,6 +57,7 @@
 | [Cumbia Cantina](https://open.spotify.com/track/78R2ykINPnIYzQqCg5Kbys) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:52 | 2022-02-18 | 2023-04-28 |
 | [c’est pas une valse](https://open.spotify.com/track/2M7pnVEq94WK8GY4VVVHnL) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [c’est pas une valse](https://open.spotify.com/album/502Abcnvy3uNgBV9H34IZq) | 3:14 | 2023-12-08 |  |
 | [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 | 2024-01-19 |  |
+| [des mers ensoleillées](https://open.spotify.com/track/0JwjaAxjBVSDNr5dOqgAwl) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [des mers ensoleillées](https://open.spotify.com/album/23ks6PKKQkUuUCZeN9zRZw) | 2:45 | 2024-08-07 |  |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7bkF2XCl41sxITMEVfamKq) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:58 | 2022-02-18 | 2024-04-19 |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7fQBdAmIIcaK0xYfn8vjRl) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:58 | 2022-02-18 |  |
 | [Djangology](https://open.spotify.com/track/3dIl8SxXJTggnKIMozYRqi) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:37 | 2023-03-21 |  |
@@ -146,6 +148,7 @@
 | [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 |  |
 | [Nuits Françaises](https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nuits Françaises](https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6) | 2:27 | 2023-10-13 |  |
 | [Ombrages](https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:57 | 2022-02-18 |  |
+| [On the run](https://open.spotify.com/track/2mTuZaoYyehU31Zb3aPCcz) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [On the run](https://open.spotify.com/album/45eIA6TzPo98wk9cyf9K2J) | 2:16 | 2024-08-07 |  |
 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 | 2022-02-18 |  |
 | [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 | 2023-06-15 | 2023-08-19 |
 | [Paris Pigalle](https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:00 | 2023-03-07 |  |

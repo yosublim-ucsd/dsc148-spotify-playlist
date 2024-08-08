@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 282036,
       "name": "enough",
       "url": "https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M"
@@ -12304,6 +12304,24 @@
       "duration_ms": 229931,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30fb\u30d6\u30eb\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226492,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30fb\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz"
     },
     {
       "album": {

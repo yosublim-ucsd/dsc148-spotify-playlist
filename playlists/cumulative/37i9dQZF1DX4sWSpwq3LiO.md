@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,723 songs - 3 day 4 hr 36 min
+1,724 songs - 3 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2020-10-13 | 2022-05-21 |
 | [Connotations](https://open.spotify.com/track/7BohLbjDypEKLJ9CGQbyXT) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Connotations](https://open.spotify.com/album/0aUFSGKClWb4CVfqj7utGs) | 2:51 | 2020-11-17 | 2022-05-13 |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2021-11-24 | 2022-10-04 |
+| [Contemplazione del Mare](https://open.spotify.com/track/5KX4Iw959UusWyNmqqAYMb) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Contemplazione del Mare](https://open.spotify.com/album/5ovjWBufizlB1cZWztGYm7) | 2:34 | 2024-08-07 |  |
 | [Continuo](https://open.spotify.com/track/3AogJjKJYSIEiXx8Xfq9Z9) | [Mauro Cangemi](https://open.spotify.com/artist/7M8vWWoWXUuH6qcoOpO2PN) | [Continuo](https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7) | 2:14 | 2020-04-14 | 2021-04-14 |
 | [Cor Meum](https://open.spotify.com/track/2kOWXD4YeNn1bGZljZlX93) | [8th Floor Wide](https://open.spotify.com/artist/3SIHBhzxgzWiGL8ZzZMhwr) | [Cor Meum](https://open.spotify.com/album/3bQzP4OhhRxxIuBEelUeTq) | 3:16 | 2019-05-26\* | 2019-12-04 |
 | [Coral Red](https://open.spotify.com/track/0RLDbBQxuLmVE0odiyMcNv) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 2:17 | 2019-05-26\* | 2019-08-23 |

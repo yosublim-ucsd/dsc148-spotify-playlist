@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92170,
+  "num_followers": 92169,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Like No One Could",
-        "url": "https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 167101,
-      "name": "Like No One Could",
-      "url": "https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207300,
       "name": "Sally/Hungry Eyes",
       "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Like No One Could",
+        "url": "https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 167101,
+      "name": "Like No One Could",
+      "url": "https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Upp med hakan",
-        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Upp med hakan",
-      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Parents",
         "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 126175,
       "name": "Parents",
       "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Midsommar",
-        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Midsommar",
-      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Inget halleluja",
         "url": "https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Stj\u00e4rnorna inatt",
         "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 207160,
       "name": "Stj\u00e4rnorna inatt",
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Vem?",
-        "url": "https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Vem?",
-      "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 190920,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Vem?",
+        "url": "https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Vem?",
+      "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1003,6 +1003,26 @@
       "duration_ms": 204040,
       "name": "Looking Back, Looking Out",
       "url": "https://open.spotify.com/track/1pSWXfVAsJfT0eM5wmuwuB"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 195187,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1059,22 +1079,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
+        "name": "Empty the Bags",
+        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
       "artists": [
         {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        },
-        {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
         }
       ],
-      "duration_ms": 195187,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
+      "duration_ms": 153559,
+      "name": "Empty the Bags",
+      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 139354,
       "name": "F\u00f6rbjudna tankar",
       "url": "https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Empty the Bags",
-        "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Empty the Bags",
-      "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Kontakt",
+        "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 164725,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 173000,
       "name": "Vingar",
       "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Kontakt",
-        "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 164725,
-      "name": "Kontakt",
-      "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Sommartider",
+        "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
+      },
+      "artists": [
+        {
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Sommartider",
+      "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Sommartider",
-        "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
+        "name": "Dom Sa \u2013 Ett glas till",
+        "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
       },
       "artists": [
         {
-          "name": "CISSI",
-          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
         }
       ],
-      "duration_ms": 160546,
-      "name": "Sommartider",
-      "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
+      "duration_ms": 265000,
+      "name": "Ett Glas Till",
+      "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 309166,
       "name": "Draw Me Closer 2.0",
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Dom Sa \u2013 Ett glas till",
-        "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
-      },
-      "artists": [
-        {
-          "name": "Avantgardet",
-          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Ett Glas Till",
-      "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Den var aldrig jag",
-        "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 244090,
-      "name": "Den var aldrig jag",
-      "url": "https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Not With You",
         "url": "https://open.spotify.com/album/6C87WyxHXIgupIrGXlY1JJ"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 202132,
       "name": "I v\u00e5ra h\u00e4nder",
       "url": "https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Den var aldrig jag",
+        "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 244090,
+      "name": "Den var aldrig jag",
+      "url": "https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Hummin' a Melody",
-        "url": "https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7"
-      },
-      "artists": [
-        {
-          "name": "Isaac And The Soul Company",
-          "url": "https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld"
-        }
-      ],
-      "duration_ms": 167300,
-      "name": "Hummin' a Melody",
-      "url": "https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Se mig bara f\u00f6r den jag \u00e4r",
         "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 186320,
       "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
       "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Hummin' a Melody",
+        "url": "https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7"
+      },
+      "artists": [
+        {
+          "name": "Isaac And The Soul Company",
+          "url": "https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld"
+        }
+      ],
+      "duration_ms": 167300,
+      "name": "Hummin' a Melody",
+      "url": "https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "I Keep On Falling in Love",
+        "url": "https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB"
+      },
+      "artists": [
+        {
+          "name": "The Moniker",
+          "url": "https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "I Keep On Falling in Love",
+      "url": "https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Midsummer Day",
         "url": "https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD"
       },
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "I Keep On Falling in Love",
-        "url": "https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB"
-      },
-      "artists": [
-        {
-          "name": "The Moniker",
-          "url": "https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "I Keep On Falling in Love",
-      "url": "https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "True Romantic",
         "url": "https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 168178,
       "name": "Good Day - 2024 Remaster",
       "url": "https://open.spotify.com/track/3evNXplJ4WDJFtypBEluFF"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
       "added_at": "2024-06-27 22:00:00",

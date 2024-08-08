@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,900 songs - 10 day 21 hr 37 min
+6,901 songs - 10 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [a walk in the park](https://open.spotify.com/track/6OlIEuyO5vY8INjdhN4xBG) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [a walk in the park](https://open.spotify.com/album/4JcY5GHKHF48RV80419Ifw) | 2:06 | 2022-05-27 | 2022-09-16 |
 | [a warm kiss in the frost](https://open.spotify.com/track/0rE1VJnjast6fXOJtniaO0) | [fibra](https://open.spotify.com/artist/40A1MjdCIepuuhptyBVoCB) | [a warm kiss in the frost](https://open.spotify.com/album/2pEd6L29NLepE65yoM7xkY) | 1:55 | 2023-01-06 | 2023-12-01 |
 | [a weird phone call](https://open.spotify.com/track/1QCwRyocoKoaNPGTAyZdFE) | [eevee beats](https://open.spotify.com/artist/0Yag4ytAigYG9gD1APaXre) | [a weird phone call](https://open.spotify.com/album/0ZRz1hsuRAFHuLk6wG2m2b) | 1:36 | 2019-09-08 | 2021-04-24 |
-| [AAAlkaline](https://open.spotify.com/track/1uE0vNOkb8UW7nsqiMilUI) | [Grillo](https://open.spotify.com/artist/0GdRrQ6HAXdPlEUGZTthKs), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Safari Nights](https://open.spotify.com/album/6ROh4hhURGXaTtnSbvvtBC) | 2:29 | 2024-03-08 |  |
+| [AAAlkaline](https://open.spotify.com/track/1uE0vNOkb8UW7nsqiMilUI) | [Grillo](https://open.spotify.com/artist/0GdRrQ6HAXdPlEUGZTthKs), [Spalato Wyale](https://open.spotify.com/artist/4B6N6t2bTzsNH4n3gF74y5) | [Safari Nights](https://open.spotify.com/album/6ROh4hhURGXaTtnSbvvtBC) | 2:29 | 2024-03-08 | 2024-08-08 |
 | [Aaliyah Slide](https://open.spotify.com/track/0VBJDBndtyqJGuQwVxoQsA) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez), [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Aaliyah Slide](https://open.spotify.com/album/4ZZ5ukH7eWOVTYox4Ux8Sw) | 3:15 | 2022-04-08 | 2022-07-29 |
 | [abbey soul](https://open.spotify.com/track/094rEnuD2Bnryy5PyEj89N) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [abbey soul](https://open.spotify.com/album/4fxM3MqhDS2gcS2g7lYCY4) | 2:27 | 2022-08-26 | 2022-12-16 |
 | [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2022-12-09 | 2023-06-08 |
@@ -1100,7 +1100,7 @@
 | [Chopped Coriander](https://open.spotify.com/track/2ebCREZWTZhsP1l2Cxdgy9) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Chopped Coriander](https://open.spotify.com/album/3pZTq5HX11D5D2OazxpZG9) | 2:03 | 2022-06-03 | 2022-09-30 |
 | [Choppin](https://open.spotify.com/track/4ylIcwjAR2edoIU74abjJp) | [Tropical Soldiers in Paradise](https://open.spotify.com/artist/1CZ51T4mCWAc4I8jBpviXk) | [Atversailles I](https://open.spotify.com/album/6FqsPkUtwWtpBKZNgGoeqY) | 4:16 | 2022-02-25 | 2022-05-27 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-25 | 2023-10-06 |
-| [Chordingly](https://open.spotify.com/track/1GlyHT01SDQM9pdH7GvrE3) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [Chordingly](https://open.spotify.com/album/0geobmnBANt7T42h3rFJJU) | 1:45 | 2023-12-01 | 2024-08-05 |
+| [Chordingly](https://open.spotify.com/track/1GlyHT01SDQM9pdH7GvrE3) | [Loop](https://open.spotify.com/artist/1YnFRLLEjnqcJRcytKBZa5) | [Chordingly](https://open.spotify.com/album/0geobmnBANt7T42h3rFJJU) | 1:45 | 2023-12-01 |  |
 | [Chou Chou](https://open.spotify.com/track/529cTgl9WGjCd3l0Ny1wp5) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Chou Chou](https://open.spotify.com/album/6NyUkb0I5kOLuJ8Yjrw2zx) | 2:38 | 2022-09-23 | 2023-01-07 |
 | [Chromatic](https://open.spotify.com/track/7mFLyUxT9SHvYpYZOWulxo) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [Chromatic](https://open.spotify.com/album/5L3QnwLPxL8D24kgMPkCpi) | 2:24 | 2020-01-08 | 2021-06-18 |
 | [Chuamato](https://open.spotify.com/track/3LZAhVqKtFYh17qqCbWwho) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Chuamato](https://open.spotify.com/album/3MB8w0vbAw19SP2kC30ENh) | 2:32 | 2023-05-03 | 2023-11-17 |
@@ -3300,6 +3300,7 @@
 | [Lemon](https://open.spotify.com/track/1G9KON1So2d8r7Mle9RGmv) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Lemon](https://open.spotify.com/album/1m5kRFZjm9due7qlRtsYoF) | 1:48 | 2019-05-27 | 2020-10-21 |
 | [lemon soda](https://open.spotify.com/track/3h641YOd617QlxVMI4u2ds) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [lemon soda](https://open.spotify.com/album/32hsgUyySHyWhKDboN6tk6) | 2:20 | 2024-03-22 |  |
 | [Lemon Sour in Shinjuku](https://open.spotify.com/track/4eAMEjoLSPuW0N6MnzWZR0) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Lemon Sour in Shinjuku](https://open.spotify.com/album/4h21kARICALhPPS65OPqeU) | 2:41 | 2020-04-07 | 2021-09-04 |
+| [Lemon Verde](https://open.spotify.com/track/4lbjjP9MCWyRo4pRr2NTAm) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Lemon Verde](https://open.spotify.com/album/2sAqQvhCkSdaTy2yrfZoQH) | 1:56 | 2024-07-26 |  |
 | [Lemon Wedge in the Sky](https://open.spotify.com/track/2HL746RqBIfvVZZK0FLuXM) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Home By 11 PM](https://open.spotify.com/album/2gkM9voMHscMGUcEnGrDCw) | 2:11 | 2019-08-08 | 2021-06-08 |
 | [Lemonade](https://open.spotify.com/track/6Gwb5YQpylee9HnLqSx0is) | [FLVTEE](https://open.spotify.com/artist/7mXarEU6N3pgUiVdZreQfh), [Versions in Color](https://open.spotify.com/artist/3vflLLud2k4jwGwI6XiTV7) | [Lemonade](https://open.spotify.com/album/3zDGYukeXkKATTYYmyyTRf) | 2:42 | 2022-04-23 | 2022-09-09 |
 | [lemonade](https://open.spotify.com/track/7ugbUqIuXfg3UVxbIsK3Vd) | [Jungle Hit](https://open.spotify.com/artist/6zMsK4j9ppsNd4hry9P1bd) | [lemonade](https://open.spotify.com/album/17uTT5xBuHUU4WvCmKOtvr) | 2:10 | 2021-10-20 | 2022-04-15 |
@@ -3715,7 +3716,7 @@
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Melted Sidewalk](https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Melted Sidewalk](https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL) | 3:20 | 2024-01-12 |  |
-| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 |  |
+| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 | 2024-08-08 |
 | [melting clocks](https://open.spotify.com/track/7hlKb8BmabyAANk2fVxu7R) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [melting clocks](https://open.spotify.com/album/4TwRqwqGIfYW8WDHiLO6Te) | 2:21 | 2022-07-08 | 2022-10-21 |
 | [memorias](https://open.spotify.com/track/1nW1JlpnXEbt1eyuchf1kI) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5) | [memorias](https://open.spotify.com/album/2M92XDZKrz7IcKLUJkanGM) | 1:48 | 2022-09-02 | 2022-12-03 |
 | [Memories](https://open.spotify.com/track/0EAsEinvoXdALbiJfLAKoJ) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Memories](https://open.spotify.com/album/4dZIBKFlAk7ejplGHqdE9R) | 2:27 | 2023-03-16 | 2023-04-13 |

@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "album": {
         "name": "STRAY SHEEP",
         "url": "https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh"
       },
@@ -1732,6 +1750,24 @@
       "duration_ms": 238874,
       "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
+    },
+    {
+      "album": {
+        "name": "\u7c73\u6d25\u7384\u5e2b\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/7GDhAfbRXjn4lpKhKsrMZn"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38805,
+      "name": "\u7c73\u6d25\u7384\u5e2b\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/2S9mRRurANCA8ukmbsMG1O"
     },
     {
       "album": {

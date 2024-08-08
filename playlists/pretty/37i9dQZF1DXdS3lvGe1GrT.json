@@ -1,13 +1,77 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
-  "num_followers": 74957,
+  "num_followers": 75057,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwLAwAAAAC2T58atDFLJTxLe+iGxJG8",
+  "snapshot_id": "ZrOaAAAAAADfUaZ9ft9Lt+U64BD8dj7D",
   "tracks": [
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "CRACK A SMILE COME ON STAY A WHILE",
+        "url": "https://open.spotify.com/album/3MCABaEqPmI82mgE6OVYoB"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Butterfly Song",
+      "url": "https://open.spotify.com/track/6JuB5cewTiFUzvYRrD5FuE"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Tree, So Tall",
+        "url": "https://open.spotify.com/album/0JMt61VeCL0yUqLPdKDaaM"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 156854,
+      "name": "Tree, So Tall",
+      "url": "https://open.spotify.com/track/70b6fgYvK4MkxD3sQg5Exp"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Drunk Again",
+        "url": "https://open.spotify.com/album/3eA5mXkG8NHiynlR7ZySqv"
+      },
+      "artists": [
+        {
+          "name": "Boxtrod",
+          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
+        }
+      ],
+      "duration_ms": 199159,
+      "name": "Drunk Again",
+      "url": "https://open.spotify.com/track/1X5neZzSKeILZSfrfDnwSl"
+    },
     {
       "added_at": "2024-07-31 16:00:00",
       "album": {
@@ -23,22 +87,6 @@
       "duration_ms": 176931,
       "name": "Taste The Dirt",
       "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
-    },
-    {
-      "added_at": "2024-07-31 16:00:00",
-      "album": {
-        "name": "Windsor",
-        "url": "https://open.spotify.com/album/6UuovWQYJsC1XsE5YRV5KD"
-      },
-      "artists": [
-        {
-          "name": "yours, andrew",
-          "url": "https://open.spotify.com/artist/2Q9oxqDIcJefvaJrVy4jv9"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "Windsor",
-      "url": "https://open.spotify.com/track/7pvk9RiV4IsebYyefzMrUw"
     },
     {
       "added_at": "2024-07-03 14:20:32",
@@ -57,6 +105,26 @@
       "url": "https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6"
     },
     {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/4fotbMUZ7Y1WQMAXRmwipv"
+      },
+      "artists": [
+        {
+          "name": "Daphne Gale",
+          "url": "https://open.spotify.com/artist/1qrMrXpw6r7mQzlqPdHUg8"
+        },
+        {
+          "name": "dora.",
+          "url": "https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB"
+        }
+      ],
+      "duration_ms": 182058,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/0VQCXgULavafiHDRyrKFu2"
+    },
+    {
       "added_at": "2024-07-17 16:23:52",
       "album": {
         "name": "Golden",
@@ -73,20 +141,20 @@
       "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
     },
     {
-      "added_at": "2024-07-31 16:00:00",
+      "added_at": "2024-08-07 16:00:00",
       "album": {
-        "name": "Not What I Thought",
-        "url": "https://open.spotify.com/album/1rQgEO2Aq7ob4waylnTHLa"
+        "name": "Horse's Mouth",
+        "url": "https://open.spotify.com/album/4iEZI7TOmPF7Qppstas5kN"
       },
       "artists": [
         {
-          "name": "Katy Pinke",
-          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
+          "name": "ladylike",
+          "url": "https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9"
         }
       ],
-      "duration_ms": 201875,
-      "name": "Not What I Thought",
-      "url": "https://open.spotify.com/track/7aq8ecjw6QGRd6sMdDTSfN"
+      "duration_ms": 255220,
+      "name": "Horse's Mouth",
+      "url": "https://open.spotify.com/track/5q7LiPO8nD3YOYlpoYq5yD"
     },
     {
       "added_at": "2024-08-01 22:24:03",
@@ -103,6 +171,70 @@
       "duration_ms": 309360,
       "name": "Born",
       "url": "https://open.spotify.com/track/7HSc82EnQsKm6xM654eQri"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Where Is the Love?",
+        "url": "https://open.spotify.com/album/6jx756EJF5ESRvtpBiuiYk"
+      },
+      "artists": [
+        {
+          "name": "Jake Laiks",
+          "url": "https://open.spotify.com/artist/1521paR3vRN6hhJatqvRpK"
+        }
+      ],
+      "duration_ms": 285750,
+      "name": "Where Is the Love?",
+      "url": "https://open.spotify.com/track/099Aoi4Sj9A38nJjpY0J4G"
+    },
+    {
+      "added_at": "2024-08-07 16:00:00",
+      "album": {
+        "name": "Rivers Don't Speak",
+        "url": "https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "Rivers Don't Speak",
+      "url": "https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Windsor",
+        "url": "https://open.spotify.com/album/6UuovWQYJsC1XsE5YRV5KD"
+      },
+      "artists": [
+        {
+          "name": "yours, andrew",
+          "url": "https://open.spotify.com/artist/2Q9oxqDIcJefvaJrVy4jv9"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "Windsor",
+      "url": "https://open.spotify.com/track/7pvk9RiV4IsebYyefzMrUw"
+    },
+    {
+      "added_at": "2024-07-31 16:00:00",
+      "album": {
+        "name": "Not What I Thought",
+        "url": "https://open.spotify.com/album/1rQgEO2Aq7ob4waylnTHLa"
+      },
+      "artists": [
+        {
+          "name": "Katy Pinke",
+          "url": "https://open.spotify.com/artist/4HjpmUM8nl5tPeY1xmN4fQ"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Not What I Thought",
+      "url": "https://open.spotify.com/track/7aq8ecjw6QGRd6sMdDTSfN"
     },
     {
       "added_at": "2024-07-31 16:00:00",
@@ -363,22 +495,6 @@
       "duration_ms": 161580,
       "name": "paper doll",
       "url": "https://open.spotify.com/track/5O5kgNI28lR2j9E01RUe6W"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/01QnhdhVE2rLBjiVahcPYo"
-      },
-      "artists": [
-        {
-          "name": "Boxtrod",
-          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2bDwawwkbYx0C12feCFaoW"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1353,38 +1469,6 @@
       "url": "https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml"
     },
     {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/1po6GsGZmdDJEZxtoBGuVs"
-      },
-      "artists": [
-        {
-          "name": "Lydia Kaseta",
-          "url": "https://open.spotify.com/artist/0raB78RFxZwDhT8LQFtahl"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Dinner Party",
-      "url": "https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Willow Rose",
-        "url": "https://open.spotify.com/album/02Y72ZbMHc1vWpksK0BUQH"
-      },
-      "artists": [
-        {
-          "name": "Emmett Jerome",
-          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
-        }
-      ],
-      "duration_ms": 232006,
-      "name": "Willow Rose",
-      "url": "https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf"
-    },
-    {
       "added_at": "2024-06-05 04:00:00",
       "album": {
         "name": "Marry Me",
@@ -1513,130 +1597,6 @@
       "url": "https://open.spotify.com/track/5QJm7O7PhFZUVbwD6seP6W"
     },
     {
-      "added_at": "2024-05-24 17:06:13",
-      "album": {
-        "name": "Move into the Luminous",
-        "url": "https://open.spotify.com/album/5sML4aezLsPEnVJe4ObNxm"
-      },
-      "artists": [
-        {
-          "name": "Makushin",
-          "url": "https://open.spotify.com/artist/7aYflwlSz6eBm0teArvEgl"
-        },
-        {
-          "name": "Andrew Wasylyk",
-          "url": "https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG"
-        },
-        {
-          "name": "David A Jaycock",
-          "url": "https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6"
-        }
-      ],
-      "duration_ms": 281702,
-      "name": "More Easily",
-      "url": "https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/5zxsAueCxKs7vmwFU9xl3l"
-      },
-      "artists": [
-        {
-          "name": "Theo Kandel",
-          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
-        }
-      ],
-      "duration_ms": 266672,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/435DAdFp3Ey9QMyT8UogTc"
-    },
-    {
-      "added_at": "2024-05-23 15:54:28",
-      "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/3TJPpg1FrkxKkjpvG4tlJd"
-      },
-      "artists": [
-        {
-          "name": "MALINDA",
-          "url": "https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU"
-        }
-      ],
-      "duration_ms": 200522,
-      "name": "Everything I Need",
-      "url": "https://open.spotify.com/track/5CVOA5SAZeHz8ZPNu7Kuth"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Cult to A Saint",
-        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
-      },
-      "artists": [
-        {
-          "name": "Rhys",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        },
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Cult to A Saint",
-      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Do Your Worst",
-        "url": "https://open.spotify.com/album/2LS7qVSq37ThFZkkmhrY3w"
-      },
-      "artists": [
-        {
-          "name": "Zackery",
-          "url": "https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc"
-        }
-      ],
-      "duration_ms": 219956,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Mad At Nothing",
-        "url": "https://open.spotify.com/album/7Jiy2uR2ytNxiM4jqF38Pq"
-      },
-      "artists": [
-        {
-          "name": "Ethansroom",
-          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "Mad At Nothing",
-      "url": "https://open.spotify.com/track/0ifDqYIKmrG93QqrWLNGxQ"
-    },
-    {
-      "added_at": "2024-05-22 16:34:37",
-      "album": {
-        "name": "Feline Wave Race",
-        "url": "https://open.spotify.com/album/4ESu7CGDAaKvCpDET7ZdHm"
-      },
-      "artists": [
-        {
-          "name": "Nap Eyes",
-          "url": "https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7"
-        }
-      ],
-      "duration_ms": 370879,
-      "name": "Feline Wave Race",
-      "url": "https://open.spotify.com/track/62D9JFjTnGgF7REU7oI2AB"
-    },
-    {
       "added_at": "2024-05-22 16:34:37",
       "album": {
         "name": "Green Morning",
@@ -1651,22 +1611,6 @@
       "duration_ms": 250560,
       "name": "Green Morning",
       "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
-    },
-    {
-      "added_at": "2024-05-01 04:00:00",
-      "album": {
-        "name": "grips",
-        "url": "https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 178331,
-      "name": "grips",
-      "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Zizan Razak",
+  "description": "Lagu-lagu yang terbaik di Malaysia. Cover: Haqiem Rusli",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 203356,
       "name": "3..2..1",
       "url": "https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j"
@@ -522,6 +522,32 @@
       "duration_ms": 211714,
       "name": "Arah Cinta",
       "url": "https://open.spotify.com/track/1d6wOH1pl6d3XzHngjQgdg"
+    },
+    {
+      "album": {
+        "name": "Ashiap (New Version)",
+        "url": "https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b"
+      },
+      "artists": [
+        {
+          "name": "Atta Halilintar",
+          "url": "https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67"
+        },
+        {
+          "name": "Joe Flizzow",
+          "url": "https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7"
+        },
+        {
+          "name": "MK K-Clique",
+          "url": "https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206785,
+      "name": "Ashiap - New Version",
+      "url": "https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db"
     },
     {
       "album": {
@@ -1583,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Bukan Sendiri (From \"Harimau Malaya: The Untold Journey\")",
+        "url": "https://open.spotify.com/album/3hsTPqZBMYwyPSUTRbLGsD"
+      },
+      "artists": [
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268341,
+      "name": "Bukan Sendiri - From \"Harimau Malaya: The Untold Journey\"",
+      "url": "https://open.spotify.com/track/2cdHUFkH7E69WTac9boTPc"
+    },
+    {
+      "album": {
         "name": "Bunga Hati",
         "url": "https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4"
       },
@@ -1598,6 +1642,24 @@
       "duration_ms": 173720,
       "name": "Bunga Hati",
       "url": "https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd"
+    },
+    {
+      "album": {
+        "name": "Bunga Kemboja",
+        "url": "https://open.spotify.com/album/1Gfj6bl5jyH0zmw7P4UEpA"
+      },
+      "artists": [
+        {
+          "name": "Iman Troye",
+          "url": "https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207887,
+      "name": "Bunga Kemboja",
+      "url": "https://open.spotify.com/track/7sRARB34FC0QVOCojwW1UZ"
     },
     {
       "album": {
@@ -3736,7 +3798,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 258090,
       "name": "Jangan Biar",
       "url": "https://open.spotify.com/track/1sJtYI05jtGwv0e2gWzYHK"
@@ -4558,7 +4620,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 277250,
       "name": "Kerna Dia",
       "url": "https://open.spotify.com/track/4BLBSjB8403BmkTdqz4FZ0"
@@ -4808,6 +4870,24 @@
       "duration_ms": 242611,
       "name": "Kopi Sepi",
       "url": "https://open.spotify.com/track/36v2Nx5shbMJwFiTEig9Nc"
+    },
+    {
+      "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Ku Akui",
+      "url": "https://open.spotify.com/track/2oC99uEopMvVGjsb70kour"
     },
     {
       "album": {
@@ -5742,6 +5822,24 @@
       "duration_ms": 246230,
       "name": "Menjaga Cintamu - Original Soundtrack From Anwar, The Untold Story",
       "url": "https://open.spotify.com/track/24iGu5nS2Cxa0Y3E2IehzJ"
+    },
+    {
+      "album": {
+        "name": "Menjaga Jodoh Orang Lain",
+        "url": "https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Johari",
+          "url": "https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272972,
+      "name": "Menjaga Jodoh Orang Lain",
+      "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
     },
     {
       "album": {
@@ -7922,7 +8020,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 294293,
       "name": "Selama Ku Bernafas",
       "url": "https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T"
@@ -7994,7 +8092,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 212451,
       "name": "Semesta - From \"X-Change\"",
       "url": "https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX"

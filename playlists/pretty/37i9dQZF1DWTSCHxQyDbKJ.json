@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: salute",
-  "num_followers": 31518,
+  "num_followers": 31514,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "B.I.L.L.S.",
-        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "B.I.L.L.S.",
-      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "A Call To The Void",
         "url": "https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
         "name": "Matriarchy",
         "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "Head Start",
         "url": "https://open.spotify.com/album/1S16BibIWs8D4nhJUV8Mj8"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184717,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/6RhqGeeaTAFs5zUSNm5jr9"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-07-08 23:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "Favourite Toy",
-        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 181847,
-      "name": "Favourite Toy",
-      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/4ebg7FQu7KfiVcXhi5bj0o"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
+        "name": "Favourite Toy",
+        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 181847,
+      "name": "Favourite Toy",
+      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
     },
     {
       "added_at": "2024-07-08 23:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "Peanuts",
-        "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 237773,
-      "name": "Big Machine",
-      "url": "https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "Real Hot n Naughty",
         "url": "https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 214925,
       "name": "Real Hot n Naughty",
       "url": "https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
+        "name": "Peanuts",
+        "url": "https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Big Machine",
+      "url": "https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO"
     },
     {
       "added_at": "2024-07-08 23:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "Cheap Love",
         "url": "https://open.spotify.com/album/3GS9722YN1sHJYSO39HwW9"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185973,
       "name": "Cheap Love",
       "url": "https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2024-07-08 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-08 23:00:00",
       "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU"
-      },
-      "artists": [
-        {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Empire",
-      "url": "https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S"
-    },
-    {
-      "added_at": "2024-07-08 23:00:00",
-      "album": {
         "name": "Television Promises",
         "url": "https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 219111,
       "name": "Television Promises",
       "url": "https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5"
+    },
+    {
+      "added_at": "2024-07-08 23:00:00",
+      "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S"
     },
     {
       "added_at": "2024-07-08 23:00:00",

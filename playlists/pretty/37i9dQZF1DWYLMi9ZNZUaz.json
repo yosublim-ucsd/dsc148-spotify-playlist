@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Andree Right Hand",
-  "num_followers": 95276,
+  "num_followers": 95333,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
+    },
+    {
+      "added_at": "2024-07-25 02:49:33",
+      "album": {
         "name": "An Th\u1ea7n",
         "url": "https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
-    },
-    {
-      "added_at": "2024-07-25 02:49:33",
-      "album": {
-        "name": "nh\u1eafn nh\u1ee7",
-        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 241190,
-      "name": "nh\u1eafn nh\u1ee7",
-      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -331,22 +331,22 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
-        "name": "B\u1ea1n \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         },
         {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -435,22 +435,22 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "B\u1ea1n \u0110\u1eddi",
+        "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
         },
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "GDucky",
+          "url": "https://open.spotify.com/artist/01mNGTR498XaGe3xs1Otrz"
         }
       ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+      "duration_ms": 300718,
+      "name": "B\u1ea1n \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -543,26 +543,22 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
-        "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
-        "url": "https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK"
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
       },
       "artists": [
         {
-          "name": "T\u00f9ng TeA",
-          "url": "https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W"
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
         },
         {
-          "name": "PC",
-          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
-        },
-        {
-          "name": "TaynguyenSound",
-          "url": "https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr"
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
         }
       ],
-      "duration_ms": 231360,
-      "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
-      "url": "https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD"
+      "duration_ms": 173397,
+      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
+      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -655,22 +651,22 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
       "artists": [
         {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
         },
         {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
         }
       ],
-      "duration_ms": 173397,
-      "name": "Th\u00f4i Em \u0110\u1eebng \u0110i",
-      "url": "https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R"
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -715,22 +711,26 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+        "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
+        "url": "https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK"
       },
       "artists": [
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+          "name": "T\u00f9ng TeA",
+          "url": "https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W"
         },
         {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        },
+        {
+          "name": "TaynguyenSound",
+          "url": "https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr"
         }
       ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
+      "duration_ms": 231360,
+      "name": "Gi\u00e0 C\u00f9ng Nhau L\u00e0 \u0110\u01b0\u1ee3c",
+      "url": "https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
+        "name": "Ch\u00ecm S\u00e2u",
+        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ch\u00ecm S\u00e2u",
+      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
+    },
+    {
+      "added_at": "2024-07-25 02:49:33",
+      "album": {
         "name": "MEDICINE",
         "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
-    },
-    {
-      "added_at": "2024-07-25 02:49:33",
-      "album": {
-        "name": "Ch\u00ecm S\u00e2u",
-        "url": "https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "Trung Tr\u1ea7n",
-          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ch\u00ecm S\u00e2u",
-      "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
     },
     {
       "added_at": "2024-07-25 02:49:33",
@@ -867,6 +867,26 @@
     {
       "added_at": "2024-07-25 02:49:33",
       "album": {
+        "name": "Cho M\u00ecnh Em",
+        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Cho M\u00ecnh Em",
+      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
+    },
+    {
+      "added_at": "2024-07-25 02:49:33",
+      "album": {
         "name": "420ent.",
         "url": "https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 213523,
       "name": "Nh\u1ea1c Trap C\u0103ng Nh\u1ea5t 2023",
       "url": "https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD"
-    },
-    {
-      "added_at": "2024-07-25 02:49:33",
-      "album": {
-        "name": "Cho M\u00ecnh Em",
-        "url": "https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr"
-      },
-      "artists": [
-        {
-          "name": "Binz",
-          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
-        },
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Cho M\u00ecnh Em",
-      "url": "https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc"
     },
     {
       "added_at": "2024-07-25 02:49:33",

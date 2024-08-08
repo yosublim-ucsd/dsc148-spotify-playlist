@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
 
-127 songs - 6 hr 44 min
+128 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cortes](https://open.spotify.com/track/3T5j1FC3UIu7kjGHarjIkk) | [CORTE!](https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT) | [Cortes](https://open.spotify.com/album/1MtxZXS19obXUaeST7ecDv) | 1:52 | 2024-07-04 | 2024-07-27 |
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
+| [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 |  |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-27 |  |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
 | [Dos Galaxias](https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Dos Galaxias](https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH) | 3:31 | 2024-06-27 |  |
@@ -62,7 +63,7 @@
 | [La Salvación](https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 4:23 | 2024-06-27 |  |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
 | [Las Victorias y Derrotas](https://open.spotify.com/track/0ZnNvpU4h5Se9bm301yOv0) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Desde Flores y Entrañas](https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm) | 3:26 | 2024-06-27 |  |
-| [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 |  |
+| [Lo de siempre](https://open.spotify.com/track/1wjRd9NhFtwSfGRaH4VFBB) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Lo de siempre](https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac) | 3:31 | 2024-06-27 | 2024-08-08 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
 | [Los Chavales](https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 3:28 | 2024-06-27 |  |
 | [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 | 2024-07-25 |  |

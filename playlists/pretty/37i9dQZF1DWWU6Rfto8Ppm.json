@@ -1,6 +1,6 @@
 {
   "description": "Celebrando los 20 a\u00f1os del Barrio Fino en compa\u00f1\u00eda de Daddy Yankee.",
-  "num_followers": 3570343,
+  "num_followers": 3570777,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "El Bokisucio",
+        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Gata Oficial",
+      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Showtime",
         "url": "https://open.spotify.com/album/03UcnEB1GF99BGjNWbybrN"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 202880,
       "name": "Na De Na",
       "url": "https://open.spotify.com/track/5oQDYIpN3ieXNHwXAr8TXf"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "El Bokisucio",
-        "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
-      },
-      "artists": [
-        {
-          "name": "Luigi 21 Plus",
-          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Gata Oficial",
-      "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1287,26 +1287,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
+        "name": "Pegaito a la Pared \"The Remixes\"",
+        "url": "https://open.spotify.com/album/0RtUrX0UbjupH9CjRgASKR"
       },
       "artists": [
         {
-          "name": "Nigga",
-          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         },
         {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
-        },
-        {
-          "name": "Japanese",
-          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Eras Una Ni\u00f1a (feat. Japanese)",
-      "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
+      "duration_ms": 282133,
+      "name": "Pegaito a la Pared (feat. Plan B) - Remix",
+      "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1335,22 +1331,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Pegaito a la Pared \"The Remixes\"",
-        "url": "https://open.spotify.com/album/0RtUrX0UbjupH9CjRgASKR"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Nigga",
+          "url": "https://open.spotify.com/artist/4gaipGwvI72oJZVL2P0WJd"
         },
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Flex",
+          "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        },
+        {
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Pegaito a la Pared (feat. Plan B) - Remix",
-      "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
+      "duration_ms": 182186,
+      "name": "Eras Una Ni\u00f1a (feat. Japanese)",
+      "url": "https://open.spotify.com/track/7kCCtz3tsrJDXHROROt5bw"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
+      "duration_ms": 213653,
+      "name": "Al Natural",
+      "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
         }
       ],
-      "duration_ms": 213653,
-      "name": "Al Natural",
-      "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
-      },
-      "artists": [
-        {
-          "name": "Cheka",
-          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
-        },
-        {
-          "name": "Michael Stuart",
-          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2115,6 +2095,26 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
+      },
+      "artists": [
+        {
+          "name": "Cheka",
+          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
+        },
+        {
+          "name": "Michael Stuart",
+          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Conspiracion 2",
-        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Me Voy Pa'l Party",
-      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2207,6 +2191,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Conspiracion 2",
+        "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Me Voy Pa'l Party",
+      "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "La Moda",
         "url": "https://open.spotify.com/album/56Q6ntbM1nWdyjJj7rWLWz"
       },
@@ -2219,26 +2219,6 @@
       "duration_ms": 212493,
       "name": "A Ti No",
       "url": "https://open.spotify.com/track/5o16Hl9vooRuiQ5aiWNSJo"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Reggaeton Rulers: Los Que Ponen",
-        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Let's Go To My Crib",
-      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2259,6 +2239,26 @@
       "duration_ms": 204333,
       "name": "Julito Mara\u00f1a",
       "url": "https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Reggaeton Rulers: Los Que Ponen",
+        "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Let's Go To My Crib",
+      "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2331,26 +2331,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Money Is Still A Major Issue",
-        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Culo Remix",
-      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
+      "duration_ms": 288288,
+      "name": "Descara",
+      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -2371,18 +2363,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "My Destiny",
-        "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
+        "name": "Money Is Still A Major Issue",
+        "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
       "artists": [
         {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 288288,
-      "name": "Descara",
-      "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
+      "duration_ms": 240133,
+      "name": "Culo Remix",
+      "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -3307,22 +3307,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Echo Presenta: Invasion",
-        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
-      },
-      "artists": [
-        {
-          "name": "Dalmata",
-          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Como Toda Una Se\u00f1ora",
-      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Motivando A La Yal (Special Edition)",
         "url": "https://open.spotify.com/album/762qEGXU9cqGzzvsGoMNS7"
       },
@@ -3335,6 +3319,22 @@
       "duration_ms": 219010,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2bt0uIqZR6u67zunXNKDkn"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Echo Presenta: Invasion",
+        "url": "https://open.spotify.com/album/1taytVoqyuA4TXurwx5M5v"
+      },
+      "artists": [
+        {
+          "name": "Dalmata",
+          "url": "https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Como Toda Una Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6nWCjOk9IPTRvHSSqgxUMF"
     },
     {
       "added_at": "2024-07-12 06:00:00",

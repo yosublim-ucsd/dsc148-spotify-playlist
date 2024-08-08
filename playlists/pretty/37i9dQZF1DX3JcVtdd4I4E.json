@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6566,
+  "num_followers": 6569,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Everytime We Touch",
-        "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Pretty Boy",
         "url": "https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 231253,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/557jdZsn0FAltJXgenminf"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Everytime We Touch",
+        "url": "https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "No Room For Love",
-        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "No Room For Love",
-      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Hungover (Head In A Can)",
         "url": "https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 224077,
       "name": "Hungover (Head In A Can)",
       "url": "https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "No Room For Love",
+        "url": "https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "No Room For Love",
+      "url": "https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bad Bitch",
-        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Bad Bitch",
-      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "SHE-REX",
         "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 232465,
       "name": "promise to pick up the phone",
       "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Life (Where Have You Been)",
-        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "All My Life (Where Have You Been)",
-      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
         "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Rear View",
+        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Rear View",
+      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "I Should\u2019ve Danced More",
         "url": "https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Rear View",
-        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
+        "name": "Expiration Date_demo_V2.wav",
+        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
       },
       "artists": [
         {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Rear View",
-      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
+      "duration_ms": 162853,
+      "name": "Expiration Date_demo_V2.wav",
+      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -743,22 +759,6 @@
       "duration_ms": 176435,
       "name": "I Turn To You",
       "url": "https://open.spotify.com/track/3k4kK11yrqUpsHaVMzWFOI"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Expiration Date_demo_V2.wav",
-        "url": "https://open.spotify.com/album/4DDoW84tuNRze3XKDNxoGK"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "Expiration Date_demo_V2.wav",
-      "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Partner In Crime",
-        "url": "https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Partner In Crime",
-      "url": "https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Don't Know Love",
         "url": "https://open.spotify.com/album/71thnehEgFEak0JXMqWcLi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 253693,
       "name": "I Don\u2019t Know Love",
       "url": "https://open.spotify.com/track/2p5peGFsiSfp155oGdEdqZ"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Partner In Crime",
+        "url": "https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Partner In Crime",
+      "url": "https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Down, down, down",
-        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "Down, down, down",
-      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Again and Again",
         "url": "https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 174560,
       "name": "Again and Again",
       "url": "https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Down, down, down",
+        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "Down, down, down",
+      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
     },
     {
       "added_at": "2024-02-08 23:00:00",

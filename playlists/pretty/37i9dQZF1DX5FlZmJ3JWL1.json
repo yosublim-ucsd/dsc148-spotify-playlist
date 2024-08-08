@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 767691,
+  "num_followers": 767739,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "Lollipop",
-        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
       },
       "artists": [
         {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -799,22 +799,6 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 159562,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
+      },
+      "artists": [
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
         "name": "Superlike",
         "url": "https://open.spotify.com/album/4wdzJOjPxHG20G2sa47kfk"
       },
@@ -915,30 +915,6 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "I Like To Move It",
-        "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
-      },
-      "artists": [
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "I Like To Move It",
-      "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
         "name": "Whistle (feat. Bertie Scott)",
         "url": "https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
+        "name": "I Like To Move It",
+        "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "I Like To Move It",
+      "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
     },
     {
       "added_at": "2024-07-04 10:39:17",

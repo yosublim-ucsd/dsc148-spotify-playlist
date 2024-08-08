@@ -1,33 +1,13 @@
 {
-  "description": "This is Gabriela Rocha. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 262452,
+  "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
+  "num_followers": 262482,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAAqT/Hwd/3DQfqFJd+ePLpQ",
+  "snapshot_id": "ZrFngAAAAAAsGua6uXJuRnGyaVu4lJoc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yahweh (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 809312,
-      "name": "Yahweh - Ao Vivo",
-      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
-    },
     {
       "added_at": null,
       "album": {
@@ -355,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atos 2 (feat. Gabriela Rocha)",
         "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
       },
@@ -391,6 +351,26 @@
       "duration_ms": 342221,
       "name": "Atos 2 (feat. Gabriela Rocha)",
       "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yahweh - Ao Vivo",
+        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 797796,
+      "name": "Yahweh - Ao Vivo",
+      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o H\u00e1 Nome Maior",
         "url": "https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok"
       },
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
-        "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 500624,
-      "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
-      "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
         "url": "https://open.spotify.com/album/0tByw96XA7W1pqB6yVPqZP"
       },
@@ -887,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
+        "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 500624,
+      "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
+      "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acts 2",
         "url": "https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 375735,
       "name": "Acts 2",
       "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu e o Rei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 337525,
-      "name": "Eu e o Rei - Ao Vivo",
-      "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: Xdinary Heroes",
-  "num_followers": 811590,
+  "num_followers": 811678,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrIERQAAAACs6bjH+BO9n55MVOBFVMGc",
+  "snapshot_id": "ZrQl9gAAAAAnRjD4gy3tVSiu7cTyq9b0",
   "tracks": [
     {
       "added_at": "2024-08-06 11:08:53",
@@ -73,6 +73,26 @@
       "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"
     },
     {
+      "added_at": "2024-08-08 01:57:10",
+      "album": {
+        "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+        "url": "https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "MINGI of ATEEZ",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "duration_ms": 138293,
+      "name": "Hit Me Up (feat. MINGI of ATEEZ)",
+      "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
+    },
+    {
       "added_at": "2024-08-06 11:08:53",
       "album": {
         "name": "TANG TANG TANG",
@@ -80,7 +100,7 @@
       },
       "artists": [
         {
-          "name": "90TAN (BTOB)",
+          "name": "\uad6c\uacf5\ud0c4 (\ube44\ud22c\ube44)",
           "url": "https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs"
         }
       ],

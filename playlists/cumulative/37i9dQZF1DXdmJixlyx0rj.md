@@ -2,7 +2,7 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: NECTA\)
+> New & best K\-Electronic music is here\. \(Cover: AEILO\)
 
 185 songs - 10 hr 24 min
 

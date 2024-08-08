@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Haley Heynderickx
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,297 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,443 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 2 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 |
 | 3 | [Into Eternity](https://open.spotify.com/track/7tTHpNl7ikgkivgBjGwCjx) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [Into Eternity](https://open.spotify.com/album/2eGjfDoIWNrwdkCuEzxQO7) | 3:09 |
 | 4 | [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 |
-| 5 | [Just One Break with Mon Rovîa](https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC), [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Just One Break with Mon Rovîa](https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ) | 2:49 |
+| 5 | [Just One Break \(with Mon Rovîa\)](https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC), [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Just One Break \(with Mon Rovîa\)](https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ) | 2:49 |
 | 6 | [Colours](https://open.spotify.com/track/1WeO1NDt17SfrRW1WhsRJ8) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Colours](https://open.spotify.com/album/36RQqB3irEHa5F3QbEgSfZ) | 3:59 |
 | 7 | [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 |
 | 8 | [A Little Longer](https://open.spotify.com/track/4FSV8i70yvOQQDPlDpkmcm) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [A Little Longer](https://open.spotify.com/album/1BIxYUiG8j4l5sdx5AStLu) | 3:12 |

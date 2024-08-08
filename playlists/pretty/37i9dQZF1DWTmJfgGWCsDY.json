@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4068,
+  "num_followers": 4073,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -371,38 +371,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "We Nani",
-        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "We Nani",
-      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "HASSANI",
-        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 153740,
-      "name": "HASSANI",
-      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
         "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 292437,
       "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
       "url": "https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "HASSANI",
+        "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 153740,
+      "name": "HASSANI",
+      "url": "https://open.spotify.com/track/6CQlALBnuYZ91sv1qgefak"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "We Nani",
+        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "We Nani",
+      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "EX wangu (Remix)",
-        "url": "https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI"
-      },
-      "artists": [
-        {
-          "name": "Hamisa Mobetto",
-          "url": "https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE"
-        },
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 281338,
-      "name": "EX wangu - Remix",
-      "url": "https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 180000,
       "name": "Nikizipata",
       "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "EX wangu (Remix)",
+        "url": "https://open.spotify.com/album/1N0TIGGTYrg5iXOoIzcloI"
+      },
+      "artists": [
+        {
+          "name": "Hamisa Mobetto",
+          "url": "https://open.spotify.com/artist/3LFryQzJgUAZKT0cBNwNiE"
+        },
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 281338,
+      "name": "EX wangu - Remix",
+      "url": "https://open.spotify.com/track/1Nel9Cc2vqiK7lTj31ngMk"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
+      },
+      "artists": [
+        {
+          "name": "Kayumba",
+          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
+        }
+      ],
+      "duration_ms": 243997,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
         "name": "Upwii",
         "url": "https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 187706,
       "name": "Upwii",
       "url": "https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Wapo",
-        "url": "https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O"
-      },
-      "artists": [
-        {
-          "name": "Kayumba",
-          "url": "https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk"
-        }
-      ],
-      "duration_ms": 243997,
-      "name": "Wapo",
-      "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Uongo",
-        "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
-      },
-      "artists": [
-        {
-          "name": "Man Fongo",
-          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
-        }
-      ],
-      "duration_ms": 206455,
-      "name": "Uongo",
-      "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Uroda",
         "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Nimejipata",
-        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
-      },
-      "artists": [
-        {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "Nimejipata",
-      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Maisha Yetu Usela",
         "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Nimejipata",
+        "url": "https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH"
+      },
+      "artists": [
+        {
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "Nimejipata",
+      "url": "https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Uongo",
+        "url": "https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi"
+      },
+      "artists": [
+        {
+          "name": "Man Fongo",
+          "url": "https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4"
+        }
+      ],
+      "duration_ms": 206455,
+      "name": "Uongo",
+      "url": "https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1307,46 +1307,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Nipe Yote",
-        "url": "https://open.spotify.com/album/1Gp6jBoZ1JogtoSSVWUVQt"
-      },
-      "artists": [
-        {
-          "name": "Navolee",
-          "url": "https://open.spotify.com/artist/1W9LBS4eawmmTE7ruqPQqk"
-        },
-        {
-          "name": "DEELUCK",
-          "url": "https://open.spotify.com/artist/5odFUtD7qO3YVNtxxpMuEr"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Nipe Yote",
-      "url": "https://open.spotify.com/track/66tSHosgzvekiYWSoeXHQb"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Magetoni",
-        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
-      },
-      "artists": [
-        {
-          "name": "Kidene Fighter",
-          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
-        },
-        {
-          "name": "JEUSI MC",
-          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
-        }
-      ],
-      "duration_ms": 314226,
-      "name": "Magetoni",
-      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Kwetu",
         "url": "https://open.spotify.com/album/79jhhSsM1LUgOAvVXRlKZJ"
       },
@@ -1379,6 +1339,46 @@
       "duration_ms": 264879,
       "name": "Kuchi Kuchi",
       "url": "https://open.spotify.com/track/1EVlvQwykbaVyJubmEo5bM"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Magetoni",
+        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+      },
+      "artists": [
+        {
+          "name": "Kidene Fighter",
+          "url": "https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA"
+        },
+        {
+          "name": "JEUSI MC",
+          "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
+        }
+      ],
+      "duration_ms": 314226,
+      "name": "Magetoni",
+      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Nipe Yote",
+        "url": "https://open.spotify.com/album/1Gp6jBoZ1JogtoSSVWUVQt"
+      },
+      "artists": [
+        {
+          "name": "Navolee",
+          "url": "https://open.spotify.com/artist/1W9LBS4eawmmTE7ruqPQqk"
+        },
+        {
+          "name": "DEELUCK",
+          "url": "https://open.spotify.com/artist/5odFUtD7qO3YVNtxxpMuEr"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Nipe Yote",
+      "url": "https://open.spotify.com/track/66tSHosgzvekiYWSoeXHQb"
     }
   ],
   "unique_name": "Singeli Sounds",

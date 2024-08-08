@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-402 songs - 21 hr 25 min
+403 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Can Can](https://open.spotify.com/track/3ywkP7M5tkJYR62pWIhSIu) | [The Moonstompers](https://open.spotify.com/artist/3qwQn2VGNq1Qt5FJOyFKVE) | [Ska & Reggae Collection](https://open.spotify.com/album/775IFnxZ2H0dEKFRv4IQE0) | 2:49 | 2024-07-24 |  |
 | [Cantiamo D'amore](https://open.spotify.com/track/0w7y8zvuOSjvINtzQOUJeI) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 1:28 | 2024-07-24 |  |
 | [Carlota](https://open.spotify.com/track/6Dyk6nOBaeHMjf3MXqGw1o) | [Miguelito Valdés](https://open.spotify.com/artist/76FXHtG8OASjkkZnrmlg7q) | [La Onda De La Alegria \( The Happy Cuban Vibe \)](https://open.spotify.com/album/2NQdmhHwtM6H4t8YQaAPP2) | 3:00 | 2024-07-24 |  |
+| [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-08-07 |  |
 | [Cherry Pies Ought to Be You \(with Rosemary Clooney\)](https://open.spotify.com/track/6eNRJ9yrEg4o6ZxWVhAz8a) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Sinatra Sings Cole Porter](https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G) | 2:21 | 2024-07-24 |  |
 | [Christine In Hotel Corridor](https://open.spotify.com/track/4ORHYiRFECVN5PGDk6dQ3X) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:53 | 2024-07-24 |  |
 | [Close Your Eyes](https://open.spotify.com/track/322FDTFqNHugJnfEaL2lb9) | [Young Love](https://open.spotify.com/artist/0EbhmxFgno89aNQUnamFNW) | [Too Young To Fight It](https://open.spotify.com/album/36XBifBZoPyhczlXOiFBbk) | 3:00 | 2024-07-24 |  |

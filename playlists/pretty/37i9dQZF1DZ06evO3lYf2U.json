@@ -1,12 +1,12 @@
 {
   "description": "This is Central Cee. The essential tracks, all in one playlist.",
-  "num_followers": 233530,
+  "num_followers": 233781,
   "original_name": "This Is Central Cee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAByfTRy8vsOIxigfF0badaY",
+  "snapshot_id": "ZrFngAAAAAD5ZKwVPC6z75pShSzg1VuD",
   "tracks": [
     {
       "added_at": null,
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthracite",
-        "url": "https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss"
-      },
-      "artists": [
-        {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Anthracite",
-      "url": "https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Respect The Come Up",
         "url": "https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 230621,
       "name": "Don\u2019t Like Drill (feat. Central Cee)",
       "url": "https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthracite",
+        "url": "https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Anthracite",
+      "url": "https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk"
     },
     {
       "added_at": null,

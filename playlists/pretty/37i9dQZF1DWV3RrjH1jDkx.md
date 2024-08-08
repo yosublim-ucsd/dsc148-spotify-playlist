@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,650 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,646 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 14 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
 | 15 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 |
 | 16 | [Shot in the Dark](https://open.spotify.com/track/6wk6ZZEjleONfOi33nHykf) | [Hajk](https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z) | [Shot in the Dark](https://open.spotify.com/album/75JHg98wn2BSQriFLWJH2C) | 3:33 |
-| 17 | [Undergang \- Live i sentrum](https://open.spotify.com/track/4jlspyq9oQsibwIznae592) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t) | [Undergang \(Live i sentrum\)](https://open.spotify.com/album/6aJ5xoOAkntASRIt4IC9Ah) | 5:49 |
+| 17 | [Undergang \- Live i sentrum](https://open.spotify.com/track/4jlspyq9oQsibwIznae592) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t) | [Undergang \- Live i sentrum](https://open.spotify.com/album/6aJ5xoOAkntASRIt4IC9Ah) | 5:49 |
 | 18 | [Familia](https://open.spotify.com/track/6TOjgjTMAOrZyS3MJWejzf) | [Slam Dunk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Grilstad](https://open.spotify.com/artist/1kdtCMPskyLALVTkinNh4k) | [Familia](https://open.spotify.com/album/4ym4m6d1XEUDwKbh9qvGr2) | 2:10 |
 | 19 | [minner for livet](https://open.spotify.com/track/3WwlcReGyUlaewINRpO9ao) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [minner for livet](https://open.spotify.com/album/1ONK55SJP6eVjLhK0TftOm) | 2:27 |
 | 20 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |

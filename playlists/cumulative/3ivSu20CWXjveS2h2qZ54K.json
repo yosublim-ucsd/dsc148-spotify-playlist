@@ -9821,6 +9821,24 @@
     },
     {
       "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188947,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2g6RvnZBcqrMqStFZTSDD8"
       },

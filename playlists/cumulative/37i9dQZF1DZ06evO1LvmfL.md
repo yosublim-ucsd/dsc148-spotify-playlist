@@ -2,7 +2,7 @@
 
 ### [This Is Teddy Swims](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LvmfL)
 
-> This is Teddy Swims\. The essential tracks, all in one playlist.
+> This is Teddy Swims\. Tutti i brani in un'unica playlist.
 
 55 songs - 2 hr 57 min
 

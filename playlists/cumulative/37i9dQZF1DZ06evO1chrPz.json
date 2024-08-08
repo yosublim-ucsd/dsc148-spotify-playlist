@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324688,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1"
+    },
+    {
+      "album": {
         "name": "Holy Forever (Live)",
         "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
       },
@@ -894,7 +916,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 642837,
       "name": "Holy Forever (Live)",
       "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
@@ -2786,7 +2808,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 281506,
       "name": "We Dance (Live)",
       "url": "https://open.spotify.com/track/7qF0lmgrcxedPRdTSERDxo"

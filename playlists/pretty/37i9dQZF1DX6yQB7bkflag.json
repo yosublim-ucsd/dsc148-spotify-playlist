@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Khalid",
-  "num_followers": 116176,
+  "num_followers": 116173,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
@@ -676,12 +676,12 @@
       },
       "artists": [
         {
-          "name": "Armand Maulana",
-          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
-        },
-        {
           "name": "Isnaeni Achdiat",
           "url": "https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO"
+        },
+        {
+          "name": "Armand Maulana",
+          "url": "https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb"
         }
       ],
       "duration_ms": 243333,

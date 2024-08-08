@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-892 songs - 1 day 14 hr 8 min
+894 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Mon Soleil](https://open.spotify.com/track/66QPTjE4c7QhJf8moxu0UE) | [Soraya Blix](https://open.spotify.com/artist/745G3QJNAiGbS5g8h9MTWQ) | [Mon Soleil](https://open.spotify.com/album/6TjZEUu50N5pKYKNXGGHAe) | 2:23 | 2022-06-07 | 2022-10-25 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 | 2022-04-21 |
 | [Mondegreen](https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Mondegreen](https://open.spotify.com/album/1TWsYhkMKywsJN0fNA08Yt) | 2:24 | 2022-03-16 |  |
+| [Moonglade](https://open.spotify.com/track/4NDadJdcT4V4BdXCZMEAbn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Moonglade](https://open.spotify.com/album/1PBrsZDQjiFQZ8EM2TQUIV) | 2:31 | 2024-08-07 |  |
 | [Moonlight Waltz](https://open.spotify.com/track/2w4w29W62gzZ6OWWmilEB6) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Moonlight Waltz](https://open.spotify.com/album/4c7rMqF3xpqZIbjR1ISsbp) | 2:24 | 2022-08-09 | 2023-09-26 |
 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-12-07 | 2022-04-09 |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-02-14 | 2022-11-25 |
@@ -678,6 +679,7 @@
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 | 2024-04-04 |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 |  |
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 |  |
+| [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 | 2024-08-07 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
 | [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |

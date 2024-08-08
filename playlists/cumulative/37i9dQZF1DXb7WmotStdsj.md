@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout.
 
-210 songs - 17 hr 4 min
+211 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Galbi Datah](https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1) | [Cheb Reda](https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Datah](https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8) | 4:36 | 2023-05-01 | 2023-08-26 |
 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 |  |
+| [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 | 2024-08-07 |  |
 | [Ghazali](https://open.spotify.com/track/3LhtZaCJX2Z5pGFQGK6nP0) | [Artisan Dz](https://open.spotify.com/artist/1v8wfWfx4RqBm2Mqy1v9o9) | [Ghazali](https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG) | 5:04 | 2022-10-03 | 2022-10-09 |
 | [Ghazali](https://open.spotify.com/track/6JBqQLrTxG8wigGUGshYUN) | [Bilal Tacchini](https://open.spotify.com/artist/5Jtc3clXvoMsmCt9EXVX3o) | [Ghazali](https://open.spotify.com/album/3W7Td1MGNtH7PqGMpbtb57) | 5:04 | 2022-12-05 | 2023-12-13 |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-03 | 2022-10-27 |
@@ -193,7 +194,7 @@
 | [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/track/1WxuslOo4tRLqDOqJeMnpz) | [Cheb Amine Tigre](https://open.spotify.com/artist/0TlOtJhFxzROJ1AjbarC8y) | [Yli9 Netséparou Ma3andna Mandirou \-](https://open.spotify.com/album/01XkHwSe3JPpXebCZIQ5JK) | 14:04 | 2024-02-12 |  |
 | [Zadma w Sayi](https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Zadma w Sayi](https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo) | 6:35 | 2023-03-16 | 2024-03-17 |
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |
-| [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 |  |
+| [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 | 2024-08-08 |
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
 | [جبدها يا بابور](https://open.spotify.com/track/6kuAcGBU7zjjh3wAVrYG0J) | [Cheb Faycal](https://open.spotify.com/artist/47gfytQSeoeL85ObS9eNmk) | [جبدها يا بابور](https://open.spotify.com/album/6fqKZBsxKUsE8OBVbDw1ly) | 4:46 | 2024-05-13 |  |
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 | 2022-12-27 |

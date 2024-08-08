@@ -1,12 +1,12 @@
 {
-  "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1056723,
+  "description": "This is Green Day. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1056921,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADWuhvEUK7QmaV3cjMx6GSO",
+  "snapshot_id": "ZrFngAAAAAApD3p2icm97S57vBuWuyyV",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Nice Guys Finish Last",
-      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot",
         "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 326200,
       "name": "Give Me Novacaine / She's a Rebel",
       "url": "https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Nice Guys Finish Last",
+      "url": "https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw"
     },
     {
       "added_at": null,

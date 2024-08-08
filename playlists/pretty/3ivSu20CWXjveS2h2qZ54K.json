@@ -1,13 +1,29 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6539,
+  "num_followers": 6538,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACa/CzNwRnot2Yk2d8lJTnjT83ATeog",
+  "snapshot_id": "AACa/dmCJfochmQNW7s58Z6Bf889NOR4",
   "tracks": [
+    {
+      "added_at": "2024-08-07 05:51:24",
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 188947,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
+    },
     {
       "added_at": "2024-08-01 10:17:39",
       "album": {

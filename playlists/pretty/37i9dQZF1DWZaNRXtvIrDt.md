@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,562 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,590 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
-| 2 | [Kisses \(feat\. bbyclose\) \- Evan McGee Remix](https://open.spotify.com/track/3VoiQyUMOOfw2uDWQqgRfe) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Evan McGee](https://open.spotify.com/artist/0ciq0ZXen1p4sLYMoEAGXB) | [Kisses \(feat\. bbyclose\) \[Evan McGee Remix\]](https://open.spotify.com/album/55LwQRCMDn0Sv93NIJ79h0) | 3:10 |
+| 2 | [Kisses \(feat\. bbyclose\) \- Evan McGee Remix](https://open.spotify.com/track/3VoiQyUMOOfw2uDWQqgRfe) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [Evan McGee](https://open.spotify.com/artist/0ciq0ZXen1p4sLYMoEAGXB) | [Kisses \(feat\. bbyclose\) \- Evan McGee Remix](https://open.spotify.com/album/55LwQRCMDn0Sv93NIJ79h0) | 3:10 |
 | 3 | [Foam \- Sam Alfred Remix](https://open.spotify.com/track/3lKdEaJGX1y3CLgd0LSNag) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Foam \(Sam Alfred Remix\)](https://open.spotify.com/album/745H6ehshvBvDFg7khKAR1) | 4:55 |
 | 4 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 |
 | 5 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |

@@ -1,12 +1,12 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: NIKI",
-  "num_followers": 770081,
+  "num_followers": 770139,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqyFLAAAAAAlAY0Nvxi+iLiZMgMGaC7A",
+  "snapshot_id": "ZrQCvwAAAAAUvFyEodG1mf+ppSsfgDVb",
   "tracks": [
     {
       "added_at": "2024-08-01 17:09:48",
@@ -181,6 +181,22 @@
       "url": "https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g"
     },
     {
+      "added_at": "2024-08-07 23:26:55",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 200476,
+      "name": "Satu Bulan",
+      "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
+    },
+    {
       "added_at": "2024-08-01 17:09:48",
       "album": {
         "name": "Kisah Tanpa Dirimu",
@@ -259,6 +275,22 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2024-08-07 23:26:55",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "Lama-Lama",
+      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
     },
     {
       "added_at": "2024-08-01 17:09:48",
@@ -343,6 +375,22 @@
       "duration_ms": 240862,
       "name": "Cantik",
       "url": "https://open.spotify.com/track/3tri5XrdkhTT8dXPhWXZDa"
+    },
+    {
+      "added_at": "2024-08-07 23:26:55",
+      "album": {
+        "name": "Live Studio Session - London 2023",
+        "url": "https://open.spotify.com/album/4fIhNUSWApwdsRcHBILeMY"
+      },
+      "artists": [
+        {
+          "name": "Govinda",
+          "url": "https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Pilihlah Aku - Live",
+      "url": "https://open.spotify.com/track/56X3L1Jr5JN6C4deTVOXNE"
     },
     {
       "added_at": "2024-08-01 17:09:48",

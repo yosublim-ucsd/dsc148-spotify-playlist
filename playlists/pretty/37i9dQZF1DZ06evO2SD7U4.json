@@ -1,12 +1,12 @@
 {
-  "description": "This is Botellita De Jerez. The essential tracks, all in one playlist.",
-  "num_followers": 3841,
+  "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
+  "num_followers": 3844,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADDnfEP7F1d93r4a8r1nKgA",
+  "snapshot_id": "ZrFngAAAAADFdgaTOty2G0+U1vWWXmDu",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 233133,
-      "name": "\u00bfTe Gusta a Ti Ese Son?",
-      "url": "https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG"
+      "duration_ms": 458866,
+      "name": "La Balona de la Conquista",
+      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "A Qu\u00e9 Hora Sales al Pan? (Ton's Qu\u00e9 Mi Reina)",
-      "url": "https://open.spotify.com/track/6IjnQgJWxRUExDqUcgHKDs"
+      "duration_ms": 233133,
+      "name": "\u00bfTe Gusta a Ti Ese Son?",
+      "url": "https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 458866,
-      "name": "La Balona de la Conquista",
-      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
+      "duration_ms": 320760,
+      "name": "A Qu\u00e9 Hora Sales al Pan? (Ton's Qu\u00e9 Mi Reina)",
+      "url": "https://open.spotify.com/track/6IjnQgJWxRUExDqUcgHKDs"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 40733,
-      "name": "Carefoca\u00b4s Swing",
-      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busca Amor",
         "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 213986,
       "name": "Todos Tienen Tortita",
       "url": "https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 40733,
+      "name": "Carefoca\u00b4s Swing",
+      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Vete Al Averno",
-      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naco Es Chido",
         "url": "https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 247253,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Vete Al Averno",
+      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1a De Mis Ojos",
-        "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 147613,
-      "name": "El Muchacho Asf\u00e1ltico",
-      "url": "https://open.spotify.com/track/4zv3VW5WYh2FtJCQrDDPoB"
+      "duration_ms": 230000,
+      "name": "Amor De Locos",
+      "url": "https://open.spotify.com/track/5x2JC29xLZeKM9VdxQeYoZ"
     }
   ],
   "unique_name": "This Is Botellita De Jerez",

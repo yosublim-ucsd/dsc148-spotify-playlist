@@ -1,12 +1,12 @@
 {
   "description": "This Is Gabito Ballesteros. Los temas esenciales, todos en una lista.",
-  "num_followers": 111210,
+  "num_followers": 111383,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABUsZia9WdRQ27B2qvbt8RL",
+  "snapshot_id": "ZrFngAAAAADm7G69ETAQTJQ1qc6Y9+d/",
   "tracks": [
     {
       "added_at": null,
@@ -508,13 +508,13 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 149077,
-      "name": "Rococo",
-      "url": "https://open.spotify.com/track/4gR70oLwVCnAAmaLmvBOjY"
+      "duration_ms": 205141,
+      "name": "Sonrisa Colgate",
+      "url": "https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1"
     },
     {
       "added_at": null,
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 205141,
-      "name": "Sonrisa Colgate",
-      "url": "https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1"
+      "duration_ms": 149077,
+      "name": "Rococo",
+      "url": "https://open.spotify.com/track/4gR70oLwVCnAAmaLmvBOjY"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC"
-      },
-      "artists": [
-        {
-          "name": "AgroPlay",
-          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Habla de un Muchacho",
         "url": "https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 177523,
       "name": "Se Habla de un Muchacho",
       "url": "https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5eRZ0rvliggbPqTZtYqBgC"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
     },
     {
       "added_at": null,

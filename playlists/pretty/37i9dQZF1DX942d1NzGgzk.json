@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Nippa & Odeal",
-  "num_followers": 147212,
+  "num_followers": 147287,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-06 00:11:28",
       "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
-    },
-    {
-      "added_at": "2024-08-06 00:11:28",
-      "album": {
         "name": "Not My Job",
         "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 174588,
       "name": "Not My Job",
       "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
+    },
+    {
+      "added_at": "2024-08-06 00:11:28",
+      "album": {
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
     },
     {
       "added_at": "2024-08-06 00:11:28",

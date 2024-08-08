@@ -5003,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/24TN7V6RyqjbrrAshiq5hr"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/3Q3cJemxjTRoQmtyn6EXA8"
+    },
+    {
+      "album": {
         "name": "Sunbeam",
         "url": "https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd"
       },

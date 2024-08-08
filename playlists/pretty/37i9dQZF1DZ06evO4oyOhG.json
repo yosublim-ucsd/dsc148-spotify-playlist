@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 17364,
+  "num_followers": 17368,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAD2dNkYCKIDsuIba34Np3PI",
+  "snapshot_id": "ZrFngAAAAABF9BbkfHgiU9WXDO3YQ1XM",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u604b\u8272\u306b\u54b2\u3051",
-        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
+        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+        "url": "https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul"
       },
       "artists": [
         {
           "name": "CHiCO with HoneyWorks",
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        },
-        {
-          "name": "sana",
-          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
         }
       ],
-      "duration_ms": 252160,
-      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq"
+      "duration_ms": 289000,
+      "name": "\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2"
     },
     {
       "added_at": null,
@@ -471,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u604b\u8272\u306b\u54b2\u3051",
+        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "sana",
+          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
         "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 243480,
       "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
       "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
-        "url": "https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "\u30b5\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 224453,
-      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
-      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
+      "duration_ms": 234520,
+      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 234520,
-      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
-      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
+      "duration_ms": 224453,
+      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
+      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
     },
     {
       "added_at": null,

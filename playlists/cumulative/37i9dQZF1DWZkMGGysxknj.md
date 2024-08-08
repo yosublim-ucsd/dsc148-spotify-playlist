@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-290 songs - 16 hr 32 min
+292 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bleachers](https://open.spotify.com/track/4SnJ2BuVa31w10qPXKqZrW) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Baby Teeth](https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht) | 4:22 | 2021-07-16 | 2023-05-24 |
 | [Blinding Lights](https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Hits](https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf) | 3:14 | 2021-07-16 |  |
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2023-01-03 |  |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-07 |  |
 | [Bullet Proof \(Blue States Remix\)](https://open.spotify.com/track/65HHEBdWvjC33WVYHDsiZj) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo), [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Moonshine Freeze Remixes](https://open.spotify.com/album/24xJu2aYlYPt5YtH5FP3fi) | 4:45 | 2021-07-16 | 2022-07-29 |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2021-07-16 |  |
 | [Call Out My Name](https://open.spotify.com/track/4XIaUpLlWb1y3YVByVSFla) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Call Out My Name](https://open.spotify.com/album/0yTcV1IFb2qMCK0LvO2LvS) | 3:33 | 2021-07-16 | 2024-06-25 |
@@ -50,7 +51,8 @@
 | [Configuraciones Onduladas](https://open.spotify.com/track/0eoPoF7uj2QlMmQ9OdcRaz) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Configuraciones Onduladas](https://open.spotify.com/album/4jjkFIeyBjwPwLK5DzvQ6O) | 2:10 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 2:10 | 2023-06-09 | 2024-04-19 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 | 2023-10-14 |
-| [Conversation](https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1) | 3:49 | 2023-06-09 |  |
+| [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 | 2024-07-09 |  |
+| [Conversation](https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1) | 3:49 | 2023-06-09 | 2024-08-08 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
@@ -251,7 +253,7 @@
 | [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 | 2024-05-24 |  |
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 |  |
 | [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 |  |
-| [The Middle](https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [The Middle](https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD) | 3:29 | 2023-06-09 |  |
+| [The Middle](https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [The Middle](https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD) | 3:29 | 2023-06-09 | 2024-08-08 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 | 2023-11-23 |
 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 | 2023-06-09 | 2024-04-19 |
 | [There's Nothing Holdin Me Back](https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [There's Nothing Holdin Me Back](https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU) | 3:19 | 2021-07-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Psycho YP, Magixx, Jeriq and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,829 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,904 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 13 | [John Travolta \(feat\. Blaqbonez\)](https://open.spotify.com/track/22aQcPPXH3vFltmSO7vIhr) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Purple Doesn't Exist](https://open.spotify.com/album/67W3Xd68ThXeWwQVRm8m2d) | 2:42 |
 | 14 | [Fashion Killer](https://open.spotify.com/track/1j5hSr4QLeAdAFyr6sbZUT) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Fashion Killer](https://open.spotify.com/album/0xpHYjPOkLSP0LtnXvCPhj) | 2:17 |
-| 15 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 15 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 16 | [Insecure](https://open.spotify.com/track/6bA7m0zUC60DAQaL2TjcZp) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Adwoa](https://open.spotify.com/artist/3eebh3G5QslDo86FSAEuSm), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Insecure](https://open.spotify.com/album/5GgZ3hc7eourjpYAo13Hwp) | 3:53 |
 | 17 | [Gbohe](https://open.spotify.com/track/5wOJraFk29ylfEwWl93A6b) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gbohe](https://open.spotify.com/album/4APlUxZtmyt8Gc3M0Zl4pe) | 2:59 |
 | 18 | [Wildin](https://open.spotify.com/track/3BgLBqagaRH3n8Iv6tbLi0) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Wildin](https://open.spotify.com/album/0gGs6vtvsoKgcJpDEj18gd) | 2:26 |

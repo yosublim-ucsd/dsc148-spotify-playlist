@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Kleber Lucas
 
-1,175 songs - 3 day 23 hr 52 min
+1,175 songs - 3 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,7 +1160,7 @@
 | [Voz do Senhor](https://open.spotify.com/track/4dPKrzz5kzThp7UQv51BLh) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Voz do Senhor](https://open.spotify.com/album/0OEDbHQAt7ale9RGY3w2SX) | 2:12 | 2023-08-04 | 2023-08-19 |
 | [We Believe](https://open.spotify.com/track/2Y0nAf9t1aeutVYqmXOwq9) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [We Believe](https://open.spotify.com/album/0ZiQ24x1u9F9T8aMsqKYqo) | 4:03 | 2023-08-18 | 2023-09-02 |
 | [Yahweh](https://open.spotify.com/track/7lxdmU0eZcqpZn4aRi8MdM) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Yahweh](https://open.spotify.com/album/1kuSfOrq9reqfBc1ekwYFm) | 5:09 | 2023-10-06 | 2023-10-14 |
-| [Yahweh \- Ao Vivo](https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN) | 13:29 | 2024-07-12 |  |
+| [Yahweh \- Ao Vivo](https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yahweh \- Ao Vivo](https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN) | 13:17 | 2024-07-12 |  |
 | [Yahweh Shamah \- Ao Vivo](https://open.spotify.com/track/4bRMautMbhkfxblEHA3t1y) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR), [Calebe Silva](https://open.spotify.com/artist/3xNrTtlY538coY4laqBfd9) | [Yahweh Shamah \(Ao Vivo\)](https://open.spotify.com/album/1Oj4s9CphdSLIsmJlLdP9i) | 6:40 | 2024-07-05 | 2024-07-13 |
 | [YESHUA](https://open.spotify.com/track/5h5HpiAOJ5D4WYRIaxaPpF) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [YESHUA](https://open.spotify.com/album/4tqC4yFvzCtSojIYnRdLtx) | 5:45 | 2024-07-05 | 2024-07-19 |
 | [Yeshua \- Ao Vivo](https://open.spotify.com/track/337boaYUw9T4DArIIASGT9) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Yeshua](https://open.spotify.com/album/3kxS0sTuaE4F9h9WQiqfK9) | 4:03 | 2023-10-06 | 2023-10-21 |

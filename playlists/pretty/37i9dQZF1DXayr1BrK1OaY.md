@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,793 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,849 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 101 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 102 | [Want You](https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Want You](https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc) | 3:58 |
 | 103 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
-| 104 | [Cruel Heart](https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Discipline](https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq) | 3:33 |
-| 105 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 |
+| 104 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 |
+| 105 | [Cruel Heart](https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Discipline](https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq) | 3:33 |
 | 106 | [Change This Pain For Ecstasy](https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Change This Pain For Ecstasy](https://open.spotify.com/album/08xHiG90YhACt4w637oTqn) | 3:27 |
 | 107 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 |
 | 108 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 118 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 |
 | 119 | [Is It Love \- goddard\. Remix](https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Is It Love \(goddard\. Remix\)](https://open.spotify.com/album/2JSThj7pMIiCybV5lxWDYh) | 2:38 |
 | 120 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
-| 121 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 |
+| 121 | [somewhere i never know](https://open.spotify.com/track/3bXFlVhSzkolyOC0qZWHtX) | [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [somewhere i never know](https://open.spotify.com/album/6wGCqXtQyHBZyNTE0bxLvi) | 2:05 |
 | 122 | [Heavy With Hoping](https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:01 |
-| 123 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 |
-| 124 | [LOVE U BETTER](https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [LOVE U BETTER](https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b) | 2:40 |
-| 125 | [somewhere i never know](https://open.spotify.com/track/3bXFlVhSzkolyOC0qZWHtX) | [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [somewhere i never know](https://open.spotify.com/album/6wGCqXtQyHBZyNTE0bxLvi) | 2:05 |
+| 123 | [Love Letter](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 |
+| 124 | [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 |
+| 125 | [LOVE U BETTER](https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [LOVE U BETTER](https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b) | 2:40 |
 
 Snapshot ID: `Zqz6dwAAAADmHbMRDe1Jvc9X2o6sESQD`

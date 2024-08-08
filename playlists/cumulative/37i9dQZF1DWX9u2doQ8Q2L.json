@@ -3273,6 +3273,28 @@
     },
     {
       "album": {
+        "name": "Love Flutter",
+        "url": "https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266808,
+      "name": "Child Replay",
+      "url": "https://open.spotify.com/track/5eUsbGNoJEMFsvrBAWXgp6"
+    },
+    {
+      "album": {
         "name": "CROWS",
         "url": "https://open.spotify.com/album/2D8HpOl0a3Bs2A1iAG0Zyd"
       },
@@ -3526,7 +3548,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 289892,
       "name": "City Habits",
       "url": "https://open.spotify.com/track/38f8NbWFJ22TU4qIqZoNnd"
@@ -3808,7 +3830,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 244754,
       "name": "Counting Dog",
       "url": "https://open.spotify.com/track/31QpOfZ2Hhg9nLVAURiYl8"
@@ -4398,7 +4420,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 216221,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5"
@@ -11590,7 +11612,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 179442,
       "name": "medium rare",
       "url": "https://open.spotify.com/track/7BOQjwnL1qsFZt3PpsqWjO"
@@ -16076,7 +16098,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 183426,
       "name": "RISE TOGETHER",
       "url": "https://open.spotify.com/track/4vGetXZZizkgXnWKWo3GkS"
@@ -17058,7 +17080,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 178614,
       "name": "Secret Idea",
       "url": "https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r"
@@ -20474,7 +20496,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
@@ -24189,6 +24211,24 @@
     },
     {
       "album": {
+        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197904,
+      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
+    },
+    {
+      "album": {
         "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF"
       },
@@ -24848,7 +24888,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 185233,
       "name": "\u30c7\u30b8\u30bf\u30eb\u30ce\u30a4\u30ba\u3092\u8d70\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/3IwNQribtVSs51nUG7z7FV"

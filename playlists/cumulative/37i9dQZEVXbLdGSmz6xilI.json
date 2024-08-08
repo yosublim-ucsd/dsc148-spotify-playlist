@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 51490,
       "name": "Beautiful nightmare (interlude)",
       "url": "https://open.spotify.com/track/76LJNZFUi9NOGkpZnIIRVX"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH"
@@ -4106,7 +4106,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 119587,
       "name": "Crush 2",
       "url": "https://open.spotify.com/track/7j3XQm7RR8T2EzaYtYK4rc"
@@ -5668,6 +5668,44 @@
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea"
+    },
+    {
+      "album": {
+        "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai 2024 - C\u00f4ng Di\u1ec5n 2",
+        "url": "https://open.spotify.com/album/5Llg9POLjawDxcVMozAslb"
+      },
+      "artists": [
+        {
+          "name": "B\u1eb1ng Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        },
+        {
+          "name": "Duy Kh\u00e1nh \u5468\u5468",
+          "url": "https://open.spotify.com/artist/5Nilp5UbtfomufnBtJkjpL"
+        },
+        {
+          "name": "Thanh Duy",
+          "url": "https://open.spotify.com/artist/4sGeCkzfqINvHaWFfeoQJp"
+        },
+        {
+          "name": "Thien Minh",
+          "url": "https://open.spotify.com/artist/682nwML92TjNZJwANb63HT"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314000,
+      "name": "D\u1eabu C\u00f3 L\u1ed7i L\u1ea7m",
+      "url": "https://open.spotify.com/track/6jdOqxknJi9PTw32wd3eJZ"
     },
     {
       "album": {
@@ -8476,6 +8514,28 @@
       "duration_ms": 200000,
       "name": "id T41104 (feat. 267)",
       "url": "https://open.spotify.com/track/07tiPBhMqiKqHowwqDBtfK"
+    },
+    {
+      "album": {
+        "name": "id thang m\u00e1y (feat. 267)",
+        "url": "https://open.spotify.com/album/7BSpM30tGOKUst7dZCtGLv"
+      },
+      "artists": [
+        {
+          "name": "W/N",
+          "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
+        },
+        {
+          "name": "267",
+          "url": "https://open.spotify.com/artist/1jLM6ulW6ldwRWX9smNYmt"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131050,
+      "name": "id thang m\u00e1y (feat. 267)",
+      "url": "https://open.spotify.com/track/0ezCZF82GYZFV1W6W1os7N"
     },
     {
       "album": {
@@ -12295,6 +12355,44 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
+        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+        },
+        {
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+        },
+        {
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252428,
+      "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
+      "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
+    },
+    {
+      "album": {
         "name": "Ch\u1ec9 C\u00f3 Th\u1ec3 L\u00e0 Anh",
         "url": "https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9"
       },
@@ -13072,7 +13170,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -14481,6 +14579,44 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
+        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+        },
+        {
+          "name": "Ph\u00e1p Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
+        },
+        {
+          "name": "Quang Trung",
+          "url": "https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph"
+        },
+        {
+          "name": "Ali Ho\u00e0ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh"
+        },
+        {
+          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252307,
+      "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
+      "url": "https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea"
+    },
+    {
+      "album": {
         "name": "Replay tr\u00ean con Gu\u00e2y",
         "url": "https://open.spotify.com/album/1b6quJY26YGPi6yekr4QKV"
       },
@@ -14772,7 +14908,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
@@ -18792,7 +18928,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -20714,7 +20850,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 159164,
       "name": "\u0110\u1ec3 \u00dd",
       "url": "https://open.spotify.com/track/4oGgxjxVOI69h9uOpHOzwn"

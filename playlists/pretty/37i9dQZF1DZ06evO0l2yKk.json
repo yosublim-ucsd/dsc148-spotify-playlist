@@ -1,12 +1,12 @@
 {
   "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 157440,
+  "num_followers": 157513,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABXrIGvXzf5eH8BK7DfMK/C",
+  "snapshot_id": "ZrFngAAAAACjiJCTX95zRpncyLYaqTnL",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Coraz\u00f3n Necio",
-        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Coraz\u00f3n Necio",
-      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 172120,
       "name": "Si Ella Supiera",
       "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Coraz\u00f3n Necio",
+      "url": "https://open.spotify.com/track/5LGssqcE15JZMRlDtvMGPG"
     },
     {
       "added_at": null,

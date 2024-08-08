@@ -1,462 +1,582 @@
 {
-  "description": "Get ready for <a href=\"spotify:genre:0JQ5DAqbMKFEJHdEnquSi1\">BelicoFest</a> with the setlist of Gerardo Ortiz.",
-  "num_followers": 1087,
-  "original_name": "BelicoFest Setlist: Gerardo Ortiz",
+  "description": "Fresh new music by independent artists and labels, featuring El Mes\u00eda.  Updates every Wednesday.",
+  "num_followers": 1244,
+  "original_name": "Fresh Finds M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZnZ6BQAAAAD0PM3HWeLDGhDhefh+e0Z2",
+  "snapshot_id": "ZrLxQAAAAAA3dSXSWfjY+NCbNnaMdAlM",
   "tracks": [
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "M\u00e1s Caro, que ayer",
-        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
+        "name": "Lo Hago y Me Cuido",
+        "url": "https://open.spotify.com/album/0A4WikIQethwBCB9ifoLsU"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 147221,
-      "name": "M\u00e1s Caro, que ayer",
-      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "El Perro",
-        "url": "https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 124170,
-      "name": "El Perro",
-      "url": "https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "El Trokero Lokochon",
-      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "A La Moda",
-      "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "En Vivo Las Tundras",
-        "url": "https://open.spotify.com/album/1TNmT9J2l9vVh0AV72AaQj"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Las Tundras",
-      "url": "https://open.spotify.com/track/6teNC0i3wI14HR14ogtAfe"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Y Me Besa",
-      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "La Leona y el Mandil\u00f3n",
-      "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 97240,
-      "name": "Qui\u00e9n Se Anima",
-      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "El Primer Ministro (Version Deluxe)",
-        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/7wJlEfqBaKiHFU9FFODAne"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "En Preparacion",
-      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Palma Salazar",
-      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "El Mes\u00eda",
+          "url": "https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh"
         },
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Nueva Partida",
+          "url": "https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR"
         }
       ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
+      "duration_ms": 172173,
+      "name": "Lo Hago y Me Cuido",
+      "url": "https://open.spotify.com/track/27QObCLAL1PMQauG47mxSL"
     },
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "Mi Suerte",
+        "url": "https://open.spotify.com/album/0vOgrIqqLxO1OXEvyow4l3"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Mujer De Piedra",
-      "url": "https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv"
+      "duration_ms": 228757,
+      "name": "Mi Suerte",
+      "url": "https://open.spotify.com/track/2yJ7IgjALexSVjYwajKmJe"
     },
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Tan Sensual",
+        "url": "https://open.spotify.com/album/0xb7mU6F7EyMMtPbjLQUIM"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Uriel AR",
+          "url": "https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K"
         }
       ],
-      "duration_ms": 133226,
-      "name": "El Cholo",
-      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
+      "duration_ms": 203124,
+      "name": "Tan Sensual",
+      "url": "https://open.spotify.com/track/7yvhrqpYUxRRsDR13kViYx"
     },
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 1",
-        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+        "name": "Estoy de Buenas 2",
+        "url": "https://open.spotify.com/album/6N7dE7fvEMV4mKzhy5ozHQ"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
         }
       ],
-      "duration_ms": 175028,
-      "name": "Para Qu\u00e9 Lastimarme",
-      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
+      "duration_ms": 125312,
+      "name": "Estoy De Buenas 2",
+      "url": "https://open.spotify.com/track/6CUnjwsIkBAphUkGV6q5lc"
     },
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+        "name": "No Era Pa\u00b4Ti",
+        "url": "https://open.spotify.com/album/2oX4tc8sL1508xfsxPWhc1"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "duration_ms": 185189,
+      "name": "No Era Pa\u00b4Ti",
+      "url": "https://open.spotify.com/track/06bmBrHzRwHfdKKIYjPSeD"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Icono",
+        "url": "https://open.spotify.com/album/5g4Cjm6ELClw06UBL9HDz9"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "Icono",
+      "url": "https://open.spotify.com/track/0wKHVZhbLXN5YYRJSXB3wA"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "El Yuko",
+        "url": "https://open.spotify.com/album/3zsIoZTHVexbPS6Ca8Nybu"
+      },
+      "artists": [
+        {
+          "name": "Cristian RG",
+          "url": "https://open.spotify.com/artist/7rmQzTWdrXqg9orZ3XFaZD"
+        }
+      ],
+      "duration_ms": 149439,
+      "name": "El Yuko",
+      "url": "https://open.spotify.com/track/4Y1fcUSLH2MwgWDvtXrOl9"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/6oyouaeJUiMlZRYBWqtZA3"
+      },
+      "artists": [
+        {
+          "name": "Decreto Real",
+          "url": "https://open.spotify.com/artist/7AthXwx27wyMbTkzJV0oN0"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/5kBDKRv7vdD7hWW7Cuiqjh"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/0LoG3eZmvShNpwovrjFnEm"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        }
+      ],
+      "duration_ms": 218898,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/57rXfnCkm4IoQ6jl9rhEiK"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "NNSQ (Si Es Contigo)",
+        "url": "https://open.spotify.com/album/7r4qhzz27VqBUPeabQmnbh"
+      },
+      "artists": [
+        {
+          "name": "Jenn Santos",
+          "url": "https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "NNSQ (Si Es Contigo)",
+      "url": "https://open.spotify.com/track/1fDc9t9sh3jhyih4yXoED6"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/57blp6ig3zY7r77xQpOZhp"
+      },
+      "artists": [
+        {
+          "name": "La Do\u00f1a",
+          "url": "https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ"
+        }
+      ],
+      "duration_ms": 160147,
+      "name": "Confesiones",
+      "url": "https://open.spotify.com/track/0gYOgwFo1Wm0A4pNpiEpjE"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Mejor Que \u00c9l",
+        "url": "https://open.spotify.com/album/3lIyzv5YIy7HY0dS5XIZpR"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Regimen",
+          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+        }
+      ],
+      "duration_ms": 229594,
+      "name": "Mejor Que \u00c9l",
+      "url": "https://open.spotify.com/track/7LPD3A0BKXL5AndAizpL8y"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "100 TRAGOS",
+        "url": "https://open.spotify.com/album/5vMQZydARaMZ5BvsJVHh6o"
+      },
+      "artists": [
+        {
+          "name": "Khris Rosas",
+          "url": "https://open.spotify.com/artist/1BlGdh2hf0VFq3OfuzxqmW"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "100 TRAGOS",
+      "url": "https://open.spotify.com/track/5N07RJ0LnIrMcU2jGCj2mj"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "DULCE VENENO",
+        "url": "https://open.spotify.com/album/6Tf4R9Y9hY5QGpTDL5PNY7"
+      },
+      "artists": [
+        {
+          "name": "Jay S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "DULCE VENENO",
+      "url": "https://open.spotify.com/track/38ZM5GqIuTiFCxvByFXA18"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Versos De Mi Alma",
+        "url": "https://open.spotify.com/album/5gJ3p7Rk8CzYUQ7GBqOG9q"
+      },
+      "artists": [
+        {
+          "name": "Danny Morales",
+          "url": "https://open.spotify.com/artist/5rLhODPWcHrGnaMX5Xl3ga"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "Versos De Mi Alma",
+      "url": "https://open.spotify.com/track/53u0eReYojYyyShr4ps7j2"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/3pljduvYLW3gKVATmAGx3i"
+      },
+      "artists": [
+        {
+          "name": "ENANO",
+          "url": "https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/6prLB64chLph5L7FSiYsiV"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "El Ma\u00f1as",
+        "url": "https://open.spotify.com/album/7uh85cOMhKIOeZd6fgrwpP"
+      },
+      "artists": [
+        {
+          "name": "Grupo MVP",
+          "url": "https://open.spotify.com/artist/1xfr7QVmJN7w3xpjeT2ndd"
+        }
+      ],
+      "duration_ms": 164374,
+      "name": "El Ma\u00f1as",
+      "url": "https://open.spotify.com/track/6GCJ6s6AODlHYpAGYNRW4c"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Baby Dante",
+        "url": "https://open.spotify.com/album/3YjSS6dw58rW0Q5bgrjJUc"
+      },
+      "artists": [
+        {
+          "name": "Jay Primera",
+          "url": "https://open.spotify.com/artist/72nZ9Zjt795lmIuu3sg4IT"
+        }
+      ],
+      "duration_ms": 143504,
+      "name": "Baby Dante",
+      "url": "https://open.spotify.com/track/6iH6b2mLTeO48HQLEZyoTY"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Tengo Algo Pendiente",
+        "url": "https://open.spotify.com/album/0Z1VBucUP0XBO1UGkEBOSw"
+      },
+      "artists": [
+        {
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Tengo Algo Pendiente",
+      "url": "https://open.spotify.com/track/2jXF6m7Y6sYbibjikCdgEo"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/1xuoZrOGH4J7XBPkTpbn3R"
+      },
+      "artists": [
+        {
+          "name": "Joshua Fraire",
+          "url": "https://open.spotify.com/artist/4Fs0N194ZVRcBQYPyj4L28"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/3ImowwhULTk6zHkhbS1v0Q"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/6uIV5GVt5IkDHqb4UK1JvI"
+      },
+      "artists": [
+        {
+          "name": "Kevin Alfredo",
+          "url": "https://open.spotify.com/artist/3THK4QsOkD54lKzZodBuL3"
+        }
+      ],
+      "duration_ms": 141487,
+      "name": "La Loteria",
+      "url": "https://open.spotify.com/track/4Grs80VjKW1DQ25xWNKVyd"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "De Aqui Por Alla",
+        "url": "https://open.spotify.com/album/7mVd6rqOQaM4y5QZC7j7EX"
+      },
+      "artists": [
+        {
+          "name": "Estilo Real",
+          "url": "https://open.spotify.com/artist/4bsgB9vTxAXje3cGitRbFN"
+        }
+      ],
+      "duration_ms": 172790,
+      "name": "De Aqui Por Alla",
+      "url": "https://open.spotify.com/track/00Lm5SsZ8AwKkVb79L0Kcu"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "VALENTINA",
+        "url": "https://open.spotify.com/album/4nGQWw82RJXWYt4BRxzy9l"
+      },
+      "artists": [
+        {
+          "name": "BRODY",
+          "url": "https://open.spotify.com/artist/21c9RVrZUQicCrtf9zgS0j"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "VALENTINA",
+      "url": "https://open.spotify.com/track/5xx0KBb4hoanj6IhukeEkO"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Dime Que Me Quieres (Live)",
+        "url": "https://open.spotify.com/album/7bXpQKF1E23o6Gyk2OpsBW"
+      },
+      "artists": [
+        {
+          "name": "Relevanzia",
+          "url": "https://open.spotify.com/artist/6pjlDvfJ5aJnEy7qCTfpLk"
+        }
+      ],
+      "duration_ms": 188707,
+      "name": "Dime Que Me Quieres (Live)",
+      "url": "https://open.spotify.com/track/4yk8FEjLJF0WndDoegEDOR"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "A Darle",
+        "url": "https://open.spotify.com/album/5FejHjvxgL4qeGKyQ2Mhu7"
+      },
+      "artists": [
+        {
+          "name": "La 535",
+          "url": "https://open.spotify.com/artist/0DgBESpow9gaC55I2qFJmz"
+        }
+      ],
+      "duration_ms": 166290,
+      "name": "A Darle",
+      "url": "https://open.spotify.com/track/0g3id23dTPHBrCDoIV2DcN"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/4l6KQE9PN3nARhRhdIiLYl"
+      },
+      "artists": [
+        {
+          "name": "Sky High",
+          "url": "https://open.spotify.com/artist/2zb1YsLNGpua61Aes4GkyQ"
+        }
+      ],
+      "duration_ms": 164214,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/7hOJUhwwyfUVjrbj3ckvL8"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "El Tocayo",
+        "url": "https://open.spotify.com/album/3DDaPqcmknhqrTfUc3OSVI"
+      },
+      "artists": [
+        {
+          "name": "Clave Exclusiva",
+          "url": "https://open.spotify.com/artist/3djmqRcaEmEqYM3pMLsXod"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "El Tocayo",
+      "url": "https://open.spotify.com/track/0dXSBVh8fO4U15rWz7A77I"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Entre Peligro",
+        "url": "https://open.spotify.com/album/37yQwL8p1fW8sac8yfKCIm"
+      },
+      "artists": [
+        {
+          "name": "Ascenso Recio",
+          "url": "https://open.spotify.com/artist/6FXZLq6qLDlkyQKbXF37sP"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Entre Peligro",
+      "url": "https://open.spotify.com/track/05E402PUeZFNUR0Hlg5xp2"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Unpl4gged",
+        "url": "https://open.spotify.com/album/4QBGFxV2piwgrTCEoVUemN"
+      },
+      "artists": [
+        {
+          "name": "SUBLXME",
+          "url": "https://open.spotify.com/artist/00EwB9FkCrgoGSe4xTHDsO"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Yo Soy Hijo Del 7",
+      "url": "https://open.spotify.com/track/2qdeM45IZhRglUCQ8eFEPq"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "TIRAN Y TIRAN",
+        "url": "https://open.spotify.com/album/76ciR32WjrnHoGvlzoC5UZ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Arias",
+          "url": "https://open.spotify.com/artist/3EjHTIt8GiKlr9Dv68gITz"
+        }
+      ],
+      "duration_ms": 171408,
+      "name": "TIRAN Y TIRAN",
+      "url": "https://open.spotify.com/track/5hgerAHDTYOPN7BLvKR5uB"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Pharrel",
+        "url": "https://open.spotify.com/album/0pmanb2jccrOzcOVSKSlzq"
+      },
+      "artists": [
+        {
+          "name": "Danny Talavera",
+          "url": "https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Pharrel",
+      "url": "https://open.spotify.com/track/4OIVWgXFkFU0mKBmOculnm"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Un Loqueron",
+        "url": "https://open.spotify.com/album/5NPygpY4RWRs9vowWgX6QW"
+      },
+      "artists": [
+        {
+          "name": "MURUA",
+          "url": "https://open.spotify.com/artist/3G8cp3fcZvVRWkb4vqbuhz"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Un Loqueron",
+      "url": "https://open.spotify.com/track/7rRcOWFMB45JEnx9X9WHKE"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "AMARTE OTRA VEZ II",
+        "url": "https://open.spotify.com/album/6PzRDWq80N0kHgJe7Djohd"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Lopez",
+          "url": "https://open.spotify.com/artist/4saXkSSo2ZgjsQk8A67YmH"
+        }
+      ],
+      "duration_ms": 282880,
+      "name": "AMARTE OTRA VEZ II",
+      "url": "https://open.spotify.com/track/2xYQWP8Y4xzRs8mPERcunO"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "La Chompa",
+        "url": "https://open.spotify.com/album/6y00N7eNnkySFDiwGNuWmS"
+      },
+      "artists": [
+        {
+          "name": "Adrian Pro",
+          "url": "https://open.spotify.com/artist/0r7eWH9aAzHU6WwC7U39H9"
         },
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Jes\u00fas Chairez",
-          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+          "name": "Grupo MM",
+          "url": "https://open.spotify.com/artist/6B8hu42GbDNo6uvQfxPJJY"
         }
       ],
-      "duration_ms": 208117,
-      "name": "Recordando a Manuel",
-      "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+      "duration_ms": 175124,
+      "name": "La Chompa",
+      "url": "https://open.spotify.com/track/2BDThWfovIS0F4QUFtsw0w"
     },
     {
-      "added_at": "2024-04-24 13:53:10",
+      "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+        "name": "La Gavilaniza",
+        "url": "https://open.spotify.com/album/0IqmDnnvd7FQAh8nGOyHDa"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Plebes de la Cuadra",
+          "url": "https://open.spotify.com/artist/6oQFhaNvHdvBznlkDEOs6A"
         }
       ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "D\u00e1maso",
-      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Tal Como Eres",
-        "url": "https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 230802,
-      "name": "Tal Como Eres",
-      "url": "https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "Cara A La Muerte (En Vivo)",
-      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Morir Y Existir",
-      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Aquiles Afirmo",
-      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
-    },
-    {
-      "added_at": "2024-04-24 13:53:10",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+      "duration_ms": 210813,
+      "name": "La Gavilaniza",
+      "url": "https://open.spotify.com/track/6NwBW2cYcxXINfm4rV3GaS"
     }
   ],
-  "unique_name": "BelicoFest Setlist: Gerardo Ortiz",
+  "unique_name": "Fresh Finds M\u00fasica Mexicana",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL"
 }

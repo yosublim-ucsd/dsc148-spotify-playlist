@@ -1,6 +1,6 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11613,
+  "num_followers": 11610,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
         "name": "The King Is Alive",
         "url": "https://open.spotify.com/album/4JNTMZoZVcDlM9i9DZ0mpZ"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 178557,
       "name": "The King Is Alive",
       "url": "https://open.spotify.com/track/1vClq5FGlLjR4Rdqm7dMpQ"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
-    },
-    {
-      "added_at": "2024-07-02 00:57:49",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2024-07-02 00:57:49",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 280599,
-      "name": "Death Where Is Your Sting",
-      "url": "https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e"
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2024-07-02 00:57:49",
@@ -919,6 +903,22 @@
       "duration_ms": 242040,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo"
+    },
+    {
+      "added_at": "2024-07-02 00:57:49",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 280599,
+      "name": "Death Where Is Your Sting",
+      "url": "https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e"
     },
     {
       "added_at": "2024-07-02 00:57:49",

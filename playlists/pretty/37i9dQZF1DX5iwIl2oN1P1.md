@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials\. Cover: <a href="spotify:artist:03qM4LmPCrR7CuHTE0WAIW">Koryn Hawthorne</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,977 likes - 63 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,037 likes - 63 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

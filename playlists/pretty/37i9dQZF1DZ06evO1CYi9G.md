@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 ### [This Is Mudvayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1CYi9G)
 
-> This is Mudvayne\. Todos os maiores hits em uma só playlist.
+> This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,104 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,125 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 13 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 | 14 | [Dull Boy](https://open.spotify.com/track/0rIPU2d3P2AbRDLj5spMMj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:13 |
 | 15 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 |
-| 16 | [\-1](https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:58 |
+| 16 | [Nothing To Gein](https://open.spotify.com/track/099F8DBwudywg5KK6WVFox) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 5:28 |
 | 17 | [Pushing Through](https://open.spotify.com/track/4hvq2Q3Ykt1pEsk13E25Se) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:28 |
 | 18 | [A Cinderella Story](https://open.spotify.com/track/3k8IsJILZMzwPCgiRALs3Q) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:39 |
 | 19 | [All Talk](https://open.spotify.com/track/2N0yIGs5DbmqAFRfVzgWGF) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 2:52 |
-| 20 | [Nothing To Gein](https://open.spotify.com/track/099F8DBwudywg5KK6WVFox) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 5:28 |
+| 20 | [\-1](https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:58 |
 | 21 | [Mercy, Severity](https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:54 |
 | 22 | [Have It Your Way](https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:45 |
 | 23 | [Closer](https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 3:21 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 39 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
 | 40 | [Poop Loser](https://open.spotify.com/track/0HHbwcOTYogbpzi38WrM5K) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 1:22 |
 
-Snapshot ID: `ZrAWAAAAAACKzNAsKqUVl3bZX4wMJxL3`
+Snapshot ID: `ZrFngAAAAABsUEbbtz4j1cYpC/WIupYA`

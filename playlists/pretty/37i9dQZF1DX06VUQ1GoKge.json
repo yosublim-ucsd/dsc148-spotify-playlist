@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 556046,
+  "num_followers": 556022,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Seasons In The Abyss",
-        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "War Ensemble",
-      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Fatalism",
         "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 239291,
       "name": "Inhumane",
       "url": "https://open.spotify.com/track/4JpUHYV5xwiBHx9wnTSjh1"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Seasons In The Abyss",
+        "url": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "War Ensemble",
+      "url": "https://open.spotify.com/track/1E0yt5XSdjE9NOu897RilW"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 293466,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2xECSFHPgCyElhTVRaHVYP"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Would you be my therapy?",
-        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
-      },
-      "artists": [
-        {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
-        }
-      ],
-      "duration_ms": 159771,
-      "name": "Would you be my therapy?",
-      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Nightmare Logic",
         "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 225245,
       "name": "Executioner's Tax (Swing of the Axe)",
       "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Would you be my therapy?",
+        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "duration_ms": 159771,
+      "name": "Would you be my therapy?",
+      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
+        "name": "Locked (In My Head)",
+        "url": "https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 186019,
+      "name": "Locked (In My Head)",
+      "url": "https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 251000,
       "name": "The Blood, the Sweat, the Tears",
       "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
-        "name": "Locked (In My Head)",
-        "url": "https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 186019,
-      "name": "Locked (In My Head)",
-      "url": "https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP"
     },
     {
       "added_at": "2024-07-15 13:16:22",

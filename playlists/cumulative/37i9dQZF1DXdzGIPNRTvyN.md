@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-247 songs - 11 hr 36 min
+248 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-01-24 | 2024-04-02 |
 | [Friður](https://open.spotify.com/track/1rkmSbMTJ4kSNed9O4YwSt) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Friður](https://open.spotify.com/album/4Fu7EYmSZhFNnLEvf4u7VO) | 3:14 | 2023-09-28 |  |
 | [Gentle Reflections](https://open.spotify.com/track/36IHCuPESIozkc5HqauNxl) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Gentle Reflections](https://open.spotify.com/album/685evcbNM8dVvZReGt0RBf) | 3:16 | 2024-03-05 |  |
-| [Gentle Waters](https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Gentle Waters](https://open.spotify.com/album/0jeK1UiDDWXiS0YotgdsG6) | 2:59 | 2024-03-01 |  |
+| [Gentle Waters](https://open.spotify.com/track/36jA0NyUCPAO56UWWt4s69) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Gentle Waters](https://open.spotify.com/album/0jeK1UiDDWXiS0YotgdsG6) | 2:59 | 2024-03-01 | 2024-08-08 |
 | [Giolcach Hike](https://open.spotify.com/track/2Kbyyyu0TX1445GXPxjkIe) | [Hilduriam](https://open.spotify.com/artist/2sGWavPR2tKkwpw3a7jBSj) | [Giolcach Hike](https://open.spotify.com/album/1cF88NLnHIC2Uu87EXfEAu) | 3:09 | 2023-10-26 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-05-19 | 2023-07-29 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-01-24 |  |
@@ -179,6 +179,7 @@
 | [Peaceful Path](https://open.spotify.com/track/5IKuaAWFfvwTPCs0mrSJYa) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Peaceful Path](https://open.spotify.com/album/4HiC9a7PFHX75Le0nXNwBX) | 2:19 | 2023-05-19 |  |
 | [Peaceful Place & Sunday Mornings](https://open.spotify.com/track/5zPzkbW31xa6qmkTiTgL3j) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXII](https://open.spotify.com/album/5VNH9QQzeqTgpojNFFYzgw) | 2:22 | 2023-01-24 | 2023-02-14 |
 | [Peaceful Rains](https://open.spotify.com/track/1Ob1iujiq63tbCOqLpmQhI) | [Piano Radiance](https://open.spotify.com/artist/69P4GKHbbgUhcNWn7Qaj1u) | [Music for Spa and Massage:Restful Rain and Piano](https://open.spotify.com/album/7Bd8L9jNUCE2kr7hqYguXd) | 3:36 | 2023-01-24 | 2024-07-17 |
+| [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-16 |  |
 | [Peaceful Weal \(by a Babbling Brook\)](https://open.spotify.com/track/6XcXTrmANCkpLiZ1hj215q) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 3:42 | 2024-01-30 |  |
 | [pebble brook \- ambient room mix](https://open.spotify.com/track/4aE13rELUFUQCXEMDw6aF3) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:38 | 2023-01-24 |  |
 | [Perfect Harmony](https://open.spotify.com/track/4j8n4QJNpbAVG2zRRBktn7) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Perfect Harmony](https://open.spotify.com/album/2b1hOdOnn3lhU1nLjh5gS0) | 3:20 | 2024-07-16 |  |

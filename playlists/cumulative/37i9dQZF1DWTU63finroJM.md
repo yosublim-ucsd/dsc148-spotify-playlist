@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Annural Khalid.
 
-1,550 songs - 3 day 12 hr 45 min
+1,551 songs - 3 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-05-30 | 2023-10-28 |
 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 | 2023-05-30 | 2024-01-13 |
 | [MAKE MORE NOISE OF YOU](https://open.spotify.com/track/2luJ055CDIvQToqSJNSukm) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 1:44 | 2023-01-20 | 2023-02-18 |
+| [Make Up Moves](https://open.spotify.com/track/2FHDnPBi1bSAI5gVMd8tL8) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Make Up Moves](https://open.spotify.com/album/3GfloiOsCKtnIczfMUwBtY) | 3:14 | 2024-08-02 |  |
 | [Makeweight](https://open.spotify.com/track/16AmxoT1jXMLhjTSLzTEus) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy) | [Serenity Now](https://open.spotify.com/album/1IT4QklvNNguITOJnmn0DF) | 3:38 | 2024-06-28 |  |
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2022-03-24 | 2022-12-15 |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-07-13 | 2023-09-16 |
@@ -1078,7 +1079,7 @@
 | [Sabbia](https://open.spotify.com/track/5IIO6RDDEdmSFbik9c6XZM) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Erin](https://open.spotify.com/artist/47uG5KXE7so7sOnoHkiAOY), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [44.DELUXE](https://open.spotify.com/album/2x41oCKQ3zElflxq8IG6hy) | 3:15 | 2022-03-24 | 2022-04-17 |
 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 | 2023-02-10 | 2023-10-06 |
 | [Safe](https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Safe](https://open.spotify.com/album/0B29tKx7e38MjW4NBSvcZF) | 3:30 | 2023-02-10 | 2023-10-06 |
-| [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-05-10 |  |
+| [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-05-10 | 2024-08-08 |
 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 | 2024-04-12 | 2024-05-26 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-08 | 2024-03-30 |
 | [Salve](https://open.spotify.com/track/5i7A87k8rrkjVdvjCcJrsM) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Salve](https://open.spotify.com/album/0PCc3pxOTG96BE2EajIoG2) | 3:12 | 2022-03-24 | 2022-04-20 |

@@ -942,7 +942,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 191387,
       "name": "Born To Race",
       "url": "https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex"
@@ -6095,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -7938,6 +7956,28 @@
     {
       "album": {
         "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218440,
+      "name": "Together (feat. Gwen Stefani)",
+      "url": "https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM"
+    },
+    {
+      "album": {
+        "name": "Motion",
         "url": "https://open.spotify.com/album/0FnIPF2PbhvjNaEgAl8QA9"
       },
       "artists": [
@@ -7952,7 +7992,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 218440,
       "name": "Together (feat. Gwen Stefani)",
       "url": "https://open.spotify.com/track/4cshWe3AmsWgE5J17JkWhH"
@@ -8082,6 +8122,24 @@
       "duration_ms": 214426,
       "name": "Tumbling Down",
       "url": "https://open.spotify.com/track/3FHwjrY6F4YAdzWPwWl3or"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23610,
+      "name": "TURN THIS OFF!",
+      "url": "https://open.spotify.com/track/6VEm21iOWSyONwVAlOq1PQ"
     },
     {
       "album": {

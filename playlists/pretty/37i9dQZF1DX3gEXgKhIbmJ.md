@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,517 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,562 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 7 | [Uk Drill](https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi) | [Uk Drill](https://open.spotify.com/album/7lfvKFpnyyIkabluqj6O0h) | 2:06 |
 | 8 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 |
 | 9 | [Toda Noite](https://open.spotify.com/track/6uRJMdOZA4ahj4Fw9WmRBR) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/5ohIWsURDHdVaFYv6S2qE1) | 2:37 |
-| 10 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 |
+| 10 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj), [Prod\. Gandh193](https://open.spotify.com/artist/3JsZ5DMSo6lfqEKgIVJf5V) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 |
 | 11 | [Naipe Vagabundo](https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Naipe Vagabundo](https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT) | 2:16 |
 | 12 | [Nos Embalos de Jersey a Noite](https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N) | [Legusta Beatz](https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv), [Berêta](https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq), [DigZion](https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza) | [Degusta](https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x) | 2:46 |
 | 13 | [Flores](https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8) | [TROPA](https://open.spotify.com/artist/1nlGQts3gmftixL86sQVq8), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [NABRU](https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [TROPA](https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Silverada",
-  "num_followers": 411384,
+  "num_followers": 411378,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "5 to 9",
+        "url": "https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 203828,
+      "name": "5 to 9",
+      "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/77esHrN6wMRzbkXUllYjTT"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 170251,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Hungover Again",
-        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 213605,
-      "name": "Hungover Again",
-      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "5 to 9",
-        "url": "https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q"
+        "name": "Hungover Again",
+        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 203828,
-      "name": "5 to 9",
-      "url": "https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy"
+      "duration_ms": 213605,
+      "name": "Hungover Again",
+      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -751,18 +751,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "Whiskey Talkin'",
+        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 213354,
+      "name": "Whiskey Talkin'",
+      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -827,6 +831,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -843,22 +863,6 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Tomorrow's Out Of Sight",
-        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 214252,
-      "name": "Tomorrow's Out Of Sight",
-      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -931,22 +935,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Long Ride In A Short Bed",
+        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         },
         {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 216341,
+      "name": "Long Ride In A Short Bed",
+      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1031,18 +1035,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1099,18 +1107,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Tomorrow's Out Of Sight",
+        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 214252,
+      "name": "Tomorrow's Out Of Sight",
+      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1151,42 +1159,50 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Whiskey Talkin'",
-        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
+        "name": "Luckiest Guy I Know",
+        "url": "https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4"
       },
       "artists": [
         {
           "name": "Casey Donahew",
           "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 213354,
-      "name": "Whiskey Talkin'",
-      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
+      "duration_ms": 216382,
+      "name": "Luckiest Guy I Know",
+      "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Long Ride In A Short Bed",
-        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        },
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 216341,
-      "name": "Long Ride In A Short Bed",
-      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 187089,
       "name": "Learnin' my Lesson",
       "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Keep Lookin' Down The Road",
-        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
-      },
-      "artists": [
-        {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
-        }
-      ],
-      "duration_ms": 184867,
-      "name": "Keep Lookin' Down The Road",
-      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Luckiest Guy I Know",
-        "url": "https://open.spotify.com/album/1xPO9BetrzEAnYGYmNNYp4"
+        "name": "Keep Lookin' Down The Road",
+        "url": "https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
         }
       ],
-      "duration_ms": 216382,
-      "name": "Luckiest Guy I Know",
-      "url": "https://open.spotify.com/track/7GCYZzOEKcSPbWqG8dN3Uo"
+      "duration_ms": 184867,
+      "name": "Keep Lookin' Down The Road",
+      "url": "https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-608 songs - 1 day 18 hr 11 min
+609 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 | 2023-12-30 |  |
 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 | 2023-12-30 |  |
 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 | 2023-12-30 |  |
-| [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 | 2024-05-12 |  |
+| [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \- Backing Versions](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 | 2024-05-12 |  |
 | [I Decide \(Made Popular By Lindsay Lohan\) \[Karaoke Version\]](https://open.spotify.com/track/4klhTTQKQeGro7N3kosvV7) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Pop Female Hits 4](https://open.spotify.com/album/2vD12yloW6UAn87z71W0qg) | 3:10 | 2023-12-30 | 2024-05-13 |
 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 | 2023-12-30 |  |
 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 | 2023-12-30 |  |
@@ -556,6 +556,7 @@
 | [What If It Was You?](https://open.spotify.com/track/5osT7Os4ZzDAfvVC34hh3i) | [The 411](https://open.spotify.com/artist/0YtA5DdO2df8zIxpVdktqg) | [Between The Sheets](https://open.spotify.com/album/1Rhw85JG6ThsPLJoZmlUla) | 3:34 | 2023-12-30 |  |
 | [What If We Never](https://open.spotify.com/track/09kXjeQTPwppWH9x7VO8nD) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:37 | 2023-12-30 |  |
 | [What Is My Heart To Do](https://open.spotify.com/track/5TdeDThlvrASifnfs3XGFi) | [BLAKE](https://open.spotify.com/artist/7JGJfRv9uECnJd7q99tl4V) | [Start Over](https://open.spotify.com/album/34XbAK9T9xXWyJ2A9OvoC9) | 3:54 | 2024-07-10 |  |
+| [What Kind of World \(Would This World Be\)](https://open.spotify.com/track/5YQraNykQGxRvGlvWGZwTL) | [Dance To Tipperary](https://open.spotify.com/artist/21FrMfKPa7X3C0VXb0tDDh) | [What Kind of World \(Would This World Be\)](https://open.spotify.com/album/5w7R2izbGhql7K6IGzZ5cL) | 3:32 | 2024-08-07 |  |
 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 | 2023-12-30 |  |
 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 | 2023-12-30 |  |
 | [When I Die](https://open.spotify.com/track/4z1IYRhVpbLCBaqZXYIl66) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:29 | 2023-12-30 |  |

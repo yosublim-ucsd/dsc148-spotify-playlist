@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: Xdinary Heroes
 
-1,120 songs - 2 day 13 hr 8 min
+1,121 songs - 2 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-14 |
 | [His Car Isn't Yours](https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 3:04 | 2024-03-25 | 2024-04-19 |
 | [His Car Isn’t Yours](https://open.spotify.com/track/6i5SuCCAmy2wx6SDhsyCP5) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 3:04 | 2024-04-15 | 2024-05-24 |
+| [Hit Me Up \(feat\. MINGI of ATEEZ\)](https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [MINGI of ATEEZ](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [Hit Me Up \(feat\. MINGI of ATEEZ\)](https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460) | 2:18 | 2024-08-08 |  |
 | [Hit The Bass](https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [WIN\-DOW](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) | 3:30 | 2022-07-25 | 2022-09-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 | 2022-09-09 |
 | [Hmm BOP](https://open.spotify.com/track/02b8ldrByRJbFE5M71q34w) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [WHU IS ME : Complex](https://open.spotify.com/album/3wyyezKZopI2uO3hDZP9So) | 3:04 | 2024-01-19 | 2024-03-15 |
@@ -951,7 +952,7 @@
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-11-10 | 2023-02-01 |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-27 | 2024-02-27 |
 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-13 | 2022-01-05 |
-| [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [90TAN \(BTOB\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 | 2024-08-01 |  |
+| [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [구공탄 \(비투비\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 | 2024-08-01 |  |
 | [TANG!♡](https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 2:58 | 2021-12-09 | 2022-01-13 |
 | [TANK](https://open.spotify.com/track/3ucx0k0IosRjrsmQc34zUW) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/3AUtpZi3kqsEYDyQ0CCNiH) | 2:48 | 2022-03-22 | 2022-08-13 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-18 | 2023-01-19 |

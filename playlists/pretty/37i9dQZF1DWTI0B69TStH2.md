@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:75u3vQCTDHOWmYmby80Rs5">zieliński</a>, <a href="spotify:artist:6Em3ZrtfeNlVv8kyJcHcZt">Yana Couto</a> Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,839 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,842 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

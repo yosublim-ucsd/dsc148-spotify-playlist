@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
         "name": "Change My Love",
         "url": "https://open.spotify.com/album/3p3c0o6PCYCR49JLs2topV"
       },
@@ -8505,7 +8523,7 @@
     },
     {
       "album": {
-        "name": "Walk Like This (Strut Speed)",
+        "name": "Walk Like This - Strut Speed",
         "url": "https://open.spotify.com/album/1peo6Z7Rum9F9mlYkKDhzG"
       },
       "artists": [

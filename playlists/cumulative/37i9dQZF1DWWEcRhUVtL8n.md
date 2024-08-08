@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: beabadoobee
 
-1,920 songs - 4 day 5 hr 20 min
+1,921 songs - 4 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [After Midnight](https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:24 | 2023-09-26 |  |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-13 | 2022-07-25 |
 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 | 2024-04-19 |  |
+| [Aggy](https://open.spotify.com/track/12xM3OgBvG73MOfVCEphGg) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Aggy](https://open.spotify.com/album/2TyrytZI5dx2qjDSPSlPe2) | 3:26 | 2024-07-12 |  |
 | [Airbnb](https://open.spotify.com/track/7CoCrwh2R5DmOgFYmu2iT5) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO) | [Airbnb](https://open.spotify.com/album/4YhBDAkXqEvWvqaiaK2PAt) | 3:16 | 2022-05-06 | 2022-07-07 |
 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 | 2023-06-30 | 2023-07-29 |
 | [Alapathy](https://open.spotify.com/track/3UUjYLkGzItgoyEwdEtq9e) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Alapathy](https://open.spotify.com/album/7hZE46AUtKrkuTjlJVAWf5) | 3:14 | 2021-02-23 | 2021-05-20 |
@@ -181,7 +182,7 @@
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-03 | 2021-10-11 |
 | [Better](https://open.spotify.com/track/1tQrrq5hXEfS22tricqxlD) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Better](https://open.spotify.com/album/48VFHdF37YoHLh0p4hiovu) | 4:42 | 2020-11-13 | 2021-05-28 |
 | [Better \- Radio Edit](https://open.spotify.com/track/6CMjbzFLwnkX9pbIyDz2Lz) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Love, Death & Dancing \(Vol\. 2\)](https://open.spotify.com/album/24bHIfXiGsXYu6sbaz4D22) | 3:11 | 2021-02-24 | 2021-05-16 |
-| [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-19 |  |
+| [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-19 | 2024-08-08 |
 | [Better On Your Own](https://open.spotify.com/track/1Zj4Z2gQP0jgQMqxdi8gcr) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [I Miss Myself, Sometimes](https://open.spotify.com/album/3aTPJTfGDRLKqoJwCNlMc2) | 2:23 | 2021-11-12 | 2022-06-15 |
 | [Better On Your Own](https://open.spotify.com/track/52IjH7U9fkLgqM4yVecYGz) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Better On Your Own](https://open.spotify.com/album/2GOkSjZzy8MKVNvgIVEz5f) | 2:23 | 2021-07-02 | 2021-12-28 |
 | [BeVerly Hills BoYfRiEnd \(with ROLE MODEL\)](https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [BeVerly Hills BoYfRiEnd \(Remixes\)](https://open.spotify.com/album/6fr4YPNUZHYdycSDvc5qV1) | 2:43 | 2021-01-16 | 2022-04-29 |

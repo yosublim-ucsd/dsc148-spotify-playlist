@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Britpop",
+        "url": "https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199262,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2"
+    },
+    {
+      "album": {
         "name": "Half Written Story",
         "url": "https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR"
       },

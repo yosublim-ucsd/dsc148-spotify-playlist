@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30625,
+  "num_followers": 30644,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
-        "url": "https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
       },
       "artists": [
         {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
         }
       ],
-      "duration_ms": 151874,
-      "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
-      "url": "https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb"
+      "duration_ms": 155213,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW"
+        "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
+        "url": "https://open.spotify.com/album/1Fy0CYAFIRLbwsoejhHU4S"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
+      "duration_ms": 151874,
+      "name": "\u0411\u0443\u0442\u0438 \u043f\u0440\u043e\u0441\u0442\u0438\u043c",
+      "url": "https://open.spotify.com/track/7sd4YTOKjvwHOXnWQw5CDb"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
+        "name": "\u041b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K"
       },
       "artists": [
         {
-          "name": "USTYM",
-          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
         }
       ],
-      "duration_ms": 187123,
-      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
+      "duration_ms": 168145,
+      "name": "\u041b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
+      },
+      "artists": [
+        {
+          "name": "USTYM",
+          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
+        }
+      ],
+      "duration_ms": 187123,
+      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
         "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 177468,
       "name": "\u041b\u0435\u0441\u044f",
       "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
-        "name": "\u041b\u044e\u0431\u043b\u044e",
-        "url": "https://open.spotify.com/album/38n8fjrs7QHF8Y2aGhwj6K"
-      },
-      "artists": [
-        {
-          "name": "Jamala",
-          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
-        }
-      ],
-      "duration_ms": 168145,
-      "name": "\u041b\u044e\u0431\u043b\u044e",
-      "url": "https://open.spotify.com/track/05L0LJID1XtFqzlHm9S744"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
+        "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
+        "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
+      },
+      "artists": [
+        {
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "duration_ms": 136304,
+      "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
+      "url": "https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
         "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
         "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
-        "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
-      },
-      "artists": [
-        {
-          "name": "KRUT\u042c",
-          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
-        }
-      ],
-      "duration_ms": 136304,
-      "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
-      "url": "https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041b\u0435\u0431\u0456\u0434\u043e\u043d\u044c\u043a\u043e",
         "url": "https://open.spotify.com/album/19UW7SaVHmcUDFXhj2webN"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "Made You Up",
-        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
-      },
-      "artists": [
-        {
-          "name": "Tamara Kramar",
-          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
-        }
-      ],
-      "duration_ms": 166245,
-      "name": "Made You Up",
-      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
         "url": "https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 203294,
       "name": "\u041c\u043e\u0457 \u0433\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "Made You Up",
+        "url": "https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "duration_ms": 166245,
+      "name": "Made You Up",
+      "url": "https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s"
     },
     {
       "added_at": "2024-07-12 16:07:22",

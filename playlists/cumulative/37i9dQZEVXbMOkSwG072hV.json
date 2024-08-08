@@ -1675,6 +1675,40 @@
     },
     {
       "album": {
+        "name": "Achei Que Era Pagode",
+        "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
+      },
+      "artists": [
+        {
+          "name": "MC ERYCK HK",
+          "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
+        },
+        {
+          "name": "Digdin",
+          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
+        },
+        {
+          "name": "DJ Tezinho",
+          "url": "https://open.spotify.com/artist/1vQmEkUObXvubDjIJb4Urv"
+        },
+        {
+          "name": "DJ Ferrujo da Serra",
+          "url": "https://open.spotify.com/artist/7yq1E7CCXcq43AcjgYYssR"
+        },
+        {
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        }
+      ],
+      "date_added": "2024-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147727,
+      "name": "Achei Que Era Pagode",
+      "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
+    },
+    {
+      "album": {
         "name": "Achei que era Pagode",
         "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
       },
@@ -6492,40 +6526,6 @@
       "duration_ms": 317340,
       "name": "BEM MELHOR",
       "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
-    },
-    {
-      "album": {
-        "name": "Achei Que Era Pagode",
-        "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
-      },
-      "artists": [
-        {
-          "name": "MC ERYCK HK",
-          "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
-        },
-        {
-          "name": "Digdin",
-          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
-        },
-        {
-          "name": "DJ Tezinho",
-          "url": "https://open.spotify.com/artist/1vQmEkUObXvubDjIJb4Urv"
-        },
-        {
-          "name": "DJ Ferrujo da Serra",
-          "url": "https://open.spotify.com/artist/7yq1E7CCXcq43AcjgYYssR"
-        },
-        {
-          "name": "Mc Priscila",
-          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
-        }
-      ],
-      "date_added": "2024-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 147727,
-      "name": "Bem Vindos a Marconex",
-      "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
       "album": {
@@ -12992,7 +12992,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 174740,
       "name": "Depois que o Sol Raiar",
       "url": "https://open.spotify.com/track/3Ld9N3RyrC9tpEUUH8RsCU"
@@ -34260,6 +34260,24 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Nois J\u00e1 T\u00e1 Rico",
+        "url": "https://open.spotify.com/album/2FNhDzIHJgOxQz6Ru6HxfB"
+      },
+      "artists": [
+        {
+          "name": "Quality Forr\u00f3",
+          "url": "https://open.spotify.com/artist/3VcSRUIwnz79D6XzzEqkhP"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330431,
+      "name": "Nois J\u00e1 T\u00e1 Rico",
+      "url": "https://open.spotify.com/track/07sMt82ZS8ChcQhZ0P098t"
     },
     {
       "album": {

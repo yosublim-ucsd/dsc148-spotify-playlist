@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -14192,7 +14192,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 144057,
       "name": "Gerard",
       "url": "https://open.spotify.com/track/5Wq2dXRkrrBcXIVaU7cejY"
@@ -22210,6 +22210,24 @@
       "duration_ms": 196520,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "album": {
+        "name": "Like A Prayer (From \"Deadpool & Wolverine Trailer\")",
+        "url": "https://open.spotify.com/album/6hNRyrlAwZsAqaNwQUXmPJ"
+      },
+      "artists": [
+        {
+          "name": "Geek Music",
+          "url": "https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218169,
+      "name": "Like A Prayer (From \"Deadpool & Wolverine Trailer\")",
+      "url": "https://open.spotify.com/track/3TxsVS9zyHvlymql2upaXM"
     },
     {
       "album": {
@@ -31720,7 +31738,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 122208,
       "name": "Pink Lemonade (Str8 Reload)",
       "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
@@ -39872,7 +39890,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"

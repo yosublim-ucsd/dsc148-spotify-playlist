@@ -1,15 +1,31 @@
 {
   "description": "The best tracks from the world of music. Cover: Mahalini",
-  "num_followers": 437366,
+  "num_followers": 437406,
   "original_name": "Hot Hits Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqojZAAAAACf6LftL3g4MvQ5la8ceKK9",
+  "snapshot_id": "ZrM1HwAAAAADQgM6jrzVsOoAybUtSAHk",
   "tracks": [
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Salahkan Aku",
         "url": "https://open.spotify.com/album/7vLyFl8C95jJD3u9Df4lhm"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/49scMthrCIQrdoSz5mgyOn"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "Mati-Matian",
-        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 244137,
-      "name": "Mati-Matian",
-      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "penjaga hati",
         "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "drunk text",
         "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Janji",
         "url": "https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Sangkar Derita",
         "url": "https://open.spotify.com/album/16U5ztWQW7Qcy3ZEYlJQbk"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/7HLTEqi7Kis9SIsEB8Icyy"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -181,7 +181,23 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -221,7 +237,47 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -237,7 +293,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
@@ -253,7 +309,7 @@
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -269,23 +325,79 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Ashiap (New Version)",
+        "url": "https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b"
+      },
+      "artists": [
+        {
+          "name": "Atta Halilintar",
+          "url": "https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67"
+        },
+        {
+          "name": "Joe Flizzow",
+          "url": "https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7"
+        },
+        {
+          "name": "MK K-Clique",
+          "url": "https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ"
+        }
+      ],
+      "duration_ms": 206785,
+      "name": "Ashiap - New Version",
+      "url": "https://open.spotify.com/track/1hOHDn1ZCacxzThjn3W6db"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Menjaga Jodoh Orang Lain",
+        "url": "https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Johari",
+          "url": "https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc"
+        }
+      ],
+      "duration_ms": 272972,
+      "name": "Menjaga Jodoh Orang Lain",
+      "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "Bukan Sendiri (From \"Harimau Malaya: The Untold Journey\")",
+        "url": "https://open.spotify.com/album/3hsTPqZBMYwyPSUTRbLGsD"
+      },
+      "artists": [
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "duration_ms": 268341,
+      "name": "Bukan Sendiri - From \"Harimau Malaya: The Untold Journey\"",
+      "url": "https://open.spotify.com/track/2cdHUFkH7E69WTac9boTPc"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "With You (feat. Aswad Anuar)",
         "url": "https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T"
@@ -305,7 +417,7 @@
       "url": "https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -321,7 +433,7 @@
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "coming home",
         "url": "https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE"
@@ -341,7 +453,7 @@
       "url": "https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Infatuated",
         "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
@@ -357,7 +469,23 @@
       "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Jiwa Yang Bersedih",
         "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
@@ -373,7 +501,7 @@
       "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
@@ -393,23 +521,7 @@
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
@@ -425,7 +537,7 @@
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "SOMETHING AIN'T RIGHT",
         "url": "https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh"
@@ -441,7 +553,23 @@
       "url": "https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -461,23 +589,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Kupu - Kupu",
         "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
@@ -493,7 +605,7 @@
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Adangaatha Asuran (From \"Raayan\")",
         "url": "https://open.spotify.com/album/6gcIDhQn4z8318osjgVNME"
@@ -513,7 +625,7 @@
       "url": "https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Sinar Pelangi",
         "url": "https://open.spotify.com/album/5vYx34KJAnkiWJKO78NOzb"
@@ -529,7 +641,7 @@
       "url": "https://open.spotify.com/track/6UMKWjSsXb7GiUyxWKAiKp"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Kita Bikin Romantis",
         "url": "https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo"
@@ -545,7 +657,7 @@
       "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Pujaanku (feat. Aisyah Aziz)",
         "url": "https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ"
@@ -565,7 +677,7 @@
       "url": "https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -581,7 +693,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "15 MINUTES",
         "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
@@ -597,7 +709,7 @@
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
@@ -613,7 +725,7 @@
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
@@ -629,7 +741,7 @@
       "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Angau",
         "url": "https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL"
@@ -645,7 +757,7 @@
       "url": "https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Hasrat (OST Imaginur)",
         "url": "https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU"
@@ -661,7 +773,7 @@
       "url": "https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
@@ -677,7 +789,7 @@
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "CHRONOSPHERE",
         "url": "https://open.spotify.com/album/4bUD7FuNjWluM7QlFxPl45"
@@ -701,7 +813,7 @@
       "url": "https://open.spotify.com/track/1qLdhMIr4aah67C0MhZy12"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
@@ -717,7 +829,7 @@
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -733,7 +845,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -757,7 +869,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Semoga Dipermudahkan",
         "url": "https://open.spotify.com/album/7Fj7rpcLtwQxFIzJDPgaGm"
@@ -789,7 +901,7 @@
       "url": "https://open.spotify.com/track/5nfej3nNDDdT7JHkfZXO0Z"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16"
@@ -805,7 +917,7 @@
       "url": "https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
@@ -821,7 +933,7 @@
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
@@ -841,7 +953,7 @@
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
@@ -861,7 +973,7 @@
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
         "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
@@ -877,7 +989,7 @@
       "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -893,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Cinta Tak Pernah Tepat Waktu",
         "url": "https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32"
@@ -913,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Belum Mulai",
         "url": "https://open.spotify.com/album/039LNwYmsa5hoQPDFbFbcc"
@@ -933,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5MFi8dcCIGTiuUIC2loVQc"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "OMK",
         "url": "https://open.spotify.com/album/4Zlt3S1NUaTrDdT8ZwT2ju"
@@ -953,7 +1065,7 @@
       "url": "https://open.spotify.com/track/63VSYAxNF3tHP6D0N9uQXm"
     },
     {
-      "added_at": "2024-07-31 11:43:31",
+      "added_at": "2024-08-07 08:49:35",
       "album": {
         "name": "Musnah",
         "url": "https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2"
@@ -967,110 +1079,6 @@
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "DEVIL IS A LIE",
-        "url": "https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130944,
-      "name": "DEVIL IS A LIE",
-      "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "the boy is mine (Remix)",
-        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        },
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 213384,
-      "name": "the boy is mine (with Brandy, Monica)",
-      "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "24/7, 365",
-        "url": "https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "24/7, 365",
-      "url": "https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p"
-    },
-    {
-      "added_at": "2024-07-31 11:43:31",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     }
   ],
   "unique_name": "Hot Hits Malaysia",

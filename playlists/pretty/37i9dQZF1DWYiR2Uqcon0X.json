@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723750,
+  "num_followers": 723767,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 205840,
       "name": "20/10 TN",
       "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Giving It All (To You)",
         "url": "https://open.spotify.com/album/5SvZ3PbjCupA7edljacTMc"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 234333,
       "name": "Giving It All (To You)",
       "url": "https://open.spotify.com/track/4dQCgHy1lh24ystDObYXDB"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Crystal Eyes",
         "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Back My Way",
-        "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
-      },
-      "artists": [
-        {
-          "name": "Joey Greer",
-          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
-        }
-      ],
-      "duration_ms": 224966,
-      "name": "Yesterday - live",
-      "url": "https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Nothing New",
         "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 218174,
       "name": "Nothing New",
       "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Back My Way",
+        "url": "https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv"
+      },
+      "artists": [
+        {
+          "name": "Joey Greer",
+          "url": "https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4"
+        }
+      ],
+      "duration_ms": 224966,
+      "name": "Yesterday - live",
+      "url": "https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
+        "name": "Time Is Cold (Coffee House Version)",
+        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 188541,
+      "name": "Time Is Cold (Coffee House Version)",
+      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 212146,
       "name": "I Forget Myself",
       "url": "https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
     },
     {
       "added_at": "2024-07-05 20:46:22",

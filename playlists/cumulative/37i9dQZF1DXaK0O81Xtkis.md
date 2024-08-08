@@ -4,7 +4,7 @@
 
 > make it pop! cover: Suki Waterhouse
 
-1,087 songs - 2 day 6 hr 3 min
+1,088 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Can't Be Lonely](https://open.spotify.com/track/3EVMGW8284h8W1nWovrzKV) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Can't Be Lonely](https://open.spotify.com/album/66AsJKYvkj1qfuPobRF9dq) | 3:09 | 2022-12-16 | 2023-02-11 |
 | [Can't Get Enough](https://open.spotify.com/track/2Vq450y6TsQDrEb7JhwkGv) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Can't Get Enough](https://open.spotify.com/album/6imoV31LQPeosEGAdvjyAJ) | 3:26 | 2023-02-10 | 2023-02-25 |
 | [can't help but let you down](https://open.spotify.com/track/2OvIR6pjKr2NLLYblooT5d) | [beaux](https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj) | [can't help but let you down](https://open.spotify.com/album/47W1B5uaAewHliwpSnGPaH) | 2:36 | 2022-08-26 | 2022-09-24 |
+| [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-08-07 |  |
 | [Capsize](https://open.spotify.com/track/3dVM8JotXWlRZ3TmMweoss) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:39 | 2022-09-16 | 2023-02-11 |
 | [Capsize](https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Capsize](https://open.spotify.com/album/1iwBYzoshPBAXdBKD6DPS1) | 3:39 | 2022-09-16 | 2022-11-12 |
 | [Car Trouble](https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Car Trouble](https://open.spotify.com/album/72HCvZNzt1VB7QjqY1QYVV) | 5:13 | 2024-03-01 | 2024-03-30 |
@@ -353,7 +354,7 @@
 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 | 2023-09-08 | 2024-01-05 |
 | [Glad We Didn't Meet](https://open.spotify.com/track/0WFNSbhvCFNPuAdHfMEQV2) | [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Glad We Didn't Meet](https://open.spotify.com/album/26SFXMuuftdkZmt4E3gEOH) | 2:50 | 2023-02-24 | 2023-05-06 |
 | [GLOW](https://open.spotify.com/track/0i8EbwLvGtg3u9hq896b1A) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW / AGNOSTIC](https://open.spotify.com/album/1bEikzQV0ZKvnYHTzIYjsi) | 2:46 | 2023-10-20 | 2024-01-05 |
-| [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-21 |  |
+| [Glow In The Dark](https://open.spotify.com/track/1V2ND6AWTXlzCnZ1s2klMH) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Glow In The Dark](https://open.spotify.com/album/4aA15kykB2RrixWL4m7MFP) | 2:58 | 2024-06-21 | 2024-08-08 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-05-31 | 2024-07-19 |
 | [Go Go Gadget](https://open.spotify.com/track/0LpqhIXxMm4VGXbybsNyBG) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/4xgOwzb89ZUFQ7U5lYGbcV) | 2:29 | 2022-10-28 | 2023-03-04 |
 | [Go Go Gadget Feat\. Marc E\. Bassy](https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [If Not Now](https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza) | 2:29 | 2022-10-28 | 2022-12-11 |

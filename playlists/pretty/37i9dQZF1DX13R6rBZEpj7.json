@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 220256,
+  "num_followers": 220356,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Pyrophobia",
+      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
         "name": "Easy for them",
         "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Pyrophobia",
-      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "added_at": "2024-07-25 16:06:27",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
-        "name": "Songs Of Praise",
-        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Songs Of Praise - Radio Edit",
-      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 118500,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2024-07-25 16:06:27",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
-        "name": "Change (Remixes)",
-        "url": "https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X"
-      },
-      "artists": [
-        {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Change - bullet tooth Remix",
-      "url": "https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
         "name": "Energy Gang",
         "url": "https://open.spotify.com/album/1Qwg7QFskDE5xt7wKW63C0"
       },
@@ -1151,6 +1131,66 @@
       "duration_ms": 232500,
       "name": "One Ting",
       "url": "https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
+        "name": "Change (Remixes)",
+        "url": "https://open.spotify.com/album/2xKp7GrzlG15zTj2dfiU3X"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Change - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/7ngp1VaSLNoVRUAAwUShnH"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
+      },
+      "artists": [
+        {
+          "name": "Sisko",
+          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
+        "name": "Dapper",
+        "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Cleva Thoughts",
+          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Dapper",
+      "url": "https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG"
     },
     {
       "added_at": "2024-07-25 16:06:27",
@@ -1195,46 +1235,6 @@
       "duration_ms": 289285,
       "name": "Fire & Brimstones Remix",
       "url": "https://open.spotify.com/track/7id8BQbuvLlQs19FKS2vIt"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
-      },
-      "artists": [
-        {
-          "name": "Sisko",
-          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "Dapper",
-        "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Cleva Thoughts",
-          "url": "https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Dapper",
-      "url": "https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG"
     },
     {
       "added_at": "2024-07-25 16:06:27",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
-        "name": "Haters",
-        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Haters",
-      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
       },
@@ -1359,6 +1343,38 @@
     {
       "added_at": "2024-07-25 16:06:27",
       "album": {
+        "name": "IMMACULATE SKANK",
+        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "IMMACULATE SKANK",
+      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
+        "name": "Haters",
+        "url": "https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "Haters",
+      "url": "https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf"
+    },
+    {
+      "added_at": "2024-07-25 16:06:27",
+      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2024-07-25 16:06:27",
-      "album": {
-        "name": "IMMACULATE SKANK",
-        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "IMMACULATE SKANK",
-      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
     }
   ],
   "unique_name": "Bassline Bangers",

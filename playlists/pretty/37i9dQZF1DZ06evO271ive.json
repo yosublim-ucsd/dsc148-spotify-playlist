@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 18764,
+  "num_followers": 18803,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADRNKKlceBjsjOaAur1SY8X",
+  "snapshot_id": "ZrFngAAAAAArDFZeIU+oPSVYtuEtZKPY",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "TTG (Go)",
+      "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Almighty So 2",
         "url": "https://open.spotify.com/album/6xw2hoSzBYynn2dGmERunp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 303000,
       "name": "Grape Trees (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7tE46absMtSeWvESGkNXDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "TTG (Go)",
-      "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bow Bow Bow (F My Baby Dad)",
+        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
+      },
+      "artists": [
+        {
+          "name": "chriseanrock",
+          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 84768,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
         "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bow Bow Bow (F My Baby Dad)",
-        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
-      },
-      "artists": [
-        {
-          "name": "chriseanrock",
-          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 84768,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
     }
   ],
   "unique_name": "This Is Sexyy Red",

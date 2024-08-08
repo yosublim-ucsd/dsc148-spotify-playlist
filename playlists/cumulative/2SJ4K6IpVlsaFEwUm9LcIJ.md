@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-254 songs - 13 hr 17 min
+255 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 | 2024-06-14 | 2024-07-12 |
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
 | [Grey Today](https://open.spotify.com/track/29iOKTPFn88YR889dSMrrH) | [Woody Simmons](https://open.spotify.com/artist/4umiRBYyqrPdYiyuHeYhDy) | [Oregon Mountains](https://open.spotify.com/album/2yKLdPLXBQKuEHqmxNJ78m) | 5:02 | 2024-07-29 |  |
+| [Hackney Carriage](https://open.spotify.com/track/56mhW3y7zNyqMSDMfjSIeu) | [Cedric King Palmer](https://open.spotify.com/artist/6LG2S5JxaoBk1zeY8ujpy1) | [Kpm 1000 Series: Archive Series Volume 1 \- Light Atmospheres](https://open.spotify.com/album/49GCMOquJta60c00taYMZ4) | 1:57 | 2024-08-07 |  |
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2024-01-30 | 2024-03-10 |
 | [Haunted Disco](https://open.spotify.com/track/6qeEKqQXu4ekJT0tjO3ARS) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [PAST FUTUR.e](https://open.spotify.com/album/7C3ISPfAyp060oOmvm0MPb) | 1:56 | 2024-05-30 | 2024-07-12 |
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |

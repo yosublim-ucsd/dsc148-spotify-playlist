@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 124437,
       "name": "Alberca",
       "url": "https://open.spotify.com/track/73xHU7nyAIeaNxdzPlVmeR"
@@ -468,6 +468,28 @@
       "duration_ms": 130280,
       "name": "Embassy",
       "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
+    },
+    {
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/6b6A8FyoZIFCDwfc644b8K"
+      },
+      "artists": [
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/5oKreKhXCnZo8sUNfUUf7v"
     },
     {
       "album": {

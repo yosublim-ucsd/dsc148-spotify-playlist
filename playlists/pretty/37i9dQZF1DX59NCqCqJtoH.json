@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1193516,
+  "num_followers": 1193536,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Pretty Little Devil",
-        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
-      },
-      "artists": [
-        {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
-        }
-      ],
-      "duration_ms": 167690,
-      "name": "Pretty Little Devil",
-      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "I Won't Beg for You",
@@ -103,6 +87,22 @@
       "duration_ms": 123870,
       "name": "I Won't Beg for You",
       "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
     },
     {
       "added_at": "2023-10-07 03:49:56",
@@ -429,6 +429,22 @@
       "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
     },
     {
+      "added_at": "2024-04-15 19:55:58",
+      "album": {
+        "name": "Normalcy",
+        "url": "https://open.spotify.com/album/2KeAQ6PJcEWU5CkkQMZqWg"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 338474,
+      "name": "Normalcy",
+      "url": "https://open.spotify.com/track/24CzSkbSNl94xeIdL3zsWI"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "homies",
@@ -447,22 +463,6 @@
       "duration_ms": 225068,
       "name": "homies",
       "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
-    },
-    {
-      "added_at": "2024-04-15 19:55:58",
-      "album": {
-        "name": "Normalcy",
-        "url": "https://open.spotify.com/album/2KeAQ6PJcEWU5CkkQMZqWg"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 338474,
-      "name": "Normalcy",
-      "url": "https://open.spotify.com/track/24CzSkbSNl94xeIdL3zsWI"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "willow",
-        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 212119,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "willow",
+        "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 212119,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "THE GIRL WILL BE OKAY",
-        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
-      },
-      "artists": [
-        {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
-        }
-      ],
-      "duration_ms": 96125,
-      "name": "THE GIRL WILL BE OKAY",
-      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
-    },
-    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "Suddenly Okay",
@@ -895,6 +879,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "THE GIRL WILL BE OKAY",
+        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 96125,
+      "name": "THE GIRL WILL BE OKAY",
+      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "we were girls together",
-        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 137136,
-      "name": "we were girls together",
-      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "we were girls together",
+        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 137136,
+      "name": "we were girls together",
+      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
     },
     {
       "added_at": "2024-05-10 21:58:08",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 166389,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "grim",
         "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 134885,
       "name": "fragment",
       "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 166389,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/3mLFCocZgUvih60frphM6l"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0"
     },
     {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 192521,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
+    },
+    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Lost",
@@ -1537,22 +1553,6 @@
       "url": "https://open.spotify.com/track/296wnQ0NPmj0hwpdhICSRy"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "it's nothing",
-        "url": "https://open.spotify.com/album/4UD2hj6t8pj1Ek2Jb1h8WU"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 158456,
-      "name": "it's nothing",
-      "url": "https://open.spotify.com/track/7or1RiMHzkng8LPa8CJsbk"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "silhouette",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 192521,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Burden",
@@ -1599,6 +1583,22 @@
       "duration_ms": 145341,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "it's nothing",
+        "url": "https://open.spotify.com/album/4UD2hj6t8pj1Ek2Jb1h8WU"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 158456,
+      "name": "it's nothing",
+      "url": "https://open.spotify.com/track/7or1RiMHzkng8LPa8CJsbk"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1627,6 +1627,22 @@
       "duration_ms": 191118,
       "name": "is your bedroom ceiling bored? (feat. Rxseboy) - Fudasca Remix",
       "url": "https://open.spotify.com/track/3XwEo4mEovAVPd3cNUN4Dy"
+    },
+    {
+      "added_at": "2023-10-16 20:29:38",
+      "album": {
+        "name": "christian core",
+        "url": "https://open.spotify.com/album/4yNBgGfT0GcPTcaEB7VBak"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 148884,
+      "name": "\"I am the light of the world\"",
+      "url": "https://open.spotify.com/track/3d0ODmvpdEnRHwGAaF7w2J"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1661,36 +1677,20 @@
       "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
     },
     {
-      "added_at": "2023-10-16 20:29:38",
-      "album": {
-        "name": "christian core",
-        "url": "https://open.spotify.com/album/4yNBgGfT0GcPTcaEB7VBak"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 148884,
-      "name": "\"I am the light of the world\"",
-      "url": "https://open.spotify.com/track/3d0ODmvpdEnRHwGAaF7w2J"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "did you?",
-        "url": "https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY"
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
       },
       "artists": [
         {
-          "name": "t\u00f8m hughes",
-          "url": "https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 106763,
-      "name": "did you?",
-      "url": "https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC"
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     }
   ],
   "unique_name": "idk.",

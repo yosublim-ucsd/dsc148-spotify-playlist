@@ -2827,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "Crushed By Everyone",
+        "url": "https://open.spotify.com/album/7eZiMrZzSi2oktv44Or1MU"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Out There - The Dare Version",
+      "url": "https://open.spotify.com/track/3nenhYDvVKIM7xTwpRdSr0"
+    },
+    {
+      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -3540,7 +3562,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 196066,
       "name": "Sunshowers",
       "url": "https://open.spotify.com/track/0k2zJrBaalaEO50CdlW4mn"

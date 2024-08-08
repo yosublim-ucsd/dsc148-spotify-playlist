@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 5172,
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "num_followers": 5174,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAC+qhgm09lkHaWkSvqd+MG5",
+  "snapshot_id": "ZrFngAAAAACzqLmaenqjt7GkE3k5jZFt",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Before the Day Breaks",
         "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 265453,
       "name": "Outside, Silence",
       "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     },
     {
       "added_at": null,

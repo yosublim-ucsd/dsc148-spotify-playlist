@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-790 songs - 1 day 10 hr 5 min
+792 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Body And Soul](https://open.spotify.com/track/6DamCHDP65dAx5X9xkiqoQ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA), [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Body And Soul](https://open.spotify.com/album/77myUuQ0VpoOpS9tnXcuu7) | 2:21 | 2021-12-08 | 2022-10-29 |
 | [Bolero Del Sur](https://open.spotify.com/track/0KYaOK0iTCODMZBarRjRm4) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Bolero Del Sur](https://open.spotify.com/album/3q747zMG0IshIwdOYuMzkn) | 3:02 | 2021-12-08 | 2022-05-11 |
 | [bom futuro](https://open.spotify.com/track/77o3LZmP63pViKY4fPFeqF) | [Ilkay Lo](https://open.spotify.com/artist/4zSVCyUaupSJHF5sKlBIo3) | [Valdemossa](https://open.spotify.com/album/0cjTSUufuDFqDPvBA4O1ea) | 3:04 | 2021-12-08 | 2022-05-11 |
+| [Bonanza](https://open.spotify.com/track/3edohA9RKNNDPyKyAmc8tH) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Bonanza](https://open.spotify.com/album/7qtjwbttZC7u2JRg8y1cAO) | 2:48 | 2024-08-07 |  |
 | [Bonheur](https://open.spotify.com/track/3eB5sR72EmZxK05v7vPZII) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Bonheur](https://open.spotify.com/album/2G0OxirfcDmVCGYjeh6WOs) | 2:14 | 2023-03-24 | 2024-05-25 |
 | [Bordeaux](https://open.spotify.com/track/7i0COnt9ofcnJ1bDF8TqMu) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:30 | 2022-04-05 | 2024-06-01 |
 | [Borgen \- Power & Glory \- Main Title Theme](https://open.spotify.com/track/3XMQoS5SqM3m3Gi6MI1fsc) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Borgen \- Power & Glory \- Main Title Theme](https://open.spotify.com/album/7H9f6A7les1SeFQTqvHR52) | 1:33 | 2022-07-22 | 2022-11-18 |
@@ -249,6 +250,7 @@
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2024-05-25 |
 | [Florence](https://open.spotify.com/track/46bbaCvBw1SjuAWcUBz8uY) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [The Big Apple](https://open.spotify.com/album/5Br1o8bRDaTxKBT3H3KSQU) | 3:18 | 2021-12-08 | 2022-07-15 |
 | [flores](https://open.spotify.com/track/1VrBlDCj0N6Z52Bgkksqns) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [flores](https://open.spotify.com/album/4C68gA2Ky4Qlt0K4RcllU3) | 1:35 | 2022-05-27 | 2022-10-07 |
+| [Flutuar](https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Flutuar](https://open.spotify.com/album/38GesdrKsOotrRglt30vK5) | 3:04 | 2024-08-07 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-08 | 2022-07-08 |
 | [Folkestone](https://open.spotify.com/track/3QzgCLR0nGHa2y928KwEyE) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Folkestone](https://open.spotify.com/album/5AWbRAMbpWTYYPBUzowzk3) | 3:18 | 2021-12-08 | 2022-05-11 |
 | [Fontana Di Trevi](https://open.spotify.com/track/6fr60p2j0uzUyYZfxKFIk5) | [Stella Weber](https://open.spotify.com/artist/6eslaIujKjRMowrL76Q4Nu) | [Fontana Di Trevi](https://open.spotify.com/album/3twbRNFI3PS5vjrnmno8g1) | 2:08 | 2021-12-08 | 2024-04-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music! Featuring: <a href=\"https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75_EbuOhDg\"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more. ",
-  "num_followers": 34830,
+  "num_followers": 34827,
   "original_name": "Top Country Hits - Summer 2024 ",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAaMorhRT+e8Xjfr9TuYq271MmgkOCX",
+  "snapshot_id": "AAAaNN/lKpZ+PkP7WZt+O5ul+ei2xUpU",
   "tracks": [
     {
       "added_at": "2024-08-03 00:26:21",
@@ -1511,6 +1511,42 @@
       "duration_ms": 162885,
       "name": "Cowboy Don\u2019t",
       "url": "https://open.spotify.com/track/5qxXv3JWNTTliODO4LZ0V4"
+    },
+    {
+      "added_at": "2024-08-07 15:22:43",
+      "album": {
+        "name": "Actin\u2019 Up Again",
+        "url": "https://open.spotify.com/album/1xAohdDpm2fWc6wVQme0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Actin\u2019 Up Again",
+      "url": "https://open.spotify.com/track/0yLEozWmzp5mGdIPBD4wmP"
+    },
+    {
+      "added_at": "2024-08-07 15:22:50",
+      "album": {
+        "name": "Breakup Over Breakfast",
+        "url": "https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "lose you again (feat. parmalee)",
+      "url": "https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG"
     }
   ],
   "unique_name": "Top Country Hits - Summer 2024 ",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 29624,
+  "num_followers": 29650,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAAKLisLjfBTjCf/oGGE9zw1",
+  "snapshot_id": "ZrFngAAAAAAcdcGjRkJf/ycXVJUB8FQk",
   "tracks": [
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Equipo del Terror",
-        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
+        "name": "Sangre Guerrera",
+        "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
       },
       "artists": [
         {
-          "name": "Betillo Guerrero",
-          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
-        },
-        {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 204313,
-      "name": "El Equipo del Terror",
-      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
+      "duration_ms": 246026,
+      "name": "Sangre Guerrera",
+      "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
     },
     {
       "added_at": null,
@@ -963,22 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre Guerrera",
-        "url": "https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR"
+        "name": "El Equipo del Terror",
+        "url": "https://open.spotify.com/album/4mEOGnlCRNiXndnBapMCgI"
       },
       "artists": [
         {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Betillo Guerrero",
+          "url": "https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y"
         },
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 246026,
-      "name": "Sangre Guerrera",
-      "url": "https://open.spotify.com/track/54xui38HClfOPGWvn5ihxN"
+      "duration_ms": 204313,
+      "name": "El Equipo del Terror",
+      "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
     },
     {
       "added_at": null,

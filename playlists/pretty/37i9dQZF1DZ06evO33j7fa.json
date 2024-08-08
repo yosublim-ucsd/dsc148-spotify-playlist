@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 53098,
+  "num_followers": 53107,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACsQhdTnMtAI9ImMvb4qmVq",
+  "snapshot_id": "ZrFngAAAAAAE8LZiZmLvxu/cIk57i37j",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Mayfair - Cambridge Version",
-      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 131680,
+      "name": "Mayfair - Cambridge Version",
+      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
     },
     {
       "added_at": null,

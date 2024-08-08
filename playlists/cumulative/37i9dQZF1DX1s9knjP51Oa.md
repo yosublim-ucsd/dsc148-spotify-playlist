@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-792 songs - 1 day 9 hr 57 min
+794 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Ozoner](https://open.spotify.com/track/18a9jkAzxb1ooVOCfiBxoZ) | [Solemn Whisper](https://open.spotify.com/artist/0gAUfRBZD1mQlq6QaaJnPq) | [Ozoner](https://open.spotify.com/album/6BKP1295jcSDfcRnlvqIyk) | 3:04 | 2021-12-13 | 2022-07-22 |
 | [Page](https://open.spotify.com/track/02kN88Xc8ks3JiKkGrMNpm) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Page](https://open.spotify.com/album/7tzcbTuaT2q5xltVSk22ZK) | 2:08 | 2021-12-13 | 2023-01-10 |
 | [Papillon](https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc) | [Solène Garnier](https://open.spotify.com/artist/2MJrIZl36H74AdDZyKA5Y1) | [Papillon](https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF) | 3:01 | 2021-12-13 | 2022-08-10 |
+| [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 | 2024-08-07 |  |
 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 | 2021-12-13 | 2023-03-28 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-01-04 | 2023-11-29 |
 | [Passagio](https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Passagio](https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO) | 2:46 | 2023-09-11 |  |
@@ -553,6 +554,7 @@
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2021-12-13 | 2023-04-25 |
 | [Reine de nuit](https://open.spotify.com/track/1moVWeNCxcuAsECoLcnvJL) | [Nadine Allen](https://open.spotify.com/artist/7qHaotpQ8GHMLTbmqOp0s7) | [Reine de nuit](https://open.spotify.com/album/76HeHzKFPFvVLGs4ztFacV) | 3:02 | 2023-01-09 | 2024-02-13 |
 | [Reiu](https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reiu](https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu) | 2:04 | 2023-08-01 | 2024-01-03 |
+| [Remember](https://open.spotify.com/track/3yuxTdPf7Lt55cxz8CCCsr) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Remember](https://open.spotify.com/album/5LhHzYbtjw9rATAomkOmS4) | 2:39 | 2024-08-07 |  |
 | [Remember](https://open.spotify.com/track/41RfvRLI3FvwqERqGKi8Q1) | [Jan Os](https://open.spotify.com/artist/2Mr2YOyJj0TQqVYH88gUwf) | [Remember](https://open.spotify.com/album/1fKNtqjt4cd4XK2j7hRsZp) | 2:23 | 2023-03-13 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2021-12-13 | 2022-07-22 |
 | [Reminiscence](https://open.spotify.com/track/26TFYIn88kzmhy7Db0L0TZ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reminiscence](https://open.spotify.com/album/2rcuYaGNwKxGaOGFnYyMjL) | 2:17 | 2021-12-13 | 2022-07-22 |

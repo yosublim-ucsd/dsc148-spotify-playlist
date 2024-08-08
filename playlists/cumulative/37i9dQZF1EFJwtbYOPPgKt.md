@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 2 hr 38 min
+63 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Wide Eyes](https://open.spotify.com/track/5QyZ1N7SDER4dxQR8UePKU) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Marc Vedo](https://open.spotify.com/artist/5o6l0TdcG1YWhuhJpjXVVh), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i) | [Wide Eyes](https://open.spotify.com/album/4ZOIceLdITz44uj5K0sTMM) | 2:27 | 2024-01-29 |  |
 | [Wolf](https://open.spotify.com/track/03DJP8W9sLyt93E80AVO7c) | [Blinded Hearts](https://open.spotify.com/artist/5uiEF5htEqJgHcOajZ25ns), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Wolf](https://open.spotify.com/album/3r4H7QzflSvBj47ccGKKFl) | 2:31 | 2024-01-29 |  |
 | [You Can't Make Me Come](https://open.spotify.com/track/2lcDK4KtZk20mZCk9SwUHY) | [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK), [LODATO](https://open.spotify.com/artist/2uLjsXkHNJaxZTwVkDZktv), [Quando](https://open.spotify.com/artist/4SIdCNJFkoG5YlECqTNvfk) | [You Can't Make Me Come](https://open.spotify.com/album/5GjE9Xks8TcZ3kFHQ2Vg5p) | 2:09 | 2024-01-29 |  |
+| [You Give Me Something](https://open.spotify.com/track/2pHD1Bf8bNI7irXb3m6DPi) | [Ninski](https://open.spotify.com/artist/5iZQ4hUlybikkKjWv3LuXS), [xoxo](https://open.spotify.com/artist/39TA8es1L8uctnTtB7TBpa), [Ben Attic](https://open.spotify.com/artist/7AtSIkvYZ5VZKGmFYXQJ5B), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [The Beach House](https://open.spotify.com/album/4dpGegCDRiNp7zmjeMkK32) | 3:33 | 2024-08-07 |  |
 | [You've Got That Body](https://open.spotify.com/track/4ZCQr5sN3YGGjuJokJhaQi) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN) | [You've Got That Body](https://open.spotify.com/album/1hwKb2vCmbKze9IpC6ll21) | 2:27 | 2024-01-29 |  |
 | [ZURÜCK ZU DIR](https://open.spotify.com/track/0iAXtySs1LbwnCVCIeCL7h) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [ZURÜCK ZU DIR](https://open.spotify.com/album/6S2SfITnDPl4eDe4TunS9C) | 2:36 | 2024-01-29 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. emily jeffri
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,349 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,330 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 13 | [VOICES](https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOICES](https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh) | 2:43 |
 | 14 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 |
 | 15 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 |
-| 16 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
+| 16 | [MANIAC](https://open.spotify.com/track/4G2GpynFvIC3PJR021p9kQ) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [Sam Matlock](https://open.spotify.com/artist/4gjtyfoRJvu8w6L2s7MrYK) | [MANIAC](https://open.spotify.com/album/3ZmmCt7cIgFr0DuEvsb9aJ) | 3:33 |
 | 17 | [HOUSE FULL OF FAKES](https://open.spotify.com/track/0JV7cWCtX7qGDWNmHbM6YM) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [HOUSE FULL OF FAKES](https://open.spotify.com/album/3OLbjE3KaI4kywWewJ3v4v) | 3:05 |
 | 18 | [POISONOUS](https://open.spotify.com/track/6EgopYXPE6JT3xLc6oUwg0) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [POISONOUS](https://open.spotify.com/album/0PrQ1CHicF8l6f8K1Xcb0L) | 3:14 |
 | 19 | [Stupid \(Can’t run from the urge\)](https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket \(Director's Cut\)](https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy) | 3:04 |

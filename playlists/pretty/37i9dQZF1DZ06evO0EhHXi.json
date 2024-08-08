@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
-  "num_followers": 236162,
-  "original_name": "This Is Ramones",
+  "description": "This is \u30e9\u30e2\u30fc\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 236185,
+  "original_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAAA3YTocvv5TRlYu0A/M/vzn",
+  "snapshot_id": "ZrFngAAAAACgG2+wbjv9PcRsRU7ov7/B",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "I Just Want to Have Something to Do - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pleasant Dreams (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 201893,
       "name": "We Want the Airwaves - 2002 Remaster",
       "url": "https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "I Just Want to Have Something to Do - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 121413,
-      "name": "Teenage Lobotomy - 2017 Remaster",
-      "url": "https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pleasant Dreams (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
       },
@@ -455,22 +439,6 @@
       "duration_ms": 205573,
       "name": "She's a Sensation - 2002 Remaster",
       "url": "https://open.spotify.com/track/1BtZZWaQSLO24CFyi5Wttf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave Home (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 104733,
-      "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
-      "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
     },
     {
       "added_at": null,
@@ -491,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leave Home (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 104733,
+      "name": "Gimme Gimme Shock Treatment - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 115986,
-      "name": "Cretin Hop - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m"
+      "duration_ms": 121413,
+      "name": "Teenage Lobotomy - 2017 Remaster",
+      "url": "https://open.spotify.com/track/6rtYb4BGOlLvcy76N8yFbw"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Do You Remember Rock 'n' Roll Radio? - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2Ck23L2znrPAFiyopqzWUj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leave Home (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "End of the Century (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Do You Remember Rock 'n' Roll Radio? - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2Ck23L2znrPAFiyopqzWUj"
+      "duration_ms": 115986,
+      "name": "Cretin Hop - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m"
     },
     {
       "added_at": null,
@@ -809,6 +809,6 @@
       "url": "https://open.spotify.com/track/7hLzIknDV5aHHcEib9h5nY"
     }
   ],
-  "unique_name": "This Is Ramones",
+  "unique_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi"
 }

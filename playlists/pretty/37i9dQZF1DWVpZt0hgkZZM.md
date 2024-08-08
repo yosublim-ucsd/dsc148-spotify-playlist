@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,073 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,095 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 96 | [Muero por Verla](https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 4:38 |
 | 97 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/6BEFSPf7fEJCWdTtNprn3j) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 3:55 |
 | 98 | [Mil Horas](https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:46 |
-| 99 | [Roberto Ruiz](https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:27 |
-| 100 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 |
+| 99 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 |
+| 100 | [Roberto Ruiz](https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:27 |
 
 Snapshot ID: `ZpG4gwAAAAA8eZ2OUgwoM5LaYsgIOGK3`

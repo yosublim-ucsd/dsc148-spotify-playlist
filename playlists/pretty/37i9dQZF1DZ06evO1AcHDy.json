@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37822,
+  "num_followers": 37815,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACFvRk/t5qlLe3lBSs22lwO",
+  "snapshot_id": "ZrFngAAAAADnQc32ElQCZziJKhp7qetf",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 201060,
+      "name": "XS",
+      "url": "https://open.spotify.com/track/1TWNKyNQOBfNUkWWs7FooF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "saving flowers",
         "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 210785,
       "name": "saving flowers",
       "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 201060,
-      "name": "XS",
-      "url": "https://open.spotify.com/track/1TWNKyNQOBfNUkWWs7FooF"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 181506,
       "name": "Comme Des Gar\u00e7ons (Like The Boys)",
       "url": "https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 195472,
-      "name": "10-20-40",
-      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 203994,
       "name": "STFU!",
       "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 195472,
+      "name": "10-20-40",
+      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 60321,
-      "name": "Time Out - Interlude",
-      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 208128,
       "name": "Bad Friend",
       "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 267369,
+      "name": "Tokyo Love Hotel",
+      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 233901,
       "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
       "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 267369,
-      "name": "Tokyo Love Hotel",
-      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 153466,
-      "name": "Flavour Of The Month",
-      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAWAYAMA",
         "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188399,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
     },
     {
       "added_at": null,

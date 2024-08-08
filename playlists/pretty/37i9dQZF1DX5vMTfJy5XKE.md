@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,252 likes - 192 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,234 likes - 192 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 126 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 2:19 |
 | 127 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2BWyT5JCcvxuHtIIWKeKQ0) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/13HHOC9kdh9ZsB1pz1uj2F) | 2:29 |
 | 128 | [Pure Imagination / Christmas Time Is Here](https://open.spotify.com/track/18QnV6B8oCorqVYkz0Nljp) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:20 |
-| 129 | [Winter Wonderland](https://open.spotify.com/track/0G9OtxxIYXGfOnOz5JgLqX) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas \(Deluxe Edition\)](https://open.spotify.com/album/40e9pazTAllvr1Megh30z1) | 2:32 |
+| 129 | [Winter Wonderland](https://open.spotify.com/track/0G9OtxxIYXGfOnOz5JgLqX) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas \- Deluxe Edition](https://open.spotify.com/album/40e9pazTAllvr1Megh30z1) | 2:32 |
 | 130 | [christmas dream](https://open.spotify.com/track/5rXnCsVZqIajZ7iEGXExbv) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for christmas](https://open.spotify.com/album/0NenoS449ulgwbz6vGx3ui) | 2:30 |
 | 131 | [Wake Up! \(It's Christmas Time\)](https://open.spotify.com/track/5neA7SHia4v59Thx1QpRXs) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Wake Up! \(It’s Christmas Time\)](https://open.spotify.com/album/4dRTI6bNOEP4j6PdghSske) | 2:40 |
 | 132 | [Get Together](https://open.spotify.com/track/26OMlnMpnndXSOhjs1Vrra) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Get Together](https://open.spotify.com/album/4SRd2gQIuLQdBflkMfTX36) | 3:46 |

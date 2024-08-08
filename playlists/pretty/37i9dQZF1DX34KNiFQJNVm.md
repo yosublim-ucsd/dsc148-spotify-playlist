@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado, MC Hariel, Ana Castela e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,481 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,926,797 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 |
-| 2 | [Vida Louca, Bela e Curta \- Ao Vivo](https://open.spotify.com/track/5d5R5A3dkYJGnnOKt68bF5) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Vida Louca, Bela e Curta \(Ao Vivo\)](https://open.spotify.com/album/6X6Cgacb2Un6hj2mxda8Cs) | 5:39 |
+| 2 | [Vida Louca, Bela e Curta \- Ao Vivo](https://open.spotify.com/track/5d5R5A3dkYJGnnOKt68bF5) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Vida Louca, Bela e Curta \- Ao Vivo](https://open.spotify.com/album/6X6Cgacb2Un6hj2mxda8Cs) | 5:39 |
 | 3 | [Menino do Laço Comprido](https://open.spotify.com/track/64DT9yurwvsG2IkOfAk0VM) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Menino do Laço Comprido](https://open.spotify.com/album/2zG13KdgQL8oJEQckH9NJi) | 2:34 |
 | 4 | [Onde Não Pega Celular \- Ao Vivo](https://open.spotify.com/track/68AmUlkcvsTVJHFWxYfvTq) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Búzios Paradise \(Ao Vivo\)](https://open.spotify.com/album/5koBPBJDp7HBm0SLthGSr5) | 2:40 |
 | 5 | [Minha Sorte](https://open.spotify.com/track/2douulle4FjE8uqMualJuV) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Minha Sorte](https://open.spotify.com/album/6dyydVj0V6UjHh2Xfyb1v6) | 2:52 |

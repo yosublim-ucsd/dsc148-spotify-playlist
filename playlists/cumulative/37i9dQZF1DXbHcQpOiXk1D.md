@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: berlioz
 
-619 songs - 1 day 19 hr 49 min
+620 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Hide To Seek](https://open.spotify.com/track/14v0RznQuTisy9dHVoXcbI) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Hide To Seek](https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8) | 4:46 | 2023-11-10 | 2024-06-11 |
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 | 2024-04-12 |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
+| [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-08-02 |  |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 |  |
 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-16 |  |
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 | 2022-11-21 |
@@ -256,7 +257,7 @@
 | [In Love?](https://open.spotify.com/track/3zl67T77tgvJhH1t6uEBEh) | [Neo Arc](https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5), [Eliana Veinberga](https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO) | [In Love?](https://open.spotify.com/album/47C1na3Ftz3r6nSf3k3ste) | 4:34 | 2022-05-12 | 2022-07-15 |
 | [In Power](https://open.spotify.com/track/6K2dFLVk9J3RDOUAVJmc7v) | [Isobella Burnham](https://open.spotify.com/artist/7sVgTKCe6c20wdvFWZqBad) | [Dancin' Garuda](https://open.spotify.com/album/2BzlSev6fEW0bHCXvdAFNQ) | 7:20 | 2022-04-08 | 2023-03-09 |
 | [In The Fire](https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [In The Fire](https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE) | 3:57 | 2024-04-18 | 2024-08-03 |
-| [In The Garden](https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [In The Garden](https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp) | 4:40 | 2024-07-18 |  |
+| [In The Garden](https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII), [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [In The Garden](https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp) | 4:40 | 2024-07-18 | 2024-08-08 |
 | [ina crueler](https://open.spotify.com/track/435lsRWOBWySRYcJ03DX4X) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 3:34 | 2023-09-28 | 2024-02-05 |
 | [Ina Crueler](https://open.spotify.com/track/601p9XbcpwRGFMbkY2HgVY) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [Ina Crueler](https://open.spotify.com/album/3YSL3M37LHDYbiU2r0MXxc) | 3:34 | 2022-11-11 | 2022-12-28 |
 | [India](https://open.spotify.com/track/3v9EdwOJoKeMQsqiQpb8pH) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [India](https://open.spotify.com/album/5Vw736E5xvnzP9NfVIWLu5) | 4:18 | 2021-12-17 | 2022-07-22 |

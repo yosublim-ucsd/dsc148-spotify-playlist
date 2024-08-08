@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Tan Bionica & Airbag",
-  "num_followers": 113533,
+  "num_followers": 113568,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "De La Hoya (En Vivo en el Luna Park)",
-        "url": "https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "De La Hoya - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
         "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
       },
@@ -659,22 +643,6 @@
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Yo Tomo - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -695,6 +663,38 @@
       "duration_ms": 346986,
       "name": "Nike es la Cultura - En Vivo, S\u00e1bado 13 de Diciembre de 2014 / Mendoza",
       "url": "https://open.spotify.com/track/3Q4hJ8NSxwg4NrnjDY2yTg"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "De La Hoya (En Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "De La Hoya - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Yo Tomo - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Veinticirco La Gira (En Vivo)",
         "url": "https://open.spotify.com/album/4njHyaQrxpocOeoZb07LEC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 249742,
       "name": "Kil\u00f3metros - En Vivo",
       "url": "https://open.spotify.com/track/7C1p7RTvxo120n0rauSTuy"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Cosas Que No Se Tocan - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/0FgxJadnECY2W5cvt9tKVg"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "En Vivo-Vol.2",
         "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201293,
       "name": "Me Puedo Programar (En Vivo",
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Todavia No Puedo Olvidarte (En Vivo)",
-        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3venes Pordioseros",
-          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
-        },
-        {
-          "name": "Manuel Moretti",
-          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
-        }
-      ],
-      "duration_ms": 246023,
-      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
-      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Siete Hombres - Una Noche (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/1Zv5TPGdSFu9WEkGnlBB2A"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Todavia No Puedo Olvidarte (En Vivo)",
+        "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3venes Pordioseros",
+          "url": "https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4"
+        },
+        {
+          "name": "Manuel Moretti",
+          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
+        }
+      ],
+      "duration_ms": 246023,
+      "name": "Todav\u00eda No Puedo Olvidarte - En Vivo",
+      "url": "https://open.spotify.com/track/5gDt7Z2AY4Ft0qZVZ51X6y"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Rata Blanca: Luna Park 2019 (En Vivo)",
         "url": "https://open.spotify.com/album/6kmuMZSsLz5rnlXCwp5UgE"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Vivire Viajando",
-        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
-      },
-      "artists": [
-        {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Arde la ciudad",
-      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Fuego (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 286528,
       "name": "Fuego - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+        "name": "Vivire Viajando",
+        "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
+      "duration_ms": 253733,
+      "name": "Arde la ciudad",
+      "url": "https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Huellas Digitales (En Vivo)",
         "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
       },
@@ -1435,18 +1451,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+        "name": "Razzmatazz (En directo)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Razzmatazz (En directo)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "BABYROCK (Vivo Mosc\u00fa)",
+        "url": "https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Julieta - Vivo Mosc\u00fa",
+      "url": "https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
         "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 268960,
       "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
       "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "BABYROCK (Vivo Mosc\u00fa)",
-        "url": "https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh"
-      },
-      "artists": [
-        {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Julieta - Vivo Mosc\u00fa",
-      "url": "https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Amarillo",
-        "url": "https://open.spotify.com/album/5DZ3ZUQ6TezUopA8xkI5Rq"
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
       },
       "artists": [
         {
-          "name": "Sol Bassa",
-          "url": "https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O"
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
         }
       ],
-      "duration_ms": 188347,
-      "name": "Morir por Vos (no puedo) - En Vivo",
-      "url": "https://open.spotify.com/track/0gJBjTI6ijmS7PNxmhshhl"
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     }
   ],
   "unique_name": "Vivo de Rock",

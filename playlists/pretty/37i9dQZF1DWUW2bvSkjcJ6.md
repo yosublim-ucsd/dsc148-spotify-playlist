@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,651 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,704 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 15 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 |
 | 16 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 17 | [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 |
-| 18 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 18 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 19 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 |
 | 20 | [Keine neuen Freunde](https://open.spotify.com/track/0waBUUrLSUnnQFZNJZY5O2) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Keine neuen Freunde](https://open.spotify.com/album/1SjhUZEwhiWQ7H51UGkFm7) | 2:24 |
 | 21 | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/album/2XB5khO6YxUe1LCElGy4NK) | 5:24 |

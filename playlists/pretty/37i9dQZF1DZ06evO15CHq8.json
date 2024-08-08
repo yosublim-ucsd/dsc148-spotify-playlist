@@ -1,12 +1,12 @@
 {
-  "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 599234,
+  "description": "This is $uicideboy$. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 599424,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACA0Hz6p0WWl4P+nQgIiGOf",
+  "snapshot_id": "ZrFngAAAAACNlGa7aj8isgMBMBYEj5EJ",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 139996,
-      "name": "The Light at the End of the Tunnel for $9.99 a Month",
-      "url": "https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH"
+      "duration_ms": 268474,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 268474,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
+      "duration_ms": 139996,
+      "name": "The Light at the End of the Tunnel for $9.99 a Month",
+      "url": "https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gray/Grey",
-        "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "Clouds as Witnesses",
-      "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Want to Die In New Orleans",
         "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+        "name": "Gray/Grey",
+        "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Lte",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+      "duration_ms": 153808,
+      "name": "Clouds as Witnesses",
+      "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 166420,
       "name": "Six Lines, Two Dragons, and a Messiah",
       "url": "https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Lte",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,

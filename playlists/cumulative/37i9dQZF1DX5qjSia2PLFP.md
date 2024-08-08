@@ -4,7 +4,7 @@
 
 > New music breaking waves\. Cover: <a href="spotify:artist:0ocxWXtgr9tJW60xV5ZufT">Isaiah Falls</a>
 
-984 songs - 1 day 21 hr 47 min
+985 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 | 2024-02-23 | 2024-03-16 |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-12-07 | 2023-12-16 |
 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 | 2022-08-12 | 2022-12-31 |
-| [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 |  |
+| [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 | 2024-08-08 |
 | [Die With Pride](https://open.spotify.com/track/4Nj0NamL8w2k2Ei5GKfGIx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [GoodEvil](https://open.spotify.com/album/0INdS3yzG2eFDZwX44rzGE) | 1:52 | 2021-12-01 | 2022-05-21 |
 | [Different Timing \(with Dro Kenji\)](https://open.spotify.com/track/1gKzOctQeJU8bde8JwtUN7) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [oasis](https://open.spotify.com/album/5Uy6LFwOe82Z9rpSOGKfMi) | 2:05 | 2024-02-23 | 2024-03-09 |
 | [diss track maybe](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [diss track maybe](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 | 2023-05-19 | 2023-09-16 |
@@ -818,6 +818,7 @@
 | [SQUIGI](https://open.spotify.com/track/55yFEexblbKZl7HJuGZ9nA) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [PRINCESS POP THAT](https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a) | 1:58 | 2024-04-26 | 2024-05-03 |
 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 | 2024-07-05 |  |
 | [SSwerve Geeked \(with Lil Tony Official\)](https://open.spotify.com/track/7D4tRp3QtrHeyqKxOdxIxt) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [SSwerve Geeked \(with Lil Tony Official\)](https://open.spotify.com/album/0zcG7UJvTvMbwrIOHSkVR6) | 1:37 | 2024-04-19 | 2024-04-27 |
+| [STACKIN PAPE](https://open.spotify.com/track/0c2FsdJyPOfu5KEbWaNEWq) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [STACKIN PAPE](https://open.spotify.com/album/54aRJDB1ohuzrFAl4KtZFP) | 1:48 | 2024-08-07 |  |
 | [Star](https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Star](https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5) | 2:04 | 2024-07-26 | 2024-08-03 |
 | [Stay Strapped \(Freestyle\)](https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3) | [Young Crazy](https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv) | [Stay Strapped \(Freestyle\)](https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl) | 3:09 | 2023-04-28 | 2023-09-30 |
 | [stephanie](https://open.spotify.com/track/3ngowGyxG1ZKzOAfPYqfL1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [stephanie](https://open.spotify.com/album/1VBFEXrp29WLCxPCbtRj7b) | 2:23 | 2024-01-12 | 2024-05-18 |

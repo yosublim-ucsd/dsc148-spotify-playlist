@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 
 > Desde Culiacán, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,298 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,362 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 69 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
 | 70 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 |
 | 71 | [Prefiero Empedarme](https://open.spotify.com/track/0x2DmQvuFXVNHBlPrs4cYC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Prefiero Empedarme](https://open.spotify.com/album/5CxAtFbcNiBzdeSr1RSx0l) | 3:12 |
-| 72 | [Se Me Hizo Facil](https://open.spotify.com/track/5lb0hjc5V9u2cOp6szKL8a) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Me Hizo Facil](https://open.spotify.com/album/4MVWoFmbQjCckBAGB8RoBp) | 2:36 |
+| 72 | [Se Me Hizo Facil \- Live](https://open.spotify.com/track/5lb0hjc5V9u2cOp6szKL8a) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Me Hizo Facil \- Live](https://open.spotify.com/album/4MVWoFmbQjCckBAGB8RoBp) | 2:36 |
 | 73 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
 | 74 | [El Palo Verde/El Pavido Navido \- En Vivo](https://open.spotify.com/track/47z32C4xmChaJ7u44QfoEC) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3m53TM7KpYw1Z99RTQFW2o) | 4:48 |
 | 75 | [La Playa](https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Regresan Los Mafiosos](https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY) | 2:59 |

@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Gepe.",
-  "num_followers": 25683,
+  "num_followers": 25693,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,30 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "AHORA QUE ME VOY",
+        "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
+        },
+        {
+          "name": "Miguel Molina",
+          "url": "https://open.spotify.com/artist/4KTJ0DSgd8xXhaqKpOYH4e"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "AHORA QUE ME VOY",
+      "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Tan solo una se\u00f1al",
         "url": "https://open.spotify.com/album/4PTOkZH8IEFd3Jo4nGsSNr"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 218106,
       "name": "Tan solo una se\u00f1al",
       "url": "https://open.spotify.com/track/7vjeDyZ2oYSbOsIx7ogBbv"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "AHORA QUE ME VOY",
-        "url": "https://open.spotify.com/album/0449a4ZfJtnfK2HONRdBsZ"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
-        },
-        {
-          "name": "Miguel Molina",
-          "url": "https://open.spotify.com/artist/4KTJ0DSgd8xXhaqKpOYH4e"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "AHORA QUE ME VOY",
-      "url": "https://open.spotify.com/track/3Kh2Fcer8m1VIzaMS4fQXl"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El mago y la publicidad",
         "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
       },
@@ -643,18 +659,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+        "name": "Frik",
+        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
       },
       "artists": [
         {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+      "duration_ms": 193911,
+      "name": "Frik",
+      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -695,26 +715,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Frik",
-        "url": "https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65"
-      },
-      "artists": [
-        {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 193911,
-      "name": "Frik",
-      "url": "https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Falso de amor",
         "url": "https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 212911,
       "name": "Falso de amor",
       "url": "https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "La noche ha ca\u00eddo",
-        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 250615,
-      "name": "La noche ha ca\u00eddo",
-      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -795,6 +779,22 @@
       "duration_ms": 226543,
       "name": "PENAS",
       "url": "https://open.spotify.com/track/63joaviht0iheSEokFFzgV"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "La noche ha ca\u00eddo",
+        "url": "https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 250615,
+      "name": "La noche ha ca\u00eddo",
+      "url": "https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Desde mi Ata\u00fad",
-        "url": "https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr"
-      },
-      "artists": [
-        {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        }
-      ],
-      "duration_ms": 198668,
-      "name": "Desde mi Ata\u00fad",
-      "url": "https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Kumbita",
         "url": "https://open.spotify.com/album/3JIk6XcPU89pEsEDLlPAzE"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 186438,
       "name": "Kumbita",
       "url": "https://open.spotify.com/track/4JJVXmoEYUi9ZUMrk00saw"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Desde mi Ata\u00fad",
+        "url": "https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "duration_ms": 198668,
+      "name": "Desde mi Ata\u00fad",
+      "url": "https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "FR\u00c1GIL",
+        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
+      },
+      "artists": [
+        {
+          "name": "Juan Cottet",
+          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Frascuelo",
+      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "FR\u00c1GIL",
-        "url": "https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz"
-      },
-      "artists": [
-        {
-          "name": "Juan Cottet",
-          "url": "https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Frascuelo",
-      "url": "https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Las Luces Que Estaban Ocultas [en vivo]",
         "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "PATA DE PERRA",
-        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Guitarra D\u00edmelo T\u00fa",
-      "url": "https://open.spotify.com/track/3vaqzU9dZBtwWTKI3MsUJd"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Plan Mayor",
         "url": "https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 172725,
       "name": "El Plan Mayor",
       "url": "https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "PATA DE PERRA",
+        "url": "https://open.spotify.com/album/6hUqvWg7adYcRcWLJhJZJO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Guitarra D\u00edmelo T\u00fa",
+      "url": "https://open.spotify.com/track/3vaqzU9dZBtwWTKI3MsUJd"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1371,26 +1371,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Si Me Voy Antes Que Vos",
-        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
       "artists": [
         {
-          "name": "El Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
-        },
-        {
-          "name": "Emiliano Y El Zurdo",
-          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
-        },
-        {
-          "name": "Lu Ferreira",
-          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
       ],
-      "duration_ms": 151564,
-      "name": "Si Me Voy Antes Que Vos",
-      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1415,18 +1407,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "Si Me Voy Antes Que Vos",
+        "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "El Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg"
+        },
+        {
+          "name": "Emiliano Y El Zurdo",
+          "url": "https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey"
+        },
+        {
+          "name": "Lu Ferreira",
+          "url": "https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+      "duration_ms": 151564,
+      "name": "Si Me Voy Antes Que Vos",
+      "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Volc\u00e1n",
-        "url": "https://open.spotify.com/album/0n0iQz8aCLM6Xod7ApHddr"
-      },
-      "artists": [
-        {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Volc\u00e1n",
+        "url": "https://open.spotify.com/album/0n0iQz8aCLM6Xod7ApHddr"
+      },
+      "artists": [
+        {
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/11ghPyvgElco6V1zTobhhH"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Esperarte",
         "url": "https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT"
       },
@@ -1531,6 +1531,26 @@
       "duration_ms": 205266,
       "name": "Esperarte",
       "url": "https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
+      },
+      "artists": [
+        {
+          "name": "Abi Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
+        },
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 258778,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1579,38 +1599,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Canta a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Paloma quiero contarte",
-      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Un Viajecito",
-        "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 282114,
-      "name": "Tonada de Luna Llena",
-      "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Podr\u00eda Ser",
         "url": "https://open.spotify.com/album/1VXacXfFyc0IrqBPHaC76V"
       },
@@ -1623,6 +1611,22 @@
       "duration_ms": 206458,
       "name": "Podr\u00eda Ser",
       "url": "https://open.spotify.com/track/71zKKPiAt3saVxhaMAwvdf"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1647,22 +1651,34 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2P9LDrehwuTIPxyyQpTlOA"
+        "name": "Un Viajecito",
+        "url": "https://open.spotify.com/album/0HidWs8IY9rKFwtuMNm5kr"
       },
       "artists": [
         {
-          "name": "Abi Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/3ZdD1ROrESvZQwaDDEfNsV"
-        },
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
         }
       ],
-      "duration_ms": 258778,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/032IsZRdgIFxxLgDZvxfwU"
+      "duration_ms": 282114,
+      "name": "Tonada de Luna Llena",
+      "url": "https://open.spotify.com/track/69C2N9AXxR0NR05IQuBd8C"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "El Despegue",
+        "url": "https://open.spotify.com/album/4X8fEJ5wHzEBSJrfta3Aji"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Cerquita",
+      "url": "https://open.spotify.com/track/3kURtglEOvd9tVa57xsmns"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 205899,
       "name": "Uruguay",
       "url": "https://open.spotify.com/track/08dK54u6Fx2tJH9fq6iTBA"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "El Despegue",
-        "url": "https://open.spotify.com/album/4X8fEJ5wHzEBSJrfta3Aji"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Cerquita",
-      "url": "https://open.spotify.com/track/3kURtglEOvd9tVa57xsmns"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "LIVE SESSION",
-        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
-      },
-      "artists": [
-        {
-          "name": "Joaquin del Mundo",
-          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Felipa y la Luna",
-      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Que Bla Bla Bla",
         "url": "https://open.spotify.com/album/4ErjkZ5Ma27zv8mLXYbgSo"
       },
@@ -1775,6 +1759,38 @@
       "duration_ms": 264234,
       "name": "Que Bla Bla Bla",
       "url": "https://open.spotify.com/track/2D36TjXROD37O44Ap4Ury9"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "No lo necesito",
+        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol de Diego",
+          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "No lo necesito",
+      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "LIVE SESSION",
+        "url": "https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG"
+      },
+      "artists": [
+        {
+          "name": "Joaquin del Mundo",
+          "url": "https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Felipa y la Luna",
+      "url": "https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1899,18 +1915,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "No lo necesito",
-        "url": "https://open.spotify.com/album/6er8uGoxQtkPzKF5vQnicY"
+        "name": "Arrancar el D\u00eda",
+        "url": "https://open.spotify.com/album/6zQPVrqbDGJQAwBHFA55Hc"
       },
       "artists": [
         {
-          "name": "El \u00c1rbol de Diego",
-          "url": "https://open.spotify.com/artist/23Iy8Fdc1EgIKNypg8LGZW"
+          "name": "Julieta Diaz",
+          "url": "https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF"
+        },
+        {
+          "name": "Diego Presa",
+          "url": "https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT"
         }
       ],
-      "duration_ms": 236480,
-      "name": "No lo necesito",
-      "url": "https://open.spotify.com/track/3lApRCwkvWPB0KZoHy8hxI"
+      "duration_ms": 216684,
+      "name": "Arrancar el D\u00eda",
+      "url": "https://open.spotify.com/track/2ylkfIWfKXb7mTb17GxVhc"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1935,22 +1955,6 @@
       "duration_ms": 206737,
       "name": "Me Late",
       "url": "https://open.spotify.com/track/4bJb1IiYdxU8tQLlRdnqtu"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Abanicos negros",
-        "url": "https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR"
-      },
-      "artists": [
-        {
-          "name": "Bel\u00e9n Cuturi",
-          "url": "https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr"
-        }
-      ],
-      "duration_ms": 162843,
-      "name": "Abanicos negros",
-      "url": "https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf"
     }
   ],
   "unique_name": "Voces del Sur",

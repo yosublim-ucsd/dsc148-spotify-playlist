@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Royal 44\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: MIRANI\(미란이\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-713 songs - 1 day 14 hr 31 min
+714 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [BÔØM](https://open.spotify.com/track/4SZ1dsJGny2WAjKTeDtECD) | [BlueWhale](https://open.spotify.com/artist/1106z5vBDKCXowfWQmOLoX) | [Oh!](https://open.spotify.com/album/0o8Y1LrQ3fKTFzQcfNN9Tf) | 2:50 | 2022-06-27 | 2022-06-30 |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 | 2022-07-24 | 2024-04-12 |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2022-05-05 | 2022-05-07 |
-| [Call Me](https://open.spotify.com/track/4ww8auh0J9AWAgjwWF1n0M) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:40 | 2024-08-01 |  |
+| [Call Me](https://open.spotify.com/track/4ww8auh0J9AWAgjwWF1n0M) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Delphinium](https://open.spotify.com/album/6jdlJrLRWyCnUnKUzhPG2T) | 2:40 | 2024-08-01 | 2024-08-08 |
 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 | 2023-09-27 |  |
 | [Call Me Up \(Feat\. Claire Hau\)](https://open.spotify.com/track/7kbNPLs7bvIkywVodFz3g5) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:22 | 2022-07-14 | 2022-07-19 |
 | [CAMO\_TrenChill K\-Hip Hop](https://open.spotify.com/track/6Ma87EYYI8jXtjdm8KllXT) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [TrenChill K\-Hip Hop Audio Liner](https://open.spotify.com/album/14yjVbmRBeAQ30Ptoa4Dll) | 0:03 | 2023-03-22 |  |
@@ -263,6 +263,7 @@
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
 | [help me out o kill me not](https://open.spotify.com/track/6sdYTTPhLOWVlIg11mgvh7) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:20 | 2024-03-08 | 2024-03-30 |
 | [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-26 | 2024-04-29 |
+| [Hit Me Up \(feat\. MINGI of ATEEZ\)](https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [MINGI of ATEEZ](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [Hit Me Up \(feat\. MINGI of ATEEZ\)](https://open.spotify.com/album/7cUKFAqF0tiOU9Tu0RD460) | 2:18 | 2024-08-07 |  |
 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 | 2023-07-17 | 2023-08-17 |
 | [Hitchhike me \(Feat\. Sik\-K\)](https://open.spotify.com/track/1V4hA20IMYlJ383HwyYKFZ) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [home dance](https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/1vp1KDamSYYyWjhbGzk0vF) | 3:04 | 2022-04-01 | 2022-07-29 |

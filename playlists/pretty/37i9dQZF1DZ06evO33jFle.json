@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 472901,
+  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 472981,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACSMPhplzJ5wYm5EZPAEkFN",
+  "snapshot_id": "ZrFngAAAAADujRlV+9CIIXUIUt1kaVDV",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
+      "duration_ms": 200081,
+      "name": "Sufriendo a Solas - En Vivo",
+      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 200081,
-      "name": "Sufriendo a Solas - En Vivo",
-      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

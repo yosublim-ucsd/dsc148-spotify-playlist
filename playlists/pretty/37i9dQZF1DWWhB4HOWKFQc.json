@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Meiska",
-  "num_followers": 1312749,
+  "num_followers": 1313447,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqvE0wAAAABThHlRIMMz7+CMoSMdIN4W",
+  "snapshot_id": "ZrQFNgAAAAA7xh4lkV3aY6oP6VKc7Spr",
   "tracks": [
     {
       "added_at": "2024-08-01 17:24:34",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-01 17:24:34",
       "album": {
-        "name": "Sweet Melodies",
-        "url": "https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB"
-      },
-      "artists": [
-        {
-          "name": "Myla",
-          "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Under The Same Moon",
-      "url": "https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -75,6 +59,38 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
+        "name": "Sweet Melodies",
+        "url": "https://open.spotify.com/album/2Eaw3jA9SsuntHhN3ouDQB"
+      },
+      "artists": [
+        {
+          "name": "Myla",
+          "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Under The Same Moon",
+      "url": "https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Untungnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -123,6 +139,22 @@
       "duration_ms": 227093,
       "name": "Boleh Juga",
       "url": "https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -227,6 +259,26 @@
     {
       "added_at": "2024-08-01 17:24:34",
       "album": {
+        "name": "Risalah Hati",
+        "url": "https://open.spotify.com/album/0J5QTb6giV74fwg9PxGUHR"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        },
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 345882,
+      "name": "Risalah Hati",
+      "url": "https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -239,6 +291,22 @@
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -275,6 +343,22 @@
       "duration_ms": 247820,
       "name": "Sepenuh Hati",
       "url": "https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd"
+    },
+    {
+      "added_at": "2024-08-01 17:24:34",
+      "album": {
+        "name": "Kini Mereka Tahu",
+        "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 284136,
+      "name": "Kini Mereka Tahu",
+      "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -327,22 +411,6 @@
     {
       "added_at": "2024-08-01 17:24:34",
       "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Untungnya, Hidup Harus Tetap Berjalan",
-      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
         "name": "drunk text",
         "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
       },
@@ -387,22 +455,6 @@
       "duration_ms": 257531,
       "name": "Kisah Tanpa Dirimu",
       "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
-        "name": "Kini Mereka Tahu",
-        "url": "https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 284136,
-      "name": "Kini Mereka Tahu",
-      "url": "https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -589,6 +641,22 @@
       "url": "https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk"
     },
     {
+      "added_at": "2024-08-07 23:37:25",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
       "added_at": "2024-08-01 17:24:34",
       "album": {
         "name": "Set in Stone",
@@ -741,6 +809,22 @@
       "url": "https://open.spotify.com/track/1GwRVDuSn8kQ4ZYPFGgliZ"
     },
     {
+      "added_at": "2024-08-07 23:37:25",
+      "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
       "added_at": "2024-08-01 17:24:34",
       "album": {
         "name": "16 Fantasy",
@@ -795,42 +879,6 @@
     {
       "added_at": "2024-08-01 17:24:34",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
-        "name": "Smeraldo Garden Marching Band (feat. Loco)",
-        "url": "https://open.spotify.com/album/2PcM535knJOZb6MUth8axj"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -843,26 +891,6 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
-        "name": "Risalah Hati",
-        "url": "https://open.spotify.com/album/0J5QTb6giV74fwg9PxGUHR"
-      },
-      "artists": [
-        {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-        },
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 345882,
-      "name": "Risalah Hati",
-      "url": "https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -911,22 +939,6 @@
       "duration_ms": 162739,
       "name": "Daur Hidup",
       "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
-    },
-    {
-      "added_at": "2024-08-01 17:24:34",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2024-08-01 17:24:34",
@@ -1389,6 +1401,22 @@
       "url": "https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC"
     },
     {
+      "added_at": "2024-08-07 23:37:25",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
       "added_at": "2024-08-01 17:24:34",
       "album": {
         "name": "Good Luck, Babe!",
@@ -1467,6 +1495,22 @@
       "duration_ms": 151063,
       "name": "supersonic",
       "url": "https://open.spotify.com/track/6ZumGlqLhkZT5xH1l2OjsC"
+    },
+    {
+      "added_at": "2024-08-07 23:37:25",
+      "album": {
+        "name": "Sambutlah",
+        "url": "https://open.spotify.com/album/5S7RRG7K60iXb0WLcZK9H2"
+      },
+      "artists": [
+        {
+          "name": "The Jeblogs",
+          "url": "https://open.spotify.com/artist/2uGEBoKHco8L9Pbq99iXmv"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Bersandarlah",
+      "url": "https://open.spotify.com/track/5HVdMJpq4YC8CqUOI624AP"
     },
     {
       "added_at": "2024-08-01 17:24:34",

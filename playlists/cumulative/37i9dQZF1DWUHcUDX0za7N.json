@@ -6125,6 +6125,32 @@
     },
     {
       "album": {
+        "name": "One Percent",
+        "url": "https://open.spotify.com/album/4Yykl9GtAiONTgfFQQGuVd"
+      },
+      "artists": [
+        {
+          "name": "H.E.C",
+          "url": "https://open.spotify.com/artist/1YLynmLJiAmfdgGeuSmudq"
+        },
+        {
+          "name": "Hotyce",
+          "url": "https://open.spotify.com/artist/1X9C7PsO7fveD0clZCexU3"
+        },
+        {
+          "name": "Phaemous",
+          "url": "https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185575,
+      "name": "One Percent",
+      "url": "https://open.spotify.com/track/2mKjAQIldbFrUlVyb704vu"
+    },
+    {
+      "album": {
         "name": "Open The Front Door",
         "url": "https://open.spotify.com/album/3s6R1QUm992adma0tFufO6"
       },
@@ -9374,7 +9400,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"

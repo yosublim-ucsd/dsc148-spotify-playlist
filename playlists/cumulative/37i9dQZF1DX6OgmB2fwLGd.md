@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> LUCKI, born and raised on the internet.
+> Dave Blunts\. Born and raised on the internet.
 
 1,054 songs - 1 day 18 hr 54 min
 
@@ -915,7 +915,7 @@
 | [Talk](https://open.spotify.com/track/0ypjMI7vHiDP4sLB1C0Qna) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Talk](https://open.spotify.com/album/7dMwNA2bcmk60N4s27fk5e) | 2:54 | 2022-09-02 | 2023-06-24 |
 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 | 2024-04-03 |  |
 | [talk.](https://open.spotify.com/track/0MQ1IFCxXMXD56f5mkUPav) | [Grav3](https://open.spotify.com/artist/7sBYmhltoznb752w7tli7e) | [talk.](https://open.spotify.com/album/3ulwoPmi0kXzUbOvGuRn8l) | 2:15 | 2024-02-02 | 2024-07-31 |
-| [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-13 |  |
+| [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-13 | 2024-08-08 |
 | [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 | 2024-07-30 |  |
 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 | 2023-01-25 | 2023-06-02 |
 | [TAN](https://open.spotify.com/track/1WDOIn5NLqAstbVjArxKkh) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [TAN](https://open.spotify.com/album/4U6lKEILlMsNsdYjKC6erZ) | 2:31 | 2023-01-27 | 2023-05-06 |

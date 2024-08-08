@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT Killah en portada.",
-  "num_followers": 254545,
+  "num_followers": 254547,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
         "name": "posta",
         "url": "https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "mykonos 2007",
+        "url": "https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "ABHIR",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+      "duration_ms": 205128,
+      "name": "mykonos 2007",
+      "url": "https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -607,38 +623,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "mykonos 2007",
-        "url": "https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi"
-      },
-      "artists": [
-        {
-          "name": "ABHIR",
-          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "mykonos 2007",
-      "url": "https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "Grillz",
         "url": "https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "SIN PERDER, NUNK CUENTA",
-        "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
-      },
-      "artists": [
-        {
-          "name": "STRANGEHUMAN",
-          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "SIN PERDER, NUNK CUENTA",
-      "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "Musiquita Triste",
-        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+        "name": "SIN PERDER, NUNK CUENTA",
+        "url": "https://open.spotify.com/album/50LHRqNoAFdauzswqXWajX"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Musiquita Triste",
-      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
+      "duration_ms": 131200,
+      "name": "SIN PERDER, NUNK CUENTA",
+      "url": "https://open.spotify.com/track/6UsEb9zlBkbU6ZMMFkgkdE"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1131,6 +1131,22 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "Musiquita Triste",
+        "url": "https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Musiquita Triste",
+      "url": "https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
+        "name": "FYAH",
+        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
       },
       "artists": [
         {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
         }
       ],
-      "duration_ms": 166815,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
+      "duration_ms": 202146,
+      "name": "FYAH",
+      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1195,22 +1211,6 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
-        "name": "FYAH",
-        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "FYAH",
-      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "9:15",
-        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "9:15",
-      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "SANDRO",
         "url": "https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP"
       },
@@ -1303,6 +1287,38 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "9:15",
+        "url": "https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "9:15",
+      "url": "https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1355,22 +1371,6 @@
       "duration_ms": 147550,
       "name": "Como Lo Creen",
       "url": "https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "Opciones",
-        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
-      },
-      "artists": [
-        {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
-        }
-      ],
-      "duration_ms": 213444,
-      "name": "Opciones",
-      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
         "url": "https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 206000,
       "name": "A Trav\u00e9s Del Espejo (feat. Kendall Pe\u00f1a & Melanie Espinosa)",
       "url": "https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/0ENevyJtzaagQi1Ndx3mSB"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "duration_ms": 213444,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/06UvaJvHtZTPytXvuCgF3Z"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 244700,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
       },
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/0cBb2v72QQychZ8tuOyWCp"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 244700,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/3J1nlJLXVzSVgVEYhR6zPY"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -1635,6 +1635,22 @@
       "duration_ms": 231724,
       "name": "Te La Dedico",
       "url": "https://open.spotify.com/track/6xAARuLFMtSZhhFERpB7vC"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182967,
+      "name": "TEIDE",
+      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
     },
     {
       "added_at": "2024-08-02 18:03:41",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182967,
-      "name": "TEIDE",
-      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "THICK",
         "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-08-02 18:03:41",
       "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH"
-      },
-      "artists": [
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        }
-      ],
-      "duration_ms": 173941,
-      "name": "Bluedream",
-      "url": "https://open.spotify.com/track/4g5hUHqasYwIXvZMuS5GoZ"
-    },
-    {
-      "added_at": "2024-08-02 18:03:41",
-      "album": {
         "name": "hiErve",
         "url": "https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 150982,
       "name": "hiErve",
       "url": "https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO"
+    },
+    {
+      "added_at": "2024-08-02 18:03:41",
+      "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "duration_ms": 173941,
+      "name": "Bluedream",
+      "url": "https://open.spotify.com/track/4g5hUHqasYwIXvZMuS5GoZ"
     },
     {
       "added_at": "2024-08-02 18:03:41",

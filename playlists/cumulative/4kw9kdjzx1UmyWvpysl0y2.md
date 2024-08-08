@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-786 songs - 1 day 21 hr 4 min
+789 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 | 2023-07-25 |
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |
+| [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-07 |  |
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
@@ -545,6 +546,7 @@
 | [Rawthentic](https://open.spotify.com/track/7hTdAaszcY2o1YpdQuWCV0) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Rawthentic](https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP) | 3:41 | 2024-02-26 | 2024-05-16 |
 | [Rays](https://open.spotify.com/track/72tvo13t5mUarSFhYfU4aG) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Rays](https://open.spotify.com/album/57mAquqvqkTjkPTkpOjAsh) | 2:30 | 2022-05-25 | 2022-08-05 |
 | [Read Your Lips](https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9) | [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Read Your Lips](https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb) | 3:27 | 2021-11-19 | 2022-01-25 |
+| [Ready Now](https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [ary kemler](https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69) | [Ready Now](https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU) | 3:21 | 2024-08-07 |  |
 | [Ready To Love](https://open.spotify.com/track/6RTM82pEYPtRegOTMGz1Ss) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Ready To Love](https://open.spotify.com/album/2OgjdtV1Yx8avKj30CvPpy) | 2:25 | 2023-09-13 | 2024-01-11 |
 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-28 |  |
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-02-02 | 2024-04-24 |
@@ -774,6 +776,7 @@
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-05-08 |
 | [Wild Time](https://open.spotify.com/track/0YX38wDVtPkk7FAOO3wU64) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [Wild Time](https://open.spotify.com/album/1ye5cB0yJ8wLlGoNv4s2qN) | 3:51 | 2022-05-12 | 2022-07-23 |
+| [Wildfire](https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Wildfire](https://open.spotify.com/album/3XFyWwB4yXHSjoRHqNq98y) | 3:40 | 2024-08-07 |  |
 | [Wish You Stayed](https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Wish You Stayed](https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg) | 3:00 | 2022-09-06 | 2022-11-05 |
 | [Wish You Stayed](https://open.spotify.com/track/5Ab3nqZshtBT3LthZf9Kix) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:00 | 2022-11-19 | 2022-11-22 |
 | [wish.](https://open.spotify.com/track/6sWsz6pnVxJmyAw4XsOAMR) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Ellii](https://open.spotify.com/artist/3tWLnX4ZbP9FJfwMykic5e) | [wish.](https://open.spotify.com/album/1jxhvgeN0ZYfYogPpRSVwJ) | 3:26 | 2024-07-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 573507,
+  "num_followers": 573639,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "LOVER",
         "url": "https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 189190,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Amantes (Poolside Remix)",
-        "url": "https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Amantes - Poolside Remix",
-      "url": "https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Amantes (Poolside Remix)",
+        "url": "https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Amantes - Poolside Remix",
+      "url": "https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cortados (Edit)",
-        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Our Way - Edit",
-      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 117454,
       "name": "Alsace",
       "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cortados (Edit)",
+        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Our Way - Edit",
+      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 244723,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Bring On Up Our Love",
         "url": "https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 229565,
       "name": "Bring On Up Our Love",
       "url": "https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 244723,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Disc Me Bro",
-        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Disc Me Bro",
-      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Stick Together",
         "url": "https://open.spotify.com/album/3UM11wSHVaIEZ7Hm54NdqX"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 110062,
       "name": "Stick Together",
       "url": "https://open.spotify.com/track/33LqoBi8OFpACpwLUkNtA1"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Disc Me Bro",
+        "url": "https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Disc Me Bro",
+      "url": "https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
       },
@@ -1675,6 +1651,30 @@
       "duration_ms": 219858,
       "name": "Be with You Tonight",
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Look How Far We've Come",
-        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Look How Far We've Come",
-      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "cabo player",
         "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 139000,
       "name": "cabo player",
       "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Look How Far We've Come",
+        "url": "https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Look How Far We've Come",
+      "url": "https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "In This Life (Cassara Remix)",
-        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Mandy Jones",
-          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
-        },
-        {
-          "name": "Cassara",
-          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "In This Life - Cassara Remix",
-      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U"
       },
@@ -1891,6 +1867,30 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "In This Life (Cassara Remix)",
+        "url": "https://open.spotify.com/album/79dmSRSB2gVvIYaDdAoqhk"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Mandy Jones",
+          "url": "https://open.spotify.com/artist/4Qt2saTXkmEn8Nt9Gkv4UJ"
+        },
+        {
+          "name": "Cassara",
+          "url": "https://open.spotify.com/artist/7d3407kIJjwLd6N4aV4VLi"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "In This Life - Cassara Remix",
+      "url": "https://open.spotify.com/track/2rqlnBqDPUqTOVOhlVh9ew"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Cosmic Fonk",
         "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Type of Girl",
+        "url": "https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ"
+      },
+      "artists": [
+        {
+          "name": "Teilz",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 265161,
+      "name": "Type of Girl Pt. 2",
+      "url": "https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Ordinary Love (Folamour Remix)",
         "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
       },
@@ -1927,6 +1947,26 @@
       "duration_ms": 325706,
       "name": "Ordinary Love - Folamour Remix",
       "url": "https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Beat Of Your Heart",
+        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1967,26 +2007,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Type of Girl",
-        "url": "https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ"
-      },
-      "artists": [
-        {
-          "name": "Teilz",
-          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 265161,
-      "name": "Type of Girl Pt. 2",
-      "url": "https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -2011,22 +2031,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Beat Of Your Heart",
-        "url": "https://open.spotify.com/album/0FemeRyKTEUCQUDiBu7NIL"
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
         },
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Beat Of Your Heart",
-      "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2087,6 +2111,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "FWD (feat. Rudimental & House Gospel Choir)",
         "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
       },
@@ -2107,22 +2147,6 @@
       "duration_ms": 181874,
       "name": "FWD (feat. Rudimental & House Gospel Choir)",
       "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2183,26 +2207,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "If You Need Me",
-        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
+        "name": "Post Tenebras Lux",
+        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
       },
       "artists": [
         {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        },
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 166341,
-      "name": "If You Need Me",
-      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
+      "duration_ms": 232389,
+      "name": "Post Tenebras Lux",
+      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2223,22 +2239,6 @@
       "duration_ms": 352727,
       "name": "So Flute - Blackchild 2024 Remix",
       "url": "https://open.spotify.com/track/2VxLh90vYZi0BssOwGh71p"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Post Tenebras Lux",
-        "url": "https://open.spotify.com/album/62WXhzZbrLVaUrkg5eVqX1"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 232389,
-      "name": "Post Tenebras Lux",
-      "url": "https://open.spotify.com/track/2kiKyF907YzNOQAwYynCpa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2283,26 +2283,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "girlgetdown",
-        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "girlgetdown",
-      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 166289,
       "name": "Studio 54",
       "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "girlgetdown",
+        "url": "https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "girlgetdown",
+      "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Debt",
-        "url": "https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6"
-      },
-      "artists": [
-        {
-          "name": "Schur",
-          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
-        }
-      ],
-      "duration_ms": 139637,
-      "name": "Debt",
-      "url": "https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
@@ -2435,6 +2419,26 @@
       "duration_ms": 337975,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Freeway (with Estelle)",
+        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Freeway (with Estelle)",
+      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
     }
   ],
   "unique_name": "Poolside Disco",

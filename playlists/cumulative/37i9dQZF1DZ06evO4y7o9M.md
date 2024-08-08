@@ -2,7 +2,7 @@
 
 ### [This Is Junior H](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y7o9M)
 
-> This is Junior H\. De viktigaste låtarna samlade i en spellista.
+> This Is Junior H\. Los temas esenciales, todos en una lista.
 
 77 songs - 4 hr 22 min
 

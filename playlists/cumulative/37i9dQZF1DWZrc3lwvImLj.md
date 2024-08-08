@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-425 songs - 18 hr 36 min
+426 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Ruhevoll](https://open.spotify.com/track/3a29LVdJdkqOBNDFnbbqJN) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ruhevoll](https://open.spotify.com/album/3KxGRGWUmnauKY3wXDGqtV) | 2:19 | 2022-05-20 |  |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2021-12-14 | 2022-04-15 |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-03 | 2023-03-08 |
+| [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 | 2024-08-07 |  |
 | [Sanctum Sonar](https://open.spotify.com/track/3uxgJoFbUUUPEVnq00Jw8X) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Sanctum Sonar](https://open.spotify.com/album/2tXnv5H1XHnmOBb1HZy3N1) | 2:38 | 2022-12-21 | 2024-03-20 |
 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 | 2023-11-07 |  |
 | [Saudade \(larmes et sourires\)](https://open.spotify.com/track/62MXCFTb1Ao3t7SH7v5daV) | [Alexander Ardelan](https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R) | [Saudade](https://open.spotify.com/album/2P0LRL1vg6759KzEwnlP9U) | 2:48 | 2022-03-30 | 2022-04-15 |

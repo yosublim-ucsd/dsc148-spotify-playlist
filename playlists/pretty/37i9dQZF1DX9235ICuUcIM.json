@@ -1,6 +1,6 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 311037,
+  "num_followers": 311031,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,22 @@
     {
       "added_at": "2024-06-28 04:59:00",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+        "name": "Odio Que No Te Odio",
+        "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
       },
       "artists": [
         {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+      "duration_ms": 220480,
+      "name": "Odio Que No Te Odio",
+      "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
     },
     {
       "added_at": "2024-06-28 04:59:00",
@@ -755,22 +759,18 @@
     {
       "added_at": "2024-06-28 04:59:00",
       "album": {
-        "name": "Odio Que No Te Odio",
-        "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 220480,
-      "name": "Odio Que No Te Odio",
-      "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2024-06-28 04:59:00",

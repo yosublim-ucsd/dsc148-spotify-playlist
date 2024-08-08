@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,670 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,666 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 46 | [Come On Christmas Time](https://open.spotify.com/track/3mPx20pkw0rGWFmRUBeS9W) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 4:08 |
 | 47 | [frozen halos](https://open.spotify.com/track/1WkBmjGix4TFeAOoWzJLjD) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [frozen halos](https://open.spotify.com/album/6nxmokEb7lvYzorjXzUfYt) | 3:02 |
 | 48 | [\(Christmas\) Stay With Me](https://open.spotify.com/track/5r74NPQSY8to7C0RdsUIS4) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [\(Christmas\) Stay With Me](https://open.spotify.com/album/5fB1YuQPu279DL3Fc2iKrb) | 4:05 |
-| 49 | [Christmas Isn't Christmas](https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 3:15 |
+| 49 | [Christmas Isn't Christmas](https://open.spotify.com/track/2CcKj9jycmP3i4ommID7wL) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Officially Christmas](https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa) | 3:16 |
 | 50 | [Christmas Come Early](https://open.spotify.com/track/2nQbAHSkFjirC0qPgWWelZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 2:59 |
 | 51 | [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 |
 | 52 | [Silent Night](https://open.spotify.com/track/7k0QLj3c1sTVak4yEt3VWc) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [A Very Cozy Christmas](https://open.spotify.com/album/6C4mRN0DaAqdrrZDktAfxJ) | 2:58 |

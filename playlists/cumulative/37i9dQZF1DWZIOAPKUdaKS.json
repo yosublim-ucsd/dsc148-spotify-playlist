@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 188773,
       "name": "am eisernen Steig",
       "url": "https://open.spotify.com/track/6Vy0gvQG1dq7I7yTnNZwiz"
@@ -2202,6 +2202,24 @@
       "duration_ms": 170500,
       "name": "Come close",
       "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
+    },
+    {
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/49QcBTDwd5jQbAyvcgXZhr"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Ohm",
+          "url": "https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/2Vi2f6Hf11vYsoov4Z9HWe"
     },
     {
       "album": {
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 259874,
       "name": "Fils Du Soleil",
       "url": "https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV"
@@ -8822,6 +8840,28 @@
       "duration_ms": 153842,
       "name": "Paisible",
       "url": "https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7"
+    },
+    {
+      "album": {
+        "name": "Paradise Waiting",
+        "url": "https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        },
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225934,
+      "name": "Paradise Waiting",
+      "url": "https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H"
     },
     {
       "album": {
@@ -13852,7 +13892,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 159414,
       "name": "Yesterdays Answer",
       "url": "https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9"

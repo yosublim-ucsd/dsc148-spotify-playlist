@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7860,
+  "num_followers": 7869,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 212168,
       "name": "Back At Your Door",
       "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -427,22 +427,6 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -519,6 +503,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 294945,
       "name": "Babe I'm Gonna Leave You - Extended Version",
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -567,22 +551,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
-      },
-      "artists": [
-        {
-          "name": "Gregory Ackerman",
-          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "When It's Through",
-      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Desert Bride",
         "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
       },
@@ -599,18 +567,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Built And Broken",
-        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2Onw6aYMcdSpuVIzlBVrFU"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
         }
       ],
-      "duration_ms": 268293,
-      "name": "Built And Broken",
-      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+      "duration_ms": 153193,
+      "name": "When It's Through",
+      "url": "https://open.spotify.com/track/62ODYcOsoixBrHGptOgFSH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -631,6 +599,38 @@
       "duration_ms": 229386,
       "name": "I'll Wait Till You're Really Gone",
       "url": "https://open.spotify.com/track/0uJjN27rqC2cJKkBxv4Ivf"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Built And Broken",
+        "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "Built And Broken",
+      "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Fruits Of My Labor",
-        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Fruits Of My Labor",
-      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Fruits Of My Labor",
+        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Fruits Of My Labor",
+      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Life's A Beach & 3 Acoustic Songs",
-        "url": "https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV"
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
       },
       "artists": [
         {
-          "name": "Robert Weston",
-          "url": "https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY"
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
         }
       ],
-      "duration_ms": 203487,
-      "name": "When You Know You Know - Acoustic",
-      "url": "https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH"
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     }
   ],
   "unique_name": "Country & Americana",

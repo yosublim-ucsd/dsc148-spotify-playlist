@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABtf0Ijk6KH2KUwxTPczeCc",
+  "snapshot_id": "ZrFngAAAAABg/Qkb4oRL3ihQIXu35sM7",
   "tracks": [
     {
       "added_at": null,
@@ -264,7 +264,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
     },
     {
       "added_at": null,
@@ -332,7 +332,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
+      "duration_ms": 217440,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
     },
     {
       "added_at": null,

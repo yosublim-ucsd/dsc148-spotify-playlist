@@ -4,7 +4,7 @@
 
 > 
 
-532 songs - 1 day 3 hr 23 min
+533 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-07-20 |
 | [Duffles](https://open.spotify.com/track/1onxwBZxnwONLP81Yll3xj) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [Duffles](https://open.spotify.com/album/4UGAmFNoTM9MTafvLUxDNz) | 3:22 | 2022-04-15 | 2022-07-17 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-02-23 | 2024-07-20 |
+| [Ecstasy](https://open.spotify.com/track/3RJYyVfKWNtvZojZwxIsle) | [Marvin Humes](https://open.spotify.com/artist/5S4Aw94BUuvnKBKOUmsUBn) | [Ecstasy](https://open.spotify.com/album/6rhk5WR27n92prG3t3IVGz) | 2:38 | 2024-07-19 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-31 | 2023-09-22 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-22 | 2024-01-27 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-09-08 | 2024-01-13 |
@@ -239,7 +240,7 @@
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-01-12 |  |
 | [If You Wanna](https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [If You Wanna](https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy) | 3:00 | 2022-04-15 | 2022-07-26 |
 | [In My Arms](https://open.spotify.com/track/3MJWJb6jox2z4W3rb8G8y6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 6:09 | 2023-11-10 | 2024-01-05 |
-| [In My Head \(feat\. Shayan\)](https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [In My Head \(feat\. Shayan\)](https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh) | 2:50 | 2024-07-19 |  |
+| [In My Head \(feat\. Shayan\)](https://open.spotify.com/track/41ftjwBKEn5vjMslWMA195) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [In My Head \(feat\. Shayan\)](https://open.spotify.com/album/0mV5yjkvo3rjFGMhduzsIh) | 2:50 | 2024-07-19 | 2024-08-08 |
 | [In My Heart \- Radio Edit](https://open.spotify.com/track/03LI7dm14DiQLaNeZ3qLYV) | [Charlie Lane](https://open.spotify.com/artist/6J2XuLMx1BB0aYgMuQilGQ) | [In My Heart](https://open.spotify.com/album/0dFlWsA5Ub2x7gIIiUlPKi) | 2:56 | 2022-04-15 | 2022-06-08 |
 | [In The Dark](https://open.spotify.com/track/6P8ljIfKiNlVAao2LJuXnn) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [George Kwali](https://open.spotify.com/artist/29pQjcc1XsJa7Aeezho17b) | [In The Dark](https://open.spotify.com/album/33UvR7NBaVnyYXeRdP3QJ9) | 3:04 | 2022-04-15 | 2022-07-16 |
 | [Is This Love?](https://open.spotify.com/track/2r2ZvX5PNP0MUfUN2HjEjl) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Is This Love?](https://open.spotify.com/album/0t86pk1j7clIlBtzzLNCHV) | 2:24 | 2022-04-15 | 2022-07-29 |

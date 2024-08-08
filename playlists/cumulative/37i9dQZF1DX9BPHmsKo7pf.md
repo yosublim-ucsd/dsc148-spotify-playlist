@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-61 songs - 2 hr 50 min
+62 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 | 2024-07-01 |  |
 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 | 2024-07-01 |  |
 | [Decibeli](https://open.spotify.com/track/0ogZ6EecrYbNQhKIQCCXyz) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Decibeli](https://open.spotify.com/album/5jylDMNyLWXD1Jcgt4GKgA) | 3:54 | 2024-07-01 | 2024-07-16 |
-| [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-15 |  |
+| [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-15 | 2024-08-08 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 |  |
 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 | 2024-07-01 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 |  |
@@ -41,6 +41,7 @@
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-07-23 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
 | [Iubire in Rate](https://open.spotify.com/track/2C2G5bh0reFJh7FgBz9dIP) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Iubire in Rate](https://open.spotify.com/album/6iMotwXkWDRigOW0ZHgRpU) | 2:29 | 2024-07-01 |  |
+| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-07 |  |
 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 | 2024-07-01 |  |
 | [MAZDA](https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 2:30 | 2024-07-01 |  |
 | [METGALA](https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [METGALA](https://open.spotify.com/album/5Vm3is8Nsj5P3yELAkN3Tf) | 3:27 | 2024-07-01 | 2024-07-09 |

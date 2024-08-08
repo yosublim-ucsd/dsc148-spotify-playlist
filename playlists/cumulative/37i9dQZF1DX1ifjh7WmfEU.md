@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-255 songs - 11 hr 15 min
+257 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2022-05-27 |  |
 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 | 2024-07-29 |  |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2022-05-27 | 2024-04-10 |
+| [Little Things](https://open.spotify.com/track/7bw4vSQOFWKbRHheiYctP9) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Little Things](https://open.spotify.com/album/0h87saU9QWMWYSTx3SxB1S) | 2:42 | 2024-08-07 |  |
 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 | 2024-03-05 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2022-05-27 | 2024-03-26 |
@@ -157,7 +158,7 @@
 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 | 2024-05-01 |  |
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-05-27 | 2024-03-26 |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2022-05-27 |  |
-| [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2022-05-27 |  |
+| [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2022-05-27 | 2024-08-08 |
 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
 | [Niyama](https://open.spotify.com/track/1naTK7gcgguEhzFhlP75gH) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Niyama](https://open.spotify.com/album/5I4Ye4hI9UqXtya46Fui0i) | 3:24 | 2022-09-15 |  |
 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2022-07-27 |  |
@@ -212,6 +213,7 @@
 | [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-07-12 |  |
 | [Statuette](https://open.spotify.com/track/5zoMbgXYkKymbUeCWP6p3o) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Statuette](https://open.spotify.com/album/3FH07fFtQxome3Cv8B0PYg) | 3:47 | 2022-05-27 | 2024-04-10 |
 | [Stay By My Side](https://open.spotify.com/track/5kMhF1IhkSty2NFj6LCYJ1) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Stay By My Side](https://open.spotify.com/album/7o9fu8n1lNe3ML4ktRE65U) | 2:13 | 2022-07-27 |  |
+| [Still Yours](https://open.spotify.com/track/4HKlfqgc9zpAzEv4GCnEn9) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Still Yours](https://open.spotify.com/album/2pgj2Jhrw1u9TZuXHwZzvU) | 2:43 | 2024-08-07 |  |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-05-27 | 2022-07-28 |
 | [Subtilité](https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Subtilité](https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s) | 2:55 | 2024-07-15 |  |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2022-05-27 |  |
@@ -259,7 +261,7 @@
 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 | 2022-11-14 | 2023-06-29 |
 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2022-05-27 | 2024-04-10 |
-| [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2022-05-27 |  |
+| [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2022-05-27 | 2024-08-08 |
 | [Without You \- Piano](https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Without You \(Piano\)](https://open.spotify.com/album/0fyycke18sjAPaJ36osEa0) | 2:22 | 2022-07-27 |  |
 | [Without You \- Piano](https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:22 | 2023-04-05 | 2024-04-19 |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2022-05-27 |  |

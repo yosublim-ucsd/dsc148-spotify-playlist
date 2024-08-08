@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Charlie xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,893 likes - 91 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,910 likes - 91 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 |
 | 18 | [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 |
 | 19 | [Zarame](https://open.spotify.com/track/15IHSmxnMk2lp2bg2GzifB) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Zarame](https://open.spotify.com/album/1P4U31PDbQ3yCppNIjf34x) | 4:42 |
-| 20 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb), [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
+| 20 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO), [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
 | 21 | [Bukan Salah Kopi](https://open.spotify.com/track/21rc0KR6kZnPVNFJ4ZJa3b) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA), [Jubing Kristianto](https://open.spotify.com/artist/7eG4BectpbPzbNvVkrWCdD) | [Bukan Salah Kopi](https://open.spotify.com/album/06qo7RWRaUjXJsvaPsMeLA) | 4:11 |
 | 22 | [Bukan Akhir Dunia](https://open.spotify.com/track/30XDroGTzYYVDhHU3NzMWw) | [TANIA](https://open.spotify.com/artist/4b2s00tyEITEmK4nFotlJI), [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Bukan Akhir Dunia](https://open.spotify.com/album/2hiIxjEddgdbFY21qAaLyp) | 4:16 |
 | 23 | [Asal Kau Setia](https://open.spotify.com/track/6HTmI2i0dHqIri9N7zFLB9) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Asal Kau Setia](https://open.spotify.com/album/72ewUTUCGva6ZssfZocK0B) | 3:30 |
 | 24 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 |
 | 25 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 |
-| 26 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [90TAN \(BTOB\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 |
+| 26 | [TANG TANG TANG](https://open.spotify.com/track/5kHVtfzcIIlbQsDUixt788) | [구공탄 \(비투비\)](https://open.spotify.com/artist/5S49V9loYR0Glq8uJM91bs) | [TANG TANG TANG](https://open.spotify.com/album/7KbRFBho6KkcUce18v0Jbe) | 2:32 |
 | 27 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 |
 | 28 | [Messy Girl](https://open.spotify.com/track/6vAdrRJEkTlDmS2MxKPWzC) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Messy Girl](https://open.spotify.com/album/436e9dwX8pSzED7X2s7Fse) | 2:46 |
 | 29 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 |

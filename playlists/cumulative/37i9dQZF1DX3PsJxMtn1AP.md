@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-361 songs - 22 hr 59 min
+362 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 | 2024-04-30 | 2024-07-30 |
 | [La Culebra](https://open.spotify.com/track/5amzhRZcpT9RSkGJVdnlRR) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [La Culebra](https://open.spotify.com/album/7dUAcht0jlp9S3mTCc9ye9) | 3:52 | 2023-03-22 | 2023-05-27 |
 | [Lain \(phone clone\)](https://open.spotify.com/track/2JGvSzxJASZkdGxOVPQ0sP) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:01 | 2023-01-13 | 2023-03-30 |
+| [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 | 2024-08-07 |  |
 | [Les Cançons Romàntiques](https://open.spotify.com/track/7chQoiT4gZveXIbSX5tBHe) | [Josep Xortó](https://open.spotify.com/artist/1pRPhN3DsSugpSb7Fwp91z), [The Congosound](https://open.spotify.com/artist/6cQXSYxqqhrk0XloBmtan4) | [Ocells Com Tu](https://open.spotify.com/album/2EGrqsA5FKXfKdXI085gQB) | 4:08 | 2024-01-11 | 2024-05-04 |
 | [Let her go](https://open.spotify.com/track/3U3ylRKG62HecdbWV0Nm7D) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG), [LUCASV](https://open.spotify.com/artist/4wuJEvClymsGVYXCP00JZB) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 3:02 | 2024-02-02 | 2024-06-01 |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-25 | 2024-01-11 |

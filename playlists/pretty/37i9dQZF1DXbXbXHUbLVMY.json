@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "R\u00f8de Rubin",
-        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
-      },
-      "artists": [
-        {
-          "name": "Plaza",
-          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
-        }
-      ],
-      "duration_ms": 156459,
-      "name": "R\u00f8de Rubin",
-      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ambassador",
         "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "R\u00f8de Rubin",
+        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
+      },
+      "artists": [
+        {
+          "name": "Plaza",
+          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
+        }
+      ],
+      "duration_ms": 156459,
+      "name": "R\u00f8de Rubin",
+      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Medell\u00edn",
         "url": "https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 176000,
       "name": "Medell\u00edn",
       "url": "https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 161258,
       "name": "Ledare",
       "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Fakk love",
-        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "Fakk love",
-      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Palmerna",
         "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 147013,
       "name": "Palmerna",
       "url": "https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Fakk love",
+        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 124750,
+      "name": "Fakk love",
+      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "MANDANA",
-        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        }
-      ],
-      "duration_ms": 123149,
-      "name": "MANDANA",
-      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "MANDANA",
+        "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "duration_ms": 123149,
+      "name": "MANDANA",
+      "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Kvar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 161666,
       "name": "Kvar - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "added_at": "2024-07-18 22:00:00",

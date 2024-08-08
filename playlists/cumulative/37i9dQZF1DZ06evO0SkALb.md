@@ -2,9 +2,9 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This is Lou Rawls\. Todos os maiores hits em uma só playlist.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 53 min
+112 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Groovy People](https://open.spotify.com/track/0OQiL1dLxtDWYIPiVV4rcq) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 3:18 | 2022-05-25 |  |
 | [How Long, How Long Blues](https://open.spotify.com/track/5hTqlBptemLV2heH622E4X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Great Gentlemen Of Song / Spotlight On Lou Rawls](https://open.spotify.com/album/0ShsS7Pjej9Wc1MRJzgoGX) | 4:22 | 2024-04-23 | 2024-06-06 |
 | [I Can't Make It Alone](https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 3:01 | 2022-05-30 | 2024-05-09 |
-| [I Go Crazy](https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:52 | 2022-10-11 |  |
+| [I Go Crazy](https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Shades of Blue](https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN) | 3:52 | 2022-10-11 | 2024-08-08 |
 | [I Just Want To Make Love To You](https://open.spotify.com/track/5pGeEPpwJiFyvBbKGBZcKZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:09 | 2022-12-25 | 2022-12-27 |
 | [I Wish It Were Yesterday](https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:27 | 2022-09-19 |  |
 | [I'd Rather Drink Muddy Water](https://open.spotify.com/track/4I677Lz5xosfi7M4k3nsF9) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:55 | 2022-09-11 | 2022-10-06 |
@@ -56,6 +56,7 @@
 | [Lady Love](https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:02 | 2022-05-25 |  |
 | [Let Me Be Good to You](https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 5:25 | 2022-05-25 |  |
 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 | 2022-05-25 |  |
+| [Let's Clean Up the Ghetto \- 12" Version](https://open.spotify.com/track/4CFKakGoXoktsSKm5UENzf) | [The Philadelphia International All\-Stars](https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Archie Bell](https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK) | [Ain't No Stoppin' Us Now: 50 Years of P.I.R.](https://open.spotify.com/album/3GBrRUMKcWG1noKGeW2LLc) | 8:41 | 2024-08-08 |  |
 | [Let's Fall In Love All Over Again](https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:00 | 2022-06-20 | 2022-09-15 |
 | [Lifetime Monologue \- Remastered](https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Edge: David Axelrod At Capitol Records 1966\-1970](https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K) | 1:51 | 2022-08-17 | 2024-05-21 |
 | [Love Is A Hurtin' Thing](https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:14 | 2022-05-25 |  |

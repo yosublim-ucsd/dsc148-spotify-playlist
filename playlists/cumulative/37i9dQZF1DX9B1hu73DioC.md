@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for park hangs, summer get togethers, or self care.
 
-800 songs - 1 day 23 hr 40 min
+802 songs - 1 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-17 |  |
 | [Baby Forgive Me](https://open.spotify.com/track/4WONLwwoPAgAvVGeU5mo8I) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/0CQ68SLY0B5e6L1rn8jfkc) | 4:16 | 2020-10-05\* | 2022-04-21 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2020-10-05\* |  |
-| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-08-11 |  |
+| [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 | 2023-08-11 | 2024-08-08 |
 | [Back of My Hand](https://open.spotify.com/track/3iyq3JgucI2SvbrlYzDzKs) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Doomin’ Sun](https://open.spotify.com/album/7bfialTRQQRpzjqn7s7cJY) | 3:29 | 2021-06-04 | 2022-04-19 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-11 | 2024-04-19 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-08-11 | 2023-08-14 |
@@ -104,6 +104,7 @@
 | [Better](https://open.spotify.com/track/32T61xmNSIXhGkEszzs0t8) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Better \(SG Lewis x Clairo\)](https://open.spotify.com/album/2lZmVu1fNVLtqPyhRiDdsd) | 3:13 | 2020-10-16 | 2022-04-21 |
 | [Better in the Dark](https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s) | 2:35 | 2024-03-21 |  |
 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 | 2022-03-07 | 2022-07-25 |
+| [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 | 2024-08-07 |  |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2023-03-10 | 2023-09-16 |
 | [Birthday](https://open.spotify.com/track/3IxeYgwfz5pmzuroWAzOTE) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Birthday](https://open.spotify.com/album/43OhxC7N3rmDAzt3aIvUSM) | 3:47 | 2020-10-05\* | 2020-10-06 |
 | [Bitter](https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 3:53 | 2022-06-01 |  |
@@ -256,6 +257,7 @@
 | [Fast Lovers](https://open.spotify.com/track/2x66KY9ZtoZsMv4z6KgLkV) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Fast Lovers](https://open.spotify.com/album/5jx4Wd5TNwMvDfNCANHlHm) | 2:55 | 2020-10-05\* | 2020-10-06 |
 | [Feels Like I'm Flying](https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Feels Like I'm Flying](https://open.spotify.com/album/6qjchU3qtiwl1TJfM2Pgru) | 2:35 | 2021-11-19 | 2022-04-21 |
 | [Ferris Wheel](https://open.spotify.com/track/0zX1fnVFXWE0zBSwoppHeg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Ferris Wheel](https://open.spotify.com/album/1voUvjiiXNLPjCB7XGzgri) | 3:05 | 2021-06-25 | 2022-06-22 |
+| [FIJI \(feat\. Cruza\)](https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [FIJI \(feat\. Cruza\)](https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi) | 2:54 | 2024-08-07 |  |
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2020-10-16 | 2023-07-08 |
 | [Fire Of Mercy](https://open.spotify.com/track/6oDHOPYBOGjrRYM3QMxznO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy](https://open.spotify.com/album/4MxTYuvXTiZpKH0nnzcu7V) | 3:59 | 2023-08-11 | 2023-09-16 |
 | [Fish Maan](https://open.spotify.com/track/6osmPkzt0Ap9LA9lta3rOV) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Fish Maan](https://open.spotify.com/album/0LgNeIrO1osf37UbuW1BIa) | 1:49 | 2023-03-10 | 2023-04-15 |
@@ -395,7 +397,7 @@
 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2023-03-15 | 2023-06-17 |
 | [jelly filled coffin](https://open.spotify.com/track/3TUGY659W6pCMtELPq1NIX) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [jelly filled coffin](https://open.spotify.com/album/7hAkHtaLHG76EBiacrlw0D) | 2:48 | 2022-06-01 | 2022-06-08 |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2023-02-17 | 2023-05-27 |
-| [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-17 |  |
+| [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-17 | 2024-08-08 |
 | [joyride](https://open.spotify.com/track/4z8MoMsTria5Qeleo3Lofc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [joyride](https://open.spotify.com/album/4vYED95AUSC3WxDntWw7vU) | 3:05 | 2022-03-07 | 2022-04-21 |
 | [June](https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [June](https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw) | 2:39 | 2021-08-27 | 2022-04-21 |
 | [keep going](https://open.spotify.com/track/0W3JF6MImoncSOnmJhMxbY) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [keep going](https://open.spotify.com/album/6RnVNmtxqtKbG4DcccX0Nm) | 2:52 | 2021-05-05 | 2022-07-28 |

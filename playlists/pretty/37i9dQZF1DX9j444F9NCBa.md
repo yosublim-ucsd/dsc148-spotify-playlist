@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,902 likes - 300 songs - 15 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,240 likes - 300 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 252 | [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 |
 | 253 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 |
 | 254 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 |
-| 255 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
+| 255 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \- Solo Piano Version](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 256 | [A Sky Full Of Stars \- Piano Version](https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:35 |
 | 257 | [Bad Habits](https://open.spotify.com/track/5NNwshgwlk2hv22aj1e1mn) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Heat Waves](https://open.spotify.com/album/35CwbLjLIbN9jq1Mi369w7) | 3:13 |
 | 258 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 |

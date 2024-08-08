@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Les Hay Babies
 
-2,709 songs - 6 day 0 hr 0 min
+2,710 songs - 6 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 | 2022-07-08 | 2022-07-30 |
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-19 | 2024-06-08 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-08-02 |  |
+| [AH T'ES DANS CA](https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [A la bien mix party \- 10 ans après](https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx) | 3:03 | 2024-08-02 |  |
 | [Ailleurs](https://open.spotify.com/track/44UzxavsbtsP9FW2xVpuvz) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Eman](https://open.spotify.com/artist/0yqE9TqhKhWiUEeas8Z0hJ), [Webster](https://open.spotify.com/artist/28PFzVunbZTdeOjTBRzMTK), [Soké](https://open.spotify.com/artist/4HYe7OSSq29AU6g2szcIWI) | [Marième](https://open.spotify.com/album/0imKDEWMsjlhf0SjOWjg1z) | 4:40 | 2022-03-25 | 2022-04-09 |
 | [Aime\-toi comme ça](https://open.spotify.com/track/5SzGHd14DCHNBwQkIn3sjK) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Aime\-toi comme ça](https://open.spotify.com/album/5k9tDcwpT4GITmyCMLUA57) | 3:42 | 2023-01-27 | 2023-02-11 |
 | [Aimer](https://open.spotify.com/track/3LIdRcfjA2nn1bLM7wAq4z) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Aimer](https://open.spotify.com/album/6fJrA0J05Xi8BTD7TorvAT) | 3:39 | 2022-09-16 | 2022-09-24 |
@@ -1665,7 +1666,7 @@
 | [Mon jauné](https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Mon jauné](https://open.spotify.com/album/0PXL8hSka7EKM9IO4ijtwD) | 3:18 | 2023-08-25 | 2023-10-07 |
 | [Mon petit chemin](https://open.spotify.com/track/3CSyQthkPOLOLXVmdYvHpL) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 3:10 | 2023-02-03 | 2023-02-18 |
 | [Mon sang](https://open.spotify.com/track/4x6YcJgEFXLZiCYkaexWYA) | [Bønanza](https://open.spotify.com/artist/1gfTnzN2xB9VkU72PkBB30) | [Prince Limonade](https://open.spotify.com/album/6TfxUEEZnlT5xXyCQS1H3M) | 2:19 | 2022-10-14 | 2022-10-29 |
-| [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 |  |
+| [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-12 | 2024-08-08 |
 | [Monalisa](https://open.spotify.com/track/0Y5f4WhEaaEBBiIJ94mOnX) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Prince Amine](https://open.spotify.com/artist/0VFVWl6dkb5b7rLn8AYSY4) | [Monalisa](https://open.spotify.com/album/41T5Beaejz8cXcOJbQuHEL) | 3:44 | 2021-12-31 | 2022-01-05 |
 | [Money](https://open.spotify.com/track/0SikEhDPgpcn0Tddh4MTqe) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/1oqa08Osm4PvNyHNFVeULx) | 3:17 | 2023-04-28 | 2023-06-17 |
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-03 |

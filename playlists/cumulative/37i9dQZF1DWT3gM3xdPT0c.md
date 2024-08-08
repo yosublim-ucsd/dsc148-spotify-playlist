@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-351 songs - 15 hr 8 min
+352 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2023-08-26 |
 | [Summer Meadow](https://open.spotify.com/track/6UKFsigRaBGHiUZWUa8HC9) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [Summer Meadow](https://open.spotify.com/album/0fg4CB6idg4C2PrgnsOSbC) | 2:35 | 2024-07-19 |  |
+| [Summer Rain](https://open.spotify.com/track/3Q3cJemxjTRoQmtyn6EXA8) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Summer Rain](https://open.spotify.com/album/24TN7V6RyqjbrrAshiq5hr) | 2:39 | 2024-08-07 |  |
 | [Sunbeam](https://open.spotify.com/track/5qDr76MRaLPELK9SGKHYu4) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Sunbeam](https://open.spotify.com/album/2PIMTYAFnWmmoBv1cmfTsd) | 2:52 | 2023-08-09 |  |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-03-04 | 2022-11-18 |
 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 | 2024-07-19 |  |

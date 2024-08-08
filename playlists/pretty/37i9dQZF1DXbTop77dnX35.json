@@ -1,6 +1,6 @@
 {
   "description": "New Music from Psycho YP, Magixx, Jeriq and more ",
-  "num_followers": 72829,
+  "num_followers": 72904,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
@@ -271,7 +271,7 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+        "name": "Slow Down (feat. Future, Fridayy, & Mariah the Scientist)",
         "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
       },
       "artists": [
@@ -280,12 +280,12 @@
           "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
           "name": "Mariah the Scientist",
@@ -293,7 +293,7 @@
         }
       ],
       "duration_ms": 237623,
-      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+      "name": "Slow Down (feat. Future, Fridayy & Mariah the Scientist)",
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {

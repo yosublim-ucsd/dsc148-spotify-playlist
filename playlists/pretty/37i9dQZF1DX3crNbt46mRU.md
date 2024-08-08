@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,546 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,550 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 17 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 |
 | 18 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
 | 19 | [du tust mir nicht gut :/](https://open.spotify.com/track/4ub93YFTVK5FKO7imGkeZ1) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [du tust mir nicht gut :/](https://open.spotify.com/album/3WP0jBoxGw6dpXDfx9wZUF) | 2:32 |
-| 20 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 20 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 21 | [Lelele](https://open.spotify.com/track/0muO7tqyI3iobGiQXg7Ee2) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Lelele](https://open.spotify.com/album/6tnO0tK0bNYaunBSX1lj25) | 2:47 |
 | 22 | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/track/6PADTtmPxErC0MsgZx3Udr) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [Godspeed \(feat\. DJ E\-Clyps\)](https://open.spotify.com/album/2XB5khO6YxUe1LCElGy4NK) | 5:24 |
 | 23 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 |

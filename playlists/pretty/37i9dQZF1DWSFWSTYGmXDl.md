@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,600 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,594 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 79 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 |
 | 80 | [Winter Song](https://open.spotify.com/track/4w25Oe4FGmHoT8PtPMACow) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/71FSyboE4QVkjrILNCus2m) | 4:21 |
 | 81 | [By Christmas Eve](https://open.spotify.com/track/2QM6q2L4bZHW2evhAjxOrS) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:51 |
-| 82 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 |
+| 82 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:16 |
 | 83 | [Oh Holy Night \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles \- Christmas](https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM) | 3:47 |
 | 84 | [Red Dress](https://open.spotify.com/track/6Owqkp5aWfFy5wkkvw9ZTW) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [Red Dress](https://open.spotify.com/album/0lfxIAy2huamkPZ1xjutcZ) | 3:26 |
 | 85 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 |

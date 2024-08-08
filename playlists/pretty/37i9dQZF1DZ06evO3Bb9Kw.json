@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 170179,
+  "num_followers": 170185,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABQIyv2eRYhG2e1cKQRmbD4",
+  "snapshot_id": "ZrFngAAAAABi6DybyQ2yYKKwPouWivHT",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Horses (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Waxahachie",
+      "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 330693,
       "name": "Smokin' and Drinkin' (feat. Little Big Town)",
       "url": "https://open.spotify.com/track/13keyz9ikBe6ZpRasw7l4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Waxahachie",
-      "url": "https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 169600,
       "name": "5 milion\u00f3w influencerek",
       "url": "https://open.spotify.com/track/5iQbpxi3Oquf2ELA6vIFur"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -12048,7 +12048,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 153620,
       "name": "FRIED",
       "url": "https://open.spotify.com/track/7Lfwb4IjZiNYGuqtP65kIc"
@@ -30145,6 +30145,24 @@
     },
     {
       "album": {
+        "name": "RED BULL 64 BARS",
+        "url": "https://open.spotify.com/album/1DTlisrDAKLoCG5TBj2lnE"
+      },
+      "artists": [
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207337,
+      "name": "RED BULL 64 BARS",
+      "url": "https://open.spotify.com/track/4zQVuHIZnQryGz0qdWkrck"
+    },
+    {
+      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/6Xn69ub1xLQzXQVe5feCaH"
       },
@@ -35230,7 +35248,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"

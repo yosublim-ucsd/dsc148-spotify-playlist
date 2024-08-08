@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11345,
+  "num_followers": 11358,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 124751,
-      "name": "MINISKIRT",
-      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "La Meme Tape",
         "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 201115,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 124751,
+      "name": "MINISKIRT",
+      "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Love Is Contagious",
+        "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 84346,
+      "name": "Wishes And Butterflies",
+      "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "WINNY",
         "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
       },
@@ -971,42 +987,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Mondays",
-        "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
-      },
-      "artists": [
-        {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Mafeni",
-          "url": "https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs"
-        }
-      ],
-      "duration_ms": 134295,
-      "name": "Mondays",
-      "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Love Is Contagious",
-        "url": "https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 84346,
-      "name": "Wishes And Butterflies",
-      "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 237532,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "Mondays",
+        "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Mafeni",
+          "url": "https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs"
+        }
+      ],
+      "duration_ms": 134295,
+      "name": "Mondays",
+      "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
     },
     {
       "added_at": "2024-06-24 06:54:45",

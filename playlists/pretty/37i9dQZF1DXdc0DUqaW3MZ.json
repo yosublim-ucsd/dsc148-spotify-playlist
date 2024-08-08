@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 346760,
+  "num_followers": 346812,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -775,18 +791,38 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+        "name": "High",
+        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -815,58 +851,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Things You Didn't Know",
-      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Shaken To My Soul (feat. Ruti)",
         "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Things You Didn't Know",
+      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Twin Flame",
         "url": "https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 143807,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "U Lyk My Style",
+        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "U Lyk My Style",
+      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1043,22 +1059,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "U Lyk My Style",
-        "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "U Lyk My Style",
-      "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Say Yes (feat. Rona Ray)",
-        "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 157134,
-      "name": "Say Yes (feat. Rona Ray)",
-      "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Say Yes (feat. Rona Ray)",
+        "url": "https://open.spotify.com/album/3ZpyFFA6SMx5oIlXlhRcCx"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 157134,
+      "name": "Say Yes (feat. Rona Ray)",
+      "url": "https://open.spotify.com/track/5gUVHfISusTqmRZNiTnjpu"
     },
     {
       "added_at": "2024-07-26 09:47:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,176 likes - 118 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,173 likes - 118 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 37 | [Pertikaian](https://open.spotify.com/track/331chPpMXfm8klgSOWguIy) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Pertikaian](https://open.spotify.com/album/0vHKa2SBkehvvcwbieUuLz) | 5:07 |
 | 38 | [Malam Biru](https://open.spotify.com/track/0dPZRzIVqBlXJluOGOyRFW) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Malam Biru](https://open.spotify.com/album/1IXD6scCPR16lgCHSWpuhB) | 2:50 |
 | 39 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 |
-| 40 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb), [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
+| 40 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO), [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
 | 41 | [3..2..1](https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [3..2..1](https://open.spotify.com/album/3O0PRgNKpvjVgCbGvaA4rg) | 3:23 |
 | 42 | [Ruined Me](https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Ruined Me](https://open.spotify.com/album/0Hi581Qo6fy4xbe2vDgQJV) | 3:16 |
 | 43 | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/track/0p9mxMFcxh3xYz2ZhMPg65) | [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [She Mih \(Shimmy Shimmy\)](https://open.spotify.com/album/5KzDAHQOSpYt6e3JRrPWth) | 2:39 |

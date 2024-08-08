@@ -2,7 +2,7 @@
 
 ### [This Is Iron Maiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KIUZW)
 
-> This is Iron Maiden\. The essential tracks, all in one playlist.
+> This is Iron Maiden\. Tutti i brani in un'unica playlist.
 
 66 songs - 6 hr 50 min
 

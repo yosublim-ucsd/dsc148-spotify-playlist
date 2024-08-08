@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,024 songs - 2 day 8 hr 11 min
+1,025 songs - 2 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [La Vida Fluyendo](https://open.spotify.com/track/6xpmIYtg4RXwX3ylFmtICy) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [La Vida Fluyendo](https://open.spotify.com/album/4H468crA01kw8seGBrw7WC) | 4:33 | 2024-05-31 | 2024-06-12 |
 | [La última vez](https://open.spotify.com/track/15BrZd5LE3KZcBFl57n6Ri) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [iCandy](https://open.spotify.com/album/2YKzK9SWgedjJX1CLjVv0T) | 2:25 | 2024-05-10 | 2024-05-18 |
 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 | 2024-06-21 | 2024-06-29 |
+| [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-07 |  |
 | [Laced](https://open.spotify.com/track/4hE1kYNJgTUqcCFwE6NSZe) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [II](https://open.spotify.com/album/2g6RvnZBcqrMqStFZTSDD8) | 4:18 | 2024-07-05 | 2024-07-13 |
 | [Las Olas](https://open.spotify.com/track/3DSNcYlsUztt0wzILGo6ce) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Las Olas](https://open.spotify.com/album/0WkB8a54VvGW34BIuJ6kWY) | 4:12 | 2024-07-05 | 2024-07-13 |
 | [leaving alone](https://open.spotify.com/track/2yFcEXMsZUdCy5duK5pL4G) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [leaving alone](https://open.spotify.com/album/1yZpLxpsOLjJ9VqhJYDpkE) | 2:47 | 2024-04-26 | 2024-05-10 |

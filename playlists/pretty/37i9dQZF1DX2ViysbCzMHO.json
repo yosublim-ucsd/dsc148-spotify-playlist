@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 157011,
+  "num_followers": 157054,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Take A Back Road (Acoustic)",
+        "url": "https://open.spotify.com/album/2yldPR227e9ZOeiLRoRtEX"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "Take A Back Road (Acoustic)",
+      "url": "https://open.spotify.com/track/5BAigYcDzL24KI3KpXJKyS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "WHAT I HAVE",
         "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 178681,
       "name": "WHAT I HAVE",
       "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Heartbreaker (Acoustic)",
-        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Acoustic",
-      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Heartbreaker (Acoustic)",
+        "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Acoustic",
+      "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Hell Of A Way To Go (Acoustic)",
         "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 173126,
       "name": "Hell Of A Way To Go - Acoustic",
       "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Take A Back Road (Acoustic)",
-        "url": "https://open.spotify.com/album/2yldPR227e9ZOeiLRoRtEX"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "Take A Back Road (Acoustic)",
-      "url": "https://open.spotify.com/track/5BAigYcDzL24KI3KpXJKyS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Bluebird (Acoustic)",
-        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
+        "name": "Heartbreaker (Piano Version)",
+        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 220637,
-      "name": "Bluebird - Acoustic",
-      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+      "duration_ms": 222466,
+      "name": "Heartbreaker - Piano Version",
+      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Heartbreaker (Piano Version)",
-        "url": "https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB"
+        "name": "Bluebird (Acoustic)",
+        "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Heartbreaker - Piano Version",
-      "url": "https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS"
+      "duration_ms": 220637,
+      "name": "Bluebird - Acoustic",
+      "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+        "name": "Cowboy Break My Heart - Take 1",
+        "url": "https://open.spotify.com/album/5BOgEvcF5Im6qsECuLss6G"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
         }
       ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
+      "duration_ms": 203888,
+      "name": "Cowboy Break My Heart - Take 1",
+      "url": "https://open.spotify.com/track/774cccmqH0RT5ubk4niAU5"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
       },
       "artists": [
         {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -923,6 +923,22 @@
       "duration_ms": 213600,
       "name": "Wild as Her (feat. Carter Faith) - Acoustic One-Take",
       "url": "https://open.spotify.com/track/0huxrD4MV3OAyEizla4JZT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cowboy Break My Heart - Take 1",
-        "url": "https://open.spotify.com/album/5BOgEvcF5Im6qsECuLss6G"
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
       },
       "artists": [
         {
-          "name": "Tanner Adell",
-          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 203888,
-      "name": "Cowboy Break My Heart - Take 1",
-      "url": "https://open.spotify.com/track/774cccmqH0RT5ubk4niAU5"
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
+        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 185815,
+      "name": "Coulda Loved You Longer - Acoustic",
+      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 167469,
       "name": "Gone Too Soon - Acoustic",
       "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
-        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 185815,
-      "name": "Coulda Loved You Longer - Acoustic",
-      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Live From Echo Mountain",
-        "url": "https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 233442,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Pretty Little Poison (Piano Version)",
         "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 196306,
       "name": "She Had Me at Heads Carolina - Acoustic",
       "url": "https://open.spotify.com/track/143NxyffZRHXdVD1MaO5u3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Live From Echo Mountain",
+        "url": "https://open.spotify.com/album/1bALhDEJ1lpNzqbhiObQim"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 233442,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/1EnisnWLM0Zaoshg2zuoMl"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1455,38 +1455,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Come Back To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 205375,
-      "name": "Come Back To Bed (Acoustic)",
-      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Yearbook",
-      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Standing Room Only (Acoustic)",
         "url": "https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 205305,
       "name": "I Don't Wanna Go To Heaven - Choir Version",
       "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Yearbook",
+      "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Come Back To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/1p2jMjlTEQs8jEPz1kbf1H"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 205375,
+      "name": "Come Back To Bed (Acoustic)",
+      "url": "https://open.spotify.com/track/2wHKUJvY7K86a9JUAvX4PC"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Almost Maybes (Acoustic)",
-        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Almost Maybes - Acoustic",
-      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Breakin' in Boots (Stripped)",
         "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 154173,
       "name": "Breakin' in Boots - Stripped",
       "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Almost Maybes (Acoustic)",
+        "url": "https://open.spotify.com/album/2tT0KYZ5ZO0meRleXxrwoW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179907,
+      "name": "Almost Maybes - Acoustic",
+      "url": "https://open.spotify.com/track/4ZYpv3IMjQd6Hoi3xMKRPC"
     },
     {
       "added_at": "2024-08-02 04:00:00",

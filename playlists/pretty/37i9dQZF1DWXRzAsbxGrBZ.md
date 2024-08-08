@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,239 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,334 likes - 50 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 39 | [Lo'Mthwalo \- Original Mix](https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9) | [Mandaba](https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8), [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ) | [Lomthwalo](https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a) | 6:06 |
 | 40 | [The Whole Thing](https://open.spotify.com/track/7mqUZHdBzKmUQfDkmnltu6) | [Black Villain](https://open.spotify.com/artist/3CUEUOOinhiFpSHYUNB43W), [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Lunga SA](https://open.spotify.com/artist/5wr1vRS4fvNtOEG1S4zEAQ) | [The Whole Thing](https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1) | 6:52 |
 | 41 | [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 |
-| 42 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
-| 43 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
+| 42 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
+| 43 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
 | 44 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 |
 | 45 | [Red Lips Swaying Hips](https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips](https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp) | 7:11 |
 | 46 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |

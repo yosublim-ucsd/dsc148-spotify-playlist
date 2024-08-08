@@ -1,12 +1,12 @@
 {
   "description": "Photo : GIMS",
-  "num_followers": 1100272,
+  "num_followers": 1100581,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrDOqQAAAAAJ3BjxktMNg1QCLE6YQtsb",
+  "snapshot_id": "ZrOGsgAAAACarFQCHn0hoWev4YavGSdF",
   "tracks": [
     {
       "added_at": "2024-08-01 22:00:00",
@@ -43,22 +43,6 @@
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Monaco",
-        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 141314,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
     },
     {
       "added_at": "2024-08-01 22:00:00",

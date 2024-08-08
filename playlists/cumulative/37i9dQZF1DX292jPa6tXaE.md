@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Sahil Cheema
+> Discover new Punjabi artists! Cover: Diljot Mavi
 
-65 songs - 3 hr 5 min
+66 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Breed](https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu) | [Breed](https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp) | 2:18 | 2024-07-03 |  |
 | [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 | 2024-07-24 |
 | [Catalyst](https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6) | [Catalyst](https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB) | 3:01 | 2024-07-31 |  |
+| [Challa](https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R) | [Diljot Mavi](https://open.spotify.com/artist/4KjMby3WwsuFNQVaqrKYkb), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Challa](https://open.spotify.com/album/0vrCMhN4z8gASZ1B39gqrh) | 3:06 | 2024-08-07 |  |
 | [Chann](https://open.spotify.com/track/6B4fsij9F9St8IpnKOWZ8j) | [Harsh Sandhu](https://open.spotify.com/artist/2CHBl68TFdhrBp0unns5ZY) | [Chann](https://open.spotify.com/album/6yAF3pRecIAH5DhG5hb1Qv) | 2:45 | 2024-07-03 |  |
 | [Chitte Te La Gyi](https://open.spotify.com/track/1dLBKArxfhzaw1JAD3VzDg) | [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Chitte Te La Gyi](https://open.spotify.com/album/05Jo6Av74UjT1l0FLRC3Bj) | 3:11 | 2024-07-03 | 2024-07-17 |
 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 | 2024-07-03 |  |

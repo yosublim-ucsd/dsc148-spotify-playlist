@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: davey. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: Love Language. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -5657,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "C'est Toi",
+        "url": "https://open.spotify.com/album/5dZb2bnOTMw5oRa2DkaCTY"
+      },
+      "artists": [
+        {
+          "name": "Remedy",
+          "url": "https://open.spotify.com/artist/2abuvPfJ5hg6hcROvt81gM"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284444,
+      "name": "C'est Toi",
+      "url": "https://open.spotify.com/track/46slubt4vsyTKfkvS2gENM"
+    },
+    {
+      "album": {
         "name": "C-Quence Of Calamities (Sedef Adasi Remix)",
         "url": "https://open.spotify.com/album/6uj8RoEhoAC8xU9B8c8l3r"
       },
@@ -7006,6 +7024,24 @@
       "duration_ms": 204342,
       "name": "Clean & Neat",
       "url": "https://open.spotify.com/track/22tNdBkA3yWyU3sQ4YGdMe"
+    },
+    {
+      "album": {
+        "name": "Shug",
+        "url": "https://open.spotify.com/album/4siaOH20Zol8irPjB3TNF7"
+      },
+      "artists": [
+        {
+          "name": "2touch",
+          "url": "https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "Clears",
+      "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
     },
     {
       "album": {
@@ -9580,6 +9616,24 @@
       "duration_ms": 219314,
       "name": "Different",
       "url": "https://open.spotify.com/track/0W4VFICNbZke8LxMI8EsJ5"
+    },
+    {
+      "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174225,
+      "name": "Digital girl - funk remix",
+      "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
     },
     {
       "album": {
@@ -13533,6 +13587,24 @@
     },
     {
       "album": {
+        "name": "Finest",
+        "url": "https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd"
+      },
+      "artists": [
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110773,
+      "name": "Finest",
+      "url": "https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0"
+    },
+    {
+      "album": {
         "name": "Finish Him (feat. Joey LaBeija)",
         "url": "https://open.spotify.com/album/1E1gnkQPVUrXtxPu8idUQ1"
       },
@@ -13996,7 +14068,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 163548,
       "name": "For Now Im Here",
       "url": "https://open.spotify.com/track/09U4YwzvgxtN3lRv3Mu4sf"
@@ -18089,6 +18161,28 @@
     },
     {
       "album": {
+        "name": "How You Mad at Me?",
+        "url": "https://open.spotify.com/album/7G5Bsx0hQ9ydpv8EO7m8kN"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "How You Mad At Me?",
+      "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
+    },
+    {
+      "album": {
         "name": "How You Move",
         "url": "https://open.spotify.com/album/1Nzr9Y7BGMa6rHC8NyMdkj"
       },
@@ -18772,7 +18866,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 206975,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4ePQUOV04l8vovM9QqUFsm"
@@ -20044,7 +20138,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 219892,
       "name": "IT MIGHT BE THE DRUGS",
       "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
@@ -25479,6 +25573,24 @@
     },
     {
       "album": {
+        "name": "Water Lounge EP",
+        "url": "https://open.spotify.com/album/0sQQu6i1eqCLsMHIZuetwr"
+      },
+      "artists": [
+        {
+          "name": "R1D1",
+          "url": "https://open.spotify.com/artist/5ocnw77s77EawKYZcfwGtM"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324812,
+      "name": "Music Is The Force - Original Mix",
+      "url": "https://open.spotify.com/track/1soayFo4WyKDT3pzKkDPJw"
+    },
+    {
+      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -27686,6 +27798,24 @@
       "duration_ms": 370647,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2fSiiXDRQRSTKWTKqXF9z4"
+    },
+    {
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198187,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
     },
     {
       "album": {
@@ -33140,7 +33270,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 304000,
       "name": "Show Me The Sky",
       "url": "https://open.spotify.com/track/11XXS0DhIQJp2wlgoFiBIM"
@@ -33314,7 +33444,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 204452,
       "name": "Silver",
       "url": "https://open.spotify.com/track/5fj3PwaRTnpDQpNWTytTgy"
@@ -33860,7 +33990,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 325027,
       "name": "Snap Talk",
       "url": "https://open.spotify.com/track/3wTLRYU9ZALPX6vxflvo3x"
@@ -35846,7 +35976,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 176346,
       "name": "summer high",
       "url": "https://open.spotify.com/track/0SRnhXZQJnWe5LpXmALHxA"
@@ -37800,7 +37930,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 269291,
       "name": "The Nerve",
       "url": "https://open.spotify.com/track/5hVc50iOb0DLliTFpwlQQz"
@@ -40373,6 +40503,24 @@
     },
     {
       "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
+    },
+    {
+      "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/1ufsD44RkteSXVTigubxxR"
       },
@@ -40442,7 +40590,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 185744,
       "name": "UR SO GOOD (Everything I Need)",
       "url": "https://open.spotify.com/track/0rze6B9uVaB7TLO28beBAG"
@@ -41570,6 +41718,24 @@
       "duration_ms": 166299,
       "name": "Weekend - Radio Edit",
       "url": "https://open.spotify.com/track/5esrR2rAOpMUk6lDtukwY4"
+    },
+    {
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/3S6WVVBXXB1aRXpiIDUqNY"
+      },
+      "artists": [
+        {
+          "name": "Kiinjo",
+          "url": "https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165093,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/4p8idquHqHHlXXQ1ou3psA"
     },
     {
       "album": {

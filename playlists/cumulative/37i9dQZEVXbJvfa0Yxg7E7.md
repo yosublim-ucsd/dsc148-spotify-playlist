@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,756 songs - 3 day 19 hr 38 min
+1,757 songs - 3 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 |  |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-25 | 2022-05-08 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-23 | 2024-01-21 |
+| [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-08-07 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2023-01-12 | 2023-01-24 |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-04 | 2023-11-06 |
@@ -190,7 +191,7 @@
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-07 | 2022-05-08 |
 | [BlimE](https://open.spotify.com/track/1qxsnAxrgjvPRMcGbsYTgW) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [BlimE](https://open.spotify.com/album/30lEqkTPTQLcwFh5bfkJd6) | 2:57 | 2023-01-09 | 2023-02-11 |
 | [BlimE! \- Den Ene](https://open.spotify.com/track/5PTYydUwfxM8Q7KuqjmPxu) | [Selma Ibrahim](https://open.spotify.com/artist/651XOkcvus2ZHLMCln4fgY) | [BlimE! \- Den Ene](https://open.spotify.com/album/3BLyTrdFNN4jPviN6otdvR) | 3:21 | 2022-06-19 | 2023-03-22 |
-| [BlimE! \- Ferdig Snakka](https://open.spotify.com/track/7c9gD7aefFGPnVgZke7raf) | [Ane Norum Kvistad](https://open.spotify.com/artist/3is2frns7nVQwNYdaJ5N2N), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Ferdig Snakka](https://open.spotify.com/album/2kGREbqymE3ZbAhErLe8Wh) | 2:20 | 2024-06-17 |  |
+| [BlimE! \- Ferdig Snakka](https://open.spotify.com/track/7c9gD7aefFGPnVgZke7raf) | [Ane Norum Kvistad](https://open.spotify.com/artist/3is2frns7nVQwNYdaJ5N2N), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Ferdig Snakka](https://open.spotify.com/album/2kGREbqymE3ZbAhErLe8Wh) | 2:20 | 2024-06-17 | 2024-08-08 |
 | [BlimE! \- Sveve Høyt](https://open.spotify.com/track/7uF90Ykgrs8HTATqOYENzL) | [Martin Lilleberg](https://open.spotify.com/artist/1KYnaTc8Zxc0Ep8VcoSGNG) | [BlimE! \- Sveve Høyt](https://open.spotify.com/album/5wTPKUFEWoafPc1pzbcPn9) | 3:08 | 2023-09-04 | 2023-11-01 |
 | [BlimE! – Dynamitt](https://open.spotify.com/track/3xuyh4bAIuN0oIWPMqoXog) | [Nicolay Ramm](https://open.spotify.com/artist/5VD5GCCQ2hh0m7ufVlmcue) | [BlimE! – Dynamitt](https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL) | 2:49 | 2021-08-20 | 2021-11-30 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2022-01-08 |

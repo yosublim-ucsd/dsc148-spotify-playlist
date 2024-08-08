@@ -1793,6 +1793,28 @@
     },
     {
       "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/4MHnQLnoBjnCaQRLGL6cyD"
+      },
+      "artists": [
+        {
+          "name": "rl",
+          "url": "https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw"
+        },
+        {
+          "name": "Asect",
+          "url": "https://open.spotify.com/artist/0WaibLALSTpeNZCn9hpxtf"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202567,
+      "name": "affection - extra",
+      "url": "https://open.spotify.com/track/0tNCYxUnH8bc9YElueyNAm"
+    },
+    {
+      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7"
       },
@@ -5142,7 +5164,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 195117,
       "name": "Back to U",
       "url": "https://open.spotify.com/track/6Dc4wwe3oM62tJV2UOfuay"
@@ -6022,7 +6044,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 138019,
       "name": "Beach?",
       "url": "https://open.spotify.com/track/2fk20dhVjhyuDS9rvi9ZD7"
@@ -14299,6 +14321,24 @@
     },
     {
       "album": {
+        "name": "Trap Vibes",
+        "url": "https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Dame Luz",
+      "url": "https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1"
+    },
+    {
+      "album": {
         "name": "DAME TU BOCA",
         "url": "https://open.spotify.com/album/1OoBB1DezBWJIEAuc5zUwO"
       },
@@ -20530,7 +20570,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 106000,
       "name": "Feel Ya Flow",
       "url": "https://open.spotify.com/track/7J2kuAx8f1n6HXQt6grYAb"
@@ -28099,6 +28139,36 @@
     },
     {
       "album": {
+        "name": "Hustler's Prayer",
+        "url": "https://open.spotify.com/album/4YRmEjwMubeBHVEVXqNiTt"
+      },
+      "artists": [
+        {
+          "name": "CeCe",
+          "url": "https://open.spotify.com/artist/2WBSulfHxEoD9mNcbSPC5i"
+        },
+        {
+          "name": "Ladibree",
+          "url": "https://open.spotify.com/artist/20FSvWC5lIkCoHhgwlENls"
+        },
+        {
+          "name": "AO Alient\u00e8",
+          "url": "https://open.spotify.com/artist/6TARtafSv2T4fmPJpwnDmh"
+        },
+        {
+          "name": "Michael Adkins",
+          "url": "https://open.spotify.com/artist/6GBQFObgGz8p1Daaks4JfE"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190432,
+      "name": "Hustler's Prayer",
+      "url": "https://open.spotify.com/track/2Zbg9RFgpOYzydsyvwrcIu"
+    },
+    {
+      "album": {
         "name": "Hymn for the Weekend",
         "url": "https://open.spotify.com/album/6yTcAT2KFH66g7TONUisW5"
       },
@@ -30090,6 +30160,24 @@
       "duration_ms": 150983,
       "name": "If Pretty Was A Contest",
       "url": "https://open.spotify.com/track/2EG7MWiRGL3zLjV7Axg9vM"
+    },
+    {
+      "album": {
+        "name": "If You Could Hear What I Say (Radio Edit)",
+        "url": "https://open.spotify.com/album/5pyZNMmkmYHGBpfxrw1uch"
+      },
+      "artists": [
+        {
+          "name": "Manu Chevalier",
+          "url": "https://open.spotify.com/artist/3h0ECRXSlAyxoO2IcOD3ns"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228050,
+      "name": "If You Could Hear What I Say - Radio Edit",
+      "url": "https://open.spotify.com/track/5IqRCX8a6ZA8nkIRDvdP60"
     },
     {
       "album": {
@@ -32550,6 +32638,24 @@
       "duration_ms": 220149,
       "name": "Just My Luck",
       "url": "https://open.spotify.com/track/52cHtQaGAp1H19EV7qrXSk"
+    },
+    {
+      "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/2YbU6Dq8zlL5xP2k6WKoel"
+      },
+      "artists": [
+        {
+          "name": "Sire James",
+          "url": "https://open.spotify.com/artist/4wQ37GLIJ34UaykrFuZojX"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/7Hf5a11cpMXcKGvuyYAPLp"
     },
     {
       "album": {
@@ -36043,6 +36149,24 @@
     },
     {
       "album": {
+        "name": "Can't Love EP",
+        "url": "https://open.spotify.com/album/3ofh4JS37yfqhBskQNHmZf"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245489,
+      "name": "Local",
+      "url": "https://open.spotify.com/track/3Pm7lOMvJt6s6ATn0Cq6wD"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/33vsBF94owExP97uk3LF1O"
       },
@@ -37494,6 +37618,24 @@
       "duration_ms": 196000,
       "name": "Lovely News",
       "url": "https://open.spotify.com/track/7oHRnnH8wdnwb5jkSgcb0O"
+    },
+    {
+      "album": {
+        "name": "Believe The Hype",
+        "url": "https://open.spotify.com/album/4GkZrQ5AGItNjapbmggv13"
+      },
+      "artists": [
+        {
+          "name": "Mjlusane",
+          "url": "https://open.spotify.com/artist/29ITkdyX2jQCYkIwKRZ7st"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123807,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1A1pDoBw3zPgrMlEEJPk69"
     },
     {
       "album": {
@@ -42869,6 +43011,24 @@
     },
     {
       "album": {
+        "name": "Night Fire",
+        "url": "https://open.spotify.com/album/1Ue4o2M2KPV4WZB4vS89FM"
+      },
+      "artists": [
+        {
+          "name": "Lightbulb the Entertainer",
+          "url": "https://open.spotify.com/artist/5vG0ex3chH3Z7DOzQmyfeB"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Night Fire",
+      "url": "https://open.spotify.com/track/1lKaKOHHWlbK4LKn8K8FkU"
+    },
+    {
+      "album": {
         "name": "Night Skies",
         "url": "https://open.spotify.com/album/0i2FaXMnXBc55s0SKwg0gH"
       },
@@ -46140,6 +46300,24 @@
       "duration_ms": 213930,
       "name": "OVERTAKE",
       "url": "https://open.spotify.com/track/1NovfWWLFMVrj8ie4NnsWR"
+    },
+    {
+      "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/6pSXZIagV8pNRW7mqcVwcZ"
+      },
+      "artists": [
+        {
+          "name": "Self Made Davion",
+          "url": "https://open.spotify.com/artist/7g6wmwFUNfjUWZWmZcRDOo"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97436,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3JGlL8TbpPngdvo2JHowof"
     },
     {
       "album": {
@@ -50024,7 +50202,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 195253,
       "name": "Relaying",
       "url": "https://open.spotify.com/track/5OESr4y4hmSiSrfYX7A2wM"
@@ -54402,7 +54580,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 249923,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/21HY7qQP8oMii0v86C8LFl"
@@ -59764,7 +59942,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 197183,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/6ib06qyOp3uGo9H4Smi9xe"
@@ -68299,6 +68477,24 @@
     },
     {
       "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/35LIc23QOgxNroTasbj45p"
+      },
+      "artists": [
+        {
+          "name": "Ashleyy Christina",
+          "url": "https://open.spotify.com/artist/0Sd7AmhEpAQbTzRHyes29l"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157126,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/4pWmqre0qCQ6K2eS0L0yfQ"
+    },
+    {
+      "album": {
         "name": "Wicked",
         "url": "https://open.spotify.com/album/2TZ8zOXRPnffg4wYOcG606"
       },
@@ -70054,7 +70250,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 173596,
       "name": "You Won",
       "url": "https://open.spotify.com/track/6g7X6IcVWLEE3M3P2D9Hzn"

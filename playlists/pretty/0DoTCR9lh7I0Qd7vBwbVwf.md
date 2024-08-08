@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,076 likes - 131 songs - 4 hr 16 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,075 likes - 132 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 129 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 |
 | 130 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
 | 131 | [goodbye](https://open.spotify.com/track/0wQyNKjEGxg7wIwSWNL5Mn) | [søap](https://open.spotify.com/artist/5flOSCMCS5BPlHpdHQQhSr) | [goodbye](https://open.spotify.com/album/485WZIHQ4pmGhTDNHaBOds) | 2:15 |
+| 132 | [Summer Shower](https://open.spotify.com/track/0sDKM1Au5SxOB2TPSDGzF9) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Sunset Squall](https://open.spotify.com/album/1ppxD1UzZpIeFuK7U7ERPI) | 2:17 |
 
-Snapshot ID: `AAAAWxAyx1dhHcd8exaNU0Q1E3szUGZp`
+Snapshot ID: `AAAAXM5OtNJgESzJlhsC/Tlkgw4tdn14`

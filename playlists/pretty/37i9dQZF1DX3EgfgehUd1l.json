@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 168490,
+  "num_followers": 168487,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "30th Anniversary Collection",
-        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
-      },
-      "artists": [
-        {
-          "name": "michael holliday",
-          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
-        }
-      ],
-      "duration_ms": 135826,
-      "name": "The Story of My Life",
-      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Gold Collection",
         "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 137320,
       "name": "Don't Forbid Me",
       "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "30th Anniversary Collection",
+        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+      },
+      "artists": [
+        {
+          "name": "michael holliday",
+          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+        }
+      ],
+      "duration_ms": 135826,
+      "name": "The Story of My Life",
+      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
-        "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
-      },
-      "artists": [
-        {
-          "name": "Marty Wilde",
-          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
-        }
-      ],
-      "duration_ms": 141426,
-      "name": "A Teenager In Love",
-      "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Just a little Love",
         "url": "https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 158506,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
+        "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
+      },
+      "artists": [
+        {
+          "name": "Marty Wilde",
+          "url": "https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN"
+        }
+      ],
+      "duration_ms": 141426,
+      "name": "A Teenager In Love",
+      "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 118840,
-      "name": "It's Late - Remastered 2001",
-      "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Most of All",
         "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 169213,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 118840,
+      "name": "It's Late - Remastered 2001",
+      "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Summer Holiday",
-        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "Just Walkin' in the Rain",
-      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Skiffle - From Britain to Broadway",
         "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 151186,
       "name": "Last Train to San Fernando",
       "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Summer Holiday",
+        "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Just Walkin' in the Rain",
+      "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best of Guy Mitchell",
-        "url": "https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz"
-      },
-      "artists": [
-        {
-          "name": "Guy Mitchell",
-          "url": "https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "Look At That Girl",
-      "url": "https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Street Of Memories",
-        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
+        "name": "The Very Best of Guy Mitchell",
+        "url": "https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz"
       },
       "artists": [
         {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+          "name": "Guy Mitchell",
+          "url": "https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV"
         }
       ],
-      "duration_ms": 143506,
-      "name": "Walking My Baby Back Home",
-      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+      "duration_ms": 173705,
+      "name": "Look At That Girl",
+      "url": "https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Street Of Memories",
+        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "Walking My Baby Back Home",
+      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Essential - Easy Listening",
+        "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 165826,
+      "name": "Half As Much (with Percy Faith & His Orchestra)",
+      "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Original Hits - Country",
         "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
       },
@@ -1263,22 +1283,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Essential - Easy Listening",
-        "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
+        "name": "Climb Every Mountain",
+        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
       "artists": [
         {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+          "name": "Dickie Valentine",
+          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
         }
       ],
-      "duration_ms": 165826,
-      "name": "Half As Much (with Percy Faith & His Orchestra)",
-      "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
+      "duration_ms": 169080,
+      "name": "Finger of Suspicion",
+      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1299,34 +1315,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Climb Every Mountain",
-        "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
       "artists": [
         {
-          "name": "Dickie Valentine",
-          "url": "https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 169080,
-      "name": "Finger of Suspicion",
-      "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Too Young",
-        "url": "https://open.spotify.com/album/1yNZIJ81MHUnpmWLukcke4"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Young",
-          "url": "https://open.spotify.com/artist/5nMT23kkZVcRGeNQbYTXQF"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Eternally",
-      "url": "https://open.spotify.com/track/2FHOqpq2cAFXVv2SY0YmIq"
+      "duration_ms": 184400,
+      "name": "I'm Walking Behind You - 2001 Remastered",
+      "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
     }
   ],
   "unique_name": "Easy 50s",

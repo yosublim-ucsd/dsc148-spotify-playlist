@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: ANADIE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,311 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,326 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 45 | [Asfalto](https://open.spotify.com/track/50IoIgFmyf5tNxgRnhlbMq) | [Saturday Moon](https://open.spotify.com/artist/5VlBdUXl9UHhGpf9cpfgWM), [Dea Infamous](https://open.spotify.com/artist/7cUwc472Eh2GSg5XbwJndj) | [Asfalto](https://open.spotify.com/album/6L2E0E4Ed2frEpelm97az4) | 2:59 |
 | 46 | [La vall](https://open.spotify.com/track/2xb1qL39LPGW8FzSWeFGHJ) | [Joia](https://open.spotify.com/artist/0B0jjVi2VLgqRn4dsRBycz) | [La vall](https://open.spotify.com/album/6L5FrkR1oYKu1pOqi7Qvq0) | 3:11 |
 | 47 | [único](https://open.spotify.com/track/1Ar9ORagei5suorn5dwBLu) | [Maifrén](https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI) | [único](https://open.spotify.com/album/4CWVpPBep57j9nl4InpCe6) | 2:14 |
-| 48 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/56PneuJTvBLYtFIuEgVz1s) | [La Niña Paracaídas](https://open.spotify.com/artist/7qsgl5XG9LIL9ubZ0tos09) | [La Canción Que No Quiero Cantarte](https://open.spotify.com/album/6DbROoxeBRXEUAqcLbJJgp) | 2:30 |
-| 49 | [KAMIKAZE](https://open.spotify.com/track/3gFv8wrOA5UvDGTTeBJos3) | [Mad Mayden](https://open.spotify.com/artist/0TpRCmmrKQrp6NFRq3mwmW) | [KAMIKAZE](https://open.spotify.com/album/1nRDCgjvu5605eDDPtMKrE) | 3:23 |
+| 48 | [KAMIKAZE](https://open.spotify.com/track/3gFv8wrOA5UvDGTTeBJos3) | [Mad Mayden](https://open.spotify.com/artist/0TpRCmmrKQrp6NFRq3mwmW) | [KAMIKAZE](https://open.spotify.com/album/1nRDCgjvu5605eDDPtMKrE) | 3:23 |
+| 49 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/56PneuJTvBLYtFIuEgVz1s) | [La Niña Paracaídas](https://open.spotify.com/artist/7qsgl5XG9LIL9ubZ0tos09) | [La Canción Que No Quiero Cantarte](https://open.spotify.com/album/6DbROoxeBRXEUAqcLbJJgp) | 2:30 |
+| 50 | [Siempre está en duda](https://open.spotify.com/track/1INZTd3dpvl9jsYS60cXkw) | [Txefas](https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp) | [Siempre está en duda](https://open.spotify.com/album/3jo14bsnJqN5bnlaBkuRUG) | 2:36 |
 
-Snapshot ID: `ZrKc4AAAAAB8wCuAH0ei+iRO2t0Hgtvu`
+Snapshot ID: `ZrMmYQAAAACGvxXUptgrPNs2wry7boS1`

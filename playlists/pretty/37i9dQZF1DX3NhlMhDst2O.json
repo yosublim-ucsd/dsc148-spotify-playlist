@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 91820,
+  "num_followers": 91989,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
-      },
-      "artists": [
-        {
-          "name": "Los Strwck",
-          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Serie Doble: Los Brios y Los Angeles De Chile",
         "url": "https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 207480,
       "name": "Yo Se Que Te Acordaras",
       "url": "https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+      },
+      "artists": [
+        {
+          "name": "Los Strwck",
+          "url": "https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K"
     },
     {
       "added_at": "2024-07-11 00:53:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-11 00:53:12",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Ding Dong, Ding Dong, Estas Cosas del Amor",
-      "url": "https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh"
-    },
-    {
-      "added_at": "2024-07-11 00:53:12",
-      "album": {
         "name": "Javier Solis Con Acoo De Mariachi",
         "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 159666,
       "name": "Y...",
       "url": "https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh"
+    },
+    {
+      "added_at": "2024-07-11 00:53:12",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Ding Dong, Ding Dong, Estas Cosas del Amor",
+      "url": "https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh"
     },
     {
       "added_at": "2024-07-11 00:53:12",

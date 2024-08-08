@@ -1,12 +1,12 @@
 {
   "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 5113,
+  "num_followers": 5114,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABMxWZLrv7hVQy8pxIepBNl",
+  "snapshot_id": "ZrFngAAAAAA4gPD2ebpnr9zl78aqYenD",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 150695,
-      "name": "READ YOUR DIARY",
-      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu"
+      "duration_ms": 191856,
+      "name": "OWN MY MIND",
+      "url": "https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 191856,
-      "name": "OWN MY MIND",
-      "url": "https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v"
+      "duration_ms": 150695,
+      "name": "READ YOUR DIARY",
+      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu"
     },
     {
       "added_at": null,
@@ -559,7 +559,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar (Deluxe)",
+        "name": "Rockstar - Deluxe",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
       "artists": [

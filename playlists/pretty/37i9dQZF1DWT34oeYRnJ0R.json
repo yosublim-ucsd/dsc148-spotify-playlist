@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665354,
+  "num_followers": 665368,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 141031,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 194941,
       "name": "Sigo Enamorau'",
       "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 141031,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "Embuste",
-        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
-      },
-      "artists": [
-        {
-          "name": "Lemuell",
-          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
-        }
-      ],
-      "duration_ms": 159273,
-      "name": "Embuste",
-      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "soso (with Ozuna)",
         "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 202012,
       "name": "soso (with Ozuna)",
       "url": "https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "Embuste",
+        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "duration_ms": 159273,
+      "name": "Embuste",
+      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "TRAPPii",
-        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/76X0sg9YMAfH6P38NMUp6O"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "POKE FREESTYLE",
         "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "TRAPPii",
+        "url": "https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 147391,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/76X0sg9YMAfH6P38NMUp6O"
     },
     {
       "added_at": "2024-07-19 08:30:01",
@@ -2731,26 +2731,6 @@
     {
       "added_at": "2024-07-19 08:30:01",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Servando",
-          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
-        }
-      ],
-      "duration_ms": 146332,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
-    },
-    {
-      "added_at": "2024-07-19 08:30:01",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -2767,6 +2747,26 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2024-07-19 08:30:01",
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Servando",
+          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
+        }
+      ],
+      "duration_ms": 146332,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
     },
     {
       "added_at": "2024-07-19 08:30:01",

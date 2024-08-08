@@ -3237,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Sunset Squall",
+        "url": "https://open.spotify.com/album/1ppxD1UzZpIeFuK7U7ERPI"
+      },
+      "artists": [
+        {
+          "name": "Lofi Milk",
+          "url": "https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT"
+        },
+        {
+          "name": "Maho Fukami",
+          "url": "https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Summer Shower",
+      "url": "https://open.spotify.com/track/0sDKM1Au5SxOB2TPSDGzF9"
+    },
+    {
+      "album": {
         "name": "The Art of Relaxation",
         "url": "https://open.spotify.com/album/0ceMy6a1h5NOkV4qO02QiW"
       },

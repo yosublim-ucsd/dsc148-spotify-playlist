@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-133 songs - 7 hr 41 min
+134 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Summertime](https://open.spotify.com/track/5NrwsKRkhQgczHWPL0BGIm) | [Greta Leja](https://open.spotify.com/artist/4q1DYHDlHRRxgL0B8wGGJt) | [Summertime](https://open.spotify.com/album/7vvyLIo6bR9Cfc3Qb6bbws) | 2:24 | 2023-04-27 |  |
 | [Tell Me \- Rain](https://open.spotify.com/track/6otMukSGKb6tFs0O25xlGl) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me \(Rain\)](https://open.spotify.com/album/2hNl2gh5ok1dz58Srt82gX) | 4:25 | 2023-04-27 |  |
 | [Tenderness](https://open.spotify.com/track/0Ke9kuEjZzRIEDOPT6bcDR) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Tenderness](https://open.spotify.com/album/0N8Tp6t6hgmGYzbc3fbEVu) | 3:32 | 2023-06-15 | 2024-06-15 |
+| [Testimonial](https://open.spotify.com/track/0xK45D6dDi9CstcdWZ7DG5) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Testimonial](https://open.spotify.com/album/6fEleSx2wpnzUL5bok2Jwj) | 4:14 | 2024-08-07 |  |
 | [The Midnight Wine](https://open.spotify.com/track/4adssK9XfHz0Zv86gLUB42) | [Lunaros](https://open.spotify.com/artist/7eexGgQc4l6NR5fSmHk4Ll) | [! The Midnight Wine](https://open.spotify.com/album/3RQ2pKQ2V7YvzhmMqQCf2i) | 3:44 | 2024-07-09 |  |
 | [Three Views Of A Secret \- Rain version](https://open.spotify.com/track/7agbpfkAH7NrfjSU2lfiUZ) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Three Views Of A Secret \- Rain version](https://open.spotify.com/album/1pJXVnXlKtZt5hxRWHX6fZ) | 4:26 | 2023-04-27 |  |
 | [Tuesdays](https://open.spotify.com/track/0AzGdVC2mlwjIAG6eeBceQ) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Tuesdays](https://open.spotify.com/album/2hmGySYY8f7KmXjYD9yn15) | 3:19 | 2024-02-23 |  |

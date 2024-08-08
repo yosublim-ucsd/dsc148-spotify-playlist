@@ -8,9 +8,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 |
-| 2 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
-| 3 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 |
+| 1 | [Take Me Away](https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Take Me Away](https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw) | 2:26 |
+| 2 | [Gonna Dance with Somebody](https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj) | [Gonna Dance with Somebody](https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh) | 3:07 |
+| 3 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
 | 4 | [Perreo](https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ) | [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup), [Kuntay Cevizci](https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K) | [Perreo](https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4) | 4:12 |
 | 5 | [Cafe With Gods](https://open.spotify.com/track/392saTzCLJ1EljFjZrOUxy) | [Victor Tellagio](https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW) | [Cafe With Gods](https://open.spotify.com/album/2FKP8BYcYE4i9hC8qlyDUg) | 3:54 |
 | 6 | [Missing \(Back To You\) \[feat\. Ellivia\]](https://open.spotify.com/track/3g0aWg9EUvagvcX27tnnLK) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [CJ Jeff](https://open.spotify.com/artist/0sd0YrAGDzvCNV53mubgCH), [Ellivia](https://open.spotify.com/artist/4HrUylqpnegh0SiquDId9c) | [Missing \(Back To You\) \[feat\. Ellivia\]](https://open.spotify.com/album/7mOuI2xjNrsp8ZnomCWATF) | 2:48 |
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 13 | [Don't Touch That](https://open.spotify.com/track/6V7zbpWcKouASI9seW5t5j) | [Jordi Owen](https://open.spotify.com/artist/7trp5UlbDIZyNoYbeeLOoy) | [Don't Touch That](https://open.spotify.com/album/7cI8TNUIADCXeBqugLdrPS) | 6:39 |
 | 14 | [Larry](https://open.spotify.com/track/0TwaNFcKHIFxezKakWIGm4) | [Bakkis](https://open.spotify.com/artist/4gKuT9rOlvCpHJUkWp4JFv) | [Larry](https://open.spotify.com/album/5aEeVj9bdZLVy1GV8gBULn) | 3:14 |
 
-Snapshot ID: `AAAq6DVRENzVG0W4qqNwby7HG7Ito6vh`
+Snapshot ID: `AAAq6XBEnyrVRIVKwmxF85vEdJX2Lz/l`

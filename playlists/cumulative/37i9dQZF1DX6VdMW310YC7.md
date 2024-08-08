@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,656 songs - 4 day 17 hr 33 min
+1,657 songs - 4 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [DESCEND](https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [DESCEND](https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY) | 3:40 | 2024-01-19 |  |
 | [Desire \- Gryffin Remix](https://open.spotify.com/track/0dy9clh4KhNnimYUHPpb34) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [We Are Your Friends \(Music From The Original Motion Picture/Deluxe\)](https://open.spotify.com/album/0gwPIyz660wduMXCW8BXQn) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Desperate Times](https://open.spotify.com/track/34w2o0qfeBwahiiiNw3o1R) | [Spooky Cowboy](https://open.spotify.com/artist/6h1yIlHlRIUed7rT69kISl) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:57 | 2020-03-16 | 2022-06-01 |
+| [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-02 |  |
 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 | 2022-08-26 | 2022-09-10 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-23 |
 | [Diamonds](https://open.spotify.com/track/2IpfiNS4x20FJ5qKTHWaJ3) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Rise](https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn) | 5:54 | 2020-02-29\* | 2020-03-16 |
@@ -839,7 +840,7 @@
 | [Letting People Go \(feat\. Prinze George\)](https://open.spotify.com/track/3xVfvbf4EEcgh4vnvgdjeO) | [Carnage](https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7), [Prinze George](https://open.spotify.com/artist/3o6TKTQIu0lCYcNtSO3i1G) | [Letting People Go \(feat\. Prinze George\)](https://open.spotify.com/album/52GddglHbBcj6S4tuHHoVU) | 4:00 | 2020-05-18 | 2020-10-09 |
 | [Liberate](https://open.spotify.com/track/4mh7vGyO0e7a5ZUXKqmMkD) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4) | [Liberate](https://open.spotify.com/album/06N2Ap2rLYbKIFWmCcScsk) | 3:20 | 2022-03-04 | 2022-12-29 |
 | [Liberation](https://open.spotify.com/track/134QG8C1qpCiFSY9B8mG2P) | [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Liberation](https://open.spotify.com/album/2B8lEl4nUDscMCFAJl5fq6) | 3:38 | 2020-05-22 | 2020-07-03 |
-| [Life](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Life](https://open.spotify.com/album/6PBmEy7AwKSRnZbxnDmDzU) | 3:44 | 2024-08-02 |  |
+| [Life](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Life](https://open.spotify.com/album/6PBmEy7AwKSRnZbxnDmDzU) | 3:44 | 2024-08-02 | 2024-08-08 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2024-01-19 |  |
 | [Life on Hold](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Life on Hold](https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci) | 3:27 | 2021-09-03 | 2023-09-09 |
 | [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 |  |

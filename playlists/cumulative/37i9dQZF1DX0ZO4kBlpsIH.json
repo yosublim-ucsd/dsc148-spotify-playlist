@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Amusement",
+        "url": "https://open.spotify.com/album/2n3vXVojSN4OAbzC5mV67k"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Antoine Martin",
+          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164501,
+      "name": "Amusement",
+      "url": "https://open.spotify.com/track/7eCbXJ0o1JUYQQ7jdJehNK"
+    },
+    {
+      "album": {
         "name": "French Caf\u00e9: A Parisian Gypsy Jazz Swing Experience",
         "url": "https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 187588,
       "name": "Au Bistrot",
       "url": "https://open.spotify.com/track/6pJaFAldS2bN12dYlg2Ke5"
@@ -870,6 +888,24 @@
       "duration_ms": 210791,
       "name": "c\u2019est quoi ton p\u2019tit nom",
       "url": "https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC"
+    },
+    {
+      "album": {
+        "name": "des mers ensoleill\u00e9es",
+        "url": "https://open.spotify.com/album/23ks6PKKQkUuUCZeN9zRZw"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165995,
+      "name": "des mers ensoleill\u00e9es",
+      "url": "https://open.spotify.com/track/0JwjaAxjBVSDNr5dOqgAwl"
     },
     {
       "album": {
@@ -2538,6 +2574,24 @@
       "duration_ms": 177106,
       "name": "Ombrages",
       "url": "https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh"
+    },
+    {
+      "album": {
+        "name": "On the run",
+        "url": "https://open.spotify.com/album/45eIA6TzPo98wk9cyf9K2J"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Parisians",
+          "url": "https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136940,
+      "name": "On the run",
+      "url": "https://open.spotify.com/track/2mTuZaoYyehU31Zb3aPCcz"
     },
     {
       "album": {

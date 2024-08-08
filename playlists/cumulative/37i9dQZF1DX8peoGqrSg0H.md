@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-530 songs - 1 day 7 hr 30 min
+531 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/track/5j7vOGEPZsnigRggWqYQJr) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/album/6YN30I26NVC54hlerjD8k6) | 3:55 | 2022-10-12 | 2022-10-27 |
 | [ร้ายกาจ Lifeguard](https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh) | [EVENING SUNDAY](https://open.spotify.com/artist/0e6n1eAbx8lGdusrlfiOwM) | [ร้ายกาจ Lifeguard](https://open.spotify.com/album/2ZqLx6n3R6m03g1CeMRYlz) | 3:47 | 2023-12-15 | 2024-01-12 |
 | [ร้ายก็ได้ \(Don't Mind\)](https://open.spotify.com/track/7myYgpUsnTi9gZ7Q1J6RGH) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [ร้ายก็ได้ \(Don't Mind\) \- Single](https://open.spotify.com/album/4soh1kZrD4soADmcghnh4l) | 2:54 | 2023-11-02 | 2023-11-10 |
+| [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-08-07 |  |
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 | 2022-07-24 |
 | [ลองคุย \(TRY\)](https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU) | [Baby Mic Candy](https://open.spotify.com/artist/77Z7s7XB4PIcoWQIoYK8ww) | [ลองคุย \(TRY\)](https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ) | 3:55 | 2022-11-18 | 2022-12-02 |
 | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/track/7sBi5mkwgckfb68RDRWKMS) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ลองเลิกกันดีไหม \(Next Chapter\)](https://open.spotify.com/album/1fkjw8BqsMHwXc5gWzDGUo) | 3:35 | 2023-10-19 | 2024-04-12 |
@@ -470,7 +471,7 @@
 | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/track/5XNaYxMeuMXMJy3K9UcSXg) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [เอาใจลงไปเล่น\(GAMBLE\)](https://open.spotify.com/album/5ULzvf2zlwnN7B8zgokFzY) | 3:24 | 2022-07-28 | 2022-08-26 |
 | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/track/3J1lrFuEgwlYqW40d6p6H6) | [V3RSE](https://open.spotify.com/artist/13oNNQ2xOgh4Iqe8rrHhHG) | [เอาไงครับ? \(This or That?\)](https://open.spotify.com/album/68hYOkarmeFv7zH2Rdo8ea) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [เอาไรว่ามา \(Anything You Want\)](https://open.spotify.com/track/6PbJuaeCtJpL52FJ55qdbq) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เอาไรว่ามา \(Anything You Want\) \- Single](https://open.spotify.com/album/2qk72LxifhUXZkIhDXGm3z) | 3:17 | 2023-08-18 | 2024-02-16 |
-| [เอ๊ะ!](https://open.spotify.com/track/4UHFKRE4TLfipAnFRxLjY9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Tan Lipta](https://open.spotify.com/artist/4Hb2TKXvG0B9sKgomYYhTx) | [เอ๊ะ!](https://open.spotify.com/album/57oLOPphGmhnPsA37gNPap) | 3:20 | 2023-12-14 |  |
+| [เอ๊ะ!](https://open.spotify.com/track/4UHFKRE4TLfipAnFRxLjY9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Tan Lipta](https://open.spotify.com/artist/4Hb2TKXvG0B9sKgomYYhTx) | [เอ๊ะ!](https://open.spotify.com/album/57oLOPphGmhnPsA37gNPap) | 3:20 | 2023-12-14 | 2024-08-08 |
 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-07 | 2022-12-09 |
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2022-09-23 | 2024-05-24 |
 | [แกน่ารักมาตลอด \- All Kill](https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [แกน่ารักมาตลอด \(All Kill\)](https://open.spotify.com/album/6j1Vn1TozowU0s8AswD8dp) | 3:06 | 2022-07-07 | 2022-07-29 |

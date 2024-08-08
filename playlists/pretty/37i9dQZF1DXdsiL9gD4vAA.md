@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,635 likes - 87 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,682 likes - 87 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 10 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 |
 | 11 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 |
 | 12 | [Chandi Jaisa Rang \- Live In India](https://open.spotify.com/track/4lNIbr9cjYnk1W1CppnqUQ) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Icon](https://open.spotify.com/album/06K2HzhX1eoUo9pVUFpYc3) | 6:42 |
-| 13 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 |
+| 13 | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/track/36BebCxEorH48pRfeaDbbJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10), [Avinash Gupta](https://open.spotify.com/artist/3uhuJ2D7s3DFpvhmNSo8G7), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Gham Ka Khazana \- Magic Moments Music Studio Season 1](https://open.spotify.com/album/4onM7jTtsueZcSn5zD768G) | 3:48 |
 | 14 | [Aisa Lag Raha Hain](https://open.spotify.com/track/1PpMpSzsZDyOi8VIuwFn3j) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bibhuti Gogoi](https://open.spotify.com/artist/4OJivOTrFG65M0ivJ4sJW1), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr) | [Aisa Lag Raha Hain](https://open.spotify.com/album/40BL6dzi1kHC1T7nuL0QJA) | 4:01 |
 | 15 | [Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye](https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At) | [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Khiraj](https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z) | 4:47 |
 | 16 | [Chheen Lenge Tumhe](https://open.spotify.com/track/1T2iEiWoDP6UXMxlGoGSVz) | [Krrishna Sharma](https://open.spotify.com/artist/0O3IGO6lACrm4wrPkmBdRC) | [Chheen Lenge Tumhe](https://open.spotify.com/album/0FWlprMdk7lDh7Y4am66n7) | 4:05 |

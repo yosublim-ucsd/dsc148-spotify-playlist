@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 80682,
+  "num_followers": 80721,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 199423,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "If You Go Away / Ne me quitte pas",
         "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 295148,
       "name": "If You Go Away",
       "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "At The End Of The Day",
-        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 196120,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "At The End Of The Day",
+        "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
         "name": "It's All Over But The Swingin'",
         "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Something to Remember You By",
-      "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
-    },
-    {
-      "added_at": "2024-06-13 13:41:28",
-      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 189533,
       "name": "Blues In My Heart",
       "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+    },
+    {
+      "added_at": "2024-06-13 13:41:28",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Something to Remember You By",
+      "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "Night Lights (Remastered 2001)",
-        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
+        "name": "The Complete Recordings 1941-1947",
+        "url": "https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 174266,
-      "name": "Too Young To Go Steady - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
+      "duration_ms": 188560,
+      "name": "Somebody Else Is Taking My Place",
+      "url": "https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F"
     },
     {
       "added_at": "2024-06-13 13:41:28",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2024-06-13 13:41:28",
       "album": {
-        "name": "The Complete Recordings 1941-1947",
-        "url": "https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP"
+        "name": "Night Lights (Remastered 2001)",
+        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Somebody Else Is Taking My Place",
-      "url": "https://open.spotify.com/track/1pOs0EmRYSB2qHkq3RqQ3F"
+      "duration_ms": 174266,
+      "name": "Too Young To Go Steady - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
     },
     {
       "added_at": "2024-06-13 13:41:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,128 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,567 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 6 | [NXSTY BLOOD](https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L) | [Wels](https://open.spotify.com/artist/5gQXdVmzGuWYNiG1ZOFS7S) | [NXSTY BLOOD](https://open.spotify.com/album/7ydimgAmoZWwEiKAIJ3GWP) | 1:54 |
 | 7 | [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 |
 | 8 | [Anatomy \- Slowed](https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6) | [TEENWXVE](https://open.spotify.com/artist/209dGpA7Rmwe4GmCQc3heC) | [Anatomy](https://open.spotify.com/album/5M9OFRE8amEDzBkEwnGLNL) | 1:43 |
-| 9 | [DETROIT](https://open.spotify.com/track/5w3OUOof6tX2j6X89x0D7R) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [DETROIT](https://open.spotify.com/album/7CXdMJp09lC15ESOZlHxbX) | 1:49 |
+| 9 | [DETROIT](https://open.spotify.com/track/5w3OUOof6tX2j6X89x0D7R) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [DETROIT](https://open.spotify.com/album/7CXdMJp09lC15ESOZlHxbX) | 1:49 |
 | 10 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
 | 11 | [infinite universe](https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [infinite universe](https://open.spotify.com/album/47k1YcVtWladbWe4EUjSfj) | 2:05 |
 | 12 | [Sleepwalker](https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Ketamine Girl](https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2) | 3:32 |

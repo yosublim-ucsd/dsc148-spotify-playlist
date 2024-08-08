@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. \#IndieLokaldiSpotify Cover: Float
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,757 likes - 114 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,762 likes - 114 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [3 Hari Untuk Selamanya](https://open.spotify.com/track/1NQomGeI158zPjNE6srB1i) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [3 Hari Untuk Selamanya](https://open.spotify.com/album/5Nh5S8jMCnlYtEgc3PehIG) | 3:38 |
-| 2 | [Desire \- Remastered 2006](https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Desire \(Remastered 2006\)](https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23) | 4:03 |
+| 2 | [Desire \- Remastered 2006](https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Desire \- Remastered 2006](https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23) | 4:03 |
 | 3 | [Alang\-Alang](https://open.spotify.com/track/63heXpwE42bSL8yAReGERs) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp), [Drs\. F\. Achmar](https://open.spotify.com/artist/58bjKFsimBsOP8JxPLI0JP) | [Roekmana's Repertoire \(Remastered\)](https://open.spotify.com/album/115rswXhVTkKcQ9DFFfgii) | 3:51 |
 | 4 | [Elora](https://open.spotify.com/track/6ds0LKhAFoylsVqTCFRIFD) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Elora](https://open.spotify.com/album/2lkjT831tn2hgtZKqXkUZM) | 5:01 |
 | 5 | [Semu](https://open.spotify.com/track/1h3HK2bwZ5TEgBB3A06L6i) | [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Epic Symphony](https://open.spotify.com/album/75CIJQq7AocsTVcnYdEERz) | 3:10 |

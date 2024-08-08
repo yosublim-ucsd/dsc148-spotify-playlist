@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-848 songs - 2 day 7 hr 50 min
+849 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 |  |
 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
-| [enough](https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [enough](https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI) | 4:42 | 2024-07-30 |  |
+| [enough](https://open.spotify.com/track/0pfAanhCBM7nojn0ePAA3M) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [enough](https://open.spotify.com/album/7D3xyt32oJZM7bOnkTnYqI) | 4:42 | 2024-07-30 | 2024-08-08 |
 | [Epiphany](https://open.spotify.com/track/1ccVm2eDAQdHB2HYN0vVyh) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Epiphany](https://open.spotify.com/album/7FG8YlRonpJV9JahGdObsx) | 4:12 | 2023-11-14 | 2023-12-14 |
 | [ERAM](https://open.spotify.com/track/4QDkX55CUmspPJXIUHD1wC) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [ERAM](https://open.spotify.com/album/2GmQJ80lnc8jpOfhHqwcOC) | 3:40 | 2022-05-31 | 2022-06-08 |
 | [error](https://open.spotify.com/track/3uvlV1OsLs1MzJDO7HdI3y) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Bimi](https://open.spotify.com/artist/5iwvrALwQlyajHU3vcwAIf), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [error](https://open.spotify.com/album/5D1RTl6tH5l0ZoiQoztNdx) | 3:13 | 2022-05-24 | 2022-07-06 |
@@ -645,6 +645,7 @@
 | [クレイジーボーイ](https://open.spotify.com/track/2ka963rH1ezyei5ZvkgL2g) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [クレイジーボーイ](https://open.spotify.com/album/6vhIYKgWgZfpPUFk7e3i5l) | 3:13 | 2022-05-24 | 2022-06-08 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-13 |
 | [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 | 2023-10-05 |
+| [サマータイム・ブルース](https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サマータイム・ブルース](https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk) | 3:46 | 2024-08-07 |  |
 | [サマーレモネード](https://open.spotify.com/track/4KcAqMwqFBUOQxNlTuwK7O) | [Zenya](https://open.spotify.com/artist/6XaIIyEQtuyCbBsPdt6TyY) | [サマーレモネード](https://open.spotify.com/album/1MrOfdXIBZdkGm3gKYNR9x) | 3:18 | 2023-07-18 | 2023-07-26 |
 | [サマー・イズ・オーバー](https://open.spotify.com/track/5qnqGyCTpod2Gly4mI6SYd) | [下町ノ夏](https://open.spotify.com/artist/5KaPkUZq3z8WTXjvGkAR84) | [Ramune](https://open.spotify.com/album/1IpPbsEQuEobATCp5TJZsS) | 4:16 | 2023-08-01 | 2023-08-09 |
 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 | 2022-05-24 | 2022-07-29 |

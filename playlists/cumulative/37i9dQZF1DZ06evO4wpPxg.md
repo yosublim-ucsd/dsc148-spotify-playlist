@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
+> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
 308 songs - 19 hr 16 min
 
@@ -70,7 +70,7 @@
 | [God Be With You](https://open.spotify.com/track/2H7QwsOrqmJ889g2ckPnLB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 1:19 | 2023-07-04 | 2023-07-07 |
 | [God's Gonna Separate](https://open.spotify.com/track/0ABg6LnEmuwyFdYBTRi6Zx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 2:49 | 2022-05-25 |  |
 | [Goin' to Chattanooga](https://open.spotify.com/track/1Yo8qxF2WwuCNlXbndYeDW) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 5:06 | 2022-12-25 | 2022-12-28 |
-| [Goin' To Sit Down On The Banks Of The River](https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 2:55 | 2022-05-26 | 2024-07-23 |
+| [Goin' To Sit Down On The Banks Of The River](https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 2:55 | 2022-05-26 |  |
 | [Got On My Traveling Shoes](https://open.spotify.com/track/6it4UJHJ6HuVqIpkDLQ8Vp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:06 | 2022-06-15 | 2024-04-14 |
 | [Great Change Since I Been Born](https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 4:03 | 2022-05-25 | 2024-07-24 |
 | [Guitar Blues](https://open.spotify.com/track/01UgtgbJos0HfqF7U47pof) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Civil War March](https://open.spotify.com/album/10PA0jCgJkbyL89HCodP69) | 6:06 | 2022-11-13 | 2022-11-15 |
@@ -279,7 +279,7 @@
 | [Tryin' To Get Home](https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:47 | 2022-06-01 | 2024-07-24 |
 | [Tryin' To Get To Heaven In Due Time](https://open.spotify.com/track/1rf5Hq6UjxScYRwnZ1TBne) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:24 | 2022-05-25 |  |
 | [Trying to Get to Heaven](https://open.spotify.com/track/1ziyI723U16MUGPqsTlDOi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 4:17 | 2023-05-07 | 2023-05-09 |
-| [Twelve Gates To The City](https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:09 | 2022-05-27 |  |
+| [Twelve Gates To The City](https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Harlem Street Singer](https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr) | 3:09 | 2022-05-27 | 2024-08-08 |
 | [Twelve Sticks](https://open.spotify.com/track/1VxkIVUmuDcLvnpDEoTmOc) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Bluegrass Instrumentals](https://open.spotify.com/album/2MlyrwBNGdZgDUaBCbgGbq) | 3:14 | 2022-05-25 |  |
 | [Two Step Candyman](https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2022-05-28 | 2024-04-24 |
 | [Two\-Step](https://open.spotify.com/track/56WKvciu3HfYsOAeV4QWfK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 3:41 | 2023-01-31 | 2024-04-02 |

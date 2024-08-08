@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-567 songs - 1 day 14 hr 14 min
+568 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Breathe In / Breathe Out](https://open.spotify.com/track/2ibXqqShwJJLEmKwa3rxgk) | [Joaquin García](https://open.spotify.com/artist/3yA4n8eGeCNwUEzm1cwc7V) | [Breathe In / Breathe Out](https://open.spotify.com/album/3ry4NaMDrlqkzejhCLxi2u) | 4:11 | 2023-01-17 |  |
 | [Broken Sleep](https://open.spotify.com/track/0fJTfkGfoHwWfJiHFvGpeZ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Broken Sleep](https://open.spotify.com/album/4y4DoLI7N2irCVu1BE8wWi) | 4:55 | 2023-01-17 |  |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2023-01-17 |  |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-07 |  |
 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 | 2023-01-17 |  |
 | [Buffalo Replaced](https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:40 | 2023-09-25 |  |
 | [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2023-01-17 |  |
@@ -368,7 +369,7 @@
 | [Parking Lot Pirouette](https://open.spotify.com/track/1MACvuUKIRibcPcpPDTsul) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Parking Lot Pirouette](https://open.spotify.com/album/2OoJ3nXmTPXVTzkNBBvVoR) | 3:32 | 2023-01-17 |  |
 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 | 2023-01-17 |  |
 | [Pass The Hours](https://open.spotify.com/track/1uLfBlfAwUV7SwBTK1ayTQ) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/2kYRMnwB5ieAs6OV9pZ1YT) | 3:43 | 2023-01-17 | 2024-04-19 |
-| [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2023-01-17 |  |
+| [Pass The Hours](https://open.spotify.com/track/4EVpdoFt3L6sAa4hivmWz9) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Pass The Hours](https://open.spotify.com/album/68oS2XnHyYFPwOeknwOabE) | 3:43 | 2023-01-17 | 2024-08-08 |
 | [Persephone](https://open.spotify.com/track/4106SA5Wyw8fRTyh8pFDHc) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/4xhEaaCBfWXGWQF6rUIb03) | 4:33 | 2023-01-17 | 2024-04-19 |
 | [Pistol](https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/3pvGm1n0cKAfHpGKbZhKi5) | 3:54 | 2023-01-17 | 2024-04-19 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2023-01-17 |  |

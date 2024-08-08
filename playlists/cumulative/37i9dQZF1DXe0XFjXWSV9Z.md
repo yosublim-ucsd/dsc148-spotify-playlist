@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-182 songs - 11 hr 22 min
+183 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Caminito de mi Pueblo](https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x), [La Sonora Mazurén](https://open.spotify.com/artist/2IsqVzltUoufEu3q1yUmTX) | [Caminito de mi Pueblo](https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo) | 4:03 | 2021-10-20 |  |
 | [Canción De Aplauso](https://open.spotify.com/track/2w0cKLP7robukceZPSV2Ji) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [De La Canción](https://open.spotify.com/album/34uQVGKZI1DNPvBYiwHbch) | 3:06 | 2021-10-20 | 2024-04-11 |
 | [Canción del Rey](https://open.spotify.com/track/0PNi7Zc85t4fwPvhgegc3Y) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [5 Star Motel](https://open.spotify.com/album/3H6GQSl4t96oYi50JQAr90) | 3:20 | 2021-10-20 | 2024-04-19 |
+| [Caracoles](https://open.spotify.com/track/20rxRyK8QJhQCOLaa4e8tr) | [Orquesta Akokán](https://open.spotify.com/artist/0ntVDLb8Ro6BLGVBVOBFVS) | [Caracoles](https://open.spotify.com/album/4Cr2ZQ9aaNREBSjrBr81g8) | 4:23 | 2024-08-07 |  |
 | [Chambacú](https://open.spotify.com/track/6HbA8iSCI32WJtG1hYvTLs) | [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [1000 Watts](https://open.spotify.com/album/3QACddw0pDDAnuIgZ8ZlUf) | 3:21 | 2021-10-20 | 2024-04-19 |
 | [Chambacú](https://open.spotify.com/track/5R2hXwoRB4gIgoNXoUuK51) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [1000 Watts](https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS) | 3:19 | 2021-10-20 |  |
 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 | 2023-01-02 |  |
@@ -152,7 +153,7 @@
 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Pájaro Zinzontle](https://open.spotify.com/track/511pu0YZEk21PSpghFADdy) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co), [Son Rompepera](https://open.spotify.com/artist/3QM4Z6Id8e3VyAoc5CbU2P) | [Mambo Mundial](https://open.spotify.com/album/0iOMXDWvDL5hlWkmguFPtl) | 3:38 | 2021-10-20 |  |
 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 | 2021-10-20 |  |
-| [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 | 2021-10-20 |  |
+| [Quémalo](https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Quémalo](https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY) | 3:40 | 2021-10-20 | 2024-08-08 |
 | [Republica Federal de Malphino](https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Lalango](https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg) | 3:29 | 2021-10-20 |  |
 | [Salsa Caliente \- Versión Aumentada](https://open.spotify.com/track/0BSUr05Fnpjian9GvLfwgJ) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 4:43 | 2021-10-20 | 2024-04-19 |
 | [Savage Love](https://open.spotify.com/track/6wftAWalceOZidVfaJjoOi) | [Joshua Moriarty](https://open.spotify.com/artist/7Gqji4GJ2b7DYrafSlzMqU) | [Savage Love](https://open.spotify.com/album/0Yz7y8VcFHZru6QYpP0sDJ) | 3:54 | 2021-10-20 |  |

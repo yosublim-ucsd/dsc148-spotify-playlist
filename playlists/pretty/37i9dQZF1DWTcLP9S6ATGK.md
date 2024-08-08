@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: JESENN
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,959 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,958 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 12 | [Kamu + Aku](https://open.spotify.com/track/07pirs2wD4y7KoDVf0T5Fi) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Banyak Canda, Tapi Serius](https://open.spotify.com/album/2pBxYlubqhBs9IXMqJQEde) | 3:34 |
 | 13 | [Bukan Salah Kopi](https://open.spotify.com/track/21rc0KR6kZnPVNFJ4ZJa3b) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA), [Jubing Kristianto](https://open.spotify.com/artist/7eG4BectpbPzbNvVkrWCdD) | [Bukan Salah Kopi](https://open.spotify.com/album/06qo7RWRaUjXJsvaPsMeLA) | 4:11 |
 | 14 | [Milikku Seutuhnya](https://open.spotify.com/track/0UMrmBvG1wpKQQ1qetvSYh) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU) | [Milikku Seutuhnya](https://open.spotify.com/album/2SFeCcYE2PvbARW3CMOKeh) | 3:53 |
-| 15 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb), [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
+| 15 | [Merah Putih di Langit Biru](https://open.spotify.com/track/3B5H83Fmh4Qno9rHSMD3m0) | [Isnaeni Achdiat](https://open.spotify.com/artist/5vKfDryx2kVwjCsymTqJMO), [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Harmoni Kebangsaan](https://open.spotify.com/album/4CFbMJX5duQEaxz8Ip4wE1) | 4:03 |
 | 16 | [Mati Rasa \- Kotakustik](https://open.spotify.com/track/0CTTo7rkwucp8n7FUpseux) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Mati Rasa \(Kotakustik\)](https://open.spotify.com/album/1O8HZ89YpiM0ZNXA7m0vtt) | 4:16 |
 | 17 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 |
 | 18 | [Atap Berteduh](https://open.spotify.com/track/6BOij1w5TOjVtZyhaLZmiG) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Atap Berteduh](https://open.spotify.com/album/42S8brIKTyi3Nkhko69vtu) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-177 songs - 9 hr 23 min
+179 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bagagli \(Improvvisazione\)](https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:15 | 2023-06-01 | 2023-09-15 |
 | [BIG SHOW \(feat\. Nicola Siciliano\)](https://open.spotify.com/track/4n5JC857oepHTOT7T4NqN3) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:02 | 2023-09-14 | 2023-12-01 |
 | [Bimbo in quartiere](https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:15 | 2024-01-25 |  |
+| [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3VgANOool6wXnJTCaxLw1y) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/album/4mkcJQrZx5BA1mdliCzO59) | 2:55 | 2024-08-07 |  |
 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 | 2022-04-15 |  |
 | [BODY PARTS \- I denti](https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 2:36 | 2022-12-15 | 2024-04-19 |
 | [BODY PARTS \- I denti](https://open.spotify.com/track/4WOXQYfq3fYVRMcaXuHBAD) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 2:36 | 2022-04-15 |  |
@@ -157,6 +158,7 @@
 | [S.A.L.M.O.](https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 3:55 | 2022-04-15 |  |
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-04-15 | 2022-07-31 |
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/7FjBYxeIKPSJ4urbawvnUO) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim) | 3:05 | 2022-07-15 | 2022-11-25 |
+| [SECONDO MEDIOEVO](https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [Musica Cicatrene](https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d) | 3:26 | 2024-08-07 |  |
 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 | 2022-04-15 |  |
 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 | 2022-04-15 |  |
 | [SORRY](https://open.spotify.com/track/5VcfNmujrZNUcztU5tR4qY) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:22 | 2024-03-15 |  |

@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: A$AP Rocky
 
-344 songs - 16 hr 56 min
+345 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-20 | 2024-06-22 |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2023-12-21 | 2024-01-26 |
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-06-21 | 2024-08-02 |
+| [Quincy Promes](https://open.spotify.com/track/63EsJUVOQFYkMogamKR7o2) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [Quincy Promes](https://open.spotify.com/album/1gy1CJieTwVImFeBbXlB9g) | 2:02 | 2024-08-01 |  |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-09-28 | 2023-11-10 |
 | [REAL ONE](https://open.spotify.com/track/2crZ2rnH0MIEWKje2ji1pT) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [REAL ONE](https://open.spotify.com/album/7lMCG6gXBAQugRJ6wgggh9) | 1:55 | 2024-08-01 |  |
 | [Really Like That](https://open.spotify.com/track/55TQ3ZQJGezWlnDLf4PfjP) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Really Like That](https://open.spotify.com/album/5fBNuwpRTltWbyTpo1fGlz) | 2:33 | 2024-04-18 | 2024-07-12 |

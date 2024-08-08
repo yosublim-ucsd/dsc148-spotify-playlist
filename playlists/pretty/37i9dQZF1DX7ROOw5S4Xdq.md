@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,714 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,719 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 2 | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [A Minha Razão \(Reason I Sing\)](https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G) | 4:33 |
 | 3 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 |
 | 4 | [Como Noiva Adornada no Altar](https://open.spotify.com/track/1UgDFFusdZtJh5yE0QqwlP) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\)](https://open.spotify.com/album/5bKZxjlwcMC97uymkaWadn) | 11:54 |
-| 5 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yahweh \(Ao Vivo\)](https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN) | 13:29 |
+| 5 | [Yahweh \- Ao Vivo](https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Yahweh \- Ao Vivo](https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN) | 13:17 |
 | 6 | [Se Eu Pudesse \(Ao Vivo\)](https://open.spotify.com/track/5UPxsnlWQJ0o18PZh4567I) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Se Eu Pudesse \(Ao Vivo\)](https://open.spotify.com/album/2pKX7KgfLKU4Ujt4NH5NJz) | 7:00 |
 | 7 | [Cenário Favorável \- Ao Vivo](https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Cenário Favorável \(Ao Vivo\)](https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc) | 5:42 |
 | 8 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Infinitamente Mais \(Ao Vivo\)](https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv) | 6:15 |

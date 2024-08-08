@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-479 songs - 1 day 3 hr 46 min
+482 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bonfire Heart](https://open.spotify.com/track/5qYqF9Va1IfUn0xT5jG9AC) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Bonfire Heart](https://open.spotify.com/album/5eJvuJRIiKM9U2NbS1kkeu) | 3:42 | 2024-01-29 | 2024-01-31 |
 | [Bonfire Heart](https://open.spotify.com/track/2N0volXQpwsvjDorTTxBAU) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing](https://open.spotify.com/album/4Sj9XfiPLf5byGh7u2ZU7g) | 3:58 | 2024-01-30 |  |
 | [Born](https://open.spotify.com/track/797fEwjPjyNhkoQCHDkzne) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:25 | 2024-01-29 |  |
-| [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 | 2024-01-29 |  |
+| [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 | 2024-01-29 | 2024-08-08 |
 | [Break Anotha](https://open.spotify.com/track/7rFbWJk8Mv7BDsF1vsBbQR) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 3:09 | 2024-01-29 |  |
 | [Brighter Than The Sun](https://open.spotify.com/track/5YTtTbqxUzJHD3CpbNHerP) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All Of You](https://open.spotify.com/album/3J72FiClHtOI1WmbIJEP03) | 3:51 | 2024-01-29 |  |
 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 | 2024-01-29 |  |
@@ -329,6 +329,7 @@
 | [Rich Love \(with Seeb\)](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Rich Love](https://open.spotify.com/album/0fLgNovzjpxE13hCIWa0sL) | 3:21 | 2024-01-29 |  |
 | [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2024-01-29 |  |
 | [RIIICH](https://open.spotify.com/track/2ckJF2jluuZ8q3BRZ19as7) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [RIIICH](https://open.spotify.com/album/2Tv4mu5RRsj5YfG7TYoyC4) | 3:14 | 2024-01-29 |  |
+| [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-08-07 |  |
 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2024-01-29 |  |
 | [Rumour Has It](https://open.spotify.com/track/4roNDqb3Mm6EUAPCtW0Sct) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:43 | 2024-01-29 |  |
 | [Rumour Has It / Someone Like You](https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 7](https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2) | 3:27 | 2024-01-29 |  |
@@ -426,7 +427,8 @@
 | [Thrill Is Gone \(feat\. Ryan Tedder\)](https://open.spotify.com/track/4Oj5dBcZr9Cp7Gcc9wjGRF) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Cyclone](https://open.spotify.com/album/6zjZyvMo3r2Rvmkq9YcUgi) | 4:26 | 2024-01-29 | 2024-03-02 |
 | [Time of Our Lives](https://open.spotify.com/track/2KcAwEm9VrpJFsJH6MKOCv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:30 | 2024-01-29 |  |
 | [Tip Of My Tongue](https://open.spotify.com/track/5OYQe6ZOXoFBDszbTcLrZr) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 4:18 | 2024-01-29 |  |
-| [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/4cshWe3AmsWgE5J17JkWhH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/0FnIPF2PbhvjNaEgAl8QA9) | 3:38 | 2024-01-29 |  |
+| [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/0otmDG441slQ7QYZUPgBcM) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:38 | 2024-08-07 |  |
+| [Together \(feat\. Gwen Stefani\)](https://open.spotify.com/track/4cshWe3AmsWgE5J17JkWhH) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Motion](https://open.spotify.com/album/0FnIPF2PbhvjNaEgAl8QA9) | 3:38 | 2024-01-29 | 2024-08-08 |
 | [Touch](https://open.spotify.com/track/1xz905v9g71heS0BQQM9re) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch](https://open.spotify.com/album/3Ukv5qnyHMAyBoG0GOrOMU) | 3:03 | 2024-01-29 |  |
 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 | 2024-01-29 |  |
 | [Trap Door](https://open.spotify.com/track/7Jf6ay2g947vLxqRUkC09Q) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 3:54 | 2024-01-29 |  |
@@ -434,6 +436,7 @@
 | [Trust You](https://open.spotify.com/track/23eUnTrHxVd4RNnramhnRA) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [The Great Unknown](https://open.spotify.com/album/49n3sqv2vCz36QNrO41yKr) | 3:08 | 2024-01-29 |  |
 | [Truth To Power](https://open.spotify.com/track/6uaigl9EXMjMP0I3iTb9yO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Truth To Power](https://open.spotify.com/album/6rPlzNWbkO10UerasRIqCY) | 3:25 | 2024-01-29 |  |
 | [Tumbling Down](https://open.spotify.com/track/3FHwjrY6F4YAdzWPwWl3or) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Count On My Love](https://open.spotify.com/album/4OJN5iJMyh3DGP76oSFYQR) | 3:34 | 2024-01-29 |  |
+| [TURN THIS OFF!](https://open.spotify.com/track/6VEm21iOWSyONwVAlOq1PQ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 0:23 | 2024-08-07 |  |
 | [Turning Tables](https://open.spotify.com/track/6myjRCWhMVgwgJEYNIGah3) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:10 | 2024-01-29 |  |
 | [Tyrant](https://open.spotify.com/track/2NQBsh7D6bDS5tv5VcvdoN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 | 2024-01-29 |  |

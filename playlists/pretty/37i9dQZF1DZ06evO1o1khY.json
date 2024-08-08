@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 18932,
+  "num_followers": 18981,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAACgJA+UpFup4JlJV3zzWoQ2",
+  "snapshot_id": "ZrFngAAAAAAQxOUJlmubUX3Lz0iiyurq",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+        "name": "Self Made Self Paid",
+        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
         },
         {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
+      "duration_ms": 190008,
+      "name": "When She Drunk",
+      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
     },
     {
       "added_at": null,
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Self Paid",
-        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
       },
       "artists": [
         {
-          "name": "Big Homiie G",
-          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
-        },
-        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
         }
       ],
-      "duration_ms": 190008,
-      "name": "When She Drunk",
-      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afford Me",
-        "url": "https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "JaTavia Akiaa",
-          "url": "https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll"
-        }
-      ],
-      "duration_ms": 209928,
-      "name": "Afford Me",
-      "url": "https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R-A-T-C-H-E-T (FNF FREESTYLE) [Remix]",
         "url": "https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 150848,
       "name": "R-A-T-C-H-E-T (FNF FREESTYLE) - Remix",
       "url": "https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afford Me",
+        "url": "https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "JaTavia Akiaa",
+          "url": "https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll"
+        }
+      ],
+      "duration_ms": 209928,
+      "name": "Afford Me",
+      "url": "https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
+> This is Alan Hawkshaw\. Tutti i brani in un'unica playlist.
 
 143 songs - 6 hr 17 min
 
@@ -31,7 +31,7 @@
 | [Blues For Organ](https://open.spotify.com/track/534PDQEzooTmL17oKDbqZT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 4:29 | 2023-01-04 | 2024-08-06 |
 | [Calendar Girl](https://open.spotify.com/track/7xR5tGKrowaoy5JCHC00az) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 1:56 | 2022-05-29 |  |
 | [Centrepoint](https://open.spotify.com/track/4o44QfNndsZCCRkHNBlMmp) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:10 | 2022-05-29 |  |
-| [Chic Boutique](https://open.spotify.com/track/2LgJtEp6nVsYjjgwBvNoKA) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Sounds of the 60's & 70's \- 2](https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH) | 1:29 | 2022-12-01 |  |
+| [Chic Boutique](https://open.spotify.com/track/2LgJtEp6nVsYjjgwBvNoKA) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Sounds of the 60's & 70's \- 2](https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH) | 1:29 | 2022-12-01 | 2024-08-08 |
 | [Clear Waters](https://open.spotify.com/track/6zFgiV9dR2fIxDvTQBSP2j) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:58 | 2022-10-12 |  |
 | [Coast to Coast](https://open.spotify.com/track/5N9rr1pdKu8Pgy87IiLVEj) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 3:27 | 2022-07-22 |  |
 | [Collision Course](https://open.spotify.com/track/32eDoXPsW7MWuDEJATrUTF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:14 | 2022-05-29 | 2022-10-12 |
@@ -41,7 +41,7 @@
 | [Cruising](https://open.spotify.com/track/6fFRzJrLWUTTBiCzyMRTnG) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 4:26 | 2022-05-29 |  |
 | [Crystal Cascade](https://open.spotify.com/track/0XI6a5hslyflBMIHuFWrrz) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:26 | 2023-11-10 | 2024-03-12 |
 | [Dark Vision](https://open.spotify.com/track/5WuOblWMG2QcshyAU0eKxN) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [1980's Synth Dark Drama](https://open.spotify.com/album/1OvLPPH43KA37S0UnBZRk9) | 3:07 | 2024-02-18 |  |
-| [Dave Allen at Large](https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 0:49 | 2022-05-29 | 2024-08-07 |
+| [Dave Allen at Large](https://open.spotify.com/track/5k90Y1F96cJs2Uj8P3QgAE) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Sixties](https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7) | 0:49 | 2022-05-29 |  |
 | [Dave Is Not Here](https://open.spotify.com/track/18LmkmkifrB5KQ9Wot8unF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Alessandro Rizzo](https://open.spotify.com/artist/6E3g7aS7Tngha3AtNeuc44), [Elliot Ireland](https://open.spotify.com/artist/3mDHOImVK3BjoclJQM8RXb) | [Vintage Remix Boutique \- Skeewiff vs Kpm](https://open.spotify.com/album/0omBhh34SdDB0XYUwWRG7S) | 3:52 | 2022-05-30 | 2022-09-03 |
 | [Days of Orange Squash](https://open.spotify.com/track/2qoCKiFr4ndUP54Cx0Cyr5) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:19 | 2022-06-21 |  |
 | [Daytripper](https://open.spotify.com/track/5sCLrLK23NaohKCvKVzBf0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Synthesizer and Percussion](https://open.spotify.com/album/72CdZr0aEQ4sfkc4HPM310) | 2:23 | 2022-11-12 | 2023-12-22 |

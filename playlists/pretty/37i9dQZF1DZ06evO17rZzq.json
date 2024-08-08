@@ -1,12 +1,12 @@
 {
-  "description": "This is Kaliii. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3696,
+  "description": "This is Kaliii. The essential tracks, all in one playlist.",
+  "num_followers": 3699,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADVWHaoPmXo4tEvvRCpquQU",
+  "snapshot_id": "ZrFngAAAAACkLVU2vHLgt72veCKJt2rg",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
-      },
-      "artists": [
-        {
-          "name": "Foe",
-          "url": "https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "12",
-      "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jedna Ljubav A Kurva",
         "url": "https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 206680,
       "name": "05. Let 175",
       "url": "https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
+      },
+      "artists": [
+        {
+          "name": "Foe",
+          "url": "https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "12",
+      "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
     }
   ],
   "unique_name": "This Is Kaliii",

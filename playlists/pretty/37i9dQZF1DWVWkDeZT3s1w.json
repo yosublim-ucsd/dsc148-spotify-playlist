@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 102518,
+  "num_followers": 102551,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "This is Not America (feat. Ibeyi)",
-        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
+        "name": "Serio",
+        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
       },
       "artists": [
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
         }
       ],
-      "duration_ms": 231332,
-      "name": "This is Not America (feat. Ibeyi)",
-      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
+      "duration_ms": 284000,
+      "name": "\u5149 Luz",
+      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -187,18 +183,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
+        "name": "This is Not America (feat. Ibeyi)",
+        "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
       "artists": [
         {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 284000,
-      "name": "\u5149 Luz",
-      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
+      "duration_ms": 231332,
+      "name": "This is Not America (feat. Ibeyi)",
+      "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -291,26 +291,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Tributos",
-        "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
+        "name": "Residente",
+        "url": "https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
         }
       ],
-      "duration_ms": 213097,
-      "name": "Tributos",
-      "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+      "duration_ms": 334666,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/04zodNGYYLI7Q7DsFgQAql"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -331,18 +323,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Residente",
-        "url": "https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9"
+        "name": "Tributos",
+        "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
       "artists": [
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
         }
       ],
-      "duration_ms": 334666,
-      "name": "Guerra",
-      "url": "https://open.spotify.com/track/04zodNGYYLI7Q7DsFgQAql"
+      "duration_ms": 213097,
+      "name": "Tributos",
+      "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Rap da Rap quita",
-        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 289649,
-      "name": "Rap da Rap quita",
-      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
         "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 412920,
       "name": "Artesano del Arte Insano (Versi\u00f3n Jazz)",
       "url": "https://open.spotify.com/track/7Cw1jx173XCK9kqvGTjG3Q"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Rap da Rap quita",
+        "url": "https://open.spotify.com/album/0jVsbiQY6WsG6Yr0SAa39P"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 289649,
+      "name": "Rap da Rap quita",
+      "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190344,
       "name": "Afirmativo",
       "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -703,6 +703,26 @@
       "duration_ms": 192046,
       "name": "Escaleras y Serpientes",
       "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -763,26 +783,6 @@
       "duration_ms": 248546,
       "name": "MALDITO",
       "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -867,6 +867,54 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "El eslab\u00f3n perdido",
+        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 213334,
+      "name": "El eslab\u00f3n perdido",
+      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "No Plastic",
         "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
       },
@@ -923,30 +971,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "La Felicidad",
-        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "La Felicidad",
-      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "M\u00e1s & Menos",
         "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
       },
@@ -967,30 +991,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "El eslab\u00f3n perdido",
-        "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 213334,
-      "name": "El eslab\u00f3n perdido",
-      "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Esquirlas",
         "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
       },
@@ -1007,6 +1007,22 @@
       "duration_ms": 220000,
       "name": "Esquirlas",
       "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1047,30 +1063,6 @@
       "duration_ms": 286673,
       "name": "Esto Es M\u00e9xico",
       "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Escorpi\u00f3n",
-        "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        },
-        {
-          "name": "Rodesens",
-          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
-        }
-      ],
-      "duration_ms": 172925,
-      "name": "Escorpi\u00f3n",
-      "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1139,26 +1131,42 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "La Brujula",
-        "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
+        "name": "Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA"
       },
       "artists": [
         {
-          "name": "Sekreto",
-          "url": "https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         },
         {
-          "name": "Caballeros Del Plan G",
-          "url": "https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf"
+          "name": "Rodesens",
+          "url": "https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8"
         },
         {
-          "name": "Skool 77",
-          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
         }
       ],
-      "duration_ms": 162758,
-      "name": "La Brujula",
-      "url": "https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP"
+      "duration_ms": 172925,
+      "name": "Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Psicofonia",
+        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        }
+      ],
+      "duration_ms": 184255,
+      "name": "Matar o Morir",
+      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1183,50 +1191,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Intraterreno",
-        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+        "name": "La Brujula",
+        "url": "https://open.spotify.com/album/6zWeN2rVEAbIHrEgbfVYu6"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "Intraterreno",
-      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Psicofonia",
-        "url": "https://open.spotify.com/album/1G7aXRkiE08dm6tlf93qQw"
-      },
-      "artists": [
+          "name": "Sekreto",
+          "url": "https://open.spotify.com/artist/10AZXGM20MM2f3bAm7ZjR8"
+        },
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        }
-      ],
-      "duration_ms": 184255,
-      "name": "Matar o Morir",
-      "url": "https://open.spotify.com/track/1ApXrpI3xopc2kaOpq46vV"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "El Mundo en Abstinencia",
-        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
-      },
-      "artists": [
+          "name": "Caballeros Del Plan G",
+          "url": "https://open.spotify.com/artist/568lw0anJJJnjTXII3gHaf"
+        },
         {
-          "name": "La Era de Gomes",
-          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
         }
       ],
-      "duration_ms": 145979,
-      "name": "\u00bfPor Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
+      "duration_ms": 162758,
+      "name": "La Brujula",
+      "url": "https://open.spotify.com/track/3tlWHdkvsANcrocCjwzaoP"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 247350,
       "name": "Pu\u00f1o en alto",
       "url": "https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "El Mundo en Abstinencia",
+        "url": "https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx"
+      },
+      "artists": [
+        {
+          "name": "La Era de Gomes",
+          "url": "https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0"
+        }
+      ],
+      "duration_ms": 145979,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5"
+      },
+      "artists": [
+        {
+          "name": "Fukin Keno",
+          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tiempo Al Tiempo",
+      "url": "https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5"
-      },
-      "artists": [
-        {
-          "name": "Fukin Keno",
-          "url": "https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tiempo Al Tiempo",
-      "url": "https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
-      },
-      "artists": [
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        },
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Merced",
-      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Merced",
+      "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
     },
     {
       "added_at": "2024-06-21 06:01:00",

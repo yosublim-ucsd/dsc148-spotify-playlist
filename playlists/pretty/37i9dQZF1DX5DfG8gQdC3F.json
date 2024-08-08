@@ -1,12 +1,12 @@
 {
   "description": "New music from Charli xcx & Billie Eilish, NAV, A$AP Rocky, Orville Peck and more. ",
-  "num_followers": 530744,
+  "num_followers": 530767,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqxc/wAAAABAkwgl7EdkluWKQquFxJDp",
+  "snapshot_id": "ZrOmTAAAAAAfsg9i1xGN1UJIKUZ39w81",
   "tracks": [
     {
       "added_at": "2024-08-02 04:13:51",
@@ -1099,7 +1099,7 @@
     {
       "added_at": "2024-08-02 04:13:51",
       "album": {
-        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+        "name": "Slow Down (feat. Future, Fridayy, & Mariah the Scientist)",
         "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
       },
       "artists": [
@@ -1108,12 +1108,12 @@
           "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
           "name": "Mariah the Scientist",
@@ -1121,7 +1121,7 @@
         }
       ],
       "duration_ms": 237623,
-      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+      "name": "Slow Down (feat. Future, Fridayy & Mariah the Scientist)",
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {

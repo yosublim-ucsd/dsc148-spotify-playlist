@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Don Toliver, Bryson Tiller, GloRilla and more.",
-  "num_followers": 2292721,
+  "num_followers": 2292781,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq6ziQAAAACuOlm9qszO599W0tg7F17M",
+  "snapshot_id": "ZrOjzwAAAACrtxlm03+jY4ZT1J+bTB4i",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Y2K! (Bonus)",
-        "url": "https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 114437,
-      "name": "GYAT",
-      "url": "https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
         "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
       },
@@ -595,7 +579,7 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+        "name": "Slow Down (feat. Future, Fridayy, & Mariah the Scientist)",
         "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
       },
       "artists": [
@@ -604,12 +588,12 @@
           "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
           "name": "Mariah the Scientist",
@@ -617,7 +601,7 @@
         }
       ],
       "duration_ms": 237623,
-      "name": "Slow Down (with Fridayy, Future & Mariah the Scientist)",
+      "name": "Slow Down (feat. Future, Fridayy & Mariah the Scientist)",
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {
@@ -947,26 +931,6 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Did It First (with Central Cee)",
-        "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 118002,
-      "name": "Did It First (with Central Cee)",
-      "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
     },
     {
       "added_at": "2024-08-02 04:00:00",

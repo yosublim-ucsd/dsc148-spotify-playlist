@@ -5523,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "Contemplazione del Mare",
+        "url": "https://open.spotify.com/album/5ovjWBufizlB1cZWztGYm7"
+      },
+      "artists": [
+        {
+          "name": "Gianni Domenici",
+          "url": "https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154823,
+      "name": "Contemplazione del Mare",
+      "url": "https://open.spotify.com/track/5KX4Iw959UusWyNmqqAYMb"
+    },
+    {
+      "album": {
         "name": "Continuo",
         "url": "https://open.spotify.com/album/6ytCXPOIhToAXlhYEbbya7"
       },

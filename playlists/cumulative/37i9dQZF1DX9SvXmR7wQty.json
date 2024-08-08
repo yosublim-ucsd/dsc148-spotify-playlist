@@ -1677,6 +1677,28 @@
     },
     {
       "album": {
+        "name": "A la bien mix party - 10 ans apr\u00e8s",
+        "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
+      },
+      "artists": [
+        {
+          "name": "DJ Hamida",
+          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "AH T'ES DANS CA",
+      "url": "https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW"
+    },
+    {
+      "album": {
         "name": "Mari\u00e8me",
         "url": "https://open.spotify.com/album/0imKDEWMsjlhf0SjOWjg1z"
       },
@@ -32250,7 +32272,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 141314,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"

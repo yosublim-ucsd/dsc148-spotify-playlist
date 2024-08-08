@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 484804,
+  "num_followers": 485225,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -679,7 +679,7 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
+        "name": "Houdini - Adam Port Mix",
         "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
       },
       "artists": [
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 368054,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "The Echo",
         "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 270083,
       "name": "The Echo",
       "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 368054,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+      },
+      "artists": [
+        {
+          "name": "No Relation",
+          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+        "name": "Light up my dark",
+        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
       "artists": [
         {
-          "name": "No Relation",
-          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+      "duration_ms": 208937,
+      "name": "Light up my dark",
+      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1431,22 +1447,6 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Light up my dark",
-        "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 208937,
-      "name": "Light up my dark",
-      "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "On My Knees (Adriatique Remix)",
         "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 233170,
       "name": "Alive",
       "url": "https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
-      },
-      "artists": [
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "H\u00e9roe de M\u00e9xico",
+        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "mari",
+          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "H\u00e9roe de M\u00e9xico",
+      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Let Me Out",
         "url": "https://open.spotify.com/album/2wjZRBDyv6WtFUjfzK65wn"
       },
@@ -1927,22 +1947,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "H\u00e9roe de M\u00e9xico",
-        "url": "https://open.spotify.com/album/7yKxl53YArKGGJZxdHJGGb"
+        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
+        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         },
         {
-          "name": "mari",
-          "url": "https://open.spotify.com/artist/15OvVFJbYn5WnBNcAXIKIJ"
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
         }
       ],
-      "duration_ms": 211202,
-      "name": "H\u00e9roe de M\u00e9xico",
-      "url": "https://open.spotify.com/track/7MLuFolJQtnjal6Dj2PEoJ"
+      "duration_ms": 504000,
+      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
+      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2011,30 +2035,6 @@
       "duration_ms": 213991,
       "name": "B\u00e9cane - Kimotion x Quentro & Tuna Remix",
       "url": "https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
-        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        },
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
-      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2151,22 +2151,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
       },
       "artists": [
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         }
       ],
-      "duration_ms": 241983,
-      "name": "Pangea (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2191,6 +2187,26 @@
       "duration_ms": 177577,
       "name": "Real Love - Liva K Remix",
       "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 241983,
+      "name": "Pangea (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2243,18 +2259,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Human Rights",
-        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Eden Shalev",
+          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
         }
       ],
-      "duration_ms": 294036,
-      "name": "Human Rights",
-      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
+      "duration_ms": 212459,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2287,26 +2307,6 @@
       "duration_ms": 336467,
       "name": "LIFETIME",
       "url": "https://open.spotify.com/track/1eO0SE3sEubF64JYIMUkOC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
-      },
-      "artists": [
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Eden Shalev",
-          "url": "https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/6c3qEL7Vqln2z2UKvnPjjm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2415,6 +2415,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Out of Sight",
+        "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        },
+        {
+          "name": "Nina Nst",
+          "url": "https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Same Dream",
         "url": "https://open.spotify.com/album/1owqxoLfiqNEgSh1Msl6Pl"
       },
@@ -2435,26 +2455,6 @@
       "duration_ms": 424994,
       "name": "Same Dream",
       "url": "https://open.spotify.com/track/0K5QtJ1zhEE1QvzE0GOrMh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Out of Sight",
-        "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        },
-        {
-          "name": "Nina Nst",
-          "url": "https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Out of Sight",
-      "url": "https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 214204,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "What A Wonderful World (Greg Cerrone Remix)",
         "url": "https://open.spotify.com/album/1miEyp3H9WdZtHXQPMui4r"
       },
@@ -2651,38 +2667,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m"
+        "name": "Never Tried",
+        "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 214204,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Running Man (Cosmicat Running Woman Remix)",
-        "url": "https://open.spotify.com/album/74C98Bj2fzRkMHoyHQog6I"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
         },
         {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 209536,
-      "name": "Running Man - Cosmicat Running Woman Remix",
-      "url": "https://open.spotify.com/track/18xm1kHdrrKVfyo9CA9xnv"
+      "duration_ms": 269468,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD"
     }
   ],
   "unique_name": "Tantra",

@@ -3532,7 +3532,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 252800,
       "name": "Karunada Rajakumara",
       "url": "https://open.spotify.com/track/46kuuT29cpKKYe4UDHnz8U"
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 257387,
       "name": "Ninnindha shuru",
       "url": "https://open.spotify.com/track/6gTFqOudf70o2LhdhtesT2"
@@ -7540,6 +7540,24 @@
       "duration_ms": 228080,
       "name": "Udupi Anthem",
       "url": "https://open.spotify.com/track/7faGHJ7itPYUuDA0YCxK7K"
+    },
+    {
+      "album": {
+        "name": "UKKAARU",
+        "url": "https://open.spotify.com/album/6C7gJsHME5yAcXVKpz66jq"
+      },
+      "artists": [
+        {
+          "name": "Darshikan",
+          "url": "https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "UKKAARU",
+      "url": "https://open.spotify.com/track/4KYwXJhLFwFLn4f2aanTjO"
     },
     {
       "album": {

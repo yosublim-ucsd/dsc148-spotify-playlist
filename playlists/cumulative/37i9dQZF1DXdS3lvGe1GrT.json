@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "A Tree Falls",
+        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193187,
+      "name": "A Tree Falls",
+      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "album": {
         "name": "About It",
         "url": "https://open.spotify.com/album/2tA9iTX6e5UbpCSE3axalq"
       },
@@ -2271,6 +2289,28 @@
     },
     {
       "album": {
+        "name": "Benjamin",
+        "url": "https://open.spotify.com/album/4fotbMUZ7Y1WQMAXRmwipv"
+      },
+      "artists": [
+        {
+          "name": "Daphne Gale",
+          "url": "https://open.spotify.com/artist/1qrMrXpw6r7mQzlqPdHUg8"
+        },
+        {
+          "name": "dora.",
+          "url": "https://open.spotify.com/artist/0Ym566deMKtIcLclCs6AqB"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182058,
+      "name": "Benjamin",
+      "url": "https://open.spotify.com/track/0VQCXgULavafiHDRyrKFu2"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6C4hVepdGIUFsygmFE6aCi"
       },
@@ -3252,6 +3292,24 @@
       "duration_ms": 157013,
       "name": "but then i just stopped growing",
       "url": "https://open.spotify.com/track/4Q6PWBtCwVE6hzsWJdbzoL"
+    },
+    {
+      "album": {
+        "name": "CRACK A SMILE COME ON STAY A WHILE",
+        "url": "https://open.spotify.com/album/3MCABaEqPmI82mgE6OVYoB"
+      },
+      "artists": [
+        {
+          "name": "Abby Holliday",
+          "url": "https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176117,
+      "name": "Butterfly Song",
+      "url": "https://open.spotify.com/track/6JuB5cewTiFUzvYRrD5FuE"
     },
     {
       "album": {
@@ -4848,7 +4906,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 218400,
       "name": "Cult to A Saint",
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
@@ -5764,7 +5822,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 200960,
       "name": "Dinner Party",
       "url": "https://open.spotify.com/track/69te7FqNKGo7wP8vpC90T8"
@@ -5818,7 +5876,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 219956,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1WQm4kw3blYLYbsA9kTsTE"
@@ -6226,6 +6284,24 @@
       "duration_ms": 113777,
       "name": "drowning in your love",
       "url": "https://open.spotify.com/track/4qZGaFDrX4pYMClCGlG5kR"
+    },
+    {
+      "album": {
+        "name": "Drunk Again",
+        "url": "https://open.spotify.com/album/3eA5mXkG8NHiynlR7ZySqv"
+      },
+      "artists": [
+        {
+          "name": "Boxtrod",
+          "url": "https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199159,
+      "name": "Drunk Again",
+      "url": "https://open.spotify.com/track/1X5neZzSKeILZSfrfDnwSl"
     },
     {
       "album": {
@@ -6964,7 +7040,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 200522,
       "name": "Everything I Need",
       "url": "https://open.spotify.com/track/5CVOA5SAZeHz8ZPNu7Kuth"
@@ -7498,7 +7574,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 370879,
       "name": "Feline Wave Race",
       "url": "https://open.spotify.com/track/62D9JFjTnGgF7REU7oI2AB"
@@ -9196,7 +9272,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 178331,
       "name": "grips",
       "url": "https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR"
@@ -10142,6 +10218,24 @@
       "duration_ms": 284500,
       "name": "Hope, You Whore",
       "url": "https://open.spotify.com/track/4ORXzdG8Ldsqw0j2cgfynE"
+    },
+    {
+      "album": {
+        "name": "Horse's Mouth",
+        "url": "https://open.spotify.com/album/4iEZI7TOmPF7Qppstas5kN"
+      },
+      "artists": [
+        {
+          "name": "ladylike",
+          "url": "https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255220,
+      "name": "Horse's Mouth",
+      "url": "https://open.spotify.com/track/5q7LiPO8nD3YOYlpoYq5yD"
     },
     {
       "album": {
@@ -11302,7 +11396,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 172217,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2bDwawwkbYx0C12feCFaoW"
@@ -13672,7 +13766,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 148480,
       "name": "Mad At Nothing",
       "url": "https://open.spotify.com/track/0ifDqYIKmrG93QqrWLNGxQ"
@@ -14618,7 +14712,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 281702,
       "name": "More Easily",
       "url": "https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf"
@@ -16146,7 +16240,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 266672,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/435DAdFp3Ey9QMyT8UogTc"
@@ -17768,6 +17862,24 @@
       "duration_ms": 245075,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/0uk4UdwoCrHdanFaQVP6d5"
+    },
+    {
+      "album": {
+        "name": "Rivers Don't Speak",
+        "url": "https://open.spotify.com/album/7bmD1ZPyifBcTIbpxgufq1"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Rivers Don't Speak",
+      "url": "https://open.spotify.com/track/1qf3auAlvL3BNTTgvBistk"
     },
     {
       "album": {
@@ -22075,6 +22187,24 @@
     },
     {
       "album": {
+        "name": "Tree, So Tall",
+        "url": "https://open.spotify.com/album/0JMt61VeCL0yUqLPdKDaaM"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156854,
+      "name": "Tree, So Tall",
+      "url": "https://open.spotify.com/track/70b6fgYvK4MkxD3sQg5Exp"
+    },
+    {
+      "album": {
         "name": "After You Left Me",
         "url": "https://open.spotify.com/album/1J5dR2A0lw5lC1khx9a5u9"
       },
@@ -23271,6 +23401,24 @@
     },
     {
       "album": {
+        "name": "Where Is the Love?",
+        "url": "https://open.spotify.com/album/6jx756EJF5ESRvtpBiuiYk"
+      },
+      "artists": [
+        {
+          "name": "Jake Laiks",
+          "url": "https://open.spotify.com/artist/1521paR3vRN6hhJatqvRpK"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285750,
+      "name": "Where Is the Love?",
+      "url": "https://open.spotify.com/track/099Aoi4Sj9A38nJjpY0J4G"
+    },
+    {
+      "album": {
         "name": "Sunrise / Where The River Goes",
         "url": "https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ"
       },
@@ -23586,7 +23734,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 232006,
       "name": "Willow Rose",
       "url": "https://open.spotify.com/track/2SEmesSUJHkTDsvUYm71Wf"

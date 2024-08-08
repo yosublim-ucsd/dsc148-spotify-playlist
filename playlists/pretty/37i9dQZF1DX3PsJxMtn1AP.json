@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74630,
+  "num_followers": 74663,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq0DAwAAAACwk6Ge8BGdlDg0pQDiy/d4",
+  "snapshot_id": "ZrLiXgAAAAB86ujXpOM0p6k6eFevEEuX",
   "tracks": [
     {
       "added_at": "2024-07-31 18:58:16",
@@ -191,6 +191,22 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
+    },
+    {
+      "added_at": "2024-08-07 02:56:30",
+      "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
     },
     {
       "added_at": "2024-07-09 04:10:53",

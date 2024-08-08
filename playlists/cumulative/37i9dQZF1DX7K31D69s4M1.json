@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 140823,
       "name": "Cartographie d'un geste",
       "url": "https://open.spotify.com/track/089hpDdmNpWLfMT98T82YV"
@@ -5765,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "Desde el alma",
+        "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
+      },
+      "artists": [
+        {
+          "name": "Justin Dell",
+          "url": "https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "Desde el alma",
+      "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
+    },
+    {
+      "album": {
         "name": "Desert Skies",
         "url": "https://open.spotify.com/album/4EI988Bgp1IFzrVqPQ2o9u"
       },
@@ -6828,6 +6846,24 @@
       "duration_ms": 217658,
       "name": "En Technicolor",
       "url": "https://open.spotify.com/track/4xRHmHb9JYyAxrV1rINUxQ"
+    },
+    {
+      "album": {
+        "name": "En tu mirada",
+        "url": "https://open.spotify.com/album/3oFkg8r6K0iYyefkB5aw1z"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148542,
+      "name": "En tu mirada",
+      "url": "https://open.spotify.com/track/4Hw4xLW5SddpSP1BqDi3Qb"
     },
     {
       "album": {
@@ -10076,7 +10112,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 120116,
       "name": "Heppi",
       "url": "https://open.spotify.com/track/5IV9Wpx895vHTojOVBIzgx"
@@ -23803,6 +23839,24 @@
     },
     {
       "album": {
+        "name": "Sojourn",
+        "url": "https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o Laurent",
+          "url": "https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151070,
+      "name": "Sojourn",
+      "url": "https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt"
+    },
+    {
+      "album": {
         "name": "Memento Vivere",
         "url": "https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE"
       },
@@ -24740,6 +24794,24 @@
     {
       "album": {
         "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/4wBKB4jrf7D1qoSQtQaenS"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141401,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/2aWGgqhHwF2UlU6qYeoef6"
+    },
+    {
+      "album": {
+        "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2cithPsoePBPykDtE8zWao"
       },
       "artists": [
@@ -25082,7 +25154,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 156506,
       "name": "Sweet Nocturne",
       "url": "https://open.spotify.com/track/2o1vbOCVUv4gf4GLg77T7O"

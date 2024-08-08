@@ -1,12 +1,12 @@
 {
-  "description": "This is Yeah Yeah Yeahs. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 45501,
+  "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
+  "num_followers": 45512,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADXTDnjqzaitlFEGPLaWulY",
+  "snapshot_id": "ZrFngAAAAACxH0LpOdtCA0GlvU9g9XnP",
   "tracks": [
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Little Shadow",
-      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
+      "duration_ms": 211466,
+      "name": "Shame And Fortune",
+      "url": "https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Shame And Fortune",
-      "url": "https://open.spotify.com/track/1G2x0lf3WVY5B1Gut38pSe"
+      "duration_ms": 236000,
+      "name": "Little Shadow",
+      "url": "https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT"
     },
     {
       "added_at": null,

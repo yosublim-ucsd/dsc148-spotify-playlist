@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gunna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Gunna. The essential tracks, all in one playlist.",
   "name": "This Is Gunna",
   "tracks": [
     {
@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 181440,
       "name": "Rackz got m\u00eb (feat. Gunna)",
       "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"

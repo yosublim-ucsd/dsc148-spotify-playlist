@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,111 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,113 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 39 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
 | 40 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
 | 41 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
-| 42 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
-| 43 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
+| 42 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
+| 43 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 44 | [Run It](https://open.spotify.com/track/3uKNoYPEy588darPCXlZxf) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Cal Scruby](https://open.spotify.com/artist/2wcrc3fjebDRLVdtRUa3pu) | [Run It](https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu) | 3:37 |
 | 45 | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV) | 3:38 |
 | 46 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 | 51 | [The Curse of the Sad Mummy](https://open.spotify.com/track/6vWCjuZTaKuyp5IfDmmNyx) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 3:59 |
 
-Snapshot ID: `ZrAWAAAAAAD+hJ5FVzeE3s2bqcNGgMNa`
+Snapshot ID: `ZrFngAAAAADjFiHDGP5L4f1NOWxA2rOY`

@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-102 songs - 6 hr 58 min
+104 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [PLACEBO + 野田洋次郎](https://open.spotify.com/track/49nwbMrOB3fhDPp0MiPeb3) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 4:00 | 2024-04-08 |  |
 | [PLACEBO ＋ 野田洋次郎](https://open.spotify.com/track/2JddJrkwam4cTskjGQoysI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:00 | 2022-11-22 | 2024-04-19 |
 | [POP SONG](https://open.spotify.com/track/2wPSiRWMFFeL1FC4MJ3Qxf) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 3:19 | 2022-11-22 |  |
+| [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 | 2024-08-07 |  |
 | [TEENAGE RIOT](https://open.spotify.com/track/03anCl0CUIi29mbrbsA8pY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:45 | 2022-11-22 | 2024-04-19 |
 | [TEENAGE RIOT](https://open.spotify.com/track/6cD2e63vpaykcU1aFS0z8e) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 3:45 | 2024-04-08 |  |
 | [vivi](https://open.spotify.com/track/3izOZelMZaCC0MMabvssCw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 4:30 | 2022-11-22 |  |
@@ -103,6 +104,7 @@
 | [灰色と青 \( + 菅田将暉 \)](https://open.spotify.com/track/3KnURrjsXA0TDce8N7iOwz) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 5:32 | 2022-11-22 | 2024-04-19 |
 | [眼福](https://open.spotify.com/track/7e2oFZqJWr1fbG6CLH4srC) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:24 | 2022-11-22 |  |
 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 | 2022-11-22 |  |
+| [米津玄師からのボイスコメント](https://open.spotify.com/track/2S9mRRurANCA8ukmbsMG1O) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [米津玄師からのボイスコメント](https://open.spotify.com/album/7GDhAfbRXjn4lpKhKsrMZn) | 0:38 | 2024-08-07 |  |
 | [翡翠の狼](https://open.spotify.com/track/0yHo9VWxek2cGWlEKEXZeu) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/6ep5IzUmjonQYr42rbaMsF) | 3:50 | 2024-04-08 |  |
 | [翡翠の狼](https://open.spotify.com/track/4kUGWziV03u0xvRk6Fmogx) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 3:50 | 2022-11-22 | 2024-04-19 |
 | [街](https://open.spotify.com/track/0rPxJWtfr7aBswJIpsf2lz) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 5:40 | 2022-11-22 |  |

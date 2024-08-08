@@ -1,15 +1,15 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: JADE",
-  "num_followers": 460138,
+  "num_followers": 460154,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrJV+AAAAAD5PKbzGBrxQBfPsk3WJwop",
+  "snapshot_id": "ZrNU4gAAAADd3q9Izt6736fGfwBD4+yJ",
   "tracks": [
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Angel Of My Dreams (The Blessed Madonna Remix)",
         "url": "https://open.spotify.com/album/1n8kIJGPh8kYDo7uq61nlm"
@@ -53,7 +53,27 @@
       "url": "https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "feelslikeimfallinginlove (Zerb x Coldplay)",
+        "url": "https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "duration_ms": 236612,
+      "name": "feelslikeimfallinginlove - Zerb x Coldplay",
+      "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "You & Me (Rivo Remix)",
         "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
@@ -77,7 +97,7 @@
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "yes, and? (remixes)",
         "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
@@ -97,31 +117,7 @@
       "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
         "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
@@ -145,7 +141,7 @@
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Lil Boo Thang (Galantis Remix)",
         "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
@@ -165,27 +161,31 @@
       "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "Illusion (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/1uWLzkJnbcLwKrfaoAa11p"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
         {
           "name": "Dua Lipa",
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 199348,
-      "name": "Illusion - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/77kkDugNfkAar6gx2UkuHi"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
         "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "greedy (remixes)",
         "url": "https://open.spotify.com/album/1fOKXVKxGsnewc2ADO8SFC"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3LdBhYsPBaLzkL8Cupe106"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Roses (Imanbek Remix)",
         "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
@@ -309,79 +309,7 @@
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On) [Jess Bays Remix]",
-        "url": "https://open.spotify.com/album/7HgMSkgNIGuiyDTdEBB3rC"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "The Jammin Kid",
-          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 156723,
-      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On) (feat. C\u00e9line Dion) - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/2DIFOcAht71AC7nyfVAhG7"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "The 360 remix with robyn and yung lean",
-        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 129761,
-      "name": "The 360 remix with robyn and yung lean",
-      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
@@ -401,9 +329,9 @@
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
+        "name": "Houdini - Adam Port Mix",
         "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
       },
       "artists": [
@@ -421,7 +349,27 @@
       "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Shivers (Ofenbach Remix)",
         "url": "https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl"
@@ -441,47 +389,7 @@
       "url": "https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "REACT (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 135116,
-      "name": "REACT - D.O.D Remix",
-      "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Padam Padam (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Padam Padam - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
@@ -501,7 +409,7 @@
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Ride It (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S"
@@ -521,79 +429,47 @@
       "url": "https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "Good Love (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ"
+        "name": "REACT (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/3z1xjXM8LPuABJSw64mmzH"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
         },
         {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         }
       ],
-      "duration_ms": 182401,
-      "name": "Good Love - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM"
+      "duration_ms": 135116,
+      "name": "REACT - D.O.D Remix",
+      "url": "https://open.spotify.com/track/1nduTOCUhGhkMGRH6NBmit"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "Bad Habits (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+        "name": "Padam Padam (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         },
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 194331,
-      "name": "Bad Habits - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+      "duration_ms": 204242,
+      "name": "Padam Padam - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Robin Schulz Remix]",
-        "url": "https://open.spotify.com/album/1sWCNg6hMcdlgvPOzOM9kP"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/6GM5okVwM8whUJKWpCrl3j"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Post Malone (feat. RANI) [VIZE Remix]",
         "url": "https://open.spotify.com/album/2idnYaYkAG2xDus7xk1yNZ"
@@ -617,7 +493,51 @@
       "url": "https://open.spotify.com/track/3mruwwpKfG5NYmnEr6O5Dw"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Good Love (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 182401,
+      "name": "Good Love - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
@@ -645,27 +565,79 @@
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "exes (Regard Remix)",
-        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
+        "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Robin Schulz Remix]",
+        "url": "https://open.spotify.com/album/1sWCNg6hMcdlgvPOzOM9kP"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 182508,
-      "name": "exes - Regard Remix",
-      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
+      "duration_ms": 213281,
+      "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6GM5okVwM8whUJKWpCrl3j"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "The 360 remix with robyn and yung lean",
+        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 129761,
+      "name": "The 360 remix with robyn and yung lean",
+      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "JOY (Back on 74)",
         "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
@@ -685,7 +657,7 @@
       "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
@@ -705,7 +677,7 @@
       "url": "https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
@@ -725,7 +697,7 @@
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Mad Love (Remixes)",
         "url": "https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW"
@@ -745,27 +717,7 @@
       "url": "https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
@@ -793,27 +745,27 @@
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
-        "name": "My Head & My Heart (Claptone Remix)",
-        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 182450,
-      "name": "My Head & My Heart - Claptone Remix",
-      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Alibi (feat. Rudimental) [Joel Corry Remix]",
         "url": "https://open.spotify.com/album/5dY7Ol2aeGlG0LdeIkIrdG"
@@ -837,7 +789,27 @@
       "url": "https://open.spotify.com/track/4ufh4uvxSmJCRsR85b96be"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "My Head & My Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "My Head & My Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
@@ -861,7 +833,27 @@
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Illusion (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/1uWLzkJnbcLwKrfaoAa11p"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 199348,
+      "name": "Illusion - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/77kkDugNfkAar6gx2UkuHi"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
@@ -881,7 +873,7 @@
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Fly Away (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ"
@@ -897,7 +889,7 @@
       "url": "https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Streets (Disclosure Remix)",
         "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
@@ -917,7 +909,7 @@
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Memories (Dillon Francis Remix)",
         "url": "https://open.spotify.com/album/63rPSO264uRjW1X5E6cWv6"
@@ -937,27 +929,7 @@
       "url": "https://open.spotify.com/track/0r7CVbZTWZgbTCYdfa2P31"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Training Season (Chlo\u00e9 Caillet Mix)",
-        "url": "https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "Training Season - Chlo\u00e9 Caillet Mix",
-      "url": "https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Good Ones (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv"
@@ -977,7 +949,7 @@
       "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Head Underwater (Remixes)",
         "url": "https://open.spotify.com/album/19kASaaQTNHfTHyEMEZbKl"
@@ -997,7 +969,35 @@
       "url": "https://open.spotify.com/track/4DwQLjh6eCUHX8Ri4ZpG8v"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On) [Jess Bays Remix]",
+        "url": "https://open.spotify.com/album/7HgMSkgNIGuiyDTdEBB3rC"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 156723,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On) (feat. C\u00e9line Dion) - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/2DIFOcAht71AC7nyfVAhG7"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Secrets (MOTi Remix)",
         "url": "https://open.spotify.com/album/00eqA510pHpyFlPy4dn5ZY"
@@ -1021,7 +1021,27 @@
       "url": "https://open.spotify.com/track/2vX1vE1jwuqq29xonWIzvE"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
+      "album": {
+        "name": "Training Season (Chlo\u00e9 Caillet Mix)",
+        "url": "https://open.spotify.com/album/0XCixBnX3pucK2merSXAN2"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 295471,
+      "name": "Training Season - Chlo\u00e9 Caillet Mix",
+      "url": "https://open.spotify.com/track/54Csi59aEo0ENBuwIWtTPJ"
+    },
+    {
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "BREAK MY SOUL REMIXES",
         "url": "https://open.spotify.com/album/43geArd3U23pTVjqzTSnkI"
@@ -1041,27 +1061,7 @@
       "url": "https://open.spotify.com/track/5EooBH2mT6qcsPY8ZgZPVW"
     },
     {
-      "added_at": "2024-08-06 16:57:28",
-      "album": {
-        "name": "Life Goes On (Alok Remix)",
-        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "Life Goes On - Alok Remix",
-      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
-    },
-    {
-      "added_at": "2024-08-06 16:57:28",
+      "added_at": "2024-08-07 11:05:06",
       "album": {
         "name": "Cardboard Box",
         "url": "https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0"

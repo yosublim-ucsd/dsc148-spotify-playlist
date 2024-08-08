@@ -2,7 +2,7 @@
 
 ### [Morning Workout \| Pilates, Gym, HIIT, Run Club 🍑](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Get pumped with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
+> Want to win a 5x class packs with KX Pilates!? Follow Morning Workout and sign up <a href="https://FiltrAU.lnk.to/MW\-KX!KX">here</a> for your chance to win!
 
 892 songs - 1 day 23 hr 4 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 739815,
+  "num_followers": 739871,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Nothing But Thieves (Track by Track)",
-        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "If I Get High",
-      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 236653,
       "name": "Two People",
       "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Nothing But Thieves (Track by Track)",
+        "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "If I Get High",
+      "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "A Symptom Of Being Human (Live)",
-        "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Graveyard Whistling - EP",
-        "url": "https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO"
+        "name": "A Symptom Of Being Human (Live)",
+        "url": "https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 238693,
-      "name": "Last Orders",
-      "url": "https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ"
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 249546,
-      "name": "History",
-      "url": "https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 383506,
       "name": "The Little Things Give You Away",
       "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Graveyard Whistling - EP",
+        "url": "https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Last Orders",
+      "url": "https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 249546,
+      "name": "History",
+      "url": "https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
+        "name": "A Thousand Suns (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
         "name": "Best Of (Chapter One 1997-2004)",
         "url": "https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 218000,
       "name": "Golden Songs",
       "url": "https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
-        "name": "A Thousand Suns (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss"
     },
     {
       "added_at": "2024-06-27 15:42:54",

@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: stickxr",
-  "num_followers": 17589,
+  "num_followers": 17590,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Eter",
         "url": "https://open.spotify.com/album/2yDMfMcXAWYr8t72lvMJlh"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 197538,
       "name": "Eter",
       "url": "https://open.spotify.com/track/334XNDFP2LbjQIBGD3TqzN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 129032,
       "name": "usa",
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "WHOOP WHOOP",
-        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
-      },
-      "artists": [
-        {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
-        }
-      ],
-      "duration_ms": 117015,
-      "name": "WHOOP WHOOP",
-      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/1EbapENzyUNSIEpAlbS54p"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 173342,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 195555,
       "name": "GRUUVSTEP",
       "url": "https://open.spotify.com/track/3ZjXsaS9Ix2O7D9JUZsXYS"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "KAM-RAP-POL",
-        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 207575,
-      "name": "U OLGI",
-      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "\u017bEBY NIE SK\u0141AMA\u0106",
         "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 197906,
       "name": "\u017bEBY NIE SK\u0141AMA\u0106",
       "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "KAM-RAP-POL",
+        "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 207575,
+      "name": "U OLGI",
+      "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "KAM-CAR",
+        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
+      },
+      "artists": [
+        {
+          "name": "Kamil Pivot",
+          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
+        },
+        {
+          "name": "Urb",
+          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "KAM-CAR",
+      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "ad hoc",
         "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 161094,
       "name": "Tygrysy Europy",
       "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "KAM-CAR",
-        "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
-      },
-      "artists": [
-        {
-          "name": "Kamil Pivot",
-          "url": "https://open.spotify.com/artist/7AcwtFOXvwajNn4W02UImh"
-        },
-        {
-          "name": "Urb",
-          "url": "https://open.spotify.com/artist/5lnjzI3oJ7d6dLFlXZE5yV"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "KAM-CAR",
-      "url": "https://open.spotify.com/track/47rB0vcs5NmvI2i0eyxtm4"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1687,22 +1687,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "KOCHAMCISZ\u0118",
-        "url": "https://open.spotify.com/album/2vxlqegoJnmIpmpqQqcCtm"
+        "name": "Trzymaj mnie",
+        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
       },
       "artists": [
         {
-          "name": "IVO",
-          "url": "https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D"
+          "name": "J.Kossak",
+          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
         },
         {
-          "name": "St. Elmo",
-          "url": "https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy"
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
         }
       ],
-      "duration_ms": 170500,
-      "name": "KOCHAMCISZ\u0118",
-      "url": "https://open.spotify.com/track/1efC39rKu3CKifIpb3YiDk"
+      "duration_ms": 152823,
+      "name": "Trzymaj mnie",
+      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1731,26 +1735,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Trzymaj mnie",
-        "url": "https://open.spotify.com/album/3hnvY84sTOLF2PPiprshnS"
+        "name": "KOCHAMCISZ\u0118",
+        "url": "https://open.spotify.com/album/2vxlqegoJnmIpmpqQqcCtm"
       },
       "artists": [
         {
-          "name": "J.Kossak",
-          "url": "https://open.spotify.com/artist/0St7FFRawlk3SB59vqMC8e"
+          "name": "IVO",
+          "url": "https://open.spotify.com/artist/4CFG411wMD1khytZEpHD4D"
         },
         {
-          "name": "FANT\u00d8M",
-          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
-        },
-        {
-          "name": "clearmind",
-          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+          "name": "St. Elmo",
+          "url": "https://open.spotify.com/artist/4Zda412x1VMIPuEAUdZ7Zy"
         }
       ],
-      "duration_ms": 152823,
-      "name": "Trzymaj mnie",
-      "url": "https://open.spotify.com/track/6rkvOH0qBEcF02z5Pqm1oZ"
+      "duration_ms": 170500,
+      "name": "KOCHAMCISZ\u0118",
+      "url": "https://open.spotify.com/track/1efC39rKu3CKifIpb3YiDk"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2011,22 +2011,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Co ludzie powiedz\u0105?",
-        "url": "https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW"
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
       },
       "artists": [
         {
-          "name": "bartek koko",
-          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
         },
         {
-          "name": "Mayor",
-          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
         }
       ],
-      "duration_ms": 188888,
-      "name": "Co ludzie powiedz\u0105?",
-      "url": "https://open.spotify.com/track/4eejNystsuMpoFCtdybLMf"
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Co ludzie powiedz\u0105?",
+        "url": "https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW"
+      },
+      "artists": [
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "Mayor",
+          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "Co ludzie powiedz\u0105?",
+      "url": "https://open.spotify.com/track/4eejNystsuMpoFCtdybLMf"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "11minut",
         "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
       },
@@ -2063,6 +2083,26 @@
       "duration_ms": 147000,
       "name": "highway eleven",
       "url": "https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Jest p\u00f3\u017ano w nocy",
+        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
+      },
+      "artists": [
+        {
+          "name": "Yappe",
+          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
+        },
+        {
+          "name": "DJ HWR",
+          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Jest p\u00f3\u017ano w nocy",
+      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2099,26 +2139,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
-      },
-      "artists": [
-        {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
-        },
-        {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
-        }
-      ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "NIE ZAPOMNIA\u0141EM",
         "url": "https://open.spotify.com/album/36rW8L6xWVlgPKtd49j98O"
       },
@@ -2139,6 +2159,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Fuagra",
+        "url": "https://open.spotify.com/album/5DKuDjuM7B1jONlYwb15G4"
+      },
+      "artists": [
+        {
+          "name": "J Aspn",
+          "url": "https://open.spotify.com/artist/6PMgT0L3qGVH7qqgXuiu27"
+        }
+      ],
+      "duration_ms": 114059,
+      "name": "Fuagra",
+      "url": "https://open.spotify.com/track/1ZTMThBSBMSd1RG8NIqA0G"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Tak\u017ce ten",
         "url": "https://open.spotify.com/album/1VWRzLm9Uo17fBT2EPoPb2"
       },
@@ -2155,42 +2191,6 @@
       "duration_ms": 178790,
       "name": "Tak\u017ce ten",
       "url": "https://open.spotify.com/track/5Wq75k4EV86NlxEgH6pQHW"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Jest p\u00f3\u017ano w nocy",
-        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
-      },
-      "artists": [
-        {
-          "name": "Yappe",
-          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
-        },
-        {
-          "name": "DJ HWR",
-          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Jest p\u00f3\u017ano w nocy",
-      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Fuagra",
-        "url": "https://open.spotify.com/album/5DKuDjuM7B1jONlYwb15G4"
-      },
-      "artists": [
-        {
-          "name": "J Aspn",
-          "url": "https://open.spotify.com/artist/6PMgT0L3qGVH7qqgXuiu27"
-        }
-      ],
-      "duration_ms": 114059,
-      "name": "Fuagra",
-      "url": "https://open.spotify.com/track/1ZTMThBSBMSd1RG8NIqA0G"
     }
   ],
   "unique_name": "alt rap",

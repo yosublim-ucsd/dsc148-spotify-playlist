@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stranger on the Shore \(Rerecorded\)](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 |
+| 1 | [Stranger on the Shore \(Rerecorded\)](https://open.spotify.com/track/3I2j9uOUl4YkyoZgjSo9vF) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:49 |
 | 2 | [I Can't Stop Loving You](https://open.spotify.com/track/0lKNhJylqHrHdQBzmFN73Y) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Six Pack \- Ray Charles](https://open.spotify.com/album/68wjp1tSvtS4vXkKxQ9WQQ) | 4:13 |
 | 3 | [Mashed Potato Time](https://open.spotify.com/track/6jouZcdraQvsbh7SWkLEui) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [It's Mashed Potato Time/Do The Bird](https://open.spotify.com/album/4SaED2mtSzOU6UEGk6rzwm) | 2:30 |
 | 4 | [Roses Are Red \(My Love\) \- Single Version](https://open.spotify.com/track/0qYok0f8O5DE8yJSo146dn) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:38 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7GSt7smvMMAiOFmPJ17jEf.md) - [plain]
 | 6 | [Johnny Angel](https://open.spotify.com/track/6YueqKlGC5UwEEpLqaPkG5) | [Shelley Fabares](https://open.spotify.com/artist/6ZID5oFfvvgzIRrqXaTJSy) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:17 |
 | 7 | [Loco\-Motion](https://open.spotify.com/track/6jGWdcCalPuYQtTSMAVU9h) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Golden Hits forever V5](https://open.spotify.com/album/7aDs155Ps2HI81WIrqQ6Oh) | 2:17 |
 | 8 | [Let Me In](https://open.spotify.com/track/1mSd2GxGybu5RTymqGZ9Gk) | [The Sensations](https://open.spotify.com/artist/708pmTl2zRKC87egxplOGc) | [Doo Wop Golden Oldies Vol 3](https://open.spotify.com/album/5BuvyocB8lSFgJjoiRtqoK) | 3:09 |
-| 9 | [The Twist \(Rerecorded\)](https://open.spotify.com/track/0M5EaPIXN3FneJ7exwpYNM) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [\#1 Hits Of The 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:38 |
+| 9 | [The Twist \(Rerecorded\)](https://open.spotify.com/track/0M5EaPIXN3FneJ7exwpYNM) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:38 |
 | 10 | [Soldier Boy \(Rerecorded Version\)](https://open.spotify.com/track/3Yey43damnXJRuWdlzW9jJ) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [The Shirelles \- Their Very Best \(Rerecorded Version\)](https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2) | 2:41 |
 | 11 | [Hey! Baby](https://open.spotify.com/track/6PKDaaXBAxNjzgE92Ocyav) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Simply Rock'n'Roll Vol\. One](https://open.spotify.com/album/2LUZ3oSNMrEKLfuwL0Ooyq) | 2:24 |
 | 12 | [The Wanderer](https://open.spotify.com/track/4EoUALVwY4i7U6uKRhk8hr) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:43 |

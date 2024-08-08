@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Mezzosangue in cover.",
-  "num_followers": 42170,
+  "num_followers": 42178,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
-        "name": "PROTOMARANZA",
-        "url": "https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6"
-      },
-      "artists": [
-        {
-          "name": "Articolo 31",
-          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "CONTRABBANDO (feat. Neffa)",
-      "url": "https://open.spotify.com/track/0QS13NtJOwI4CECSOhy1ZB"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
         "name": "Dead Poets 3 - Maledetti",
         "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
+        "name": "PROTOMARANZA",
+        "url": "https://open.spotify.com/album/7974d9vxiVh64fS6m4k0J6"
+      },
+      "artists": [
+        {
+          "name": "Articolo 31",
+          "url": "https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "CONTRABBANDO (feat. Neffa)",
+      "url": "https://open.spotify.com/track/0QS13NtJOwI4CECSOhy1ZB"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "Portami lontano",
         "url": "https://open.spotify.com/album/20l63Ki5O4fMMKlNy2MIdg"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 201818,
       "name": "Portami lontano",
       "url": "https://open.spotify.com/track/1iWumdzVHTdebdSLqhIh02"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
-        "name": "Neurodeliri 2024",
-        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Maury B",
-          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Neurodeliri 2024",
-      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1503,6 +1479,30 @@
       "duration_ms": 211930,
       "name": "Funema (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/3CPhJHDKASMC4qAHcA0ZTX"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
+        "name": "Neurodeliri 2024",
+        "url": "https://open.spotify.com/album/68oOfd51ZVekGtvxR17RnZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Maury B",
+          "url": "https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Neurodeliri 2024",
+      "url": "https://open.spotify.com/track/2GbXcZNDy5naiSe5OTN3Cb"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -1547,6 +1547,30 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "Struggle Music",
+        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "Con i soldi in testa",
+      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
         "url": "https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy"
       },
@@ -1587,30 +1611,6 @@
       "duration_ms": 296264,
       "name": "MALAVITA, Pt. 2 / HeadShot, Vol. 3",
       "url": "https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "Struggle Music",
-        "url": "https://open.spotify.com/album/0yzj3wIn7Lx9m6ZbQgVY29"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 216086,
-      "name": "Con i soldi in testa",
-      "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "Parole",
+        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+      },
+      "artists": [
+        {
+          "name": "Mistaman",
+          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Parole",
+      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "Scrivo Ancora 3",
         "url": "https://open.spotify.com/album/167xJZRSEzQp9MLsWDDrU2"
       },
@@ -1827,18 +1843,18 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
-        "name": "Parole",
-        "url": "https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37"
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
       "artists": [
         {
-          "name": "Mistaman",
-          "url": "https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q"
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Parole",
-      "url": "https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN"
+      "duration_ms": 145840,
+      "name": "Dovrei",
+      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -1859,22 +1875,6 @@
       "duration_ms": 185759,
       "name": "Fra le note",
       "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Dovrei",
-      "url": "https://open.spotify.com/track/3sQwZsAyVW2phsGXzAggg7"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -1915,30 +1915,6 @@
       "duration_ms": 168607,
       "name": "METRONOMO",
       "url": "https://open.spotify.com/track/60KMbrrUJx9Azph2keQ3b2"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Willie Peyote",
-          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -2011,6 +1987,30 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/66RJpmsJezgMhz1MegmyZe"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2BedkqoRhSUlK5XObeEAVZ"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "Era Tutto Un Sogno",
         "url": "https://open.spotify.com/album/2v3HEA2GorZa2JZKEKiHxA"
       },
@@ -2055,34 +2055,6 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
-        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
-        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
-      },
-      "artists": [
-        {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
-        }
-      ],
-      "duration_ms": 162151,
-      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
-      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
         "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
@@ -2107,30 +2079,6 @@
       "duration_ms": 261810,
       "name": "Black Rain, pt. 2",
       "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "GENUFLEX",
-        "url": "https://open.spotify.com/album/1HAMs7LoNClaz8lwemRnzb"
-      },
-      "artists": [
-        {
-          "name": "Santa Sede",
-          "url": "https://open.spotify.com/artist/3hCet152qxZ2RHdimZ1isw"
-        },
-        {
-          "name": "RollzRois",
-          "url": "https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR"
-        },
-        {
-          "name": "Less Torrance",
-          "url": "https://open.spotify.com/artist/0Ru2OUKDg0PwmkmypTXMmo"
-        }
-      ],
-      "duration_ms": 169377,
-      "name": "GENUFLEX",
-      "url": "https://open.spotify.com/track/1RSmAWBOJ7peDgLG6pYsOS"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -2171,6 +2119,30 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "GENUFLEX",
+        "url": "https://open.spotify.com/album/1HAMs7LoNClaz8lwemRnzb"
+      },
+      "artists": [
+        {
+          "name": "Santa Sede",
+          "url": "https://open.spotify.com/artist/3hCet152qxZ2RHdimZ1isw"
+        },
+        {
+          "name": "RollzRois",
+          "url": "https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR"
+        },
+        {
+          "name": "Less Torrance",
+          "url": "https://open.spotify.com/artist/0Ru2OUKDg0PwmkmypTXMmo"
+        }
+      ],
+      "duration_ms": 169377,
+      "name": "GENUFLEX",
+      "url": "https://open.spotify.com/track/1RSmAWBOJ7peDgLG6pYsOS"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "Pallottole Sull\u2019Amore (feat. Fabri Fibra)",
         "url": "https://open.spotify.com/album/0Ad8s8Wb02jw9ZpkNErjuX"
       },
@@ -2187,6 +2159,34 @@
       "duration_ms": 235329,
       "name": "Pallottole Sull'Amore (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/5ZgSHdkSfuTZcO157LTxuz"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
+        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
+        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
+      },
+      "artists": [
+        {
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
+      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -2459,26 +2459,6 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
-        "name": "Zaffiro",
-        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Zaffiro",
-      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
         "name": "Qualcosa \u00e8 cambiato",
         "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
       },
@@ -2511,6 +2491,26 @@
       "duration_ms": 201066,
       "name": "Ne Parlero' Con Te",
       "url": "https://open.spotify.com/track/4eHz63b9Wus5sRtErW3HG0"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
+        "name": "Zaffiro",
+        "url": "https://open.spotify.com/album/3NnBwoPNQ3CvIPxBLyDZuh"
+      },
+      "artists": [
+        {
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
+        },
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Zaffiro",
+      "url": "https://open.spotify.com/track/44e0qnheHPqzUziwjc7EP2"
     },
     {
       "added_at": "2024-08-06 13:16:53",
@@ -2603,6 +2603,22 @@
     {
       "added_at": "2024-08-06 13:16:53",
       "album": {
+        "name": "Qualcosa \u00e8 cambiato",
+        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
+      },
+      "artists": [
+        {
+          "name": "Ghemon",
+          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
+      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
+    },
+    {
+      "added_at": "2024-08-06 13:16:53",
+      "album": {
         "name": "FEGATO",
         "url": "https://open.spotify.com/album/08voNOMFTP8gbfUj1a8af0"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 174000,
       "name": "Detersivo",
       "url": "https://open.spotify.com/track/4DZkasAnr7Vq9oEskZP2Ky"
-    },
-    {
-      "added_at": "2024-08-06 13:16:53",
-      "album": {
-        "name": "Qualcosa \u00e8 cambiato",
-        "url": "https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab"
-      },
-      "artists": [
-        {
-          "name": "Ghemon",
-          "url": "https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "La Verit\u00e0 (Non Abita Pi\u00f9 Qua)",
-      "url": "https://open.spotify.com/track/3a7IMYChDLGVEqubscuao1"
     },
     {
       "added_at": "2024-08-06 13:16:53",

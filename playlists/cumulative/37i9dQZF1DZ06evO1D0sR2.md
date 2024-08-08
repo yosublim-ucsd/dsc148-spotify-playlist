@@ -2,7 +2,7 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. The essential tracks, all in one playlist.
+> This Is JJ Hairston\. Les titres incontournables, réunis dans une seule et même playlist.
 
 146 songs - 16 hr 14 min
 
@@ -111,10 +111,10 @@
 | [Shift This Place](https://open.spotify.com/track/2p4c4LzwQDQB7vWGTQCXmB) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 4:25 | 2024-01-14 | 2024-04-01 |
 | [Shift This Place](https://open.spotify.com/track/4DpG8THfiN5O5DqoZZpg5E) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 4:25 | 2023-05-09 | 2023-09-16 |
 | [Spirit of God \- Live](https://open.spotify.com/track/6eusWdCP7AoqckgTPHGV02) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/6ZeMA4azAQ0cYdk1rMNuVr) | 8:09 | 2023-08-27 | 2023-08-31 |
-| [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 | 2024-05-14 |  |
+| [Spirit of God \- Live](https://open.spotify.com/track/6kQSyWhKq3DC61Bz2KYG3s) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 8:09 | 2024-05-14 | 2024-08-08 |
 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 | 2023-04-02 |  |
 | [That Great Name \(feat\. Benita Jones\)](https://open.spotify.com/track/5vnPYDqATa2EDOAsgD3YCQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 7:30 | 2023-04-02 | 2024-02-05 |
-| [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 | 2024-04-01 | 2024-08-06 |
+| [The Blood](https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:12 | 2024-04-01 |  |
 | [The Blood](https://open.spotify.com/track/5GDfnpfmkgYuvCVcY116XE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:12 | 2023-04-02 | 2024-01-08 |
 | [The Blood Still Works](https://open.spotify.com/track/49dXY7y9z30gIu1m24xHOQ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/4BRPb4QlYTndXSoCuEsEBl) | 6:18 | 2023-04-10 | 2023-04-21 |
 | [The Blood Still Works](https://open.spotify.com/track/6NozZ99Xvp4M0haL0dRiX2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 6:18 | 2024-04-01 | 2024-04-14 |

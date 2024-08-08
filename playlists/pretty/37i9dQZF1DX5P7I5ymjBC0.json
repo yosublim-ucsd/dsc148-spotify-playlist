@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69898,
+  "num_followers": 69896,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-07-31 11:40:12",
       "album": {
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Kala Ramnath",
+          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
+        }
+      ],
+      "duration_ms": 368026,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
+    },
+    {
+      "added_at": "2024-07-31 11:40:12",
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
-    },
-    {
-      "added_at": "2024-07-31 11:40:12",
-      "album": {
-        "name": "Rang",
-        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Kala Ramnath",
-          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Rasiya",
-      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
     },
     {
       "added_at": "2024-07-31 11:40:12",
@@ -1019,6 +1019,30 @@
     {
       "added_at": "2024-07-31 11:40:12",
       "album": {
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Kala Ramnath",
+          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
+        },
+        {
+          "name": "Barry Phillips",
+          "url": "https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI"
+        }
+      ],
+      "duration_ms": 382666,
+      "name": "Yatra",
+      "url": "https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP"
+    },
+    {
+      "added_at": "2024-07-31 11:40:12",
+      "album": {
         "name": "Night Song",
         "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
       },
@@ -1035,22 +1059,6 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
-    },
-    {
-      "added_at": "2024-07-31 11:40:12",
-      "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
-      },
-      "artists": [
-        {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
     }
   ],
   "unique_name": "Fusion Finds",

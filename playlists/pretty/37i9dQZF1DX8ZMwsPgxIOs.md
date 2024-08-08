@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Lilly Palmer, Alan Fitzpatrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,808 likes - 109 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,845 likes - 109 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

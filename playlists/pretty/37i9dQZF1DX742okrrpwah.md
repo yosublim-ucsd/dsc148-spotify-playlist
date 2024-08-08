@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Charli xcx, Billie Eilish au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,049 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,041 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

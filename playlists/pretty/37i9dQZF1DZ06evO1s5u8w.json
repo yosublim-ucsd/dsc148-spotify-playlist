@@ -1,12 +1,12 @@
 {
   "description": "This Is Talking Heads. Los temas esenciales, todos en una lista.",
-  "num_followers": 184298,
+  "num_followers": 184335,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAABzVa7wRCb9ycbu6FKoYo+P",
+  "snapshot_id": "ZrFngAAAAACzqSkjGispDlVy+1MCuKG4",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 345573,
-      "name": "Moon Rocks - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v"
+      "duration_ms": 131560,
+      "name": "Thank You for Sending Me an Angel - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 345573,
+      "name": "Moon Rocks - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 349280,
       "name": "Born Under Punches (The Heat Goes On) - 2005 Remaster",
       "url": "https://open.spotify.com/track/4eBCTzBsSjYgrLH5clQf2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 131560,
-      "name": "Thank You for Sending Me an Angel - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
     },
     {
       "added_at": null,

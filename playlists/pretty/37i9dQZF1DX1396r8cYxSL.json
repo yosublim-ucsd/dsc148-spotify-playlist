@@ -1,6 +1,6 @@
 {
   "description": "2024 yaz\u0131na damga vuracak \u015fark\u0131lar. Kapak: Lvbel C5 x AKDO",
-  "num_followers": 251368,
+  "num_followers": 251457,
   "original_name": "Yaz Hitleri 2024",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
+        "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
+        "url": "https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc Beker",
+          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
+      "url": "https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
         "name": "Yine \u00c7al\u0131yor",
         "url": "https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 135372,
       "name": "Kafam\u0131n \u0130\u00e7i",
       "url": "https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
-        "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
-        "url": "https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU"
-      },
-      "artists": [
-        {
-          "name": "Beng\u00fc Beker",
-          "url": "https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Sana Y\u0131ld\u0131zlar\u0131 \u00d6dedi\u011fimden",
-      "url": "https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0"
     },
     {
       "added_at": "2024-07-18 21:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-18 21:00:00",
       "album": {
-        "name": "SAGOLUYORUM (BIG TERORISTA)",
-        "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
-      },
-      "artists": [
-        {
-          "name": "Jeff Redd",
-          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
-        }
-      ],
-      "duration_ms": 95540,
-      "name": "SAGOLUYORUM (BIG TERORISTA)",
-      "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
-    },
-    {
-      "added_at": "2024-07-18 21:00:00",
-      "album": {
         "name": "Shoote Shoote",
         "url": "https://open.spotify.com/album/77lWxk1dyJG2QmmrjGrqPC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 179733,
       "name": "Shoote Shoote",
       "url": "https://open.spotify.com/track/3miyN5Xj06i5cfy8vNZfDU"
+    },
+    {
+      "added_at": "2024-07-18 21:00:00",
+      "album": {
+        "name": "SAGOLUYORUM (BIG TERORISTA)",
+        "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "duration_ms": 95540,
+      "name": "SAGOLUYORUM (BIG TERORISTA)",
+      "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
     },
     {
       "added_at": "2024-07-18 21:00:00",

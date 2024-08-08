@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
+    },
+    {
+      "album": {
         "name": "bandaids",
         "url": "https://open.spotify.com/album/2rs0D9ZGI8H7Z3PqkqSjWU"
       },
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"

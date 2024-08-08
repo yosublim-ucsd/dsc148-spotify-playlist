@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,183 likes - 110 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,184 likes - 110 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [First and last](https://open.spotify.com/track/7iNq2dUfZPJgtlupGGVQPb) | [Brolle](https://open.spotify.com/artist/67Lz9CWEfBpcH7myXeRb0b) | [First and last](https://open.spotify.com/album/5zxLDb4k3Ml4qd4yceM6q0) | 4:21 |
 | 97 | [SVETT & BLOD](https://open.spotify.com/track/1cKnZEEP0lVQAI1WR9LPTN) | [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [DemoBeatz](https://open.spotify.com/artist/7ko9HLlDHbfeNM4mPEz3BX) | [SVETT & BLOD](https://open.spotify.com/album/3iYFTJlcXUX45lMpP53VlN) | 2:34 |
 | 98 | [CAN'T STOP](https://open.spotify.com/track/6LljQNeHS4fDIHDZsIz654) | [Nova Hall](https://open.spotify.com/artist/6w5hFIuazmYT76EhEJJ0B2) | [VICE](https://open.spotify.com/album/4cAMD9tejjSyJjUWcs7SNS) | 2:56 |
-| 99 | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(with Fridayy, Future & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
+| 99 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |
 | 100 | [Rock And Roll Hell](https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Rock And Roll Hell](https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA) | 3:18 |
 | 101 | [Lönlife](https://open.spotify.com/track/4YXXuIytuGGfs7v5QZxGv3) | [Fronda](https://open.spotify.com/artist/4i6VLJAtySJ3Vxf9R1me6p) | [Lönlife](https://open.spotify.com/album/2Yy9B2BDLL7735u8mfRRdY) | 2:45 |
 | 102 | [365247](https://open.spotify.com/track/0H6eDMyZRNL3GLTUB0aCmv) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [365247](https://open.spotify.com/album/4fUxSKpFBSlIZnA1YJFmVQ) | 2:37 |

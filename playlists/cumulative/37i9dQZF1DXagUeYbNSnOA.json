@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring RYAN. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Dum Chica. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 168253,
       "name": "1 veranito sad",
       "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
@@ -730,6 +730,28 @@
       "duration_ms": 198023,
       "name": "7000 Km a Madrid",
       "url": "https://open.spotify.com/track/2WYb5Hm2CZhfGtmlY25jPP"
+    },
+    {
+      "album": {
+        "name": "75",
+        "url": "https://open.spotify.com/album/7vqLkdDjsk4T3X5luyqM1M"
+      },
+      "artists": [
+        {
+          "name": "Oregon Black",
+          "url": "https://open.spotify.com/artist/3JL1vhNdCUGodO3nDTMmgT"
+        },
+        {
+          "name": "Pepe Nungaray",
+          "url": "https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143578,
+      "name": "75",
+      "url": "https://open.spotify.com/track/3UXIxlJIrgBUcjGiIxgMx6"
     },
     {
       "album": {
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 166000,
       "name": "Agua de Coco",
       "url": "https://open.spotify.com/track/3OAXpX54ChTzTcgSkTBml1"
@@ -3344,7 +3366,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 210000,
       "name": "Antes",
       "url": "https://open.spotify.com/track/7J4ao51oIsszm7VzUsK4WE"
@@ -8526,7 +8548,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 182857,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
@@ -16151,6 +16173,28 @@
     },
     {
       "album": {
+        "name": "Gospel",
+        "url": "https://open.spotify.com/album/4AoVhM4tB17vk8hdGzn5UU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Metta",
+          "url": "https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB"
+        },
+        {
+          "name": "Chingos de Changos",
+          "url": "https://open.spotify.com/artist/0Cb1VGG8mfmoOdEYzpKIJA"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152854,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/4n8D5UOeG7CBxJd3lf4rOS"
+    },
+    {
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
       },
@@ -18181,6 +18225,24 @@
     },
     {
       "album": {
+        "name": "JAZMINES",
+        "url": "https://open.spotify.com/album/5AaX07apcNQnIlouDBRJmK"
+      },
+      "artists": [
+        {
+          "name": "Terapia",
+          "url": "https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261398,
+      "name": "JAZMINES",
+      "url": "https://open.spotify.com/track/5stOSNyy1mDr9VKGM3Nsds"
+    },
+    {
+      "album": {
         "name": "Joel Huiqui",
         "url": "https://open.spotify.com/album/3wG1CVrtV678Z2Lpy5XSXG"
       },
@@ -18812,7 +18874,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 171958,
       "name": "La Hora",
       "url": "https://open.spotify.com/track/3Idym0mboYYDiTFmnbyXOt"
@@ -18920,7 +18982,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 213176,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/14Xxw1eR3bBYAt2b1lwkn0"
@@ -19098,6 +19160,24 @@
       "duration_ms": 291750,
       "name": "La Novela",
       "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
+    },
+    {
+      "album": {
+        "name": "La Ouija",
+        "url": "https://open.spotify.com/album/0gCaJMGkjfvuMPOxIZpJS4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153394,
+      "name": "La Ouija",
+      "url": "https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK"
     },
     {
       "album": {
@@ -34933,6 +35013,24 @@
     },
     {
       "album": {
+        "name": "Such A Witch",
+        "url": "https://open.spotify.com/album/74yDqvcfl1uFBbVolTReFr"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242186,
+      "name": "Such A Witch",
+      "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "album": {
         "name": "Desde Ahora",
         "url": "https://open.spotify.com/album/4ncW7DmMU9E6q55Qrj5t52"
       },
@@ -37313,6 +37411,24 @@
     },
     {
       "album": {
+        "name": "Tomando Tu Vino",
+        "url": "https://open.spotify.com/album/08ZuV161rF32CNhY0QzwwN"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Tomando Tu Vino",
+      "url": "https://open.spotify.com/track/1poL8zgwl2AHfDcf16MzMK"
+    },
+    {
+      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -37878,6 +37994,24 @@
       "duration_ms": 238389,
       "name": "Tristella",
       "url": "https://open.spotify.com/track/1phCFLjZZi9k3fyu1nSnHH"
+    },
+    {
+      "album": {
+        "name": "TROPICAL DELIGHT",
+        "url": "https://open.spotify.com/album/7fFzci4FfcPQxhR8tm5hbl"
+      },
+      "artists": [
+        {
+          "name": "Paul\u00e9",
+          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177709,
+      "name": "TROPICAL DELIGHT",
+      "url": "https://open.spotify.com/track/5ItXDBxOaRtqy2yM1MLetd"
     },
     {
       "album": {
@@ -40167,6 +40301,24 @@
     },
     {
       "album": {
+        "name": "VOLVER",
+        "url": "https://open.spotify.com/album/15W4tkzohCLp54XFo1q8AY"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/1JpHqYzItkAx38oMHL9rhB"
+    },
+    {
+      "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/2L12a7a6djd5lykCQDtoSu"
       },
@@ -40624,7 +40776,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 118000,
       "name": "WHO\u2019S DAT",
       "url": "https://open.spotify.com/track/2LMb4vJ3lffV8vtMT2Ovsg"
@@ -41640,7 +41792,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 179812,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/2zq3mK0wQw2SdXFpX1x9K6"

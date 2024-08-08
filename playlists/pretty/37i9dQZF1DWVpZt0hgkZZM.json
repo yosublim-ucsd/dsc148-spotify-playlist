@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 33073,
+  "num_followers": 33095,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de la Sonora Cordobesa",
-        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Cordobesa",
-          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
-        }
-      ],
-      "duration_ms": 147091,
-      "name": "Roberto Ruiz",
-      "url": "https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 214226,
       "name": "Te Est\u00e1n Matando los A\u00f1os",
       "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de la Sonora Cordobesa",
+        "url": "https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Cordobesa",
+          "url": "https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK"
+        }
+      ],
+      "duration_ms": 147091,
+      "name": "Roberto Ruiz",
+      "url": "https://open.spotify.com/track/0k47sNciLjPUyxr5Gq6GgC"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 23940,
+  "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
+  "num_followers": 23941,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrAWAAAAAADchPVDUCAfU2Jyf76jqyEu",
+  "snapshot_id": "ZrFngAAAAADN3lKB4A0Swrn6orUXw1zg",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Los Ni\u00f1os Se Enamoran",
+      "url": "https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rarezas",
         "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Los Ni\u00f1os Se Enamoran",
-      "url": "https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,

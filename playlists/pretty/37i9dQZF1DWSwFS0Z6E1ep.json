@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 261477,
+  "num_followers": 261549,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "One Dozen Berry's",
         "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
+        "name": "So Young / Right Behind You Baby",
+        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
       },
       "artists": [
         {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
         }
       ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
+      "duration_ms": 145093,
+      "name": "Right Behind You Baby",
+      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "So Young / Right Behind You Baby",
-        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
       },
       "artists": [
         {
-          "name": "Ray Smith",
-          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Right Behind You Baby",
-      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ten Cats Down / Finders Keepers",
-        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
-      },
-      "artists": [
-        {
-          "name": "The Miller Sisters",
-          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
-        }
-      ],
-      "duration_ms": 137201,
-      "name": "Ten Cats Down",
-      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ten Cats Down / Finders Keepers",
+        "url": "https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK"
+      },
+      "artists": [
+        {
+          "name": "The Miller Sisters",
+          "url": "https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP"
+        }
+      ],
+      "duration_ms": 137201,
+      "name": "Ten Cats Down",
+      "url": "https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sun Records Recording Artist - Rosco Gordon",
+        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Bop With Me Baby",
+      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Sun Records - Turn It Up! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/1bIGw9IlSWHA5NZIXrpsW5"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 168280,
       "name": "Drinkin' Wine Spodee-O-Dee",
       "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Sun Records Recording Artist - Rosco Gordon",
-        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
-      },
-      "artists": [
-        {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
-        }
-      ],
-      "duration_ms": 156088,
-      "name": "Bop With Me Baby",
-      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "My Bucket's Got a Hole in It / Sweet Misery",
         "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
       "artists": [
         {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1671,22 +1687,6 @@
       "duration_ms": 139181,
       "name": "Rock Around The Town",
       "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
-      },
-      "artists": [
-        {
-          "name": "Eddie Bush",
-          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
-        }
-      ],
-      "duration_ms": 112561,
-      "name": "Baby I Don't Care",
-      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
         "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 134640,
       "name": "Just In Time - Remastered 1998",
       "url": "https://open.spotify.com/track/1UzlJGnPQLCIDAHuKSjQQT"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bush",
+          "url": "https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo"
+        }
+      ],
+      "duration_ms": 112561,
+      "name": "Baby I Don't Care",
+      "url": "https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO"
     },
     {
       "added_at": "2022-06-07 05:25:13",

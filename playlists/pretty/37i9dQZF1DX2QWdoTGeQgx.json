@@ -867,26 +867,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "more than friends",
-        "url": "https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb"
-      },
-      "artists": [
-        {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 269893,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "more than friends",
+        "url": "https://open.spotify.com/album/5B7QRaSqhgyNd0u8tKZoEb"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/6UKJSeAwuHJ9nl7vyMeUJX"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -975,22 +975,18 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "life with u - acoustic",
-        "url": "https://open.spotify.com/album/5AVKyiM9W1Ryir0X1IkpXu"
+        "name": "the boy",
+        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
       "artists": [
         {
           "name": "lullaboy",
           "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 211755,
-      "name": "life with u - acoustic",
-      "url": "https://open.spotify.com/track/0W4WuLZcehB48UkdCw9b4T"
+      "duration_ms": 216530,
+      "name": "the boy",
+      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
     },
     {
       "added_at": "2024-05-30 00:26:38",
@@ -1115,26 +1111,6 @@
     {
       "added_at": "2024-05-30 00:26:38",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
-    },
-    {
-      "added_at": "2024-05-30 00:26:38",
-      "album": {
         "name": "Good For A Time (feat. Bea Lorenzo)",
         "url": "https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs"
       },
@@ -1151,6 +1127,26 @@
       "duration_ms": 144250,
       "name": "Good For A Time (feat. Bea Lorenzo)",
       "url": "https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2"
+    },
+    {
+      "added_at": "2024-05-30 00:26:38",
+      "album": {
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2024-05-30 00:26:38",

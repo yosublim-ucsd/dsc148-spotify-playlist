@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 196560,
       "name": "A Moment Apart - camoufly Remix",
       "url": "https://open.spotify.com/track/1LGEamUOVpiXa1RPsdhoH7"
@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "career day (Exaktly remix)",
+        "url": "https://open.spotify.com/album/17FRYdAB2RID2osUWZRroU"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "Exaktly",
+          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "career day - Exaktly remix",
+      "url": "https://open.spotify.com/track/0tl8pZGQFLfc55G19RHk03"
+    },
+    {
+      "album": {
         "name": "Cash",
         "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
       },
@@ -1026,6 +1048,32 @@
       "duration_ms": 289054,
       "name": "CHROMA 004 ROLA",
       "url": "https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ"
+    },
+    {
+      "album": {
+        "name": "CHROMA 005",
+        "url": "https://open.spotify.com/album/5K2nivvCbKUqr1cBAkei6g"
+      },
+      "artists": [
+        {
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "CHROMA 005 A.L.O.E",
+      "url": "https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if"
     },
     {
       "album": {
@@ -1374,7 +1422,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 134367,
       "name": "Departed",
       "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"

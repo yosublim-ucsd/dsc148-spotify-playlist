@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "A \u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/53WJEjJJ5flJTAUmh3Kmis"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "A \u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/6ifISefylcgPQksE0gmcVY"
+    },
+    {
+      "album": {
         "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
         "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
       },
@@ -6282,7 +6300,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 178290,
       "name": "Diferentona",
       "url": "https://open.spotify.com/track/7sAyqOe0BHySvFjSI5tnBA"
@@ -8182,7 +8200,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 107102,
       "name": "Eu So Comi Ela uma Vez",
       "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
@@ -10502,6 +10520,24 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
+    },
+    {
+      "album": {
+        "name": "Honey Babe",
+        "url": "https://open.spotify.com/album/5NcK5mHbg6e6GkxRatRASw"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Honey Babe",
+      "url": "https://open.spotify.com/track/7tcO4ICvtftGWI19MnUJXM"
     },
     {
       "album": {
@@ -14832,7 +14868,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 117576,
       "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/70ZMGJGfSXw5pIvi0wbNja"
@@ -18080,7 +18116,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 170229,
       "name": "Premoni\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5kw1m0cJIaCSefWaMTSAy4"
@@ -19254,6 +19290,24 @@
       "duration_ms": 153448,
       "name": "Revoada No Colch\u00e3o",
       "url": "https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej"
+    },
+    {
+      "album": {
+        "name": "Reza do Milh\u00e3o",
+        "url": "https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184427,
+      "name": "Reza do Milh\u00e3o",
+      "url": "https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4"
     },
     {
       "album": {
@@ -21510,7 +21564,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-08",
       "duration_ms": 164307,
       "name": "S\u00f3 Vou Namorar",
       "url": "https://open.spotify.com/track/4xEYeY9OSYP7c8dSwlpBFD"

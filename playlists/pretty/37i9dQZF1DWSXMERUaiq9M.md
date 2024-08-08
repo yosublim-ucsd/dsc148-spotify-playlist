@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,835 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,014 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 51 | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F) | 1:48 |
 | 52 | [SEXY](https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [CARGO](https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe) | [SEXY](https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu) | 3:16 |
 | 53 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 |
-| 54 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 |
+| 54 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
 | 55 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
-| 56 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 |
+| 56 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 |
 | 57 | [9mm](https://open.spotify.com/track/1g1SuDg4vUq9u0J7V142Zx) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [9mm](https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD) | 3:57 |
 | 58 | [I'm Sorry \- southstar Remix](https://open.spotify.com/track/1DCR3o15qC2degQEYG5K2R) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [Janis Zielinski](https://open.spotify.com/artist/0qqVoFZdP1OB0N9FkGfJ4D), [sowhy3](https://open.spotify.com/artist/1U1FxSl6bYeFUeGcg8KOsE) | [Digital Chaos](https://open.spotify.com/album/7t8XvETweKzk5YjRfTQzYA) | 3:34 |
 | 59 | [Whatcha Say](https://open.spotify.com/track/4SPTxHzln31EU9u45IjgMU) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Whatcha Say](https://open.spotify.com/album/5avrElnK0zHZvzW77xBnsN) | 2:19 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain](/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1tPWTwuxOLsE2Do1JQSUxA)
 
-### [2010s Summer Throwbacks ☀️🦩🌴](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
+### [2010s Summer Pop Throwbacks ☀️🦩🌴](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,556 likes - 249 songs - 15 hr 12 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,543 likes - 249 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 248 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 249 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 |
 
-Snapshot ID: `AAAMMkquG+cn1nE6uWI1wz0yqRH26c00`
+Snapshot ID: `AAAMMyEABHNGgmiPjyiz9IZvG+nQGQze`

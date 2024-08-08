@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,046 likes - 97 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,176 likes - 97 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 6 | [Got Me Started](https://open.spotify.com/track/57oJOxhRWwsuUQHt9HqGaS) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Got Me Started](https://open.spotify.com/album/6d1tsnZvDEndqo4F8olKAs) | 3:47 |
 | 7 | [Happier Than Ever](https://open.spotify.com/track/7s8N22VkwQQMYaCvIw0BtI) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Happier Than Ever](https://open.spotify.com/album/2Qy3PrG7ftu8pVijsAUiXf) | 2:32 |
 | 8 | [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 |
-| 9 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
+| 9 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \- Solo Piano Version](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 10 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 |
 | 11 | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/track/0sI0B9QXE5niX3mneduYhe) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Cruel Summer \(arr\. piano\)](https://open.spotify.com/album/0Sbm8z1AV9cR6weWaxThHr) | 2:43 |
 | 12 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 14 | [Fix You](https://open.spotify.com/track/1lxXCaDvyePyJbuERiARnB) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Fix You](https://open.spotify.com/album/06s6vxLzZhhiep295nhpQ1) | 3:45 |
 | 15 | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5) | 5:06 |
 | 16 | [Iris \(arr\. piano\)](https://open.spotify.com/track/4Z1xN1J50aIn1kqDmy0RNG) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Iris \(arr\. piano\)](https://open.spotify.com/album/4bzdOlm7AWqvF4DFfJq6x9) | 2:36 |
-| 17 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \(Solo Piano\)](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
+| 17 | [Earned It \- Solo Piano](https://open.spotify.com/track/5xqYtaFkLcLRe6IWLGoTuL) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Earned It \- Solo Piano](https://open.spotify.com/album/7y1j0Vh18d5fWoFc5Ki0Oz) | 4:06 |
 | 18 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 |
 | 19 | [Moon River \(Arr\. for Guitar by Sérgio Assad\) \- From "Breakfast at Tiffany's"](https://open.spotify.com/track/4cUcI2A7BxkES0nOBn15pO) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Cinema](https://open.spotify.com/album/4b4nboVDurZKBFzaL9lJdS) | 3:24 |
 | 20 | [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 |

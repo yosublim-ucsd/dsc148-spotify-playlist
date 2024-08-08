@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,989 likes - 180 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,033 likes - 180 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 4 | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \- From "The Marvels"](https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \[From "The Marvels"\]](https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4) | 3:00 |
 | 5 | [We Know What You Whisper](https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:35 |
 | 6 | [Purpose Is Glorious](https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Season 2 \- Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ) | 3:08 |
-| 7 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
+| 7 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \- Original Video Game Soundtrack](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 | 8 | [Headless](https://open.spotify.com/track/424JrO6uy6tRKULU2FruAB) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0KRhT6YRtWbgIhMqyOGAfa) | 2:17 |
 | 9 | [Higher\. Further\. Faster\. Together\. \- From "The Marvels"](https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Higher\. Further\. Faster\. Together\. \(From "The Marvels"\)](https://open.spotify.com/album/6Hg1d6H8AjeTvALjqWlNld) | 3:50 |
 | 10 | [Mo Ergaste Forn \(Full Version\)](https://open.spotify.com/track/2s8a9lpM83HBmcBS6Skorn) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 3:23 |

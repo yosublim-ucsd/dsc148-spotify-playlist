@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8120,
+  "num_followers": 8119,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Seu Nome",
-        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 191735,
-      "name": "Seu Nome",
-      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 259831,
       "name": "O Milagre do Natal",
       "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Seu Nome",
+        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 191735,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -771,6 +771,22 @@
       "duration_ms": 212175,
       "name": "A Hist\u00f3ria de Cristo",
       "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Por Amor a N\u00f3s",
+      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Por Amor a N\u00f3s",
-      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Folk Christmas",
         "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 171571,
       "name": "Surgem Anjos Proclamando",
       "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Vinde Celebremos",
-      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
         "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 193000,
       "name": "Vem Chegando o Natal",
       "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Noite Feliz (Stille Nacht)",
+      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -911,22 +927,6 @@
       "duration_ms": 324820,
       "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
       "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Natal de Todos N\u00f3s",
-        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Noite Feliz (Stille Nacht)",
-      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
     }
   ],
   "unique_name": "Louvores de Natal",
