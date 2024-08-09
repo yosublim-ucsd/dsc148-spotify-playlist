@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 291,789 likes - 46 songs - 2 hr 27 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 291,784 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 |
-| 2 | [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/1gHswNMOQFlGi8yA8quKNn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 |
+| 2 | [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/5jwZdQArPjjRLzneEx3DAn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 |
 | 3 | [OVERDOSE](https://open.spotify.com/track/3EndRWjDyW9XqK0xmMIgzm) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [OVERDOSE](https://open.spotify.com/album/7KG0bfR59nbz0nWO0USRIP) | 2:43 |
 | 4 | [TR!!!GGERED!!!](https://open.spotify.com/track/4yVfQSlP6iArfe7JKz0vDA) | [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [TR!!!GGERED!!!](https://open.spotify.com/album/5vXZLJlmW2QE4by1WjANit) | 2:21 |
 | 5 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 |

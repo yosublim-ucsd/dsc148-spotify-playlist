@@ -2,7 +2,7 @@
 
 ### [This Is girl in red](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21OmAs)
 
-> This Is girl in red\. Los temas esenciales, todos en una lista.
+> This is girl in red\. Todos os maiores hits em uma só playlist.
 
 38 songs - 1 hr 53 min
 

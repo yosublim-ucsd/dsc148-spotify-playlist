@@ -8853,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "Too Sweet",
+        "url": "https://open.spotify.com/album/6fgqEz2qgiPYeqtmjbAwPE"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250351,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5VV7jBGFStPxRbQc3BlK6O"
+    },
+    {
+      "album": {
         "name": "One Million Dillions",
         "url": "https://open.spotify.com/album/3bnVjZwgc5G4SVxTl6fS9q"
       },

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Iqhbal
+> Dendang Dangdut teratas\. Cover: Aulia
 
-183 songs - 14 hr 21 min
+185 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
 | [Ramadhan Yang Ku Rindu](https://open.spotify.com/track/6Acip5VSeERRwTiNOW503T) | [Ade Reungit](https://open.spotify.com/artist/1U36tPNlDRd7BCyq8ftXkk) | [Ramadhan Yang Ku Rindu](https://open.spotify.com/album/3bWjs7Qp2rpi8ZftbtgwJ9) | 6:05 | 2024-03-22 |  |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 | 2023-09-15 |
+| [Rindu](https://open.spotify.com/track/3cKgKjurexHC1BTtcWzrGo) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Rindu](https://open.spotify.com/album/4xkXqRUixRjHEdTAF2aZUL) | 5:12 | 2024-08-08 |  |
 | [Rindu Padamu Nabi](https://open.spotify.com/track/5djmMiZ3iu8kdszWUWEUIW) | [Muhammad Hadi Assegaf](https://open.spotify.com/artist/63tkeCL4mJVCNFUI3Q2q5J) | [Rindu Padamu Nabi](https://open.spotify.com/album/1FlJ2X0atWjH9LBtD38OUd) | 5:16 | 2024-03-22 |  |
 | [Rindu Tapi Malu \- Live At Ska Reggae](https://open.spotify.com/track/3T1Fyxl2WPQLmEv8JKFxO2) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Rindu Tapi Malu \(Live At Ska Reggae\)](https://open.spotify.com/album/5XMn6JEGTJJDP4JuzjGUCj) | 4:15 | 2024-02-08 | 2024-03-15 |
 | [Rindu Terhalang](https://open.spotify.com/track/0ZpjsLT6wzv0JSvIGa0MhQ) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Rindu Terhalang](https://open.spotify.com/album/0biYVS1ZoGwdRF7f5ySmJd) | 5:28 | 2024-07-25 |  |
@@ -179,6 +180,7 @@
 | [Terkesan](https://open.spotify.com/track/3luAGhDWJJ00VxuVVX364j) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Terkesan](https://open.spotify.com/album/5KjuTPMCZzBhFo6l7TjVnF) | 5:25 | 2023-10-26 |  |
 | [Terluka Cinta](https://open.spotify.com/track/08g2X36etHHW9XJWEnuNkw) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Terluka Cinta](https://open.spotify.com/album/21jf0mQwADcYgUhe1uMKUo) | 4:22 | 2023-08-17 |  |
 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 |  |
+| [Tidak Semua Laki\-Laki](https://open.spotify.com/track/602t4lNXRIhEjpjW7N1jCe) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tidak Semua Laki\-Laki](https://open.spotify.com/album/6q2iWphcTRGqOKe4JPrLVD) | 5:56 | 2024-08-08 |  |
 | [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |
 | [Tulus](https://open.spotify.com/track/5CxSb3UwkhriAMnlINNbAs) | [Sevi Xiu](https://open.spotify.com/artist/0feWnMosmJCNFXhFXsK8Cb) | [Tulus](https://open.spotify.com/album/1Z6zIX7a8D4OSuQTQ5Swjn) | 3:40 | 2024-04-18 |  |
 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 | 2021-08-23 | 2023-11-04 |

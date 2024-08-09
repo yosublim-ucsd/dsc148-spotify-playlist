@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-979 songs - 2 day 12 hr 9 min
+980 songs - 2 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Where Evil Grows](https://open.spotify.com/track/3w56u6nrL0K1YYpinkfTeP) | [The Poppy Family](https://open.spotify.com/artist/0XawOhZ28ajmIWwPpRJuDA), [Terry Jacks](https://open.spotify.com/artist/16AJvLZdw3lK1VTBrJjEt0), [Susan Jacks](https://open.spotify.com/artist/6GH8lDgqqfg1KSDfFRFGzK) | [A Good Thing Lost: 1968\-1973](https://open.spotify.com/album/6Drcfiy2b9bJDPR5CllOyy) | 2:51 | 2022-03-23 |  |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2024-05-23 |  |
 | [Whiplash](https://open.spotify.com/track/3ubwpGT0gJYI9MRJcZPP0f) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 2:50 | 2024-06-17 |  |
+| [Whistle For The Choir](https://open.spotify.com/track/3rXCnvL6xP83VsYUg4rm7e) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 | 2024-08-08 |  |
 | [WHO CARES?](https://open.spotify.com/track/1SKN0qfmaLESOcr9rV9kvn) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 2:29 | 2022-04-29 |  |
 | [Who The Fuck Are Arctic Monkeys?](https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 5:36 | 2020-04-16 |  |
 | [Why Did I Laugh Anyway](https://open.spotify.com/track/6djLGpfM8gPfaENZK5CvqL) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Why Did I Laugh Anyway](https://open.spotify.com/album/3fX1AK2lHmZlTYQMRbmVI1) | 3:09 | 2024-05-10 |  |

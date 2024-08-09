@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: Hot Boys",
-  "num_followers": 543445,
+  "num_followers": 543499,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-07 03:28:01",
       "album": {
-        "name": "Down for Life",
-        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
-      },
-      "artists": [
-        {
-          "name": "D4L",
-          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Laffy Taffy",
-      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
-    },
-    {
-      "added_at": "2024-07-07 03:28:01",
-      "album": {
         "name": "Urban Legend",
         "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 216706,
       "name": "Bring Em Out",
       "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
+    },
+    {
+      "added_at": "2024-07-07 03:28:01",
+      "album": {
+        "name": "Down for Life",
+        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
+      },
+      "artists": [
+        {
+          "name": "D4L",
+          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Laffy Taffy",
+      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
     },
     {
       "added_at": "2024-07-07 03:28:01",
@@ -926,14 +926,10 @@
         {
           "name": "Three 6 Mafia",
           "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
         }
       ],
       "duration_ms": 118933,
-      "name": "Slob On My Nob (feat. Project Pat)",
+      "name": "Slob On My Nob",
       "url": "https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp"
     },
     {

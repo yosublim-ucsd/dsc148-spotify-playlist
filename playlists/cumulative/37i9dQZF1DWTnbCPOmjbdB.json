@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Lanberry",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: BARANOVSKI",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 193855,
       "name": "Ca\u0142kiem Nowa Bajka",
       "url": "https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 164651,
       "name": "Do gwiazd",
       "url": "https://open.spotify.com/track/065zbSVj08H0NyD4EBPmuF"
@@ -658,6 +658,24 @@
       "duration_ms": 238443,
       "name": "Dobrostan",
       "url": "https://open.spotify.com/track/2ksIbitQAwxvnQYGTgsfO1"
+    },
+    {
+      "album": {
+        "name": "Dreszcze",
+        "url": "https://open.spotify.com/album/5yJaejiwpETo921xYSAiqV"
+      },
+      "artists": [
+        {
+          "name": "Honorata Skarbek",
+          "url": "https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142881,
+      "name": "Dreszcze",
+      "url": "https://open.spotify.com/track/7xljpo4bsuGPS0Gn3LDRsq"
     },
     {
       "album": {
@@ -1193,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Naturalnie",
+        "url": "https://open.spotify.com/album/2vERDQM1THyLRWAu5lbs4b"
+      },
+      "artists": [
+        {
+          "name": "BARANOVSKI",
+          "url": "https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124963,
+      "name": "Naturalnie",
+      "url": "https://open.spotify.com/track/0ITBfggasiPdkLgubB7NDk"
+    },
+    {
+      "album": {
         "name": "BLINDBOX",
         "url": "https://open.spotify.com/album/7Cn5ha1ybFow1MXaqUu8F0"
       },
@@ -1204,7 +1240,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 200769,
       "name": "Ne Rozumiju",
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 162857,
       "name": "Obca",
       "url": "https://open.spotify.com/track/1mM3zG72lDhGcCE8CG9XT7"
@@ -1510,6 +1546,24 @@
       "duration_ms": 189583,
       "name": "Poprosz\u0119 wi\u0119cej siebie",
       "url": "https://open.spotify.com/track/53LjYUbwHKVBxyqsMYVLTG"
+    },
+    {
+      "album": {
+        "name": "Pop\u0142yniemy",
+        "url": "https://open.spotify.com/album/39CNmDhQhmyWLsGD50RACg"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178570,
+      "name": "Pop\u0142yniemy",
+      "url": "https://open.spotify.com/track/66jkTQje4DSEe72yG8HhKz"
     },
     {
       "album": {
@@ -2092,6 +2146,24 @@
       "duration_ms": 185864,
       "name": "Wszystkie Orgazmy Lata",
       "url": "https://open.spotify.com/track/72RHyrRmnlx3jLqSnlc3ix"
+    },
+    {
+      "album": {
+        "name": "Wyta\u0144czy\u0107 b\u00f3l",
+        "url": "https://open.spotify.com/album/6FYKTMAEoOvnVlZYGUezqF"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Wyta\u0144czy\u0107 b\u00f3l",
+      "url": "https://open.spotify.com/track/7antL73A3sf7xjzU94sbkF"
     },
     {
       "album": {

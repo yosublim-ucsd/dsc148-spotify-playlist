@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Cover Me & Doh Doh Doh (Live)",
+        "url": "https://open.spotify.com/album/5KljWhYhiPR1IjQ2UWnbUp"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312052,
+      "name": "Cover Me & Doh Doh Doh - Live",
+      "url": "https://open.spotify.com/track/3AA6ogcyXezCkkFDQmaSny"
+    },
+    {
+      "album": {
         "name": "Dance Anyhow",
         "url": "https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d"
       },

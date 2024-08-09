@@ -2,7 +2,7 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : The Odds
+> Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
 246 songs - 15 hr 0 min
 

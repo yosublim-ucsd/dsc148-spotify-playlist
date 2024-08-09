@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Eno: Soft Edges",
+        "url": "https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230992,
+      "name": "Discreet Music - Edit",
+      "url": "https://open.spotify.com/track/5CzwXEgVrNbMEUTpHuFwAa"
+    },
+    {
+      "album": {
         "name": "Discreet Music",
         "url": "https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG"
       },
@@ -2960,6 +2978,24 @@
       "duration_ms": 3650800,
       "name": "Thursday Afternoon - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ"
+    },
+    {
+      "album": {
+        "name": "Eno: Soft Edges",
+        "url": "https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220612,
+      "name": "Thursday Afternoon - Edit",
+      "url": "https://open.spotify.com/track/6iDZTMT9xdH84NS4N5L39x"
     },
     {
       "album": {

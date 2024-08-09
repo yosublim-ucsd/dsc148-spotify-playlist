@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,333 songs - 3 day 4 hr 43 min
+1,334 songs - 3 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/track/371eYP4pjqR2C0Vw38u0uk) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/2uXRznzlQXF6TXkrYVO7zA) | 1:23 | 2023-06-28 | 2023-07-06 |
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-03-15 | 2024-08-03 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-11 |  |
+| [MONTAGEM VOZES PROFUNDAS \- TikTok Version](https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2) | [MONTAGEM VOZES PROFUNDAS \(TikTok Version\)](https://open.spotify.com/album/58Uel2jPuFAf4bRiWHLYVz) | 0:54 | 2024-08-08 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2021-09-19 | 2022-02-26 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-03-27 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-09-19 |
@@ -1273,7 +1274,7 @@
 | [عراقي مسرع \- ملينا غربه \| مطلوب اكثر شي](https://open.spotify.com/track/6FYCK8SWAFI7YOE5vc1ivG) | [M6](https://open.spotify.com/artist/03M7YDjHSUmCM65RiX03AZ) | [عراقي مسرع \- ملينا غربه \| مطلوب اكثر شي](https://open.spotify.com/album/5tIqzA7Wn2iCMIz23E99Ks) | 4:13 | 2023-11-18 | 2024-01-12 |
 | [عراقي مسرع \- يتعبني حبيبي وياه](https://open.spotify.com/track/5KRtSJiEEY5xGTXkrqUBRo) | [291i sng](https://open.spotify.com/artist/6UwtkUncHNaTQbdGm9kdxW) | [عراقي مسرع \- يتعبني حبيبي وياه](https://open.spotify.com/album/0MtWQuyk0D40LfsYvOaHqK) | 4:31 | 2024-06-26 | 2024-06-28 |
 | [عراقي مطلوب \| تدري بالفرقة حبيبي ، نسخة مميزة مكس شعر](https://open.spotify.com/track/4agq4MuRkkehSvpvKkDwAw) | [SRAG FM](https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd) | [عراقي مطلوب \| تدري بالفرقة حبيبي ، نسخة مميزة مكس شعر](https://open.spotify.com/album/5M2qgqzF7tNe746dM1eAkB) | 2:37 | 2023-09-12 | 2023-09-23 |
-| [عراقي مطلوب \| نارهم تاكل حطبهم \- شوف الله شسوى بيهم .](https://open.spotify.com/track/2gqgh5I4dEyax62oYV5W0S) | [6RB Music](https://open.spotify.com/artist/4GoRMDpTUTmKUN0uqY0Gsk) | [عراقي مطلوب \| نارهم تاكل حطبهم \- شوف الله شسوى بيهم .](https://open.spotify.com/album/6YCCUJsItGXR97Q1rKEhC0) | 3:26 | 2024-07-27 |  |
+| [عراقي مطلوب \| نارهم تاكل حطبهم \- شوف الله شسوى بيهم .](https://open.spotify.com/track/2gqgh5I4dEyax62oYV5W0S) | [6RB Music](https://open.spotify.com/artist/4GoRMDpTUTmKUN0uqY0Gsk) | [عراقي مطلوب \| نارهم تاكل حطبهم \- شوف الله شسوى بيهم .](https://open.spotify.com/album/6YCCUJsItGXR97Q1rKEhC0) | 3:26 | 2024-07-27 | 2024-08-09 |
 | [عشرة الكذاب](https://open.spotify.com/track/6X71TVbV0PJEb6G7wxU9GF) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH), [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [عشرة الكذاب](https://open.spotify.com/album/2nUuEtumNldylIuMS4bo47) | 3:17 | 2021-03-27\* | 2021-08-25 |
 | [عشق](https://open.spotify.com/track/725MeomdTm3bEr07Mzhgma) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [عشق \- Single](https://open.spotify.com/album/4vMLTfFXChNjzIrpQUkQ1X) | 3:06 | 2021-03-27 | 2021-03-29 |
 | [عطني الريشة](https://open.spotify.com/track/1aiOMYjoI2JGinP7tAdrXh) | [Abdallah khaled](https://open.spotify.com/artist/26sTqTQ21zvHSgCNuHPTwE) | [عطني الريشة](https://open.spotify.com/album/6vbp4lNUW4IQ2Ff0PbqF67) | 3:30 | 2023-06-25 | 2023-08-27 |

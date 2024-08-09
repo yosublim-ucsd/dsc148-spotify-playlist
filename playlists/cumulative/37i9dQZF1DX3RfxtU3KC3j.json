@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Yedinci Ev\n",
+  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Zaaf\n",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 242266,
       "name": "A\u015eKIN YETER",
       "url": "https://open.spotify.com/track/4YDkwxF2dhSsHoYpJkBJop"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 130298,
       "name": "Farkl\u0131 Son",
       "url": "https://open.spotify.com/track/5M223VY30mtUPOcKwA30Qt"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 150000,
       "name": "Hani Nerede?",
       "url": "https://open.spotify.com/track/66ALGT6ONdk1myfpZjBVSl"
@@ -878,6 +878,24 @@
       "duration_ms": 190883,
       "name": "K\u00fcs",
       "url": "https://open.spotify.com/track/1BjwltIYnT7iaZXko9BHbf"
+    },
+    {
+      "album": {
+        "name": "K\u00fcsme Bana",
+        "url": "https://open.spotify.com/album/5t40i2pquz8totuZTesiUz"
+      },
+      "artists": [
+        {
+          "name": "MF\u00d6",
+          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207545,
+      "name": "K\u00fcsme Bana",
+      "url": "https://open.spotify.com/track/2SwtkE2CMIsknHUbY3qrPX"
     },
     {
       "album": {
@@ -1333,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Var Olmak",
+        "url": "https://open.spotify.com/album/2jkFS9Q43DbXd0VkMzOCGM"
+      },
+      "artists": [
+        {
+          "name": "Toprak \u00d6zcan",
+          "url": "https://open.spotify.com/artist/6Qttj8ZyqPedJRThqdM3VS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238421,
+      "name": "Var Olmak",
+      "url": "https://open.spotify.com/track/5gTwQv9KQqwdTcBixj2EsT"
+    },
+    {
+      "album": {
         "name": "Vazge\u00e7 Art\u0131k R\u00fcyalar\u0131mdan",
         "url": "https://open.spotify.com/album/1awwDMnTQnx9VWvfGEdRwY"
       },
@@ -1482,6 +1518,24 @@
       "duration_ms": 215900,
       "name": "Ya\u015fayamam Bu Benle",
       "url": "https://open.spotify.com/track/2OC7TDRpQDfWgo9IEBG807"
+    },
+    {
+      "album": {
+        "name": "Y\u00fcr\u00fcr\u00fcm Durmadan",
+        "url": "https://open.spotify.com/album/7MRUgOqNoPLljSqrCQSj5F"
+      },
+      "artists": [
+        {
+          "name": "Keskin Band",
+          "url": "https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149211,
+      "name": "Y\u00fcr\u00fcr\u00fcm Durmadan",
+      "url": "https://open.spotify.com/track/0BXRBH4JmjEGdxz3vzzIqa"
     },
     {
       "album": {

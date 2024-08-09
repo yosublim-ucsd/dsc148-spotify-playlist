@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,204 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,435 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 59 | [Fight Club](https://open.spotify.com/track/4Hpi4pDDXLIgUaefY97vdA) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Fight Club](https://open.spotify.com/album/3FxeAvksXQAcq9zFV42G7p) | 2:40 |
 | 60 | [Pull Me In](https://open.spotify.com/track/6YJFwZR6mxp8bU38WB3HeX) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Pull Me In](https://open.spotify.com/album/0HpxpO57kgacGm4dSkBdjP) | 2:27 |
 | 61 | [The Way](https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Way](https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co) | 2:39 |
-| 62 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 |
-| 63 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 |
-| 64 | [Samba De Janeiro](https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M) | 2:24 |
+| 62 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 |
+| 63 | [Samba De Janeiro](https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M) | 2:24 |
+| 64 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 |
 | 65 | [Friends \- Bassjackers Remix](https://open.spotify.com/track/4s69BXFmdssMXfSllZ2zlf) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Friends \(Bassjackers Remix\)](https://open.spotify.com/album/4u6UBvjfarDMSzTeNZyBnm) | 2:42 |
 | 66 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 |
 | 67 | [Cantus](https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cantus](https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF) | 3:04 |

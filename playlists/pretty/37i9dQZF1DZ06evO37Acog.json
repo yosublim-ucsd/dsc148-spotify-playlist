@@ -1,12 +1,12 @@
 {
   "description": "This Is Ramon Ayala Y Sus Bravos Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 76012,
+  "num_followers": 76021,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAAD2DcBYYASLhs/wzaxH8ClJ",
+  "snapshot_id": "ZrK5AAAAAAAyN4cKNAmzvlJdUG0vkLH0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 100",
-        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Del Otro Lado del Port\u00f3n",
-      "url": "https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 171413,
       "name": "Mi Golondrina",
       "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 100",
+        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Del Otro Lado del Port\u00f3n",
+      "url": "https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas",
-        "url": "https://open.spotify.com/album/0JN8mZ3miJNMroapco383C"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 138226,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casas de Madera",
         "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagrimas",
+        "url": "https://open.spotify.com/album/0JN8mZ3miJNMroapco383C"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 138226,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
     },
     {
       "added_at": null,

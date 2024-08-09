@@ -4,7 +4,7 @@
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-334 songs - 20 hr 1 min
+335 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,8 +237,9 @@
 | [Remember \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0v7Sl5LxvFElT0adadw4M6) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/5GQsyApGiDXhevzFuqZQuA) | 3:52 | 2021-09-14 | 2022-07-29 |
 | [Remember \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EIHHJFwkm2sCYc7SviPK5) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/0g3SMc5PXgQL9xPvGRwLhy) | 3:52 | 2022-03-08 | 2023-01-12 |
 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 | 2022-03-08 | 2023-09-05 |
-| [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 | 2021-09-14 |  |
+| [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 | 2021-09-14 | 2024-08-09 |
 | [Ride \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:29 | 2021-09-14 |  |
+| [Ripple \- Spotify Singles](https://open.spotify.com/track/72Tcbc4FrUnew1z0HzsysW) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:36 | 2024-08-01 |  |
 | [Road Head \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/17UO5wtVXdpm4ekQrC1RVt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI) | 3:18 | 2021-09-14 | 2022-07-29 |
 | [Road Head \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6dvDU89abVcTMTYleUdrnl) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 3:18 | 2022-03-08 | 2024-04-19 |
 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-11 | 2024-08-02 |

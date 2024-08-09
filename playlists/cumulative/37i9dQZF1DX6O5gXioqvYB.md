@@ -2,7 +2,7 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Lucrezia
+> La nuova scena indie italiana! Cover: Prim
 
 114 songs - 5 hr 30 min
 

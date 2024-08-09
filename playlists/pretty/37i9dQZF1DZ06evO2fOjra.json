@@ -1,12 +1,12 @@
 {
-  "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 490752,
+  "description": "This is: Korn. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 490901,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAAAhxuN/xaetOoRUUvttXQbY",
+  "snapshot_id": "ZrK5AAAAAABs6vr/gWQVrwQggIsNL7LY",
   "tracks": [
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift",
-        "url": "https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 215993,
-      "name": "Prey for Me",
-      "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+        "name": "The Paradigm Shift",
+        "url": "https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
+      "duration_ms": 215993,
+      "name": "Prey for Me",
+      "url": "https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh"
     },
     {
       "added_at": null,

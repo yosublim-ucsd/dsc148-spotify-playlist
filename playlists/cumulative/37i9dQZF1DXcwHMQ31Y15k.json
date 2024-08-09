@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara, Gilga Sahid",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Aftershine",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -248,10 +248,28 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 213277,
       "name": "Aku Wong Lanang",
       "url": "https://open.spotify.com/track/6375kKoeQhZQmIVVcagW2M"
+    },
+    {
+      "album": {
+        "name": "All In For You",
+        "url": "https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4"
+      },
+      "artists": [
+        {
+          "name": "Aftershine",
+          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365538,
+      "name": "All In For You",
+      "url": "https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY"
     },
     {
       "album": {
@@ -624,7 +642,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 299523,
       "name": "Blebah",
       "url": "https://open.spotify.com/track/1YgWnOEOOzlEo5rYNnyE9f"
@@ -686,6 +704,28 @@
       "duration_ms": 439945,
       "name": "Bojomu Sesok Tak Silihe",
       "url": "https://open.spotify.com/track/5tH7E362a0KblrK7ycNzBU"
+    },
+    {
+      "album": {
+        "name": "BOSOHO MOTO",
+        "url": "https://open.spotify.com/album/3jIpkJv0DIwJzBvDfimf9B"
+      },
+      "artists": [
+        {
+          "name": "Syahiba Saufa",
+          "url": "https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz"
+        },
+        {
+          "name": "Zizi Ilma",
+          "url": "https://open.spotify.com/artist/4hZENBJpOZOk5YYgb4do5g"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380925,
+      "name": "BOSOHO MOTO",
+      "url": "https://open.spotify.com/track/44gR5bYDZyNutUyMZyaYJz"
     },
     {
       "album": {
@@ -954,7 +994,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 281250,
       "name": "Crito Mustahil",
       "url": "https://open.spotify.com/track/2vOYGzRHM9IpVQD634gUU3"
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 367335,
       "name": "Garwa (feat. Ajeng Yulia Abdilla)",
       "url": "https://open.spotify.com/track/2nlEnqhZdNna4OsBV3TXOK"
@@ -1884,6 +1924,24 @@
       "duration_ms": 270673,
       "name": "Jaran Goyang",
       "url": "https://open.spotify.com/track/00G0MhqxlDn3VjmCMrMAnF"
+    },
+    {
+      "album": {
+        "name": "Jejantunging Kalbu",
+        "url": "https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269032,
+      "name": "Jejantunging Kalbu",
+      "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
     },
     {
       "album": {
@@ -2274,7 +2332,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 371203,
       "name": "Kenemenen",
       "url": "https://open.spotify.com/track/4s2AtchK38b8oVNnzRq6ZC"
@@ -4267,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Nyonggo (Studio Session)",
+        "url": "https://open.spotify.com/album/764cYrlCfzeDed5XxCmDIf"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276444,
+      "name": "Nyonggo - Studio Session",
+      "url": "https://open.spotify.com/track/4quG5IHklvxxGunJ96FLNL"
+    },
+    {
+      "album": {
         "name": "Ojo Di Bandingke",
         "url": "https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj"
       },
@@ -4806,7 +4882,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 267107,
       "name": "Pirso",
       "url": "https://open.spotify.com/track/1gDHHutgUSsItMyfvvWm0L"
@@ -5906,7 +5982,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 232050,
       "name": "Selow Wae",
       "url": "https://open.spotify.com/track/3I4z6ElFdTzissLoTKUKrj"

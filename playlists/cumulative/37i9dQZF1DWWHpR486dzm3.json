@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Arppa.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Sonia.",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 166428,
       "name": "Always Home",
       "url": "https://open.spotify.com/track/2ss2wwntsEJoLIExHn7b7D"
+    },
+    {
+      "album": {
+        "name": "Amatsonibeibi",
+        "url": "https://open.spotify.com/album/052gqCssy7mE2R2Q7db6Lt"
+      },
+      "artists": [
+        {
+          "name": "20 000 Hz",
+          "url": "https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316126,
+      "name": "Amatsonibeibi",
+      "url": "https://open.spotify.com/track/3CXSWh2e1sQTGIY85sIi0d"
     },
     {
       "album": {
@@ -494,7 +512,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 200738,
       "name": "Friction",
       "url": "https://open.spotify.com/track/0VqNlRzKY3YhhRjSMvrfds"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 250909,
       "name": "I'm So Lonely",
       "url": "https://open.spotify.com/track/03KayXq3qxysujUHzwZdhE"
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Learning To Live",
+        "url": "https://open.spotify.com/album/3Yo69YZKk5cVODRLsKOgad"
+      },
+      "artists": [
+        {
+          "name": "HP Siikasaari",
+          "url": "https://open.spotify.com/artist/79bRjP6UlnCXziRUaeFeMp"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Learning To Live",
+      "url": "https://open.spotify.com/track/6Z8xOMHOd1HgIbcDrZgNPJ"
+    },
+    {
+      "album": {
         "name": "Leiju",
         "url": "https://open.spotify.com/album/1O8BOLZUqyrG9gg5I0j9gA"
       },
@@ -1151,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Liidet\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/3Ba5qHEXGUKAo9cf9EfwO8"
+      },
+      "artists": [
+        {
+          "name": "Ik\u00e4valko",
+          "url": "https://open.spotify.com/artist/2xOofwXB1WKd0KUhZ5pPd4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195374,
+      "name": "Liidet\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/0wlzitCwdKVirvh7Yo6sU5"
+    },
+    {
+      "album": {
         "name": "Liikuppa, liikuppa, likka rukka",
         "url": "https://open.spotify.com/album/2YzyIjvD4QGL843uSreiXL"
       },
@@ -1224,6 +1278,42 @@
       "duration_ms": 156866,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/7zsYx6E99x6Mc5OWg3DiLQ"
+    },
+    {
+      "album": {
+        "name": "Sea of Your Thoughts",
+        "url": "https://open.spotify.com/album/5olMokN7kYmmjkeCkOmoAV"
+      },
+      "artists": [
+        {
+          "name": "Airi's",
+          "url": "https://open.spotify.com/artist/5QJZKOS0azSGPJXoqPcm12"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Marigolds",
+      "url": "https://open.spotify.com/track/3lR7YTrRLhkB8lTZJRCAK9"
+    },
+    {
+      "album": {
+        "name": "Matkamies",
+        "url": "https://open.spotify.com/album/6etbNpStUUehD2dcr5F9ot"
+      },
+      "artists": [
+        {
+          "name": "Susanna Lepp\u00e4nen",
+          "url": "https://open.spotify.com/artist/2tu1KfwJKZi0is9Fbraz81"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250746,
+      "name": "Matkamies",
+      "url": "https://open.spotify.com/track/0lcgXxVpDPKCYjzGTw5We0"
     },
     {
       "album": {
@@ -1429,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Nyt tai ei koskaan",
+        "url": "https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc"
+      },
+      "artists": [
+        {
+          "name": "Sonia",
+          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172459,
+      "name": "Nyt tai ei koskaan",
+      "url": "https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB"
+    },
+    {
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/4H0MD6W36PsY4Jet4NWMwh"
       },
@@ -1462,6 +1570,24 @@
       "duration_ms": 228320,
       "name": "Ordinary Joys",
       "url": "https://open.spotify.com/track/5TavRtXaX57zPZvhTj46Uh"
+    },
+    {
+      "album": {
+        "name": "Darkness to a Fairytale",
+        "url": "https://open.spotify.com/album/2pJ2QQSBhFmx35DhM3yBOq"
+      },
+      "artists": [
+        {
+          "name": "Scharliina",
+          "url": "https://open.spotify.com/artist/6upTgjoRNa4vGXKOl04BMY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168752,
+      "name": "Paradigm - 528hz",
+      "url": "https://open.spotify.com/track/60cwmU6sxcMFK1SWaX6Uul"
     },
     {
       "album": {
@@ -1834,6 +1960,24 @@
       "duration_ms": 197626,
       "name": "Sea of Sensations",
       "url": "https://open.spotify.com/track/5GT0ke6Kw8ltBRIeW49lPv"
+    },
+    {
+      "album": {
+        "name": "Seilorin tyt\u00e4r",
+        "url": "https://open.spotify.com/album/7yVA52cMHrEUs53LQuGIzm"
+      },
+      "artists": [
+        {
+          "name": "Laura Airaksinen",
+          "url": "https://open.spotify.com/artist/1AHWLiCS9t30NbCkucHctd"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191627,
+      "name": "Seilorin tyt\u00e4r",
+      "url": "https://open.spotify.com/track/60eLk78ZyxQnKxy4Wd3QoP"
     },
     {
       "album": {
@@ -2318,7 +2462,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 143013,
       "name": "Viisaat lapset",
       "url": "https://open.spotify.com/track/2YUFL03F9q5HdiiwL3uzUl"

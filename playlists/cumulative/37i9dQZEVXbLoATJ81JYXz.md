@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,965 songs - 4 day 5 hr 34 min
+1,966 songs - 4 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-06 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-06 | 2021-06-22 |
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-17 |
+| [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-08-08 |  |
 | [Bäst här inne](https://open.spotify.com/track/1VoOX1ecMP7YVzyu32gWVf) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/08lVeLxkGMau5sBa2J6045) | 4:59 | 2023-09-25 | 2023-10-03 |
 | [Bäst här inne](https://open.spotify.com/track/2r8X5szspfSyhUlVes7plU) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Bäst här inne](https://open.spotify.com/album/5StD84eoU8BOFcReirunrU) | 4:59 | 2023-09-23 | 2023-09-26 |
 | [Bäst här inne](https://open.spotify.com/track/7ifhAM3ObwyI92K2P8Dl6z) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 4:59 | 2023-10-14 | 2023-10-21 |
@@ -361,7 +362,7 @@
 | [Det kommer aldrig va över för mig](https://open.spotify.com/track/3SjXx3rbNGk8nCho8YEoz5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 4:27 | 2022-06-25 | 2022-09-02 |
 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2023-10-21 | 2024-01-24 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-21 | 2023-01-27 |
-| [Det stora röda huset](https://open.spotify.com/track/5DfEC4lFDrovZb80WawyDH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/1c2KR9XlITnIXwjEJAD8cP) | 2:58 | 2024-07-27 |  |
+| [Det stora röda huset](https://open.spotify.com/track/5DfEC4lFDrovZb80WawyDH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/1c2KR9XlITnIXwjEJAD8cP) | 2:58 | 2024-07-27 | 2024-08-09 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-04-18 | 2021-05-12 |
 | [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 | 2023-04-22 | 2023-05-13 |
 | [Det är ju dej jag går och väntar på](https://open.spotify.com/track/2sbjPQE3sS9H6i8BOmtZbr) | [Lucianoz](https://open.spotify.com/artist/3RhiF9RmgXoDzqEOW3dWoP) | [Det är ju dej jag går och väntar på](https://open.spotify.com/album/65Uq5PyD7Fe01psCrIblPv) | 2:57 | 2023-01-28 | 2024-06-25 |

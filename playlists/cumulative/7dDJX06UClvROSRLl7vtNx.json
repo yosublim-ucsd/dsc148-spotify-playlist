@@ -3521,6 +3521,32 @@
     },
     {
       "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/4AfuWLlbhVrKN9XTo9jnvx"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "B Martin",
+          "url": "https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144272,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/5N70iqJHDPTll0GZgSuYf0"
+    },
+    {
+      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk"
       },
@@ -5310,6 +5336,32 @@
       "duration_ms": 151000,
       "name": "Leave Before You Love Me",
       "url": "https://open.spotify.com/track/6HDAs0r81Xha21sT1KnuYT"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/4snMm0MZ9Xl4RaiEuA0TWg"
+      },
+      "artists": [
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Lemonade (feat. SEM)",
+      "url": "https://open.spotify.com/track/35VTDdIaIuTg6G8UWg7IMN"
     },
     {
       "album": {

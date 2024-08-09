@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,850 likes - 65 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,856 likes - 65 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 51 | [シャバイライ](https://open.spotify.com/track/3v3bCL4c1dCXyzeUSwwKBV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [シャバイライ](https://open.spotify.com/album/01RdiZpducGd1hrA2g7N7d) | 3:57 |
 | 52 | [Living Fool](https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Living Fool](https://open.spotify.com/album/0Vaq53yG0l4tjNP2AmIj7v) | 3:01 |
 | 53 | [網戸](https://open.spotify.com/track/4Z5yOq0mPmVmOeavCd5M1x) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [網戸](https://open.spotify.com/album/34XaoSX6mO8Cm1UJ6WQvfR) | 3:31 |
-| 54 | [青に紛れて](https://open.spotify.com/track/5q1Dkxac15DyKnoYv9EZng) | [admires](https://open.spotify.com/artist/4fGDAG6zO1LxRMQSYKPDLC) | [青に紛れて](https://open.spotify.com/album/6Nz3hBD52UjjLQmpfBvFeC) | 3:44 |
-| 55 | [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 |
-| 56 | [ドラマにならない](https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u) | [kako](https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk) | [愛すべき誰](https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB) | 2:54 |
-| 57 | [幸せと災難](https://open.spotify.com/track/3kHevdk2wXCnW24J8qL1TE) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [誰よりも幸せになれ、報われろアタシ](https://open.spotify.com/album/4AddiZdg0gTeC8V5ao9Yyi) | 4:17 |
-| 58 | [ゆめと街灯](https://open.spotify.com/track/6u9d67Zgm2M6NCLkFSKaKo) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [ゆめと街灯](https://open.spotify.com/album/5ilX0sB6UkHcSXeowxkVKW) | 3:57 |
-| 59 | [SKY BLUE](https://open.spotify.com/track/3e3ujY7iUH8QGiY44fU8Dw) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [SKY BLUE](https://open.spotify.com/album/6vY6SppswZbL1SahYnLn1y) | 3:23 |
-| 60 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 |
-| 61 | [俺に真実を教えてくれ!!](https://open.spotify.com/track/1K9T9R5EgS4TThkDzjvx1W) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [俺に真実を教えてくれ!!](https://open.spotify.com/album/3paW3uw5uQJH5aJN59tU8W) | 1:34 |
-| 62 | [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 |
-| 63 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
-| 64 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
-| 65 | [CREAM](https://open.spotify.com/track/1gMYcZj1y84jxRCGQBNqoU) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [CREAM](https://open.spotify.com/album/7aIFDiXgaMPn8PztKrwcAZ) | 3:31 |
+| 54 | [われわれのしま](https://open.spotify.com/track/7lMPVBtPdoxVENSe16W9Hn) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [われわれのしま](https://open.spotify.com/album/10XSCEuJSWpw0LbJOPZc0L) | 3:39 |
+| 55 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 |
+| 56 | [青に紛れて](https://open.spotify.com/track/5q1Dkxac15DyKnoYv9EZng) | [admires](https://open.spotify.com/artist/4fGDAG6zO1LxRMQSYKPDLC) | [青に紛れて](https://open.spotify.com/album/6Nz3hBD52UjjLQmpfBvFeC) | 3:44 |
+| 57 | [Sentiments](https://open.spotify.com/track/1RV7iXLe9Ydh9J9MiXtOLm) | [Nape](https://open.spotify.com/artist/4i2HtvaNWxR0sYVRzQTT1N) | [Sentiments](https://open.spotify.com/album/5svu4CMAw8VYFyF6nxswfr) | 3:11 |
+| 58 | [ドラマにならない](https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u) | [kako](https://open.spotify.com/artist/55CSGXikDNrn9191M5SrPk) | [愛すべき誰](https://open.spotify.com/album/6ZsGiyySnrWKQrmIHeUkSB) | 2:54 |
+| 59 | [幸せと災難](https://open.spotify.com/track/3kHevdk2wXCnW24J8qL1TE) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [誰よりも幸せになれ、報われろアタシ](https://open.spotify.com/album/4AddiZdg0gTeC8V5ao9Yyi) | 4:17 |
+| 60 | [ゆめと街灯](https://open.spotify.com/track/6u9d67Zgm2M6NCLkFSKaKo) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [ゆめと街灯](https://open.spotify.com/album/5ilX0sB6UkHcSXeowxkVKW) | 3:57 |
+| 61 | [SKY BLUE](https://open.spotify.com/track/3e3ujY7iUH8QGiY44fU8Dw) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [SKY BLUE](https://open.spotify.com/album/6vY6SppswZbL1SahYnLn1y) | 3:23 |
+| 62 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 |
+| 63 | [俺に真実を教えてくれ!!](https://open.spotify.com/track/1K9T9R5EgS4TThkDzjvx1W) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [俺に真実を教えてくれ!!](https://open.spotify.com/album/3paW3uw5uQJH5aJN59tU8W) | 1:34 |
+| 64 | [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 |
+| 65 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
 
-Snapshot ID: `ZrI6cAAAAADX8/4y5KSA+EEBhoVSkqOn`
+Snapshot ID: `ZrV5FgAAAAAgY42AeHBUGAXUVOLxOwAQ`

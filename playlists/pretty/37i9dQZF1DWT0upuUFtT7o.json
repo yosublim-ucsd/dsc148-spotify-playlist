@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Sex Week",
-  "num_followers": 224282,
+  "num_followers": 224356,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrOaAAAAAABL1pQG6/hDxfYDVuCn7dmM",
+  "snapshot_id": "ZrT8BAAAAADLTSNnn7v7VjoLUDDKxWsE",
   "tracks": [
     {
       "added_at": "2024-08-07 16:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 236688,
       "name": "Lonnie Frisbee",
       "url": "https://open.spotify.com/track/1yFRrquTPANa3sCmYo9TGI"
+    },
+    {
+      "added_at": "2024-08-08 17:10:28",
+      "album": {
+        "name": "I've Seen The Lizard People",
+        "url": "https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "duration_ms": 131178,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2tOAaP3Z4mmoNJnnw5bCaj"
     },
     {
       "added_at": "2024-08-07 16:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kuban, Oki",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159491,
       "name": "CERTIFIED LOVER",
       "url": "https://open.spotify.com/track/7j7VVmSnbj9qRcHF9FpxNh"
@@ -5319,6 +5319,32 @@
     },
     {
       "album": {
+        "name": "najlepszy dzie\u0144",
+        "url": "https://open.spotify.com/album/1q7e8JcwZdvweQmV9bkGog"
+      },
+      "artists": [
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "najlepszy dzie\u0144",
+      "url": "https://open.spotify.com/track/4CzZz613hFFDTejJG9Eonw"
+    },
+    {
+      "album": {
         "name": "Najm\u0142odszy Ksi\u0105\u017c\u0119",
         "url": "https://open.spotify.com/album/35bDtCIzOjCqBQYUFAvlNw"
       },
@@ -5390,7 +5416,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187415,
       "name": "NAPALONE FANKI",
       "url": "https://open.spotify.com/track/1am7ZCYTibeYENexigk6Gz"
@@ -6029,6 +6055,32 @@
     },
     {
       "album": {
+        "name": "Ona M\u00f3wi",
+        "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Ona M\u00f3wi",
+      "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
+    },
+    {
+      "album": {
         "name": "OPIUM!",
         "url": "https://open.spotify.com/album/2EgwS6mpTUMqkMBB3PxQg8"
       },
@@ -6535,6 +6587,28 @@
     },
     {
       "album": {
+        "name": "PINIATA",
+        "url": "https://open.spotify.com/album/3QDHAJHup2u35wnATY7FLc"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180117,
+      "name": "PINIATA",
+      "url": "https://open.spotify.com/track/7roRtHirffvOkaZ2YbOTa7"
+    },
+    {
+      "album": {
         "name": "Plan F",
         "url": "https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP"
       },
@@ -6888,7 +6962,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 193561,
       "name": "Pusty pok\u00f3j, ale p\u0142yty diamentowe",
       "url": "https://open.spotify.com/track/6dB3ZhCxLHIVU1EoVv5SnF"
@@ -6958,7 +7032,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180740,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/7JcJGXbYk5K6KUngkEXuiA"
@@ -8940,6 +9014,36 @@
       "duration_ms": 144615,
       "name": "You Can\u2019t Sit With Us",
       "url": "https://open.spotify.com/track/7tfKEvbgjUEfcCf0c8nr2f"
+    },
+    {
+      "album": {
+        "name": "Za tych co nie mog\u0105",
+        "url": "https://open.spotify.com/album/7e3YauilUY873Qfqph6woB"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Pedro",
+          "url": "https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT"
+        },
+        {
+          "name": "DKanee",
+          "url": "https://open.spotify.com/artist/2B1qzhgPVz2eb4M7DxOadz"
+        },
+        {
+          "name": "Wardza20k",
+          "url": "https://open.spotify.com/artist/2ezG16Od6YnOUmoy9DjkxZ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Za tych co nie mog\u0105",
+      "url": "https://open.spotify.com/track/38x9Tgp32A6fKYWihm3JUw"
     },
     {
       "album": {

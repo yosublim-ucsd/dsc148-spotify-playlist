@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,750 likes - 697 songs - 1 day 15 hr 21 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,754 likes - 697 songs - 1 day 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 |
-| 2 | [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 |
-| 3 | [1800 Degrees](https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG) | [Vulture Love](https://open.spotify.com/artist/021z3GxpIYc4ykwfHY5G5O), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Vulture Love Presents: The Last Zombies on Earth](https://open.spotify.com/album/1f0CTYUfYgfehhyKnR4noN) | 2:35 |
-| 4 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
-| 5 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
+| 1 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
+| 2 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 |
+| 3 | [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 |
+| 4 | [1800 Degrees](https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG) | [Vulture Love](https://open.spotify.com/artist/021z3GxpIYc4ykwfHY5G5O), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Vulture Love Presents: The Last Zombies on Earth](https://open.spotify.com/album/1f0CTYUfYgfehhyKnR4noN) | 2:35 |
+| 5 | [Third Coast](https://open.spotify.com/track/5ta1fZrCY7b98YNJqNN3H8) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [How Do You Sleep At Night? With You](https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH) | 2:36 |
 | 6 | [Feel A Way \(feat\. Don Toliver\)](https://open.spotify.com/track/0PgqpFFX4WxBbXhjkONk5b) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
 | 7 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 |
 | 8 | [LET ME HEAR YOU SCREAM](https://open.spotify.com/track/4uletCyGKTtsFfgB9GGkBt) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [MUMU 8818](https://open.spotify.com/album/3l6p6ruGxOe0GueHOCSZCa) | 2:35 |
@@ -706,4 +706,4 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 696 | [She Knows This](https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:36 |
 | 697 | [I'm Popular](https://open.spotify.com/track/5M52IdGX44PZJYjUkw5gQ0) | [Test](https://open.spotify.com/artist/6O1CuDVI7hqFCbLzCJHZsd) | [I'm Popular](https://open.spotify.com/album/3YR9mudLgDfaV6vlmlTBxU) | 3:17 |
 
-Snapshot ID: `AAAKPKFzo2QVGSgOSgDbqr/1/dPHki3G`
+Snapshot ID: `AAAKP6/o9mfOGbolN/XKl8CCmvaQtFWZ`

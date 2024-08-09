@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 143770,
+  "num_followers": 143782,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -903,17 +903,17 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "A Cera (Ac\u00fastico)",
+        "name": "A Cera - Ac\u00fastico",
         "url": "https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA"
       },
       "artists": [
         {
-          "name": "Marcelo Magal",
-          "url": "https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x"
-        },
-        {
           "name": "O Surto",
           "url": "https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7"
+        },
+        {
+          "name": "Marcelo Magal",
+          "url": "https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x"
         }
       ],
       "duration_ms": 243781,

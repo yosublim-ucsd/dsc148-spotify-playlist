@@ -4,7 +4,7 @@
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-160 songs - 9 hr 20 min
+161 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dilbar](https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Satyameva Jayate](https://open.spotify.com/album/5Ni5qgjE8gMZl4TXrbTwoV) | 3:04 | 2023-05-18 |  |
 | [Dilbar](https://open.spotify.com/track/1W902y09vCHNPBDKx80iay) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Top 20 \- Bollywood Dance Songs 2018](https://open.spotify.com/album/0Wtm0w4UXe2mqM0Ojbefg6) | 3:04 | 2022-05-24 | 2023-05-19 |
 | [Do Dil \(feat\. Amyra Dastur\)](https://open.spotify.com/track/1DJxFsiyWFH3620RsAVMqf) | [Saheal Khan](https://open.spotify.com/artist/0NybQcfZCgt0EZ7PLlUYms), [Amyra Dastur](https://open.spotify.com/artist/0B7ePOrtiBXpsT6sHuPmJQ) | [Do Dil \(feat\. Amyra Dastur\)](https://open.spotify.com/album/48WZ68ZPe3uRN6fnbDV0B8) | 4:13 | 2022-05-24 | 2023-04-01 |
+| [Do U Know \(From "Khel Khel Mein"\)](https://open.spotify.com/track/2rWPmIFTC3VJLMTVeNb5AM) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Do U Know \(From "Khel Khel Mein"\)](https://open.spotify.com/album/1gsOGyGqYbwvxVIXr10hOE) | 2:49 | 2024-08-08 |  |
 | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb) | [Dus Bahane 2.0 \(From "Baaghi 3"\) \(feat\. K.K., Shaan, Tulsi Kumar\)](https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba) | 3:21 | 2022-05-24 |  |
 | [Ek Do Teen \(From "Baaghi 2"\)](https://open.spotify.com/track/6WGzckjnXgGvcTmCcETgIb) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Parry G](https://open.spotify.com/artist/5LQ1ozi8ndtxAwvy1OuSDK), [Sandeep Shirodkar](https://open.spotify.com/artist/3Ma3jCLuyYvZCELx5WQHCd), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Ek Do Teen \(From "Baaghi 2"\)](https://open.spotify.com/album/1JkTJe8HE4pgwplXhyVL9M) | 4:03 | 2022-05-24 |  |
 | [Ek Ladki Ko Dekha Toh Aisa Laga](https://open.spotify.com/track/0PEW3Ll2vMVbfg0XOa3c4K) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Vibe for My Love](https://open.spotify.com/album/6zcKRNlSgl51WAxeOhH8jD) | 2:35 | 2022-07-04 | 2022-11-13 |

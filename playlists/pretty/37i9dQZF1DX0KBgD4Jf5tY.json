@@ -1,6 +1,6 @@
 {
   "description": "Il meglio della musica indipendente italiana! Cover: <a href=\"spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q\">T\u00c4RA</a>",
-  "num_followers": 8621,
+  "num_followers": 8625,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "SCOSSA",
-        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
-      },
-      "artists": [
-        {
-          "name": "FLUOSEXXX",
-          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "SCOSSA",
-      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "NULLA (non ci ho capito)",
         "url": "https://open.spotify.com/album/62lVHGMhNuHQARh7PYSzLj"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 210500,
       "name": "NULLA (non ci ho capito)",
       "url": "https://open.spotify.com/track/2Fo5zKMlcjLLPEAbSpZBSI"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "SCOSSA",
+        "url": "https://open.spotify.com/album/22u6JwJ82A6MOjnyyUs64J"
+      },
+      "artists": [
+        {
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "SCOSSA",
+      "url": "https://open.spotify.com/track/3NlEvR8t03NXhAaD9ceirk"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "machegustomilascia",
-        "url": "https://open.spotify.com/album/3yA2sHrwBM2VvXWM6vTFmF"
-      },
-      "artists": [
-        {
-          "name": "Matsby",
-          "url": "https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "machegustomilascia",
-      "url": "https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Karnevale di Rio",
         "url": "https://open.spotify.com/album/3rLIAQuVXv900dkPdZygCo"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "machegustomilascia",
+        "url": "https://open.spotify.com/album/3yA2sHrwBM2VvXWM6vTFmF"
+      },
+      "artists": [
+        {
+          "name": "Matsby",
+          "url": "https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "machegustomilascia",
+      "url": "https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "LOVE IS OVERRATED",
-        "url": "https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx"
-      },
-      "artists": [
-        {
-          "name": "Francesca Everly",
-          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "LOVE IS OVERRATED",
-      "url": "https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/4eWgcPmGBu6SVR7OWPShDu"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 135460,
       "name": "Mia / Niente da perdere",
       "url": "https://open.spotify.com/track/1MyPoVnakQSGWtfl1lqFSp"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "LOVE IS OVERRATED",
+        "url": "https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx"
+      },
+      "artists": [
+        {
+          "name": "Francesca Everly",
+          "url": "https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "LOVE IS OVERRATED",
+      "url": "https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
+        "name": "Dio \u00e8 femmina \u271f",
+        "url": "https://open.spotify.com/album/2F0IgFjCtZzw4OXEOzCelN"
+      },
+      "artists": [
+        {
+          "name": "DALAI XV",
+          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "Dio \u00e8 femmina \u271f",
+      "url": "https://open.spotify.com/track/6eL4g6Pl40dQdAbjKNNJuv"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
         "name": "Lacrima Nuova",
         "url": "https://open.spotify.com/album/7xNYqNekje9BsbaCYZG7ip"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 191500,
       "name": "Lacrima Nuova",
       "url": "https://open.spotify.com/track/499sucSYMaIPv6qVdYHWce"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
-        "name": "Dio \u00e8 femmina \u271f",
-        "url": "https://open.spotify.com/album/2F0IgFjCtZzw4OXEOzCelN"
-      },
-      "artists": [
-        {
-          "name": "DALAI XV",
-          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "Dio \u00e8 femmina \u271f",
-      "url": "https://open.spotify.com/track/6eL4g6Pl40dQdAbjKNNJuv"
     },
     {
       "added_at": "2024-07-18 22:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-18 22:01:00",
       "album": {
-        "name": "Voglio di pi\u00f9",
-        "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
-      },
-      "artists": [
-        {
-          "name": "estro",
-          "url": "https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn"
-        }
-      ],
-      "duration_ms": 155446,
-      "name": "Voglio di pi\u00f9",
-      "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
-    },
-    {
-      "added_at": "2024-07-18 22:01:00",
-      "album": {
         "name": "Marea",
         "url": "https://open.spotify.com/album/66NCbMSBW2Fk31nmtSvhuy"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 172481,
       "name": "Marea",
       "url": "https://open.spotify.com/track/1dGE2w5GZZeRk2gO6KfX06"
+    },
+    {
+      "added_at": "2024-07-18 22:01:00",
+      "album": {
+        "name": "Voglio di pi\u00f9",
+        "url": "https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF"
+      },
+      "artists": [
+        {
+          "name": "estro",
+          "url": "https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn"
+        }
+      ],
+      "duration_ms": 155446,
+      "name": "Voglio di pi\u00f9",
+      "url": "https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7"
     },
     {
       "added_at": "2024-07-18 22:01:00",

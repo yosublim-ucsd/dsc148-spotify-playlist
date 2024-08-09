@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : GIMS",
+  "description": "Photo : Ninho x Niska",
   "name": "Best Life",
   "tracks": [
     {
@@ -156,6 +156,32 @@
       "duration_ms": 191145,
       "name": "Allez (feat. PLK & Naps)",
       "url": "https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW"
+    },
+    {
+      "album": {
+        "name": "Ana Wana",
+        "url": "https://open.spotify.com/album/5MiXDx9DGa1XSMfaCOizoG"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Cheb Abbes",
+          "url": "https://open.spotify.com/artist/4ItLTIz60SzR31tzOu5LjO"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157967,
+      "name": "Ana Wana",
+      "url": "https://open.spotify.com/track/3Vmk65ChDVLhx64EYpysPs"
     },
     {
       "album": {
@@ -1858,7 +1884,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159900,
       "name": "No Love",
       "url": "https://open.spotify.com/track/1lVM1L7ksstfh9ruUu0ENS"
@@ -3187,6 +3213,32 @@
     },
     {
       "album": {
+        "name": "Turn Up (feat. Leto & MHD)",
+        "url": "https://open.spotify.com/album/6QKNpu7ufgdHlc1KnKMAKP"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145150,
+      "name": "Turn Up (feat. Leto & MHD)",
+      "url": "https://open.spotify.com/track/5NerckOQ6Feq0DMf3tB9Ln"
+    },
+    {
+      "album": {
         "name": "Nazaland",
         "url": "https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc"
       },
@@ -3286,6 +3338,24 @@
       "duration_ms": 218344,
       "name": "VNTR",
       "url": "https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd"
+    },
+    {
+      "album": {
+        "name": "Mode Op\u00e9ratoire, vol. 1",
+        "url": "https://open.spotify.com/album/6NVuqjn7fSJtUukHKnQBAY"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "X-ADV",
+      "url": "https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n"
     },
     {
       "album": {

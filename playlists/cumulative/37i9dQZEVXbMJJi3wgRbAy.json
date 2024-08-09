@@ -7154,7 +7154,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
@@ -8673,7 +8673,7 @@
     },
     {
       "album": {
-        "name": "Loquita (Remix)",
+        "name": "Loquita - Remix",
         "url": "https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp"
       },
       "artists": [
@@ -14102,10 +14102,28 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 124689,
       "name": "SAN TURRONA",
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
+    },
+    {
+      "album": {
+        "name": "Mashup (2024)",
+        "url": "https://open.spotify.com/album/5OkkgAp4sGZiSeYx6l3h7I"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126652,
+      "name": "San Turrona (Mashup)",
+      "url": "https://open.spotify.com/track/3L6lyGKHwhY7NUkj5w7src"
     },
     {
       "album": {
@@ -14950,7 +14968,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
@@ -15522,10 +15540,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
+    },
+    {
+      "album": {
+        "name": "Mashup (2024)",
+        "url": "https://open.spotify.com/album/5OkkgAp4sGZiSeYx6l3h7I"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163235,
+      "name": "Terapia de Choque (Mashup)",
+      "url": "https://open.spotify.com/track/342mfIy5mttfkwgjCMq7GJ"
     },
     {
       "album": {

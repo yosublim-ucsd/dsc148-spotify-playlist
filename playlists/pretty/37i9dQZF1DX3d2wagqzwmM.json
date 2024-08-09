@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell",
-  "num_followers": 535204,
+  "num_followers": 535435,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Traffic Lights",
-        "url": "https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Traffic Lights",
-      "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "It Burns - EP",
         "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 144933,
       "name": "Samba De Janeiro",
       "url": "https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Traffic Lights",
+        "url": "https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 128274,
+      "name": "Traffic Lights",
+      "url": "https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM"
     },
     {
       "added_at": "2024-08-01 22:00:00",

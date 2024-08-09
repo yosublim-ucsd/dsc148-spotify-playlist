@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,827 likes - 76 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,828 likes - 76 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bodily Synesthesia](https://open.spotify.com/track/29o3RoZ4RqD47HoPlaZ3Fy) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Sensory Blending](https://open.spotify.com/album/3xDxrKGPgQnqGGt3gePoG9) | 5:32 |
+| 1 | [Clouding](https://open.spotify.com/track/6Ld8ovrg1jvEhlxu9dcovp) | [Superposition](https://open.spotify.com/artist/6FdGkIQdLEteCfEGh6AsAM) | [Clouding](https://open.spotify.com/album/2mxiPNpPwBjzbXLsLjBZMS) | 3:57 |
 | 2 | [Arctic Stomp](https://open.spotify.com/track/26hKuSv7LozuwFFInEc0wZ) | [Dalindéo](https://open.spotify.com/artist/7wL8J7vW907NA5aRTAJmbp) | [Arctic Stomp](https://open.spotify.com/album/4Hs28PvCsKmIjFdnjrteZq) | 3:06 |
-| 3 | [Prediction Error](https://open.spotify.com/track/4Jc9LMJDhsGPWvavMogMGU) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Changing Priors](https://open.spotify.com/album/5EhpoI6mfx5Ew6ENylDmfc) | 5:58 |
-| 4 | [Komorebi](https://open.spotify.com/track/5LBugAn5ltB09dIdRNvLyE) | [AINON](https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT) | [Komorebi](https://open.spotify.com/album/0J9uCu0MLS0OcqTVGy0KAy) | 4:22 |
-| 5 | [For Dizzy and Lionel](https://open.spotify.com/track/5ITwIIHYSu2lGOe2EtkoAS) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Mirror Mirror](https://open.spotify.com/album/0FXmXOtp6aZMs5iYDdDTw6) | 4:51 |
-| 6 | [Clouding](https://open.spotify.com/track/6Ld8ovrg1jvEhlxu9dcovp) | [Superposition](https://open.spotify.com/artist/6FdGkIQdLEteCfEGh6AsAM) | [Clouding](https://open.spotify.com/album/2mxiPNpPwBjzbXLsLjBZMS) | 3:57 |
+| 3 | [A Lotta Love](https://open.spotify.com/track/22w1CQUCPwOVLvFwRQHyBq) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Lotta Love](https://open.spotify.com/album/6M0HFD55JZFOCJUwpNTz04) | 5:42 |
+| 4 | [For Dizzy and Lionel](https://open.spotify.com/track/5ITwIIHYSu2lGOe2EtkoAS) | [Olli Ahvenlahti](https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48) | [Mirror Mirror](https://open.spotify.com/album/0FXmXOtp6aZMs5iYDdDTw6) | 4:51 |
+| 5 | [Bodily Synesthesia](https://open.spotify.com/track/29o3RoZ4RqD47HoPlaZ3Fy) | [Aura Safari](https://open.spotify.com/artist/2g7vF2a9fxqlidHNqcvROO), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D) | [Sensory Blending](https://open.spotify.com/album/3xDxrKGPgQnqGGt3gePoG9) | 5:32 |
+| 6 | [Prediction Error](https://open.spotify.com/track/4Jc9LMJDhsGPWvavMogMGU) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Changing Priors](https://open.spotify.com/album/5EhpoI6mfx5Ew6ENylDmfc) | 5:58 |
 | 7 | [To Be Loved](https://open.spotify.com/track/0C6l8XuDbJadxu9FECXv4p) | [Julius Orénthur](https://open.spotify.com/artist/06KhF1ucModUP3mcRkAWci) | [To Be Loved](https://open.spotify.com/album/3AmLJqLwwXzkwvVJjd4TfO) | 3:07 |
-| 8 | [A Lotta Love](https://open.spotify.com/track/22w1CQUCPwOVLvFwRQHyBq) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Lotta Love](https://open.spotify.com/album/6M0HFD55JZFOCJUwpNTz04) | 5:42 |
+| 8 | [Water](https://open.spotify.com/track/38Q9jOT7hfR9V9gSSbwDVM) | [AINON](https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT) | [Water](https://open.spotify.com/album/1ipnftn8nvZkcrxzESaPsg) | 1:42 |
 | 9 | [Pretty, pretty](https://open.spotify.com/track/4NyZ3VSI467QyI8bysOScq) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD) | [Pretty, pretty](https://open.spotify.com/album/261ugORy4WXLVPQqtcrtib) | 2:45 |
 | 10 | [Bialystok](https://open.spotify.com/track/7J3LzA57W2xeawvue0qZHc) | [Manuel Hermia](https://open.spotify.com/artist/766wo5YOpIMfTn1Ri0jKO4), [Orchestra Nazionale della Luna](https://open.spotify.com/artist/5zVFDN2NrMTTMpwWV1T41A), [Kari Ikonen](https://open.spotify.com/artist/1nAfG23hZyVXSJkBnnr43s), [Sébastien Boisseau](https://open.spotify.com/artist/7By6aLZ70IvQg6TC0L6Wv2), [Teun Verbruggen](https://open.spotify.com/artist/2eMZsuJlUdllW1yrtGWNDA) | [Selene's View](https://open.spotify.com/album/56qlwxs3UtvXjtT1vZSh1g) | 3:59 |
 | 11 | [Gray Waves](https://open.spotify.com/track/6mEpTL0SBwnZv3FpA8vhRA) | [Aurora Hentunen](https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I) | [Gray Waves](https://open.spotify.com/album/0TcxkBNIIGKD1FM1o8XgSe) | 4:51 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 75 | [Celestial Heights](https://open.spotify.com/track/4mPtjZ3GTE6vrjo20YcQ2b) | [North of Kallio Ensemble](https://open.spotify.com/artist/7sB7k5nRT61iJ4HDliQRtQ) | [Constellations](https://open.spotify.com/album/3PWjcHNKxKXs2uGGOCRVqO) | 5:01 |
 | 76 | [Ask Me Now](https://open.spotify.com/track/1JRBmuvgDW9rcoJst2oJre) | [Teemu Viinikainen](https://open.spotify.com/artist/0OgaFFwXXVXsIpAaPS2EBR) | [Ask Me Now](https://open.spotify.com/album/0DBEAQOu9OhVK4BUE3tiJf) | 2:30 |
 
-Snapshot ID: `ZqK9DAAAAADQrrSsPCk2lMpWwzj3X4py`
+Snapshot ID: `ZrUyDAAAAADLBMuunFA9/gpkFZ1EGjqW`

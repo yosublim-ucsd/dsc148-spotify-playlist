@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,246 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,216 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

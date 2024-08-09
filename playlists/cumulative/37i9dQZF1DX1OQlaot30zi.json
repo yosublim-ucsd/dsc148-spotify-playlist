@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Cosang, yungest Moonstar, Finesse e tanti altri! \ud83d\udd25",
+  "description": "Sempre aggiornata. Con nuovi brani di Articolo 31, Massimo Pericolo, Cosang, yungest Moonstar e tanti altri! \ud83d\udd25",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -1168,6 +1168,32 @@
       "duration_ms": 215294,
       "name": "1995",
       "url": "https://open.spotify.com/track/4RksMcUzjQlZOxicsIrLWI"
+    },
+    {
+      "album": {
+        "name": "ARTE",
+        "url": "https://open.spotify.com/album/3lcXDwnUBbYFtQUZWvyxu7"
+      },
+      "artists": [
+        {
+          "name": "Maury North",
+          "url": "https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry"
+        },
+        {
+          "name": "AIRA",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        },
+        {
+          "name": "Ksub",
+          "url": "https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178421,
+      "name": "1BABY (feat. AIRA)",
+      "url": "https://open.spotify.com/track/75KPwOhMPwcQEak5nSUJZQ"
     },
     {
       "album": {
@@ -3776,7 +3802,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 135211,
       "name": "Acelera",
       "url": "https://open.spotify.com/track/0IFP432yqZum54SnELuKHH"
@@ -5650,7 +5676,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 204081,
       "name": "Amore puro",
       "url": "https://open.spotify.com/track/17beKSnTNuVjiQd2lIOonB"
@@ -5738,6 +5764,24 @@
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
+    },
+    {
+      "album": {
+        "name": "ANCORA",
+        "url": "https://open.spotify.com/album/1GAUtKxWDFZouwlJVZIbct"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116635,
+      "name": "ANCORA",
+      "url": "https://open.spotify.com/track/318Lp6wsrkOlnrsmiJ0CC1"
     },
     {
       "album": {
@@ -7876,7 +7920,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 168863,
       "name": "BAD GUY (feat. Luciennn)",
       "url": "https://open.spotify.com/track/6l2Y3KAHiIHjBfOF3MfJRw"
@@ -10008,7 +10052,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 120057,
       "name": "BIBITA",
       "url": "https://open.spotify.com/track/4t9i0H25aA1yj1kY9iorRP"
@@ -13440,7 +13484,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 152210,
       "name": "CALABABY WAVE",
       "url": "https://open.spotify.com/track/4OIqGpgtiWCU0qmL5C1qI5"
@@ -14628,7 +14672,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 80147,
       "name": "CARTA CANTA",
       "url": "https://open.spotify.com/track/59wQMPKmDKe9rNSOMBc77L"
@@ -15748,7 +15792,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 166173,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/25QIOYtZqPJef1ZcPlbNy3"
@@ -30338,7 +30382,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 194076,
       "name": "GAS",
       "url": "https://open.spotify.com/track/0NJvEogJUyElZjvTbyrHHr"
@@ -33154,7 +33198,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 120711,
       "name": "GUY FAWKES",
       "url": "https://open.spotify.com/track/6xTYOZcrmTDusPF9VmLbAx"
@@ -38778,7 +38822,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160004,
       "name": "kiSs",
       "url": "https://open.spotify.com/track/5LxNztVqMVR7FwJdKzeZ55"
@@ -40502,7 +40546,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 157718,
       "name": "la ragazza pi\u00f9 bella del ballo",
       "url": "https://open.spotify.com/track/4CbiKaM69YfCuPODAPuUTO"
@@ -41936,7 +41980,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 154867,
       "name": "LEADER",
       "url": "https://open.spotify.com/track/3OJR7UYQW3vXI5SH40G9YC"
@@ -42822,6 +42866,28 @@
       "duration_ms": 131506,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/6rUIJzZlrDpmphYGjCFFNf"
+    },
+    {
+      "album": {
+        "name": "Lights in tha Hood",
+        "url": "https://open.spotify.com/album/7146hYwPFwu5L5IwgLIL0J"
+      },
+      "artists": [
+        {
+          "name": "Noemi Coozy",
+          "url": "https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx"
+        },
+        {
+          "name": "WVNNV",
+          "url": "https://open.spotify.com/artist/1Z6904tiByLNOKUPLldxwp"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141857,
+      "name": "Lights in tha Hood",
+      "url": "https://open.spotify.com/track/0CWBrgFciAyoGyj1RAp1so"
     },
     {
       "album": {
@@ -47387,6 +47453,32 @@
     },
     {
       "album": {
+        "name": "MATEMATICO/ABC",
+        "url": "https://open.spotify.com/album/1IzXVbAvWbfvExtjm57cCk"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        },
+        {
+          "name": "elylaba",
+          "url": "https://open.spotify.com/artist/5hDMf5OvAdZ20DdnqUZXSr"
+        },
+        {
+          "name": "xMikeyi",
+          "url": "https://open.spotify.com/artist/0ABOt7zwe8dTVAGEZaeLjF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "MATEMATICO/ABC",
+      "url": "https://open.spotify.com/track/4P6s7S6ih4Avt84BiYREuT"
+    },
+    {
+      "album": {
         "name": "Materia",
         "url": "https://open.spotify.com/album/2hBOUQzzVit5kMCbrqYVG7"
       },
@@ -48165,6 +48257,24 @@
     },
     {
       "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/1RxocM9wmvBHucNLQNfMmQ"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/1GJHorVM7DiuJuEHJzXyGW"
+    },
+    {
+      "album": {
         "name": "MERCOLED\u00cc",
         "url": "https://open.spotify.com/album/3Az1k3g9oasddvMM5umLe2"
       },
@@ -48314,6 +48424,32 @@
       "duration_ms": 177500,
       "name": "Messina Denaro (feat. Sapobully)",
       "url": "https://open.spotify.com/track/1PBR22wA2xcXshjistfEyb"
+    },
+    {
+      "album": {
+        "name": "Mestiere (feat. 500 Tony & Malsho)",
+        "url": "https://open.spotify.com/album/1KWOwFUvSlKmVr9BrM5u7w"
+      },
+      "artists": [
+        {
+          "name": "SAVAGE",
+          "url": "https://open.spotify.com/artist/7dKxlVuj7nRRvhCShzMcXY"
+        },
+        {
+          "name": "500 Tony",
+          "url": "https://open.spotify.com/artist/63d4RGe7dFRblTjwL7b1Ae"
+        },
+        {
+          "name": "Malsho",
+          "url": "https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Mestiere (feat. 500 Tony & Malsho)",
+      "url": "https://open.spotify.com/track/2YQiK2z11h3cDoiGX0pWH6"
     },
     {
       "album": {
@@ -48832,7 +48968,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 171197,
       "name": "MIA",
       "url": "https://open.spotify.com/track/027cL9a3wGIyyKghfDEJEB"
@@ -49800,7 +49936,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 146259,
       "name": "Missing",
       "url": "https://open.spotify.com/track/44Bvzz00hT0D61XJKlEVcA"
@@ -55430,6 +55566,24 @@
       "duration_ms": 158037,
       "name": "NPC PT. 3",
       "url": "https://open.spotify.com/track/2rtihGb2Fxa6LbzlhblRQ8"
+    },
+    {
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/0jc3A1QUnI9DyvyAgIiVoW"
+      },
+      "artists": [
+        {
+          "name": "22rocky",
+          "url": "https://open.spotify.com/artist/0PcBtpEEaEaRGkzTDZGPdD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152915,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/2XEDTm1bK5fq2sR2DjDvQ4"
     },
     {
       "album": {
@@ -62437,6 +62591,24 @@
     },
     {
       "album": {
+        "name": "POSSESSIVA",
+        "url": "https://open.spotify.com/album/37nrUgZgYiOg0GTyA7717k"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162043,
+      "name": "POSSESSIVA",
+      "url": "https://open.spotify.com/track/5rgwVEj3J6ktDowFdx7Omv"
+    },
+    {
+      "album": {
         "name": "Possessivo",
         "url": "https://open.spotify.com/album/0m2q33Rwf9bgzJVIishvPN"
       },
@@ -65064,7 +65236,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159317,
       "name": "ragazzi in piazza",
       "url": "https://open.spotify.com/track/5BdeMJ48mOr0J5g7qaWy0A"
@@ -65620,6 +65792,28 @@
       "duration_ms": 160206,
       "name": "RDP",
       "url": "https://open.spotify.com/track/6ZAH3j08gXSr5HeloVXI4b"
+    },
+    {
+      "album": {
+        "name": "Re di Cuori",
+        "url": "https://open.spotify.com/album/5pHYVJ0Ewo2jJTLYUfY4Tn"
+      },
+      "artists": [
+        {
+          "name": "Taizal",
+          "url": "https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT"
+        },
+        {
+          "name": "Exynos",
+          "url": "https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152168,
+      "name": "Re di Cuori",
+      "url": "https://open.spotify.com/track/2YCXfySVOpRrxurUCOFgpC"
     },
     {
       "album": {
@@ -74391,6 +74585,28 @@
     },
     {
       "album": {
+        "name": "Sta Piovendo",
+        "url": "https://open.spotify.com/album/1guRvnS6o8DFHm8Q9rZ1np"
+      },
+      "artists": [
+        {
+          "name": "Waze RRX",
+          "url": "https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD"
+        },
+        {
+          "name": "Alawais",
+          "url": "https://open.spotify.com/artist/5Sh9ne0WUEOvdvTbSHyDJt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Sta Piovendo",
+      "url": "https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU"
+    },
+    {
+      "album": {
         "name": "Stai Ancora Guardando?",
         "url": "https://open.spotify.com/album/2YtmV81d2w8OWQg8EJjCuk"
       },
@@ -81557,6 +81773,24 @@
     },
     {
       "album": {
+        "name": "Una vita in tour",
+        "url": "https://open.spotify.com/album/4zfb2pI3aJ1XsHvrjt2NI6"
+      },
+      "artists": [
+        {
+          "name": "Beart",
+          "url": "https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171704,
+      "name": "Una vita in tour",
+      "url": "https://open.spotify.com/track/5Q8k0207JgvCr8WlNbugrx"
+    },
+    {
+      "album": {
         "name": "UNA VITA SOLA",
         "url": "https://open.spotify.com/album/5zS0WnIbFcO2ZCakdLLSNm"
       },
@@ -82008,6 +82242,28 @@
       "duration_ms": 140000,
       "name": "Valhalla",
       "url": "https://open.spotify.com/track/5tdUWLALLzFt180vBlT2su"
+    },
+    {
+      "album": {
+        "name": "VaLiGeTTa GiaLLa",
+        "url": "https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI"
+      },
+      "artists": [
+        {
+          "name": "Yandie Gotam",
+          "url": "https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp"
+        },
+        {
+          "name": "Ervie",
+          "url": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "VaLiGeTTa GiaLLa",
+      "url": "https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs"
     },
     {
       "album": {
@@ -84444,7 +84700,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144000,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/3P5a1lFdeqVqnuDf6Ak8ET"
@@ -85418,7 +85674,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 136641,
       "name": "xaN",
       "url": "https://open.spotify.com/track/1zwUG3nQdsbhyVnkwOYhaR"

@@ -12369,6 +12369,24 @@
     },
     {
       "album": {
+        "name": "Write About You",
+        "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
+      },
+      "artists": [
+        {
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174208,
+      "name": "Write About You",
+      "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
+    },
+    {
+      "album": {
         "name": "Write off",
         "url": "https://open.spotify.com/album/2Nkm9ZQ5uqoUs1CtiU7J0I"
       },

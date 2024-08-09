@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 36504,
+  "num_followers": 36514,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -251,30 +251,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Holberg Suite; Lyric Suite",
-        "url": "https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Holberg Suite, Op. 40: II. Sarabande (Andante)",
-      "url": "https://open.spotify.com/track/4SXNho7ARXRuvxEIXa4uJ0"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 675226,
       "name": "In Autumn, Op. 11",
       "url": "https://open.spotify.com/track/0Yvbglku9m9xG3YcgGk0RA"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Holberg Suite; Lyric Suite",
+        "url": "https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Holberg Suite, Op. 40: II. Sarabande (Andante)",
+      "url": "https://open.spotify.com/track/4SXNho7ARXRuvxEIXa4uJ0"
     },
     {
       "added_at": "2022-09-30 04:01:00",

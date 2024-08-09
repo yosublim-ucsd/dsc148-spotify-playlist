@@ -2,7 +2,7 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Hervé
+> La pop française annonce la couleur\. Photo : Olympe Chabert
 
 209 songs - 10 hr 21 min
 

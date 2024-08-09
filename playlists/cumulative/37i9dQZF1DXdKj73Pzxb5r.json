@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Romantic Echoes",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Refo dan Fauna",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -234,6 +234,24 @@
       "duration_ms": 212062,
       "name": "bila",
       "url": "https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW"
+    },
+    {
+      "album": {
+        "name": "Sudut Kamar",
+        "url": "https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9"
+      },
+      "artists": [
+        {
+          "name": "Christabel Annora",
+          "url": "https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145084,
+      "name": "Blues dari Rumah",
+      "url": "https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev"
     },
     {
       "album": {
@@ -748,6 +766,24 @@
       "duration_ms": 313847,
       "name": "Episode",
       "url": "https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G"
+    },
+    {
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr"
+      },
+      "artists": [
+        {
+          "name": "Low Pink",
+          "url": "https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252244,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78"
     },
     {
       "album": {
@@ -1628,6 +1664,24 @@
       "duration_ms": 238121,
       "name": "Merangkai Gundah Gulana",
       "url": "https://open.spotify.com/track/702KQGQOlABC5xua4IfyGT"
+    },
+    {
+      "album": {
+        "name": "Merdeka Melaju Dari A Sampai Z",
+        "url": "https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394218,
+      "name": "Merdeka Melaju Dari A Sampai Z",
+      "url": "https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz"
     },
     {
       "album": {
@@ -2603,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "Sudut Kamar",
+        "url": "https://open.spotify.com/album/2ReacdDsznM8jSnnkjJiIk"
+      },
+      "artists": [
+        {
+          "name": "Christabel Annora",
+          "url": "https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Tirai Pembuka",
+      "url": "https://open.spotify.com/track/2zyjwR6Pd5lWc2qLAS6Apg"
+    },
+    {
+      "album": {
         "name": "Tolong Bales Watsap Ku",
         "url": "https://open.spotify.com/album/7IuoK8NTkw2c6uHbz1iCzO"
       },
@@ -2632,7 +2704,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 335695,
       "name": "Tuan Kelana",
       "url": "https://open.spotify.com/track/10EoDBgK6FesVtr2fMpvvi"

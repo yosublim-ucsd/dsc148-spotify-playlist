@@ -1,15 +1,51 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92169,
+  "num_followers": 92166,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqJZmgAAAABnD2B5d49Ku8J+G0bWF5X/",
+  "snapshot_id": "ZrU/4AAAAACJG5aXc506urZ3wYIVNasC",
   "tracks": [
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 180152,
+      "name": "Purple Gas",
+      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Elaine",
         "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
@@ -33,127 +69,7 @@
       "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
     },
     {
-      "added_at": "2024-07-25 13:56:42",
-      "album": {
-        "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
-        "url": "https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
-      "url": "https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Det blir inte b\u00e4ttre",
-        "url": "https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Det blir inte b\u00e4ttre",
-      "url": "https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "R\u00f6r vid mig",
-        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 190328,
-      "name": "R\u00f6r vid mig",
-      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sol, vind och vatten",
-        "url": "https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 218625,
-      "name": "Sol, vind och vatten",
-      "url": "https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "S\u00e4llskapssjuk",
         "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
@@ -173,7 +89,23 @@
       "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "R\u00f6r vid mig",
+        "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 190328,
+      "name": "R\u00f6r vid mig",
+      "url": "https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -193,287 +125,23 @@
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
       },
       "artists": [
         {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
         }
       ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 180152,
-      "name": "Purple Gas",
-      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "John Denver",
-        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
-      },
-      "artists": [
-        {
-          "name": "A Choir of Ghosts",
-          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
-        },
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "John Denver",
-      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "B\u00e4sta kebaben i hela stan",
-        "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "B\u00e4sta kebaben i hela stan",
-      "url": "https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Fighting For",
-        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 285791,
-      "name": "I Figured We'd Go Dancin'",
-      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Varf\u00f6r slutar allt i t\u00e5rar",
-        "url": "https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 244600,
-      "name": "Varf\u00f6r slutar allt i t\u00e5rar",
-      "url": "https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Right?",
-        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 176396,
-      "name": "Right?",
-      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Honom",
-        "url": "https://open.spotify.com/album/3aPG2336pAa2tOP3zCrHD4"
-      },
-      "artists": [
-        {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
-        }
-      ],
-      "duration_ms": 170008,
-      "name": "Honom",
-      "url": "https://open.spotify.com/track/3hk7OYtN8OYMJnn4ZcKZro"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Like No One Could",
-        "url": "https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 167101,
-      "name": "Like No One Could",
-      "url": "https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "The Border",
-        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Kiss Me When You're Through",
-      "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Rytmen av ett regn",
-        "url": "https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp"
-      },
-      "artists": [
-        {
-          "name": "Arvingarna",
-          "url": "https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Rytmen av ett regn",
-      "url": "https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "The Man He Sees in Me",
         "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
@@ -489,7 +157,267 @@
       "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
+        "url": "https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
+      "url": "https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sol, vind och vatten",
+        "url": "https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 218625,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "B\u00e4sta kebaben i hela stan",
+        "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 215974,
+      "name": "B\u00e4sta kebaben i hela stan",
+      "url": "https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Fighting For",
+        "url": "https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 285791,
+      "name": "I Figured We'd Go Dancin'",
+      "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Varf\u00f6r slutar allt i t\u00e5rar",
+        "url": "https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Varf\u00f6r slutar allt i t\u00e5rar",
+      "url": "https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Right?",
+        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 176396,
+      "name": "Right?",
+      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Som sommaren",
+        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228624,
+      "name": "Som sommaren",
+      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Honom",
+        "url": "https://open.spotify.com/album/3aPG2336pAa2tOP3zCrHD4"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        }
+      ],
+      "duration_ms": 170008,
+      "name": "Honom",
+      "url": "https://open.spotify.com/track/3hk7OYtN8OYMJnn4ZcKZro"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sally/Hungry Eyes",
+        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
+      },
+      "artists": [
+        {
+          "name": "June Vide",
+          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Sally/Hungry Eyes",
+      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Like No One Could",
+        "url": "https://open.spotify.com/album/3XgrclsnTqtc3U4UVXOydF"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 167101,
+      "name": "Like No One Could",
+      "url": "https://open.spotify.com/track/7HYVCFYBAUnYobUqgx4k4n"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "The Border",
+        "url": "https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Kiss Me When You're Through",
+      "url": "https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Upp med hakan",
+        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Upp med hakan",
+      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
         "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
@@ -509,55 +437,7 @@
       "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Parents",
-        "url": "https://open.spotify.com/album/1rkY67qjeWpzsLp5suW0Y0"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 126175,
-      "name": "Parents",
-      "url": "https://open.spotify.com/track/5QCBY9fU0gViLSVkZaJnTk"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Upp med hakan",
-        "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Upp med hakan",
-      "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
@@ -573,7 +453,7 @@
       "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Solen g\u00e5r aldrig ner",
         "url": "https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT"
@@ -589,7 +469,7 @@
       "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Inget halleluja",
         "url": "https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8"
@@ -605,7 +485,7 @@
       "url": "https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Midsommar",
         "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
@@ -621,7 +501,7 @@
       "url": "https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Stj\u00e4rnorna inatt",
         "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
@@ -637,7 +517,7 @@
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy"
@@ -661,39 +541,7 @@
       "url": "https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Vem?",
-        "url": "https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Johansson",
-          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Vem?",
-      "url": "https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 180364,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Bar Thinking",
         "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
@@ -709,7 +557,7 @@
       "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "We're In This Together",
         "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
@@ -725,7 +573,7 @@
       "url": "https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Drakar",
         "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
@@ -745,7 +593,7 @@
       "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Spacer (Reimagined)",
         "url": "https://open.spotify.com/album/52oKQNPiIAmYOFTBSIny5q"
@@ -761,7 +609,7 @@
       "url": "https://open.spotify.com/track/5OY3iMYgsGcqDfxbcxZ7PK"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Viker inte ner mig \u00e4n",
         "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
@@ -781,7 +629,7 @@
       "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
@@ -797,7 +645,7 @@
       "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
@@ -817,27 +665,7 @@
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Lucy Rider",
-        "url": "https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lucy Rider",
-      "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
@@ -853,27 +681,7 @@
       "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Som jag har l\u00e4ngtat",
-        "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 206955,
-      "name": "Som jag har l\u00e4ngtat",
-      "url": "https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Walk With Me - Chod\u017a ze mn\u0105",
         "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
@@ -893,7 +701,7 @@
       "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
@@ -909,7 +717,27 @@
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Det blir inte b\u00e4ttre",
+        "url": "https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Det blir inte b\u00e4ttre",
+      "url": "https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "V\u00e5t cigg",
         "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
@@ -925,23 +753,7 @@
       "url": "https://open.spotify.com/track/5uHlBtaRXlyJhbMYAIBFRH"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Vinna guldet",
-        "url": "https://open.spotify.com/album/5GjvBVTWyQMXI7TCMLMKgR"
-      },
-      "artists": [
-        {
-          "name": "Manon Lamartine",
-          "url": "https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Vinna guldet",
-      "url": "https://open.spotify.com/track/28mPNsXcbYfUqNWMIAcqMb"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
@@ -957,7 +769,23 @@
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Whenever Until Forever",
         "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
@@ -973,39 +801,7 @@
       "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sommar utan slut",
-        "url": "https://open.spotify.com/album/5BRyqlq7mMnNWE2mHSDxRF"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        }
-      ],
-      "duration_ms": 183780,
-      "name": "Sommar utan slut",
-      "url": "https://open.spotify.com/track/6VnbltOei0GciP5hgS7hk1"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Looking Back, Looking Out",
-        "url": "https://open.spotify.com/album/4R5CfXhjC0NCkMntkBekAn"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Looking Back, Looking Out",
-      "url": "https://open.spotify.com/track/1pSWXfVAsJfT0eM5wmuwuB"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
@@ -1025,7 +821,7 @@
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Manic Pixie Dream Girl",
         "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
@@ -1041,27 +837,7 @@
       "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "H\u00f6rde en f\u00e5gel (feat. Frida Andersson)",
-        "url": "https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1"
-      },
-      "artists": [
-        {
-          "name": "Bo Sundstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz"
-        },
-        {
-          "name": "Frida Andersson",
-          "url": "https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR"
-        }
-      ],
-      "duration_ms": 188347,
-      "name": "H\u00f6rde en f\u00e5gel (feat. Frida Andersson)",
-      "url": "https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Mordbrand",
         "url": "https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D"
@@ -1077,7 +853,7 @@
       "url": "https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
@@ -1093,23 +869,7 @@
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "F\u00f6rbjudna tankar",
-        "url": "https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "F\u00f6rbjudna tankar",
-      "url": "https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
@@ -1125,7 +885,7 @@
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Vi kommer aldrig",
         "url": "https://open.spotify.com/album/5ey4CjvDR571IBBvhyRQew"
@@ -1145,23 +905,7 @@
       "url": "https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/73r6BjTe5UkHsV76kenlwO"
-      },
-      "artists": [
-        {
-          "name": "VAKER",
-          "url": "https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP"
-        }
-      ],
-      "duration_ms": 188075,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/3crBzdu0lmHgnHBbFzGr4n"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "L\u00e4ngs den l\u00e5nga v\u00e4gen hem",
         "url": "https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP"
@@ -1177,23 +921,7 @@
       "url": "https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Kontakt",
-        "url": "https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 164725,
-      "name": "Kontakt",
-      "url": "https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
@@ -1209,7 +937,7 @@
       "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Vingar",
         "url": "https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au"
@@ -1225,7 +953,7 @@
       "url": "https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
@@ -1241,39 +969,27 @@
       "url": "https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "D enkla livet",
-        "url": "https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0"
+        "name": "John Denver",
+        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
       },
       "artists": [
         {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "D enkla livet",
-      "url": "https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Heavens Door",
-        "url": "https://open.spotify.com/album/6A0qB4UTx7nIgRgLRAKZ3T"
-      },
-      "artists": [
+          "name": "A Choir of Ghosts",
+          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
+        },
         {
-          "name": "Brolle",
-          "url": "https://open.spotify.com/artist/67Lz9CWEfBpcH7myXeRb0b"
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Heavens Door",
-      "url": "https://open.spotify.com/track/7FtFcf0vlzVfK5RamIRR8j"
+      "duration_ms": 187333,
+      "name": "John Denver",
+      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Queen Of Pearls",
         "url": "https://open.spotify.com/album/6Y3pdvenWGtaC1zsi0Snlt"
@@ -1289,71 +1005,7 @@
       "url": "https://open.spotify.com/track/584mfOg5T8fMsHmYCAZTN2"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sol, vind och vatten",
-        "url": "https://open.spotify.com/album/2tKNEji5t3NPjriC1WXijr"
-      },
-      "artists": [
-        {
-          "name": "Jakob Karlberg",
-          "url": "https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Sol, vind och vatten",
-      "url": "https://open.spotify.com/track/0Dl6aAece1roeWExwDV6Xs"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Jag vill stanna h\u00e4r",
-        "url": "https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB"
-      },
-      "artists": [
-        {
-          "name": "Staffan Hellstrand",
-          "url": "https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Jag vill stanna h\u00e4r",
-      "url": "https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Let Her In",
-        "url": "https://open.spotify.com/album/5xdOtVBEPBMilhg8xjUd62"
-      },
-      "artists": [
-        {
-          "name": "The Playtones",
-          "url": "https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne"
-        }
-      ],
-      "duration_ms": 226213,
-      "name": "Let Her In",
-      "url": "https://open.spotify.com/track/1YYbAYmfoUxITo7gNWZThw"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Hey Little Love",
         "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
@@ -1369,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5Qbrs0cLLZU771kNUhSfnr"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Tillbaka i Brunnsvik",
         "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
@@ -1385,7 +1037,7 @@
       "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Dekadens",
         "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
@@ -1401,7 +1053,39 @@
       "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sommartider",
+        "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
+      },
+      "artists": [
+        {
+          "name": "CISSI",
+          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Sommartider",
+      "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "What You\u2019re Saying To Me",
         "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
@@ -1421,55 +1105,7 @@
       "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Sommartider",
-        "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
-      },
-      "artists": [
-        {
-          "name": "CISSI",
-          "url": "https://open.spotify.com/artist/4UoHgzMFm9BAVddtfwLrlk"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Sommartider",
-      "url": "https://open.spotify.com/track/3jGs9Nt1ZoxJou5gVEEech"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
-        }
-      ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
@@ -1485,7 +1121,23 @@
       "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+        }
+      ],
+      "duration_ms": 176776,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Dom Sa \u2013 Ett glas till",
         "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
@@ -1501,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Draw Me Closer 2.0",
         "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
@@ -1521,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "\u00d6gonblick i livet",
         "url": "https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje"
@@ -1537,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Siljans strand / Midsommarvisa",
         "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
@@ -1553,7 +1205,7 @@
       "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Peaceful Easy Feeling",
         "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
@@ -1569,23 +1221,7 @@
       "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "En t\u00e5r f\u00f6r varje t\u00e5r",
-        "url": "https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD"
-      },
-      "artists": [
-        {
-          "name": "Melina Borglowe",
-          "url": "https://open.spotify.com/artist/6iuKUTViI8eNiiZN8hOkFj"
-        }
-      ],
-      "duration_ms": 204157,
-      "name": "En t\u00e5r f\u00f6r varje t\u00e5r",
-      "url": "https://open.spotify.com/track/5bR2R637w1Z7OtUk6qn26P"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Not With You",
         "url": "https://open.spotify.com/album/6C87WyxHXIgupIrGXlY1JJ"
@@ -1601,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Salta t\u00e5rar",
         "url": "https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit"
@@ -1617,39 +1253,7 @@
       "url": "https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "I v\u00e5ra h\u00e4nder",
-        "url": "https://open.spotify.com/album/6Ss8sf2hBctLpp5yfVTWio"
-      },
-      "artists": [
-        {
-          "name": "Anna Stadling",
-          "url": "https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs"
-        }
-      ],
-      "duration_ms": 202132,
-      "name": "I v\u00e5ra h\u00e4nder",
-      "url": "https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Den var aldrig jag",
-        "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 244090,
-      "name": "Den var aldrig jag",
-      "url": "https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Melody Rules",
         "url": "https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz"
@@ -1665,7 +1269,7 @@
       "url": "https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO"
@@ -1689,7 +1293,7 @@
       "url": "https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Brandalsund",
         "url": "https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI"
@@ -1709,55 +1313,7 @@
       "url": "https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Dom kallar henne mamma",
-        "url": "https://open.spotify.com/album/4eJxnnRLwFL0XzWxC1Eaz1"
-      },
-      "artists": [
-        {
-          "name": "Mira Ray",
-          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
-        }
-      ],
-      "duration_ms": 277176,
-      "name": "Dom kallar henne mamma",
-      "url": "https://open.spotify.com/track/45USEZKMJbftMlYbLjf3Te"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Se mig bara f\u00f6r den jag \u00e4r",
-        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
-      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Hummin' a Melody",
-        "url": "https://open.spotify.com/album/1rKwnTfec0E0AI8dhJUVr7"
-      },
-      "artists": [
-        {
-          "name": "Isaac And The Soul Company",
-          "url": "https://open.spotify.com/artist/2xvgiQmoknkwrQmSSOlvld"
-        }
-      ],
-      "duration_ms": 167300,
-      "name": "Hummin' a Melody",
-      "url": "https://open.spotify.com/track/05yiHrwmHDqyjOhLagO4ik"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Keep Quiet",
         "url": "https://open.spotify.com/album/0MUwVgg7rxb6PwL4TwWli9"
@@ -1773,23 +1329,23 @@
       "url": "https://open.spotify.com/track/2VClts5OjA61Cg3QLWNNF1"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e"
+        "name": "Se mig bara f\u00f6r den jag \u00e4r",
+        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
       },
       "artists": [
         {
-          "name": "RVE",
-          "url": "https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY"
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
         }
       ],
-      "duration_ms": 191312,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl"
+      "duration_ms": 186320,
+      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
+      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Jag g\u00f6r allt som man inte f\u00e5r",
         "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
@@ -1805,7 +1361,7 @@
       "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "I Keep On Falling in Love",
         "url": "https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB"
@@ -1821,7 +1377,7 @@
       "url": "https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Midsummer Day",
         "url": "https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD"
@@ -1841,23 +1397,7 @@
       "url": "https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "True Romantic",
-        "url": "https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM"
-      },
-      "artists": [
-        {
-          "name": "Linda Sundblad",
-          "url": "https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "True Romantic",
-      "url": "https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq"
@@ -1873,7 +1413,7 @@
       "url": "https://open.spotify.com/track/3evNXplJ4WDJFtypBEluFF"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Endless Road",
         "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
@@ -1889,7 +1429,127 @@
       "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
-      "added_at": "2024-06-27 22:00:00",
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
+        "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
+      },
+      "artists": [
+        {
+          "name": "The Tarantula Waltz",
+          "url": "https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 237508,
+      "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
+      "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Vill ha mer (2024 Version)",
+        "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
+      },
+      "artists": [
+        {
+          "name": "Nordman",
+          "url": "https://open.spotify.com/artist/71c9ORC5hHt0J1TGCa5nxN"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Vill ha mer - 2024 Version",
+      "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sk\u00e5pmat 71-05",
+        "url": "https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d"
+      },
+      "artists": [
+        {
+          "name": "Rolf Wikstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
+        },
+        {
+          "name": "Daniel Lemma",
+          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+        }
+      ],
+      "duration_ms": 248319,
+      "name": "En \u00f6kenblomma",
+      "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+      },
+      "artists": [
+        {
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Flamma",
+        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
+      },
+      "artists": [
+        {
+          "name": "Kayo",
+          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
+        }
+      ],
+      "duration_ms": 195414,
+      "name": "Flamma",
+      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Doftade Dior",
         "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
@@ -1903,6 +1563,146 @@
       "duration_ms": 235000,
       "name": "Doftade Dior",
       "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Are You Ok",
+        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "Are You Ok",
+      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "En bruten fj\u00e4der",
+        "url": "https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        },
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Fl\u00e4skkvartetten",
+          "url": "https://open.spotify.com/artist/59MetJkOx90aaVOotsr4cQ"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "En bruten fj\u00e4der",
+      "url": "https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "En k\u00e4rlek sj\u00e4lv",
+        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "En k\u00e4rlek sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 164700,
+      "name": "Isn\u2019t That Enough",
+      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     }
   ],
   "unique_name": "Aktuellt",

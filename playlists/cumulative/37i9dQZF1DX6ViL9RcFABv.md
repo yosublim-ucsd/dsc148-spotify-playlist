@@ -4,13 +4,13 @@
 
 > Uma playlist de pura alma pop! Foto: Calema
 
-84 songs - 4 hr 34 min
+85 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Chamada](https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [A Chamada](https://open.spotify.com/album/5gK7m9ajcA9TbW4KcSaLIl) | 3:39 | 2024-06-27 |  |
 | [A Nossa Dança](https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A Nossa Dança](https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz) | 3:02 | 2024-06-27 |  |
-| [A Terra Gira \(feat\. Bárbara Tinoco\) \- Ao Vivo no Estádio Cidade De Coimbra](https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [A Terra Gira \(feat\. Bárbara Tinoco\) \[Ao Vivo no Estádio Cidade De Coimbra\]](https://open.spotify.com/album/5yJNnaDRjjSxHGcPdTCnEr) | 5:42 | 2024-06-27 |  |
+| [A Terra Gira \(feat\. Bárbara Tinoco\) \- Ao Vivo no Estádio Cidade De Coimbra](https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [A Terra Gira \(feat\. Bárbara Tinoco\) \[Ao Vivo no Estádio Cidade De Coimbra\]](https://open.spotify.com/album/5yJNnaDRjjSxHGcPdTCnEr) | 5:42 | 2024-06-27 | 2024-08-09 |
 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 | 2024-07-11 |  |
 | [Amor de Ferro](https://open.spotify.com/track/7LET87zmdD3hHXmijQwR9r) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Pedro Abrunhosa](https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR) | [Amor de Ferro](https://open.spotify.com/album/41VTRpC4jsaDttVJqZaAzm) | 3:34 | 2024-06-27 |  |
 | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/track/6bZkZEAd74aN460QLox8W9) | [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Ao Teu Ouvido \(feat\. Bárbara Tinoco\)](https://open.spotify.com/album/5l3QAHoU2IXYiyYspW9ZQA) | 3:36 | 2024-06-27 |  |
@@ -22,6 +22,7 @@
 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 | 2024-06-27 |  |
 | [CASA](https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [CASA](https://open.spotify.com/album/0MiBg6aI8QwreRNhrHOtGb) | 3:28 | 2024-06-27 |  |
 | [casa](https://open.spotify.com/track/53gXl8SihJLcFeC2D8g6ry) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [V.H.S \(vol.1\)](https://open.spotify.com/album/7DkrPZTE9lrVYsU8ffCoJ1) | 3:26 | 2024-06-27 |  |
+| [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 | 2024-08-08 |  |
 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 | 2024-06-27 | 2024-07-05 |
 | [Como Antes](https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Como Antes](https://open.spotify.com/album/5Ja0yJ2hIVxWq5lOtGQ6Ih) | 3:44 | 2024-06-27 |  |
 | [Como Se Te Fosse Perder](https://open.spotify.com/track/3Oa4gJ5OfEGpCNWlLslYh0) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Como Se Te Fosse Perder](https://open.spotify.com/album/0xSY141d5NGzZUGY5uRxgq) | 3:06 | 2024-06-27 | 2024-07-27 |

@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 77 | [Camera Phone](https://open.spotify.com/track/1qA744mgwsiyE8TYafGiqD) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Dusty McFly](https://open.spotify.com/artist/0ekbxDROhz27q5QvYDCOsj), [B\. Lewie](https://open.spotify.com/artist/6PaR8BiEKBuKDML0yTChAs) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 3:13 |
 | 78 | [STILL GRIND](https://open.spotify.com/track/2NGi1vhgh3vgfJEMtiU2sW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:43 |
 | 79 | [Ballin'](https://open.spotify.com/track/4oBs09u0OqeiZqZLQOweIl) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 3:19 |
-| 80 | [PIMP](https://open.spotify.com/track/6CU674dU99aobDlo0BVTlO) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:24 |
-| 81 | [FIX](https://open.spotify.com/track/3eqimgbvktxMnoGyVw61zB) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 2:19 |
+| 80 | [FIX](https://open.spotify.com/track/3eqimgbvktxMnoGyVw61zB) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 2:19 |
+| 81 | [PIMP](https://open.spotify.com/track/6CU674dU99aobDlo0BVTlO) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:24 |
 | 82 | [Burning Sage](https://open.spotify.com/track/0tv7NHSqrC88FrJ4eYGzqK) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 2:29 |
 | 83 | [Buy U Some](https://open.spotify.com/track/5LhJpUKYBJ48QhJJyaNvpR) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Earl ManiGoat](https://open.spotify.com/album/2sVW32G4fT3wALd4z1sRCt) | 1:23 |
 | 84 | [Pussy Dope](https://open.spotify.com/track/6BPAlg2QgrOT6cu2NnNozM) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:31 |
 | 85 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 86 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AbYz4gAAAADVsvzHwMPod448R1mxAjKG`
+Snapshot ID: `AbY5xgAAAADT7b4H+NB3eCrKIT/FjA5v`

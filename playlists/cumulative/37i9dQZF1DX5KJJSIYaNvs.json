@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Rekha Bharadwaj",
+  "description": "Listen to women at full volume. Cover - Rekha Bhardwaj",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 341054,
       "name": "Agar Tum Saath Ho",
       "url": "https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX"
@@ -4734,6 +4734,32 @@
       "duration_ms": 154900,
       "name": "Mumbai Magic (feat. Natania, Subhi & Shalmali Kholgade)",
       "url": "https://open.spotify.com/track/07jwBjAFkTaUz4FMwoQISV"
+    },
+    {
+      "album": {
+        "name": "Mummy Ji - From \"Vedaa\"",
+        "url": "https://open.spotify.com/album/0Zxpq4d4E9OpowH7jmzqcl"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Prajakta Shukre",
+          "url": "https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB"
+        },
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202424,
+      "name": "Mummy Ji - From \"Vedaa\"",
+      "url": "https://open.spotify.com/track/4SPgouFDiL8ekkaqL9hhrb"
     },
     {
       "album": {

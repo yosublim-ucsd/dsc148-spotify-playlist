@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 59831,
+  "description": "This is Banda Machos. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 59843,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAABB5Zt4EkxRulTDp1qfn2e2",
+  "snapshot_id": "ZrK5AAAAAACu7khLNIHGcbBctPGu0ZJL",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi chica ideal (Lo B\u00e1sico)",
-        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 185866,
-      "name": "Si la miro ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
+      "duration_ms": 191266,
+      "name": "La noche que Chicago muri\u00f3",
+      "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
       "artists": [
         {
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 191266,
-      "name": "La noche que Chicago muri\u00f3",
-      "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "No compro amores",
-      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
+      "duration_ms": 185866,
+      "name": "Si la miro ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "El mandilon",
+      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura pasi\u00f3n",
-        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 190226,
-      "name": "El mandilon",
-      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
     },
     {
       "added_at": null,

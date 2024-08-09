@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: JESENN
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Anji
 
-154 songs - 9 hr 56 min
+159 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-27 |  |
 | [Belum Cukup Dewasa](https://open.spotify.com/track/0U1wr3r5Z6A9eaZaR4lh4X) | [Ruby](https://open.spotify.com/artist/6jsljB2KXUgNh1PpMzAVZV), [Bama](https://open.spotify.com/artist/75VKqUGE67mYG8gMzW9o5J) | [Belum Cukup Dewasa](https://open.spotify.com/album/6lP2IMy3cqCUogUT3bNYFf) | 3:25 | 2024-07-25 |  |
 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 | 2024-07-11 |  |
+| [Berjalan Adanya](https://open.spotify.com/track/6ZLlgoRysbx0XWWRuMWR1N) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Berjalan Adanya](https://open.spotify.com/album/3IEDfeJRAQam1cMQInbqmN) | 4:06 | 2024-08-08 |  |
 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 | 2024-08-01 |  |
 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 | 2024-06-27 | 2024-07-27 |
 | [Bersabarlah](https://open.spotify.com/track/4eczUTGfhSCIkBPt1Cuk7I) | [Indra Sinaga](https://open.spotify.com/artist/2abJPNlO0AZ5rxcKas2hOw) | [Bersabarlah](https://open.spotify.com/album/7AVJEfkv1oyajgJQkwhqwJ) | 4:30 | 2024-06-27 |  |
@@ -89,6 +90,7 @@
 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:16 | 2024-06-27 | 2024-07-12 |
 | [Lamunan Di Kota Itu](https://open.spotify.com/track/2WutvF8HJV4BwOYAbSovIx) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Lamunan Di Kota Itu](https://open.spotify.com/album/3p259WUgFCjBv8vi0BMNOz) | 3:50 | 2024-06-27 |  |
 | [Langit Biru \(feat\. Fanny Soegi\)](https://open.spotify.com/track/5wtHjWyIjDAbgyz0fuV75Z) | [Padi](https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg), [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Langit Biru \(feat\. Fanny Soegi\)](https://open.spotify.com/album/4gF4YtQhj7UqmI4fYxyurp) | 5:03 | 2024-06-27 |  |
+| [Laras Sukma](https://open.spotify.com/track/7tmxIgPDatMU03hhPaZlH8) | [Rahma Savitri](https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V) | [Laras Sukma](https://open.spotify.com/album/3XZ7My2aJhwrDCTecMTnvj) | 2:56 | 2024-08-08 |  |
 | [Last Right One](https://open.spotify.com/track/6vSBmOCdVhD8gN94ggTDMK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Last Right One](https://open.spotify.com/album/4pIZut1MFibakG5NQLSewa) | 3:47 | 2024-06-27 | 2024-07-27 |
 | [Lebur](https://open.spotify.com/track/4gbH6lV77i8Vmqf8INVoMz) | [Nina Tamam](https://open.spotify.com/artist/5QP4SlYmKAKNBUVlCGa2z5) | [Lebur](https://open.spotify.com/album/6qn7hYsqhSD31Wz17fl8TM) | 4:59 | 2024-06-27 | 2024-07-27 |
 | [Mahir Memberi Luka](https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Everlast](https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg) | 3:22 | 2024-06-27 |  |
@@ -116,6 +118,7 @@
 | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Pada Akhirnya, Berkawan Berlalu](https://open.spotify.com/album/3WzgPEAKYBpH4avi8eJNDk) | 4:13 | 2024-06-27 | 2024-07-05 |
 | [Pandai Bicara](https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Pandai Bicara](https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2) | 3:54 | 2024-06-27 | 2024-07-27 |
 | [Patah Terbelah](https://open.spotify.com/track/3a2JAzygdSbcaDVzgQVzOo) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Patah Terbelah](https://open.spotify.com/album/6mR37QRgdYkAceaK23eTmq) | 4:15 | 2024-06-27 |  |
+| [Pelan Pelan Melupakan](https://open.spotify.com/track/1mdYmKqowTqMxEgONsGFNK) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Pelan Pelan Melupakan](https://open.spotify.com/album/2judBM7zQxlllXnEF601B9) | 3:49 | 2024-08-08 |  |
 | [Pengkhianatan Terbesar](https://open.spotify.com/track/3DkeazRqsBtR7CcgIT96r3) | [GammaOne](https://open.spotify.com/artist/3eqRvLBNdNGTMk5wa0Iqb2) | [Pengkhianatan Terbesar](https://open.spotify.com/album/61HHuQ6mEm300bfJnRZ47n) | 3:30 | 2024-06-27 |  |
 | [Penikmat Senyummu](https://open.spotify.com/track/2Gu8EMg6OLhnCP5is8G5R2) | [Mark Natama](https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi) | [Penikmat Senyummu](https://open.spotify.com/album/6tpQfnEsyEVshedIZswudd) | 3:58 | 2024-06-27 | 2024-07-27 |
 | [Pergi Secepat Ini](https://open.spotify.com/track/6yBsvbgwdvoHdpYX8OB87X) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [8](https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea) | 5:02 | 2024-06-27 |  |
@@ -130,8 +133,10 @@
 | [Saat Bersamanya](https://open.spotify.com/track/5HTUL2CcEddX6VUkCBOgxQ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Saat Bersamanya](https://open.spotify.com/album/4nhDqXNo8V8MBrEb148zTq) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Salahkah Berharap](https://open.spotify.com/track/3cLJss4xbXCovH0GNOxgw2) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Salahkah Berharap](https://open.spotify.com/album/1vihIL45mTBUTahSixvUCt) | 4:00 | 2024-06-27 | 2024-07-05 |
 | [Salam Perpisahan](https://open.spotify.com/track/7JfPwAK5GSnUDoFU3nSSsg) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Berbunga](https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42) | 4:34 | 2024-06-27 |  |
+| [Sayang Segera Pulang](https://open.spotify.com/track/2FzAxscJuxvvHACabMnLm4) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Aesha Clara](https://open.spotify.com/artist/17JxKMTscR0CSCcRaflnvI), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Sayang Segera Pulang](https://open.spotify.com/album/3Y8CQYyOORxgn035ofr9TP) | 2:38 | 2024-08-08 |  |
 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-06-27 |  |
+| [Selamat Datang Di Realita](https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Selamat Datang Di Realita](https://open.spotify.com/album/38SGxevynExMhA61GaaPTs) | 5:41 | 2024-08-08 |  |
 | [Selimut Hati](https://open.spotify.com/track/40snO045rENfvlBFBqfONd) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy), [Indonesian Philharmonic Orchestra](https://open.spotify.com/artist/5YynOyNW2qNfCMjnv8fDgT) | [Selimut Hati](https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16) | 4:54 | 2024-06-27 |  |
 | [Selimut Rindu](https://open.spotify.com/track/6jjHaJQkryIX7UB3E5Zb00) | [Himalayan](https://open.spotify.com/artist/1rtwil431zNqyr0x82ayOt) | [Selimut Rindu](https://open.spotify.com/album/1wMA6Y2T7heCiqBZCMYrgo) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Semua Cinta](https://open.spotify.com/track/16vZp4ncPm0otuupSp9tOx) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Semua Cinta](https://open.spotify.com/album/0WrWwVBtNcv6gzYtSQH9JO) | 4:14 | 2024-08-01 |  |

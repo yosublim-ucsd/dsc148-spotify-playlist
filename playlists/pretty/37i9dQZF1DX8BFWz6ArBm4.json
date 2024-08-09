@@ -1,51 +1,15 @@
 {
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Vertis",
-  "num_followers": 31719,
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andreas Habibi, Panos Kiamos",
+  "num_followers": 31732,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqv3UAAAAAANfZOtVe6Gm9PeA2kL4nK9",
+  "snapshot_id": "ZrUx0AAAAAAjDeobUxWjQOUkHkyp9d/O",
   "tracks": [
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "As Tous Na Lene",
-        "url": "https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT"
-      },
-      "artists": [
-        {
-          "name": "Nikos Vertis",
-          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "As Tous Na Lene",
-      "url": "https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "De Mas Xorizei Tipota",
-        "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        },
-        {
-          "name": "Giorgos Livanis",
-          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "De Mas Xorizei Tipota",
-      "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
@@ -69,7 +33,43 @@
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "De Mas Xorizei Tipota",
+        "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        },
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "De Mas Xorizei Tipota",
+      "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "As Tous Na Lene",
+        "url": "https://open.spotify.com/album/3AjpvMusEJQuhIsAmWwwOT"
+      },
+      "artists": [
+        {
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "As Tous Na Lene",
+      "url": "https://open.spotify.com/track/0GVmpYnNFON6Tihcuo3ysQ"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
@@ -89,23 +89,23 @@
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
-        "name": "Pyrkagia",
-        "url": "https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn"
+        "name": "Psahno Na Vro",
+        "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
       },
       "artists": [
         {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
         }
       ],
-      "duration_ms": 152275,
-      "name": "Pyrkagia",
-      "url": "https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk"
+      "duration_ms": 199166,
+      "name": "Psahno Na Vro",
+      "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Kalokeri",
         "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Planitis Gi",
         "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Tipota Tiheo",
         "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
@@ -161,7 +161,23 @@
       "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Pyrkagia",
+        "url": "https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn"
+      },
+      "artists": [
+        {
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "Pyrkagia",
+      "url": "https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "24 Ores",
         "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
@@ -177,27 +193,7 @@
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "Tha Mas Mathei Oli H Hora",
-        "url": "https://open.spotify.com/album/7KNVHmQgfLyOAtFMYtibvD"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        },
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "Tha Mas Mathei Oli H Hora",
-      "url": "https://open.spotify.com/track/03vNoF7juH5JasXlAWuWZB"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Apostolia Zoi Live Medley 2024",
         "url": "https://open.spotify.com/album/79irzQ3hDAx83t4jW1Q1CB"
@@ -213,7 +209,7 @@
       "url": "https://open.spotify.com/track/5yf0wwuvvKIP5OtNTADlim"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
@@ -233,7 +229,27 @@
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Tha Mas Mathei Oli H Hora",
+        "url": "https://open.spotify.com/album/7KNVHmQgfLyOAtFMYtibvD"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 199183,
+      "name": "Tha Mas Mathei Oli H Hora",
+      "url": "https://open.spotify.com/track/03vNoF7juH5JasXlAWuWZB"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Siga To Prama",
         "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
@@ -249,23 +265,7 @@
       "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "Psahno Na Vro",
-        "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "Psahno Na Vro",
-      "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "7/7",
         "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
@@ -285,7 +285,23 @@
       "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Ekptotos Aggelos",
+        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "duration_ms": 263015,
+      "name": "Ekptotos Aggelos",
+      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Parallili Agapi",
         "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
@@ -301,23 +317,7 @@
       "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "I Gineka Tis Zois Sou",
-      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Krifos Paradisos",
         "url": "https://open.spotify.com/album/0z33CdgdN4fJQnD31uxoFu"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/0TFPLCfaXZ0DVYGpa4psV9"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Savvato Vrady",
         "url": "https://open.spotify.com/album/2pwZE1wMOiMYZpPpBNIYpk"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/4v3ddZLCXUt947jF004vE7"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Efyge?",
         "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Alitheia",
         "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
@@ -389,23 +389,7 @@
       "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "Ekptotos Aggelos",
-        "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 263015,
-      "name": "Ekptotos Aggelos",
-      "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Efhi",
         "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
@@ -421,7 +405,23 @@
       "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "I Gineka Tis Zois Sou",
+      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "S' Agapao Kai Den Pao Kala",
         "url": "https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Tetoia Ora Tetoia Logia",
         "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "An Ikseres",
         "url": "https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Na Pernas",
         "url": "https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI"
@@ -501,23 +501,7 @@
       "url": "https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
-      "album": {
-        "name": "Kalispera (Aroma Elladas Edition)",
-        "url": "https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Apopse Thelo",
-      "url": "https://open.spotify.com/track/5qMrZ7AN6LveKKAr16d5rr"
-    },
-    {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "O,ti M' Aresei",
         "url": "https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp"
@@ -533,7 +517,23 @@
       "url": "https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Kalispera (Aroma Elladas Edition)",
+        "url": "https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Apopse Thelo",
+      "url": "https://open.spotify.com/track/5qMrZ7AN6LveKKAr16d5rr"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Odos Monaxias",
         "url": "https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "I Agapi Ayti",
         "url": "https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Fyllo Kai Ftero",
         "url": "https://open.spotify.com/album/3zvUBesfwfXVJONg28SHx4"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/2Yic3iwPa1h8DH4grovGcX"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Siko Kardia Mou",
         "url": "https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Eimai Gunaika",
         "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Ti Sou Kanei",
         "url": "https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Pes Mou Kati",
         "url": "https://open.spotify.com/album/3R0Wv0GGXq3XEHrO1T33sN"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/6LDc0SG4DGhowqwjBvaMnG"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Xilia Spirta",
         "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "maZW Akoma (Ola Mou Ta Thelo)",
         "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Paraponaki Mou",
         "url": "https://open.spotify.com/album/0nn4UNyLy5xgRka3bSIkMa"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/1h9nXyBYPaxetP1ViK28gu"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "O Hartis",
         "url": "https://open.spotify.com/album/6ESMhTCrJMvxRMrM3BFbRI"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/77veey2PBLf6KBMShrI0H7"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Kalispera",
         "url": "https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Se Afisa Sto Htes - Eisai Treli",
         "url": "https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Evaisthisies",
         "url": "https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "As Ta Leme Kala",
         "url": "https://open.spotify.com/album/2KopKrIy2fKfggwNw8JtGz"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/1vX21J00Ck8YgzCtlUE4Gz"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Ti Na Peis Gia Mena (Live 2024)",
         "url": "https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Mystiko",
         "url": "https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Odos Tsimiski",
         "url": "https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Ta Kalytera",
         "url": "https://open.spotify.com/album/7b7ppVdCsdND2loHeKun4q"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/6P177lVcscT2irH7dM9Ez0"
     },
     {
-      "added_at": "2024-08-01 21:00:00",
+      "added_at": "2024-08-08 21:00:00",
       "album": {
         "name": "Thalasses",
         "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"

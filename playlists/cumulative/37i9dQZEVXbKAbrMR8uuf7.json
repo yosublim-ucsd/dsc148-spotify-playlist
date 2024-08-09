@@ -9328,7 +9328,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 162058,
       "name": "ESTE",
       "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
@@ -9350,6 +9350,24 @@
       "duration_ms": 205920,
       "name": "Este Hombre (El Tesoro)",
       "url": "https://open.spotify.com/track/2HBs1RbJlztQiTTK0kL25P"
+    },
+    {
+      "album": {
+        "name": "Mashup (2024)",
+        "url": "https://open.spotify.com/album/5OkkgAp4sGZiSeYx6l3h7I"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159611,
+      "name": "Este o Este (Mashup)",
+      "url": "https://open.spotify.com/track/49mBZ5hZmYQg2JPuqnProx"
     },
     {
       "album": {
@@ -13210,7 +13228,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -26176,7 +26194,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"

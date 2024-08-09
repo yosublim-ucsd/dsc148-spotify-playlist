@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "yungest Moonstar in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
+  "description": "Artie e Gu\u00e8 in cover della playlist urban pi\u00f9 grande d'Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -938,6 +938,32 @@
       "duration_ms": 157866,
       "name": "ANIMALE (feat. Noyz Narcos & The Whispers)",
       "url": "https://open.spotify.com/track/0xZ2VIJQlVOY0SlMoQMzfD"
+    },
+    {
+      "album": {
+        "name": "Apparecchiato (feat. Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Apparecchiato (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
     },
     {
       "album": {
@@ -11816,7 +11842,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 132705,
       "name": "Ti Ricordi Di Noi",
       "url": "https://open.spotify.com/track/1K8m7FNx5MxRUTTVLjNN4C"

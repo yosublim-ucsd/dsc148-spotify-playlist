@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,666 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,690 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 68 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |
 | 69 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 |
 | 70 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
-| 71 | [Aconséjame Mamá](https://open.spotify.com/track/1K1oIlMqoHG3B6eIGCe5Xm) | [Baby Batiz](https://open.spotify.com/artist/1ovGu4hf8b9yivHof9N997) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:33 |
-| 72 | [Mary Mary](https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:18 |
+| 71 | [Mary Mary](https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:18 |
+| 72 | [Aconséjame Mamá](https://open.spotify.com/track/1K1oIlMqoHG3B6eIGCe5Xm) | [Baby Batiz](https://open.spotify.com/artist/1ovGu4hf8b9yivHof9N997) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:33 |
 | 73 | [Bájate De Mi Nube](https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI) | [Reo](https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:01 |
 | 74 | [Dame Tu Amor](https://open.spotify.com/track/3lPADg2yBojS0fAPRODg9J) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Lo Mejor de Karina](https://open.spotify.com/album/2QnxVQzKb0JQ9TDjpMqSrH) | 2:58 |
 | 75 | [Corina, Corina](https://open.spotify.com/track/2pXeJhrylYrsCXyZVNp7oy) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:51 |

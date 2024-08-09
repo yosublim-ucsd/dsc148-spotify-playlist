@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Barbel
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,916 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,963 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 10 | [C3](https://open.spotify.com/track/20GDqldujHWyUXsw4TwSY7) | [Mr\. Fox](https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw) | [C3](https://open.spotify.com/album/2fxCnUHJukxPmsz4SmqDie) | 2:28 |
 | 11 | [TITI](https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4) | [TITI](https://open.spotify.com/album/7H26CGe2Aom4hk3RucV8vU) | 3:07 |
 | 12 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 |
-| 13 | [Tiempo](https://open.spotify.com/track/0riQdS5CJ3xPStmtOI2TsF) | [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Tiempo](https://open.spotify.com/album/502HTZa2IfWh9QNLbrLhlV) | 2:38 |
+| 13 | [Tiempo](https://open.spotify.com/track/0riQdS5CJ3xPStmtOI2TsF) | [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX), [Predikador](https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY) | [Tiempo](https://open.spotify.com/album/502HTZa2IfWh9QNLbrLhlV) | 2:38 |
 | 14 | [Energias](https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 3:18 |
 | 15 | [Abracadabra](https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Tu Puto Rock Star](https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd) | 3:30 |
 | 16 | [Tu Buay](https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [Tu Buay](https://open.spotify.com/album/5CNq7AqFZBnlj9lXI5275g) | 2:18 |

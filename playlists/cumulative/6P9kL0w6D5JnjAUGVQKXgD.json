@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
@@ -32205,6 +32205,32 @@
     },
     {
       "album": {
+        "name": "We Can\u2019t Be Friends",
+        "url": "https://open.spotify.com/album/4H9gZtUD61vpH0ImQcX5WE"
+      },
+      "artists": [
+        {
+          "name": "Kenan Waters",
+          "url": "https://open.spotify.com/artist/5wqaqDigmVwxbb69jlpfOv"
+        },
+        {
+          "name": "Little Rain",
+          "url": "https://open.spotify.com/artist/5G9sRtq1nXYDJusPspWQS7"
+        },
+        {
+          "name": "Intellios",
+          "url": "https://open.spotify.com/artist/1Ry2Etzq6hZz1X446ijCmI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "We Can't Be Friends",
+      "url": "https://open.spotify.com/track/1AYys5ulxBlFcGa3qAfjRj"
+    },
+    {
+      "album": {
         "name": "We Can't Hide",
         "url": "https://open.spotify.com/album/28earv36mUiH6n3k51ZRPH"
       },
@@ -33328,7 +33354,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174720,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/1A4w0HHmTE1kzIjNH51D3O"
@@ -34128,6 +34154,28 @@
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw"
+    },
+    {
+      "album": {
+        "name": "You Don't Know Love",
+        "url": "https://open.spotify.com/album/0Ku6M3AxticmAf3PhGFuqA"
+      },
+      "artists": [
+        {
+          "name": "Gus One",
+          "url": "https://open.spotify.com/artist/1jSYGQGMgWynF4p0XcjJHH"
+        },
+        {
+          "name": "Mant Deep",
+          "url": "https://open.spotify.com/artist/7sgvTvvxbhV2Qa9gS0yHMZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "You Don't Know Love",
+      "url": "https://open.spotify.com/track/4t9l5PVPYm5YXrecuk6hK1"
     },
     {
       "album": {

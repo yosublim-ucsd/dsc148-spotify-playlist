@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,020 songs - 3 day 4 hr 58 min
+2,021 songs - 3 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-05-31 |  |
 | [280](https://open.spotify.com/track/7Dw01bYupNW7yKAwo4Yzx3) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | ['99](https://open.spotify.com/album/3WVWIjOfJ3jHyfFR8pCedL) | 3:16 | 2022-04-15 | 2022-12-03 |
 | [4 AM](https://open.spotify.com/track/1e9QYfVecpOpvcmRkQEK0e) | [Lake Valley](https://open.spotify.com/artist/7sXI0WtuyDELsesS7kW4qF) | [Soul Silk](https://open.spotify.com/album/5pNYYDEA83XcuAykmfjRn9) | 2:27 | 2022-04-15 | 2022-05-27 |
+| [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 | 2024-07-26 |  |
 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 | 2023-10-13 |  |
 | [6 AM](https://open.spotify.com/track/6KWIpGkpXKb01x4OdxA8UA) | [Milky Moustache Beats](https://open.spotify.com/artist/6RRj0SxwUF7hIJlrfhfPOu), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [6 AM](https://open.spotify.com/album/6371H1hqJoJcCv8nOBN1od) | 2:30 | 2022-04-15 | 2022-09-02 |
 | [6 AM](https://open.spotify.com/track/4q9LTp6HB2OKDlbNgrLn39) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [6 AM](https://open.spotify.com/album/1jNJxQaep23GkcDFnXZdXx) | 1:55 | 2023-06-06 | 2023-10-27 |
@@ -1195,7 +1196,7 @@
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
 | [Netflix & Chill](https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9) | [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Netflix & Chill](https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv) | 2:21 | 2024-04-26 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
-| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 | 2024-08-06 |
+| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2024-05-14 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Digs](https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [New Digs](https://open.spotify.com/album/2ypN0p2zkApynrOLhJGO5e) | 2:20 | 2023-11-24 |  |
@@ -1473,7 +1474,7 @@
 | [Riff Raff](https://open.spotify.com/track/7tNVTkmMvif265BP6D5vs3) | [8track mind](https://open.spotify.com/artist/5Qak9B91vMGtkgP8y11sPA) | [Riff Raff](https://open.spotify.com/album/0sqzj74wNIb11uICs47JOE) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [RIP Skippy](https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [RIP Skippy](https://open.spotify.com/album/6AYiDIfdBvxhyGRPuUYh69) | 1:54 | 2023-03-20 | 2024-07-27 |
 | [Ripples](https://open.spotify.com/track/3WeZQ5yOSPwWrZKONN0DCG) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Ripples](https://open.spotify.com/album/2XBRBjmpfhSIvFBP0PpKqo) | 2:38 | 2022-08-12 | 2022-12-17 |
-| [Road to Skate](https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Road to Skate](https://open.spotify.com/album/3LNYRr29mc54LL2EaVocNC) | 2:02 | 2023-07-13 |  |
+| [Road to Skate](https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Road to Skate](https://open.spotify.com/album/3LNYRr29mc54LL2EaVocNC) | 2:02 | 2023-07-13 | 2024-08-09 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [Roadwalk](https://open.spotify.com/track/1y4JxFcwfHaBnx91s4tdfs) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Roadwalk](https://open.spotify.com/album/6qJaJS8sB5obL0Dd58uQ0K) | 2:30 | 2022-07-15 | 2022-07-22 |
 | [Rocking Chair](https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Rocking Chair](https://open.spotify.com/album/0xLjnKdDGk054OL9CZsCKU) | 1:36 | 2023-06-06 | 2023-10-06 |
@@ -1673,7 +1674,7 @@
 | [Stripe Two](https://open.spotify.com/track/4AXc2D9pa1uttadN9MowI3) | [Tom Oswald](https://open.spotify.com/artist/0h8JdYna5YWfPvyw3YaBVN) | [Stripe One](https://open.spotify.com/album/6gaMaWFWEZTl6kwel3RRp1) | 1:46 | 2022-04-15 | 2022-06-25 |
 | [Stripped](https://open.spotify.com/track/2LXAwy25OU7YdhCSkVuzcO) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Stripped](https://open.spotify.com/album/2wEMcHAfiCn5zbiCOG32iP) | 2:03 | 2022-11-11 | 2023-02-07 |
 | [Strong Desires](https://open.spotify.com/track/1HjWCjS7DVNqJlfRrmU1oF) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Strong Desires](https://open.spotify.com/album/6bG2FKpaqcUQmBn6CqThx3) | 2:17 | 2024-01-19 |  |
-| [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 |  |
+| [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 | 2024-08-09 |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2022-04-15 | 2022-09-02 |
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 | 2022-11-26 |
 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-28 |  |

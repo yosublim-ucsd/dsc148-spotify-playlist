@@ -2,7 +2,7 @@
 
 ### [This Is Bastille](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xeFWM)
 
-> This is Bastille\. The essential tracks, all in one playlist.
+> This is Bastille\. Track\-track unggulan, semuanya dalam satu playlist.
 
 92 songs - 5 hr 16 min
 

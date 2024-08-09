@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f\ud83d\udda4 CALI! in cover",
+  "description": "musica da gridare \ud83d\udde3\ufe0f\ud83d\udda4 Decrow e Jack Out in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -5725,6 +5725,28 @@
     },
     {
       "album": {
+        "name": "Donde Est\u00e1s?",
+        "url": "https://open.spotify.com/album/3Pkjt1tzNJGh41RVryhoFJ"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Holy Francisco",
+          "url": "https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Donde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/3xe5I2dExffQFZ5QHbprtl"
+    },
+    {
+      "album": {
         "name": "dont let me go",
         "url": "https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb"
       },
@@ -9934,7 +9956,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 133124,
       "name": "L(oser)",
       "url": "https://open.spotify.com/track/41CZM8nSVyGjD4bK2gqMgK"
@@ -13758,6 +13780,24 @@
       "duration_ms": 173485,
       "name": "OTTOBRE",
       "url": "https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz"
+    },
+    {
+      "album": {
+        "name": "SAD VIBES",
+        "url": "https://open.spotify.com/album/0emE6rPetEtBDMRcAc2h9x"
+      },
+      "artists": [
+        {
+          "name": "DALAI XV",
+          "url": "https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138406,
+      "name": "Pagine vuote",
+      "url": "https://open.spotify.com/track/3waeGJeHycGKpjmGZkhyLN"
     },
     {
       "album": {
@@ -18310,7 +18350,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 151903,
       "name": "su misura",
       "url": "https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8"

@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-157 songs - 9 hr 8 min
+158 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Sunny Afternoon](https://open.spotify.com/track/3G6iqKcRzEYwSu9zE2qAMW) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 4:00 | 2022-03-22 | 2024-04-19 |
 | [Sunny Afternoon](https://open.spotify.com/track/5j5GL0vsQnDBdiuLEyfnrv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 4:00 | 2022-03-22 |  |
 | [Sunny Side Up!](https://open.spotify.com/track/782QoB4jJ7hEVJmkYzVrRE) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:23 | 2022-03-22 |  |
+| [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 | 2024-08-08 |  |
 | [Take It Slow](https://open.spotify.com/track/1sa96RYgum6F5CdgIfPgwJ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:31 | 2022-03-22 |  |
 | [Take It Slow](https://open.spotify.com/track/4hZShMUML4tIKWvxa2u7Ne) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 3:31 | 2022-03-22 | 2024-04-19 |
 | [Talk To Me](https://open.spotify.com/track/0X6SLg4pM3jdT9y18XYGN4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:32 | 2022-03-22 |  |

@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Allo Oui",
       "url": "https://open.spotify.com/track/0FvnIUp3c3YRawAkprTCp6"
@@ -13180,7 +13180,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 227826,
       "name": "KIF KIF",
       "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
@@ -16149,6 +16149,24 @@
     },
     {
       "album": {
+        "name": "Mahboul Ana",
+        "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mahboul Ana",
+      "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
+    },
+    {
+      "album": {
         "name": "MAHBOUL ANA",
         "url": "https://open.spotify.com/album/5jVleLW3RXnIYDWor0ws6c"
       },
@@ -16178,7 +16196,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 185000,
       "name": "Mahboul Ana",
       "url": "https://open.spotify.com/track/6bQftLbIxlg6uMXEL77h1a"

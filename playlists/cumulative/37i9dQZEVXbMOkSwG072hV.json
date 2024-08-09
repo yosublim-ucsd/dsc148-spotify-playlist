@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Alma De Pipa",
+      "url": "https://open.spotify.com/track/644gq5WwvqPNJa1Kai6bLR"
+    },
+    {
+      "album": {
         "name": "Already Over",
         "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
@@ -10266,7 +10284,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
@@ -18604,7 +18622,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 608711,
       "name": "Faz Completo na Madruga",
       "url": "https://open.spotify.com/track/4tX7Qo5NAyD6qx7qXJIDqw"
@@ -26118,6 +26136,24 @@
       "duration_ms": 263400,
       "name": "Long Long Time",
       "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221387,
+      "name": "Longe e Se Querendo",
+      "url": "https://open.spotify.com/track/1NvgihR6tOuY73sGmn4v4o"
     },
     {
       "album": {
@@ -35823,6 +35859,28 @@
     },
     {
       "album": {
+        "name": "O Melhor no Que Faz 3.0 [Slowed]",
+        "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
+      },
+      "artists": [
+        {
+          "name": "DJ BRYAN 7",
+          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
+        },
+        {
+          "name": "Dj Fenix",
+          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "O Melhor no Que Faz 3.0 [Slowed]",
+      "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
+    },
+    {
+      "album": {
         "name": "O Menino de V\u00f3 Vai Deixar Vov\u00f3",
         "url": "https://open.spotify.com/album/7eReuN0HZQ2VOlLyXRIoeL"
       },
@@ -39505,6 +39563,28 @@
     },
     {
       "album": {
+        "name": "Pode Vim Me Dando",
+        "url": "https://open.spotify.com/album/0Uq4ddp0YQv43sxe6mIjoK"
+      },
+      "artists": [
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134999,
+      "name": "Pode Vim Me Dando",
+      "url": "https://open.spotify.com/track/5tYgnE7vMlW6lCVKz0BD25"
+    },
+    {
+      "album": {
         "name": "Poder de Mentir (Ao Vivo)",
         "url": "https://open.spotify.com/album/3MAVXfXLm0xCp3crn02FnY"
       },
@@ -42232,7 +42312,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 198370,
       "name": "Relaxa a Bct Mulher",
       "url": "https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb"
@@ -53796,7 +53876,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 183000,
       "name": "Voc\u00ea Parece Com Vergonha",
       "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"

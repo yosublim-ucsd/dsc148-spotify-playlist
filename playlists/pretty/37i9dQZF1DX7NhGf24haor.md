@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Devin Wild
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,682 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,728 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 71 | [Out Of My Mind](https://open.spotify.com/track/1L1pGDEfDIBPylK5prk1TK) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Out Of My Mind](https://open.spotify.com/album/3rnZIyoce2U7JbJUqeIavq) | 2:45 |
 | 72 | [Ignite The Game](https://open.spotify.com/track/0nuTsyzFtC6iqutS363mJM) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Hellsystem](https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85) | [Glory Never Fades](https://open.spotify.com/album/2Z93aHtnWi5GD6pCKCgHs0) | 2:33 |
 | 73 | [Alcoholic Party 2024](https://open.spotify.com/track/52eNGQysAJ9yn92QkQ7Csa) | [Ransom](https://open.spotify.com/artist/1kpnFAPpACdKIiuaatgBah), [DJ Kicken](https://open.spotify.com/artist/32NYv6VvNFmHESplIiWBOu), [MC\-Q](https://open.spotify.com/artist/27gWSxAbbesBdtCZfqia1q) | [Alcoholic Party 2024](https://open.spotify.com/album/14VaZNeCR6l2LOklHAKjjp) | 2:40 |
-| 74 | [Money Run](https://open.spotify.com/track/2Yi1ANHNt9061Oxg73kmfv) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l), [MC Focus](https://open.spotify.com/artist/65rNcn9WBuD5fW11VmGVuf) | [Money Run](https://open.spotify.com/album/5Hj1TfgMOPQZhGXAb9Ao02) | 2:24 |
+| 74 | [Money Run](https://open.spotify.com/track/2Yi1ANHNt9061Oxg73kmfv) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l), [MC Focus](https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY) | [Money Run](https://open.spotify.com/album/5Hj1TfgMOPQZhGXAb9Ao02) | 2:24 |
 | 75 | [Kids In Crime](https://open.spotify.com/track/40ol47kh2d0ttjUpEeA9Ct) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Kids In Crime](https://open.spotify.com/album/6UKkkKmSHX0Kv8RSTOkm8t) | 2:28 |
 | 76 | [Spaceman \(I Always Wanted You To Go\)](https://open.spotify.com/track/3YJncpVgKGupGGoBZUUdSs) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Spaceman \(I Always Wanted You To Go\)](https://open.spotify.com/album/02PPzEyqJXkSm7kHg6ycAt) | 3:37 |
 | 77 | [You Owe Me](https://open.spotify.com/track/5kwwsfTyavPnE8LfZ4Rnq9) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [You Owe Me](https://open.spotify.com/album/1Axb1g9uXragyykWBri2Hy) | 2:13 |

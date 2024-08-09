@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:1AHswQqsDNmu1xaE8KpBne\">COBRAH</a>'s favorite tracks. Updated regularly. Curated by COBRAH. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 64673,
+  "num_followers": 64706,
   "original_name": "COBRAH's track IDs",
   "owner": {
     "name": "Spotify",
@@ -660,12 +660,12 @@
       },
       "artists": [
         {
-          "name": "20 Fingers",
-          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
-        },
-        {
           "name": "Gillette",
           "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
+        },
+        {
+          "name": "20 Fingers",
+          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
         }
       ],
       "duration_ms": 290933,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,786 likes - 206 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,784 likes - 206 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 | 91 | [Waste Of A Whiskey Drink](https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Waste Of A Whiskey Drink](https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu) | 3:25 |
 | 92 | [Healing Hands Of Time](https://open.spotify.com/track/34sj5y5j85TPf4Q46QAJUD) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Sweet Memories: The Music Of Ray Price & The Cherokee Cowboys](https://open.spotify.com/album/7d5S3zwO2vZn64PbtLZQ9r) | 2:55 |
 | 93 | [Nobody's Fault But Mine](https://open.spotify.com/track/27Gcs6x0EV4npr9v5btbu8) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Chapel](https://open.spotify.com/album/4fXxMiJGwvEOUwIlghN86T) | 3:37 |
-| 94 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 |
+| 94 | [How Far Can It Go?](https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [How Far Can It Go?](https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT) | 2:55 |
 | 95 | [Real Life \(I Never Was The Same Again\)](https://open.spotify.com/track/5mZ01tQEFBstAGa423rJdz) | [Jeff Carson](https://open.spotify.com/artist/1THO5gJEaoKK9ey0aZbCQE), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [448](https://open.spotify.com/album/72w05PERbBG9DsIxVe17Mi) | 4:22 |
 | 96 | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Never Seen The World \(feat\. Vince Gill\)](https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1) | 3:11 |
 | 97 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 |

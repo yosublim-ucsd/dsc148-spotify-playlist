@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97926,
+  "num_followers": 97922,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-05-14 13:47:01",
       "album": {
-        "name": "L&B",
-        "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Let off steam",
-      "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
-    },
-    {
-      "added_at": "2024-05-14 13:47:01",
-      "album": {
         "name": "wandering (feat. george)",
         "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 204000,
       "name": "wandering (feat. george)",
       "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
+    },
+    {
+      "added_at": "2024-05-14 13:47:01",
+      "album": {
+        "name": "L&B",
+        "url": "https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Let off steam",
+      "url": "https://open.spotify.com/track/7KUb5GsTcXfpG0phkbL2mR"
     },
     {
       "added_at": "2024-05-14 13:47:01",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+      "duration_ms": 233958,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
     },
     {
       "added_at": "2024-05-14 13:47:01",
@@ -680,9 +680,25 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 233958,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2024-05-14 13:47:01",
+      "album": {
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "added_at": "2024-05-14 13:47:01",
@@ -703,22 +719,6 @@
       "duration_ms": 197550,
       "name": "m o v i e (Feat. Jade)",
       "url": "https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ"
-    },
-    {
-      "added_at": "2024-05-14 13:47:01",
-      "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     },
     {
       "added_at": "2024-05-14 13:47:01",

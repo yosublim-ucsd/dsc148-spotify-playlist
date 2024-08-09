@@ -1594,12 +1594,12 @@
       },
       "artists": [
         {
-          "name": "20 Fingers",
-          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
-        },
-        {
           "name": "Gillette",
           "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
+        },
+        {
+          "name": "20 Fingers",
+          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
         }
       ],
       "date_added": "2022-12-28",

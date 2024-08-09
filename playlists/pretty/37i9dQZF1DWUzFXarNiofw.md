@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Moses Sumney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,983 likes - 201 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,040 likes - 201 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

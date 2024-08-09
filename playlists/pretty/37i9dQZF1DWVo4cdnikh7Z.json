@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : GOAT",
-  "num_followers": 667387,
+  "num_followers": 667465,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrD1cwAAAABh7HHSAm+2akFBrfDpxwcq",
+  "snapshot_id": "ZrTE+wAAAAA5XnLK4E1ur7ELPB4Fekeu",
   "tracks": [
     {
       "added_at": "2024-08-03 12:41:33",
@@ -49,40 +49,28 @@
       "url": "https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK"
     },
     {
-      "added_at": "2024-07-23 08:57:39",
+      "added_at": "2024-07-27 00:55:51",
       "album": {
-        "name": "Fire Song (From \"Kanguva\") (Tamil)",
-        "url": "https://open.spotify.com/album/5Sai4cfSIDwEUxHg7apPdl"
+        "name": "Kaathu Mela - From \"Think Indie\"",
+        "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
       },
       "artists": [
         {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
         },
         {
-          "name": "Senthil Ganesh",
-          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
         },
         {
-          "name": "Shenbagaraj",
-          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
         }
       ],
-      "duration_ms": 206545,
-      "name": "Fire Song (From \"Kanguva\") (Tamil)",
-      "url": "https://open.spotify.com/track/6THKvd4fDUp30sIzVq1c0f"
+      "duration_ms": 123252,
+      "name": "Kaathu Mela - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
     },
     {
       "added_at": "2024-05-24 12:55:55",
@@ -111,6 +99,30 @@
       "duration_ms": 246002,
       "name": "Water Packet (From \"Raayan\")",
       "url": "https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak"
+    },
+    {
+      "added_at": "2024-08-05 15:51:52",
+      "album": {
+        "name": "Paththavaikkum (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "duration_ms": 222165,
+      "name": "Paththavaikkum (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
     },
     {
       "added_at": "2024-07-20 06:19:29",
@@ -157,30 +169,6 @@
       "url": "https://open.spotify.com/track/35qzjEf7XtwRM7cjfgF55n"
     },
     {
-      "added_at": "2024-08-05 15:51:52",
-      "album": {
-        "name": "Paththavaikkum (From \"Devara Part 1\")",
-        "url": "https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB"
-      },
-      "artists": [
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vignesh Shivan",
-          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
-        }
-      ],
-      "duration_ms": 222165,
-      "name": "Paththavaikkum (From \"Devara Part 1\")",
-      "url": "https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd"
-    },
-    {
       "added_at": "2024-06-22 12:52:29",
       "album": {
         "name": "Chinna Chinna Kangal (From \"The Greatest Of All Time\")",
@@ -203,30 +191,6 @@
       "duration_ms": 269109,
       "name": "Chinna Chinna Kangal (From \"The Greatest Of All Time\")",
       "url": "https://open.spotify.com/track/45INGwihwyL537U2JdGuzW"
-    },
-    {
-      "added_at": "2024-07-27 00:55:51",
-      "album": {
-        "name": "Kaathu Mela (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
-      },
-      "artists": [
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
-        }
-      ],
-      "duration_ms": 123252,
-      "name": "Kaathu Mela - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
     },
     {
       "added_at": "2024-08-02 11:13:25",
@@ -273,6 +237,42 @@
       "url": "https://open.spotify.com/track/33Tv5J6N5jSnW7wTYiEvul"
     },
     {
+      "added_at": "2024-07-23 08:57:39",
+      "album": {
+        "name": "Fire Song (From \"Kanguva\") (Tamil)",
+        "url": "https://open.spotify.com/album/5Sai4cfSIDwEUxHg7apPdl"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 206545,
+      "name": "Fire Song (From \"Kanguva\") (Tamil)",
+      "url": "https://open.spotify.com/track/6THKvd4fDUp30sIzVq1c0f"
+    },
+    {
       "added_at": "2024-05-20 09:32:22",
       "album": {
         "name": "Fear Song (From \"Devara Part 1\") [Tamil]",
@@ -293,6 +293,26 @@
       "url": "https://open.spotify.com/track/4uwUk23qJYXHWFJgXWPg9T"
     },
     {
+      "added_at": "2024-08-08 13:04:32",
+      "album": {
+        "name": "Demonte Colony 2 - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4E5nOfyZWVu4DuCpahnopQ"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 241714,
+      "name": "Naan Kaanum Kana",
+      "url": "https://open.spotify.com/track/7ALTbx3W05Y9Yh1TWgBtRT"
+    },
+    {
       "added_at": "2024-08-05 15:51:52",
       "album": {
         "name": "Otha Satti Soru - From \"Vaazhai\"",
@@ -306,6 +326,10 @@
         {
           "name": "Kapil Kapilan",
           "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
         },
         {
           "name": "Vivek",
@@ -353,6 +377,30 @@
       "url": "https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd"
     },
     {
+      "added_at": "2024-08-08 13:11:23",
+      "album": {
+        "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
+        "url": "https://open.spotify.com/album/3jlPD6C0ta9nbL5mTxS6Ed"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "K.N. VIJAYA KUMAR",
+          "url": "https://open.spotify.com/artist/0Ptx7nI1ZzEsEW2LvmQzA8"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
+      "url": "https://open.spotify.com/track/1vlofzi8r6jlicHLUGGICX"
+    },
+    {
       "added_at": "2024-08-05 15:53:23",
       "album": {
         "name": "Poruthhiru Selva (From \"Raghu Thatha\")",
@@ -397,88 +445,28 @@
       "url": "https://open.spotify.com/track/0ljQNELuxAFnx5eOXrxFTF"
     },
     {
-      "added_at": "2024-07-29 14:39:46",
+      "added_at": "2024-08-08 13:04:32",
       "album": {
-        "name": "Lucky Baskhar Title Track (From \"Lucky Baskhar\")(Tamil)",
-        "url": "https://open.spotify.com/album/2p3mqVSXkbBCZNrAwRipE5"
+        "name": "Sayyare Sayya (From \"35 Chinna Katha Kaadu\")(Tamil)",
+        "url": "https://open.spotify.com/album/4SF49a0qeHgiGpyOqMJTyU"
       },
       "artists": [
         {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
         }
       ],
-      "duration_ms": 225091,
-      "name": "Lucky Baskhar Title Track (From \"Lucky Baskhar\")(Tamil)",
-      "url": "https://open.spotify.com/track/3e9xbHwlPQPypDtdSOiFy1"
-    },
-    {
-      "added_at": "2024-08-05 15:51:52",
-      "album": {
-        "name": "Why are we Wandering? (From \"Demonte Colony 2\")",
-        "url": "https://open.spotify.com/album/7ceBUlx1kfCx3n7mzP9EAG"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Lavita Lobo",
-          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
-        }
-      ],
-      "duration_ms": 111529,
-      "name": "Why are we Wandering? - From \"Demonte Colony 2\"",
-      "url": "https://open.spotify.com/track/4eWTsiGnN3eKW4j3sOXTTU"
-    },
-    {
-      "added_at": "2024-07-29 14:39:46",
-      "album": {
-        "name": "Nanban Oruvan Vantha Piragu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7zLKL1jEoboxTQ1KS0t4Ln"
-      },
-      "artists": [
-        {
-          "name": "A H Kaashif",
-          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        }
-      ],
-      "duration_ms": 220363,
-      "name": "Okay Solita",
-      "url": "https://open.spotify.com/track/5feaIBubBGcYoTm9B66WEg"
-    },
-    {
-      "added_at": "2024-07-31 14:59:02",
-      "album": {
-        "name": "Ek Gaon Mein (From \"Raghu Thatha\")",
-        "url": "https://open.spotify.com/album/66yXRpWgoKbUCbm1V4udEI"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Gana Vimala",
-          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
-        },
-        {
-          "name": "Bhagyam Shankar",
-          "url": "https://open.spotify.com/artist/5JI56HGoYIKtkD7dvI6ujh"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Ek Gaon Mein (From \"Raghu Thatha\")",
-      "url": "https://open.spotify.com/track/1PkLVRITxN3koWVpor0pa7"
+      "duration_ms": 273400,
+      "name": "Sayyare Sayya (From \"35 Chinna Katha Kaadu\")(Tamil)",
+      "url": "https://open.spotify.com/track/3rikU85Gi1CapFREGLn4hN"
     },
     {
       "added_at": "2024-06-01 10:26:40",
@@ -519,6 +507,166 @@
       "duration_ms": 269210,
       "name": "Nodigaley - From \"Demonte Colony 2\"",
       "url": "https://open.spotify.com/track/12QC9eR1wv1k0xHnSye62F"
+    },
+    {
+      "added_at": "2024-07-29 14:39:46",
+      "album": {
+        "name": "Nanban Oruvan Vantha Piragu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7zLKL1jEoboxTQ1KS0t4Ln"
+      },
+      "artists": [
+        {
+          "name": "A H Kaashif",
+          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
+        },
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        }
+      ],
+      "duration_ms": 186821,
+      "name": "Pakoda Song",
+      "url": "https://open.spotify.com/track/6iWUZEA9T5E3CKk39xbxKr"
+    },
+    {
+      "added_at": "2024-05-22 11:45:31",
+      "album": {
+        "name": "Paaraa (From \"Indian 2\")",
+        "url": "https://open.spotify.com/album/1KNEpdLEp4B3G3iFV7lb3G"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shruthika Samudhrala",
+          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
+        }
+      ],
+      "duration_ms": 252435,
+      "name": "Paaraa (From \"Indian 2\")",
+      "url": "https://open.spotify.com/track/4Tt5XWEl7kUawvupLCdzxh"
+    },
+    {
+      "added_at": "2024-08-08 13:15:39",
+      "album": {
+        "name": "Adi Soora Azhagi (From \"EMI\")",
+        "url": "https://open.spotify.com/album/0M4dgXyLykZYv3u0gPXYpr"
+      },
+      "artists": [
+        {
+          "name": "Srinath Pitchai",
+          "url": "https://open.spotify.com/artist/26IBhVXT4QLgDX3qgu2NsB"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "duration_ms": 279625,
+      "name": "Adi Soora Azhagi (From \"EMI\")",
+      "url": "https://open.spotify.com/track/3F9syv21eAIqSEs1xJHNMs"
+    },
+    {
+      "added_at": "2024-08-08 13:15:39",
+      "album": {
+        "name": "Petha Thaayum (From \"Boat\")",
+        "url": "https://open.spotify.com/album/5RxfLfl6XpS1cX9ODxE8sR"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Vamanaa",
+          "url": "https://open.spotify.com/artist/5ltwHuHNxtXl6EmCW6nbdM"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Petha Thaayum (From \"Boat\")",
+      "url": "https://open.spotify.com/track/5qCzys7n6p75UJSfkduGfS"
+    },
+    {
+      "added_at": "2024-06-19 12:16:22",
+      "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "added_at": "2024-08-05 15:51:52",
+      "album": {
+        "name": "Why are we Wandering? (From \"Demonte Colony 2\")",
+        "url": "https://open.spotify.com/album/7ceBUlx1kfCx3n7mzP9EAG"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        }
+      ],
+      "duration_ms": 111529,
+      "name": "Why are we Wandering? - From \"Demonte Colony 2\"",
+      "url": "https://open.spotify.com/track/4eWTsiGnN3eKW4j3sOXTTU"
+    },
+    {
+      "added_at": "2024-07-31 14:59:02",
+      "album": {
+        "name": "Ek Gaon Mein (From \"Raghu Thatha\")",
+        "url": "https://open.spotify.com/album/66yXRpWgoKbUCbm1V4udEI"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Gana Vimala",
+          "url": "https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k"
+        },
+        {
+          "name": "Bhagyam Shankar",
+          "url": "https://open.spotify.com/artist/5JI56HGoYIKtkD7dvI6ujh"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Ek Gaon Mein (From \"Raghu Thatha\")",
+      "url": "https://open.spotify.com/track/1PkLVRITxN3koWVpor0pa7"
     },
     {
       "added_at": "2024-07-31 14:59:02",
@@ -593,22 +741,6 @@
       "url": "https://open.spotify.com/track/3qXHJ7BfnsU7reHngWMI4f"
     },
     {
-      "added_at": "2024-07-29 14:12:44",
-      "album": {
-        "name": "Emmaku Thozhil Romance (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/07uOx9ecfeeusdLni2kpOc"
-      },
-      "artists": [
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Vada poda - Reprise",
-      "url": "https://open.spotify.com/track/1NhpnaNmhAm6ffXjAp9OCp"
-    },
-    {
       "added_at": "2024-07-27 00:51:56",
       "album": {
         "name": "Neethaan (From \"VascoDaGama\")",
@@ -629,44 +761,28 @@
       "url": "https://open.spotify.com/track/5Y6Ev6WCSkwIwPBIwk1rxP"
     },
     {
-      "added_at": "2024-05-22 11:45:31",
+      "added_at": "2024-06-17 02:33:21",
       "album": {
-        "name": "Paaraa (From \"Indian 2\")",
-        "url": "https://open.spotify.com/album/1KNEpdLEp4B3G3iFV7lb3G"
+        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
+        "url": "https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Shruthika Samudhrala",
-          "url": "https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe"
-        }
-      ],
-      "duration_ms": 252435,
-      "name": "Paaraa (From \"Indian 2\")",
-      "url": "https://open.spotify.com/track/4Tt5XWEl7kUawvupLCdzxh"
-    },
-    {
-      "added_at": "2024-07-29 14:39:46",
-      "album": {
-        "name": "Kya Lafda (From \"Double ISMART\")(Tamil)",
-        "url": "https://open.spotify.com/album/3p8yjE7rJq1fVH2HkSCgyw"
-      },
-      "artists": [
-        {
-          "name": "Sharath matthew",
-          "url": "https://open.spotify.com/artist/1YEQrvCa6qroXZxbrcCCun"
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
         },
         {
-          "name": "Ramya R",
-          "url": "https://open.spotify.com/artist/5Xey3o856MymU8a65ZLMmW"
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 271281,
-      "name": "Kya Lafda (From \"Double ISMART\")(Tamil)",
-      "url": "https://open.spotify.com/track/1SDfOBqjcOPW2VO2AwP2YA"
+      "duration_ms": 162000,
+      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
+      "url": "https://open.spotify.com/track/4pLpEysZ0Y6kZ1SCC1pNtY"
     },
     {
       "added_at": "2024-07-06 14:10:30",
@@ -683,6 +799,30 @@
       "duration_ms": 165551,
       "name": "Odatha da Odatha da",
       "url": "https://open.spotify.com/track/4dL7BMUglQX5nxRomOMnEj"
+    },
+    {
+      "added_at": "2024-05-29 06:02:22",
+      "album": {
+        "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+        "url": "https://open.spotify.com/album/0VIsoxBf7IGKAYoQvKV5pq"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 260134,
+      "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
+      "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
     },
     {
       "added_at": "2024-07-29 14:39:46",
@@ -773,30 +913,6 @@
       "url": "https://open.spotify.com/track/21lxLJMeg8PuLeyvz4HrYo"
     },
     {
-      "added_at": "2024-07-29 14:39:46",
-      "album": {
-        "name": "Nanban Oruvan Vantha Piragu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7zLKL1jEoboxTQ1KS0t4Ln"
-      },
-      "artists": [
-        {
-          "name": "A H Kaashif",
-          "url": "https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI"
-        },
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        }
-      ],
-      "duration_ms": 186821,
-      "name": "Pakoda Song",
-      "url": "https://open.spotify.com/track/6iWUZEA9T5E3CKk39xbxKr"
-    },
-    {
       "added_at": "2024-07-25 12:42:28",
       "album": {
         "name": "The Andhagan Anthem (From \"Andhagan\")",
@@ -819,30 +935,6 @@
       "duration_ms": 204738,
       "name": "The Andhagan Anthem (From \"Andhagan\")",
       "url": "https://open.spotify.com/track/0dBUFS1KnrmBiCLTO7XYgZ"
-    },
-    {
-      "added_at": "2024-06-17 02:33:21",
-      "album": {
-        "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
-        "url": "https://open.spotify.com/album/1VakDDz6IzQqUWdbXfEZpS"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Tamil)",
-      "url": "https://open.spotify.com/track/4pLpEysZ0Y6kZ1SCC1pNtY"
     },
     {
       "added_at": "2024-07-29 14:12:44",
@@ -887,30 +979,6 @@
       "duration_ms": 172931,
       "name": "My Life My Rules (From \"VascoDaGama\")",
       "url": "https://open.spotify.com/track/5Fa2atJrqCZixb9Nuf0uPZ"
-    },
-    {
-      "added_at": "2024-05-29 06:02:22",
-      "album": {
-        "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
-        "url": "https://open.spotify.com/album/0VIsoxBf7IGKAYoQvKV5pq"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
-        }
-      ],
-      "duration_ms": 260134,
-      "name": "Soodaana (From \"Pushpa 2 The Rule\") [TAMIL]",
-      "url": "https://open.spotify.com/track/3mIyypFRBKUgcaFp70EfTW"
     },
     {
       "added_at": "2024-07-29 13:51:25",
@@ -1215,26 +1283,6 @@
       "duration_ms": 164542,
       "name": "Panjavarna Kiliye",
       "url": "https://open.spotify.com/track/3wxHHaXJax2h7iyOLOdbrp"
-    },
-    {
-      "added_at": "2024-06-19 12:16:22",
-      "album": {
-        "name": "Aasa Kooda (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
-        }
-      ],
-      "duration_ms": 215510,
-      "name": "Aasa Kooda - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
     },
     {
       "added_at": "2024-06-01 10:26:40",

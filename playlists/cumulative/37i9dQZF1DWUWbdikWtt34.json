@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Iqhbal",
+  "description": "Dendang Dangdut teratas. Cover: Aulia",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Rindu",
+        "url": "https://open.spotify.com/album/4xkXqRUixRjHEdTAF2aZUL"
+      },
+      "artists": [
+        {
+          "name": "Aulia",
+          "url": "https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312647,
+      "name": "Rindu",
+      "url": "https://open.spotify.com/track/3cKgKjurexHC1BTtcWzrGo"
+    },
+    {
+      "album": {
         "name": "Rindu Padamu Nabi",
         "url": "https://open.spotify.com/album/1FlJ2X0atWjH9LBtD38OUd"
       },
@@ -3184,6 +3202,24 @@
       "duration_ms": 309541,
       "name": "Tiara",
       "url": "https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH"
+    },
+    {
+      "album": {
+        "name": "Tidak Semua Laki-Laki",
+        "url": "https://open.spotify.com/album/6q2iWphcTRGqOKe4JPrLVD"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356826,
+      "name": "Tidak Semua Laki-Laki",
+      "url": "https://open.spotify.com/track/602t4lNXRIhEjpjW7N1jCe"
     },
     {
       "album": {

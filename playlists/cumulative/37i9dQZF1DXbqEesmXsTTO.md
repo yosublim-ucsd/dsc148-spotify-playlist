@@ -4,7 +4,7 @@
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-67 songs - 4 hr 29 min
+68 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 | 2023-09-26 |  |
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2023-09-26 |  |
 | [Song Of Youth](https://open.spotify.com/track/7rJPSgQnrGWhBdipYahwCQ) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 6:09 | 2023-09-26 |  |
+| [Summer night's dream](https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo) | [Noriter](https://open.spotify.com/artist/1Wj2KoYOqYZLMzuDLdiFmp) | [Episode2024](https://open.spotify.com/album/1vjGky4TxckEEs69gg57Bv) | 4:49 | 2024-08-09 |  |
 | [The Graceful Gang\-Jin](https://open.spotify.com/track/2ct24PjkvGAEDSwjaXztx7) | [A\-Eun Project](https://open.spotify.com/artist/6reW342UitQpxSgH2yePGj) | [The Graceful Gang\-Jin](https://open.spotify.com/album/00BxwoM5lemuHmOajoRdrW) | 4:00 | 2023-09-26 |  |
 | [The Hill of Wind](https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2) | [ZanHyang](https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM) | [The Hill of Wind](https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG) | 4:39 | 2023-09-26 |  |
 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 | 2023-09-26 |  |

@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343252,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/0HGDjwXqVuNRzMOEzw6pwZ"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/2bTOJZjjyHS3JjZ6fqfAF1"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175781,
       "name": "Control",
       "url": "https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ"
@@ -1962,6 +1980,28 @@
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT"
+    },
+    {
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/72Ht02qpp4rnNumoeMbG2l"
+      },
+      "artists": [
+        {
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
+        },
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/6nLdrOmfkhOvn2BxRBF6lz"
     },
     {
       "album": {
@@ -4754,7 +4794,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180000,
       "name": "Oddity",
       "url": "https://open.spotify.com/track/1kzz0jJUMFEBYPgtvVrMSr"
@@ -4846,6 +4886,28 @@
       "duration_ms": 454746,
       "name": "Osiris - Original Mix",
       "url": "https://open.spotify.com/track/32bbYyIM5pEBIMEXgYcTrh"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/4D3b0pbXJuXp5osS5fZE7f"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226423,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/1b8ukj8lFaaJn1L5buFICj"
     },
     {
       "album": {
@@ -5202,6 +5264,28 @@
       "duration_ms": 207874,
       "name": "Portal",
       "url": "https://open.spotify.com/track/0HgxhNKiQy2LYxExwyZMWI"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     },
     {
       "album": {
@@ -6294,7 +6378,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 335269,
       "name": "Step Forward",
       "url": "https://open.spotify.com/track/0wRlUOHmdlPEzuK1qfbYAm"
@@ -7718,7 +7802,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 191408,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k"

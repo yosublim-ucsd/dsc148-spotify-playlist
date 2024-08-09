@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,679 likes - 148 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,701 likes - 148 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 129 | [Protein](https://open.spotify.com/track/3PJV3HC2LogvCrS6hDs2el) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Protein](https://open.spotify.com/album/4GiYLASQVCiNWIt6Z1g5BZ) | 2:55 |
 | 130 | [Rock Wit U \- Yoruba Soul Mix \- Dub](https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Yoruba Soul Mixes \- Rock Wit U](https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd) | 5:57 |
 | 131 | [Hoity Toity \(feat\. Melo\-X\)](https://open.spotify.com/track/3vlauwmrYHgDDQR7Qd6ko4) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Melo\-X](https://open.spotify.com/artist/6egalONrw7Bsewj7zGc8uK) | [Hoity Toity \(feat\. Melo\-X\)](https://open.spotify.com/album/59CRsVILTi6Vw33FCYiXb4) | 3:42 |
-| 132 | [Feel Free \- Blue Canariñho Remix](https://open.spotify.com/track/6AxDznMdamFBbRw8LAGWQd) | [CassKidd](https://open.spotify.com/artist/6PK38JPBr6Rq8N7qOeu2BI), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Blue Canariñho](https://open.spotify.com/artist/4hjYKKPQFgkR3cmSS5Mn7c) | [Feel Free \(Blue Canariñho Remix\)](https://open.spotify.com/album/2iDfpleE3Gcgm4OpedKQsI) | 3:12 |
+| 132 | [Feel Free \- Blue Canariñho Remix](https://open.spotify.com/track/6AxDznMdamFBbRw8LAGWQd) | [CassKidd](https://open.spotify.com/artist/6PK38JPBr6Rq8N7qOeu2BI), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Blue Canariñho](https://open.spotify.com/artist/4hjYKKPQFgkR3cmSS5Mn7c) | [Feel Free \- Blue Canariñho Remix](https://open.spotify.com/album/2iDfpleE3Gcgm4OpedKQsI) | 3:12 |
 | 133 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |
 | 134 | [Silikon \- Siriusmo Remix](https://open.spotify.com/track/1ayD3XjOId6KdUenS7RZf3) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Sasha Perera](https://open.spotify.com/artist/73AVHDvMowbjKlBsirlsko), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Hello Mom! \(The Remixes\)](https://open.spotify.com/album/2adh0AupnnxAYOi02urDl3) | 3:37 |
 | 135 | [+44 \- Thinking \- Of \- You](https://open.spotify.com/track/38EeLoy27FTjBFKjghJYh3) | [Morwell](https://open.spotify.com/artist/4SW8tH8EFYuFGoD7CH77yJ), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Three Remixes](https://open.spotify.com/album/3w5feoEwelFMkL67PLis5g) | 4:37 |

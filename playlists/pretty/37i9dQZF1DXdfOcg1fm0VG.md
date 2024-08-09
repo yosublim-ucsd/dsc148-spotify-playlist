@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,547 likes - 127 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,648 likes - 127 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 57 | [Beyond the Dawn](https://open.spotify.com/track/2fSXpnPjqPuRfp1xxm4G3R) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [Tales of Series Sound Team](https://open.spotify.com/artist/7AkMAVMGgyXoVJel1lgVO4), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Tales of Arise \- Beyond the Dawn \(Original Game Soundtrack\)](https://open.spotify.com/album/1YQXfr59bJSE9bvdi4jy1m) | 1:37 |
 | 58 | [No Escape](https://open.spotify.com/track/5uiqrM9NLgnoAkJeqJqdlt) | [Darren Korb](https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1) | [Hades: Original Soundtrack](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) | 2:25 |
 | 59 | [Have a Short Rest](https://open.spotify.com/track/6ebNn9bRWksrrrWotc6xcV) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:11 |
-| 60 | [SIMPLE AND CLEAN \- KINGDOM Orchestra Instrumental Version\-](https://open.spotify.com/track/4WyvlOC3qntGmX64E7kWmF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [KINGDOM HEARTS \-HD 1.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/59xa0duBH2doywRKohAqIY) | 3:41 |
+| 60 | [SIMPLE AND CLEAN \- KINGDOM Orchestra Instrumental Version\-](https://open.spotify.com/track/4WyvlOC3qntGmX64E7kWmF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [KINGDOM HEARTS \-HD 1.5 ReMIX\- \- Original Soundtrack](https://open.spotify.com/album/59xa0duBH2doywRKohAqIY) | 3:41 |
 | 61 | [Tomb Raider Theme](https://open.spotify.com/track/2dEmQ9nsLbLaztypZxG78f) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Tomb Raider Suite](https://open.spotify.com/album/3xfTmsqB82eFdMfKSA9YdH) | 3:13 |
 | 62 | [Promise of the West \(feat\. Julie Elven\)](https://open.spotify.com/track/4AXy57QDFmqdKAhvbM3yAP) | [Joris de Man](https://open.spotify.com/artist/7FzXqfhbeFzALmcyi1j90U), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Promise of the West \("Horizon Forbidden West" Reveal Trailer Theme\)](https://open.spotify.com/album/7g2KZmy9miQS6uWY35H8kC) | 2:55 |
 | 63 | [Flame of Hope](https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Game Soundtrack\)](https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS) | 3:51 |

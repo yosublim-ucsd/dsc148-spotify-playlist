@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover: Wazir Patar",
+  "description": "Fresh Punjabi Rap. Cover: Bir",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 134720,
       "name": "24K",
       "url": "https://open.spotify.com/track/6xY43nXOaQezJsdE88019U"
+    },
+    {
+      "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt"
+      },
+      "artists": [
+        {
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146345,
+      "name": "45",
+      "url": "https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP"
     },
     {
       "album": {
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 176466,
       "name": "Mic Naal",
       "url": "https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa"

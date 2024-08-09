@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 417402,
+  "num_followers": 417480,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAAC3hMJ9yvP9pxm2/BeVXE2b",
+  "snapshot_id": "ZrK5AAAAAAAx75rRtme6aMJvL2QVs13P",
   "tracks": [
     {
       "added_at": null,
@@ -27,7 +27,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
+        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
       "artists": [
@@ -415,7 +415,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
+        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
       "artists": [
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 244400,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
+      "duration_ms": 378651,
+      "name": "Miasma - Live at the Forum / 2023",
+      "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 378651,
-      "name": "Miasma - Live at the Forum / 2023",
-      "url": "https://open.spotify.com/track/5qFpoAJFWSisy5va1gAiaS"
+      "duration_ms": 244400,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/5mDIfAdPnZRt3yuO60O005"
     },
     {
       "added_at": null,

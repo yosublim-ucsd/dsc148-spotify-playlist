@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-747 songs - 1 day 9 hr 38 min
+748 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
 | [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2024-07-02 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
-| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 |  |
+| [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 | 2024-08-09 |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
 | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/track/484jkFwdfoURJBypnOLCl0) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31) | [CHOUCHIN \(SOUND TOUR\)](https://open.spotify.com/album/0OKZQaezckePqyi8OHSKQH) | 1:10 | 2022-04-14 | 2022-07-24 |
 | [Chōchin](https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [Loafy Building](https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs) | [Chōchin](https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn) | 3:05 | 2021-12-23 |  |
@@ -544,6 +544,7 @@
 | [re: Labyrinth](https://open.spotify.com/track/5Bis2FY538rXD9tHWdmitY) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [re: Labyrinth](https://open.spotify.com/album/0gVIBAXQA6SOSMW46veT0b) | 3:05 | 2022-11-10 | 2023-06-13 |
 | [re: Nobody Else](https://open.spotify.com/track/53dsepx7bFpx2OEfhAo21t) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0GLWTNcU2G3OVQL87ztyVv) | 2:07 | 2023-04-13 | 2023-06-09 |
 | [re: Nobody Else](https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE), [pige](https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr) | [re: Nobody Else](https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD) | 2:07 | 2023-04-13 |  |
+| [Realize](https://open.spotify.com/track/1inTIFMEfPy4FoPVo0e8OS) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia II](https://open.spotify.com/album/0aPWrX9kGHRxVrNgilogbn) | 3:22 | 2024-08-08 |  |
 | [Reassurance Cycle](https://open.spotify.com/track/6d0Oh1pTBk1u9znCipA9zv) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Reassurance Cycle](https://open.spotify.com/album/4yPO42Uaw3NS9pqdsScnLT) | 2:05 | 2021-12-23 | 2022-07-26 |
 | [Recollection](https://open.spotify.com/track/7a55wM8GN7WcT7UXX3zBRK) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Recollection](https://open.spotify.com/album/5hPbTTsCGBDi5XVUUBYqge) | 2:41 | 2021-12-23 | 2023-12-31 |
 | [Reflection \(Summer Orange Beat Mix\)](https://open.spotify.com/track/7wZargiZHVSuLfgvgftqIS) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Reflection \(Summer Orange Beat Mix\)](https://open.spotify.com/album/2sqTGAM75IiAYkgysgCaW5) | 2:57 | 2021-12-23 | 2022-07-29 |

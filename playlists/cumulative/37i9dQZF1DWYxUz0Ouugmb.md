@@ -2,15 +2,16 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Rizwan Fadilah
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
 
-225 songs - 14 hr 29 min
+226 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 | 2024-07-25 |  |
 | [20something](https://open.spotify.com/track/6YhMlj1ZyjYOC3bD7OZP1Q) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [20something](https://open.spotify.com/album/3oNpunZbbJ85TMqLrxlrck) | 2:41 | 2023-02-02 | 2023-04-14 |
 | [24 Jam](https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [24 Jam](https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr) | 3:36 | 2021-11-25 | 2022-03-25 |
+| [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 | 2024-08-08 |  |
 | [After School Sad Session](https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [After School Sad Session](https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ) | 2:25 | 2023-04-13 | 2024-03-29 |
 | [Ajur Mumur](https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ajur Mumur](https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy) | 4:44 | 2021-11-25 | 2022-03-25 |
 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 | 2023-07-13 | 2024-03-29 |

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 300876,
+  "num_followers": 300949,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Giddy Up",
         "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 181320,
       "name": "Giddy Up",
       "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hey Little Girl",
-        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
-      },
-      "artists": [
-        {
-          "name": "Carli Brill",
-          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Hey Little Girl",
-      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kindness of Strangers",
         "url": "https://open.spotify.com/album/0YNskLt7opNVnpNjkh3oeQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Hey Little Girl",
+        "url": "https://open.spotify.com/album/2SpV2E885ekUdWCuVMZA3O"
+      },
+      "artists": [
+        {
+          "name": "Carli Brill",
+          "url": "https://open.spotify.com/artist/7fQgEsmOh72bgCsQjE7ATD"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Hey Little Girl",
+      "url": "https://open.spotify.com/track/3r1mIdzbGOv386Lcx2nlpM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Room 41",
-        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Patsy Cline",
         "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
       },
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+        "name": "Room 41",
+        "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
+      "duration_ms": 239803,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "The Oklahoma Room at Folk Alliance 2017",
+        "url": "https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF"
+      },
+      "artists": [
+        {
+          "name": "Lauren Barth",
+          "url": "https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1"
+        }
+      ],
+      "duration_ms": 202396,
+      "name": "Buddies",
+      "url": "https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Oklahoma Room at Folk Alliance 2017",
-        "url": "https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF"
+        "name": "May Your Kindness Remain",
+        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
       },
       "artists": [
         {
-          "name": "Lauren Barth",
-          "url": "https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 202396,
-      "name": "Buddies",
-      "url": "https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk"
+      "duration_ms": 234306,
+      "name": "May Your Kindness Remain",
+      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
     },
     {
       "added_at": "2024-07-12 04:00:00",

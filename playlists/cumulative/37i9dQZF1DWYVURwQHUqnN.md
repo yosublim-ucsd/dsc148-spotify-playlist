@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : Ninho x Niska
 
-167 songs - 8 hr 7 min
+170 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-20 | 2024-08-02 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-07-18 |  |
 | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU) | 3:11 | 2024-07-11 |  |
+| [Ana Wana](https://open.spotify.com/track/3Vmk65ChDVLhx64EYpysPs) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Cheb Abbes](https://open.spotify.com/artist/4ItLTIz60SzR31tzOu5LjO) | [Ana Wana](https://open.spotify.com/album/5MiXDx9DGa1XSMfaCOizoG) | 2:37 | 2024-08-08 |  |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 | 2024-02-23 |
 | [Benda](https://open.spotify.com/track/4gGtXfBmsTlglZm6FeJ1T9) | [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H) | [Benda](https://open.spotify.com/album/3fPapZVnsbmGKldPL9TmER) | 2:51 | 2023-09-28 | 2023-11-24 |
 | [Besoin](https://open.spotify.com/track/1TlGKRboZU1UKvAtSs5EBP) | [Big Ben](https://open.spotify.com/artist/4jPuXBvEwyMyVQPRoQsTDn) | [Besoin](https://open.spotify.com/album/00HrZ5ROe1rtJ8TyC0DGi4) | 2:53 | 2024-04-11 | 2024-05-03 |
@@ -97,7 +98,7 @@
 | [Napoli](https://open.spotify.com/track/5jwMxWWQTAG6lhj2CD2Ikh) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Napoli](https://open.spotify.com/album/508YJHDLrGQoGihCJFDlEa) | 2:31 | 2024-05-23 | 2024-06-14 |
 | [NEXT](https://open.spotify.com/track/7I396oMpP77YKsQVOAQWFv) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [NEXT](https://open.spotify.com/album/2STYgKHiNqQNui0CMWE6uZ) | 2:51 | 2024-06-27 | 2024-07-03 |
 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 | 2024-07-11 |  |
-| [No Love](https://open.spotify.com/track/1lVM1L7ksstfh9ruUu0ENS) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [No Love](https://open.spotify.com/album/43tpQX4crgjbrLQyBohDNE) | 2:39 | 2024-07-18 |  |
+| [No Love](https://open.spotify.com/track/1lVM1L7ksstfh9ruUu0ENS) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [No Love](https://open.spotify.com/album/43tpQX4crgjbrLQyBohDNE) | 2:39 | 2024-07-18 | 2024-08-09 |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-09-28 | 2024-06-07 |
 | [Noche](https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [LES DIÈSES 2](https://open.spotify.com/album/1MyXhXWrMODghP4Oa9p054) | 3:10 | 2024-04-25 | 2024-06-01 |
 | [Nous deux](https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Nous deux](https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK) | 3:41 | 2023-09-28 | 2024-03-08 |
@@ -161,11 +162,13 @@
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-09-28 | 2023-12-14 |
 | [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [Trop Bizarre](https://open.spotify.com/track/6JnYVpEvdSMKYwLUfoM4v7) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Trop Bizarre](https://open.spotify.com/album/39ZydYNYrTrRoRys0tqMaI) | 4:32 | 2023-09-28 | 2024-05-10 |
+| [Turn Up \(feat\. Leto & MHD\)](https://open.spotify.com/track/5NerckOQ6Feq0DMf3tB9Ln) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Turn Up \(feat\. Leto & MHD\)](https://open.spotify.com/album/6QKNpu7ufgdHlc1KnKMAKP) | 2:25 | 2024-08-08 |  |
 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 | 2024-06-20 |  |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-06-20 |  |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-09-28 | 2024-05-24 |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 | 2023-12-22 |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 | 2024-01-19 |
+| [X\-ADV](https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/6NVuqjn7fSJtUukHKnQBAY) | 2:51 | 2024-08-08 |  |
 | [Xavi Simons](https://open.spotify.com/track/2wXhGTBd3PcjKid4voF9Hg) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Xavi Simons](https://open.spotify.com/album/4ooljTllzL25meM9959c1g) | 2:23 | 2024-06-20 | 2024-07-19 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 | 2024-01-26 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 | 2024-06-21 |

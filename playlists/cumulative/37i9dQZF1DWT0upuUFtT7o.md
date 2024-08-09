@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Sex Week
 
-2,655 songs - 6 day 2 hr 32 min
+2,656 songs - 6 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2286,6 +2286,7 @@
 | [THE 55](https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70) | [GUSPY](https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp) | [THE 55](https://open.spotify.com/album/3VRckeo4W4pLalver76sg1) | 2:52 | 2022-08-10 | 2022-09-29 |
 | [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-15 | 2023-05-11 |
 | [The Alternative](https://open.spotify.com/track/4CmPBOuhNWAA7AdaOYyTp5) | [Cusp](https://open.spotify.com/artist/07nDyiBj44NtwrqJJ54Or8) | [Thanks So Much](https://open.spotify.com/album/2Wci0uRKwLR63NcvHg0vIU) | 3:34 | 2024-03-27 | 2024-05-16 |
+| [The Answer](https://open.spotify.com/track/2tOAaP3Z4mmoNJnnw5bCaj) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:11 | 2024-08-08 |  |
 | [The Bad Guy \(Another Version\)](https://open.spotify.com/track/12SuVpzO5sGNrppSakGiXW) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [The Bad Guy \(Another Version\)](https://open.spotify.com/album/6XFuGWx0rDHECJeXTqncrV) | 3:57 | 2022-06-15 | 2022-07-07 |
 | [The Bended Man](https://open.spotify.com/track/6aKj56S8DrVrwiRraHd72f) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [The Bended Man](https://open.spotify.com/album/6nHeVcX21JmpTJB48qhVzb) | 2:58 | 2022-07-06 | 2022-08-25 |
 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 | 2024-02-07 | 2024-04-19 |

@@ -2,7 +2,7 @@
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This Is La Receta\. Los temas esenciales, todos en una lista.
+> This is: La Receta\. Alle wichtigen Tracks in einer Playlist.
 
 70 songs - 3 hr 23 min
 

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "name": "This Is Zendaya",
+  "description": "This is \u30bc\u30f3\u30c7\u30a4\u30e4\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30bc\u30f3\u30c7\u30a4\u30e4",
   "tracks": [
     {
       "album": {
@@ -152,10 +152,32 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 135653,
       "name": "Contagious Love",
       "url": "https://open.spotify.com/track/1mmTplEfjFvEg1tmxiMxin"
+    },
+    {
+      "album": {
+        "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
+        "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Contagious Love",
+      "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
     },
     {
       "album": {

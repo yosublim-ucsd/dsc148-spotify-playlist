@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Jamie xx",
+  "description": "A new world of alternative electronic music. \nCover: Mall Grab, Real Lies",
   "name": "Portal",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144500,
       "name": "Cape Town",
       "url": "https://open.spotify.com/track/5lAT2M6ef6mS45MFU8Bu4A"
@@ -2519,6 +2519,32 @@
     },
     {
       "album": {
+        "name": "CHROMA 005",
+        "url": "https://open.spotify.com/album/5K2nivvCbKUqr1cBAkei6g"
+      },
+      "artists": [
+        {
+          "name": "B.D.B",
+          "url": "https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi"
+        },
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Benjamin Damage",
+          "url": "https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "CHROMA 005 A.L.O.E",
+      "url": "https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if"
+    },
+    {
+      "album": {
         "name": "Collapse Phase",
         "url": "https://open.spotify.com/album/6w02nI3DgXQ3AfjLOIyac0"
       },
@@ -2620,7 +2646,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 189213,
       "name": "Clears",
       "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
@@ -3384,7 +3410,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 206754,
       "name": "dnd",
       "url": "https://open.spotify.com/track/0kqfIf5FWo0Qv596PysEth"
@@ -3641,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Roadblocks",
+        "url": "https://open.spotify.com/album/0t2UdJQ7oiO6uedB7bfm18"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218793,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4CNDX7ziGuh50BHIq7WuCN"
+    },
+    {
+      "album": {
         "name": "Godwanooo",
         "url": "https://open.spotify.com/album/3cRFlOYr1qlAXIKLTaEqBI"
       },
@@ -3820,7 +3864,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 169266,
       "name": "encore",
       "url": "https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv"
@@ -4243,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229903,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
+    },
+    {
+      "album": {
         "name": "Feels Bad",
         "url": "https://open.spotify.com/album/23rwCtNkALElgFulTfNRpv"
       },
@@ -4662,7 +4724,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 210782,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/3Y8RTzih2Ic7zcsL8jqp58"
@@ -8489,6 +8551,24 @@
     },
     {
       "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+    },
+    {
+      "album": {
         "name": "notice",
         "url": "https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7"
       },
@@ -8634,7 +8714,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 318827,
       "name": "okay o.k. ok",
       "url": "https://open.spotify.com/track/0Jt2ewAbUBWbpWqD2TfRN2"
@@ -8978,6 +9058,24 @@
       "duration_ms": 492500,
       "name": "Outdoor Limit",
       "url": "https://open.spotify.com/track/2Td6XIXTwJXWuLg3amKiZi"
+    },
+    {
+      "album": {
+        "name": "OUTSPOKEN",
+        "url": "https://open.spotify.com/album/5oUji37vIpvyDw1TlsKOLK"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187084,
+      "name": "OUTSPOKEN",
+      "url": "https://open.spotify.com/track/3NGQtmEHfAeLyyTYvAbfd1"
     },
     {
       "album": {
@@ -9905,6 +10003,28 @@
     },
     {
       "album": {
+        "name": "Ripples In The Timeline",
+        "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216868,
+      "name": "Ripples In The Timeline",
+      "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
+    },
+    {
+      "album": {
         "name": "Rising High",
         "url": "https://open.spotify.com/album/1dxLhxAzURALhiXQRsy4bc"
       },
@@ -10622,7 +10742,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 254314,
       "name": "Simple Times",
       "url": "https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY"
@@ -11212,7 +11332,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 126311,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/5VVAxypWN32ntmotudWks2"
@@ -13334,7 +13454,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 350831,
       "name": "World Collapsing - jamesjamesjames Remix",
       "url": "https://open.spotify.com/track/3CUAmU1RaZwlD7HlOmrAMc"

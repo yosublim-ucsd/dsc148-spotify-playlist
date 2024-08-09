@@ -2,9 +2,9 @@
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: Shye
+> Rising stars and new releases from sunny Singapore\. Cover: brb.
 
-163 songs - 9 hr 1 min
+166 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Changes](https://open.spotify.com/track/7lxCtY8sTOlnKvLkt3WDWN) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Austin Shugart](https://open.spotify.com/artist/5nRhk1m3BqVpgN9QHupSfQ) | [Changes](https://open.spotify.com/album/2DrvlXXvffBHZku6hdzOtN) | 2:07 | 2024-06-27 | 2024-07-19 |
 | [circadian rhythm](https://open.spotify.com/track/0IeejEJT1Pg6p8UNHm4G1H) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7), [sesamii](https://open.spotify.com/artist/1raOl7tNrPVBGdRjfRkwYS) | [circadian rhythm](https://open.spotify.com/album/54CQDhyTWlp88wMotAiDkX) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [Circus](https://open.spotify.com/track/4781XkXxJngw9YjlKJ21e9) | [LANA](https://open.spotify.com/artist/23IETu4hBOXIXr59a48DMi), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Circus](https://open.spotify.com/album/6xwGU2bbSKlzBXp4Xdl4Te) | 3:15 | 2024-07-11 |  |
-| [Close The Distance](https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Close The Distance / A Matter Of Chance](https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo) | 5:55 | 2024-06-27 |  |
+| [Close The Distance](https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Close The Distance / A Matter Of Chance](https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo) | 5:55 | 2024-06-27 | 2024-08-09 |
 | [Come Back](https://open.spotify.com/track/5boZxSDhEwewI6GYrIZsNR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Come Back](https://open.spotify.com/album/5jP03lBK3249e0oDbt1UKG) | 3:32 | 2024-06-27 |  |
 | [Come, Go](https://open.spotify.com/track/7yk1RYhaIwMKVaFAvmB8pg) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Come, Go](https://open.spotify.com/album/6a34khhy9lVZFK13JqQOvQ) | 2:38 | 2024-07-25 |  |
 | [coming home](https://open.spotify.com/track/3wWpmvEzgKQm7IHmzYsrni) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:13 | 2024-07-25 |  |
@@ -80,8 +80,9 @@
 | [Into The Fire](https://open.spotify.com/track/0OQ5JeyrIGgttzHoUl2doH) | [Awi Rafael](https://open.spotify.com/artist/3YssC2nSK0lcFc793GjwWI), [Bhumiband](https://open.spotify.com/artist/5Xd9nARqQJcNWKvzQb3sRp) | [Into The Fire](https://open.spotify.com/album/5jvwp0E6jy9aQwIBlxofs1) | 4:11 | 2024-07-11 |  |
 | [Jacob's Ladder](https://open.spotify.com/track/1mAlvnT5cEPctG1VQSKfM6) | [Yeo](https://open.spotify.com/artist/5TcPijsr7sstBFVAMNfdIm) | [Jacob's Ladder](https://open.spotify.com/album/3yCE2dAESNvQaIrFhG1FR4) | 5:09 | 2024-06-27 |  |
 | [JANGAN BEGITU](https://open.spotify.com/track/0bXUQLOOvUPsDwIejUIfNI) | [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [JANGAN BEGITU](https://open.spotify.com/album/5NL00D5RsSWlU8bEcF71ID) | 2:55 | 2024-06-27 |  |
-| [Jangan Bilang](https://open.spotify.com/track/5xjKh8aSqAgYYEOmBVnYaz) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Jangan Bilang](https://open.spotify.com/album/3s0Yc3OzkhndvIbFK6eWNC) | 3:02 | 2024-07-11 |  |
+| [Jangan Bilang](https://open.spotify.com/track/5xjKh8aSqAgYYEOmBVnYaz) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Jangan Bilang](https://open.spotify.com/album/3s0Yc3OzkhndvIbFK6eWNC) | 3:02 | 2024-07-11 | 2024-08-09 |
 | [JEAN](https://open.spotify.com/track/3GGhDuH1CvIJbMy5qZvF00) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [JEAN](https://open.spotify.com/album/2DAohCaW1SkA4coXQ6VBfl) | 4:10 | 2024-06-27 | 2024-08-02 |
+| [jelly](https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [jelly](https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT) | 2:46 | 2024-08-08 |  |
 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 | 2024-07-25 |  |
 | [Komorebi](https://open.spotify.com/track/4nKfx9XQHTM0i5acRpaONt) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [KOMOREBI](https://open.spotify.com/album/0uYyh67KfQu5rqkAMI1KPA) | 4:50 | 2024-06-27 |  |
 | [Leave You On Read](https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Leave You On Read](https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK) | 3:09 | 2024-06-27 | 2024-07-27 |
@@ -90,7 +91,7 @@
 | [Life Goes On](https://open.spotify.com/track/4Id1V7jy2XXmCYWIflaq8Z) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Life Goes On](https://open.spotify.com/album/6UMgTaIuqcZh5GXW7zbX6s) | 2:56 | 2024-06-27 |  |
 | [Lose Myself](https://open.spotify.com/track/0cE9ZWnzXQqV8ScT2PBhtj) | [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Lose Myself](https://open.spotify.com/album/4lmhjS3ucgZb3IRxHYBJSu) | 2:33 | 2024-06-27 | 2024-07-05 |
 | [Make It Alright](https://open.spotify.com/track/2KwzKxI2WfH4zL5nRTO2Vq) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Make It Alright](https://open.spotify.com/album/1WMX7MjAbDQSzg2GfwEQTM) | 2:38 | 2024-06-27 |  |
-| [Malas](https://open.spotify.com/track/4egbTRuka8z3f6eXyPZ5IR) | [Amthakid](https://open.spotify.com/artist/0UHSwKw89Vw97oCFIutfg4), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [Malas](https://open.spotify.com/album/2EMGt0uKB3vUZvcZCVKm0C) | 3:13 | 2024-06-27 |  |
+| [Malas](https://open.spotify.com/track/4egbTRuka8z3f6eXyPZ5IR) | [Amthakid](https://open.spotify.com/artist/0UHSwKw89Vw97oCFIutfg4), [Quai](https://open.spotify.com/artist/1clik527FuABFJlnXLAq4c) | [Malas](https://open.spotify.com/album/2EMGt0uKB3vUZvcZCVKm0C) | 3:13 | 2024-06-27 | 2024-08-09 |
 | [matters of the heart](https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [matters of the heart](https://open.spotify.com/album/1UbN4K1Lyl81gPo92g7uK4) | 3:24 | 2024-06-27 | 2024-07-05 |
 | [MEANT TO BE](https://open.spotify.com/track/5xkLrziknnH75JfhJRD1Mp) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT), [Oatmylk](https://open.spotify.com/artist/7lNYhYQ27Rbg6Wg0QcG3HQ) | [MEANT TO BE](https://open.spotify.com/album/2zvABu9EEZj0PAbBaKMneE) | 3:20 | 2024-06-27 |  |
 | [My Dream](https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [My Dream](https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K) | 3:19 | 2024-06-27 | 2024-07-27 |
@@ -113,6 +114,7 @@
 | [Runway](https://open.spotify.com/track/1qri6y0uoUvBKtUpkbSpIV) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [Runway](https://open.spotify.com/album/7gR98LusT0mTTDCy2D01B3) | 3:02 | 2024-06-27 |  |
 | [SEASONS](https://open.spotify.com/track/2cLTQEPuI7NBteVD6fN9Kx) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [SEASONS](https://open.spotify.com/album/0nnFbDOvJWnmz5wadtiKqQ) | 3:25 | 2024-06-27 |  |
 | [Separate Ways](https://open.spotify.com/track/0qMP7NeROCwLgqSDbtuZff) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Separate Ways](https://open.spotify.com/album/3ngkRH3t74hMdz5xPTF3Rz) | 2:36 | 2024-08-01 |  |
+| [Sepasang Bayang\-Bayang](https://open.spotify.com/track/5UHGyTdwnM5ITzOKFnxKaD) | [Wild Rice](https://open.spotify.com/artist/1xFFXhUxaRoGDaK0wQJIcD) | [Sepasang Bayang\-Bayang](https://open.spotify.com/album/7CP84rDDqRBYEeGAD2EIJH) | 3:35 | 2024-08-08 |  |
 | [she's coming alive](https://open.spotify.com/track/0xpgLRE5cCKL8vnUeFiBYz) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [she's coming alive](https://open.spotify.com/album/5kbbwFduOW0mWoxDJ0ivP9) | 3:33 | 2024-06-27 | 2024-07-05 |
 | [sleep \(reimagined\)](https://open.spotify.com/track/673OGwgQTLMCx2I9okL46B) | [Fold & Fellow](https://open.spotify.com/artist/5f3kChvnLqPMRjBO4FuQQS), [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [sleep \(reimagined\)](https://open.spotify.com/album/0wgFWMR0QBK0LUtPmVUCpV) | 3:04 | 2024-06-27 |  |
 | [SO BE IT](https://open.spotify.com/track/19K2LoHnsuc7LIynGguA0q) | [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [SO BE IT](https://open.spotify.com/album/51iiqLt7ItkkcCUxSBM3lD) | 3:00 | 2024-06-27 | 2024-07-05 |
@@ -166,6 +168,7 @@
 | [残念（新传媒电视剧《那一年的除夕夜》主题曲）](https://open.spotify.com/track/1vw0aTkZA04oHuLw2tdrZk) | [林倛玉](https://open.spotify.com/artist/6cPF6mU1FzLcLeWG7XlxbN) | [残念（新传媒电视剧《那一年的除夕夜》主题曲）](https://open.spotify.com/album/2YZ35d63dsKdIqaVGCFDT6) | 4:28 | 2024-06-27 | 2024-07-05 |
 | [沒有必要的續集](https://open.spotify.com/track/6kuQCa0qvG8BINevRljcVf) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [沒有必要的續集](https://open.spotify.com/album/23CSd9leHg1gW94Mdue70w) | 3:49 | 2024-07-25 |  |
 | [海龜湯 \(極短篇影集《都市懼集》片尾曲\)](https://open.spotify.com/track/7cIuxCYNjnSAwEYzOXvuCM) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [海龜湯](https://open.spotify.com/album/4xOOatH9FMjWDAEYVoHZGU) | 3:30 | 2024-07-18 |  |
+| [相思河畔 \(电影《乐园Wonderland》主题曲\)](https://open.spotify.com/track/0By0k0EgoTOKcqbqas7g2F) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [相思河畔 \(电影《乐园Wonderland》主题曲\)](https://open.spotify.com/album/6R8f8XRhpJK4UX8FpufZ64) | 3:42 | 2024-08-08 |  |
 | [絕不絕](https://open.spotify.com/track/080IlSWjzRLzNfnXrREgGd) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [絕不絕](https://open.spotify.com/album/53x4QgrGbXltqPtqU6h33a) | 3:46 | 2024-07-25 |  |
 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 | 2024-06-27 | 2024-07-19 |
 | [莫名的想你](https://open.spotify.com/track/11nQNM8Dz2Hw6aD59Sn3SR) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [BLUE\-HOO! \(Deluxe\)](https://open.spotify.com/album/7IyzEmX7Wpibs1WrudybFJ) | 3:17 | 2024-06-27 | 2024-07-19 |

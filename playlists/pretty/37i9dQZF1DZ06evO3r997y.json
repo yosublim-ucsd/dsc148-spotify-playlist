@@ -1,12 +1,12 @@
 {
-  "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2210,
-  "original_name": "This Is Akari Kito",
+  "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
+  "num_followers": 2211,
+  "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAADT8GMeA8QXjuEXsi08wuQL",
+  "snapshot_id": "ZrK5AAAAAAA8eJFLyVHE/bSbUWnHO8RV",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 260826,
-      "name": "Star Arc",
-      "url": "https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq"
+      "duration_ms": 209693,
+      "name": "Swinging Heart",
+      "url": "https://open.spotify.com/track/0yAegrVbCDH2i3VVKzwpqu"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 238746,
-      "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
+      "duration_ms": 92120,
+      "name": "OPENING Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
     },
     {
       "added_at": null,
@@ -548,11 +548,11 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 92120,
-      "name": "OPENING Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE"
+      "duration_ms": 238746,
+      "name": "Desire Again Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/3SV0SxIW8Hom0umB4s8N8X"
     }
   ],
-  "unique_name": "This Is Akari Kito",
+  "unique_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y"
 }

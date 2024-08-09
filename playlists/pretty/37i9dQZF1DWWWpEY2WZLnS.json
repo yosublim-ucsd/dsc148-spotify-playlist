@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 519798,
+  "num_followers": 520361,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqsFFAAAAACK/VRgNpOh4n5f3VKASXhd",
+  "snapshot_id": "ZrUCHQAAAADy12lxvAH1csqKFceKIQ7W",
   "tracks": [
     {
       "added_at": "2024-07-25 18:17:02",
@@ -39,42 +39,6 @@
     {
       "added_at": "2024-07-15 23:17:59",
       "album": {
-        "name": "EN BLUSA",
-        "url": "https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9"
-      },
-      "artists": [
-        {
-          "name": "Papera",
-          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
-        },
-        {
-          "name": "Yoan Retro",
-          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
-        }
-      ],
-      "duration_ms": 158796,
-      "name": "EN BLUSA",
-      "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
         "name": "Tuwi Tuwi",
         "url": "https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY"
       },
@@ -93,24 +57,72 @@
       "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
     },
     {
-      "added_at": "2024-08-01 03:46:28",
+      "added_at": "2024-07-15 23:17:59",
       "album": {
-        "name": "Palo Ajeno",
-        "url": "https://open.spotify.com/album/0KiKssxo1vKYwXiw5Al3uW"
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Palo Ajeno",
-      "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+    },
+    {
+      "added_at": "2024-07-15 23:17:59",
+      "album": {
+        "name": "EN BLUSA",
+        "url": "https://open.spotify.com/album/1mUItA6EXfOuuj6a6iR8A9"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "duration_ms": 158796,
+      "name": "EN BLUSA",
+      "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
+    },
+    {
+      "added_at": "2024-08-08 17:36:28",
+      "album": {
+        "name": "Vivela",
+        "url": "https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Vivela",
+      "url": "https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz"
+    },
+    {
+      "added_at": "2024-07-15 23:17:59",
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -137,20 +149,20 @@
       "url": "https://open.spotify.com/track/5Zy0g1WbeA3JM3INpYWoyN"
     },
     {
-      "added_at": "2024-07-15 23:17:59",
+      "added_at": "2024-08-08 17:36:28",
       "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
+        "name": "Bo Bo Bo",
+        "url": "https://open.spotify.com/album/3dZBu4c9LUhSYTtqCdgVHN"
       },
       "artists": [
         {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+      "duration_ms": 94285,
+      "name": "Bo Bo Bo",
+      "url": "https://open.spotify.com/track/3YD3fzaeUAG60fb1x8yDaq"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -171,22 +183,6 @@
       "duration_ms": 118998,
       "name": "PIKY",
       "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
-    },
-    {
-      "added_at": "2024-07-25 18:17:02",
-      "album": {
-        "name": "VIVELA",
-        "url": "https://open.spotify.com/album/3CXYQFagZLJ5WFoMjBVi3n"
-      },
-      "artists": [
-        {
-          "name": "DONATY",
-          "url": "https://open.spotify.com/artist/1xSh8lPUkPfFypPQ5iRDHb"
-        }
-      ],
-      "duration_ms": 137652,
-      "name": "VIVELA",
-      "url": "https://open.spotify.com/track/04L7uMLzJuEJx2ETNmwAm2"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -243,6 +239,26 @@
       "duration_ms": 125147,
       "name": "Prepotente",
       "url": "https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa"
+    },
+    {
+      "added_at": "2024-08-01 03:46:28",
+      "album": {
+        "name": "Palo Ajeno",
+        "url": "https://open.spotify.com/album/0KiKssxo1vKYwXiw5Al3uW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Palo Ajeno",
+      "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -391,26 +407,6 @@
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "J\u00e1lale alv",
-        "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 109866,
-      "name": "J\u00e1lale alv",
-      "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -758,6 +754,10 @@
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
       "duration_ms": 221739,

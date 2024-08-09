@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
+    },
+    {
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp"
       },

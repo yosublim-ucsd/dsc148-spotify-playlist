@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0EhHXi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0EhHXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0EhHXi)
 
-### [This Is ラモーンズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi)
+### [This Is Ramones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi)
 
-> This is ラモーンズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Ramones\. The essential tracks, all in one playlist.
 
 90 songs - 3 hr 51 min
 

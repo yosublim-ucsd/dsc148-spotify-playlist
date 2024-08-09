@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica da gridare 🗣️🖤 CALI! in cover
+> musica da gridare 🗣️🖤 Decrow e Jack Out in cover
 
-1,043 songs - 1 day 23 hr 52 min
+1,045 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [DON'T CRY](https://open.spotify.com/track/2b0LaxHKMrukK0EHBF7Z4p) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [DON'T CRY](https://open.spotify.com/album/4LDpCYR2cZQmXI0iC8sqTk) | 2:32 | 2023-04-20 | 2023-07-07 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-10-14 |
 | [don't shop when ur hungry !!](https://open.spotify.com/track/4McWu9XZhVIE0YelQzP5D3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [High Concept](https://open.spotify.com/album/5DSSWFgWsyelKKtMEUe1cK) | 2:20 | 2023-10-19 | 2023-11-17 |
+| [Donde Estás?](https://open.spotify.com/track/3xe5I2dExffQFZ5QHbprtl) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [Donde Estás?](https://open.spotify.com/album/3Pkjt1tzNJGh41RVryhoFJ) | 2:57 | 2024-08-08 |  |
 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-03-07 | 2024-05-17 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-06-09 |
 | [don’t shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [don't shop when ur hungry !! \(feat\. vaultboy\)](https://open.spotify.com/album/1SxCpc68MAkp1WbnENuhxq) | 2:20 | 2023-08-17 | 2023-10-22 |
@@ -503,7 +504,7 @@
 | [L'anima Nell'aria](https://open.spotify.com/track/3kTPRowdmtOYf9sy3Hu71E) | [Alvis](https://open.spotify.com/artist/5CucWQBVJnpbcNkhpvZkCA) | [L'anima Nell'aria](https://open.spotify.com/album/4z2hPp2q2JduYPsLPCi907) | 2:49 | 2023-11-16 | 2023-12-01 |
 | [L'ULTIMA VOLTA](https://open.spotify.com/track/3B28V6xFQTS2nFRvdxmk7Q) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [L'ULTIMA VOLTA](https://open.spotify.com/album/1cgukdJeBk5mArjUKDh0jA) | 2:40 | 2023-06-29 | 2023-10-20 |
 | [L'ultima Volta](https://open.spotify.com/track/2NIazH3oMe6NWRDaGjJtGN) | [Tosca](https://open.spotify.com/artist/6EF4W7jMJ07vtJfxw54BDf) | [MARY](https://open.spotify.com/album/4LDUQNXFABd0SmJYaSVMEr) | 2:45 | 2024-05-30 | 2024-06-14 |
-| [L\(oser\)](https://open.spotify.com/track/41CZM8nSVyGjD4bK2gqMgK) | [ugoxsempre](https://open.spotify.com/artist/2w8rgsbK60ow1mRiJyzxYl) | [L\(oser\)](https://open.spotify.com/album/0h05NBNwSAz8n3Z04Nmimo) | 2:13 | 2024-06-13 |  |
+| [L\(oser\)](https://open.spotify.com/track/41CZM8nSVyGjD4bK2gqMgK) | [ugoxsempre](https://open.spotify.com/artist/2w8rgsbK60ow1mRiJyzxYl) | [L\(oser\)](https://open.spotify.com/album/0h05NBNwSAz8n3Z04Nmimo) | 2:13 | 2024-06-13 | 2024-08-09 |
 | [LA CANZONE DELLA SBORRA](https://open.spotify.com/track/1r36WzYRZ2qba069DHK71H) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [LA CANZONE DELLA SBORRA](https://open.spotify.com/album/1KInHLAZ9DBMonjh7HdQQk) | 2:44 | 2022-08-26 | 2022-10-28 |
 | [LA CITTA' CHE ODI](https://open.spotify.com/track/7D0sjlRoNiruzLMOSjwbWz) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [LA CITTA' CHE ODI](https://open.spotify.com/album/6nn80cWrKmyThtnV8YvzoU) | 2:47 | 2022-12-01 | 2023-02-17 |
 | [La Cosa Giusta](https://open.spotify.com/track/01GbUvDBaDm6BAuaDA51Qz) | [YOUNG KALI](https://open.spotify.com/artist/32Mvw7JUOnNmQnogPgFtBj), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [La Cosa Giusta](https://open.spotify.com/album/68btQeJoJgzLAuSRivyz2M) | 2:57 | 2023-10-12 | 2023-11-17 |
@@ -690,6 +691,7 @@
 | [Ora d'aria](https://open.spotify.com/track/5gbmz8TkFwcuTsHPbXq7F3) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [RESPIRA](https://open.spotify.com/album/4oLtZPBDcpeJkzobTwkaS4) | 2:20 | 2022-06-30 | 2022-12-09 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-05-02 |  |
 | [OTTOBRE](https://open.spotify.com/track/2EaYpdHtbZOpbhz7xnEEjz) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [OTTOBRE](https://open.spotify.com/album/6pJMdxKlCy3OX0mVqHbbi9) | 2:53 | 2023-11-09 | 2024-03-22 |
+| [Pagine vuote](https://open.spotify.com/track/3waeGJeHycGKpjmGZkhyLN) | [DALAI XV](https://open.spotify.com/artist/54qf1p4GvCN28bNLkutNn6) | [SAD VIBES](https://open.spotify.com/album/0emE6rPetEtBDMRcAc2h9x) | 2:18 | 2024-08-08 |  |
 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 | 2023-03-30 | 2023-06-02 |
 | [Panico](https://open.spotify.com/track/4NOFiXQQGGpb2ICxHs0eeT) | [ITAMI](https://open.spotify.com/artist/3jvrwPpeYnKPzzqHafSU5e) | [Panico](https://open.spotify.com/album/7aKYFgFEQ3vxfSVth7rfiU) | 2:45 | 2023-07-27 | 2023-08-04 |
 | [papercuts](https://open.spotify.com/track/3nkW3TPQjBip1lER4h78NX) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [papercuts](https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ) | 3:00 | 2022-05-06 | 2022-05-20 |
@@ -911,7 +913,7 @@
 | [Stupida scusa](https://open.spotify.com/track/23LV89m2teIc59m3lejM2a) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Stupida scusa](https://open.spotify.com/album/2NkuJHx1jxMl9CmxR0uNc8) | 3:01 | 2023-01-19 | 2023-04-21 |
 | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/track/4iRetHGYzDUyKVRyqn4rDb) | [Cali](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Stupida vita \(feat\. 2nd Roof\)](https://open.spotify.com/album/3nxytjfeneppD6nOIDuadB) | 2:54 | 2023-07-13 | 2023-11-17 |
 | [Su Di Te](https://open.spotify.com/track/6eCIYNIasTRya5UYBWjxSE) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [G.bit](https://open.spotify.com/artist/0NmtgATbZcejMnRU5ixeSs), [Mike Lennon](https://open.spotify.com/artist/2g2ukiJJzYdcRJQ12D2bq7), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Su Di Te](https://open.spotify.com/album/7pryBWFxwQZB6nm05G4rM2) | 3:08 | 2022-06-27 | 2022-11-19 |
-| [su misura](https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC) | [su misura](https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J) | 2:31 | 2024-06-13 |  |
+| [su misura](https://open.spotify.com/track/7nfYprCn6N57rE40tFmUY8) | [daze+](https://open.spotify.com/artist/1lXUljfiu01uRvllBUkSsT), [+sudore](https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC) | [su misura](https://open.spotify.com/album/4L1ZJY8ztaQbLN9bPWpc6J) | 2:31 | 2024-06-13 | 2024-08-09 |
 | [su//giù \(fuoco\)](https://open.spotify.com/track/2DsfDZz9Omn56haGBha1UQ) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [su//giù \(fuoco\)](https://open.spotify.com/album/3ikPXBTfSbzhgy0AcZCnuf) | 3:19 | 2024-03-21 | 2024-06-21 |
 | [SUI MURI](https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [SUI MURI](https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf) | 3:01 | 2022-05-06 | 2022-06-03 |
 | [Sulla cresta dell'ombra](https://open.spotify.com/track/3hC8q6SN1WvHQVMAVNTXjt) | [Melli](https://open.spotify.com/artist/37BpthbBCQS5I9Btu6hZqR) | [Sulla cresta dell'ombra](https://open.spotify.com/album/40ix8YGqLjWXpmGs6XS9QN) | 2:36 | 2024-08-01 |  |

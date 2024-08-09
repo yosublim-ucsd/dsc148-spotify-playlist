@@ -2,7 +2,7 @@
 
 ### [This Is Joan Baez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0V2kc4)
 
-> This is Joan Baez\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Joan Baez\. The essential tracks, all in one playlist.
 
 95 songs - 5 hr 45 min
 

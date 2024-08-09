@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: MC WINDHUND",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Marlon Hoffstadt",
   "name": "me right now",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 146573,
       "name": "2000",
       "url": "https://open.spotify.com/track/4lsNo2CCp2dUbsuOmdCj5I"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 141529,
       "name": "Alk & Liebe",
       "url": "https://open.spotify.com/track/3pdNoiPwKlc6hu3ySf3t9R"
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -4153,6 +4153,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
         "name": "Beat Goes On (Rhythm to the Brain)",
         "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
       },
@@ -4755,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169508,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL"
+    },
+    {
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -5162,7 +5198,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 152080,
       "name": "blackout in der gegend",
       "url": "https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU"
@@ -8659,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "Die Jungs",
+        "url": "https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Die Jungs",
+      "url": "https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M"
+    },
+    {
+      "album": {
         "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
         "url": "https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi"
       },
@@ -9453,6 +9507,32 @@
     },
     {
       "album": {
+        "name": "WOHIN?",
+        "url": "https://open.spotify.com/album/0uEbV2OygbZ4VeQ0kO8xGA"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        },
+        {
+          "name": "Yosho",
+          "url": "https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/4TIuKVR9bLwwDhBfesKZVe"
+    },
+    {
+      "album": {
         "name": "Du",
         "url": "https://open.spotify.com/album/0MFPe9RZgltOJ25frq66yd"
       },
@@ -9762,6 +9842,32 @@
       "duration_ms": 154578,
       "name": "Dunst oder Nebel",
       "url": "https://open.spotify.com/track/1RlaLXmKpEEdzB52Aa9iWv"
+    },
+    {
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/4SM0hMKnVQ3Of9bfRKZEbQ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144124,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/5azE1OgMa2Zdd5qEOmOpps"
     },
     {
       "album": {
@@ -10196,7 +10302,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 119953,
       "name": "Einfach Machen",
       "url": "https://open.spotify.com/track/6DmV9tA45jesFN1lyD4Zzy"
@@ -12541,6 +12647,28 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Fuck Love",
+      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
+    },
+    {
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/4QoFJXESRSzdIYhS2YPSiw"
       },
@@ -13832,7 +13960,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 223236,
       "name": "Girls Just Wanna Have Some",
       "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
@@ -15675,6 +15803,24 @@
     },
     {
       "album": {
+        "name": "Himmel (TW)",
+        "url": "https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134257,
+      "name": "Himmel (TW)",
+      "url": "https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i"
+    },
+    {
+      "album": {
         "name": "Himmelblau",
         "url": "https://open.spotify.com/album/7mSJfnU9DwOciR7OGnBA86"
       },
@@ -15690,6 +15836,32 @@
       "duration_ms": 150360,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/7k0HrQpH2Z1a1tnP0CT89L"
+    },
+    {
+      "album": {
+        "name": "Hin & Her",
+        "url": "https://open.spotify.com/album/2M1TwYLHChgRB3ROYlmzlA"
+      },
+      "artists": [
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "SANE",
+          "url": "https://open.spotify.com/artist/6yVHCcCg5H7eycOZJzAbVT"
+        },
+        {
+          "name": "lil eyes",
+          "url": "https://open.spotify.com/artist/4h1QS0cMRf3VrYHyKUJYUv"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Hin & Her",
+      "url": "https://open.spotify.com/track/1oTMNDnBobNmhAky3EdQXu"
     },
     {
       "album": {
@@ -15868,6 +16040,24 @@
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "album": {
+        "name": "For Abby",
+        "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135581,
+      "name": "Honeypie",
+      "url": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
     },
     {
       "album": {
@@ -20570,7 +20760,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 189268,
       "name": "letzter tag",
       "url": "https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0"
@@ -25647,6 +25837,36 @@
     },
     {
       "album": {
+        "name": "Noch Unterwegs",
+        "url": "https://open.spotify.com/album/3s0IlHdGjk4rFOPE1t5kZp"
+      },
+      "artists": [
+        {
+          "name": "tooloudfortheroom",
+          "url": "https://open.spotify.com/artist/74DOh9R3aqr9X9hQ3qsmwO"
+        },
+        {
+          "name": "mo\u00e9",
+          "url": "https://open.spotify.com/artist/2Odi4EJdB2wFUTMWNCxJ7T"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        },
+        {
+          "name": "ghostboo",
+          "url": "https://open.spotify.com/artist/3CrraEHZV8RWfYG4GgP72Y"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Noch Unterwegs",
+      "url": "https://open.spotify.com/track/0R87XSamcraioEJ6Orcjs9"
+    },
+    {
+      "album": {
         "name": "Nochmal",
         "url": "https://open.spotify.com/album/5SJOa5Tsnwq7yq9aX3saLL"
       },
@@ -26430,7 +26650,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 204760,
       "name": "ok </3",
       "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
@@ -26780,7 +27000,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 179840,
       "name": "one life stand",
       "url": "https://open.spotify.com/track/2ziDyR078FUBgGDbDVVUDR"
@@ -27334,7 +27554,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 220441,
       "name": "pantalons (feat. RAPK)",
       "url": "https://open.spotify.com/track/1RMrISle2z9qwcOJku3Qc3"
@@ -28895,6 +29115,32 @@
     },
     {
       "album": {
+        "name": "RAMBAZAMBA",
+        "url": "https://open.spotify.com/album/6rE7HwHHcHql0PcN0NAcms"
+      },
+      "artists": [
+        {
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+        },
+        {
+          "name": "AVO",
+          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
+        },
+        {
+          "name": "AHM",
+          "url": "https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107901,
+      "name": "RAMBAZAMBA",
+      "url": "https://open.spotify.com/track/4nB6LBfRPyaMCjOBGx3GIp"
+    },
+    {
+      "album": {
         "name": "Randali",
         "url": "https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi"
       },
@@ -28976,6 +29222,24 @@
       "duration_ms": 135933,
       "name": "Raue Z\u00e4rtlichkeit",
       "url": "https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ"
+    },
+    {
+      "album": {
+        "name": "raupenimmersatt",
+        "url": "https://open.spotify.com/album/6GBs6LrTnJIlhT8xXwuWot"
+      },
+      "artists": [
+        {
+          "name": "kevin",
+          "url": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161742,
+      "name": "raupenimmersatt",
+      "url": "https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo"
     },
     {
       "album": {
@@ -29668,6 +29932,24 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "album": {
+        "name": "RUNRUNRUN",
+        "url": "https://open.spotify.com/album/1GyQLjSuRSi6jcnn8YOusV"
+      },
+      "artists": [
+        {
+          "name": "Dutch Melrose",
+          "url": "https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140751,
+      "name": "RUNRUNRUN",
+      "url": "https://open.spotify.com/track/3jwQt00cvkN57H6ZR75W2K"
     },
     {
       "album": {
@@ -35561,6 +35843,46 @@
     },
     {
       "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "album": {
+        "name": "TRAUM",
+        "url": "https://open.spotify.com/album/5rKISdAGQgtpM3S4b6mpd7"
+      },
+      "artists": [
+        {
+          "name": "KIDD KAWAKI",
+          "url": "https://open.spotify.com/artist/117qzw3tdGJOdskljHEz7E"
+        },
+        {
+          "name": "KAI$eR",
+          "url": "https://open.spotify.com/artist/05RavFGI8wKr5OhDc6FDiC"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "TRAUM",
+      "url": "https://open.spotify.com/track/2Ff2FEo4Mx1pxEooBtYRJO"
+    },
+    {
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
       },
@@ -36156,7 +36478,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 181225,
       "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
       "url": "https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM"
@@ -37116,7 +37438,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 203285,
       "name": "VERSPRICH, DASS DU IMMER ALLES SAGST",
       "url": "https://open.spotify.com/track/2G5HtTYmtKEdGCqtqxtmUJ"
@@ -38782,7 +39104,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 190281,
       "name": "wenn dein ego zu laut schreit",
       "url": "https://open.spotify.com/track/49eb2RSB0Ppwm2BS96sV9f"
@@ -39488,7 +39810,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 132853,
       "name": "Wieder",
       "url": "https://open.spotify.com/track/0ZBxJRpsvY53vphDtoi4FI"
@@ -40972,7 +41294,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 152783,
       "name": "Zungkuss",
       "url": "https://open.spotify.com/track/5E0TnhyZbOsygOe2xQUrCc"

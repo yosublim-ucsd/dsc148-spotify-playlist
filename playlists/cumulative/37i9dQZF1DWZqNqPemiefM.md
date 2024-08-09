@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-627 songs - 2 day 1 hr 4 min
+628 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
 | [By Your Side](https://open.spotify.com/track/5Ux0zCT223DmKcjzISvSDW) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Dreaming](https://open.spotify.com/album/6H6xD7PAqpdD7UU6MWbwb2) | 4:39 | 2022-03-30 | 2022-07-29 |
 | [C/O](https://open.spotify.com/track/5BKWJlgXhxT7UmWXxzoCfK) | [Sakura Tsuruta](https://open.spotify.com/artist/79OBZx6sPHvnUqeIpooOcZ) | [C/O](https://open.spotify.com/album/7quy2UPFmb4p5k7lLx1a59) | 5:28 | 2024-06-15 |  |
-| [CAHAYA](https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [CAHAYA](https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk) | 2:50 | 2024-07-26 |  |
+| [CAHAYA](https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [CAHAYA](https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk) | 2:50 | 2024-07-26 | 2024-08-09 |
 | [Call \(Deep Blue\)](https://open.spotify.com/track/5exTGAxhHvzjtUJphI9sJq) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/1R7kG8kMXYNkxIOyW1h8Zv) | 3:45 | 2024-01-18 | 2024-01-26 |
 | [Call \(Deep Blue\)](https://open.spotify.com/track/72jCR0d2luLn3Toso0vimT) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Call \(Deep Blue\)](https://open.spotify.com/album/3AWEj1fDPVnV31N8yrNIJd) | 3:45 | 2024-01-18 | 2024-01-20 |
 | [Call Me](https://open.spotify.com/track/3YmZ8V92nqVKx6u1lohFCC) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Wind](https://open.spotify.com/album/0WarGVGAHMzf6DgCfz3pbC) | 4:28 | 2024-02-08 |  |
@@ -185,6 +185,7 @@
 | [Flowers](https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [Wrapped Death](https://open.spotify.com/album/73umIz3uf1q2OFFIsYm9iR) | 4:24 | 2022-08-18 | 2022-11-18 |
 | [Flowing](https://open.spotify.com/track/3VSye7jZrMaYRpI3EA64Ru) | [evala](https://open.spotify.com/artist/6EewOOOCbXlmonZeSG5bbd) | [Acoustic Bend](https://open.spotify.com/album/5sUHb2FbgLxbpzpDHtgJZg) | 2:20 | 2022-04-07 | 2022-07-10 |
 | [Focus](https://open.spotify.com/track/0nYzTuQYAyHrjLGykDAOYv) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [Towako's Diary \(「大豆田とわ子と三人の元夫」オリジナル・サウンドトラック\)](https://open.spotify.com/album/0X41ZR7MGRV5pJfHhdtbo4) | 2:44 | 2022-03-31 | 2022-07-29 |
+| [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 | 2024-08-09 |  |
 | [Forgetful Angel](https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/0wzOZrYgU9wrndydzgYOPX) | 2:57 | 2022-09-29 | 2022-11-18 |
 | [Forgetful Angel](https://open.spotify.com/track/3pMfNMfmGNlkYmjilGEtci) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Forgetful Angel](https://open.spotify.com/album/4W16Uthzgh95U97862c8bg) | 2:57 | 2022-09-29 | 2022-10-01 |
 | [Forgotten River](https://open.spotify.com/track/1fXB8yow8kzrhjjwfypL7U) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [More Beautiful Than Silence](https://open.spotify.com/album/0wwDxX0rvd3PhjPzapZUFU) | 4:52 | 2022-03-31 | 2022-07-05 |

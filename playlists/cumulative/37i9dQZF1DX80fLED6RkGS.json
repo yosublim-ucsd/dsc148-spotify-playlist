@@ -1887,6 +1887,32 @@
     },
     {
       "album": {
+        "name": "DIGII IV",
+        "url": "https://open.spotify.com/album/2BFaAGweJRWbkrY196XwYj"
+      },
+      "artists": [
+        {
+          "name": "Mr.Tee",
+          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Tenorboy",
+          "url": "https://open.spotify.com/artist/6g7RjmpJx5DrhSS7zmZQ9l"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145252,
+      "name": "DIGII IV",
+      "url": "https://open.spotify.com/track/0GGqTWIIMuFydHBlGatynR"
+    },
+    {
+      "album": {
         "name": "Diliti",
         "url": "https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB"
       },
@@ -4809,6 +4835,32 @@
     },
     {
       "album": {
+        "name": "Mokanye",
+        "url": "https://open.spotify.com/album/6SC8Sl5oda98sD26MtSxGl"
+      },
+      "artists": [
+        {
+          "name": "Janny Boy",
+          "url": "https://open.spotify.com/artist/2zRztjcDPdobyXPr9waWXn"
+        },
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Mtipa",
+          "url": "https://open.spotify.com/artist/4E6ozdoX8eaDyfmIuzpDbR"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mokanye",
+      "url": "https://open.spotify.com/track/1w76S1u7Tj2QZilL1fKn4V"
+    },
+    {
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -5898,7 +5950,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 167427,
       "name": "Pande Ile",
       "url": "https://open.spotify.com/track/3UPbsBz5rTewK0bfWLy6Wy"
@@ -7362,7 +7414,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 213572,
       "name": "So nice",
       "url": "https://open.spotify.com/track/5qFo47h5fM98znW7QTM6GI"
@@ -7857,6 +7909,28 @@
     },
     {
       "album": {
+        "name": "Tuna Fix",
+        "url": "https://open.spotify.com/album/5W6lP9PCr5FK2O5x5eRZy8"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "NAGI BEATS",
+          "url": "https://open.spotify.com/artist/4RKFdQEicgXUZkwuqWuW6P"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148468,
+      "name": "Tuna Fix",
+      "url": "https://open.spotify.com/track/42GGpMvdFZgLMK4D9GL4SO"
+    },
+    {
+      "album": {
         "name": "Tunajienjoy",
         "url": "https://open.spotify.com/album/5QGn8oyBAVabSHcNmHM8bA"
       },
@@ -8074,6 +8148,32 @@
       "duration_ms": 150303,
       "name": "Update Status",
       "url": "https://open.spotify.com/track/3sLugEb8xrupyOpFRygRdr"
+    },
+    {
+      "album": {
+        "name": "Upepo",
+        "url": "https://open.spotify.com/album/10rh3j6pq0oN2Y3tJeLfqB"
+      },
+      "artists": [
+        {
+          "name": "Dj Mura K.E",
+          "url": "https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP"
+        },
+        {
+          "name": "Hiribae",
+          "url": "https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3"
+        },
+        {
+          "name": "Dipa Konnection",
+          "url": "https://open.spotify.com/artist/6Kfl4D36dQ1yUszZxpl3nf"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209757,
+      "name": "Upepo",
+      "url": "https://open.spotify.com/track/3T9Dpl91YKcNnwTYjZogxM"
     },
     {
       "album": {
@@ -8606,7 +8706,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 163200,
       "name": "Yega Master (feat. Ucho)",
       "url": "https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq"
@@ -8650,7 +8750,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 169411,
       "name": "Yumba Yumba",
       "url": "https://open.spotify.com/track/32KrGlewkyG9pkRXXQ0tUH"

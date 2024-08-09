@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638857,
+  "num_followers": 1638898,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAADFdHTfNcYATdKKgFOF7eWH",
+  "snapshot_id": "ZrK5AAAAAADHC37HG/CfTkxWysxLNuHe",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Team Side Feat. RCB",
-        "url": "https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Team Side Feat. RCB",
-      "url": "https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Team Side Feat. RCB",
+        "url": "https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Team Side Feat. RCB",
+      "url": "https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh"
     },
     {
       "added_at": null,

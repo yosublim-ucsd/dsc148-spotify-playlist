@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Delfina Campos en portada.
 
-3,038 songs - 7 day 8 hr 33 min
+3,039 songs - 7 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2914,6 +2914,7 @@
 | [Verano](https://open.spotify.com/track/6qT6PYNm3fiohLtm9tIWKq) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:49 | 2022-07-01 | 2022-07-16 |
 | [Verano](https://open.spotify.com/track/7u2JI7cFBb2Zahd9rEFdbN) | [Toldos Verdes](https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw) | [Verano](https://open.spotify.com/album/4Ciie9heqjHTEUzyTzNsqb) | 2:03 | 2023-09-08 | 2023-09-23 |
 | [Verano de los 27](https://open.spotify.com/track/1j0AtpinHF58n8wF7LsXpF) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [Verano de los 27](https://open.spotify.com/album/49Gv1tBvfsbR2M0imtJs41) | 2:47 | 2023-10-20 | 2023-11-04 |
+| [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 | 2024-08-02 |  |
 | [Verano Tsé\-Tsé](https://open.spotify.com/track/7ka4lVeUiURlLeA7TeLKzD) | [Alvaro Suite](https://open.spotify.com/artist/70yQzusWd5DK0SbZk9z6tN), [Paco Prieto](https://open.spotify.com/artist/1NqypjbJIdnTZpp6zkcDDj) | [Verano Tsé\-Tsé](https://open.spotify.com/album/2eUOeQ2EipWIcxOyPLCP0F) | 3:14 | 2023-07-28 | 2023-08-12 |
 | [Verde](https://open.spotify.com/track/2hcFy9wTUJEAOX3QELnWdA) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Besta](https://open.spotify.com/album/4hvPGVrNkjtCkoynfzek1z) | 2:39 | 2024-04-26 | 2024-05-11 |
 | [Verte Arder](https://open.spotify.com/track/5hLR0WHwruVi187R8BZ2q3) | [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Verte Arder](https://open.spotify.com/album/06015DPyXB42DiFkdhO2Py) | 4:15 | 2023-05-12 | 2023-05-20 |

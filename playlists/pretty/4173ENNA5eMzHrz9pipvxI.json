@@ -1,200 +1,204 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta x Afrojack",
-  "num_followers": 120208,
+  "num_followers": 120207,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdsxz8UJtWCYwdJSWZUYpj8c1PwcFR",
+  "snapshot_id": "AAAdtimTj/VpDNgEi3DF/EbXp8K0d+7y",
   "tracks": [
     {
-      "added_at": "2024-08-01 23:00:56",
+      "added_at": "2024-08-08 23:00:56",
       "album": {
-        "name": "Raving",
-        "url": "https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf"
+        "name": "From Down Under",
+        "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
         }
       ],
-      "duration_ms": 138951,
-      "name": "Raving",
-      "url": "https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm"
+      "duration_ms": 131444,
+      "name": "Somebody Else (feat. Blair)",
+      "url": "https://open.spotify.com/track/1NOZKVCCAHa61neGa8pPUX"
     },
     {
-      "added_at": "2024-08-01 23:00:56",
+      "added_at": "2024-08-08 23:00:56",
       "album": {
-        "name": "Gonna Dance with Somebody",
-        "url": "https://open.spotify.com/album/257DwDbRVT115AWs2bWpjh"
+        "name": "Crush Me Down (You Spin Me Around) [Hard Edit]",
+        "url": "https://open.spotify.com/album/5vPkT7NvfFm1N7p3KrAb31"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Noel Holler",
-          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Gonna Dance with Somebody",
-      "url": "https://open.spotify.com/track/0nlRe1XOzQwMKf03opmry7"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/3w0ZKUzyBG3hkwvV3RcOAw"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1cs1kaN1LzB6bthOFH01Q2"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Perreo",
-        "url": "https://open.spotify.com/album/6sx32X0E7IXfWLH3ldmNd4"
-      },
-      "artists": [
-        {
-          "name": "Quentro",
-          "url": "https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi"
-        },
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup"
-        },
-        {
-          "name": "Kuntay Cevizci",
-          "url": "https://open.spotify.com/artist/3wN0Ob8OktbGnRVBaSqx8K"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Perreo",
-      "url": "https://open.spotify.com/track/2FXVpbS6z7ctOV55h9ozCZ"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Cafe With Gods",
-        "url": "https://open.spotify.com/album/2FKP8BYcYE4i9hC8qlyDUg"
-      },
-      "artists": [
-        {
-          "name": "Victor Tellagio",
-          "url": "https://open.spotify.com/artist/0Tn4aSU1htOi0pMKKSuVkW"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Cafe With Gods",
-      "url": "https://open.spotify.com/track/392saTzCLJ1EljFjZrOUxy"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Missing (Back To You) [feat. Ellivia]",
-        "url": "https://open.spotify.com/album/7mOuI2xjNrsp8ZnomCWATF"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "CJ Jeff",
-          "url": "https://open.spotify.com/artist/0sd0YrAGDzvCNV53mubgCH"
-        },
-        {
-          "name": "Ellivia",
-          "url": "https://open.spotify.com/artist/4HrUylqpnegh0SiquDId9c"
-        }
-      ],
-      "duration_ms": 168417,
-      "name": "Missing (Back To You) [feat. Ellivia]",
-      "url": "https://open.spotify.com/track/3g0aWg9EUvagvcX27tnnLK"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Voices (with Naeleck)",
-        "url": "https://open.spotify.com/album/33Z2pDursd7HXvWrjBU5hu"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "22Bullets",
-          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
         },
         {
           "name": "Naeleck",
           "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 144569,
-      "name": "Voices (with Naeleck) [Together We Will Rise]",
-      "url": "https://open.spotify.com/track/3rNeIZvZ9kqSuCNjsJw6Si"
-    },
-    {
-      "added_at": "2024-08-01 23:00:56",
-      "album": {
-        "name": "Moonwalk Season",
-        "url": "https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
         },
         {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
         }
       ],
-      "duration_ms": 161794,
-      "name": "Moonwalk Season",
-      "url": "https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS"
+      "duration_ms": 121232,
+      "name": "Crush Me Down (You Spin Me Around)",
+      "url": "https://open.spotify.com/track/23g2dvuaCjx1HhnjbjhEan"
     },
     {
-      "added_at": "2024-08-01 23:00:56",
+      "added_at": "2024-08-08 23:00:56",
       "album": {
-        "name": "Malfunction",
-        "url": "https://open.spotify.com/album/5oAzm3nqxqr7lJp2TWPUWy"
+        "name": "Kikuyu",
+        "url": "https://open.spotify.com/album/6AUWyJYHCBr5Z5T3N0aA4a"
       },
       "artists": [
         {
-          "name": "JustLuke",
-          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
+          "name": "Jessi Selm",
+          "url": "https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq"
         }
       ],
-      "duration_ms": 156562,
-      "name": "Malfunction",
-      "url": "https://open.spotify.com/track/5VurwBt2WaKjPGOagoVH92"
+      "duration_ms": 181125,
+      "name": "Kikuyu",
+      "url": "https://open.spotify.com/track/3IQuYD2lrVj8NjAXCfU1TL"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "From Down Under",
+        "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/46stBt1QstaHewaL50xfDt"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "Calinda (2024)",
+        "url": "https://open.spotify.com/album/6YdgsoXAVcLDH0a52kAAp4"
+      },
+      "artists": [
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        },
+        {
+          "name": "Ahoona",
+          "url": "https://open.spotify.com/artist/3hqLkaDbLm9obBq5DOwKFF"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "Calinda (2024)",
+      "url": "https://open.spotify.com/track/4Mm2qNujMVgcfOEceVnPTN"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "From Down Under",
+        "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 278395,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/4aPR4z0d832jAv1233pLzZ"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "Favorite Mistakes",
+        "url": "https://open.spotify.com/album/7Mghoh9CfuqNWifDzfWmF7"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 155476,
+      "name": "Favorite Mistakes",
+      "url": "https://open.spotify.com/track/4nTa22B8sDDzurR1Dm5yz7"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "From Down Under",
+        "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Good Humans",
+          "url": "https://open.spotify.com/artist/66DcMpiCLGdsHffqTqkjow"
+        }
+      ],
+      "duration_ms": 119047,
+      "name": "Way Down Low (feat. Good Humans)",
+      "url": "https://open.spotify.com/track/573QarJrvT8LynoeCzAg7R"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "What's A Girl To Do",
+        "url": "https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "What's A Girl To Do",
+      "url": "https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa"
+    },
+    {
+      "added_at": "2024-08-08 23:00:56",
+      "album": {
+        "name": "Mosika",
+        "url": "https://open.spotify.com/album/6XJO3ByrRT51pfXEPJ6jvR"
+      },
+      "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mosika",
+      "url": "https://open.spotify.com/track/6eNUbxMJ6BiTK4dHy9mzU0"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

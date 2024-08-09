@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec SANTA \(du titre \#1 au \#16\).
 
-1,296 songs - 2 day 19 hr 26 min
+1,297 songs - 2 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1107,6 +1107,7 @@
 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 | 2023-06-06 | 2023-07-05 |
 | [SPLEEN](https://open.spotify.com/track/7vyMNaPsO12vwzNIn9qh5n) | [Lisa Portelli](https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi) | [SPLEEN](https://open.spotify.com/album/5SFU1suoQav8iKIBYAOTxw) | 4:16 | 2022-01-05 | 2022-02-02 |
 | [Spéciale](https://open.spotify.com/track/25VFwQA7ykqshryZml8NjY) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Spéciale](https://open.spotify.com/album/4ymrxlyOvjC67MDZtMKNm7) | 2:49 | 2023-01-03 | 2023-02-01 |
+| [Stalker](https://open.spotify.com/track/18LJA309PjDoViodm94Us1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA \- Réédition](https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn) | 2:51 | 2024-08-08 |  |
 | [star](https://open.spotify.com/track/0S3kfGBwGxLVltuzHgeaRY) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [star](https://open.spotify.com/album/7LfjbYGdktCKW8cJ7yOR2p) | 2:59 | 2022-05-03 | 2022-06-01 |
 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 | 2022-08-02 | 2022-09-07 |
 | [Start Over](https://open.spotify.com/track/0Xxa8lYebLD3EPYUUqfikf) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Start Over](https://open.spotify.com/album/6Lq7GuN8trgDLXgqHBV0VM) | 2:54 | 2023-11-07 | 2023-11-30 |

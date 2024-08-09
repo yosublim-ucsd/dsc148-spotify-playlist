@@ -4,7 +4,7 @@
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-681 songs - 1 day 14 hr 5 min
+682 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Woman No](https://open.spotify.com/track/1FmvLSFlQNc2z8BFGOP8kn) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Woman No](https://open.spotify.com/album/7fSmCvKf3HjfCiq3dGDFP2) | 3:28 | 2023-02-27 | 2023-03-07 |
 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 | 2023-04-17 | 2023-04-25 |
 | [World's Greatest Sleeper](https://open.spotify.com/track/7Etfp59BHjo4Ud0x67r5st) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [World's Greatest Sleeper](https://open.spotify.com/album/1B1aaFNBIh4R8VINBjxdQ3) | 3:06 | 2023-01-09 | 2023-01-24 |
+| [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 | 2024-08-08 |  |
 | [Write off](https://open.spotify.com/track/3OijawdDvf2Kh2VH7ItYDx) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Write off](https://open.spotify.com/album/2Nkm9ZQ5uqoUs1CtiU7J0I) | 2:49 | 2023-08-21 | 2023-08-29 |
 | [xoxo](https://open.spotify.com/track/777rgFbpeiCj5iYaWotSY4) | [judith](https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz) | [xoxo](https://open.spotify.com/album/2mb5Patti32ZaxozYgopH4) | 2:08 | 2022-11-14 | 2022-11-22 |
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-11-21 | 2022-11-29 |

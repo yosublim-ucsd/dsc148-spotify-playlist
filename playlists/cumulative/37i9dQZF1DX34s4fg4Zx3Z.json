@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: TeuYungBoy",
+  "description": "Nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Chi X\u00ea",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -366,6 +366,24 @@
       "duration_ms": 259859,
       "name": "200 Ch\u1eef Y\u00eau",
       "url": "https://open.spotify.com/track/33nfdHLV25zW6lCmtqyyfa"
+    },
+    {
+      "album": {
+        "name": "n\u01a1i mu\u1ed1n \u0111\u1ebfn",
+        "url": "https://open.spotify.com/album/13XDbCgZvLK89qXnlyevWi"
+      },
+      "artists": [
+        {
+          "name": "tnghi",
+          "url": "https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3gMxrwtmJ27JN2DKYNIww5"
     },
     {
       "album": {
@@ -5442,7 +5460,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 224128,
       "name": "Ch\u00fang Ta Mai Sau",
       "url": "https://open.spotify.com/track/32iCUaeWqpVqkoVaYx4NVz"
@@ -22786,7 +22804,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159485,
       "name": "Oh My Pretty",
       "url": "https://open.spotify.com/track/2JqzDQFFfXNk9GH0WO2Pbv"
@@ -25249,6 +25267,24 @@
     },
     {
       "album": {
+        "name": "Seenderella",
+        "url": "https://open.spotify.com/album/63j8L3ZQC6eLhHOEw3YijB"
+      },
+      "artists": [
+        {
+          "name": "Chi X\u00ea",
+          "url": "https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Seenderella",
+      "url": "https://open.spotify.com/track/5IPyVAKgMFP99F2DqUoohG"
+    },
+    {
+      "album": {
         "name": "LEFTOVER FLOWERS",
         "url": "https://open.spotify.com/album/4PT5lZAhYNUAcC0OZBfrXm"
       },
@@ -25693,6 +25729,28 @@
     },
     {
       "album": {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/album/0Lt4DPHoop3DbDukXDpLBE"
+      },
+      "artists": [
+        {
+          "name": "ZINDO",
+          "url": "https://open.spotify.com/artist/1Tb20w61aAc6xuEGQRZeYw"
+        },
+        {
+          "name": "GreenV",
+          "url": "https://open.spotify.com/artist/33r1Bn4agNlwUlKuXxDQNQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158196,
+      "name": "Spotify",
+      "url": "https://open.spotify.com/track/6Co8GZxb0z3YubPx7M9WrD"
+    },
+    {
+      "album": {
         "name": "Journal Entries",
         "url": "https://open.spotify.com/album/0PWYj4urCZqLhjU49C91ux"
       },
@@ -25966,7 +26024,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 151569,
       "name": "Super Kitsune Universe",
       "url": "https://open.spotify.com/track/1eVbGvlNUkWIzfIL3kuG7B"

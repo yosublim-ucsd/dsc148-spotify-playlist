@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > 21 years of the greatest indie soundtrack to hit a generation\. Welcome to The O.C\. b\*tch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,061 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,113 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

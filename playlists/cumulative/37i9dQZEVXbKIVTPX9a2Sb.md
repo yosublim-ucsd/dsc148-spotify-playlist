@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,876 songs - 4 day 1 hr 50 min
+1,877 songs - 4 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -791,6 +791,7 @@
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-27 |
 | [KEEP IT G](https://open.spotify.com/track/679gbS0hHCAKLSOpFAfNqF) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC) | [ZPÁTKY NA SVOJÍ PLANETU](https://open.spotify.com/album/45MXq2Tan2W8vHbUTpYWaS) | 4:13 | 2023-09-16 | 2023-09-23 |
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-08-31 | 2021-09-02 |
+| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-08 |  |
 | [KEYS TO MY LIFE](https://open.spotify.com/track/3aZSvXuZt8ymQeixzFQM9W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 2:54 | 2024-02-12 | 2024-02-16 |
 | [Keď budeš veľký \- Skit](https://open.spotify.com/track/6q0G1XAQgeCNZ2lemLFrxe) | [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [Bengoro II](https://open.spotify.com/album/77ay6hjwXyrxwnmuvM0RKJ) | 0:33 | 2023-12-16 | 2023-12-19 |
 | [KEĎ SPOMENIEM SI NA TEBA](https://open.spotify.com/track/0j7MN6e9ZTrnsOWX04juc7) | [Dame](https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf) | [TRAPOHORY](https://open.spotify.com/album/7oIqMuuJFVGu4jilHgPMFE) | 3:18 | 2024-03-30 | 2024-04-14 |
@@ -1780,7 +1781,7 @@
 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2022-02-07 | 2022-02-11 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 | 2022-04-22 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-08-26 | 2023-08-30 |
-| [Where Are You Now](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [All Stand Together](https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL) | 2:29 | 2024-05-02 |  |
+| [Where Are You Now](https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [All Stand Together](https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL) | 2:29 | 2024-05-02 | 2024-08-09 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-05-15 | 2022-08-28 |
 | [Where The Hood At](https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Grand Champ](https://open.spotify.com/album/0FeqrLI13XnYNY1s414uQd) | 4:46 | 2021-04-13 | 2021-04-14 |
 | [Wherever You Are](https://open.spotify.com/track/1sqIfLF4VwN7I4ZrJm7elA) | [BRIDGE](https://open.spotify.com/artist/05LTJdcIWfHyQXC1za07k8) | [Old News](https://open.spotify.com/album/5icEbx89MZQpF99usmgFE5) | 2:26 | 2022-08-28 | 2022-08-30 |

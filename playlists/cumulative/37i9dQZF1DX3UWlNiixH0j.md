@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 路地 Roji
 
-1,813 songs - 4 day 16 hr 45 min
+1,814 songs - 4 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,7 +943,7 @@
 | [Stayaway](https://open.spotify.com/track/2pwIqT1szJknFgSe4v9Mlv) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Stayaway](https://open.spotify.com/album/6WXDVCpbkIQ69jixsZESy8) | 3:16 | 2024-02-20 | 2024-04-11 |
 | [Staying](https://open.spotify.com/track/0p1deKNxo8x5pb1Nkzy67d) | [Clute](https://open.spotify.com/artist/1Astf0A3Ru04VkY1J4KVbf) | [Staying](https://open.spotify.com/album/4HwyiWSpgYUPy6mjXnZQeE) | 3:47 | 2023-08-30 | 2023-09-06 |
 | [Stellar](https://open.spotify.com/track/75jg2C0JJPx1OE6yDgTbSR) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Unspoiled](https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t) | 5:35 | 2024-06-18 |  |
-| [Step By Step](https://open.spotify.com/track/2yOWhJp10UqSiW5WuE1pJF) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Step By Step](https://open.spotify.com/album/6hjTU7HdnWBk41VUnymI2m) | 3:54 | 2024-06-18 |  |
+| [Step By Step](https://open.spotify.com/track/2yOWhJp10UqSiW5WuE1pJF) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Step By Step](https://open.spotify.com/album/6hjTU7HdnWBk41VUnymI2m) | 3:54 | 2024-06-18 | 2024-08-09 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-03-01 |
 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-12 | 2023-11-27 |
 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 | 2023-10-31 | 2024-07-27 |
@@ -1197,6 +1197,7 @@
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-27 | 2023-11-01 |
 | [いま](https://open.spotify.com/track/5As9feJEysnMns86g5qd63) | [EMERALD FOUR](https://open.spotify.com/artist/3fIFYfce155DkvjTKth6Fv) | [魔境にて](https://open.spotify.com/album/1MCHi0lerMlCXTaKH5rxny) | 3:07 | 2024-06-04 | 2024-06-12 |
 | [いろどりのうた](https://open.spotify.com/track/2459bwFobqlziZ0zo5EtmO) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [いろどりのうた](https://open.spotify.com/album/6yps06S6fkYR6LhljQ10GF) | 2:51 | 2024-04-30 | 2024-06-24 |
+| [うそつき](https://open.spotify.com/track/7A0KpZn8WPwl9pGFyHuiE1) | [lilbesh ramko](https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu) | [うそつき](https://open.spotify.com/album/6V9Mk9GEIdPutRlpSLbSUV) | 2:41 | 2024-08-06 |  |
 | [うつつの在り処](https://open.spotify.com/track/5HkN90H6tnBaNLLN8AUgSV) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [うつつの在り処](https://open.spotify.com/album/6Z8H4xZkf36EwUt62Y8N3d) | 4:35 | 2023-07-18 | 2023-08-26 |
 | [うわついた気持ち](https://open.spotify.com/track/1nGmT1izZX9bIHfUQ7mkYA) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN), [鎮座DOPENESS](https://open.spotify.com/artist/2yV4op1t2gPNi8AxB3tQWu) | [うわついた気持ち](https://open.spotify.com/album/2Yf2pfS9eksNJkyO1CLU8o) | 4:26 | 2023-08-08 | 2023-08-10 |
 | [おすし](https://open.spotify.com/track/432b1BqmBhTu0YcQtZu3k0) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa) | [おすし](https://open.spotify.com/album/5WYAvW8s9xG4ESshoqffaJ) | 3:44 | 2023-10-17 | 2023-11-10 |

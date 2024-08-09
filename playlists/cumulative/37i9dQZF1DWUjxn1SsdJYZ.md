@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> OOS OOS!!! It's your weekly dose of AUS & NZ Rap\. Cover: Hooligan Hefs
+> ESHYAY CUZ!!! It's the spot for AUS & NZ Rap\. Cover: Hooligan Hefs
 
-871 songs - 1 day 16 hr 37 min
+873 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [NATURAL HABITAT](https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [NATURAL HABITAT](https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ) | 2:53 | 2024-05-23 |  |
 | [Naughty Child](https://open.spotify.com/track/6VuRkLXw1Z24cK2ugSFaBO) | [SB](https://open.spotify.com/artist/3vD63tWVGtfQaYaNhXMNWT) | [Naughty Child](https://open.spotify.com/album/7sVNRVXaclzgHZObFAR5zc) | 2:50 | 2024-04-07 | 2024-06-21 |
 | [Need it](https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ) | [Mistah Mez](https://open.spotify.com/artist/7FUiHb15jNoad8VZDsD44i), [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Need it](https://open.spotify.com/album/3esciVJufbBSnNYs5YiZ2O) | 2:42 | 2022-03-21 | 2022-05-19 |
-| [Neglected](https://open.spotify.com/track/5YU1qcBVspS4TisxvqtrTh) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [Neglected](https://open.spotify.com/album/05fTPOxEbGTaAFfpTEO11Q) | 2:40 | 2024-05-30 |  |
+| [Neglected](https://open.spotify.com/track/5YU1qcBVspS4TisxvqtrTh) | [VV\-Ace](https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca) | [Neglected](https://open.spotify.com/album/05fTPOxEbGTaAFfpTEO11Q) | 2:40 | 2024-05-30 | 2024-08-09 |
 | [New Age Dreaming](https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [The Boy Of Many Colors](https://open.spotify.com/artist/6TH3slGLeQpUTS5Ng01bWx) | [New Age Dreaming](https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI) | 3:39 | 2023-08-17 | 2023-11-17 |
 | [Next Up](https://open.spotify.com/track/0d9N7mRZAQDJ8hBfEYXz03) | [KIDLOCK](https://open.spotify.com/artist/3l9ICymWAwODq7mFWBut8s) | [Next Up](https://open.spotify.com/album/35qjoImSiIkhKNXRWYrvMM) | 2:29 | 2022-03-21 | 2022-09-23 |
 | [Next Up Australia \- S1\-E1](https://open.spotify.com/track/5JpGv87nAb2bD8mw7GIUKl) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up Australia \- S1\-E1](https://open.spotify.com/album/3aUtF8qNMNW0tLLT7pQ0Jl) | 2:25 | 2024-01-11 | 2024-05-24 |
@@ -605,6 +605,7 @@
 | [PRETTY GIRLS](https://open.spotify.com/track/2TegXzhcQonA9Lv8fBzIco) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [PRETTY GIRLS](https://open.spotify.com/album/4vdZ3KWw1hi6yTMQ0WSvEZ) | 2:50 | 2023-10-19 | 2024-02-16 |
 | [Pretty Lies](https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje) | [BnB](https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS) | [Pretty Lies](https://open.spotify.com/album/7siS5C7R6cB8ysAHpXxink) | 2:31 | 2023-10-05 | 2024-03-15 |
 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 | 2024-05-16 |  |
+| [Prisoner](https://open.spotify.com/track/6OsKteNYckuH9PzkPH8ijU) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [KILL THE DEAD](https://open.spotify.com/album/28ZkakRoyR48ojYgVugcM8) | 2:54 | 2024-08-08 |  |
 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 | 2023-10-05 | 2024-02-16 |
 | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/track/3GRKDBSiMwmcJd7welX7nb) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/album/208Yu2Go1bkO92PdCCqrvO) | 3:09 | 2022-03-21 | 2022-05-13 |
 | [PROTAGONIST](https://open.spotify.com/track/7xZ4s1sCBzptTgB3yHXCuE) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [PROTAGONIST](https://open.spotify.com/album/5dWbDOgW9By7XptXhMWg9b) | 2:53 | 2024-05-30 | 2024-07-05 |
@@ -679,7 +680,7 @@
 | [SEXDRUGSMONEY!](https://open.spotify.com/track/6T809CO7blHPfXAMRNN529) | [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [SEXDRUGSMONEY!](https://open.spotify.com/album/5XH4LOOcyRC07buDQTiAfr) | 2:29 | 2022-08-04 | 2022-08-12 |
 | [SHAKE \(feat\. BLESSED\)](https://open.spotify.com/track/2ujRJ2xKrKUutv1HJbbnwf) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Spriteschool Vol\. 2](https://open.spotify.com/album/5PJjXIWGJZrYzfOtt15ZGw) | 3:14 | 2022-09-08 | 2022-11-11 |
 | [Shelly](https://open.spotify.com/track/1BN1dmG0qmEDUcGJHhUiRH) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [Shelly](https://open.spotify.com/album/3QZBubJYumSQsFMuvnlFm9) | 2:29 | 2022-03-21 | 2022-06-10 |
-| [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/album/5JOL0dZtr7PTxQx4G1oNRA) | 1:56 | 2024-04-19 |  |
+| [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [SHININ' \(Feat\. Raf Receipt\)](https://open.spotify.com/album/5JOL0dZtr7PTxQx4G1oNRA) | 1:56 | 2024-04-19 | 2024-08-09 |
 | [Shoodaz](https://open.spotify.com/track/0WOZWB20pRxCBjJ4k8r241) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/7M5fm7vaTmgmT2PEz5y7xV) | 2:32 | 2022-07-07 | 2022-07-29 |
 | [Shoodaz](https://open.spotify.com/track/5KbXgp0TIX4awIBgGl8dck) | [Jed McIntosh](https://open.spotify.com/artist/1a4vMYkp9BT9dQu2uABNUv), [SOS](https://open.spotify.com/artist/7CW9JX09AjjVRwcYY6RHcG) | [Shoodaz](https://open.spotify.com/album/4P9FwLWlg8XuNgm2jmJadM) | 2:32 | 2022-07-28 | 2022-08-05 |
 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 | 2022-12-08 | 2023-06-23 |
@@ -742,6 +743,7 @@
 | [Tarmeka](https://open.spotify.com/track/1nm1AuDcgsW8EDacZyr9ad) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Tarmeka](https://open.spotify.com/album/0yMhl5bMr1i2rOSKbhu6DA) | 4:29 | 2024-06-27 |  |
 | [TASTY](https://open.spotify.com/track/56W1tGtrbPxrxkoQm5bgSn) | [LooneyCK](https://open.spotify.com/artist/18SXzTTuGk379MsnkTN2ks) | [TASTY](https://open.spotify.com/album/64MxAOI7qaouQesiVi0sur) | 2:00 | 2023-07-18 | 2023-09-15 |
 | [Telem How](https://open.spotify.com/track/1LvdK1HBtxQ4R5AgNYXL76) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Telem How](https://open.spotify.com/album/3gN54fWfU9nMAvgTWzR3yW) | 2:57 | 2022-11-10 | 2023-03-10 |
+| [Tell Me](https://open.spotify.com/track/0LOftSMMK0R57XJS0jYSIz) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Tell Me](https://open.spotify.com/album/5WOGBzFpckM9DHx8Zc29mP) | 2:19 | 2024-08-08 |  |
 | [TELL ME HOW](https://open.spotify.com/track/5qTj33yVvAA1EXmh0cKEML) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [TELL ME HOW](https://open.spotify.com/album/0Sbe24NdBStgSaIdIJN7Sj) | 2:36 | 2023-04-06 | 2023-08-18 |
 | [Test Us](https://open.spotify.com/track/7A4j8vSJ1P256IxK3p2FEo) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Rhythm & Gutta](https://open.spotify.com/album/6E3Oy06YRd8PwT9Wq4ssZe) | 3:27 | 2023-04-13 | 2024-02-16 |
 | [That Thing](https://open.spotify.com/track/5ookbxv4zqmik81xvVPfJT) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2) | [That Thing](https://open.spotify.com/album/509KujuJQE7p53QxM0V9lV) | 1:55 | 2024-07-04 |  |

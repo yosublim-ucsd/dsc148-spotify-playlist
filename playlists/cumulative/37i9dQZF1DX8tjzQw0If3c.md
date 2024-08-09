@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: Sarah Suhairi
+> Unearthing trailblazers\. Say Hello to 2024's RADAR SG & MY artists\. Cover: FUGŌ
 
-69 songs - 3 hr 39 min
+74 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,11 @@
 | [BY YOUR SIDE](https://open.spotify.com/track/7gG4zvBiCXLSiTi5M6qqhv) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [BY YOUR SIDE](https://open.spotify.com/album/2uuBBXx7DYRQF7jAg06SsT) | 2:41 | 2024-06-27 |  |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2024-06-27 |  |
 | [Cemburu](https://open.spotify.com/track/3fbNkHTrMF0bAL9IV6z9dC) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Cemburu](https://open.spotify.com/album/1huyLizjNAl9LhQCgdGQgO) | 2:45 | 2024-06-27 |  |
+| [Cinematic](https://open.spotify.com/track/0NEAWc8Q9QUPleQdElSCXw) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:43 | 2024-08-08 |  |
 | [Cinta Berlalu.](https://open.spotify.com/track/2i8fWdcVQ8LiaTPzvcvov2) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Cinta Berlalu.](https://open.spotify.com/album/6tXIASg7IsFRWHIgvIFgP3) | 3:02 | 2024-06-27 |  |
 | [Come My Way](https://open.spotify.com/track/5tMRRy9BsAIFN75a3t5mky) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:58 | 2024-06-27 |  |
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 |  |
+| [Dengar Lagu Ini](https://open.spotify.com/track/1Z5jsrIvjR5vGaKmeBMxdU) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:56 | 2024-08-08 |  |
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 |  |
 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 | 2024-06-27 |  |
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 |  |
@@ -34,6 +36,7 @@
 | [Future Somebody](https://open.spotify.com/track/4lW3yXHQfYvnq1njjxU07M) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Future Somebody](https://open.spotify.com/album/6oNuFaEPjjlNH9XeT1Aiab) | 2:22 | 2024-06-27 |  |
 | [Gimme That Crown](https://open.spotify.com/track/3p3RPVrPSUyrtLk6VWiuCO) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Gimme That Crown](https://open.spotify.com/album/49CfrRaf35iX4IRKMppz5w) | 3:09 | 2024-06-27 |  |
 | [GONE](https://open.spotify.com/track/5GD4Ua3avWtbj8g78j1kys) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [C.H.Q.Y](https://open.spotify.com/artist/6MpU9MJtZ8NWFO4Z0oCWY9) | [GONE](https://open.spotify.com/album/3dd6kX7BEgS4Fjm6G9cwJM) | 2:30 | 2024-06-27 |  |
+| [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 |  |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 |  |
 | [heartache frenzy](https://open.spotify.com/track/79Ic3LNMS0SDBcJPyihu14) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/3yygTbYVIVZgZ70E2Y3dd0) | 3:40 | 2024-06-27 |  |
 | [high school boy](https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [high school boy](https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB) | 2:54 | 2024-06-27 |  |
@@ -60,6 +63,7 @@
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 |  |
 | [SAH \- Acoustic Version](https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(Acoustic Version\)](https://open.spotify.com/album/30D0nzroAeNHica06GaB1P) | 3:49 | 2024-06-27 |  |
 | [SAH \- LoFi Version](https://open.spotify.com/track/6I02gQUsWeOVng5r7s0B60) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH \(LoFi Version\)](https://open.spotify.com/album/3b5eJkbzPp5bWnE0dFBZSE) | 3:10 | 2024-07-11 |  |
+| [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 | 2024-08-08 |  |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 |  |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 |  |
 | [SUN MOON](https://open.spotify.com/track/5sOmxPPHICzHN9cd6CbuyV) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [SUN MOON](https://open.spotify.com/album/6P1F1i3kKY039lRdzQBPa4) | 2:27 | 2024-06-27 |  |
@@ -69,6 +73,7 @@
 | [Tap Out!](https://open.spotify.com/track/39ZRrvH3OcU9XBMSC4IgSc) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Tap Out! \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/4UkYhNpw9CB2mdrBrYRBLm) | 2:41 | 2024-06-27 |  |
 | [Tenang Tanya Tuhan](https://open.spotify.com/track/64Bp8rRO9uG1nV9834IJwL) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Tenang Tanya Tuhan](https://open.spotify.com/album/5RVOLy5euw9myldlRG7b9S) | 2:32 | 2024-06-27 |  |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-27 |  |
+| [Tiap Kali Bertemu](https://open.spotify.com/track/6mmLZi96biKSGiIfXOATwm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:14 | 2024-08-08 |  |
 | [Time](https://open.spotify.com/track/6XxN0arhVahVrq0JLX4K43) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Time](https://open.spotify.com/album/4kgKn7ydkHXSHQoqIStObO) | 2:43 | 2024-06-27 |  |
 | [venus](https://open.spotify.com/track/6nZJt2Tk27ch1tWv9l4ZEZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [venus](https://open.spotify.com/album/4dF6MbQvHwGpOjnhhhTjMh) | 4:10 | 2024-06-27 |  |
 | [Wanna Know](https://open.spotify.com/track/0uo5CY4LOwpgit91CVVNZO) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Wanna Know](https://open.spotify.com/album/4a2bxrwV1oPJ0iW54hd5kr) | 3:09 | 2024-06-27 |  |

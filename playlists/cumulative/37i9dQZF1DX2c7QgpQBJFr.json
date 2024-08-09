@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: jiojio",
+  "description": "Gli astri nascenti del pop italiano \ud83d\udd2e MATILDE e Germo67 in cover",
   "name": "Caleido",
   "tracks": [
     {
@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "loop",
+        "url": "https://open.spotify.com/album/7cAHykwJrXzjQeZe3aCu6m"
+      },
+      "artists": [
+        {
+          "name": "MARGHERITA PRINCIPI",
+          "url": "https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180679,
+      "name": "loop",
+      "url": "https://open.spotify.com/track/73IP6x82Ew9PRuTO9zC9iT"
+    },
+    {
+      "album": {
         "name": "LOVESICK (feat. CARO WOW)",
         "url": "https://open.spotify.com/album/1eY2rl9gAxGakV59A2IxPj"
       },
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160809,
       "name": "Pioggia Col Sole",
       "url": "https://open.spotify.com/track/6qUCgUlybSFYCH8ZrhepoL"

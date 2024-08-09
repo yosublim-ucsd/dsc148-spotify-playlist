@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: VINI (Thailand)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Three Marloes",
   "name": ".ORG",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 237998,
       "name": "Abettor\uff08\u5f71\u96c6\u300a\u5851\u81a0\u82b1\u300b\u7247\u5c3e\u66f2\uff09",
       "url": "https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 262216,
       "name": "Bara To Yaju",
       "url": "https://open.spotify.com/track/25u8erynTO1nKCYcJSAhRu"
@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 236965,
       "name": "Chaos Calls",
       "url": "https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX"
@@ -5400,6 +5400,24 @@
       "duration_ms": 160193,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer"
+    },
+    {
+      "album": {
+        "name": "Demons My Darling",
+        "url": "https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t"
+      },
+      "artists": [
+        {
+          "name": "Kisnue",
+          "url": "https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188414,
+      "name": "Demons My Darling",
+      "url": "https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx"
     },
     {
       "album": {
@@ -7607,6 +7625,24 @@
     },
     {
       "album": {
+        "name": "forever and a day",
+        "url": "https://open.spotify.com/album/1cKyhSylwnsOBj797Amt2r"
+      },
+      "artists": [
+        {
+          "name": "Gabe Watkins",
+          "url": "https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198315,
+      "name": "forever and a day",
+      "url": "https://open.spotify.com/track/5EsomcnjMHOqvPqrdwvV28"
+    },
+    {
+      "album": {
         "name": "forever!",
         "url": "https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq"
       },
@@ -9349,6 +9385,24 @@
     },
     {
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F"
+    },
+    {
+      "album": {
         "name": "Search + Destroy",
         "url": "https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v"
       },
@@ -9866,7 +9920,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 169767,
       "name": "i hate u",
       "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
@@ -10834,7 +10888,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175350,
       "name": "In The Clouds",
       "url": "https://open.spotify.com/track/6Kg8KoSEacO0Y21pL0ZcDj"
@@ -11630,7 +11684,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 214621,
       "name": "Kewpid",
       "url": "https://open.spotify.com/track/0mxKq6T6Yd0iGbJ4n0QEBF"
@@ -12624,7 +12678,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 154437,
       "name": "Little Balcony",
       "url": "https://open.spotify.com/track/7q0J8M6zMqBI5lDe7PZiP0"
@@ -14198,7 +14252,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 294922,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/0MS4GCNXVfBTaAnJOHE3zI"
@@ -15266,6 +15320,24 @@
       "duration_ms": 157333,
       "name": "No One",
       "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+    },
+    {
+      "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116550,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
     },
     {
       "album": {
@@ -18074,6 +18146,24 @@
       "duration_ms": 171351,
       "name": "Safe Flight",
       "url": "https://open.spotify.com/track/1UVOyw9vzAZ3f6Z9CAm5Vz"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305185,
+      "name": "Salleh Wakeup!",
+      "url": "https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl"
     },
     {
       "album": {
@@ -21098,6 +21188,24 @@
       "duration_ms": 244650,
       "name": "Tell It To My Face",
       "url": "https://open.spotify.com/track/3BhdlvVCtfCzKFSmRQtUN4"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2cXIRNadXAL3oBzOANyAOR"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223385,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1795z9rReenfn77riAyw0y"
     },
     {
       "album": {
@@ -25908,7 +26016,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 223724,
       "name": "\u30b9\u30d4\u30ea\u30c1\u30e5\u30a2\u30eb\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/5KhJYMNpaMu5YHuzehmGre"
@@ -26002,6 +26110,24 @@
       "duration_ms": 240765,
       "name": "\u30cf\u30a4\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
+        "url": "https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232232,
+      "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
+      "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
     },
     {
       "album": {
@@ -26226,6 +26352,24 @@
       "duration_ms": 326388,
       "name": "\u5187\u6709\u5f62\u72c0 - \u58de\u6578\u5b78 VERSION",
       "url": "https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI"
+    },
+    {
+      "album": {
+        "name": "\u51b7\u6c23\u6a5f\u6ef4\u6c34",
+        "url": "https://open.spotify.com/album/34LNC8ay7GEQdgr6SOaamZ"
+      },
+      "artists": [
+        {
+          "name": "N.Y.P.D. \u5357\u6d0b\u6d3e\u5c0d",
+          "url": "https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337094,
+      "name": "\u51b7\u6c23\u6a5f\u6ef4\u6c34",
+      "url": "https://open.spotify.com/track/2wgDaG3hpn6qd8bOMm6eUZ"
     },
     {
       "album": {
@@ -27088,7 +27232,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 220540,
       "name": "\u795d\u798f",
       "url": "https://open.spotify.com/track/4fVRwxkLnFsxspPdtXcac7"

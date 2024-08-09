@@ -1,6 +1,6 @@
 {
   "description": "New releases for the kids. Cover: PJ Panda",
-  "num_followers": 28492,
+  "num_followers": 28565,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
       "duration_ms": 81036,
       "name": "Let's Grow Together",
       "url": "https://open.spotify.com/track/3yCLPmnVfHTkBNKMKL2j5Q"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Too Sweet",
+        "url": "https://open.spotify.com/album/6fgqEz2qgiPYeqtmjbAwPE"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "duration_ms": 250351,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5VV7jBGFStPxRbQc3BlK6O"
     },
     {
       "added_at": "2024-08-02 04:00:00",

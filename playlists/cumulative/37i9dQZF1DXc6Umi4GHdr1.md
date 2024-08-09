@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-380 songs - 16 hr 54 min
+381 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 | 2023-09-29 |  |
 | [Sweather Weather](https://open.spotify.com/track/0sM1RkU751ViUxIAG9Qmll) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Sweather Weather](https://open.spotify.com/album/2aGfO5upajmF21AQ3RCwoH) | 2:31 | 2022-10-07 | 2023-04-28 |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-03-10 | 2023-08-26 |
+| [São Paulo](https://open.spotify.com/track/6QdbIdbjlHeqkAZ2xyJtcT) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [São Paulo](https://open.spotify.com/album/5CI6fWz2PMmHNnAi9kE6cj) | 2:49 | 2024-08-08 |  |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-03-10 | 2023-08-26 |
 | [Tapera](https://open.spotify.com/track/3QEgrZujYt6cFcmq8VMVK2) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Tapera](https://open.spotify.com/album/3aUBs02jKhkYw0aBHZh6fR) | 2:34 | 2024-02-02 |  |
 | [Tears but Not of Pain](https://open.spotify.com/track/27mzQDNLtakxvsBJXk4vzT) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Tears but Not of Pain](https://open.spotify.com/album/49im8S6HBvYk0BHPHWDYh6) | 3:21 | 2024-03-29 |  |

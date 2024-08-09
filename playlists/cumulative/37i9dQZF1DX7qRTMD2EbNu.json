@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: E.L",
+  "description": "Hottest bars coming live from the 233.  Cover: Beeztrap",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -232,6 +232,24 @@
       "duration_ms": 687028,
       "name": "5th August 7",
       "url": "https://open.spotify.com/track/2vIxgWmoWVURCYHxhgtlme"
+    },
+    {
+      "album": {
+        "name": "5th August 8",
+        "url": "https://open.spotify.com/album/3VHSJR6li4fCYtkV1yTlZT"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638038,
+      "name": "5th August 8",
+      "url": "https://open.spotify.com/track/6vj7phavt2TMb2lNRSKCS4"
     },
     {
       "album": {
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 202501,
       "name": "Akokoa",
       "url": "https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 241567,
       "name": "CHAKIDO",
       "url": "https://open.spotify.com/track/42UMrOmFMabE0zT2lSvtuF"
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 169411,
       "name": "Champagne Boi",
       "url": "https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 142702,
       "name": "Family Ties",
       "url": "https://open.spotify.com/track/2XnkVFOGOPxAvrCuB1JmgJ"
@@ -3950,7 +3968,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 183925,
       "name": "Flashy",
       "url": "https://open.spotify.com/track/0PaE3Z35AkWdVFOcOaEVEg"
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144000,
       "name": "Gangsters Paradise",
       "url": "https://open.spotify.com/track/4Tp2jhSDWRGSROc7fLPwMD"
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 118674,
       "name": "Industry Machine",
       "url": "https://open.spotify.com/track/3EYEGjTV30h3R4txuJNEbh"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 152659,
       "name": "Kasapa",
       "url": "https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8"
@@ -7135,6 +7153,28 @@
     },
     {
       "album": {
+        "name": "Addicts Anonymous",
+        "url": "https://open.spotify.com/album/1Xd2CJu1EJ3Z2TNE4kiAv0"
+      },
+      "artists": [
+        {
+          "name": "KooKusi",
+          "url": "https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p"
+        },
+        {
+          "name": "R.B.D.",
+          "url": "https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172043,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/08SYFOyvN14x8ETrKoZjTr"
+    },
+    {
+      "album": {
         "name": "Monsters Dey Back",
         "url": "https://open.spotify.com/album/28FqK06cpOCZlUG07uOiq3"
       },
@@ -7326,7 +7366,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 130332,
       "name": "My Voice",
       "url": "https://open.spotify.com/track/0t4LIqUF3pUU1XfCj4gggz"
@@ -7622,7 +7662,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 197812,
       "name": "No More",
       "url": "https://open.spotify.com/track/49ki3oqWJdFEJaEbMCC9SC"
@@ -7790,7 +7830,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 172978,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/2dKzxUbmDLscf0Wu7EkR3E"
@@ -8338,7 +8378,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 170504,
       "name": "Okukuseku",
       "url": "https://open.spotify.com/track/33wP2yZ6HSSHTVT2fsalqj"
@@ -9926,7 +9966,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174942,
       "name": "SDW FLOW",
       "url": "https://open.spotify.com/track/719PgmRswbrcaaBmej2fcT"
@@ -10002,7 +10042,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 104025,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/7jbHIXPQpgMqnmX08fESFY"
@@ -11345,6 +11385,36 @@
     },
     {
       "album": {
+        "name": "Too Bad / Different Place",
+        "url": "https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "DJ Breezy",
+          "url": "https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix"
+    },
+    {
+      "album": {
         "name": "Madina to the Universe: The E.P.Ilogue",
         "url": "https://open.spotify.com/album/4nuTUPxGggwi4UnYn8tliK"
       },
@@ -11390,6 +11460,28 @@
       "duration_ms": 184679,
       "name": "Too Late To Party",
       "url": "https://open.spotify.com/track/3yrdfryHbFnwQuGrNAZQIr"
+    },
+    {
+      "album": {
+        "name": "Too Windy 4 U",
+        "url": "https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii"
+      },
+      "artists": [
+        {
+          "name": "Mus",
+          "url": "https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P"
+        },
+        {
+          "name": "Japo",
+          "url": "https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118372,
+      "name": "Too Windy 4 U",
+      "url": "https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O"
     },
     {
       "album": {
@@ -11448,7 +11540,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 178285,
       "name": "Trap",
       "url": "https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4"
@@ -11566,7 +11658,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184058,
       "name": "Uno",
       "url": "https://open.spotify.com/track/3Ot5vPUgw3RZys9par70XI"
@@ -11727,6 +11819,28 @@
     },
     {
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4BcMqJxne5UrnoNhk15Rff"
+      },
+      "artists": [
+        {
+          "name": "Dumomi the Jig",
+          "url": "https://open.spotify.com/artist/7x9N8hOjQ8W2sRNNswCthw"
+        },
+        {
+          "name": "Dxnger",
+          "url": "https://open.spotify.com/artist/2w8dUDg6SEqSksgntRTAI4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218355,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4gMSTwQTrCELsyhA9CGFmP"
+    },
+    {
+      "album": {
         "name": "War with Us",
         "url": "https://open.spotify.com/album/2VZEGAa6Ayif90T8d5K88G"
       },
@@ -11764,7 +11878,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 206000,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/2Y1pXK2i2FRUvJEUUn02hY"
@@ -12630,6 +12744,24 @@
       "duration_ms": 225288,
       "name": "Yenpie",
       "url": "https://open.spotify.com/track/76Qxf2AbkXLFDAeOQYnOct"
+    },
+    {
+      "album": {
+        "name": "YESU",
+        "url": "https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201764,
+      "name": "YESU",
+      "url": "https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU"
     },
     {
       "album": {

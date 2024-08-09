@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,538 likes - 176 songs - 16 hr 48 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,542 likes - 176 songs - 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 48 | [Oh How Worthy \- Live](https://open.spotify.com/track/3h0M0AtZS8a2TtSEnGK1TP) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Oh How Worthy \(Live\)](https://open.spotify.com/album/1bn4CriFqutsD4CBPHKc1u) | 5:43 |
 | 49 | [In Control](https://open.spotify.com/track/1XDuCQ3OIjm1dG4BjQOD9N) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [In Control](https://open.spotify.com/album/0fGXjNKhNZM7GqgWELYHHf) | 4:20 |
 | 50 | [Different \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Different \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow) | 6:45 |
-| 51 | [Surely \(All Of My Days / Better Is One Day\) \- Live](https://open.spotify.com/track/4p3F1KOc08z1hdO1s1Gciq) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop) | [All Broken Things \(Live\)](https://open.spotify.com/album/6vyQ0XVY1AimYETRheLgY9) | 10:45 |
+| 51 | [Surely \(All Of My Days / Better Is One Day\) \- Live](https://open.spotify.com/track/4p3F1KOc08z1hdO1s1Gciq) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop) | [All Broken Things \- Live](https://open.spotify.com/album/6vyQ0XVY1AimYETRheLgY9) | 10:45 |
 | 52 | [Purify Our Hearts \(Refiner's Fire\) \- Live](https://open.spotify.com/track/0suAivAG70ioof9bEcbFTe) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [SarahBeth Smith](https://open.spotify.com/artist/31aU0Wqs7rmaYaOOgfKcYi), [Justus Tams](https://open.spotify.com/artist/2IiwIcF2ugOhgrqg4IH5Vk) | [Moments: 013 \(Live\)](https://open.spotify.com/album/1SWM0tZNei6sWT0e8JGiRe) | 8:35 |
 | 53 | [Come Down](https://open.spotify.com/track/1lmmjT6zyjBhim9tVYiITn) | [V1 Worship](https://open.spotify.com/artist/6d31LwaDZ6LKrKugi2D7Lx) | [Come Down](https://open.spotify.com/album/6fsIYFq00rWm2qCFAhKOLo) | 4:51 |
 | 54 | [Steady Love](https://open.spotify.com/track/1RO3hZt6FlYBLK40UxFwax) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Jessie\-Rose Rayner](https://open.spotify.com/artist/3fQGORRT8xvQCPMniaGgEU) | [Steady Love](https://open.spotify.com/album/5spOPiSus1L36TXEUkLwzo) | 4:51 |

@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 105902,
+  "num_followers": 105935,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -651,18 +651,22 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+        "name": "Nostrat",
+        "url": "https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "KOP",
+          "url": "https://open.spotify.com/artist/1vqWasHYiv7zecRAqZvvoO"
+        },
+        {
+          "name": "Berri Txarrak",
+          "url": "https://open.spotify.com/artist/4us4jlCknYAd9OSkLSu82e"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+      "duration_ms": 192880,
+      "name": "Sols El Poble Salva Al Poble",
+      "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Nostrat",
-        "url": "https://open.spotify.com/album/0F9wDYDPBi8rlGrSiG0xK7"
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
       "artists": [
         {
-          "name": "KOP",
-          "url": "https://open.spotify.com/artist/1vqWasHYiv7zecRAqZvvoO"
-        },
-        {
-          "name": "Berri Txarrak",
-          "url": "https://open.spotify.com/artist/4us4jlCknYAd9OSkLSu82e"
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Sols El Poble Salva Al Poble",
-      "url": "https://open.spotify.com/track/6iYxFDOGE8jD5ifJXP6vcK"
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
-      },
-      "artists": [
-        {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
-    },
-    {
-      "added_at": "2024-07-29 13:49:22",
-      "album": {
         "name": "Borratxos y Orgullosos",
         "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 223950,
       "name": "Borratxos y Orgullosos",
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "added_at": "2024-07-29 13:49:22",
+      "album": {
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+      },
+      "artists": [
+        {
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-07-29 13:49:22",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-29 13:49:22",
       "album": {
-        "name": "Antimateria",
-        "url": "https://open.spotify.com/album/7DMDHH3ko36wCPkA6XSMv5"
-      },
-      "artists": [
-        {
-          "name": "Beta M\u00e1ximo",
-          "url": "https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M"
-        }
-      ],
-      "duration_ms": 101731,
-      "name": "Antimateria",
-      "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
-    },
-    {
-      "added_at": "2024-07-29 13:49:22",
-      "album": {
         "name": "HISTERIA",
         "url": "https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 148864,
       "name": "HISTERIA",
       "url": "https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20"
+    },
+    {
+      "added_at": "2024-07-29 13:49:22",
+      "album": {
+        "name": "Antimateria",
+        "url": "https://open.spotify.com/album/7DMDHH3ko36wCPkA6XSMv5"
+      },
+      "artists": [
+        {
+          "name": "Beta M\u00e1ximo",
+          "url": "https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M"
+        }
+      ],
+      "duration_ms": 101731,
+      "name": "Antimateria",
+      "url": "https://open.spotify.com/track/2vzkOxWmJWQFzRRu1zNRsN"
     },
     {
       "added_at": "2024-07-29 13:49:22",

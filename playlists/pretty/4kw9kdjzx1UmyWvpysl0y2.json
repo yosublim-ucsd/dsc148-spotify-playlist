@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125839,
+  "num_followers": 125842,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASziaIAyVnASlCzj4upD9seM1xO4FM",
+  "snapshot_id": "AAASz4xxqLtRMsbTJ1Oen5werayEJ5a5",
   "tracks": [
+    {
+      "added_at": "2024-08-08 15:18:51",
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        }
+      ],
+      "duration_ms": 194074,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/6C78ngoYTzfrg3MTHsIj3V"
+    },
     {
       "added_at": "2024-08-07 16:11:12",
       "album": {

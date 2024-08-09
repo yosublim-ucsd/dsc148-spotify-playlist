@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover：VIVA
+> 感受超級女聲力量。Cover: 鄧小巧
 
-348 songs - 21 hr 0 min
+351 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Atypical](https://open.spotify.com/track/5LXr3GhncY4sC9ynpapsnc) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Atypical](https://open.spotify.com/album/3FEaGC24Dx03W74Xz1Xb1t) | 2:56 | 2024-06-27 |  |
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-06-27 |  |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:50 | 2024-06-27 |  |
+| [Be with you](https://open.spotify.com/track/3oLmvdygvx8PCbbqUCt7Sl) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Be with you](https://open.spotify.com/album/4bC8Xd8IHkUfFkDf2jIbDQ) | 3:02 | 2024-08-08 |  |
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2024-06-27 |  |
@@ -88,6 +89,7 @@
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2024-06-27 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
 | [Nothing](https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [The Cloud](https://open.spotify.com/album/73AHz9Ih9eiRutHdvq1Zrr) | 3:21 | 2024-06-27 |  |
+| [On My Way](https://open.spotify.com/track/0h3SKxxvHNH3qtFUMtu1dk) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [On My Way](https://open.spotify.com/album/6HbD9kVjMDCqgsEVOxNJmX) | 3:05 | 2024-08-08 |  |
 | [One Last Time](https://open.spotify.com/track/5X84tcnongIeGjTk9T2F3z) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [One Last Time](https://open.spotify.com/album/7bfzD9Ict7jfAxVdg1dgrf) | 3:38 | 2024-07-18 |  |
 | [One More Round](https://open.spotify.com/track/35dJ3LvEcV52F5R17IOFRC) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [One More Round](https://open.spotify.com/album/78Zdxbk2r8xrTa4ivaB50Q) | 3:19 | 2024-06-27 |  |
 | [Only For Me](https://open.spotify.com/track/32nbQpvBnCDtXv59qchVdX) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Only For Me](https://open.spotify.com/album/4FkPEW0c45VA6ANisI3Wod) | 3:30 | 2024-06-27 |  |
@@ -300,6 +302,7 @@
 | [盲盒](https://open.spotify.com/track/7yl5iw9PR3sX4cR3m85Q5h) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [盲盒](https://open.spotify.com/album/6hhy6e1lq8gtgAGCVTogU0) | 4:44 | 2024-07-04 |  |
 | [真話的清高](https://open.spotify.com/track/0wW3KdmRH7K4ruByXTi4Xv) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [真話的清高](https://open.spotify.com/album/54R99UaKuQwZCB4T0yV7FK) | 3:41 | 2024-06-27 |  |
 | [社畜完全體](https://open.spotify.com/track/5zc0B9YxMhanwdDp5D3B9S) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [社畜完全體](https://open.spotify.com/album/3cmzJdniYEVObAZAHS3dqd) | 4:23 | 2024-06-27 |  |
+| [神愛世人](https://open.spotify.com/track/69mgDd4R5jAsa8b8oxZqzF) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [神愛世人](https://open.spotify.com/album/21vSGEeZ3YYGavCLhK2fEA) | 3:43 | 2024-08-08 |  |
 | [神的不在場證明](https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [神的不在場證明](https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD) | 4:32 | 2024-06-27 |  |
 | [私奔記](https://open.spotify.com/track/0XRRL7HKdhOF3AADcuZ4mE) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [私奔記](https://open.spotify.com/album/5WcEqKh7qlndDxeUdM1Evz) | 4:20 | 2024-06-27 |  |
 | [空白 \- 劇集《反黑英雄》插曲](https://open.spotify.com/track/0M2R3vU87nu7iMCiBLAmFx) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [空白 \(劇集《反黑英雄》插曲\)](https://open.spotify.com/album/2qGq3NSnw9VpyaZJhO5GEO) | 4:01 | 2024-07-11 |  |

@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 157124,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P"
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Fallin For U",
+        "url": "https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5"
+      },
+      "artists": [
+        {
+          "name": "Her Revenge",
+          "url": "https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125471,
+      "name": "Fallin For U",
+      "url": "https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS"
+    },
+    {
+      "album": {
         "name": "Her Notions Since '97",
         "url": "https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 201115,
       "name": "Godzilla (feat. Darkovibes, KiddBlack)",
       "url": "https://open.spotify.com/track/5uKodxytjsjSl9yiOHnbJG"
@@ -908,6 +926,24 @@
       "duration_ms": 195537,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4TScWOVUA0ae8vN4OynnPJ"
+    },
+    {
+      "album": {
+        "name": "Krobo Princess",
+        "url": "https://open.spotify.com/album/1wqUzzGSfsUBdZuT51tyYy"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177220,
+      "name": "Krobo Princess",
+      "url": "https://open.spotify.com/track/7JuzZV5N4yqPv8FYoEhFUj"
     },
     {
       "album": {
@@ -1324,7 +1360,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 154285,
       "name": "Pain and Pleasure",
       "url": "https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o"
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 179777,
       "name": "PAIN DIARIES",
       "url": "https://open.spotify.com/track/7xvfAfqdSPrTkz8zWGKvkR"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:4gHYwyqJOALI9pJO1QCzq8">Davies.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,199 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,213 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [I'll Fly Away \(feat\. Heath Balltzglier\)](https://open.spotify.com/track/20bfjEQE9nNGuyGq1czOqz) | [Rock Springs Worship](https://open.spotify.com/artist/5XF3pYy9fAdElrvSVy23hO), [Heath Balltzglier](https://open.spotify.com/artist/3GB2s5tExZuuqiaWGRPM4M) | [Hymns Volume 2](https://open.spotify.com/album/73BfHgx9LIrkhVzHfMVnUd) | 3:05 |
 | 22 | [He Hears Your Voice \(Psalm 105\)](https://open.spotify.com/track/2sOnPlGfnvHzIdNynypx07) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Planted Like Trees](https://open.spotify.com/album/2EjKauawqX9QQDrQ3jLTpS) | 4:53 |
 | 23 | [Abide](https://open.spotify.com/track/7hGFSG56R9y5Lva4qohntu) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [Hymns Updated Vol.1](https://open.spotify.com/album/4X47pPledxiEAfhkJpJiOQ) | 3:59 |
-| 24 | [Broken / Whole \- Live](https://open.spotify.com/track/0fz9ogwFnedPrIKHolRiBA) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX) | [All Broken Things \(Live\)](https://open.spotify.com/album/6vyQ0XVY1AimYETRheLgY9) | 7:27 |
+| 24 | [Broken / Whole \- Live](https://open.spotify.com/track/0fz9ogwFnedPrIKHolRiBA) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop) | [All Broken Things \- Live](https://open.spotify.com/album/6vyQ0XVY1AimYETRheLgY9) | 7:27 |
 | 25 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 26 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 |
 | 27 | [The Fire \- Acoustic](https://open.spotify.com/track/0KAUm5iYpLe29zFfjlXQOn) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [The Fire \(Acoustic\)](https://open.spotify.com/album/0Mz3X84PuEf7NuxC8cPesp) | 4:19 |

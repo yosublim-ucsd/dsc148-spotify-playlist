@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,502 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,503 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 | 42 | [El Matador](https://open.spotify.com/track/3SWdfkBnN5YWgnJ4jKnqxe) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Solo Para Fanáticos](https://open.spotify.com/album/7dNOmvrSi7gvtxQWrG8K8w) | 4:38 |
 | 43 | [Only Memories](https://open.spotify.com/track/0GTJRZEHoE1nssjhtJVuTd) | [Bill Morgan](https://open.spotify.com/artist/3JBT77qabs9oEGFBYVvQ8T) | [The Color of Music: Only Memories](https://open.spotify.com/album/6pNck3BD4P9TtEOy0WqTd6) | 3:06 |
 | 44 | [Me Estas Olvidando](https://open.spotify.com/track/118Zh7ww83PyF7hhZEsdf1) | [Cuarteto Marcano](https://open.spotify.com/artist/1PWkaV1kTFlXVYodv5j1UV) | [Canciones Inolvidables, Vol\. 2](https://open.spotify.com/album/1Pga8T5ol5la7NajABysjX) | 2:47 |
-| 45 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 3:26 |
+| 45 | [Doo Doo Doo Doo Doo \(Heartbreaker\)](https://open.spotify.com/track/0f7VY69zhtS20Xm5PVYCm5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \- Remastered 2009](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 3:26 |
 | 46 | [Los Ejes de Mi Carreta](https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [Viajes Por El Mundo](https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw) | 2:52 |
 | 47 | [Cuatro vidas](https://open.spotify.com/track/4auPnIIC755h0Hi2CeJXat) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Amorcito corazón](https://open.spotify.com/album/16LwPtwJ2WDTagFq5as6rk) | 2:56 |
 | 48 | [Un Minuto De Amor](https://open.spotify.com/track/7vC0Q6NQECtjeN0eSzCXu0) | [Sabú](https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu) | [Grandes Exitos](https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb) | 3:32 |

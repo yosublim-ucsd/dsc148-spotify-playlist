@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: The La Planta
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,673 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,696 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 21 | [Son De Amores](https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Son De Amores](https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd) | 3:01 |
 | 22 | [El Amor de Mi Vida](https://open.spotify.com/track/05cWjA7LG6sizumsbKzjTo) | [Gran Orquesta Internacional](https://open.spotify.com/artist/0MPeKXKU2ugNI2Or2k5tds) | [El Amor de Mi Vida](https://open.spotify.com/album/0xAoluDlNpPmtCJhHUwsRc) | 3:04 |
 | 23 | [¿Qué Pasó Ma'?](https://open.spotify.com/track/71wu8lRShOTLkvY2RWcMMZ) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R) | [¿Qué Pasó Ma'?](https://open.spotify.com/album/25McNRW4S8fJ0kHZY2rSsu) | 2:15 |
-| 24 | [Aventura \- Radio Edit](https://open.spotify.com/track/4tpx3Dt1FigYP9okZT3DvS) | [Tomi Narbondo](https://open.spotify.com/artist/2h6p2myNwThMseeeCZqMFc) | [Aventura \(Radio Edit\)](https://open.spotify.com/album/6DohCod0ZfdCurq8IVNqNU) | 2:02 |
+| 24 | [Aventura \- Radio Edit](https://open.spotify.com/track/4tpx3Dt1FigYP9okZT3DvS) | [Tomi Narbondo](https://open.spotify.com/artist/2h6p2myNwThMseeeCZqMFc) | [Aventura \- Radio Edit](https://open.spotify.com/album/6DohCod0ZfdCurq8IVNqNU) | 2:02 |
 | 25 | [Banana Republic](https://open.spotify.com/track/1HD3quU8cLMZU6r67U3fyK) | [La Mambanegra](https://open.spotify.com/artist/1TCrJDPaqtcTkAEcSl0kBZ), [Jacobo Vélez](https://open.spotify.com/artist/45AaFsWGdjyEWLAzLAsVlP) | [Banana Republic](https://open.spotify.com/album/06pQwFbC5pOLDW6rTXAdqQ) | 3:23 |
 | 26 | [Tomás](https://open.spotify.com/track/5rXWoOYFyVXPCtzY2rJQI4) | [G Face](https://open.spotify.com/artist/4CPPspzSzzSneD86J8DnJe) | [Tomás](https://open.spotify.com/album/3kSbSc0q6Aau0hci2aTo8j) | 2:31 |
 | 27 | [Ya Yo Cambié](https://open.spotify.com/track/4Gecz0KoLzvZXuSeoHTPBD) | [Gato e' Monte](https://open.spotify.com/artist/25lIeZ7Kyh0meagwUiGyTf), [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs) | [Ya Yo Cambié](https://open.spotify.com/album/7tPAoVjBNKa0hyD4A9GyqQ) | 4:20 |

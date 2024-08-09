@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday\. Cover:  <a href="spotify:artist:7yAymwuYh9RcpX84GSNIq2">Josiah Queen</a> & <a href="spotify:artist:7osFcSwjlRPwxZdVALIOuC">Henrik</a>  \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,844 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,995 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

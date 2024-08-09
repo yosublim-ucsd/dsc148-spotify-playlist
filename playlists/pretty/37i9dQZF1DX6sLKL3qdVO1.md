@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Piso 21 y Ozuna en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,482 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,436 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 28 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
 | 29 | [Sisas Nada \(feat\. Hades66\)](https://open.spotify.com/track/5nhCWPCsVXj0uyfSgeTEpk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 3:20 |
 | 30 | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cuando Te Vi \| CROSSOVER \#5](https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI) | 3:38 |
-| 31 | [TURRA & BANDIDA](https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4) | [TURRA & BANDIDA](https://open.spotify.com/album/7nr3Uu80UMSuJT8RAYbzWb) | 2:36 |
+| 31 | [TURRA & BANDIDA](https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURRA & BANDIDA](https://open.spotify.com/album/7nr3Uu80UMSuJT8RAYbzWb) | 2:36 |
 | 32 | [No Ponga Excusas](https://open.spotify.com/track/21hsqOOUfdSjHi3SVz8oyv) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [No Ponga Excusas](https://open.spotify.com/album/3j9j0wgXwhQyr4urIIkfL4) | 2:44 |
 | 33 | [PUSHI PASHI](https://open.spotify.com/track/0tfjYr9QC8UBR5i0wGlcPV) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [PUSHI PASHI](https://open.spotify.com/album/6UHVd0ey6p0C7xpcNvZBuq) | 3:13 |
 | 34 | [Maquillaje \- Remix](https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje \(feat\. Yexel\) \[Remix\]](https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ) | 4:46 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: ADI, rares",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andrei Ursu ",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 183000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/4Esp2NsgjiutkU3K7khzGZ"
+    },
+    {
+      "album": {
+        "name": "VANILLA BOY",
+        "url": "https://open.spotify.com/album/206zVYtuYhyAV3JdVyVoPv"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Apari \u00een vise",
+      "url": "https://open.spotify.com/track/5JA2h10ZUi5vAEZViXJamz"
     },
     {
       "album": {
@@ -230,7 +248,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 182654,
       "name": "Cerul",
       "url": "https://open.spotify.com/track/2eDzUqD9Lzq54IiH5nwqJR"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 139469,
       "name": "Haide",
       "url": "https://open.spotify.com/track/6ku4rF1Cf0dnIBULuHfswR"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 147735,
       "name": "Hearts in Stereo - Radio Edit",
       "url": "https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI"
@@ -764,7 +782,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 163623,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/1KEPKvUUcD6xzDjRr66zix"
@@ -971,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp"
+    },
+    {
+      "album": {
         "name": "Paharul sus",
         "url": "https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z"
       },
@@ -1056,6 +1092,46 @@
       "duration_ms": 176347,
       "name": "Peste mari (si mai departe)",
       "url": "https://open.spotify.com/track/01Zep4W0cA2H0WvjzyhX9Q"
+    },
+    {
+      "album": {
+        "name": "Petre PETREcere",
+        "url": "https://open.spotify.com/album/7tX7AjobPAFV40oEJlvkQi"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "CRBL",
+          "url": "https://open.spotify.com/artist/6J1tX83VM6Yf5d2Gx79fFP"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Petre PETREcere",
+      "url": "https://open.spotify.com/track/4SSi7MmPW6ezSsNfZBp4xP"
+    },
+    {
+      "album": {
+        "name": "Pierde Vara",
+        "url": "https://open.spotify.com/album/0wHgl70qHZ0Z0ghACxg4Z1"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175507,
+      "name": "Pierde Vara",
+      "url": "https://open.spotify.com/track/3WFs2YbpuhYViZHUnALLO6"
     },
     {
       "album": {
@@ -1190,6 +1266,24 @@
       "duration_ms": 183652,
       "name": "S\u0103 mai petrecem",
       "url": "https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk"
+    },
+    {
+      "album": {
+        "name": "TE IUBESC CUM POT",
+        "url": "https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "TE IUBESC CUM POT",
+      "url": "https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo"
     },
     {
       "album": {

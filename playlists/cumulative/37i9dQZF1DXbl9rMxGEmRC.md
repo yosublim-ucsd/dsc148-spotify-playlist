@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-653 songs - 2 day 7 hr 36 min
+654 songs - 2 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Reluctance of Being](https://open.spotify.com/track/1lWTj52J0d7kVVdiHD63TH) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [VOID](https://open.spotify.com/album/0h4IKieMCRbXIit4uQ1PWQ) | 6:56 | 2023-09-22 | 2023-11-18 |
 | [A TASTE OF THE AMBROSIA](https://open.spotify.com/track/4MVPc7byRVEiwGACOIKPXY) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [IHSAHN](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE) | 4:23 | 2024-02-16 |  |
 | [A World Of Pain](https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Here For None](https://open.spotify.com/album/03CPGRDNYWE7pmA9yXDdNa) | 3:09 | 2023-08-18 |  |
-| [Aamunkoi](https://open.spotify.com/track/7I56BHRWuizDEWVFurrPfH) | [Vorna](https://open.spotify.com/artist/3uQtxIjBgrF7vGOt54useD) | [Aamunkoi](https://open.spotify.com/album/2cLv2BMvzrNZTaFEUl6PMd) | 5:47 | 2024-03-22 |  |
+| [Aamunkoi](https://open.spotify.com/track/7I56BHRWuizDEWVFurrPfH) | [Vorna](https://open.spotify.com/artist/3uQtxIjBgrF7vGOt54useD) | [Aamunkoi](https://open.spotify.com/album/2cLv2BMvzrNZTaFEUl6PMd) | 5:47 | 2024-03-22 | 2024-08-09 |
 | [Abhorrence Evangelium](https://open.spotify.com/track/0QiIMQ7u0BDw08z5htgmBt) | [Cruciamentum](https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy) | [Abhorrence Evangelium](https://open.spotify.com/album/0u4f10JDYcUdiz4NVfPwmu) | 4:48 | 2023-09-26 | 2023-11-02 |
 | [Abhorrence Evangelium](https://open.spotify.com/track/3fz3Png857RYvZmdcL8ocr) | [Cruciamentum](https://open.spotify.com/artist/4cM4Vlx41zMs5lLQcSFlTy) | [Obsidian Refractions](https://open.spotify.com/album/0VvMZFEVO4QlF8z9JwzKd5) | 4:48 | 2023-12-15 | 2024-02-17 |
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2024-07-23 |
@@ -83,6 +83,7 @@
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq) | 4:25 | 2022-07-13 |  |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 4:25 | 2022-07-13 | 2024-04-19 |
 | [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 | 2023-02-15 | 2024-03-22 |
+| [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-08 |  |
 | [Bringer of Vengeance](https://open.spotify.com/track/4PV9Gly5KxQM0WColNUNZJ) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Bringer of Vengeance](https://open.spotify.com/album/2o4FnivXVJz7SnMqJKfvuO) | 3:53 | 2023-05-19 | 2023-08-28 |
 | [Bringer of Vengeance](https://open.spotify.com/track/4Q3lr24GiSf4NALTRHjFZj) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Goliath](https://open.spotify.com/album/0wJBlM3pHLvc2JwMYXVzPv) | 3:53 | 2023-08-25 | 2024-04-19 |
 | [Bruja Encabronada](https://open.spotify.com/track/3owfKm1HAs3FiyZ5o7DkNM) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Bruja Encabronada](https://open.spotify.com/album/0A47RiigR3Kic8hhr3zbvj) | 2:47 | 2023-08-18 | 2023-11-18 |

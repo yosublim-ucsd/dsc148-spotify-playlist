@@ -2,7 +2,7 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Youssef Swatt's
+> Les plus belles plumes rap français du moment\. Photo : LauCarré
 
 48 songs - 2 hr 43 min
 

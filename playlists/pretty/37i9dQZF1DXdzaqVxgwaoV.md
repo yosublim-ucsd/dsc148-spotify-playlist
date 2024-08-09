@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,909 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,907 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 31 | [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva \(Vol\. 1\)](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 |
 | 32 | [El Viejo del Sombrerón](https://open.spotify.com/track/25iCMmoIUHmuD3tQJ8Pplw) | [La Sonora Dinamita](https://open.spotify.com/artist/7bLJ7Df6FLgzVjMzt9Tult) | [Colección Oro la Sonora Dinamita \(Vol\. 6\)](https://open.spotify.com/album/5ulGGeGlvyx9ugZ42cPuzm) | 4:11 |
 | 33 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 |
-| 34 | [Los Fariseos](https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [Recuerdos Vol\. 1](https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02) | 4:49 |
-| 35 | [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 |
+| 34 | [No Quiero Envejecer](https://open.spotify.com/track/4oWkXxFobLO06BuukbpBL0) | [Lucho Y Rafa](https://open.spotify.com/artist/6Pu5b4setBpB9JAwoOyg3x) | [Colección Oro del Vallenato \(Vol\. 1\)](https://open.spotify.com/album/5shK0OWmh8kNDMpJNoFJH6) | 2:59 |
+| 35 | [Los Fariseos](https://open.spotify.com/track/56FnzYd9Ms90sKVCBZ3g1q) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [Recuerdos Vol\. 1](https://open.spotify.com/album/7b4tYADHIVP4G5NSfMNP02) | 4:49 |
 | 36 | [Ojitos Hechiceros](https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 |
 | 37 | [Sorbito De Champagne](https://open.spotify.com/track/4WiBMg15y8pGL1AwTowX42) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:31 |
 | 38 | [Micaela](https://open.spotify.com/track/1S76g6wBx7YGlO6XEFTG8L) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold](https://open.spotify.com/artist/4R5fxip31MUAZnwwSgdlmI) | [Salsa Pa Bacanes](https://open.spotify.com/album/7K6HRnSQFKGbFTtct2wFFu) | 4:53 |

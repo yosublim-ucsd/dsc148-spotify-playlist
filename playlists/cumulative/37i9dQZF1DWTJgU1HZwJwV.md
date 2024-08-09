@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-500 songs - 21 hr 12 min
+503 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Delilah](https://open.spotify.com/track/3F5CznF1pxGnp7VVfurpF5) | [Airha](https://open.spotify.com/artist/4W5YiwSV3FFONREMRYXWMu) | [Delilah](https://open.spotify.com/album/7l8ACxfIyslVvGppzk6ma0) | 2:36 | 2022-06-17 | 2023-09-29 |
 | [Descansando](https://open.spotify.com/track/77WrxZPDUBedSnspuu0b6n) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Descansando](https://open.spotify.com/album/78xPfC9TQHw0P3FbmYQBLY) | 2:34 | 2022-06-17 | 2023-01-20 |
 | [Desencontros](https://open.spotify.com/track/6vbpxDK5U8xRv73qgGOnj4) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Desencontros](https://open.spotify.com/album/5Ysc8jx2jpcgbuB5U5Azp9) | 2:41 | 2024-02-23 |  |
+| [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 | 2024-08-08 |  |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2022-06-17 | 2024-06-28 |
 | [Donegal](https://open.spotify.com/track/51760UCr1H0wFGIeNlZg2F) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Donegal](https://open.spotify.com/album/4aPfvkL9aJn4yozAV8Hift) | 2:36 | 2023-10-13 |  |
 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 | 2022-06-17 | 2022-09-09 |
@@ -147,6 +148,7 @@
 | [Erwachen der Berge](https://open.spotify.com/track/05VGUOV68jMyJEc2iTRId8) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Salzburger Winter](https://open.spotify.com/album/5vYvjK1qarprGS6dmqb8xr) | 3:04 | 2022-11-25 |  |
 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 | 2024-02-02 |  |
 | [Etude in E Minor](https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Etude in E Minor](https://open.spotify.com/album/28eDubaBkCUwj6Q78b6F20) | 1:12 | 2022-06-17 | 2023-02-25 |
+| [Every once in a while](https://open.spotify.com/track/6WjpwVoanq3l6MscaM7mUq) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Every once in a while](https://open.spotify.com/album/3WmAYO4PgPnUqFYe9ow9Nm) | 2:36 | 2024-08-08 |  |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 | 2023-06-03 |
 | [Fading](https://open.spotify.com/track/0ZwBaPxoP5ZSRgatkKL2fw) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Fading](https://open.spotify.com/album/05etcA6OhrOp3ekvaClyEh) | 2:04 | 2022-06-17 | 2022-12-24 |
 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-10 |  |
@@ -320,6 +322,7 @@
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
 | [Onschuldig](https://open.spotify.com/track/7hbyxj6HhOnSp8onGh75Se) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Onschuldig](https://open.spotify.com/album/4CO5kHoKQocEwUeEMt2Cue) | 2:23 | 2022-06-17 | 2024-05-10 |
 | [Open Pastures](https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Open Pastures](https://open.spotify.com/album/3TmObRJYYizSF72Qs9IY5K) | 3:17 | 2024-02-23 |  |
+| [Open Plain](https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Open Plain](https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh) | 2:52 | 2024-08-08 |  |
 | [Oratorio](https://open.spotify.com/track/0szJMi1UBk6b5SftVSvWYW) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Oratorio](https://open.spotify.com/album/50tcBrMk7BjbwSNgUsv67V) | 2:02 | 2022-06-17 | 2023-09-08 |
 | [Orchard](https://open.spotify.com/track/3udeKOIb6qvbKSYY9bH3Bs) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Orchard](https://open.spotify.com/album/5SUnMSFU8b3FnHmZ5v2NIT) | 2:36 | 2022-06-17 | 2023-03-10 |
 | [Ordinary Sunday](https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Ordinary Sunday](https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7) | 2:44 | 2024-05-10 |  |

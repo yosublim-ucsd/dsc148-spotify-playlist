@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Elodie sulla cover della più grande playlist in Italia! 🏆
+> Fedez ed Emis Killa sulla cover della più grande playlist in Italia! 🏆
 
 66 songs - 3 hr 18 min
 

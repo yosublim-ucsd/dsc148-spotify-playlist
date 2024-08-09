@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vamo saí qqer dia?
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,198 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,186 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 5 | [Lana](https://open.spotify.com/track/6njzueGON26Kj3dy0wQUxs) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Lana](https://open.spotify.com/album/0EOvuq1kpXFM5N6ZUCfZj5) | 2:51 |
 | 6 | [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 |
 | 7 | [Pedaço de Mim](https://open.spotify.com/track/2fEgPCDD0qRvZeVrY381EW) | [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c) | [Pedaço de Mim](https://open.spotify.com/album/0msDENReQijY9ggVdqOw9B) | 3:22 |
-| 8 | [Rubi](https://open.spotify.com/track/3SOiQUQ988zKilwom5t0tS) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Rubi](https://open.spotify.com/album/4kEjE9IxjZuHveMQ62t6bw) | 3:27 |
+| 8 | [Rubi](https://open.spotify.com/track/3SOiQUQ988zKilwom5t0tS) | [Aldeia Records \| Andrade \| Kawe](https://open.spotify.com/artist/3AsoqefktNgBroFGCNTueO), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ) | [Rubi](https://open.spotify.com/album/4kEjE9IxjZuHveMQ62t6bw) | 3:27 |
 | 9 | [Cosplay de Amor da Minha Vida](https://open.spotify.com/track/7l8VsccVXfcUD6tYmiKxzI) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Cosplay de Amor da Minha Vida](https://open.spotify.com/album/3riQ42qoo9R4V7OSA9XoeU) | 3:01 |
 | 10 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
 | 11 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 |

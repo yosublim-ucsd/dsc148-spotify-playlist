@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
 
-494 songs - 1 day 5 hr 28 min
+495 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Good Time](https://open.spotify.com/track/13bC2RZHqYhWOdUiMAH4O1) | [Filthy Hippies](https://open.spotify.com/artist/69KIxpkIadv1nMT3h6G8bC) | [Good Time](https://open.spotify.com/album/4m93HqALWDte1O3e6uIvm6) | 4:52 | 2023-08-11 | 2023-09-29 |
 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 | 2023-12-14 | 2024-04-13 |
 | [Goodbye](https://open.spotify.com/track/7CcnVBrlWIS8LSyxFWAaMN) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/3pKC1FFpmpRPhu1qsD0MH9) | 3:58 | 2023-12-14 | 2023-12-16 |
-| [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 | 2024-07-04 |  |
+| [Gooi Kole](https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:51 | 2024-07-04 | 2024-08-09 |
 | [Goue Lokke](https://open.spotify.com/track/1cgeBbPkPmJNMzvwg6nCQL) | [Skelm](https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD) | [Vreemd](https://open.spotify.com/album/3QhqEsWuvMdvBEcVXWb5UM) | 3:42 | 2023-07-06 | 2023-11-25 |
 | [Greetings from The Room](https://open.spotify.com/track/4AOimaZwuTMPO6PFYCZ0VE) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Eating Dirt](https://open.spotify.com/album/43wjvldlI53z3hfRxRX4rO) | 3:16 | 2023-06-01 | 2023-07-07 |
 | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/track/6jszxDsTnpI6xOeBuJ3l8K) | [Lincoln Hunter](https://open.spotify.com/artist/1pDMcSajVybIxvEbeazPG1) | [H.F.A.Y\. \(How Fake Are You\)](https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK) | 3:19 | 2023-05-11 | 2023-07-29 |
@@ -305,6 +305,7 @@
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |
 | [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 | 2024-05-09 | 2024-07-06 |
+| [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 | 2024-08-01 |  |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 | 2023-03-31 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2023-05-06 |
 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 | 2024-07-04 | 2024-07-22 |

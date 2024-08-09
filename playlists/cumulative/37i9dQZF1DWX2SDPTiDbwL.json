@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "San Lorenzo",
+        "url": "https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW"
+      },
+      "artists": [
+        {
+          "name": "Serenity State of Mind",
+          "url": "https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128376,
+      "name": "San Lorenzo",
+      "url": "https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M"
+    },
+    {
+      "album": {
         "name": "Acoustic Flamenco",
         "url": "https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp"
       },

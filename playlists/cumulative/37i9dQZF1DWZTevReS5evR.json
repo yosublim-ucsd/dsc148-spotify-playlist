@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Badut Baru",
+        "url": "https://open.spotify.com/album/2hHIt7x4I5MPMUiAwNkQcZ"
+      },
+      "artists": [
+        {
+          "name": "dbatlayar",
+          "url": "https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237659,
+      "name": "Badut Baru",
+      "url": "https://open.spotify.com/track/2cvKEBxlLOjAWYhsDwOvRC"
+    },
+    {
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },

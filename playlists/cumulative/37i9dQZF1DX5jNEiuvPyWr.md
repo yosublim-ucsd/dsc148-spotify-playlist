@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : J9ueve
+> Le meilleur du rap français version cloud\. Photo : Elh Kmer
 
-414 songs - 20 hr 17 min
+415 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [LA LUNE](https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:33 | 2024-07-11 |  |
 | [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 |  |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
+| [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 |  |
 | [LA VIE EN ROSE](https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [LA VIE EN ROSE](https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ) | 3:00 | 2023-08-24 | 2023-11-24 |
 | [La Villa](https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4) | [Rouge Carmin](https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS) | [La Villa](https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54) | 2:26 | 2023-05-18 | 2023-06-23 |
 | [LAISSE](https://open.spotify.com/track/71ZFzJ4Hc1OSnIZZ2tsX50) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [LAISSE](https://open.spotify.com/album/0Y0vM2ITnQXTjWzfY9Z9oA) | 2:44 | 2023-05-25 | 2023-09-08 |
@@ -302,7 +303,7 @@
 | [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-03-07 |  |
 | [Paro](https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO) | [HB VIZ](https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I) | [Paro](https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh) | 2:44 | 2024-02-29 | 2024-05-17 |
 | [PAS DE CE MONDE](https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [PAS DE CE MONDE](https://open.spotify.com/album/3oYNnQnjfucofFcjlPoNJL) | 2:28 | 2023-06-29 | 2023-08-25 |
-| [Perdants magnifiques](https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [L'aube d'un nouveau jour](https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3) | 3:15 | 2024-05-30 |  |
+| [Perdants magnifiques](https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [L'aube d'un nouveau jour](https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3) | 3:15 | 2024-05-30 | 2024-08-09 |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
 | [PERDU](https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb) | [Vadek](https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv), [Demas](https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG) | [PERDU](https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg) | 3:15 | 2023-05-04 | 2023-05-26 |
 | [PERDU D'AVANCE](https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [PERDU D'AVANCE](https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW) | 3:00 | 2023-05-04 | 2023-06-09 |

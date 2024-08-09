@@ -1,12 +1,12 @@
 {
-  "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 677727,
+  "description": "This is Calibre 50. The essential tracks, all in one playlist.",
+  "num_followers": 677818,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAABEzFYJitDw5OLQZ+3w67vi",
+  "snapshot_id": "ZrK5AAAAAAAiTMX3g9zrOxq/Z5UelnAq",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Recompensa",
         "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
       },
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN"
+      "duration_ms": 173893,
+      "name": "Tus Latidos",
+      "url": "https://open.spotify.com/track/14TyEaSTlt6b8hWYp6reW6"
     },
     {
       "added_at": null,
@@ -571,42 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
-        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
-      },
-      "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
-      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "Tus Latidos",
-      "url": "https://open.spotify.com/track/14TyEaSTlt6b8hWYp6reW6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Recompensa",
         "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 126880,
       "name": "Las Ultras",
       "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
+        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 228461,
+      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
+      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Corrido De Feliciano",
-      "url": "https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 213466,
       "name": "La Tatema",
       "url": "https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Corrido De Feliciano",
+      "url": "https://open.spotify.com/track/7upt6IQmVLTZQ1nCMlhieZ"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "La Propuesta",
-      "url": "https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 213466,
       "name": "Frijoles Con Panela",
       "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "La Propuesta",
+      "url": "https://open.spotify.com/track/5Dq04Hp51VFQyFPVp1aMIO"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Alto Calibre",
-        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "El Inmigrante",
-      "url": "https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Sinaloa Para El Mundo",
         "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 193960,
       "name": "Te Estoy Enga\u00f1ando Con Otra",
       "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Alto Calibre",
+        "url": "https://open.spotify.com/album/1YKiiRFhUVaLMVEu0l59Ri"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "El Inmigrante",
+      "url": "https://open.spotify.com/track/5WKg2K0SaM2qCZQefNchcu"
     },
     {
       "added_at": null,

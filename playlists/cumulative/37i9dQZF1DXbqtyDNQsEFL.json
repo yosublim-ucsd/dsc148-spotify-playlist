@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=4xD-kH0vQt2t8vcRGj963A>Theresa Phondo</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=hfVLax0ZRnanNGVT_IilVw>Ada Ehi</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 387749,
       "name": "Amen Amen",
       "url": "https://open.spotify.com/track/45beXwi0eSva0HfDDZJhjR"
+    },
+    {
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
     },
     {
       "album": {
@@ -750,7 +768,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 208588,
       "name": "Blessing Now",
       "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
@@ -1396,6 +1414,24 @@
       "duration_ms": 257693,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3uX0W1YKOJHanqyZaNJ81D"
+    },
+    {
+      "album": {
+        "name": "Definitely",
+        "url": "https://open.spotify.com/album/1N3vhfw1XG6hRVvrJsDRYV"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228893,
+      "name": "Definitely",
+      "url": "https://open.spotify.com/track/6UeeHWPfpgo6wArO2H9KQL"
     },
     {
       "album": {
@@ -5774,7 +5810,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 97857,
       "name": "S.E.L.F",
       "url": "https://open.spotify.com/track/5ebiW0NaOwjhQTqegf4liq"

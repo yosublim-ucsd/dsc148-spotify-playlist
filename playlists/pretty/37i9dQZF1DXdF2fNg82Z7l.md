@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > A chill Hip Hop vibe\. Cover: Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,445 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,437 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 18 | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [One Bad Decision \(feat\. Ella Mai & Roddy Ricch\)](https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF) | 3:46 |
 | 19 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 20 | [Hine Mokemoke](https://open.spotify.com/track/4BSAUKqRWOqa3iJOR9sMhC) | [Manu Taupunga](https://open.spotify.com/artist/6XSNGvb2biMXpHDONRHsov), [TAWAZ](https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Jordyn With A Why](https://open.spotify.com/artist/2igZcMGamsG4GPyzwsdCA4), [MĀ](https://open.spotify.com/artist/0OziqXKq6ay0gUOPtNI7Gs), [Chase Woods](https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V), [Dillastrate](https://open.spotify.com/artist/0KJcXwyLf2gkK55nvELoSp), [Mārei](https://open.spotify.com/artist/6Nm9nZI275eUmT5opWq4by) | [Hine Mokemoke](https://open.spotify.com/album/27SIjVmMlFWdebkZe9K1W2) | 3:30 |
-| 21 | [RECIPE FOR LOVE \(feat\. Future\)](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
+| 21 | [RECIPE FOR LOVE](https://open.spotify.com/track/5KNLLkfuXXMgpAMHZ8MqOZ) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [RECIPE FOR LOVE](https://open.spotify.com/album/0e52eYp0fZi8uHnF0EZdRl) | 2:52 |
 | 22 | [Weh She Wan](https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Weh She Wan](https://open.spotify.com/album/27IuYlhsQN5HSvtGTyvjKi) | 1:54 |
 | 23 | [LIFE](https://open.spotify.com/track/2axnjAcEzVVXRuJDxSqRsW) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [SL500](https://open.spotify.com/album/4Y86Y0xdEgOZTfL0g3ZA1O) | 1:32 |
 | 24 | [Fires](https://open.spotify.com/track/7tuplUZWycOudn832iuQk3) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Fires](https://open.spotify.com/album/5Bcp5nraUtNgfvinzOwV0A) | 2:04 |

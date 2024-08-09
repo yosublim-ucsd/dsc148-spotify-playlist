@@ -1,13 +1,29 @@
 {
-  "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 7433,
+  "description": "This is Linked Horizon. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
+  "num_followers": 7436,
   "original_name": "This Is Linked Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAAC+LATUls9AASe9ZvAo+22p",
+  "snapshot_id": "ZrK5AAAAAAA8CgmImABDwvLq+w8FaTd/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "duration_ms": 315513,
+      "name": "Guren no Yumiya",
+      "url": "https://open.spotify.com/track/3rpT3WyJmeIPZTZPuljFOq"
+    },
     {
       "added_at": null,
       "album": {
@@ -84,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 310680,
-      "name": "Guren no Yumiya",
-      "url": "https://open.spotify.com/track/70p3HYq9iHZisJqpDmWd1U"
+      "duration_ms": 331946,
+      "name": "Jiyuu no Tsubasa",
+      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
     },
     {
       "added_at": null,
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 331946,
-      "name": "Jiyuu no Tsubasa",
-      "url": "https://open.spotify.com/track/188vCXc4bAejLqGhpEVBGT"
+      "duration_ms": 306480,
+      "name": "Guren no Zahyou",
+      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
     },
     {
       "added_at": null,
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 306480,
-      "name": "Guren no Zahyou",
-      "url": "https://open.spotify.com/track/5CEBVy6ywqHcEOuFThtjEJ"
+      "duration_ms": 349693,
+      "name": "Jiyuu no Daishou",
+      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
     },
     {
       "added_at": null,
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 349693,
-      "name": "Jiyuu no Daishou",
-      "url": "https://open.spotify.com/track/0Cd4mvL1nALj6QCCk2wpHf"
+      "duration_ms": 327040,
+      "name": "Nikagetsugo no Kimi e",
+      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
     },
     {
       "added_at": null,
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Nikagetsugo no Kimi e",
-      "url": "https://open.spotify.com/track/7IMuezAZparajKkgkCMalN"
+      "duration_ms": 305386,
+      "name": "Souyoku no Hikari",
+      "url": "https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6"
     },
     {
       "added_at": null,

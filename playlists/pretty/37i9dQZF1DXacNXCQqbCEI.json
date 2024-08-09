@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353154,
+  "num_followers": 353167,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Bleu de lune (El Buho Remix)",
-        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
       },
       "artists": [
         {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Bleu de lune (El Buho Remix)",
-      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -483,18 +479,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+        "name": "Bleu de lune (El Buho Remix)",
+        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
       "artists": [
         {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
+      "duration_ms": 281100,
+      "name": "Bleu de lune (El Buho Remix)",
+      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Mi Naturaleza",
-        "url": "https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO"
-      },
-      "artists": [
-        {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
-        },
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        }
-      ],
-      "duration_ms": 263299,
-      "name": "Mi Naturaleza - Montoya Remix",
-      "url": "https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Fuego Nuevo",
         "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Mi Naturaleza",
+        "url": "https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO"
+      },
+      "artists": [
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        },
+        {
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        }
+      ],
+      "duration_ms": 263299,
+      "name": "Mi Naturaleza - Montoya Remix",
+      "url": "https://open.spotify.com/track/0FTv9c0vGeq5fMTI1Wz8Ko"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Alientos",
         "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+      },
+      "artists": [
+        {
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Dub de Gaita",
         "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "No Soy Tu Princesa (Remix)",
+        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Verito Asprilla",
+          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "No Soy Tu Princesa - Remix",
+      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Vayay\u00f3",
         "url": "https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf"
       },
@@ -991,46 +1011,6 @@
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Ag\u00fcita del Equilibrio (Remix)",
-        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        }
-      ],
-      "duration_ms": 287387,
-      "name": "Ag\u00fcita del Equilibrio - Remix",
-      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Amanecer\u00e1 (Bial Hclap Remix)",
-        "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
-      },
-      "artists": [
-        {
-          "name": "Monta\u00f1era",
-          "url": "https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv"
-        },
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Amanecer\u00e1 - Bial Hclap Remix",
-      "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1079,42 +1059,42 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Bamb\u00fa",
-        "url": "https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw"
+        "name": "Ag\u00fcita del Equilibrio (Remix)",
+        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
       },
       "artists": [
         {
-          "name": "Killabeatmaker",
-          "url": "https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         },
         {
-          "name": "Pap\u00e1 Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK"
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
         }
       ],
-      "duration_ms": 246116,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
+      "duration_ms": 287387,
+      "name": "Ag\u00fcita del Equilibrio - Remix",
+      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "No Soy Tu Princesa (Remix)",
-        "url": "https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX"
+        "name": "Amanecer\u00e1 (Bial Hclap Remix)",
+        "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Monta\u00f1era",
+          "url": "https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv"
         },
         {
-          "name": "Verito Asprilla",
-          "url": "https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm"
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
         }
       ],
-      "duration_ms": 190840,
-      "name": "No Soy Tu Princesa - Remix",
-      "url": "https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1"
+      "duration_ms": 186818,
+      "name": "Amanecer\u00e1 - Bial Hclap Remix",
+      "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1131,6 +1111,26 @@
       "duration_ms": 289186,
       "name": "Altamar",
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Bamb\u00fa",
+        "url": "https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw"
+      },
+      "artists": [
+        {
+          "name": "Killabeatmaker",
+          "url": "https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb"
+        },
+        {
+          "name": "Pap\u00e1 Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK"
+        }
+      ],
+      "duration_ms": 246116,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

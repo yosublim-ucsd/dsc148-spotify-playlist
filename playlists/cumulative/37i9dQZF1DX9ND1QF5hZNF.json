@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6tDQ5caQ1cI7evDQLDob9A"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/6xUViUjqotLYw8QawZvadu"
+    },
+    {
+      "album": {
         "name": "6 De La Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1giPJnE8jnkO7qwNmhX01Y"
       },
@@ -1217,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/1VPkd0jllnBLNs6GOq7474"
+      },
+      "artists": [
+        {
+          "name": "Sunwaves",
+          "url": "https://open.spotify.com/artist/6KcoE2oco22TIP1YOQmgBm"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/2TMkbettqxII64hN78QemR"
+    },
+    {
+      "album": {
         "name": "Here Comes The Sun",
         "url": "https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go"
       },
@@ -1378,7 +1422,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 137478,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP"
@@ -1576,7 +1620,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"

@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 645492,
+  "num_followers": 645464,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoJwEAAAAAAsYa4EDY9ccmICa/2bYkz3",
+  "snapshot_id": "ZrS6GwAAAABkhmri94e6v4dPRKyH0vRs",
   "tracks": [
+    {
+      "added_at": "2024-08-08 12:29:15",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
     {
       "added_at": "2024-07-01 09:00:00",
       "album": {

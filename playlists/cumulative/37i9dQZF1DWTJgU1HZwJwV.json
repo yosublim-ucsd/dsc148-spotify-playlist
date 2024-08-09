@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Despegue",
+        "url": "https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA"
+      },
+      "artists": [
+        {
+          "name": "Nuria Polanka",
+          "url": "https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Despegue",
+      "url": "https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B"
+    },
+    {
+      "album": {
         "name": "Clinton Hill",
         "url": "https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI"
       },
@@ -2536,6 +2554,24 @@
       "duration_ms": 72557,
       "name": "Etude in E Minor",
       "url": "https://open.spotify.com/track/3u45JX41lqnh8WzV8ikoTG"
+    },
+    {
+      "album": {
+        "name": "Every once in a while",
+        "url": "https://open.spotify.com/album/3WmAYO4PgPnUqFYe9ow9Nm"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156767,
+      "name": "Every once in a while",
+      "url": "https://open.spotify.com/track/6WjpwVoanq3l6MscaM7mUq"
     },
     {
       "album": {
@@ -5654,6 +5690,24 @@
       "duration_ms": 197228,
       "name": "Open Pastures",
       "url": "https://open.spotify.com/track/2sSWgsRb6pnITqMOQSGuIR"
+    },
+    {
+      "album": {
+        "name": "Open Plain",
+        "url": "https://open.spotify.com/album/2vvuoGBQR3Lk5mFYyK6Qzh"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172164,
+      "name": "Open Plain",
+      "url": "https://open.spotify.com/track/0kEVXbpsHvWRrwxw5V4ztc"
     },
     {
       "album": {

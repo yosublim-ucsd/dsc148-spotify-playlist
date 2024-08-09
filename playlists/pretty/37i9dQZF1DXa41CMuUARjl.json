@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Gryffin",
-  "num_followers": 489686,
+  "num_followers": 489799,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Stranger's Town",
+        "url": "https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "ZOE ASKA",
+          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Stranger's Town",
+      "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Type of Girl",
         "url": "https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ"
       },
@@ -971,22 +991,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Stranger's Town",
-        "url": "https://open.spotify.com/album/18TszgLDusxrAqAoQbM75t"
+        "name": "Monkey Madness",
+        "url": "https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu"
       },
       "artists": [
         {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "ZOE ASKA",
-          "url": "https://open.spotify.com/artist/5qzcJvz7hZinbSGukeZ8kE"
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Stranger's Town",
-      "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
+      "duration_ms": 169460,
+      "name": "Monkey Madness",
+      "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 166341,
       "name": "If You Need Me",
       "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Monkey Madness",
-        "url": "https://open.spotify.com/album/07cUEdpfFryZ8bSLXGnJdu"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 169460,
-      "name": "Monkey Madness",
-      "url": "https://open.spotify.com/track/3Q4vHc6CP35g7h9rqqwCcA"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1067,26 +1067,6 @@
       "duration_ms": 164129,
       "name": "Hold My Love (feat. Piper Byers)",
       "url": "https://open.spotify.com/track/6DagmGXA13lYuPCI2ZUDRt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Moonwalk Season",
-        "url": "https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Waterm\u00e4t",
-          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
-        }
-      ],
-      "duration_ms": 161794,
-      "name": "Moonwalk Season",
-      "url": "https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1135,18 +1115,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "SO WHAT",
-        "url": "https://open.spotify.com/album/26OBK5ltVNsRhw9EtCtYa1"
+        "name": "Moonwalk Season",
+        "url": "https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
         }
       ],
-      "duration_ms": 195929,
-      "name": "SO WHAT",
-      "url": "https://open.spotify.com/track/2rYv2giHFPi4UDRlNUWh6D"
+      "duration_ms": 161794,
+      "name": "Moonwalk Season",
+      "url": "https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "IN THE ZONE",
+        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        }
+      ],
+      "duration_ms": 169985,
+      "name": "IN THE ZONE",
+      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "IN THE ZONE",
-        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
+        "name": "SO WHAT",
+        "url": "https://open.spotify.com/album/26OBK5ltVNsRhw9EtCtYa1"
       },
       "artists": [
         {
-          "name": "Ryan Nevis",
-          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 169985,
-      "name": "IN THE ZONE",
-      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
+      "duration_ms": 195929,
+      "name": "SO WHAT",
+      "url": "https://open.spotify.com/track/2rYv2giHFPi4UDRlNUWh6D"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/3Je3eKWetXLlHlL2sna87F"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        },
-        {
-          "name": "SOH SOH",
-          "url": "https://open.spotify.com/artist/57bZARCXfFj5fkB5BxHzfs"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/48KGR8WF4VcJAPg2w38B8T"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/1v7NEaaCbXK3D33LpieV8w"
       },
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/3Je3eKWetXLlHlL2sna87F"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "SOH SOH",
+          "url": "https://open.spotify.com/artist/57bZARCXfFj5fkB5BxHzfs"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/48KGR8WF4VcJAPg2w38B8T"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Dancing",
         "url": "https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "signals",
-        "url": "https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "promises",
-      "url": "https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/5RpTyuZF4bXLyZnBBLYmS3"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 423500,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/1nwRy8psfxOaVwqEfMKt1S"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "signals",
+        "url": "https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "promises",
+      "url": "https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1355,6 +1355,42 @@
       "duration_ms": 179386,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/0tIrNpRWm8oQfOLeYiTocg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Zodiak",
+        "url": "https://open.spotify.com/album/6TXTeyBXwdcOfP9m2tydVb"
+      },
+      "artists": [
+        {
+          "name": "MIRAC SARI",
+          "url": "https://open.spotify.com/artist/1vKCIheOd4vETq6TWMqE3P"
+        }
+      ],
+      "duration_ms": 132218,
+      "name": "Zodiak",
+      "url": "https://open.spotify.com/track/0j9165VbruKP7ORuqkVXhX"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "LYSS EP",
+        "url": "https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Daemon",
+          "url": "https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Parabellum",
+      "url": "https://open.spotify.com/track/0Uy2wbMiudT1PmJCpyxo1x"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1395,42 +1431,6 @@
       "duration_ms": 143706,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/5VGrJSCcGw0EkRXVrSRBOm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Zodiak",
-        "url": "https://open.spotify.com/album/6TXTeyBXwdcOfP9m2tydVb"
-      },
-      "artists": [
-        {
-          "name": "MIRAC SARI",
-          "url": "https://open.spotify.com/artist/1vKCIheOd4vETq6TWMqE3P"
-        }
-      ],
-      "duration_ms": 132218,
-      "name": "Zodiak",
-      "url": "https://open.spotify.com/track/0j9165VbruKP7ORuqkVXhX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "LYSS EP",
-        "url": "https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv"
-      },
-      "artists": [
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Daemon",
-          "url": "https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Parabellum",
-      "url": "https://open.spotify.com/track/0Uy2wbMiudT1PmJCpyxo1x"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Thornzz",
-        "url": "https://open.spotify.com/album/7Kv1dL0ONwFweBVzTxc9xl"
-      },
-      "artists": [
-        {
-          "name": "Rustie",
-          "url": "https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Thornzz",
-      "url": "https://open.spotify.com/track/4TEOXfDK7IK8pek8lSgLvc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Missing (Back To You) [feat. Ellivia]",
         "url": "https://open.spotify.com/album/7mOuI2xjNrsp8ZnomCWATF"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 174545,
       "name": "dancebaby",
       "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Thornzz",
+        "url": "https://open.spotify.com/album/7Kv1dL0ONwFweBVzTxc9xl"
+      },
+      "artists": [
+        {
+          "name": "Rustie",
+          "url": "https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Thornzz",
+      "url": "https://open.spotify.com/track/4TEOXfDK7IK8pek8lSgLvc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Turn Up Da Bassline",
-        "url": "https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8"
-      },
-      "artists": [
-        {
-          "name": "Dillon Nathaniel",
-          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
-        }
-      ],
-      "duration_ms": 191975,
-      "name": "Turn Up Da Bassline",
-      "url": "https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "How We Do",
         "url": "https://open.spotify.com/album/31sCpGaCkiUrf2giQBTWKf"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Turn Up Da Bassline",
+        "url": "https://open.spotify.com/album/5hgWXkwEEm8mJgU50BVZe8"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "duration_ms": 191975,
+      "name": "Turn Up Da Bassline",
+      "url": "https://open.spotify.com/track/4Dodmdr8t9FVk183pBQ0gc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Inner Smile",
         "url": "https://open.spotify.com/album/5YQt6nGEo6Mek2ypi8bUTD"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 222295,
       "name": "Inner Smile",
       "url": "https://open.spotify.com/track/4JCi22oTWsIZPT9NY54Tl3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Vertigo (feat. No/Me)",
+        "url": "https://open.spotify.com/album/5gJe1iOq0Lrfd0x5C65LFI"
+      },
+      "artists": [
+        {
+          "name": "FENIK",
+          "url": "https://open.spotify.com/artist/3xA33zcSOXlZUcK6n8MxiM"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Vertigo (feat. No/Me)",
+      "url": "https://open.spotify.com/track/0m7D1YPyb1IPKHUarf3tlQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1711,42 +1731,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Vertigo (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5gJe1iOq0Lrfd0x5C65LFI"
-      },
-      "artists": [
-        {
-          "name": "FENIK",
-          "url": "https://open.spotify.com/artist/3xA33zcSOXlZUcK6n8MxiM"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Vertigo (feat. No/Me)",
-      "url": "https://open.spotify.com/track/0m7D1YPyb1IPKHUarf3tlQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "DANCE",
-        "url": "https://open.spotify.com/album/49ynEKhvoHmP8uN4eW2U8x"
-      },
-      "artists": [
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/7trkAcJ4cAWvZqtzKPCuqx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Feels Like Love",
         "url": "https://open.spotify.com/album/0BCG3AJQNDEIeq3lpFQrlf"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 187260,
       "name": "Feels Like Love - Edit",
       "url": "https://open.spotify.com/track/6OPckmKrwXW4MTgh1nCQ0S"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "DANCE",
+        "url": "https://open.spotify.com/album/49ynEKhvoHmP8uN4eW2U8x"
+      },
+      "artists": [
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/7trkAcJ4cAWvZqtzKPCuqx"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "House Thing",
-        "url": "https://open.spotify.com/album/2XtuPRbUPZfZE49C57gfEY"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 171420,
-      "name": "House Thing - Radio Mix",
-      "url": "https://open.spotify.com/track/5WJGlfec0fCaTZbz29tYD6"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Miamimita (L\u00e9go Remix)",
         "url": "https://open.spotify.com/album/3Taofi73l8tYNDlS1IivMR"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 218709,
       "name": "Wataki",
       "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "House Thing",
+        "url": "https://open.spotify.com/album/2XtuPRbUPZfZE49C57gfEY"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 171420,
+      "name": "House Thing - Radio Mix",
+      "url": "https://open.spotify.com/track/5WJGlfec0fCaTZbz29tYD6"
     },
     {
       "added_at": "2024-08-02 04:00:00",

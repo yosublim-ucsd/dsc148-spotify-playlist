@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: DOROFEEVA.",
-  "num_followers": 951726,
+  "num_followers": 952389,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
         "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
         "url": "https://open.spotify.com/album/4J0uxqk0Xl31lXtTqaERmk"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
       "url": "https://open.spotify.com/track/6QiOpd1Bx43oEd8s6IL6Lf"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Bad Love God",
-        "url": "https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 203283,
-      "name": "Bad Love God",
-      "url": "https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/7LtN6cHZCPLkA3IPGx0p9Z"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 181927,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/0JmPjf44OKneEFD8Xnfogq"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Bad Love God",
+        "url": "https://open.spotify.com/album/3kBaenm4ssWN87HymLEEsB"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 203283,
+      "name": "Bad Love God",
+      "url": "https://open.spotify.com/track/1MZyCaruig26Lio1Cgosh5"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
         "name": "MARIA",
         "url": "https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "The Rose Of Jericho",
+        "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
+      },
+      "artists": [
+        {
+          "name": "Georgia Lines",
+          "url": "https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Grand Illusion",
+      "url": "https://open.spotify.com/track/4ungm58VUft86geFgszTa6"
     }
   ],
   "unique_name": "EQUAL",

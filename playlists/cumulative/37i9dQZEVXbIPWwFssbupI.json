@@ -3204,7 +3204,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 186071,
       "name": "Avec classe (feat. Aya Nakamura & Trinix)",
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12126,7 +12126,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 138933,
       "name": "Faut pas",
       "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
@@ -13430,6 +13430,24 @@
       "duration_ms": 211180,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g"
+    },
+    {
+      "album": {
+        "name": "Full",
+        "url": "https://open.spotify.com/album/01dg4BY2DLJ7VvY4y4vCY5"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/1hZyHAA9e0G0eQ2WSNHkfM"
     },
     {
       "album": {
@@ -15422,7 +15440,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/6jDe94y1dbLDU53Q1NPxLH"
@@ -16404,7 +16422,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -19234,7 +19252,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 168620,
       "name": "LAISSE MOI",
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
@@ -20968,7 +20986,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"

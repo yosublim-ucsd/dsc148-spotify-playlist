@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 202478,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6JPw7Kn0O2CfWaJE08rokz"
@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "\u05d2\u05e8\u05dd \u05e9\u05de\u05d7\u05d4",
+        "url": "https://open.spotify.com/album/26N9gdqWMkTvyVnS6jkQ7w"
+      },
+      "artists": [
+        {
+          "name": "Aviv Bahar",
+          "url": "https://open.spotify.com/artist/2gZQhTge4L8kMEDp4w3U4R"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "\u05d2\u05e8\u05dd \u05e9\u05de\u05d7\u05d4",
+      "url": "https://open.spotify.com/track/4MwYf4SJbPaKb4cqL0yfNv"
+    },
+    {
+      "album": {
         "name": "\u05d2\u05e9\u05dd",
         "url": "https://open.spotify.com/album/4PieaONsAO2DtNoWCkU28F"
       },
@@ -847,6 +865,24 @@
     },
     {
       "album": {
+        "name": "\u05d6\u05d4 \u05db\u05db\u05d4 \u05db\u05dc \u05d4\u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/53Fz69cxmFTSpC6Bpm3dZP"
+      },
+      "artists": [
+        {
+          "name": "Idan Rafael Haviv",
+          "url": "https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "\u05d6\u05d4 \u05db\u05db\u05d4 \u05db\u05dc \u05d4\u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/5J9kPVpxZEiRQzsWUx3COM"
+    },
+    {
+      "album": {
         "name": "\u05d8\u05d5\u05d1 \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/4Xk3fTwiaDgLy7Vyob7169"
       },
@@ -930,7 +966,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174750,
       "name": "\u05db\u05d9\u05e1\u05d5\u05e4\u05d9\u05dd (\u05e9\u05d9\u05e8 \u05d4\u05e0\u05d5\u05e9\u05d0 \u05de\u05ea\u05d5\u05da \u05d4\u05e1\u05e8\u05d8)",
       "url": "https://open.spotify.com/track/116GDev72vb3hj162mjDGX"
@@ -1355,6 +1391,42 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d0\u05d4\u05d1\u05d4 \u05e9\u05dc\u05e0\u05d5",
+        "url": "https://open.spotify.com/album/4Ymz4jv1xwNnADNcPT6S81"
+      },
+      "artists": [
+        {
+          "name": "Omer Datz",
+          "url": "https://open.spotify.com/artist/5cNps5wYsmy9J7E2tGWcH7"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u05de\u05e9\u05d4",
+      "url": "https://open.spotify.com/track/3Kl3XgSevg4Z0774K9Mj1t"
+    },
+    {
+      "album": {
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+        "url": "https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH"
+      },
+      "artists": [
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d1\u05d9 \u05d7\u05d9",
+      "url": "https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX"
+    },
+    {
+      "album": {
         "name": "\u05de\u05e9\u05d4\u05d5 \u05dc\u05d0 \u05e2\u05d5\u05d1\u05d3",
         "url": "https://open.spotify.com/album/7nh2QpNwmE5oM73POJNd4e"
       },
@@ -1366,7 +1438,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 213953,
       "name": "\u05de\u05e9\u05d4\u05d5 \u05dc\u05d0 \u05e2\u05d5\u05d1\u05d3",
       "url": "https://open.spotify.com/track/6UlTe1ny6WVR2hcukLlws2"
@@ -1446,7 +1518,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 204375,
       "name": "\u05e2\u05d5\u05e9\u05d4 \u05d0\u05dc\u05d9\u05da \u05d3\u05e8\u05da",
       "url": "https://open.spotify.com/track/2uB1iBf7jJS8juQCsCepfu"

@@ -1,6 +1,6 @@
 {
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Tit\u00e3s",
-  "num_followers": 499138,
+  "num_followers": 499123,
   "original_name": "P\u00e1tria Rock",
   "owner": {
     "name": "Spotify",
@@ -1067,17 +1067,17 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "A Cera (Ac\u00fastico)",
+        "name": "A Cera - Ac\u00fastico",
         "url": "https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA"
       },
       "artists": [
         {
-          "name": "Marcelo Magal",
-          "url": "https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x"
-        },
-        {
           "name": "O Surto",
           "url": "https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7"
+        },
+        {
+          "name": "Marcelo Magal",
+          "url": "https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x"
         }
       ],
       "duration_ms": 243781,

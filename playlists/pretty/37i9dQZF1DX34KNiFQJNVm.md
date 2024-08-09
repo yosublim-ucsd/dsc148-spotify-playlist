@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lauana Prado, MC Hariel, Ana Castela e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,797 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,164 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 21 | [Tobogã](https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Tobogã](https://open.spotify.com/album/18k5MYAMRC8y6BrOiMQOaM) | 3:39 |
 | 22 | [O Que Era Certo](https://open.spotify.com/track/5hls7nZ0bZYryIzlXyKiB4) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg) | [O Que Era Certo](https://open.spotify.com/album/6fqTZBxIxff7SurU6ZISFG) | 2:57 |
 | 23 | [Beautiful](https://open.spotify.com/track/1JRtd5QFk0oqicrpCzGFhM) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Beautiful](https://open.spotify.com/album/1vNjcJhmloMyB6ONQEzDuC) | 2:57 |
-| 24 | [N'body Problem](https://open.spotify.com/track/0rIxrPwnnsCiX41CisWQ6w) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [N'Body Problem \(feat\. Brave Culture\)](https://open.spotify.com/album/3TQ1nhXszSTdximyTVYITi) | 2:22 |
+| 24 | [N'Body Problem \(feat\. Brave Culture\)](https://open.spotify.com/track/0rIxrPwnnsCiX41CisWQ6w) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Brave Culture](https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd) | [N'Body Problem \(feat\. Brave Culture\)](https://open.spotify.com/album/3TQ1nhXszSTdximyTVYITi) | 2:22 |
 | 25 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
 | 26 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
 | 27 | [Perdido Em Você](https://open.spotify.com/track/5UnJqfghOpDqNZFj9Ue8UC) | [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Perdido Em Você](https://open.spotify.com/album/7skcrogGWFqm012XMQbUa3) | 3:52 |

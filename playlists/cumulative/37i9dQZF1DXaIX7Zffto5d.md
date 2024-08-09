@@ -4,7 +4,7 @@
 
 > 日本語、韓国語、英語を巧みに操るトリリンガルラッパー／シンガー、ちゃんみな。独自の観点で時代を切り取るリリックとソリッドなラップが若い音楽ファンを中心に注目を集める彼女のオール・タイム・ベスト。
 
-88 songs - 4 hr 32 min
+89 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Needy](https://open.spotify.com/track/4veOQB1CV0tOuqxsEZzwoZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [BIJIN](https://open.spotify.com/album/3idHg5y5edwHzbblxpNx0S) | 3:08 | 2023-08-15 | 2024-04-19 |
 | [Needy](https://open.spotify.com/track/7ejcuhE2ZfLnoz1o7I9wUA) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [美人](https://open.spotify.com/album/2BPx7TGSbxT5386gYD5x8J) | 3:08 | 2024-04-11 |  |
 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2023-08-15 |  |
+| [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 | 2024-08-08 |  |
 | [PAIN IS BEAUTY](https://open.spotify.com/track/5QOF4KiMkohTXWWU6Zj5Cq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [PAIN IS BEAUTY](https://open.spotify.com/album/0Tu3KkWdhFOQMphlbBJyE0) | 3:55 | 2023-08-15 |  |
 | [Picky](https://open.spotify.com/track/1LDWpialL4xYraRx51QqrR) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:51 | 2024-04-11 |  |
 | [Picky](https://open.spotify.com/track/1s7e6wnDynQqepUUEHPEnn) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:51 | 2023-08-15 | 2024-04-19 |

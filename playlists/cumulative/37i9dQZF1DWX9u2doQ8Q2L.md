@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,482 songs - 3 day 18 hr 3 min
+1,483 songs - 3 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,7 +856,7 @@
 | [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 | 2023-05-13 |
 | [SECOM](https://open.spotify.com/track/22dvj8R3AQJBqnurHotHzb) | [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB), [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [SECOM](https://open.spotify.com/album/4k4x3RMOMxTdwLdgv3tRJu) | 3:26 | 2023-08-24 | 2023-09-06 |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-26 | 2022-06-29 |
-| [Secret Idea](https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Secret Idea](https://open.spotify.com/album/11yxJKJwnpPLHVzRwYg2YB) | 2:58 | 2024-06-04 |  |
+| [Secret Idea](https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Secret Idea](https://open.spotify.com/album/11yxJKJwnpPLHVzRwYg2YB) | 2:58 | 2024-06-04 | 2024-08-09 |
 | [Secret Path](https://open.spotify.com/track/0sYJyR15HTyCOPay0uVjng) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Orbit](https://open.spotify.com/album/4fpqwqvKAKxOA8OtGFohTm) | 4:01 | 2022-12-06 | 2022-12-28 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-04-25 | 2023-06-28 |
 | [Seishun nante](https://open.spotify.com/track/4hjMkChUH4Ib4b1tjWZBcV) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [Wakakusa](https://open.spotify.com/album/1ozt5C65MfSFEo1tfhY7Ye) | 3:04 | 2023-11-14 | 2023-11-22 |
@@ -970,6 +970,7 @@
 | [SUPERNOVA](https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/46wHXcoKdMG9VGPh7ogf1l) | 3:31 | 2023-04-18 | 2023-06-14 |
 | [SUPERNOVA](https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd) | 3:31 | 2023-04-18 | 2023-04-20 |
 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 | 2022-07-19 | 2022-10-05 |
+| [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 | 2024-08-07 |  |
 | [Supremacy](https://open.spotify.com/track/1mwaixNVz7ifI0VwzSmGfw) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/4cU0lQpW1s0HXysHPklbYi) | 3:14 | 2023-07-26 | 2023-07-27 |
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-26 | 2023-08-02 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-11-14 |

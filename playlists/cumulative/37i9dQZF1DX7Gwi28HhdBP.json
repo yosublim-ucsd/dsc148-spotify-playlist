@@ -2959,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0627\u0633\u0648\u062f",
+        "url": "https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        },
+        {
+          "name": "Wadih El Cheikh",
+          "url": "https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210947,
+      "name": "\u0627\u0644\u0627\u0633\u0648\u062f",
+      "url": "https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0643",
         "url": "https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A"
       },
@@ -4550,7 +4572,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 216666,
       "name": "\u0643\u062f\u0629 \u0644\u0627",
       "url": "https://open.spotify.com/track/2Y1F31MQD5DDakUxAu4qrz"

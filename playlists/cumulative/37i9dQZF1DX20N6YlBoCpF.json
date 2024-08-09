@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh?si=t90E9qkJRn6dWqgdQOGAgQ\">Leah</a>  ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh?si=t90E9qkJRn6dWqgdQOGAgQ\">Irene-Louise Van Wyk</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 236572,
       "name": "10 Uit 10",
       "url": "https://open.spotify.com/track/0Y8MPTdUEx4HKVSJKLu4Wl"
+    },
+    {
+      "album": {
+        "name": "10 Uur",
+        "url": "https://open.spotify.com/album/7MbyegnJnKUiy11sgo98b1"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171424,
+      "name": "10 Uur",
+      "url": "https://open.spotify.com/track/2ea6NjGZHgyA7AuPP5x4GG"
     },
     {
       "album": {
@@ -424,7 +442,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 209721,
       "name": "Afgesny",
       "url": "https://open.spotify.com/track/6l4xmnzeBkf0AmbY8o24Ct"
@@ -612,7 +630,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 240489,
       "name": "Alleen (Remastered 2024)",
       "url": "https://open.spotify.com/track/08hdKoKg7ymwslkNzKTuC1"
@@ -1973,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Blue Tick",
+        "url": "https://open.spotify.com/album/2p3Iw40ngzZ3AfXRkjO2Tp"
+      },
+      "artists": [
+        {
+          "name": "Refentse",
+          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Blue Tick",
+      "url": "https://open.spotify.com/track/1U0a4985xzW8vNxOnwdEkP"
+    },
+    {
+      "album": {
         "name": "Bly by my, (my lief)",
         "url": "https://open.spotify.com/album/5TcZTNxH430bVeRD5jkZCZ"
       },
@@ -2042,6 +2078,24 @@
       "duration_ms": 169924,
       "name": "Bo aan my lys",
       "url": "https://open.spotify.com/track/0nQSsjh19aBF2LTIYxMZCz"
+    },
+    {
+      "album": {
+        "name": "Bo Alles",
+        "url": "https://open.spotify.com/album/4EyAQIu3hvKHPwd5z1Nc32"
+      },
+      "artists": [
+        {
+          "name": "Petronel Baard",
+          "url": "https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Bo Alles",
+      "url": "https://open.spotify.com/track/19rDUGB6xm79D0lJI7j65U"
     },
     {
       "album": {
@@ -3180,7 +3234,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 218640,
       "name": "Dans Alleen in Die Donker",
       "url": "https://open.spotify.com/track/6cGdOwlIFU0MGxDWTNE6LE"
@@ -3568,6 +3622,28 @@
       "duration_ms": 183000,
       "name": "Die Breils",
       "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
+    },
+    {
+      "album": {
+        "name": "Die Byeboerwa (SENSASIE Remix)",
+        "url": "https://open.spotify.com/album/0E7WuSFYM4skyvCz2boISP"
+      },
+      "artists": [
+        {
+          "name": "Carike Keuzenkamp",
+          "url": "https://open.spotify.com/artist/6ezpe6uosMwh3Ob2mAnxu1"
+        },
+        {
+          "name": "SENSASIE",
+          "url": "https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Die Byeboerwa - SENSASIE Remix",
+      "url": "https://open.spotify.com/track/20Ia1ipSxpkJ78Ty1aDkVI"
     },
     {
       "album": {
@@ -4135,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Die Stad Is Te Veel",
+        "url": "https://open.spotify.com/album/55cfaZWL8x9fzgjGYlaf56"
+      },
+      "artists": [
+        {
+          "name": "Andre Swiegers",
+          "url": "https://open.spotify.com/artist/21TItzc2YtwWPoJyEI0i0k"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159290,
+      "name": "Die Stad Is Te Veel",
+      "url": "https://open.spotify.com/track/49nxuWMmlx4TepT7te0ZeG"
+    },
+    {
+      "album": {
         "name": "Die Vakansie Song - Shokbasse Remix",
         "url": "https://open.spotify.com/album/3zUSxdod87bOZ8I8hNjU0O"
       },
@@ -4378,7 +4472,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 242811,
       "name": "Dis Naweek - Remix",
       "url": "https://open.spotify.com/track/2inJZafKIff0gOuW2Ubjyz"
@@ -8931,6 +9025,28 @@
     },
     {
       "album": {
+        "name": "Kerkmeisie Kyla (Ratata)",
+        "url": "https://open.spotify.com/album/73r1zi7qJcdJnXxe0hGJTV"
+      },
+      "artists": [
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170052,
+      "name": "Kerkmeisie Kyla (Ratata)",
+      "url": "https://open.spotify.com/track/4oli8424EYWhYlUxF9iYbi"
+    },
+    {
+      "album": {
         "name": "Kersfees Is Jesus",
         "url": "https://open.spotify.com/album/26mkOOLXD0ooYqNcKOamZg"
       },
@@ -10716,7 +10832,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 214153,
       "name": "Liefling - SENSASIE Remix",
       "url": "https://open.spotify.com/track/53C8tRW4kLsZJweyvWjtzQ"
@@ -10962,7 +11078,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 216173,
       "name": "Loco",
       "url": "https://open.spotify.com/track/7s1DLn8TWQlOPuqgoRRJq3"
@@ -11616,7 +11732,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 410783,
       "name": "Met Alles In My",
       "url": "https://open.spotify.com/track/78IU4YfXf8dYodALe2inYQ"
@@ -11656,6 +11772,24 @@
       "duration_ms": 182950,
       "name": "Met Jou Klere Af",
       "url": "https://open.spotify.com/track/2IT9pZ5IkLrx3O6wX2HUNT"
+    },
+    {
+      "album": {
+        "name": "Middernag",
+        "url": "https://open.spotify.com/album/69owRDyUc8Wa7KoezM8sl4"
+      },
+      "artists": [
+        {
+          "name": "William Wolf",
+          "url": "https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183899,
+      "name": "Middernag",
+      "url": "https://open.spotify.com/track/7t08UE89cX0ErHlXdYD8hg"
     },
     {
       "album": {
@@ -14609,6 +14743,24 @@
     },
     {
       "album": {
+        "name": "Probleem Kind",
+        "url": "https://open.spotify.com/album/3Vc6ivfrjobE5Smg88bBZF"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191332,
+      "name": "Probleem Kind",
+      "url": "https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj"
+    },
+    {
+      "album": {
         "name": "Protea (Afrikaans Wil Dans Remix)",
         "url": "https://open.spotify.com/album/2Ah4fFfc9vNg5s5RAmtToG"
       },
@@ -14664,6 +14816,24 @@
       "duration_ms": 161546,
       "name": "Rebecca",
       "url": "https://open.spotify.com/track/5yn1CzR0QkcTV5ep55LJk9"
+    },
+    {
+      "album": {
+        "name": "Reguit Dans",
+        "url": "https://open.spotify.com/album/0hgVdNCgUf0uFyEqWlMEfA"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183927,
+      "name": "Reguit Dans",
+      "url": "https://open.spotify.com/track/4HPGHJkOBek7OVcDinYFdn"
     },
     {
       "album": {
@@ -14990,6 +15160,24 @@
       "duration_ms": 168571,
       "name": "Rooi Wit & Blou",
       "url": "https://open.spotify.com/track/2BoIVfNrLDsnhcjwd8eyNa"
+    },
+    {
+      "album": {
+        "name": "Rooivlag",
+        "url": "https://open.spotify.com/album/5azel0IahPnoKcNZKpaky9"
+      },
+      "artists": [
+        {
+          "name": "Die Ramkat Mafia",
+          "url": "https://open.spotify.com/artist/2tf7u7nYSaa8sIfFQ3hrg2"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Rooivlag",
+      "url": "https://open.spotify.com/track/5OvnMdSB3LYMg9WDPWWpuz"
     },
     {
       "album": {
@@ -16140,7 +16328,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184346,
       "name": "Soldaat",
       "url": "https://open.spotify.com/track/7zVZPNtu1IoY26DEoVTbV1"
@@ -17703,6 +17891,32 @@
     },
     {
       "album": {
+        "name": "Tittewyt",
+        "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Tittewyt",
+      "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
+    },
+    {
+      "album": {
         "name": "Toe Die Engel Aan Die Water Raak",
         "url": "https://open.spotify.com/album/1LkcnNbrxQvrVQYzVLN9Db"
       },
@@ -17914,6 +18128,24 @@
       "duration_ms": 222837,
       "name": "Treffers vir Tannies",
       "url": "https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig"
+    },
+    {
+      "album": {
+        "name": "Troos My",
+        "url": "https://open.spotify.com/album/61ylaFrZvJnPcoGtEXPVPp"
+      },
+      "artists": [
+        {
+          "name": "Pelican State",
+          "url": "https://open.spotify.com/artist/0xKf1vySd9jFncsv1LD5uE"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242521,
+      "name": "Troos My",
+      "url": "https://open.spotify.com/track/6hZM6wu6nlgWnAMtZRkqvl"
     },
     {
       "album": {
@@ -18130,7 +18362,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 244013,
       "name": "U is Hier",
       "url": "https://open.spotify.com/track/5Mf43RVNPyYDehA0Yr6X0H"
@@ -18286,7 +18518,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 368707,
       "name": "Vaal Sand",
       "url": "https://open.spotify.com/track/5htFwZpwKEgbUxe2yQRePH"
@@ -18994,7 +19226,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 173293,
       "name": "Vir Ewig en Altyd",
       "url": "https://open.spotify.com/track/6WhpIgEboxa7JfKDS3swnl"
@@ -19488,7 +19720,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 179426,
       "name": "VRY WIL ONS WEES",
       "url": "https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY"

@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Omah Lay
+> The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-645 songs - 1 day 7 hr 59 min
+646 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Family Problem](https://open.spotify.com/track/09uz7ZgINfKSXcTPT2zrLb) | [Ko\-C](https://open.spotify.com/artist/7BuOoNFjQ1NSpXH0NEzWjy), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [GENESIS](https://open.spotify.com/album/0MrECtDGFvoeXxvsS7y9XV) | 3:41 | 2023-03-09 | 2023-04-07 |
 | [Faut Doser](https://open.spotify.com/track/43jZVC7IotPEq3EVuNwT0g) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [Faut Doser](https://open.spotify.com/album/5Uh5XXs9EyaB54BGseQTiz) | 3:07 | 2023-01-19 | 2023-02-17 |
 | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/track/2gInYqDUknSlU5CBgPKEiv) | [Junior Bvndo](https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Faut pas flipper \(feat\. Vegedream\)](https://open.spotify.com/album/5TvUdciYK3xUuJHmrscFbg) | 2:56 | 2023-10-12 | 2023-11-17 |
+| [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-08 |  |
 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-07-13 | 2024-06-28 |
 | [Feeling Funny](https://open.spotify.com/track/73MwJHhrrDbOlzWTCziVJr) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Feeling Funny](https://open.spotify.com/album/21kuDsl3msFKcs3I2q3D1j) | 3:18 | 2023-07-06 | 2023-07-28 |
 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 | 2023-10-12 | 2023-11-10 |
@@ -392,7 +393,7 @@
 | [Moi Aussi](https://open.spotify.com/track/6DAgaiDktAm2A54mViMkKs) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [DREAMS II](https://open.spotify.com/album/5ei0sgRSVLxqkglc8aIcoi) | 1:42 | 2023-06-15 | 2023-07-28 |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2021-12-27 | 2022-03-25 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-19 | 2022-10-14 |
-| [Monde entier](https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:58 | 2024-07-04 |  |
+| [Monde entier](https://open.spotify.com/track/147pZmwBwNPncFbFhorZIl) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:58 | 2024-07-04 | 2024-08-09 |
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [MORE PRETTY GIRLS](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-13 |  |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-02 | 2023-04-07 |
 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-03-17 | 2022-03-23 |

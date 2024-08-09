@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "Hang Loose",
+      "url": "https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH"
+    },
+    {
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144200,
       "name": "Hang Loose",
       "url": "https://open.spotify.com/track/6vu33bAEUG3U0d0CGxQJGl"
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Heavy Chevy",
+        "url": "https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Heavy Chevy",
+      "url": "https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9"
+    },
+    {
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -232,7 +268,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 146120,
       "name": "Heavy Chevy - Bonus Track",
       "url": "https://open.spotify.com/track/1KFND1mnZBEF5B848A4oDR"
@@ -275,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "I Ain't The Same",
+      "url": "https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu"
+    },
+    {
+      "album": {
         "name": "Boys & Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
       },
@@ -286,7 +340,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175800,
       "name": "I Ain't The Same",
       "url": "https://open.spotify.com/track/3NZdB4XxTQYZgRdrZRm60h"
@@ -430,7 +484,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 188613,
       "name": "Rise To The Sun",
       "url": "https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e"
@@ -556,7 +610,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 284600,
       "name": "You Ain't Alone",
       "url": "https://open.spotify.com/track/5J2EJXBh4gDN9ZIgMmksog"

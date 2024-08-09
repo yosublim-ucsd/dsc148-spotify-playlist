@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-398 songs - 18 hr 54 min
+399 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Amor De Confusão \- Ao Vivo Em São José Do Rio Preto / 2019](https://open.spotify.com/track/5tkX6BlWWqFLexRW0UTJHD) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW) | [Pra Todo Mundo Ver \(Ao Vivo Em São José Do Rio Preto / 2019 / Vol\. 1\)](https://open.spotify.com/album/49HS8jv1Hi8sOPwlfjJ5ok) | 2:50 | 2024-01-29 |  |
 | [Amor Descarado \- Ao Vivo](https://open.spotify.com/track/7nI6cZY5Y6eAFc01cX9QjM) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Playlist \(Ao Vivo\)](https://open.spotify.com/album/2RFrKt3YIeDuHMKtpTf9en) | 3:03 | 2024-01-29 |  |
 | [Amor Perfeito Não Existe \- Acústico](https://open.spotify.com/track/1ART2CVdmUy5BWSNzopOWV) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia Fellipe \(Acústico\)](https://open.spotify.com/album/00nRVr1mExO6cR3Ropafe2) | 3:06 | 2024-01-29 |  |
-| [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/59lVI2XNBPIOvfT8xOxltq) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Meio Acústico \- Ao Vivo](https://open.spotify.com/album/3IBNCnIdZ9YgpjRWqc0VrQ) | 2:48 | 2024-01-29 |  |
+| [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/4iFnJh5s44MI142fOwXEfh) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Apaixonadinho \(Ao Vivo\)](https://open.spotify.com/album/64gTBjrAdiHpoeVODPy6v6) | 2:48 | 2024-08-08 |  |
+| [Apaixonadinho \- Ao Vivo](https://open.spotify.com/track/59lVI2XNBPIOvfT8xOxltq) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV) | [Meio Acústico \- Ao Vivo](https://open.spotify.com/album/3IBNCnIdZ9YgpjRWqc0VrQ) | 2:48 | 2024-01-29 | 2024-08-09 |
 | [Aperta o Play](https://open.spotify.com/track/3P2wbK5Ny9AQsQYLDk1w5Y) | [Andresson Costa](https://open.spotify.com/artist/4QX7GiW6GVynn3EaqEF4gg) | [Ao Vivo Em Entre Rios](https://open.spotify.com/album/44EcMGlbupi9n6zZUpzqQI) | 4:00 | 2024-01-29 |  |
 | [Aprende a Terminar \- Ao Vivo](https://open.spotify.com/track/1xk8JSykNpFxm98jP1AgZI) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Garota Vip Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/497c9omVEZEWxg5YcczG2g) | 2:59 | 2024-01-29 |  |
 | [Aprendeu a Se Amar](https://open.spotify.com/track/0MW0FELVSS27d8OOMhcFOd) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Aprendeu a Se Amar](https://open.spotify.com/album/1IR4VJai2BydCM6gH86FNF) | 2:49 | 2024-01-29 |  |

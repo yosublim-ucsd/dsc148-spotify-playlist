@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=bNiHIB34TMaspnYDyfPLug">Phina</a>
 
-184 songs - 16 hr 11 min
+185 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 7:17 | 2022-06-24 | 2023-09-26 |
 | [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 | 2024-05-10 |  |
 | [Amefanya](https://open.spotify.com/track/6uI75Ob2PBGfXLw6NwSAkH) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Anastasia Mukabwa](https://open.spotify.com/artist/4aGIO4v0X0u7qbycmR5YG9), [Solomon Mukubwa](https://open.spotify.com/artist/25Q3rVZVuI2ESBPZEqdZCY) | [Amefanya](https://open.spotify.com/album/0Egz4Ybt0WcPFgzT9lKcNs) | 3:19 | 2023-12-29 |  |
+| [Amen](https://open.spotify.com/track/00B3DY0rP36nNeUOLXK9ib) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Amen](https://open.spotify.com/album/3aw2pwC0ISCLLNiXDhULFe) | 3:14 | 2024-08-09 |  |
 | [Amen \(feat\. Kusah\)](https://open.spotify.com/track/1VQbPM6ILavMZ8AM6OrEzP) | [Jimmy Chansa](https://open.spotify.com/artist/1xYbKRr6xuuA2gMVar7j83), [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Amen \(feat\. Kusah\)](https://open.spotify.com/album/0jh7fThakW7i8vterefGcx) | 3:11 | 2023-12-15 | 2024-05-17 |
 | [Amenifanyia Amani](https://open.spotify.com/track/0RHHtjtdCby9OnPL2qvsZy) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 7:48 | 2022-06-24 |  |
 | [Ameniweka huru kweli](https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9) | [Papi Clever & Dorcas](https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J) | [AMENIWEKA HURU KWELI \(Nyimbo za wokovu\) ALBUM 2](https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu) | 6:38 | 2023-08-25 |  |

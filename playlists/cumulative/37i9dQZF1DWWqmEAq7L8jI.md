@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe.
 
-306 songs - 16 hr 45 min
+307 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Regresa](https://open.spotify.com/track/7p8SFNiZjUjbGrA9nK8tGW) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Regresa](https://open.spotify.com/album/43cwThRaGvMa8NIYPL663p) | 3:08 | 2023-08-18 | 2024-06-13 |
 | [Reina de todo](https://open.spotify.com/track/0uGYA1Mb8NdjM1KG0KjxuX) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Reina de todo](https://open.spotify.com/album/0MVg5hOxZCWZ7fcRk3m4Tq) | 2:27 | 2024-05-10 | 2024-06-01 |
 | [Renacer](https://open.spotify.com/track/0FkJ9U1q9ouhMowz2eniEO) | [Cris Rye](https://open.spotify.com/artist/0OGduw6Oii6PJFM8bevFw7) | [Renacer](https://open.spotify.com/album/5fTy1m24EJ8mNss2RDoJfF) | 2:29 | 2023-10-13 | 2024-02-24 |
-| [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2024-02-23 |  |
+| [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2024-02-23 | 2024-08-09 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2023-03-17 | 2023-07-08 |
 | [Safari](https://open.spotify.com/track/77Ed4iW5WLoxqQlGmN9bUY) | [Zayli](https://open.spotify.com/artist/07tY7Hto2XN2jsaAtjgQ8g) | [Safari](https://open.spotify.com/album/2rBwcxUeh9PWsZ01lHbAqI) | 2:01 | 2023-12-27 | 2024-02-24 |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2023-03-17 |  |
@@ -263,6 +263,7 @@
 | [Siesta De Verano](https://open.spotify.com/track/2C6Rz1DAiDkfIrK6AjmrO6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:08 | 2023-12-07 |  |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2023-03-17 | 2023-08-12 |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-06-02 |  |
+| [Sin vuelta atrás](https://open.spotify.com/track/533kBw1Bq8qQDNH96bPnJl) | [Giuliano Montepaone](https://open.spotify.com/artist/38w0Yqs1mnlUXcLrSKDQAE) | [Sin vuelta atrás](https://open.spotify.com/album/09jX6eDZ4VT04QxUN0betL) | 3:30 | 2024-08-08 |  |
 | [SloMo](https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz) | 2:56 | 2023-11-10 | 2024-04-19 |
 | [SloMo](https://open.spotify.com/track/3XREkzDHsWdBL5tybyCDBH) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo](https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d) | 2:56 | 2023-08-11 | 2023-11-04 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2023-03-17 | 2023-08-12 |

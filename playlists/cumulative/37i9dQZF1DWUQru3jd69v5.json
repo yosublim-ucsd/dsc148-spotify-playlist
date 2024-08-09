@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Glocky e Faneto in cover, aggiornata ogni venerd\u00ec",
+  "description": "La nuova generazione del rap italiano. N\u00e9za in cover, aggiornata ogni venerd\u00ec",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1718,6 +1718,24 @@
       "duration_ms": 144000,
       "name": "AMORE E ODIO",
       "url": "https://open.spotify.com/track/58Xg7tSx5PEmAPeVChMTpg"
+    },
+    {
+      "album": {
+        "name": "ANCORA",
+        "url": "https://open.spotify.com/album/1GAUtKxWDFZouwlJVZIbct"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116635,
+      "name": "ANCORA",
+      "url": "https://open.spotify.com/track/318Lp6wsrkOlnrsmiJ0CC1"
     },
     {
       "album": {
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 140416,
       "name": "DAMMI 50\u20ac",
       "url": "https://open.spotify.com/track/4Y2gEirOVEBA3AdeALzmsS"
@@ -12326,7 +12344,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174148,
       "name": "LA FAMILIA",
       "url": "https://open.spotify.com/track/5X17Xqx6IOKtSi8jDLm0V6"
@@ -14695,6 +14713,32 @@
     },
     {
       "album": {
+        "name": "MATEMATICO/ABC",
+        "url": "https://open.spotify.com/album/1IzXVbAvWbfvExtjm57cCk"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        },
+        {
+          "name": "elylaba",
+          "url": "https://open.spotify.com/artist/5hDMf5OvAdZ20DdnqUZXSr"
+        },
+        {
+          "name": "xMikeyi",
+          "url": "https://open.spotify.com/artist/0ABOt7zwe8dTVAGEZaeLjF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "MATEMATICO/ABC",
+      "url": "https://open.spotify.com/track/4P6s7S6ih4Avt84BiYREuT"
+    },
+    {
+      "album": {
         "name": "Materia",
         "url": "https://open.spotify.com/album/2hBOUQzzVit5kMCbrqYVG7"
       },
@@ -15030,6 +15074,24 @@
       "duration_ms": 140505,
       "name": "Merce",
       "url": "https://open.spotify.com/track/07E65Obut2yA4w5QwjdVbK"
+    },
+    {
+      "album": {
+        "name": "MERCEDES",
+        "url": "https://open.spotify.com/album/1RxocM9wmvBHucNLQNfMmQ"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "MERCEDES",
+      "url": "https://open.spotify.com/track/1GJHorVM7DiuJuEHJzXyGW"
     },
     {
       "album": {
@@ -16762,7 +16824,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 107416,
       "name": "NO JECKERSON",
       "url": "https://open.spotify.com/track/5dVqhGtNTeLOBxMeVQ2lYv"
@@ -16934,7 +16996,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 133150,
       "name": "NO WOCKHARDT",
       "url": "https://open.spotify.com/track/4DdjJtiHDNjhElO23Yinmg"
@@ -18614,7 +18676,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 150000,
       "name": "PASSWORD",
       "url": "https://open.spotify.com/track/3lQWOnCqWKIayV6nxhPfwt"
@@ -19074,7 +19136,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 146938,
       "name": "PIOVIGGINA",
       "url": "https://open.spotify.com/track/4WVbtQQN4DxGn0hIpQhaLz"
@@ -20560,6 +20622,28 @@
       "duration_ms": 144362,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1"
+    },
+    {
+      "album": {
+        "name": "Re di Cuori",
+        "url": "https://open.spotify.com/album/5pHYVJ0Ewo2jJTLYUfY4Tn"
+      },
+      "artists": [
+        {
+          "name": "Taizal",
+          "url": "https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT"
+        },
+        {
+          "name": "Exynos",
+          "url": "https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152168,
+      "name": "Re di Cuori",
+      "url": "https://open.spotify.com/track/2YCXfySVOpRrxurUCOFgpC"
     },
     {
       "album": {
@@ -23036,6 +23120,28 @@
       "duration_ms": 156857,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t"
+    },
+    {
+      "album": {
+        "name": "Sta Piovendo",
+        "url": "https://open.spotify.com/album/1guRvnS6o8DFHm8Q9rZ1np"
+      },
+      "artists": [
+        {
+          "name": "Waze RRX",
+          "url": "https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD"
+        },
+        {
+          "name": "Alawais",
+          "url": "https://open.spotify.com/artist/5Sh9ne0WUEOvdvTbSHyDJt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Sta Piovendo",
+      "url": "https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU"
     },
     {
       "album": {
@@ -25576,6 +25682,28 @@
       "duration_ms": 119495,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH"
+    },
+    {
+      "album": {
+        "name": "VaLiGeTTa GiaLLa",
+        "url": "https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI"
+      },
+      "artists": [
+        {
+          "name": "Yandie Gotam",
+          "url": "https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp"
+        },
+        {
+          "name": "Ervie",
+          "url": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "VaLiGeTTa GiaLLa",
+      "url": "https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs"
     },
     {
       "album": {

@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 147857,
       "name": "Element",
       "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
@@ -4258,6 +4258,36 @@
       "duration_ms": 133766,
       "name": "LEVEL",
       "url": "https://open.spotify.com/track/5N4dnzpEry6iQ5aicp1nJB"
+    },
+    {
+      "album": {
+        "name": "Lifestyle (feat. Magnito)",
+        "url": "https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX"
+      },
+      "artists": [
+        {
+          "name": "DJ Shawn",
+          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Lifestyle (feat. Magnito)",
+      "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Cover: VV",
+  "description": "Il meglio dell\u2019indie italiano! Cover: Willie Peyote",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 164333,
       "name": "Che colpa ne ho",
       "url": "https://open.spotify.com/track/1oEwa9Mo4Oxka9OSm6NxTO"
+    },
+    {
+      "album": {
+        "name": "Colleghi borghesi",
+        "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Colleghi borghesi",
+      "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
     },
     {
       "album": {
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 201580,
       "name": "Tokyo 20",
       "url": "https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU"

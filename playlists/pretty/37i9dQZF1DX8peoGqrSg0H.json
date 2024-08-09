@@ -1,15 +1,31 @@
 {
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
-  "num_followers": 163432,
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
+  "num_followers": 163485,
   "original_name": "T-Pop Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrMxJwAAAABCg9QZRwvMj10c7Y0HmFHQ",
+  "snapshot_id": "ZrUMqQAAAADUULN5lBp12+mfC50amGid",
   "tracks": [
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "DAY ONE",
+        "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "duration_ms": 272700,
+      "name": "DAY ONE",
+      "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e17\u0e35\u0e48\u0e23\u0e2d\u0e1d\u0e19 (spring)",
         "url": "https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r"
@@ -29,55 +45,7 @@
       "url": "https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "DAY ONE",
-        "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
-      },
-      "artists": [
-        {
-          "name": "PUN",
-          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
-        }
-      ],
-      "duration_ms": 272700,
-      "name": "DAY ONE",
-      "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "Aftercry",
-        "url": "https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Aftercry",
-      "url": "https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e41\u0e04\u0e48\u0e19\u0e31\u0e49\u0e19 (NO MATTER WHAT)",
         "url": "https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt"
@@ -93,10 +61,10 @@
       "url": "https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
-        "name": "Smash or Pass (Original Soundtrack From Out of the nest)",
-        "url": "https://open.spotify.com/album/0Fkt3VKyuPCTXNOLDMjLGE"
+        "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
+        "url": "https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF"
       },
       "artists": [
         {
@@ -104,32 +72,12 @@
           "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
         }
       ],
-      "duration_ms": 166857,
-      "name": "Smash or Pass - Original Soundtrack From Out of the nest",
-      "url": "https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5"
+      "duration_ms": 225882,
+      "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
+      "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e22\u0e2d\u0e21 (Surrender)",
-        "url": "https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        },
-        {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 195547,
-      "name": "\u0e22\u0e2d\u0e21 (Surrender)",
-      "url": "https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "BF",
         "url": "https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u"
@@ -149,10 +97,26 @@
       "url": "https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
-        "url": "https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb"
+        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) [Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c]",
+        "url": "https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6"
       },
       "artists": [
         {
@@ -160,76 +124,48 @@
           "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
         }
       ],
-      "duration_ms": 224173,
-      "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
-      "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
+      "duration_ms": 295205,
+      "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) - Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
+      "url": "https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e07\u0e49\u0e2d\u0e08\u0e30\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (Enough)",
-        "url": "https://open.spotify.com/album/0gzvoH3eADZkekv4bkEzwT"
+        "name": "\u0e22\u0e2d\u0e21 (Surrender)",
+        "url": "https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq"
       },
       "artists": [
         {
-          "name": "QRRA",
-          "url": "https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
         }
       ],
-      "duration_ms": 229714,
-      "name": "\u0e44\u0e21\u0e48\u0e07\u0e49\u0e2d\u0e08\u0e30\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (Enough)",
-      "url": "https://open.spotify.com/track/4uNMQ6meoNXG5zzl6USIlk"
+      "duration_ms": 195547,
+      "name": "\u0e22\u0e2d\u0e21 (Surrender)",
+      "url": "https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
-        "name": "\u0e08\u0e33\u0e19\u0e19",
-        "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
+        "name": "Rent It From You",
+        "url": "https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin"
       },
       "artists": [
         {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          "name": "THIRD",
+          "url": "https://open.spotify.com/artist/66l74k1PsTPSJ5RkdZta3n"
         }
       ],
-      "duration_ms": 249230,
-      "name": "\u0e08\u0e33\u0e19\u0e19",
-      "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
+      "duration_ms": 166666,
+      "name": "Rent It From You",
+      "url": "https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e25\u0e31\u0e01\u0e22\u0e34\u0e49\u0e21 (How Luckyi\u2019m)",
-        "url": "https://open.spotify.com/album/29lmbYEqMojrmpIwvsSuiQ"
-      },
-      "artists": [
-        {
-          "name": "Pentor Jeerapat",
-          "url": "https://open.spotify.com/artist/1tzbg33USpU7CCvirS9ngq"
-        }
-      ],
-      "duration_ms": 214936,
-      "name": "\u0e25\u0e31\u0e01\u0e22\u0e34\u0e49\u0e21 (How Luckyi\u2019m)",
-      "url": "https://open.spotify.com/track/1D8aQuEo5UIjQUgYcZvm9n"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "Situationship",
-        "url": "https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
         "url": "https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ"
@@ -245,7 +181,123 @@
       "url": "https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e07 (you)",
+        "url": "https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        },
+        {
+          "name": "PY-1",
+          "url": "https://open.spotify.com/artist/1ZCpAWyRv4FdWf3Qwwbmoh"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e07 - you",
+      "url": "https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
+        "url": "https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
+      "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e08\u0e33\u0e19\u0e19",
+        "url": "https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "\u0e08\u0e33\u0e19\u0e19",
+      "url": "https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "Aftercry",
+        "url": "https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Aftercry",
+      "url": "https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 212343,
+      "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e07\u0e49\u0e2d\u0e08\u0e30\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (Enough)",
+        "url": "https://open.spotify.com/album/0gzvoH3eADZkekv4bkEzwT"
+      },
+      "artists": [
+        {
+          "name": "QRRA",
+          "url": "https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "\u0e44\u0e21\u0e48\u0e07\u0e49\u0e2d\u0e08\u0e30\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e19\u0e30 (Enough)",
+      "url": "https://open.spotify.com/track/4uNMQ6meoNXG5zzl6USIlk"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "DREAMGALS",
         "url": "https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "FEAT",
         "url": "https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw"
@@ -285,23 +337,7 @@
       "url": "https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 212343,
-      "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (Unforgettable)",
         "url": "https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU"
@@ -317,7 +353,7 @@
       "url": "https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
         "url": "https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f"
@@ -333,7 +369,7 @@
       "url": "https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Pinocchio)",
         "url": "https://open.spotify.com/album/1Mvq5q3RhBlclPsiLEcjvB"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/5NbtMfwNbWlJXF9LoUOS4F"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE) - Single",
         "url": "https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
@@ -381,23 +417,7 @@
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "Magic Moment",
-        "url": "https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 238021,
-      "name": "Magic Moment",
-      "url": "https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "Someone Someday",
         "url": "https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "hot2hot",
         "url": "https://open.spotify.com/album/6qjuFWN9s0z4gho6PWQXQH"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/3eUgJRHtoCxg9T0wV49gKo"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19 (Love Ads)",
         "url": "https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U"
@@ -445,23 +465,7 @@
       "url": "https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
-        "url": "https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn"
-      },
-      "artists": [
-        {
-          "name": "PONCHET",
-          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
-        }
-      ],
-      "duration_ms": 217899,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
-      "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e1e\u0e1a\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs"
@@ -477,7 +481,23 @@
       "url": "https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+        "url": "https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        }
+      ],
+      "duration_ms": 217899,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
+      "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e14\u0e36\u0e01\u0e21\u0e32\u0e01\u0e41\u0e25\u0e49\u0e27 (Night Ride) - Single",
         "url": "https://open.spotify.com/album/6UtRPTFCUI812kj8IFHODm"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/75Bo8CwyOB44OwaXw14w1a"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e0b\u0e48\u0e2d\u0e19(\u0e44\u0e21\u0e48)\u0e2b\u0e32",
         "url": "https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e2b\u0e22\u0e14\u0e19\u0e49\u0e33\u0e15\u0e32 (Tears)",
         "url": "https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e19\u0e48\u0e32\u0e01\u0e25\u0e31\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19 (TRUST ME) - Single",
         "url": "https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e40\u0e01\u0e48\u0e07\u0e41\u0e15\u0e48\u0e25\u0e31\u0e1a\u0e2b\u0e25\u0e31\u0e07",
         "url": "https://open.spotify.com/album/0LNl7udObdHyH8Kg9JxHuO"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/5JmP1f56boflkB8xPbfz2t"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 (Perhaps)",
         "url": "https://open.spotify.com/album/2OeoSY0JnY355A7Qu2QgXZ"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/6uPMLDJzLHsparoyO23Tzo"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
         "url": "https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e25\u0e31\u0e07\u0e40\u0e25",
         "url": "https://open.spotify.com/album/1BX9k3e5SqOAY9nBGEYUhp"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/592XwpszQAW8olTXXIesls"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless) - Single",
         "url": "https://open.spotify.com/album/1iDsrhpGyZfAtoDXXgxhxE"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
         "url": "https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "Because of You, I Shine",
         "url": "https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424"
@@ -677,7 +697,7 @@
       "url": "https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e1b\u0e35\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27 - Single",
         "url": "https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) - Single",
         "url": "https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Unnoticed)",
         "url": "https://open.spotify.com/album/4NFDAt3VZrqAVgAR8SpltV"
@@ -725,23 +745,7 @@
       "url": "https://open.spotify.com/track/1af2PmV5gQRWELZmVrjNMQ"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
-        "url": "https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P"
-      },
-      "artists": [
-        {
-          "name": "SERIOUS BACON",
-          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
-        }
-      ],
-      "duration_ms": 207525,
-      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
-      "url": "https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "DEJAYOU",
         "url": "https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "SUN",
         "url": "https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V"
@@ -773,7 +777,7 @@
       "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e15\u0e1a\u0e1b\u0e32\u0e01 (On That Day)",
         "url": "https://open.spotify.com/album/7HpfZWOU33tf9ht1UZ3nyp"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/4ctnDQ6saTXYs68AodmBZf"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e2d\u0e34\u0e08\u0e09\u0e32 - Single",
         "url": "https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ"
@@ -805,23 +809,7 @@
       "url": "https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E"
     },
     {
-      "added_at": "2024-08-07 08:32:39",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
-        "url": "https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC"
-      },
-      "artists": [
-        {
-          "name": "JustmineNika",
-          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
-        }
-      ],
-      "duration_ms": 215142,
-      "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
-      "url": "https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH"
-    },
-    {
-      "added_at": "2024-08-07 08:32:39",
+      "added_at": "2024-08-08 18:21:29",
       "album": {
         "name": "\u0e40\u0e04\u0e49\u0e32\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19 (Lovefool)",
         "url": "https://open.spotify.com/album/5bqBFRHVmjld8KdFoK8bVw"
@@ -835,6 +823,22 @@
       "duration_ms": 200526,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19 (Lovefool)",
       "url": "https://open.spotify.com/track/2vmEX5b6qbFfLNvD8EvULb"
+    },
+    {
+      "added_at": "2024-08-08 18:21:29",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
+        "url": "https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "duration_ms": 215142,
+      "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
+      "url": "https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH"
     }
   ],
   "unique_name": "T-Pop Now",

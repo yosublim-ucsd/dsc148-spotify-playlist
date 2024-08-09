@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 719950,
+  "num_followers": 719969,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
+        "name": "De Copo Em Copo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        }
+      ],
+      "duration_ms": 158865,
+      "name": "De Copo Em Copo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
         "name": "De Bra\u00e7os Abertos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 192946,
       "name": "Rasp\u00e3o (feat. Simone & Simaria) - Ao Vivo",
       "url": "https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "De Copo Em Copo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        }
-      ],
-      "duration_ms": 158865,
-      "name": "De Copo Em Copo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -883,22 +883,18 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Sensa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq"
       },
       "artists": [
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
         }
       ],
-      "duration_ms": 269306,
-      "name": "Linda Voz (Ol\u00e1)",
-      "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
+      "duration_ms": 211173,
+      "name": "Eu Era",
+      "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -919,18 +915,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/0WvvOZUcB0ZZNV75w1vZXq"
+        "name": "Sensa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/5Vh7WgMgkfdv89oPwPWf6p"
       },
       "artists": [
         {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
         }
       ],
-      "duration_ms": 211173,
-      "name": "Eu Era",
-      "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
+      "duration_ms": 269306,
+      "name": "Linda Voz (Ol\u00e1)",
+      "url": "https://open.spotify.com/track/7MXeSAgdXXsi3BAnuOLcxb"
     },
     {
       "added_at": "2024-07-09 15:59:51",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-07-09 15:59:51",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2024-07-09 15:59:51",
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
-    },
-    {
-      "added_at": "2024-07-09 15:59:51",
-      "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

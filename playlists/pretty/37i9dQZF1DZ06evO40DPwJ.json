@@ -1,12 +1,12 @@
 {
-  "description": "This is Taio Cruz. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 17214,
+  "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
+  "num_followers": 17216,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAADR5xeObkUwCIVIqVhsHb9x",
+  "snapshot_id": "ZrK5AAAAAACSxsUkbFdkohrNgcgPYnCa",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Wonder Stereo",
-          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
-        }
-      ],
-      "duration_ms": 145290,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 257213,
       "name": "Take Me Back Remix - feat. Sway & Chipmunk",
       "url": "https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+        }
+      ],
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
     },
     {
       "added_at": null,

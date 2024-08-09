@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Hwang In Wook\(황인욱\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,275 songs - 3 day 10 hr 31 min
+1,276 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2023-09-14 | 2023-11-03 |
 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 | 2023-09-14 | 2023-11-03 |
 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 | 2024-06-04 |  |
+| [Lovers](https://open.spotify.com/track/6tQlCLRy4j3VsT0FrTHFLI) | [Kim\-ji\-hyun](https://open.spotify.com/artist/4bBXoF6FSIqTWZiv7vnl2T) | [Lovers](https://open.spotify.com/album/5gaTWEYhRyZ1ihQgnWVJRZ) | 4:01 | 2024-08-09 |  |
 | [Lovesick \(Prod\. by Naul\)](https://open.spotify.com/track/2aSmaOoWoC2GPb3i5J9Daw) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5X1uhTLjddBnsq3lxKmTAr) | 4:15 | 2022-12-27 | 2023-02-25 |
 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 | 2023-01-20 | 2023-02-25 |
 | [Lullaby](https://open.spotify.com/track/5btyWod77lGbqKjEGRBvGw) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Lullaby](https://open.spotify.com/album/7LbNOe1dTRHpP9hh48Merc) | 3:49 | 2024-03-15 | 2024-08-01 |

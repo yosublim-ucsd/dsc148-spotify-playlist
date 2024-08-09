@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Loose Fur",
+        "url": "https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI"
+      },
+      "artists": [
+        {
+          "name": "Loose Fur",
+          "url": "https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438040,
+      "name": "Laminated Cat",
+      "url": "https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7"
+    },
+    {
+      "album": {
         "name": "Lost And Latest",
         "url": "https://open.spotify.com/album/1YTMrikZDprUv2cjFlIoOh"
       },
@@ -4106,6 +4124,24 @@
       "duration_ms": 151000,
       "name": "The Orb Of Dreamers",
       "url": "https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP"
+    },
+    {
+      "album": {
+        "name": "Born Again In The USA",
+        "url": "https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs"
+      },
+      "artists": [
+        {
+          "name": "Loose Fur",
+          "url": "https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215053,
+      "name": "The Ruling Class",
+      "url": "https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Popun sevilen isimleri. Kapak: Mert \u00c7odur",
+  "description": "Popun sevilen isimleri. Kapak: Yasir Miy x Batuhan Kordel",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -656,6 +656,28 @@
       "duration_ms": 142679,
       "name": "Delil",
       "url": "https://open.spotify.com/track/6FBtVmBv2LciEc7o02CmF5"
+    },
+    {
+      "album": {
+        "name": "Denizler Derya",
+        "url": "https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX"
+      },
+      "artists": [
+        {
+          "name": "Yasir Miy",
+          "url": "https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW"
+        },
+        {
+          "name": "Batuhan Kordel",
+          "url": "https://open.spotify.com/artist/53GzfAvawfKb966INeFp18"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250865,
+      "name": "Denizler Derya",
+      "url": "https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk"
     },
     {
       "album": {
@@ -1694,7 +1716,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 138440,
       "name": "YANGIN",
       "url": "https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd"

@@ -3600,7 +3600,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 113052,
       "name": "Anthrazit Forever",
       "url": "https://open.spotify.com/track/4eIH7ej36uwIiOfzj3FoBP"
@@ -29506,7 +29506,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -51390,10 +51390,28 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 244288,
       "name": "Verknallt in einen Talahon",
       "url": "https://open.spotify.com/track/2OLLAyKFh6o550MtOXDmtB"
+    },
+    {
+      "album": {
+        "name": "Verknallt in einen Talahon",
+        "url": "https://open.spotify.com/album/12AGYll8oS2wvyNgVE9BxJ"
+      },
+      "artists": [
+        {
+          "name": "Butterbro",
+          "url": "https://open.spotify.com/artist/0Vsr0lDjevcKwhkDbdxxbH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "Verknallt in einen Talahon",
+      "url": "https://open.spotify.com/track/7o36LLyxkSPiEhjQEW54qp"
     },
     {
       "album": {

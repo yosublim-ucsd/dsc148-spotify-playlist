@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Lisandro Cuxi
+> Les hits zouk du moment\. Photo : Lycinaïs Jean
 
-147 songs - 7 hr 50 min
+148 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,5 +155,6 @@
 | [Vivre ou Pardonner](https://open.spotify.com/track/5JMZ9ZTlkTRTH9jsL0sNlF) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Gwins](https://open.spotify.com/artist/6LTbAfj4mFbQGuw2o08rVc) | [Vivre ou Pardonner](https://open.spotify.com/album/34ms9IhHgVIiiTvWLDkbRg) | 3:02 | 2023-12-28 | 2024-07-05 |
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
+| [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

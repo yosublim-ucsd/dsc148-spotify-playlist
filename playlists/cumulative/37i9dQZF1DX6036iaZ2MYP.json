@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Rema",
+  "description": "Tracks popping off in the Afro scene. Cover: Asake",
   "name": "Afro Station",
   "tracks": [
     {
@@ -130,6 +130,28 @@
       "duration_ms": 169898,
       "name": "911",
       "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
+    },
+    {
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
     },
     {
       "album": {
@@ -666,7 +688,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 156679,
       "name": "Baba (Father God)",
       "url": "https://open.spotify.com/track/0u7ybbS3nPHiYUn7Gfg6ZW"
@@ -1284,6 +1306,24 @@
       "duration_ms": 196363,
       "name": "Bust Down",
       "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "album": {
+        "name": "C'est ton jour",
+        "url": "https://open.spotify.com/album/6aymrO43D14WwGcyc0Imd9"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166134,
+      "name": "C'est ton jour",
+      "url": "https://open.spotify.com/track/6Y8hafOUvX1ChbtYBC5m5D"
     },
     {
       "album": {
@@ -1906,7 +1946,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -3425,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "Gear",
+        "url": "https://open.spotify.com/album/5FcfOy05bLckasiQQHpR1X"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Gear",
+      "url": "https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU"
+    },
+    {
+      "album": {
         "name": "Gentility (feat. Wande Coal)",
         "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
       },
@@ -4254,7 +4316,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160078,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB"
@@ -4294,7 +4356,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 152842,
       "name": "JOUJOU",
       "url": "https://open.spotify.com/track/0oNi80I33VmeM46tpDXStY"
@@ -4658,6 +4720,24 @@
       "duration_ms": 196858,
       "name": "La Popo",
       "url": "https://open.spotify.com/track/5CrVILPAHgzk83nnhAGEVF"
+    },
+    {
+      "album": {
+        "name": "LA S\u00c9R\u00c9NADE",
+        "url": "https://open.spotify.com/album/719ClNQ3foCLG2VnEI0Rka"
+      },
+      "artists": [
+        {
+          "name": "Saalva13",
+          "url": "https://open.spotify.com/artist/7ziV83zu4GTZleElZOQM4z"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170917,
+      "name": "LA S\u00c9R\u00c9NADE",
+      "url": "https://open.spotify.com/track/7qBfOpNYXoBjloQEEjgO31"
     },
     {
       "album": {
@@ -5616,7 +5696,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144066,
       "name": "Menteur (feat. Ronisia)",
       "url": "https://open.spotify.com/track/1ktG6CAaqao0wcBvNSLlkS"
@@ -5918,6 +5998,28 @@
       "duration_ms": 193500,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+    },
+    {
+      "album": {
+        "name": "My Dealer (Remix)",
+        "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148235,
+      "name": "My Dealer (Remix)",
+      "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
     },
     {
       "album": {
@@ -7935,6 +8037,24 @@
     },
     {
       "album": {
+        "name": "Honestly,",
+        "url": "https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6aUsMZk5RinEkocINXOBZX"
+    },
+    {
+      "album": {
         "name": "TZA",
         "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
       },
@@ -7946,7 +8066,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175636,
       "name": "Showa",
       "url": "https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb"

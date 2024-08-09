@@ -4,7 +4,7 @@
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-138 songs - 10 hr 0 min
+139 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,9 @@
 | [Possibly Maybe](https://open.spotify.com/track/1tuyf2jFaU9kFevnSiMzGh) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 5:05 | 2024-03-07 | 2024-03-27 |
 | [Possibly Maybe](https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2lYwBB5l7GqgyHFTHz0Itd) | 5:06 | 2024-03-26 |  |
 | [Possibly Maybe](https://open.spotify.com/track/1F4JhiiFTGgga9tC5UuN5v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:06 | 2023-11-10 | 2024-03-08 |
-| [Sacrifice Reprise \- Matthew Herbert's Pins and Needles Mix](https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Bastards](https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw) | 0:37 | 2024-05-03 | 2024-05-17 |
+| [Sacrifice Reprise \- Matthew Herbert's Pins and Needles Mix](https://open.spotify.com/track/45ILeVgfhhK9cb1S6ATeL5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Bastards](https://open.spotify.com/album/0QxZz9rK4ZAAX7UcV9EqQw) | 0:37 | 2024-05-03 |  |
 | [Sharing Orb](https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:48 | 2023-11-10 | 2024-04-30 |
+| [Show Me Forgiveness](https://open.spotify.com/track/09b3awFKYpX8AHUYaF04ty) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 1:23 | 2024-08-09 |  |
 | [Sorrowful Soil](https://open.spotify.com/track/1hxJTaQouJURyxUA7yxOwM) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Sorrowful Soil](https://open.spotify.com/track/2ETLJnzi2cPo6RX3VgzRnl) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 3:15 | 2023-11-10 | 2024-01-31 |
 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 | 2024-03-22 |  |

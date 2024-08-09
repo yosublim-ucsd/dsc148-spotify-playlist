@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        },
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194074,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/6C78ngoYTzfrg3MTHsIj3V"
+    },
+    {
+      "album": {
         "name": "Mechanomorphic",
         "url": "https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w"
       },

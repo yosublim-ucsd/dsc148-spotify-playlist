@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Niky Savage",
+  "description": "Il top dello street rap italiano \ud83d\udd25 Papa V e Nerissima Serpe in cover",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1368,6 +1368,32 @@
       "duration_ms": 150731,
       "name": "Avanti",
       "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+    },
+    {
+      "album": {
+        "name": "AVVOCATO (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp"
+      },
+      "artists": [
+        {
+          "name": "MadPrince",
+          "url": "https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "AVVOCATO (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
     },
     {
       "album": {
@@ -2876,6 +2902,28 @@
       "duration_ms": 274250,
       "name": "Casablanca (feat. Morad)",
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
+    },
+    {
+      "album": {
+        "name": "ECO",
+        "url": "https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89164,
+      "name": "Cassetta di Sicurezza",
+      "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
     },
     {
       "album": {
@@ -6990,7 +7038,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 197040,
       "name": "Ma Belle (feat. Kassimi & Yunes LaGrintaa)",
       "url": "https://open.spotify.com/track/67kspZ54hoRYtc23oQOkRk"
@@ -11054,7 +11102,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 156076,
       "name": "Sto Nella Zone",
       "url": "https://open.spotify.com/track/039gY6O0YbDNMdr0gL2y8F"

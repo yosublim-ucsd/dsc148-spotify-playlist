@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> yungest Moonstar in cover della playlist urban più grande d'Italia 🔥
+> Artie e Guè in cover della playlist urban più grande d'Italia 🔥
 
-571 songs - 1 day 4 hr 3 min
+572 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 | 2023-08-03 | 2024-03-08 |
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-05-15 | 2023-08-04 |
 | [ANIMALE \(feat\. Noyz Narcos & The Whispers\)](https://open.spotify.com/track/0xZ2VIJQlVOY0SlMoQMzfD) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Armageddon](https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq) | 2:37 | 2022-06-02 | 2022-06-17 |
+| [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 | 2024-08-08 |  |
 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-01-13 | 2023-09-22 |
 | [ARMAGEDDON](https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [ARMAGEDDON](https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd) | 2:33 | 2022-05-19 | 2022-06-03 |
 | [Arsenico](https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Santana Season](https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG) | 3:03 | 2023-06-08 | 2023-10-13 |
@@ -528,7 +529,7 @@
 | [Te Quiero](https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Te Quiero](https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j) | 2:43 | 2022-07-21 | 2022-11-25 |
 | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO) | 2:54 | 2024-02-26 | 2024-04-26 |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-05-09 | 2022-10-28 |
-| [Ti Ricordi Di Noi](https://open.spotify.com/track/1K8m7FNx5MxRUTTVLjNN4C) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Ti Ricordi Di Noi](https://open.spotify.com/album/4DZFZYTzKCj2K958jhITg8) | 2:12 | 2024-06-27 |  |
+| [Ti Ricordi Di Noi](https://open.spotify.com/track/1K8m7FNx5MxRUTTVLjNN4C) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Ti Ricordi Di Noi](https://open.spotify.com/album/4DZFZYTzKCj2K958jhITg8) | 2:12 | 2024-06-27 | 2024-08-09 |
 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 | 2023-02-09 | 2023-04-21 |
 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [Tony Montana \(feat\. Guè\)](https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 2:27 | 2023-05-25 | 2023-09-01 |

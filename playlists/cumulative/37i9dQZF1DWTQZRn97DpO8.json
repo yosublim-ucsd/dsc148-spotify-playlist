@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "21 questions",
+        "url": "https://open.spotify.com/album/7JREGYNPEKkXKHM2oBHCtb"
+      },
+      "artists": [
+        {
+          "name": "Zahra!",
+          "url": "https://open.spotify.com/artist/3V2sID96mN3WFBcv7qu6gl"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "21 questions",
+      "url": "https://open.spotify.com/track/30CBJnKLRMP8uRXNqMfsDW"
+    },
+    {
+      "album": {
         "name": "A toi",
         "url": "https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160500,
       "name": "BBM (Freestyle)",
       "url": "https://open.spotify.com/track/6Z5zr8eT7KzOiWcwB4aw9X"
@@ -882,10 +900,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 267398,
       "name": "encore",
       "url": "https://open.spotify.com/track/4BoXY1PkUhvMeXQ862Qtdu"
+    },
+    {
+      "album": {
+        "name": "Encore une fois",
+        "url": "https://open.spotify.com/album/2K671EFv7RZq7yGgefMPvO"
+      },
+      "artists": [
+        {
+          "name": "Lykuin",
+          "url": "https://open.spotify.com/artist/5pvpHit3z6tqI7R2ljivTM"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170018,
+      "name": "Encore une fois",
+      "url": "https://open.spotify.com/track/3jsWcQxYV4xKnCKmiF6dJE"
     },
     {
       "album": {
@@ -944,6 +980,24 @@
       "duration_ms": 158000,
       "name": "Fallait pas",
       "url": "https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5"
+    },
+    {
+      "album": {
+        "name": "FEU",
+        "url": "https://open.spotify.com/album/5lxVTi7KP1uChiFZbDZF0B"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "FEU",
+      "url": "https://open.spotify.com/track/4QgD0HU3APilEvKMGtKWWi"
     },
     {
       "album": {
@@ -1186,7 +1240,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 195500,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5yE3ty0HBNcoS5tGZ4KqIO"
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 164102,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1dDe7WuXUZfZGtdezs1zvm"
@@ -3230,6 +3284,24 @@
       "duration_ms": 178001,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4mpfsfixDXudZSQN8rVjwq"
+    },
+    {
+      "album": {
+        "name": "Tous les deux (version acoustique)",
+        "url": "https://open.spotify.com/album/2H5Fngx8vdGkgvXEzHWpy8"
+      },
+      "artists": [
+        {
+          "name": "Svudvde",
+          "url": "https://open.spotify.com/artist/5QKWzDESEU183DJckjnzMo"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142487,
+      "name": "Tous les deux - version acoustique",
+      "url": "https://open.spotify.com/track/7AE3xJuOyyukbbEMdLaXIJ"
     },
     {
       "album": {

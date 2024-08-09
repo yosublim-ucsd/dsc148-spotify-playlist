@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187332,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 148133,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 208000,
       "name": "DAME",
       "url": "https://open.spotify.com/track/47u4vlcqvJq0KCINnIZCFP"
@@ -1132,6 +1132,24 @@
       "duration_ms": 173793,
       "name": "F&F",
       "url": "https://open.spotify.com/track/7FdhHKFiykcOcsNOGTrh20"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/45PUD0xVsCYzVVfaRHKNBA"
+      },
+      "artists": [
+        {
+          "name": "Nish",
+          "url": "https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5zUA2Q19wjSdy2GdWdhkuw"
     },
     {
       "album": {
@@ -1459,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Galti",
+        "url": "https://open.spotify.com/album/1bkmF78PpX9Pq9fEOGR3C2"
+      },
+      "artists": [
+        {
+          "name": "Mumzy Stranger",
+          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196382,
+      "name": "Galti",
+      "url": "https://open.spotify.com/track/12CA5Cx43B13vInuePIITD"
+    },
+    {
+      "album": {
         "name": "Ghazab Kiya",
         "url": "https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e"
       },
@@ -1572,6 +1608,28 @@
       "duration_ms": 166078,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1mjAb2GZZcNqInQNscm0cu"
+    },
+    {
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "album": {
@@ -1799,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "I Wear My Roots Like a Medal",
+        "url": "https://open.spotify.com/album/0KdlZrJbcxSlCYGpck5BDL"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210041,
+      "name": "I Wear My Roots Like a Medal",
+      "url": "https://open.spotify.com/track/4jNBqvDq5wPhE93fqYMuj0"
+    },
+    {
+      "album": {
         "name": "I'm Yours",
         "url": "https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w"
       },
@@ -1854,7 +1930,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 161232,
       "name": "In Love",
       "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
@@ -2218,7 +2294,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 188638,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/4b5XMjALLKtcTgruHMctTY"
@@ -2620,7 +2696,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159243,
       "name": "Mitran Nu",
       "url": "https://open.spotify.com/track/1AITNgQZqUg2usEfvsxp18"
@@ -2998,7 +3074,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 151900,
       "name": "Out of Our Hands",
       "url": "https://open.spotify.com/track/1aKBaObCl6xUJsj9H4iHmx"
@@ -3366,7 +3442,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 182400,
       "name": "Saza",
       "url": "https://open.spotify.com/track/3Qitcvhk7cEy1dyvuqAyFo"
@@ -3798,7 +3874,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
@@ -3943,6 +4019,28 @@
     },
     {
       "album": {
+        "name": "time & time again",
+        "url": "https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166650,
+      "name": "time & time again",
+      "url": "https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk"
+    },
+    {
+      "album": {
         "name": "The Long Goodbye",
         "url": "https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5"
       },
@@ -4034,7 +4132,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 269650,
       "name": "Tu hai kahan (feat. ZAYN)",
       "url": "https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU"
@@ -4269,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "WATCH THE NEWS.",
+        "url": "https://open.spotify.com/album/0JEvMuhIno9moxh8w6EHwp"
+      },
+      "artists": [
+        {
+          "name": "Duava",
+          "url": "https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "WATCH THE NEWS.",
+      "url": "https://open.spotify.com/track/083iJqL2RrkhjTJ3L2Yi9K"
+    },
+    {
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
       },
@@ -4302,7 +4418,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 211280,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/3aH35oNFzGsCazXBkCsX9g"
@@ -4332,6 +4448,32 @@
       "duration_ms": 177600,
       "name": "Whatchu Sayin'?",
       "url": "https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof"
+    },
+    {
+      "album": {
+        "name": "Wild One (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183923,
+      "name": "Wild One - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd"
     },
     {
       "album": {

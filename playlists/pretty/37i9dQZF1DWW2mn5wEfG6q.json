@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 79828,
+  "num_followers": 79877,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 233133,
       "name": "The Walker",
       "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/74ShfU6i2GfPyqwdc5uGl7"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/1qFb85QhwOqpnAKh7ahsGQ"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Wakin On A Pretty Daze",
-        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 570733,
-      "name": "Wakin on a Pretty Day",
-      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Royal",
         "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 193853,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Wakin On A Pretty Daze",
+        "url": "https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 570733,
+      "name": "Wakin on a Pretty Day",
+      "url": "https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Ice On The Dune",
-        "url": "https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 182518,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
+        "name": "Ice On The Dune",
+        "url": "https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Recover",
-      "url": "https://open.spotify.com/track/5lrKdr43SvPBt9evNOrULo"
+      "duration_ms": 214373,
+      "name": "We Sink",
+      "url": "https://open.spotify.com/track/31IxooDVO2GR9HRUSCdcRG"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
+        "name": "Junip",
+        "url": "https://open.spotify.com/album/2dOk4AI8yVOTMjd6EQJgWP"
       },
       "artists": [
         {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
         }
       ],
-      "duration_ms": 268455,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
+      "duration_ms": 339293,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/6qnY4BjKuT0aFBdDSbXl2q"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1604,9 +1604,9 @@
           "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 214373,
-      "name": "We Sink",
-      "url": "https://open.spotify.com/track/31IxooDVO2GR9HRUSCdcRG"
+      "duration_ms": 225853,
+      "name": "Recover",
+      "url": "https://open.spotify.com/track/5lrKdr43SvPBt9evNOrULo"
     },
     {
       "added_at": "2021-09-02 08:24:19",

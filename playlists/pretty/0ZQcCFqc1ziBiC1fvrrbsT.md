@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,104 likes - 31 songs - 2 hr 4 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,109 likes - 31 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 23 | [Valotus](https://open.spotify.com/track/3Q34KJgFoUykhy5ymytTcx) | [Oranssi Pazuzu](https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW) | [Valotus](https://open.spotify.com/album/1igeXrzU7P8omTsSr30BKe) | 6:57 |
 | 24 | [Selene](https://open.spotify.com/track/3meXRMEexOIrdQbwvhKfDM) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Selene](https://open.spotify.com/album/3yoDGQz5YqgD96RKJyJvLf) | 4:16 |
 | 25 | [Split Lip](https://open.spotify.com/track/1ubum8FIGoUv4Tmvl5GDks) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:03 |
-| 26 | [Hold Tight \- Joshua Idehen Version](https://open.spotify.com/track/4zuGJuZovGWZIFNxLtACZ2) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Hold Tight \(Joshua Idehen Version\)](https://open.spotify.com/album/4rFImk6V1K0UdsY14G26Jl) | 3:53 |
+| 26 | [Hold Tight \- Joshua Idehen Version](https://open.spotify.com/track/4zuGJuZovGWZIFNxLtACZ2) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Hold Tight \- Joshua Idehen Version](https://open.spotify.com/album/4rFImk6V1K0UdsY14G26Jl) | 3:53 |
 | 27 | [Baby Don't \(feat\. Sonnyjim & Quelle Chris\)](https://open.spotify.com/track/1EPgogZburIFP58eu3qP9C) | [NightjaR](https://open.spotify.com/artist/3e0hy8JWiV08PgTNQ7YU37), [Sonnyjim](https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Mala Leche](https://open.spotify.com/album/7tUolFVwCdm0en5oHPgdEv) | 2:13 |
 | 28 | [RB3](https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [RB3](https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8) | 3:59 |
 | 29 | [What’s This About \(La La La La\)](https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [What’s This About \(La La La La\)](https://open.spotify.com/album/6HBrgJUaDMbHlDtCjK7K5d) | 2:10 |

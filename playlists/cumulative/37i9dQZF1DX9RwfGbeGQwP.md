@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,427 songs - 2 day 5 hr 46 min
+1,428 songs - 2 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [fireworks.](https://open.spotify.com/track/0pi7kSRngZUp9sVTotFQVF) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [fireworks.](https://open.spotify.com/album/5DRijL0zZgRqmhJovz4JI3) | 1:23 | 2022-07-29 | 2022-10-29 |
 | [First Floor](https://open.spotify.com/track/7GZlIkLxMSPCyJ3rDf55bV) | [Hicks](https://open.spotify.com/artist/7o25rnG6F8ccCGxmyGY5mV) | [First Floor](https://open.spotify.com/album/2mUNJXJLpPSbNsD4NfE13b) | 1:49 | 2022-09-02 | 2023-01-20 |
 | [First Glow](https://open.spotify.com/track/2geC7uzzwTQfJKcVxIZW9E) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [from Side to Side](https://open.spotify.com/album/6HMqk7SlytWbSZTGsEfxX8) | 2:28 | 2022-12-16 | 2023-10-06 |
-| [First half of a lifetime](https://open.spotify.com/track/3rZXfQugkHjGx7zNUCikbX) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [First half of a lifetime](https://open.spotify.com/album/4PROOFbgJNL3K6ovWvdW7n) | 2:10 | 2023-07-13 |  |
+| [First half of a lifetime](https://open.spotify.com/track/3rZXfQugkHjGx7zNUCikbX) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [First half of a lifetime](https://open.spotify.com/album/4PROOFbgJNL3K6ovWvdW7n) | 2:10 | 2023-07-13 | 2024-08-09 |
 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 | 2023-11-17 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-01-27 | 2023-06-06 |
 | [fizzy pop](https://open.spotify.com/track/1x0vuG5frwPlJ9FNwVwBRX) | [Leevs](https://open.spotify.com/artist/3HHCa5TohONStbWCA2rhEo) | [fizzy pop](https://open.spotify.com/album/7q3FJ623E6o7m0pV2cOMar) | 2:01 | 2023-01-06 |  |
@@ -636,6 +636,7 @@
 | [Journey In](https://open.spotify.com/track/4ir4jAGbMUcLpIfRGI77Ir) | [Freddy Peterson](https://open.spotify.com/artist/1RzMfKmdmXJb7xWw7GPAgt) | [Underwater Cactus](https://open.spotify.com/album/1rFPmXsf0UETLNia2pEfHm) | 1:36 | 2022-01-27 | 2022-07-08 |
 | [Joy](https://open.spotify.com/track/7oPcQduaDluhi2HTJa9kXF) | [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Max Merseny](https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u) | [Joy](https://open.spotify.com/album/6jYt3KaIb1urSHvuFl5kRw) | 2:29 | 2022-12-09 | 2023-10-06 |
 | [Judo Chop](https://open.spotify.com/track/59AsITASniKAmPHKk32ZvL) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Judo Chop](https://open.spotify.com/album/5OhWG3m3P2A0pvPKRzvtE7) | 2:33 | 2022-10-28 | 2023-02-25 |
+| [Juicy Froot](https://open.spotify.com/track/2gIEQuUcjaGBAxPqbPjkLH) | [Elder Ikai](https://open.spotify.com/artist/7nAgG81yJGqa8VUVggonhR) | [Juicy Froot](https://open.spotify.com/album/0e3OgMuDlz98mdaGhAVee4) | 1:43 | 2024-07-25 |  |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2022-01-27 | 2022-09-03 |
 | [Jump Street](https://open.spotify.com/track/17fOJI0gHFFvxsSvUaVUPZ) | [Ayaakaa](https://open.spotify.com/artist/01ilwgX5nHOi7vOkBuTuCU) | [Jump Street](https://open.spotify.com/album/64oFecAuAIGnWVpzyiWYWt) | 2:16 | 2022-10-08 |  |
 | [Jungle Farm](https://open.spotify.com/track/3XqfaNg3E0sJvH71OHPCTQ) | [RWOK](https://open.spotify.com/artist/7d5EiTohz2fYhZntc4lqC5) | [Jungle Farm](https://open.spotify.com/album/2Xlk5pxnk4VQjZzDjorXkX) | 2:26 | 2022-05-13 |  |

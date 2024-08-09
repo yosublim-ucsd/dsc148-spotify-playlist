@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Stormzy",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 166896,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5FUXuii2C6UdjHevv4yKsN"
@@ -954,6 +954,28 @@
       "duration_ms": 194368,
       "name": "Back To Your Roots 2021",
       "url": "https://open.spotify.com/track/5lrwPi7WwJ1HbuKtx4ktIK"
+    },
+    {
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "album": {
@@ -2844,7 +2866,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 156555,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/3kYENrUwhbTu4iylBisph0"
@@ -4424,7 +4446,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 198857,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0ySW1vdmqRwA95VvQOc0GC"
@@ -6162,7 +6184,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 173873,
       "name": "Hey Hey Hey",
       "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
@@ -8829,6 +8851,24 @@
     },
     {
       "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157718,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
+    },
+    {
+      "album": {
         "name": "Troublesome Bubblers EP",
         "url": "https://open.spotify.com/album/264E73xcKhFFObUadgix4f"
       },
@@ -8958,7 +8998,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
@@ -9274,6 +9314,28 @@
       "duration_ms": 147149,
       "name": "Need Ya (I Don't Wanna)",
       "url": "https://open.spotify.com/track/7wc0wpRkVCVtF84g4YbCpH"
+    },
+    {
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/0d3IZo3W37A9NHYLydpuZq"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7ddjdWld2iDF5jblH2Hkzg"
     },
     {
       "album": {
@@ -9958,6 +10020,24 @@
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3MMlRKvRjdexYHISdzMe8w"
+      },
+      "artists": [
+        {
+          "name": "Drumsound & Bassline Smith",
+          "url": "https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208275,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2j19fCLE6ZJFIfTyURMmbj"
     },
     {
       "album": {

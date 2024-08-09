@@ -12153,6 +12153,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5gaTWEYhRyZ1ihQgnWVJRZ"
+      },
+      "artists": [
+        {
+          "name": "Kim-ji-hyun",
+          "url": "https://open.spotify.com/artist/4bBXoF6FSIqTWZiv7vnl2T"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241496,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6tQlCLRy4j3VsT0FrTHFLI"
+    },
+    {
+      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5X1uhTLjddBnsq3lxKmTAr"
       },

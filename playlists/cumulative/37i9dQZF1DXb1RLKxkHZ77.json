@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Angin Rindu",
+        "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Angin Rindu",
+      "url": "https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy"
+    },
+    {
+      "album": {
         "name": "Diandra Arjunaidi - EP",
         "url": "https://open.spotify.com/album/4N65Gs3WBxCBDwUpKaXMBb"
       },
@@ -525,7 +543,7 @@
     },
     {
       "album": {
-        "name": "Ashiap (New Version)",
+        "name": "Ashiap - New Version",
         "url": "https://open.spotify.com/album/02M8rVGX8fAw9mHc6CO45b"
       },
       "artists": [
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 279618,
       "name": "Dawai (From \"Air Mata Di Ujung Sajadah\")",
       "url": "https://open.spotify.com/track/5KKqMjyldESKZbcfEs9QnY"

@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: Justin Nozuka.",
-  "num_followers": 286520,
+  "num_followers": 286515,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "No Problems",
-        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "No Problems",
-      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "hair down (with CHUNG HA)",
         "url": "https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh"
       },
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "TIED UP",
         "url": "https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 143102,
       "name": "TIED UP",
       "url": "https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "LEFT OF ME",
+        "url": "https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "duration_ms": 194172,
+      "name": "LEFT OF ME",
+      "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 253325,
       "name": "the space between us",
       "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "LEFT OF ME",
-        "url": "https://open.spotify.com/album/2eBFKPAzMn0bHJWigIrRiV"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 194172,
-      "name": "LEFT OF ME",
-      "url": "https://open.spotify.com/track/3yekSsyZzNvn9fsm1cznEP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Tragedy",
-        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+        "name": "Grieving",
+        "url": "https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Tragedy",
-      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+      "duration_ms": 259466,
+      "name": "Grieving",
+      "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1219,6 +1219,54 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 170339,
+      "name": "Realms",
+      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Tragedy",
+        "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Tragedy",
+      "url": "https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "what am i to you?",
+        "url": "https://open.spotify.com/album/4F1fh3cqzYI5F8TfmMcft2"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 216258,
+      "name": "what am i to you?",
+      "url": "https://open.spotify.com/track/0T33HdMn39kzzYfoA4IYWl"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "to love in the 21st century: the epilogue",
         "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
       },
@@ -1231,22 +1279,6 @@
       "duration_ms": 165026,
       "name": "july",
       "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Grieving",
-        "url": "https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "Grieving",
-      "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1279,38 +1311,6 @@
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 170339,
-      "name": "Realms",
-      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "what am i to you?",
-        "url": "https://open.spotify.com/album/4F1fh3cqzYI5F8TfmMcft2"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 216258,
-      "name": "what am i to you?",
-      "url": "https://open.spotify.com/track/0T33HdMn39kzzYfoA4IYWl"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "What's Dead and Gone",
+        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "we can't be friends (wait for your love) - Spotify Singles",
         "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
       },
@@ -1707,34 +1723,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "What's Dead and Gone",
-        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Blue Jeans",
-        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
-      },
-      "artists": [
+          "name": "YA\u00d8",
+          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
+        },
         {
-          "name": "Layton Wu",
-          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
+          "name": "me-mai",
+          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
         }
       ],
-      "duration_ms": 189555,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
+      "duration_ms": 186400,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1755,22 +1759,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR"
       },
       "artists": [
         {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        },
-        {
-          "name": "me-mai",
-          "url": "https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS"
+          "name": "Layton Wu",
+          "url": "https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W"
+      "duration_ms": 189555,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sorry Sorry",
-        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 208830,
-      "name": "Sorry Sorry",
-      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "all these little words",
         "url": "https://open.spotify.com/album/2Ku5Gduy0PDHOpT510fknQ"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 145059,
       "name": "summer after senior year",
       "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Sunday Song",
-        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
-      },
-      "artists": [
-        {
-          "name": "Ricecooker",
-          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
-        }
-      ],
-      "duration_ms": 210972,
-      "name": "Sunday Song",
-      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/55JNFgRaT0CFt5FxCOFnJF"
       },
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Sunday Song",
+        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
+      },
+      "artists": [
+        {
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+        }
+      ],
+      "duration_ms": 210972,
+      "name": "Sunday Song",
+      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Million Billion Trillion",
         "url": "https://open.spotify.com/album/4KLGFwlKcIoBiJDGNxPwh1"
       },
@@ -1995,6 +1995,22 @@
       "duration_ms": 155131,
       "name": "Million Billion Trillion",
       "url": "https://open.spotify.com/track/5Mj2za2W4PZ3NDN3d1NYdR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "covent garden",
+        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "covent garden",
+      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2019,22 +2035,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Free Fall",
-        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
-      },
-      "artists": [
-        {
-          "name": "YDE",
-          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "Free Fall",
-      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Solo Dates",
         "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
       },
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "covent garden",
-        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
+        "name": "Free Fall",
+        "url": "https://open.spotify.com/album/4v4laRp7zrtGDtnDuHYh8f"
       },
       "artists": [
         {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
         }
       ],
-      "duration_ms": 181000,
-      "name": "covent garden",
-      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
+      "duration_ms": 164206,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/7cmCvD35NtxCNftzmxqqdA"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "love, k",
-        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Blue Car",
         "url": "https://open.spotify.com/album/2nmTgipc2Mjf7vhtgjkbSl"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 179538,
       "name": "Blue Car",
       "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "love, k",
+        "url": "https://open.spotify.com/album/0kqNCBy6PiWKB13kp3DL1x"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "BOOTYCAKE",
+        "url": "https://open.spotify.com/album/1l247yJZUgGUj9X1n0dFkt"
+      },
+      "artists": [
+        {
+          "name": "LANG",
+          "url": "https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj"
+        }
+      ],
+      "duration_ms": 120263,
+      "name": "BOOTYCAKE",
+      "url": "https://open.spotify.com/track/0CRy6FCPtXC81L2MdRxx7j"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Train Goes Faster",
         "url": "https://open.spotify.com/album/0wX5y6h9xocq3xvcZgeuD9"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 264424,
       "name": "i know you know",
       "url": "https://open.spotify.com/track/3WyZ7dK3zospzqBdVeIVlF"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "BOOTYCAKE",
-        "url": "https://open.spotify.com/album/1l247yJZUgGUj9X1n0dFkt"
-      },
-      "artists": [
-        {
-          "name": "LANG",
-          "url": "https://open.spotify.com/artist/0uXKREU1q51G1LJ1zTg2Cj"
-        }
-      ],
-      "duration_ms": 120263,
-      "name": "BOOTYCAKE",
-      "url": "https://open.spotify.com/track/0CRy6FCPtXC81L2MdRxx7j"
     },
     {
       "added_at": "2024-08-02 04:00:00",

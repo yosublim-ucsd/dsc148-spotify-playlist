@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,596,224 likes - 120 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,456 likes - 120 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 77 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
 | 78 | [L'Amour Toujours](https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [Top 100 Greatest Dance Hits](https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9) | 3:58 |
 | 79 | [Better Off Alone \- 1999 Original Hit Radio](https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo) | [Alice DJ](https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl) | [Better Off Alone \(Laidback Luke Remix\)](https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb) | 3:35 |
-| 80 | [Addiction \- Radio Edit](https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Addiction \(Radio Edit\)](https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7) | 2:53 |
+| 80 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
 | 81 | [Imagination \- Tiësto Remix Radio Edit](https://open.spotify.com/track/1mNiQ0hVgB7xQZ938A8lIJ) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Imagination](https://open.spotify.com/album/2mXLJXAsGZVBPMTcKM25Ar) | 3:45 |
-| 82 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
+| 82 | [Addiction \- Radio Edit](https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Addiction \(Radio Edit\)](https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7) | 2:53 |
 | 83 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
 | 84 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
 | 85 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 |

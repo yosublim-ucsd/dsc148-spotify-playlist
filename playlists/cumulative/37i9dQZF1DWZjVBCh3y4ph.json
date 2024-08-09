@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lisandro Cuxi",
+  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -3000,6 +3000,28 @@
       "duration_ms": 154000,
       "name": "ZABOKA",
       "url": "https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y"
+    },
+    {
+      "album": {
+        "name": "\u00c2me soeur",
+        "url": "https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        },
+        {
+          "name": "Sodaade",
+          "url": "https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225071,
+      "name": "\u00c2me soeur",
+      "url": "https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph"

@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 179408,
       "name": "AGES",
       "url": "https://open.spotify.com/track/7LV1vjZTfneAA8JhzEkJGu"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 205724,
       "name": "already",
       "url": "https://open.spotify.com/track/1RejSc0X7egpG5BSLY0NPv"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 118855,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/1f9ijJOK8yBfdbAar5mtG2"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 173647,
       "name": "BIG (Boast In God)",
       "url": "https://open.spotify.com/track/68wFzksYavCAVmI2mSP9iR"
@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/7ucweGf9t76HnqxMAuzLJE"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115218,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1JX4vTLmAhhFDUoGKomJcx"
+    },
+    {
+      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/1CGQCSHAD5Z0QJAlHOyFnS"
       },
@@ -1518,7 +1540,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 211343,
       "name": "Echoes Of Love",
       "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
@@ -1544,6 +1566,24 @@
       "duration_ms": 139917,
       "name": "EL GIBOR",
       "url": "https://open.spotify.com/track/6FfG8FIsrsDqMjvFY9bTno"
+    },
+    {
+      "album": {
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/35GGIjcUikr8SU0fZUGIEm"
+      },
+      "artists": [
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130539,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/7Asby5UHS9Abm4M4UtSEF9"
     },
     {
       "album": {
@@ -2930,7 +2970,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 129800,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/6bvkN6XCvEIBoqOGVqqCTX"
@@ -4262,7 +4302,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 288574,
       "name": "One Sound",
       "url": "https://open.spotify.com/track/7CLhGGeK8MPlq26HDylXK2"
@@ -4488,7 +4528,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 201355,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/5odjPxvmThtKws5v0lLnCi"
@@ -4576,6 +4616,28 @@
       "duration_ms": 208031,
       "name": "Provider",
       "url": "https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg"
+    },
+    {
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1rbf7G10i9kfVxNYNTcvot"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/5ULJy8nuV7jeNjsjyUpzXw"
     },
     {
       "album": {
@@ -4742,6 +4804,28 @@
       "duration_ms": 165517,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5"
+    },
+    {
+      "album": {
+        "name": "Ride for Me",
+        "url": "https://open.spotify.com/album/202JYr2eF6E1XZV4ADWPeR"
+      },
+      "artists": [
+        {
+          "name": "Quiz Tha Great",
+          "url": "https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v"
+        },
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152526,
+      "name": "Ride for Me",
+      "url": "https://open.spotify.com/track/5FxJJHBkKZfb2OSaYjyDCz"
     },
     {
       "album": {
@@ -4940,7 +5024,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 203773,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/52421Cu6PvzoXcg9FRP27k"
@@ -5230,7 +5314,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 118285,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/36nMiujtkSGqA23A7TxqyW"
@@ -5343,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
+    },
+    {
+      "album": {
         "name": "The Life",
         "url": "https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb"
       },
@@ -5420,7 +5522,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 345892,
       "name": "The Prayer (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/0hExKHoFhWpagUyoKRDBZ0"
@@ -5584,7 +5686,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 178775,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/5cNSb8EdbjGZEVoiNLsObZ"
@@ -5658,7 +5760,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 155113,
       "name": "Time & Time",
       "url": "https://open.spotify.com/track/3gnWNAqWg3gx7eKBgGp6RP"
@@ -5818,7 +5920,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 195953,
       "name": "Ukpalumimawewe",
       "url": "https://open.spotify.com/track/4aKfWknU87KG3TIU9YZjkc"
@@ -5972,7 +6074,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 173824,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/2oI8oznIYnTaT6ijySeSjC"

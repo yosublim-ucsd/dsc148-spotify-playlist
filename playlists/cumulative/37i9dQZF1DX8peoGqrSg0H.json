@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PUN",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 238021,
       "name": "Magic Moment",
       "url": "https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI"
@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Rent It From You",
+        "url": "https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin"
+      },
+      "artists": [
+        {
+          "name": "THIRD",
+          "url": "https://open.spotify.com/artist/66l74k1PsTPSJ5RkdZta3n"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Rent It From You",
+      "url": "https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm"
+    },
+    {
+      "album": {
         "name": "Sad Movie",
         "url": "https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7"
       },
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 166857,
       "name": "Smash or Pass - Original Soundtrack From Out of the nest",
       "url": "https://open.spotify.com/track/442Za23vtvJthRqBVBkSc5"
@@ -3307,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e07 (you)",
+        "url": "https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        },
+        {
+          "name": "PY-1",
+          "url": "https://open.spotify.com/artist/1ZCpAWyRv4FdWf3Qwwbmoh"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e07 - you",
+      "url": "https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e19\u0e48\u0e32\u0e01\u0e25\u0e31\u0e27\u0e02\u0e19\u0e32\u0e14\u0e19\u0e31\u0e49\u0e19 (TRUST ME) - Single",
         "url": "https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn"
       },
@@ -3376,6 +3416,24 @@
       "duration_ms": 266526,
       "name": "\u0e04\u0e34\u0e14(\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48)\u0e16\u0e36\u0e07 (Same Page?)",
       "url": "https://open.spotify.com/track/4Cg2XGrrrczeZRPOnlAG67"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
+        "url": "https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
+      "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
     },
     {
       "album": {
@@ -5623,6 +5681,24 @@
     },
     {
       "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) [Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c]",
+        "url": "https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295205,
+      "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) - Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
+      "url": "https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e01\u0e47\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1"
       },
@@ -6572,7 +6648,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 214936,
       "name": "\u0e25\u0e31\u0e01\u0e22\u0e34\u0e49\u0e21 (How Luckyi\u2019m)",
       "url": "https://open.spotify.com/track/1D8aQuEo5UIjQUgYcZvm9n"
@@ -8308,7 +8384,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 207525,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e14\u0e35\u0e40\u0e14\u0e48\u0e19 (BEST FRIEND 4EVER)",
       "url": "https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj"

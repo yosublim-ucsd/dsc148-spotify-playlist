@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,168 songs - 2 day 18 hr 38 min
+1,169 songs - 2 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Blank](https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS), [mao sasagawa](https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8) | [Blank](https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM) | 3:30 | 2022-08-16 | 2022-09-21 |
 | [Blend \(feat\. 一二三 / 長月翠\)](https://open.spotify.com/track/3RSh5LiIoEMv5jwXqdh71G) | [1 PICTURE 1 STORY](https://open.spotify.com/artist/3sOQRAvO0KJ8jnuhmeuRRT), [一二三](https://open.spotify.com/artist/5vItHKjQjXHkIpgt4MEchO), [長月翠](https://open.spotify.com/artist/0y1Iz10RmnmdhPsIJ2lh1L) | [Blend \(feat\. 一二三 / 長月翠\)](https://open.spotify.com/album/5ObaAmBNkhqT0htpuIR9mk) | 3:12 | 2022-06-13 | 2022-07-22 |
 | [BLUE](https://open.spotify.com/track/6XBLLp49i8tXIEYR7KDYUt) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [BLUE](https://open.spotify.com/album/68FbIirzOmmkc44PrvOQor) | 3:08 | 2023-04-20 | 2023-04-26 |
-| [Blues in the Closet](https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Blues in the Closet](https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK) | 3:37 | 2024-07-09 |  |
+| [Blues in the Closet](https://open.spotify.com/track/4lcupZPn3QWQWQ20C9ZL0M) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [Blues in the Closet](https://open.spotify.com/album/5C3ycPoEWRtvdBClDrH6uK) | 3:37 | 2024-07-09 | 2024-08-09 |
 | [bofura](https://open.spotify.com/track/73um0sa9ZruOYJpAvFVsjV) | [uutubo](https://open.spotify.com/artist/6Lh7ZQo9QtiwY8nS97sYsE) | [bofura](https://open.spotify.com/album/14mbhuQ13lsb31DDUEy4TK) | 0:30 | 2023-02-28 | 2023-03-08 |
 | [Boi](https://open.spotify.com/track/10R7Djb6myvWfSGEsERTOI) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Boi](https://open.spotify.com/album/5Xsomj7rG5iSv8Qk3qK6KR) | 2:55 | 2022-10-04 | 2022-10-21 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-11 | 2024-02-14 |
@@ -442,6 +442,7 @@
 | [おちゃめ機能](https://open.spotify.com/track/7ik8ly4ji6rkL5kKZT1WNs) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [おちゃめ機能](https://open.spotify.com/album/0ZiGyLRfqs3cpvOZhKChpT) | 4:08 | 2022-08-30 | 2022-09-07 |
 | [おとぎ話](https://open.spotify.com/track/4VaY61b9suXhMZYurnQ9Aw) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [おとぎ話](https://open.spotify.com/album/3bazV8zQZipr36Kz3yGrzN) | 3:39 | 2024-05-30 | 2024-07-10 |
 | [おとせサンダー](https://open.spotify.com/track/0TBZ2NGb9es28EVrtJGhic) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [おとせサンダー](https://open.spotify.com/album/0xDJJ5AZvTB2CSxeUrkple) | 4:04 | 2022-06-09 | 2022-09-15 |
+| [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-26 |  |
 | [おもちゃ帝国](https://open.spotify.com/track/7kzFsWhg6ybjZEFcwm66Zq) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [おもちゃ帝国](https://open.spotify.com/album/1L8thhOgKtOt3Vu4xheyrX) | 3:02 | 2023-02-14 | 2023-02-16 |
 | [お先真っ白](https://open.spotify.com/track/4g1vjVw7E6FTrxvLqvoeKH) | [ふぉるて](https://open.spotify.com/artist/62GIO6mAbceXgi32r2g4z4) | [お先真っ白](https://open.spotify.com/album/4Eh5ArG7mLIkpgtziVfM2g) | 2:32 | 2022-07-05 | 2022-07-08 |
 | [かちまみれ](https://open.spotify.com/track/6QnHnoN9fSUjwN8xypyVos) | [是](https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt), [こゑだ](https://open.spotify.com/artist/5DMT5F0o1XI3l5cFM38QpN) | [かちまみれ](https://open.spotify.com/album/1idkBJIxPxQ0jrMXFOsouH) | 3:56 | 2022-06-23 | 2022-06-25 |

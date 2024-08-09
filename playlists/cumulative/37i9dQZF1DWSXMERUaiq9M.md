@@ -2,9 +2,9 @@
 
 ### [rave](https://open.spotify.com/playlist/37i9dQZF1DWSXMERUaiq9M)
 
-> love peace techno
+> T&T like dynamite 🧨  aka the hottest trance & techno tunes of the moment!
 
-299 songs - 19 hr 16 min
+300 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 | 2024-02-23 |  |
 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 | 2024-02-08 | 2024-03-23 |
 | [C\*nt \- DJ\_Ge5und\#eit Edit](https://open.spotify.com/track/4crXKKdCDUYW3fW1UbPpIA) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f), [DJ LUVHUNTAH](https://open.spotify.com/artist/2GuGKV3bZJDQz0ILqbvBrB), [DJ\_Ge5Und\#Eit](https://open.spotify.com/artist/36M0kH4mvj6gsakQo7jMa6) | [C\*nt \(DJ\_Ge5und\#eit Edit\)](https://open.spotify.com/album/0DVoU4K3tMhheP0R31fwQa) | 3:30 | 2024-02-22 | 2024-04-06 |
-| [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-05-18 |  |
+| [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-05-18 | 2024-08-09 |
 | [Can't Forget U](https://open.spotify.com/track/3LIW2sGUzq4SskgzV0halx) | [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Can't Forget U](https://open.spotify.com/album/5jViyYMm1QhiDwzereVWE8) | 1:56 | 2023-06-09 | 2024-06-07 |
 | [Can't Stop The Night](https://open.spotify.com/track/7hPZUHWSGG5Kn9ZI50HvIx) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Can't Stop The Night](https://open.spotify.com/album/79YdrZXt6tBDj4i0Y4gCJS) | 5:33 | 2023-03-10 | 2023-06-29 |
 | [Cannot Compute](https://open.spotify.com/track/59HNP4y9kc2GnnG8LeHmg5) | [ace of demons](https://open.spotify.com/artist/4LDEeahUD24Ju5cXPs7VGG) | [DEMON TIME](https://open.spotify.com/album/4Fye3JBE97Er0DA0Sz0XRf) | 5:02 | 2023-07-10 | 2023-07-18 |
@@ -87,6 +87,7 @@
 | [Drowning](https://open.spotify.com/track/0VqzQ7TOqavkEa4uDYkGnH) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Drowning](https://open.spotify.com/album/0XXxllyCo8iylhxOqwne94) | 4:20 | 2023-09-07 | 2023-09-13 |
 | [du fängst an zu weinen, aber ich weck dich nicht auf \- Remix](https://open.spotify.com/track/5dY4n7ClqRwoxTleYAbwlM) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv), [GAST](https://open.spotify.com/artist/6p8CmCRoWyArAOTnuBmU56) | [du fängst an zu weinen, aber ich weck dich nicht auf \(Remix\)](https://open.spotify.com/album/7tMbaMdHScuc1JNt1lJnM9) | 4:20 | 2024-06-27 | 2024-07-05 |
 | [Du Verlierst Dich](https://open.spotify.com/track/0mS1XkpwqRGVrh98L12p7N) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT) | [Du Verlierst Dich](https://open.spotify.com/album/6mtW2rv2X8J9kDIJo9yLAz) | 3:43 | 2023-11-16 | 2023-11-24 |
+| [Earthquake](https://open.spotify.com/track/5azE1OgMa2Zdd5qEOmOpps) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Earthquake](https://open.spotify.com/album/4SM0hMKnVQ3Of9bfRKZEbQ) | 2:24 | 2024-08-08 |  |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-10 | 2023-06-29 |
 | [Edwin Rosen Vertigo \- Academic Remix](https://open.spotify.com/track/7960s9wdbpgSwGFg2SxHtj) | [Edwin Rosen](https://open.spotify.com/artist/5P7LNVuQRN9Ath8svUaUnV), [Academic](https://open.spotify.com/artist/2sUryncO3HHMUDslIciLZk) | [Edwin Rosen Vertigo \(Academic Remix\)](https://open.spotify.com/album/5G18wJMs69jln4Aw8ZpAFb) | 3:52 | 2023-03-22 | 2023-03-23 |
 | [EINS ZWEI](https://open.spotify.com/track/5TqqYy8XXfHGmnYiZV4eJF) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [EINS ZWEI](https://open.spotify.com/album/5JDhf7woR8UlAk2PlWAC40) | 2:21 | 2024-03-07 |  |

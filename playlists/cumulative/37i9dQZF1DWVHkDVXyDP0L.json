@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Dune Rats",
+  "description": "New and local indie noise. Cover: Teen Jesus and the Jean Teasers",
   "name": "Local Noise",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 227669,
       "name": "Bad Reception",
       "url": "https://open.spotify.com/track/6stOPh1j1fYJOh0I08E6cg"
@@ -226,6 +226,24 @@
       "duration_ms": 189667,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/28L5tmLV0WKV4HTmTqPRhJ"
+    },
+    {
+      "album": {
+        "name": "Bleed But Never Die",
+        "url": "https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172389,
+      "name": "Bleed But Never Die",
+      "url": "https://open.spotify.com/track/1ZTV0DR29Kw0ImAHnIHe5W"
     },
     {
       "album": {
@@ -294,7 +312,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 189591,
       "name": "Breakup",
       "url": "https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS"
@@ -589,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Cost Of Living",
+        "url": "https://open.spotify.com/album/1hzesLwWWraYhyJTSHZJGD"
+      },
+      "artists": [
+        {
+          "name": "Last Quokka",
+          "url": "https://open.spotify.com/artist/4jDXnvhe26sEkChNipL3YV"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131533,
+      "name": "Cost Of Living",
+      "url": "https://open.spotify.com/track/5VbctGkSDXiM3PxHe3RrU2"
+    },
+    {
+      "album": {
         "name": "Prehistoric Chrome",
         "url": "https://open.spotify.com/album/2pxO2g1foNVw2NgV6yHemC"
       },
@@ -726,7 +762,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 165770,
       "name": "Don't Shoot Me",
       "url": "https://open.spotify.com/track/4tNqWfeIivsb0TCqo0QEoQ"
@@ -748,6 +784,46 @@
       "duration_ms": 246973,
       "name": "Draw the Line",
       "url": "https://open.spotify.com/track/7dt2qvpL4LO1MizChvAFhf"
+    },
+    {
+      "album": {
+        "name": "Dull (feat. Softcult)",
+        "url": "https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195303,
+      "name": "Dull (feat. Softcult)",
+      "url": "https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT"
+    },
+    {
+      "album": {
+        "name": "eleveneleven (short)",
+        "url": "https://open.spotify.com/album/562h7Ky6nGyVg8fTs1fqfI"
+      },
+      "artists": [
+        {
+          "name": "Fan Girl",
+          "url": "https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248061,
+      "name": "eleveneleven - short",
+      "url": "https://open.spotify.com/track/6ouZRw6LHIVWtxs44QNazP"
     },
     {
       "album": {
@@ -852,10 +928,28 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180740,
       "name": "fibreglass",
       "url": "https://open.spotify.com/track/4kVo2Er6puHPUcagHcq3k5"
+    },
+    {
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
       "album": {
@@ -892,6 +986,24 @@
       "duration_ms": 173410,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/1CfOSnxdh51BmF95wAaBqP"
+    },
+    {
+      "album": {
+        "name": "FISHSACK",
+        "url": "https://open.spotify.com/album/1tLCiV9OJr0pcfXGLttBQ2"
+      },
+      "artists": [
+        {
+          "name": "dogworld",
+          "url": "https://open.spotify.com/artist/705EfRTwmRqmocyAbjp3BR"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200654,
+      "name": "FISHSACK",
+      "url": "https://open.spotify.com/track/52NiXjaFL8Bvbovwdbqlds"
     },
     {
       "album": {
@@ -996,7 +1108,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184874,
       "name": "He Is Dead",
       "url": "https://open.spotify.com/track/6nMm6GpqTB0xpLrQguqTZy"
@@ -1147,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "HOT MESS",
+        "url": "https://open.spotify.com/album/6nT5hqcDpuYXssUPI5WXx9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hunter",
+          "url": "https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "HOT MESS",
+      "url": "https://open.spotify.com/track/1dKlvNXx9uIOcb4GW8kGE8"
+    },
+    {
+      "album": {
         "name": "How Dare You Fall In Love In This City",
         "url": "https://open.spotify.com/album/3USTrE8ybIHl8Ax8vL5C5A"
       },
@@ -1158,7 +1288,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 228340,
       "name": "How Dare You Fall In Love In This City",
       "url": "https://open.spotify.com/track/0G3g1Wk5pcIgV7UsUxZrli"
@@ -1176,7 +1306,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 174526,
       "name": "Humming",
       "url": "https://open.spotify.com/track/67vRUdZ6UJPTTzce2H7nl3"
@@ -1591,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180723,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO"
+    },
+    {
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/1zRjNanGbPUt5R7XUFkhKx"
       },
@@ -1663,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Midnight Zoo",
+        "url": "https://open.spotify.com/album/1EX2bcWQID2JFOTbfGSqSR"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218222,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2Q0ZhEGwLcjxKlfbMiXcMU"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE"
       },
@@ -1732,7 +1898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 232000,
       "name": "Morningside",
       "url": "https://open.spotify.com/track/43FlUzL0K5A27mJcemLx7r"
@@ -1790,6 +1956,24 @@
       "duration_ms": 263273,
       "name": "Nectarine Fuzz",
       "url": "https://open.spotify.com/track/4slpmI7PQm7pZwabFYPLii"
+    },
+    {
+      "album": {
+        "name": "Oyster Cuts",
+        "url": "https://open.spotify.com/album/2fPGjCMtDIdcsje6DtNWf9"
+      },
+      "artists": [
+        {
+          "name": "Quivers",
+          "url": "https://open.spotify.com/artist/0YUqHKQEwFgGaDVSaHTS55"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237151,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/5sQnS7HSMDgIs74Vp2WbcU"
     },
     {
       "album": {
@@ -1858,7 +2042,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 202440,
       "name": "Not My Day",
       "url": "https://open.spotify.com/track/0bxIKkkQGkuo8eS25sA0Ur"
@@ -1876,7 +2060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 215521,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/342QGFD36OfWqGhjCCA66V"
@@ -2027,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "Surface World",
+        "url": "https://open.spotify.com/album/5Fnd3Md7flbsdcJb2ejnsR"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166611,
+      "name": "Peakin",
+      "url": "https://open.spotify.com/track/60W8EMzFfSSJfquZpLy2dZ"
+    },
+    {
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/3qWPK1NcrePDag3fbByoiw"
       },
@@ -2154,6 +2356,24 @@
       "duration_ms": 192946,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/1fwRmYPwZgnR2zEkkfk6u9"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "album": {
@@ -2348,7 +2568,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 250348,
       "name": "Silicone Booby Trap",
       "url": "https://open.spotify.com/track/1WQEhFY3hhl62gRz9VfLIf"
@@ -2445,6 +2665,24 @@
     },
     {
       "album": {
+        "name": "Softness",
+        "url": "https://open.spotify.com/album/6KzHzOndRVMEx7M7gUsFcL"
+      },
+      "artists": [
+        {
+          "name": "Jess Day",
+          "url": "https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178786,
+      "name": "Softness",
+      "url": "https://open.spotify.com/track/7rwmhP8cWi0lPLvxcGcaN1"
+    },
+    {
+      "album": {
         "name": "Sow",
         "url": "https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu"
       },
@@ -2492,7 +2730,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 149890,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/3RCGt2PEinMbwRHWURigBg"
@@ -2582,7 +2820,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175951,
       "name": "Superweak",
       "url": "https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3"
@@ -2708,7 +2946,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 178965,
       "name": "This is Not a Love Song",
       "url": "https://open.spotify.com/track/48A3x9w38tLkIZsfD5tF0Z"
@@ -2820,6 +3058,24 @@
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/78M1yD6saOARIetMj8iXIn"
+      },
+      "artists": [
+        {
+          "name": "Sophian",
+          "url": "https://open.spotify.com/artist/2wO1VSNDNjlMlJzH7vUQsQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0YBrYDh7YCU3CY6mex6Gx5"
     },
     {
       "album": {
@@ -2996,7 +3252,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 229303,
       "name": "Young Dumb Immature",
       "url": "https://open.spotify.com/track/3z5WMvblcXCYkwclMdG08r"

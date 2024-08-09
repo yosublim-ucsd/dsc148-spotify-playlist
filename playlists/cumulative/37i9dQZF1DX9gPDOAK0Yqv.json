@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Both of Us",
+        "url": "https://open.spotify.com/album/68dG6aoGqhFoq7gpCA3NNi"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277080,
+      "name": "Both Of Us",
+      "url": "https://open.spotify.com/track/3CmCiyqRN4z3u1ZUDMywY2"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
       },
@@ -4178,7 +4196,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 209340,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5tjKn1vs9VXuiX1oQn4zzK"
@@ -5794,6 +5812,32 @@
       "duration_ms": 193259,
       "name": "Love",
       "url": "https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272180,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
     },
     {
       "album": {
@@ -8564,7 +8608,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 221346,
       "name": "Save Me - K\u00f6lsch Remix",
       "url": "https://open.spotify.com/track/1g8Ae2dCsTce1mu9yMZDAF"
@@ -9808,7 +9852,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 278522,
       "name": "Telepathic",
       "url": "https://open.spotify.com/track/0MyztaslwZeqsnYPaLmREB"

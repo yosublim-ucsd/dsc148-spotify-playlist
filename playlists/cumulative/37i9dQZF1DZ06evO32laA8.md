@@ -2,7 +2,7 @@
 
 ### [This Is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
 
-> This Is Isabel LaRosa\. Todas as faixas essenciais numa única playlist.
+> This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
 20 songs - 48 min 4 sec
 

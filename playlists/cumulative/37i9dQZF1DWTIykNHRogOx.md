@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Philippe Katerine
+> Le meilleur de la chanson française actuelle\. Photo : Clara Ysé
 
 57 songs - 3 hr 9 min
 

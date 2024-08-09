@@ -2,9 +2,9 @@
 
 ### [Greek Pop](https://open.spotify.com/playlist/37i9dQZF1DXcdjiQ3xtMUy)
 
-> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros
+> Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros, Light
 
-69 songs - 3 hr 40 min
+70 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [9ARI](https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [9ARI](https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6) | 2:52 | 2024-06-27 |  |
 | [Adynamia](https://open.spotify.com/track/16raHOoaXzmFMZRPGZinEE) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Adynamia](https://open.spotify.com/album/2hqUF41u8zbzEUOCA4KWxm) | 3:01 | 2024-06-27 |  |
 | [Aeroplano](https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Aeroplano](https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU) | 3:00 | 2024-06-27 |  |
+| [Alli Mia Fora](https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Alli Mia Fora](https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2) | 3:23 | 2024-08-08 |  |
 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 | 2024-06-27 |  |
 | [Amartolo](https://open.spotify.com/track/7n7zKCCkzYHBlh9ZrDuytS) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Amartolo](https://open.spotify.com/album/0fo8Q6whl8LOWKB8ukPLJ1) | 2:14 | 2024-07-25 |  |
 | [Amen](https://open.spotify.com/track/24fOgjgY2y4FLJxFUYaxHv) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Amen](https://open.spotify.com/album/2bDleEMkP1PpGDGk1Tbcts) | 3:13 | 2024-06-27 | 2024-07-05 |
@@ -33,7 +34,7 @@
 | [Halima](https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n) | [KONY](https://open.spotify.com/artist/0uf238oeLAQXNuy8WNKgce), [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Halima](https://open.spotify.com/album/2Zt6kRIh2TjWqEW1G4y8b7) | 2:49 | 2024-06-27 |  |
 | [Iliggos](https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Iliggos](https://open.spotify.com/album/4GKz0pYvJiFWpdTlVaO8so) | 3:48 | 2024-06-27 |  |
 | [Kalokeri](https://open.spotify.com/track/3AVeVxO7MJYiaeROQ51vpp) | [Natasa Theodoridou](https://open.spotify.com/artist/4hw4chBwI0fvJltPiQxPPD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Kalokeri](https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul) | 4:01 | 2024-07-11 |  |
-| [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2024-06-27 |  |
+| [Kolima](https://open.spotify.com/track/5bTMHSl3hGjMfbMMig1E3L) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Kolima](https://open.spotify.com/album/31EO338Vqw3b1i8UUoFQCh) | 2:42 | 2024-06-27 | 2024-08-09 |
 | [Kornaro \- Remix](https://open.spotify.com/track/527rcJEpvVxbOZ7PEWFHUP) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Stathis Xenos](https://open.spotify.com/artist/5FeKhXptHU77W3PaUiehYf) | [Kornaro \(Remix\)](https://open.spotify.com/album/6IEHylAyKOxHdWAeFEcTS3) | 3:36 | 2024-07-11 |  |
 | [Krypsou](https://open.spotify.com/track/7kvlJ0hzUxHUvy6XdNn2g3) | [Jenny Georgiadi](https://open.spotify.com/artist/7CiW0X8FYCQOhskclPFkxo), [Onirama](https://open.spotify.com/artist/0aFk1wZrmQnSHmbSMiZUes) | [Krypsou](https://open.spotify.com/album/5HAzznEHA6Lga7u075Pju3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [La Luna](https://open.spotify.com/track/3tQrKUTDaEu6pDGVkgdO3Q) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [La Luna](https://open.spotify.com/album/61nNIzXToDj4oTzW5MtaSI) | 3:05 | 2024-07-04 |  |

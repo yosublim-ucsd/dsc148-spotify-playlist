@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,663 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,706 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 16 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
 | 17 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
 | 18 | [Three Little Birds](https://open.spotify.com/track/6z57WJ5dJzqRE310vPa4ng) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rylyn Clark](https://open.spotify.com/artist/6kNu4a4naUgu4t6eaePJ5k) | [Three Little Birds](https://open.spotify.com/album/0BD4o1DUnDP5DgMEfFqfWs) | 2:21 |
-| 19 | [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 |
-| 20 | [EL VIAJE](https://open.spotify.com/track/2Gf5W273JIWOX0MVF2TGpA) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [EL VIAJE](https://open.spotify.com/album/1QdRZ2LRVYGWxhlZC50OUv) | 3:30 |
-| 21 | [Diamante](https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:03 |
-| 22 | [I Go Meow](https://open.spotify.com/track/0ewurUrBfHTTWGlBurGUNo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG) | [I Go Meow](https://open.spotify.com/album/0hASQvKpWjWLjpsKU7igfR) | 2:11 |
-| 23 | [Taste The Air](https://open.spotify.com/track/5Oz8EVkTWIMHxpPIPsnHki) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:29 |
-| 24 | [Bad Kids](https://open.spotify.com/track/0gjcEL2CTKu3fT9qMVVu2w) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 3:26 |
-| 25 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence \(Selected Version\)](https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C) | 4:24 |
-| 26 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
-| 27 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
-| 28 | [Agar](https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Agar](https://open.spotify.com/album/4997xeKpXksWmrxR0GnDoz) | 5:00 |
-| 29 | [Telescope](https://open.spotify.com/track/23OSfYuny7LLnWHtWVV3bs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:46 |
-| 30 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 |
-| 31 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
-| 32 | [TONY MONTANA](https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [TONY MONTANA](https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0) | 3:35 |
-| 33 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
+| 19 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 |
+| 20 | [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 |
+| 21 | [EL VIAJE](https://open.spotify.com/track/2Gf5W273JIWOX0MVF2TGpA) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [EL VIAJE](https://open.spotify.com/album/1QdRZ2LRVYGWxhlZC50OUv) | 3:30 |
+| 22 | [Diamante](https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH) | [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Los manantiales](https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o) | 3:03 |
+| 23 | [I Go Meow](https://open.spotify.com/track/0ewurUrBfHTTWGlBurGUNo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG) | [I Go Meow](https://open.spotify.com/album/0hASQvKpWjWLjpsKU7igfR) | 2:11 |
+| 24 | [Taste The Air](https://open.spotify.com/track/5Oz8EVkTWIMHxpPIPsnHki) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Taste The Air \(Julia Holter Mix\)](https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc) | 3:29 |
+| 25 | [Bad Kids](https://open.spotify.com/track/0gjcEL2CTKu3fT9qMVVu2w) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [TTRRUUCES](https://open.spotify.com/album/1gOrHrLpZFhoWxhCJEiNiL) | 3:26 |
+| 26 | [サウナ好きすぎ、より深く](https://open.spotify.com/track/3BkCqKn1oS3FKzOT2yRZH6) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Ethereal Essence \(Selected Version\)](https://open.spotify.com/album/7iiqrYw9JfizsKVMXrFE8C) | 4:24 |
+| 27 | [Sun Colored Eyes](https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Harvest](https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk) | 3:55 |
+| 28 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
+| 29 | [Agar](https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Agar](https://open.spotify.com/album/4997xeKpXksWmrxR0GnDoz) | 5:00 |
+| 30 | [Telescope](https://open.spotify.com/track/23OSfYuny7LLnWHtWVV3bs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:46 |
+| 31 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 |
+| 32 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 |
+| 33 | [TONY MONTANA](https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [TONY MONTANA](https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0) | 3:35 |
+| 34 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 
-Snapshot ID: `ZrLiXgAAAAB86ujXpOM0p6k6eFevEEuX`
+Snapshot ID: `ZrTR2wAAAABRYz8CpBt/+5VUXWZeM2EK`

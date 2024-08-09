@@ -2,9 +2,9 @@
 
 ### [Rock 2024](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Barry B, Carolina Durante.
+> Súbete a la nueva ola del rock español\. Foto: Barder.
 
-128 songs - 6 hr 48 min
+129 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [No me devuelvas la palabra](https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [No me devuelvas la palabra](https://open.spotify.com/album/0zjMHavVCHz9n5vuMwEUbl) | 3:03 | 2024-06-27 |  |
 | [No Puedo Más](https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [No Puedo Más](https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj) | 3:04 | 2024-06-27 |  |
 | [No te has enterado](https://open.spotify.com/track/6jg5hvORuoaKpxTsDBDXdg) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No te has enterado](https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9) | 3:10 | 2024-06-27 | 2024-07-27 |
-| [No te voy a besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No te voy a besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 |  |
+| [No te voy a besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No te voy a besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-08-09 |
 | [No va a doler](https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [No va a doler](https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1) | 2:40 | 2024-06-27 |  |
 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 | 2024-06-27 |  |
 | [nunca voy a decirte lo que quiero decirte](https://open.spotify.com/track/4p0Cbn2Hq30afyP6AyPfef) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc), [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [13m² con trastos de por medio](https://open.spotify.com/album/3NTJpNjsxmvblquqWCfrRF) | 3:31 | 2024-08-01 |  |
@@ -98,6 +98,7 @@
 | [Piensa en mí](https://open.spotify.com/track/5C1mVFpqXdnCpDUtDgpije) | [Sueño Xanadú](https://open.spotify.com/artist/0EEtOnJrRGSEFHKAGJ7wPn) | [Piensa en mí](https://open.spotify.com/album/2T2lkQCc9FzfG1r5ERUkqx) | 2:34 | 2024-07-25 |  |
 | [Pitbull](https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Pitbull](https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw) | 2:55 | 2024-06-27 |  |
 | [Plan de Mierda](https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Diego Ibañez](https://open.spotify.com/artist/7k6NtcAJIqG7iiFPd7KdMo) | [Plan de Mierda](https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4) | 3:22 | 2024-06-27 |  |
+| [Por si te pierdes](https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [Por si te pierdes](https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE) | 3:08 | 2024-08-08 |  |
 | [Porno](https://open.spotify.com/track/6VcbzRsGlWf3JKsKSykVaG) | [Vicente Calderón](https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN) | [Porno](https://open.spotify.com/album/2DRvZbUal4kRyTkW33jvoD) | 2:46 | 2024-06-27 | 2024-07-04 |
 | [Premonición](https://open.spotify.com/track/43Uy9y0xKRjCPFz2AEdj34) | [Capsula](https://open.spotify.com/artist/4JSzzwHzs5cp6dm2onRPRd) | [Premonición](https://open.spotify.com/album/199LyCLvxz9v5LEzj8hMfu) | 2:45 | 2024-07-04 | 2024-07-27 |
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2024-06-27 |  |

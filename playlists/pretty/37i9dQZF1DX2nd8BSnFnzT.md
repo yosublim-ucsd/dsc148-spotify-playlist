@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Titãs
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,138 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,123 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 60 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 |
 | 61 | [Mercador das Almas \- Ao Vivo](https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Roque Marciano \(Ao Vivo\)](https://open.spotify.com/album/3wfEBgPs5sbkqQonQH2ce4) | 3:22 |
 | 62 | [PRECISO DELA](https://open.spotify.com/track/61xqF9J7cidCByb0Li6OZF) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [PRECISO DELA](https://open.spotify.com/album/51U8maeYa6UPqkoIievl5W) | 2:23 |
-| 63 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x), [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
+| 63 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \- Acústico](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 64 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 65 | [um novo jeito de se machucar](https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [um novo jeito de se machucar](https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F) | 3:09 |
 | 66 | [Fátima Bernardes Experiência](https://open.spotify.com/track/16WKRMVfYCq9gHMPrXLcQt) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Fátima Bernardes Experiência](https://open.spotify.com/album/7LsGmCQ8BEk7UB398pa7fS) | 4:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Fiorella
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,890 likes - 71 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,912 likes - 71 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 6 | [Problema de Longe \- Ao Vivo](https://open.spotify.com/track/0DHFlQ3Hn1fSmIZsCjt7b8) | [Otávio Cillo](https://open.spotify.com/artist/5M6szGWX5JPWuxzXfrln9x) | [Otávio Cillo Ao Vivo](https://open.spotify.com/album/3E84VzpVpWrPdL0lw14CRo) | 2:42 |
 | 7 | [Vai Trouxa](https://open.spotify.com/track/7Hf1Ur1IvhvikKB7SWZaBX) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Vai Trouxa](https://open.spotify.com/album/1q7glKh3cKJqCHEI4apkl6) | 2:57 |
 | 8 | [Gemidinho de Transa](https://open.spotify.com/track/6KUU7ruDJ1KDBSfoHa6xX2) | [João Luiz e Josiane](https://open.spotify.com/artist/0yOql72zM4nxFJBzrIcJ6s), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Gemidinho de Transa](https://open.spotify.com/album/4abhx1J0B2DijVPkWgt2Xf) | 2:25 |
-| 9 | [Ela não sabe terminar \- Ao Vivo](https://open.spotify.com/track/4WLS3uOk1WDvQogBoWXsgE) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [2162 \(Ao vivo\)](https://open.spotify.com/album/4NGjz0FS6m0FDGiod0maIa) | 2:41 |
+| 9 | [Ela não sabe terminar \- Ao Vivo](https://open.spotify.com/track/4WLS3uOk1WDvQogBoWXsgE) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [2162 \- Ao vivo](https://open.spotify.com/album/4NGjz0FS6m0FDGiod0maIa) | 2:41 |
 | 10 | [Aquela Boca](https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Aquela Boca](https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd) | 2:44 |
 | 11 | [Eu Vou Beber por Três \- Ao Vivo](https://open.spotify.com/track/4gqpHnl9VXuPNUC5rK3Uoe) | [Emílio & Eduardo](https://open.spotify.com/artist/0rlTeq5Mamduy8suAxsWuO), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Eu Vou Beber por Três \(Ao Vivo\)](https://open.spotify.com/album/4aRdFIGn6FjyF6uoCfeF5W) | 2:43 |
 | 12 | [Mulheres Fortes \- Ao Vivo](https://open.spotify.com/track/3hw2YKjAWWuL9XU0u7n0Mr) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Ao Vivo Em Rio Preto \(Ao Vivo / EP02\)](https://open.spotify.com/album/01Jnd6nzb4AIWvl91XUnmh) | 2:53 |

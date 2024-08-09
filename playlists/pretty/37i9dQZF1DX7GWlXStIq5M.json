@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Zaynara, Pabllo Vittar",
-  "num_followers": 372332,
+  "num_followers": 372333,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,30 @@
     {
       "added_at": "2024-08-02 12:06:01",
       "album": {
+        "name": "Vibezinha",
+        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        }
+      ],
+      "duration_ms": 148325,
+      "name": "Vibezinha",
+      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
+    },
+    {
+      "added_at": "2024-08-02 12:06:01",
+      "album": {
         "name": "o \u00faltimo",
         "url": "https://open.spotify.com/album/0h7quIDwRpxnwkg8kA4OXD"
       },
@@ -987,6 +1011,34 @@
       "duration_ms": 145233,
       "name": "o \u00faltimo",
       "url": "https://open.spotify.com/track/0QSnslyJGNhl1kNyJeBQAa"
+    },
+    {
+      "added_at": "2024-08-02 12:06:01",
+      "album": {
+        "name": "METamorFOSE",
+        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Saffi",
+          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
+        }
+      ],
+      "duration_ms": 266581,
+      "name": "C\u00c9U",
+      "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
     },
     {
       "added_at": "2024-08-02 12:06:01",
@@ -1027,58 +1079,6 @@
       "duration_ms": 290902,
       "name": "Para De Dizer Que N\u00e3o Me Ama - Ao Vivo",
       "url": "https://open.spotify.com/track/3s0RLXyjavjaiZdAhqUHIx"
-    },
-    {
-      "added_at": "2024-08-02 12:06:01",
-      "album": {
-        "name": "METamorFOSE",
-        "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Saffi",
-          "url": "https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k"
-        }
-      ],
-      "duration_ms": 266581,
-      "name": "C\u00c9U",
-      "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
-    },
-    {
-      "added_at": "2024-08-02 12:06:01",
-      "album": {
-        "name": "Vibezinha",
-        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        },
-        {
-          "name": "Cabrera",
-          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
-        }
-      ],
-      "duration_ms": 148325,
-      "name": "Vibezinha",
-      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
     },
     {
       "added_at": "2024-08-02 12:06:01",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2024-08-02 12:06:01",
       "album": {
+        "name": "Futura Rica",
+        "url": "https://open.spotify.com/album/4YWf5HGQD3eePBJtT5Vi56"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Futura Rica",
+      "url": "https://open.spotify.com/track/2vjPVtkNWxfG2BB6cnPbeo"
+    },
+    {
+      "added_at": "2024-08-02 12:06:01",
+      "album": {
         "name": "Segredos da Vida",
         "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
       },
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2024-08-02 12:06:01",
       "album": {
-        "name": "Futura Rica",
-        "url": "https://open.spotify.com/album/4YWf5HGQD3eePBJtT5Vi56"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Futura Rica",
-      "url": "https://open.spotify.com/track/2vjPVtkNWxfG2BB6cnPbeo"
-    },
-    {
-      "added_at": "2024-08-02 12:06:01",
-      "album": {
         "name": "Ai, Que Calor",
         "url": "https://open.spotify.com/album/1ZdCeqypeVqs47668BjdkZ"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 144262,
       "name": "Ai, Que Calor",
       "url": "https://open.spotify.com/track/32z2SmKSxh80H0LfnDpD1m"
-    },
-    {
-      "added_at": "2024-08-02 12:06:01",
-      "album": {
-        "name": "Deusa",
-        "url": "https://open.spotify.com/album/2sCCmE3wj6hxouVqdYWn69"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00ea",
-          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
-        },
-        {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "duration_ms": 256008,
-      "name": "Deusa",
-      "url": "https://open.spotify.com/track/1aWTQbZed8uGndsEtFNN5e"
     },
     {
       "added_at": "2024-08-02 12:06:01",
@@ -1443,6 +1423,26 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2024-08-02 12:06:01",
+      "album": {
+        "name": "Deusa",
+        "url": "https://open.spotify.com/album/2sCCmE3wj6hxouVqdYWn69"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 256008,
+      "name": "Deusa",
+      "url": "https://open.spotify.com/track/1aWTQbZed8uGndsEtFNN5e"
     },
     {
       "added_at": "2024-08-02 12:06:01",

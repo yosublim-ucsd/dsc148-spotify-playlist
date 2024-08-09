@@ -6,7 +6,7 @@
     "name": "Jesseka",
     "url": "https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6"
   },
-  "snapshot_id": "AAAGSzRyeq62ZW+TQSLOtbpYWkvGdSWC",
+  "snapshot_id": "AAAGTVaZogpsR4nWkvTl9ZhG/33q623w",
   "tracks": [
     {
       "added_at": "2021-11-26 04:21:31",
@@ -16201,7 +16201,7 @@
         },
         {
           "name": "MC Focus",
-          "url": "https://open.spotify.com/artist/65rNcn9WBuD5fW11VmGVuf"
+          "url": "https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY"
         }
       ],
       "duration_ms": 158403,
@@ -18721,7 +18721,7 @@
         },
         {
           "name": "MC Focus",
-          "url": "https://open.spotify.com/artist/65rNcn9WBuD5fW11VmGVuf"
+          "url": "https://open.spotify.com/artist/2WZK4ltsxqMCsLbsjzfGyY"
         },
         {
           "name": "Aversion",
@@ -29303,6 +29303,50 @@
       "duration_ms": 194341,
       "name": "Destiny Awakes",
       "url": "https://open.spotify.com/track/2L3xAX7ibbYLpgTF339zfE"
+    },
+    {
+      "added_at": "2024-08-08 11:07:52",
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/3kZr8P3kymA4xQfaGMDG3d"
+      },
+      "artists": [
+        {
+          "name": "Barber",
+          "url": "https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W"
+        },
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        },
+        {
+          "name": "Manifest Destiny",
+          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/2Q7jwDIhftg8FqKD9O2or6"
+    },
+    {
+      "added_at": "2024-08-08 21:33:23",
+      "album": {
+        "name": "Break It Loose",
+        "url": "https://open.spotify.com/album/7ge26chWtQggMdNNyWEq6N"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Break It Loose",
+      "url": "https://open.spotify.com/track/21sqMiNvl7VA7hnhAPvmFS"
     }
   ],
   "unique_name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Uptempo/Hard Dance",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB3FmU8HgkyStXnQNtmjgFG",
+  "snapshot_id": "AAAAAAAAAABICS2cm3+g0yg7J+J71wzg",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "The Punishment (Lockdown)",
+        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 195220,
+      "name": "The Punishment (Lockdown)",
+      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 195220,
-      "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "U.S. Blues (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/0iX61Dfmg6WoimYQuohiCD"
       },
@@ -135,6 +135,26 @@
       "duration_ms": 349150,
       "name": "U.S. Blues - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Rock Star Shit",
+        "url": "https://open.spotify.com/album/1Ufh7fFQk2PcQcTskAwWCA"
+      },
+      "artists": [
+        {
+          "name": "Destropues",
+          "url": "https://open.spotify.com/artist/70tdVd2KaiiuMYCBDW1IyT"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "Rock Star Shit",
+      "url": "https://open.spotify.com/track/6wnlnnv53tkrdCZmp5i7il"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -183,38 +203,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "LICENCE 2 ILL... WID DA WU",
-        "url": "https://open.spotify.com/album/0FCD2M8hArRvN5eyAbrFtG"
-      },
-      "artists": [
-        {
-          "name": "Optimystic",
-          "url": "https://open.spotify.com/artist/0TWuCOdiUkECiQ0G6zz44M"
-        },
-        {
-          "name": "Lord Vladagus",
-          "url": "https://open.spotify.com/artist/1o7CTDdfnKYRbs6MRt9MvT"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Mic Handz",
-          "url": "https://open.spotify.com/artist/2g8mUNOx44gUxvJ2TzqtbD"
-        },
-        {
-          "name": "Crim",
-          "url": "https://open.spotify.com/artist/3b5K2OHlOINgViIZOmM7N6"
-        }
-      ],
-      "duration_ms": 344395,
-      "name": "LET DA SWORD SING",
-      "url": "https://open.spotify.com/track/3rVIAQxgbSzHTZuWYO6xh8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Mid Spiral",
         "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
       },
@@ -255,7 +243,7 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Rite Here Rite Now (Original Motion Picture Soundtrack)",
+        "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
       },
       "artists": [

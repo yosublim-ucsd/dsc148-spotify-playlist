@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 7 hr 0 min
+162 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [When The Truth Comes Out \- Original Version](https://open.spotify.com/track/6oIhQFpyteOYfc5qt4VFlw) | [The Company](https://open.spotify.com/artist/3KsDIjsTFub2qwuXd9LSCB) | [Scrubs "My Musical"](https://open.spotify.com/album/3VBRpOvvcLtwz6SJkYnAi8) | 2:25 | 2024-07-26 |  |
 | [Where's My Dad? \- Soundtrack](https://open.spotify.com/track/7ueLmlOXA4JimKIyNSjm85) | [Dentist](https://open.spotify.com/artist/6RGZIU93LmpBil4uac036L), [Nemo](https://open.spotify.com/artist/1A1lV9pQKY76rAIKpCo5XH) | [Finding Nemo: The Musical](https://open.spotify.com/album/6Jlc1ESl3gRnF4u4M7OKVC) | 0:44 | 2024-07-26 |  |
 | [Who Am I and Who Are You?](https://open.spotify.com/track/41Aug0BWPPCw69rC2ZOtmF) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Mae Whitman](https://open.spotify.com/artist/4vOzhuYhVNHVToghhXMwPw), [Carlos Valdes](https://open.spotify.com/artist/4Ya1zqEk4JbCoyZBgUMNKI) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 3:05 | 2024-07-26 |  |
+| [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 | 2024-08-08 |  |
 | [You and Me \(But Mostly Me\)](https://open.spotify.com/track/3VHDIvoYPrOkUQmirAn5vr) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 2:43 | 2024-07-26 |  |
 | [You Are the Music](https://open.spotify.com/track/2jXYYwmaZW53ZV7JvQ74Fs) | [Central Park Cast](https://open.spotify.com/artist/2MU9NyN6HS8x0XdGsrmu7w), [Rory O'Malley](https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Tituss Burgess](https://open.spotify.com/artist/278a67UsMrPtjVfhFDNcwq), [Emmy Raver – Lampman](https://open.spotify.com/artist/7xcygNxms5bAYUfUKvRaKZ) | [Central Park Season Two, The Soundtrack – Songs in the Key of Park \(Original Soundtrack\)](https://open.spotify.com/album/0VAD8YiBaJtJaPi96rLyTg) | 2:49 | 2024-07-26 |  |
 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 | 2024-07-26 |  |

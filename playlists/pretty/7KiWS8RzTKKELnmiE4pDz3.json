@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAczDRNlX0Q5GvjUOEMY4e5LBY1j/4C",
+  "snapshot_id": "AAAczTL26hM+CdPpWZHsHoXM7/SaxzL4",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2791,6 +2791,26 @@
       "duration_ms": 125466,
       "name": "Gain Clout",
       "url": "https://open.spotify.com/track/4EgL00l7AjD7mWuW4JMJ7r"
+    },
+    {
+      "added_at": "2024-08-08 12:47:13",
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     }
   ],
   "unique_name": "main ",

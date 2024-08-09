@@ -1,13 +1,37 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 228389,
+  "num_followers": 228383,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAVBd3M5yxXwp5qEEq+/uHI8lTIGWTb",
+  "snapshot_id": "AAAVG99MSWAwsZf2p+eTCncjIl+CyQcf",
   "tracks": [
+    {
+      "added_at": "2022-07-18 10:03:31",
+      "album": {
+        "name": "Kesariya (From \"Brahmastra\")",
+        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 268164,
+      "name": "Kesariya (From \"Brahmastra\")",
+      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
     {
       "added_at": "2024-05-15 06:01:59",
       "album": {
@@ -27,6 +51,22 @@
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "added_at": "2024-07-12 12:42:37",
+      "album": {
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
       "added_at": "2024-06-24 11:17:49",
@@ -53,68 +93,28 @@
       "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
     },
     {
-      "added_at": "2022-07-18 10:03:31",
+      "added_at": "2024-02-23 07:27:58",
       "album": {
-        "name": "Kesariya (From \"Brahmastra\")",
-        "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
         },
         {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
         }
       ],
-      "duration_ms": 268164,
-      "name": "Kesariya (From \"Brahmastra\")",
-      "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
-    },
-    {
-      "added_at": "2024-07-12 12:42:37",
-      "album": {
-        "name": "Tauba Tauba (From \"Bad Newz\")",
-        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba (From \"Bad Newz\")",
-      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
-    },
-    {
-      "added_at": "2024-05-20 07:47:07",
-      "album": {
-        "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
-        "url": "https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        },
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        }
-      ],
-      "duration_ms": 253223,
-      "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
-      "url": "https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y"
+      "duration_ms": 154455,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
     },
     {
       "added_at": "2024-06-06 11:40:22",
@@ -141,30 +141,6 @@
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
-      "added_at": "2024-02-23 07:27:58",
-      "album": {
-        "name": "Sadqay",
-        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
-      },
-      "artists": [
-        {
-          "name": "Aashir Wajahat",
-          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
-        },
-        {
-          "name": "NAYEL",
-          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
-        },
-        {
-          "name": "Nehaal Naseem",
-          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Sadqay",
-      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
-    },
-    {
       "added_at": "2023-10-17 05:27:09",
       "album": {
         "name": "Tu hai kahan",
@@ -179,6 +155,42 @@
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"
+    },
+    {
+      "added_at": "2024-07-12 12:42:45",
+      "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "added_at": "2024-08-08 10:38:39",
+      "album": {
+        "name": "nadaaniyan",
+        "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "nadaaniyan",
+      "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
     },
     {
       "added_at": "2024-07-24 13:13:37",
@@ -205,44 +217,72 @@
       "url": "https://open.spotify.com/track/4kXTOzcY0VjJtQ8bDcj6p3"
     },
     {
-      "added_at": "2024-07-12 12:42:45",
+      "added_at": "2024-08-08 10:38:24",
       "album": {
-        "name": "Aasa Kooda (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+        "name": "Diamond Ni",
+        "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
         },
         {
-          "name": "Sai Smriti",
-          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         }
       ],
-      "duration_ms": 215510,
-      "name": "Aasa Kooda - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+      "duration_ms": 192900,
+      "name": "Diamond Ni",
+      "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
     },
     {
-      "added_at": "2024-06-12 07:15:19",
+      "added_at": "2024-08-08 10:38:33",
       "album": {
-        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+        "name": "Suniyan Suniyan",
+        "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
       },
       "artists": [
         {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
         },
         {
-          "name": "Azeem Dayani",
-          "url": "https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU"
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
         }
       ],
-      "duration_ms": 300434,
-      "name": "Roya Jab Tu (From \"Mr. And Mrs. Mahi\")",
-      "url": "https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB"
+      "duration_ms": 197538,
+      "name": "Suniyan Suniyan",
+      "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
+    },
+    {
+      "added_at": "2024-05-20 07:47:07",
+      "album": {
+        "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "duration_ms": 253223,
+      "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y"
     },
     {
       "added_at": "2024-06-12 07:14:53",
@@ -289,20 +329,24 @@
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
-      "added_at": "2024-04-01 12:04:27",
+      "added_at": "2024-06-12 07:15:19",
       "album": {
-        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
       },
       "artists": [
         {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Azeem Dayani",
+          "url": "https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU"
         }
       ],
-      "duration_ms": 171147,
-      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
+      "duration_ms": 300434,
+      "name": "Roya Jab Tu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB"
     },
     {
       "added_at": "2023-12-14 13:21:57",
@@ -401,24 +445,20 @@
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
-      "added_at": "2023-03-20 10:46:41",
+      "added_at": "2024-04-01 12:04:27",
       "album": {
-        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
         }
       ],
-      "duration_ms": 269032,
-      "name": "Ae Dil Hai Mushkil Title Track",
-      "url": "https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI"
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
       "added_at": "2021-07-30 08:52:07",
@@ -465,30 +505,6 @@
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
     },
     {
-      "added_at": "2024-04-01 12:05:23",
-      "album": {
-        "name": "Naina (From \"Crew\")",
-        "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Naina (From \"Crew\")",
-      "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
-    },
-    {
       "added_at": "2024-06-12 07:31:17",
       "album": {
         "name": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
@@ -507,6 +523,26 @@
       "duration_ms": 398799,
       "name": "Hamari Adhuri Kahani (Title Track)",
       "url": "https://open.spotify.com/track/3HiobOOpSpMsi95WBKPBYk"
+    },
+    {
+      "added_at": "2023-03-20 10:46:41",
+      "album": {
+        "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 269032,
+      "name": "Ae Dil Hai Mushkil Title Track",
+      "url": "https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI"
     },
     {
       "added_at": "2024-06-12 07:44:56",
@@ -563,6 +599,30 @@
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"
+    },
+    {
+      "added_at": "2024-04-01 12:05:23",
+      "album": {
+        "name": "Naina (From \"Crew\")",
+        "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Naina (From \"Crew\")",
+      "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
     },
     {
       "added_at": "2024-04-01 12:04:48",
@@ -1777,6 +1837,26 @@
       "url": "https://open.spotify.com/track/3vBojOn8Nz8gMQmIBeN00M"
     },
     {
+      "added_at": "2022-06-24 17:07:28",
+      "album": {
+        "name": "Chaand Baaliyan (Girl Let Me Tell You)",
+        "url": "https://open.spotify.com/album/2fV058poX4pEmnytGPP80J"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Mumzy Stranger",
+          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Chaand Baaliyan - Girl Let Me Tell You",
+      "url": "https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP"
+    },
+    {
       "added_at": "2022-07-20 15:31:36",
       "album": {
         "name": "Rangisari (From \"Jugjugg Jeeyo\")",
@@ -2413,26 +2493,6 @@
       "url": "https://open.spotify.com/track/3jf5303mzzJ96O8xFTcEn4"
     },
     {
-      "added_at": "2022-06-24 17:07:28",
-      "album": {
-        "name": "Chaand Baaliyan (Girl Let Me Tell You)",
-        "url": "https://open.spotify.com/album/2fV058poX4pEmnytGPP80J"
-      },
-      "artists": [
-        {
-          "name": "Aditya A",
-          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
-        },
-        {
-          "name": "Mumzy Stranger",
-          "url": "https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Chaand Baaliyan - Girl Let Me Tell You",
-      "url": "https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP"
-    },
-    {
       "added_at": "2022-02-11 06:26:14",
       "album": {
         "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
@@ -2537,34 +2597,6 @@
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
     },
     {
-      "added_at": "2021-07-12 09:00:45",
-      "album": {
-        "name": "Brown Munde",
-        "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Gminxr",
-          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "Shinda Kahlon",
-          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Brown Munde",
-      "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
-    },
-    {
       "added_at": "2019-09-24 08:58:46",
       "album": {
         "name": "Odhani (From \"Made in China\")",
@@ -2613,24 +2645,28 @@
       "url": "https://open.spotify.com/track/39ujbBjTwwqUFySaCYDMMT"
     },
     {
-      "added_at": "2021-08-16 05:00:40",
+      "added_at": "2020-10-30 14:25:13",
       "album": {
-        "name": "Tamasha",
-        "url": "https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA"
+        "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
+        "url": "https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM"
       },
       "artists": [
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Pardeep Singh Sran",
+          "url": "https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
         }
       ],
-      "duration_ms": 341054,
-      "name": "Agar Tum Saath Ho",
-      "url": "https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX"
+      "duration_ms": 231562,
+      "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
+      "url": "https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU"
     },
     {
       "added_at": "2020-03-26 10:35:35",
@@ -2731,30 +2767,6 @@
       "duration_ms": 268866,
       "name": "Yaaron",
       "url": "https://open.spotify.com/track/0zFG3RWjka7dNRIRTWnXMN"
-    },
-    {
-      "added_at": "2020-10-30 14:25:13",
-      "album": {
-        "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
-        "url": "https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Pardeep Singh Sran",
-          "url": "https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19"
-        },
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Cutiepie (From \"Ae Dil Hai Mushkil\")",
-      "url": "https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU"
     }
   ],
   "unique_name": "Bollywood Top 50",

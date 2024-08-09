@@ -2,7 +2,7 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Fasma
+> ✨giovane✨pop✨z✨ Cover: Sarah
 
 486 songs - 22 hr 30 min
 

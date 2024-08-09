@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,825 likes - 44 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,838 likes - 44 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 27 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
 | 28 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 29 | [You And I](https://open.spotify.com/track/5Mhf6GA6G6ugP2x7mnAGyY) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 8:06 |
-| 30 | [Philadelphia \- Original Demo \(Mixed\)](https://open.spotify.com/track/4ICEvEAdjnJkymla2rYOwf) | [Brooklyn Friends](https://open.spotify.com/artist/1l3lsO92gFVv3AA55ogsWZ), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Mix the Vibe: Joe Claussell, Pt\. 1 \(DJ Mix\)](https://open.spotify.com/album/3EKocoe8iH7MxWfIbRFKki) | 5:24 |
+| 30 | [Philadelphia \- Original Demo \(Mixed\)](https://open.spotify.com/track/4ICEvEAdjnJkymla2rYOwf) | [Brooklyn Friends](https://open.spotify.com/artist/1l3lsO92gFVv3AA55ogsWZ), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Mix the Vibe: Joe Claussell, Pt\. 1 \- DJ Mix](https://open.spotify.com/album/3EKocoe8iH7MxWfIbRFKki) | 5:24 |
 | 31 | [You \- Remastered](https://open.spotify.com/track/11si3OzSN9TCndyKeHPbB3) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Maze \(Remastered\)](https://open.spotify.com/album/6TU0GXA9Vq80VYdmuCpCFQ) | 8:36 |
 | 32 | [Cascades Of Colour](https://open.spotify.com/track/1XD7jLGDvGptKEfeHH6bM3) | [Ananda Project](https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c) | [Release](https://open.spotify.com/album/2MikTvhXISsHxX4Lr8xroL) | 6:42 |
 | 33 | [I Found Love \(feat\. Zelma Davis\)](https://open.spotify.com/track/7HOjWbj6rmqaSByjiWtoqI) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Zelma Davis](https://open.spotify.com/artist/33oXt1tHISa5u77wpQqbKP) | [Anything Goes!](https://open.spotify.com/album/62PIrgTZUBFvlkvajYmVIN) | 6:01 |

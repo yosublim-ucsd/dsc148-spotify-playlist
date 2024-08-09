@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 168636,
+  "num_followers": 168702,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Constellation",
+        "url": "https://open.spotify.com/album/1gwFi1rWlsDPs5OGk034Yr"
+      },
+      "artists": [
+        {
+          "name": "Caoilfhionn Rose",
+          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+        }
+      ],
+      "duration_ms": 146316,
+      "name": "Constellation",
+      "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "The Turning Ground",
@@ -403,22 +419,6 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2024-05-01 17:01:23",
-      "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -469,20 +469,20 @@
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-05-01 17:01:23",
       "album": {
-        "name": "Constellation",
-        "url": "https://open.spotify.com/album/1gwFi1rWlsDPs5OGk034Yr"
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
       "artists": [
         {
-          "name": "Caoilfhionn Rose",
-          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 146316,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "the key",
-        "url": "https://open.spotify.com/album/6M5u72DkNgy18V5Lmorsg0"
-      },
-      "artists": [
-        {
-          "name": "mou",
-          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
-        }
-      ],
-      "duration_ms": 177592,
-      "name": "the key",
-      "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
-    },
-    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "Al\u00e9m do tempo",
@@ -835,6 +819,22 @@
       "duration_ms": 239786,
       "name": "Al\u00e9m do tempo",
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "the key",
+        "url": "https://open.spotify.com/album/6M5u72DkNgy18V5Lmorsg0"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "duration_ms": 177592,
+      "name": "the key",
+      "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "Silenzio Solare",
-        "url": "https://open.spotify.com/album/0RS06bmkOLmoTIgHqmyn00"
-      },
-      "artists": [
-        {
-          "name": "Fera",
-          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
-        }
-      ],
-      "duration_ms": 183196,
-      "name": "Silenzio Solare",
-      "url": "https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -905,20 +889,20 @@
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
+      "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
+        "name": "Silenzio Solare",
+        "url": "https://open.spotify.com/album/0RS06bmkOLmoTIgHqmyn00"
       },
       "artists": [
         {
-          "name": "Gloomer",
-          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
+          "name": "Fera",
+          "url": "https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7"
         }
       ],
-      "duration_ms": 132096,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
+      "duration_ms": 183196,
+      "name": "Silenzio Solare",
+      "url": "https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -937,20 +921,20 @@
       "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0WPaO0Qfdz8L3jJ7Dq7REg"
       },
       "artists": [
         {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+          "name": "Gloomer",
+          "url": "https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas"
         }
       ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
+      "duration_ms": 132096,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -967,6 +951,54 @@
       "duration_ms": 215717,
       "name": "Pillow, Mantra and Trance",
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Unrecognisable",
+        "url": "https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC"
+      },
+      "artists": [
+        {
+          "name": "Lolina",
+          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+        }
+      ],
+      "duration_ms": 219090,
+      "name": "Unrecognisable",
+      "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Se eu n\u00e3o me divertir, quem \u00e9 que me diverte?",
+        "url": "https://open.spotify.com/album/0stk9o5pshPltSxf9Qhzsx"
+      },
+      "artists": [
+        {
+          "name": "701",
+          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
+        }
+      ],
+      "duration_ms": 168230,
+      "name": "Se o arrependimento matasse",
+      "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -987,18 +1019,18 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Unrecognisable",
-        "url": "https://open.spotify.com/album/6mMdp6Ua31O86pTWSdxcMC"
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
       },
       "artists": [
         {
-          "name": "Lolina",
-          "url": "https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8"
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
         }
       ],
-      "duration_ms": 219090,
-      "name": "Unrecognisable",
-      "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1031,22 +1063,6 @@
       "duration_ms": 235853,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1101,22 +1117,6 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Se eu n\u00e3o me divertir, quem \u00e9 que me diverte?",
-        "url": "https://open.spotify.com/album/0stk9o5pshPltSxf9Qhzsx"
-      },
-      "artists": [
-        {
-          "name": "701",
-          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
-        }
-      ],
-      "duration_ms": 168230,
-      "name": "Se o arrependimento matasse",
-      "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Snake EP",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
@@ -1179,6 +1163,22 @@
       "duration_ms": 257609,
       "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
       "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+    },
+    {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
       },
       "artists": [
         {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
         }
       ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 270557,
-      "name": "MissU",
-      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Princ\u20acss",
@@ -1343,6 +1327,22 @@
       "duration_ms": 173515,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+    },
+    {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 270557,
+      "name": "MissU",
+      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/2xo8YQCTyfYAQOLdeVioK5"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Cos\u00ec Dentro Come Fuori",
-        "url": "https://open.spotify.com/album/46gbDoIVM0Znyj0QAE5VOP"
-      },
-      "artists": [
-        {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
-        }
-      ],
-      "duration_ms": 115990,
-      "name": "O Sentiero Futuro",
-      "url": "https://open.spotify.com/track/2RNhGCpqfV9ldc1VDeHCmG"
-    },
-    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "\u98a8\u306e\u3088\u3046\u306b",
@@ -1439,6 +1423,22 @@
       "duration_ms": 383090,
       "name": "\u98a8\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Cos\u00ec Dentro Come Fuori",
+        "url": "https://open.spotify.com/album/46gbDoIVM0Znyj0QAE5VOP"
+      },
+      "artists": [
+        {
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+        }
+      ],
+      "duration_ms": 115990,
+      "name": "O Sentiero Futuro",
+      "url": "https://open.spotify.com/track/2RNhGCpqfV9ldc1VDeHCmG"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
-        "url": "https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9"
-      },
-      "artists": [
-        {
-          "name": "Kmonvish Lawan",
-          "url": "https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9"
-        },
-        {
-          "name": "YEEET",
-          "url": "https://open.spotify.com/artist/3c4oSlSmrIpIBNDhbWIU0P"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
-      "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
         "name": "PISO (Originals)",
         "url": "https://open.spotify.com/album/5PaZ8Jb2MMDASvUflctOsV"
       },
@@ -1541,52 +1521,24 @@
       "url": "https://open.spotify.com/track/39coyagUm7jIP67222iSkn"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Endless Path of Memory",
-        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
+        "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
+        "url": "https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9"
       },
       "artists": [
         {
-          "name": "Nexcyia",
-          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
-        }
-      ],
-      "duration_ms": 287746,
-      "name": "Bury it Deep Inside Yourself",
-      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
-      },
-      "artists": [
+          "name": "Kmonvish Lawan",
+          "url": "https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9"
+        },
         {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+          "name": "YEEET",
+          "url": "https://open.spotify.com/artist/3c4oSlSmrIpIBNDhbWIU0P"
         }
       ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
-    },
-    {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "Un Sasso Nero",
-        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
-      },
-      "artists": [
-        {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
-        }
-      ],
-      "duration_ms": 341875,
-      "name": "Un Sasso Nero",
-      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
+      "duration_ms": 196800,
+      "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
+      "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -1607,6 +1559,54 @@
       "duration_ms": 100869,
       "name": "zen jam",
       "url": "https://open.spotify.com/track/53enCvgjbPueMfdhw5wrzt"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "Un Sasso Nero",
+        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
+      },
+      "artists": [
+        {
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
+        }
+      ],
+      "duration_ms": 341875,
+      "name": "Un Sasso Nero",
+      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Endless Path of Memory",
+        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
+      },
+      "artists": [
+        {
+          "name": "NEXCYIA",
+          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
+        }
+      ],
+      "duration_ms": 287746,
+      "name": "Bury it Deep Inside Yourself",
+      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
     },
     {
       "added_at": "2024-04-03 15:21:45",

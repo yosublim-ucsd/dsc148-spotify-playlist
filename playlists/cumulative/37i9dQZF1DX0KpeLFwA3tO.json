@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Gurriers",
+  "description": "The best new music from the wide world of punk. Cover: Destroy Boys",
   "name": "All New Punk",
   "tracks": [
     {
@@ -580,6 +580,24 @@
       "duration_ms": 201480,
       "name": "999",
       "url": "https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi"
+    },
+    {
+      "album": {
+        "name": "A Bit Like James Bond",
+        "url": "https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158306,
+      "name": "A Bit Like James Bond",
+      "url": "https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b"
     },
     {
       "album": {
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 164283,
       "name": "Blow It",
       "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
@@ -5542,6 +5560,24 @@
       "duration_ms": 136000,
       "name": "Can't Take It Anymore",
       "url": "https://open.spotify.com/track/5502j9oH5qV49cNVq8CUdx"
+    },
+    {
+      "album": {
+        "name": "can't you tell",
+        "url": "https://open.spotify.com/album/4HhwrYw5v5HXDntSsdxwVS"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148394,
+      "name": "can't you tell",
+      "url": "https://open.spotify.com/track/5XuFg634Y5vAAEG2ZI7Tti"
     },
     {
       "album": {
@@ -8215,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "DEADBEAT!",
+        "url": "https://open.spotify.com/album/5ymboKqwWrbNATsmVOXBl0"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87169,
+      "name": "DEADBEAT!",
+      "url": "https://open.spotify.com/track/2Hbnl1LZm0v3hjrQz56g5B"
+    },
+    {
+      "album": {
         "name": "Deadzone",
         "url": "https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0"
       },
@@ -9038,7 +9092,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 196818,
       "name": "Dissimulator",
       "url": "https://open.spotify.com/track/2CyfukQBuNQo1DJ31ho50G"
@@ -14929,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "HOW 2 GET AWAY WITH MURDER",
+        "url": "https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "HOW 2 GET AWAY WITH MURDER",
+      "url": "https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX"
+    },
+    {
+      "album": {
         "name": "How Could You",
         "url": "https://open.spotify.com/album/0iDEt5WNvJsfU5raqJpXGH"
       },
@@ -15586,7 +15658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 125848,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/1bOGXE0pJ19nDabUM9wlR6"
@@ -15784,7 +15856,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 239312,
       "name": "I Think You Should Leave",
       "url": "https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9"
@@ -15874,7 +15946,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 181542,
       "name": "I Wish You Would",
       "url": "https://open.spotify.com/track/0NCCG6BDOiz27Hf8BvRMV4"
@@ -17468,7 +17540,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 113022,
       "name": "Kersed",
       "url": "https://open.spotify.com/track/75Op3sFsxnCOOGSZiYyb81"
@@ -18212,7 +18284,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 219073,
       "name": "Leather Jacket",
       "url": "https://open.spotify.com/track/5OVcPK3UpZNFusQ9FXZJmC"
@@ -19602,7 +19674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 128317,
       "name": "Love, Lies & Alibis",
       "url": "https://open.spotify.com/track/4jA99UfGUNfEmaMePgdmUQ"
@@ -20288,6 +20360,42 @@
       "duration_ms": 194403,
       "name": "Maybe Blue",
       "url": "https://open.spotify.com/track/0UjX7qhaeOZSfmry34rUpn"
+    },
+    {
+      "album": {
+        "name": "Maybe It's Just Me",
+        "url": "https://open.spotify.com/album/1Gy96uoCiuVeJG91LrugTM"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Sunrise",
+          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190639,
+      "name": "Maybe It's Just Me",
+      "url": "https://open.spotify.com/track/6JwewoMynWy4FCoYK2gFpu"
+    },
+    {
+      "album": {
+        "name": "analysis paralysis",
+        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "maybe it's me",
+      "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
     },
     {
       "album": {
@@ -23437,6 +23545,24 @@
     },
     {
       "album": {
+        "name": "Our Love Was Like A Sad Song",
+        "url": "https://open.spotify.com/album/27Ab2O0STAFVEz21wP0n4K"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160317,
+      "name": "Our Love Was Like A Sad Song",
+      "url": "https://open.spotify.com/track/2JGV1bINgKmCyCONGfGbo2"
+    },
+    {
+      "album": {
         "name": "Blending",
         "url": "https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw"
       },
@@ -24094,7 +24220,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 132240,
       "name": "Persona",
       "url": "https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS"
@@ -27802,7 +27928,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184000,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/7jBFe9JOZNQz0DY0Zjr8tP"
@@ -27838,7 +27964,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 127706,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN"
@@ -29711,6 +29837,24 @@
     },
     {
       "album": {
+        "name": "Stop Talking",
+        "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200883,
+      "name": "Stop Talking",
+      "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+    },
+    {
+      "album": {
         "name": "Storm Clouds",
         "url": "https://open.spotify.com/album/666obAJKsm1ClwuJsGtP4v"
       },
@@ -29924,7 +30068,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 229134,
       "name": "Straycations",
       "url": "https://open.spotify.com/track/7zCZWACsSVwEnc0Bt2C7qh"
@@ -30282,6 +30426,24 @@
       "duration_ms": 159000,
       "name": "Supply/Demand",
       "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
+    },
+    {
+      "album": {
+        "name": "Supreme Ruler",
+        "url": "https://open.spotify.com/album/0nj0wMbDj49fBooNKFN5po"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54242,
+      "name": "Supreme Ruler",
+      "url": "https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz"
     },
     {
       "album": {
@@ -31490,6 +31652,24 @@
       "duration_ms": 199386,
       "name": "The Common Cold",
       "url": "https://open.spotify.com/track/5XXWSfuYlIWEqlmu2Ojpna"
+    },
+    {
+      "album": {
+        "name": "life till bones",
+        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179480,
+      "name": "the country club",
+      "url": "https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl"
     },
     {
       "album": {
@@ -36417,6 +36597,32 @@
     },
     {
       "album": {
+        "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+        "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        },
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163934,
+      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+      "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
+    },
+    {
+      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -36450,6 +36656,24 @@
       "duration_ms": 217013,
       "name": "You S02",
       "url": "https://open.spotify.com/track/7C8AiJrPj8yhtMt6MRzaUJ"
+    },
+    {
+      "album": {
+        "name": "You Want It You Got It",
+        "url": "https://open.spotify.com/album/7ukU3PHo3b9mFHruJCXxOj"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "You Want It You Got It",
+      "url": "https://open.spotify.com/track/0iVyBRoFmD8aK7kncgegtN"
     },
     {
       "album": {

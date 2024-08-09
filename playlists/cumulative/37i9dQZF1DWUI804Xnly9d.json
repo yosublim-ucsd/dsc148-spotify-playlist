@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Gungunata Hun",
+        "url": "https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161923,
+      "name": "Gungunata Hun",
+      "url": "https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe"
+    },
+    {
+      "album": {
         "name": "Ha Bas Tu",
         "url": "https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS"
       },
@@ -3062,7 +3080,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 245711,
       "name": "Kahani",
       "url": "https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH"

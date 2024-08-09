@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 16355,
+  "num_followers": 16362,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAAChtx/7EwO1kEYtDFyLy0Kn",
+  "snapshot_id": "ZrK5AAAAAADv+u32mJzpfZbxEwOv8CpP",
   "tracks": [
     {
       "added_at": null,
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
       },
       "artists": [
-        {
-          "name": "James Blundell",
-          "url": "https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD"
-        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Back in 92",
-      "url": "https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa"
+      "duration_ms": 194133,
+      "name": "Country Girls - Remastered 2017",
+      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Outback Club",
-        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
+        {
+          "name": "James Blundell",
+          "url": "https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD"
+        },
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 194133,
-      "name": "Country Girls - Remastered 2017",
-      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
+      "duration_ms": 189093,
+      "name": "Back in 92",
+      "url": "https://open.spotify.com/track/606KWoW6dLcUGHDX5leaVa"
     },
     {
       "added_at": null,

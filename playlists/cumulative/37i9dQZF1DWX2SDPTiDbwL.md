@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-97 songs - 6 hr 35 min
+98 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Pureza](https://open.spotify.com/track/4TpElKeUtQ2JzMnajhWbMe) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Pureza](https://open.spotify.com/album/6KHaXDnrVNVa2e2OpXk6Tp) | 4:19 | 2023-09-01 |  |
 | [Rumba Tumba](https://open.spotify.com/track/2uPQvR5WBOI22Wj2gwwiT5) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Andalusian Nights](https://open.spotify.com/album/2wv00wNnDlQ7y1hF27QERq) | 6:12 | 2024-05-31 |  |
 | [San Francisco](https://open.spotify.com/track/7geMld9M9InEiqY8Ehm1Q6) | [Antonio Rey](https://open.spotify.com/artist/5IRSZuGnF84xSdWWGe6jDl) | [Flamenco Sin Fronteras](https://open.spotify.com/album/4JrBEWglIe750bShCTigNu) | 4:01 | 2023-09-01 |  |
+| [San Lorenzo](https://open.spotify.com/track/5Uos52MYyea9qBSqImO99M) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [San Lorenzo](https://open.spotify.com/album/31g2RCgCvod7x94rdNWwtW) | 2:08 | 2024-08-08 |  |
 | [Sand Dunes](https://open.spotify.com/track/4Pc1Eay0hn2cCafRI07LrJ) | [Flamenco Guitar Masters](https://open.spotify.com/artist/0huGEQDDk36uplL0QvI3Kn) | [Acoustic Flamenco](https://open.spotify.com/album/3Dgt1JW9fVlJ3B9s8UfhJp) | 2:44 | 2024-06-20 |  |
 | [Sephardic Elegy](https://open.spotify.com/track/2wwZttx5a77AmbasxYPbfG) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Jewish Travels: A Historical Voyage in Music & Song](https://open.spotify.com/album/1HJq0jdhPZDiuCptT2dh08) | 2:27 | 2024-04-05 |  |
 | [Sephardic Elegy](https://open.spotify.com/track/3OYtLejmcJDcZO8wbSM7cK) | [Massel Klezmorim](https://open.spotify.com/artist/4fyKoXrsrIuUzygr4dUyRZ) | [Massel Klezmorim: Jewish Travels \- A Historical Voyage in Music and Song](https://open.spotify.com/album/0ep5smc16YElZTmjSXHjG6) | 2:27 | 2023-09-01 | 2024-04-19 |

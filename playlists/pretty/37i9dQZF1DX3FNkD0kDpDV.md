@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > HARD Summer 2K24 has entered the chat\. Spanning every genre of dance music, and some of the finest up & coming selectors, there's nothing like LA's biggest party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,718 likes - 58 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,722 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

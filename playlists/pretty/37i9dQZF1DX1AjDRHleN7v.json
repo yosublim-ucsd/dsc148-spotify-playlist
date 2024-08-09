@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 319663,
+  "num_followers": 319799,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
-        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        },
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 185295,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
       },
@@ -267,22 +247,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Rindo \u00c0 Toa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+        "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
+        "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
       "artists": [
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
         },
         {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
         }
       ],
-      "duration_ms": 195118,
-      "name": "Rindo \u00c0 Toa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
+      "duration_ms": 185295,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -299,6 +279,26 @@
       "duration_ms": 202761,
       "name": "O Bem",
       "url": "https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Rindo \u00c0 Toa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 195118,
+      "name": "Rindo \u00c0 Toa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
+        "name": "Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
         "name": "Encantos Mil",
         "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Caf\u00e9 da MaLu, Vol. 04",
         "url": "https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 204224,
       "name": "Brisa Positiva",
       "url": "https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -527,22 +511,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Entre Borboletas e Avi\u00f5es",
         "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 207808,
       "name": "Rede no Coqueiro",
       "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Filho do Mar",
-        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
-      },
-      "artists": [
-        {
-          "name": "Banda Nossa Praia",
-          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Filho do Mar",
-      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Rouxin\u00f3is",
         "url": "https://open.spotify.com/album/6C7r5cHBd87KOXl8JMgN8W"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 190410,
       "name": "Rouxin\u00f3is",
       "url": "https://open.spotify.com/track/6jNzezczLLfgHf1sq7xPFb"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
+      },
+      "artists": [
+        {
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2024-08-02 12:19:43",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/1GhDBChURERKoa0hIcJkIf"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 164150,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/1unAQNaxmur5SxDEHJvqNL"
+    },
+    {
+      "added_at": "2024-08-02 12:19:43",
+      "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -979,22 +979,18 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "Enquanto Houver",
-        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
+        "name": "O Que te Faz Viver",
+        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
       },
       "artists": [
         {
-          "name": "Walace Fonseca",
-          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
-        },
-        {
-          "name": "Bruno Harry",
-          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
+          "name": "Kallibre",
+          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
         }
       ],
-      "duration_ms": 180481,
-      "name": "Enquanto Houver",
-      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+      "duration_ms": 230967,
+      "name": "O Que te Faz Viver",
+      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
     },
     {
       "added_at": "2024-08-02 12:19:43",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-08-02 12:19:43",
       "album": {
-        "name": "O Que te Faz Viver",
-        "url": "https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr"
+        "name": "Enquanto Houver",
+        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
       "artists": [
         {
-          "name": "Kallibre",
-          "url": "https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7"
+          "name": "Walace Fonseca",
+          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
+        },
+        {
+          "name": "Bruno Harry",
+          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
         }
       ],
-      "duration_ms": 230967,
-      "name": "O Que te Faz Viver",
-      "url": "https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS"
+      "duration_ms": 180481,
+      "name": "Enquanto Houver",
+      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     },
     {
       "added_at": "2024-08-02 12:19:43",

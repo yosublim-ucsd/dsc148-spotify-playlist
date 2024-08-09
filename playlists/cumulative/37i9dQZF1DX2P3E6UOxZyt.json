@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: LIU KOI",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069 (Ben)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 189818,
       "name": "all things",
       "url": "https://open.spotify.com/track/4knzp6u3ENTeZlyFgYPcwA"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 139286,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/4tib3tkIn1FN3WQw2RMdAi"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180689,
       "name": "week by week",
       "url": "https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I"
@@ -4420,7 +4420,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 202002,
       "name": "\u4e00\u8d77\u8d70\uff01",
       "url": "https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA"
@@ -4726,7 +4726,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 247223,
       "name": "\u4e82\u6d41",
       "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 171812,
       "name": "\u5077\u5077\u60f3\u5ff5\u4f60 (feat. \u65b9\u6668)",
       "url": "https://open.spotify.com/track/7xVj07lWHM86OIlTXkEq7R"
@@ -7120,7 +7120,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 186835,
       "name": "\u611b\u60c5\u4e0d\u80fd\u8cb7\u9189",
       "url": "https://open.spotify.com/track/47pMzV13SzR4tUqdyxGpOL"
@@ -7324,7 +7324,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 211176,
       "name": "\u6211\u5728\u5f80\u96e2\u5225\u524d\u9032",
       "url": "https://open.spotify.com/track/4I3n6Hq3p1F52ipZkpC8jj"
@@ -9393,6 +9393,24 @@
     },
     {
       "album": {
+        "name": "\u7aa9\u56ca\u5ee2",
+        "url": "https://open.spotify.com/album/0ZoXQPwbXQEjOxddYlUYSm"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136320,
+      "name": "\u7aa9\u56ca\u5ee2",
+      "url": "https://open.spotify.com/track/2wZQ7X4Rj2WuaE248NltPf"
+    },
+    {
+      "album": {
         "name": "Diamond In The Rough",
         "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
       },
@@ -9498,7 +9516,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 135884,
       "name": "\u7d19\u98db\u6a5f",
       "url": "https://open.spotify.com/track/6VoUlMALTDMm9Gx8MSQbO4"

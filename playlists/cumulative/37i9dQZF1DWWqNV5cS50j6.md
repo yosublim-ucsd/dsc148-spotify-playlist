@@ -4,7 +4,7 @@
 
 > ?! ft\. Lil Yachty
 
-1,726 songs - 3 day 10 hr 59 min
+1,728 songs - 3 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Haptics](https://open.spotify.com/track/6gOoqDFoY7cekwNDGbIjJ9) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF), [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Haptics](https://open.spotify.com/album/6KC0z9SE9jU5lvhS14iIUe) | 3:12 | 2022-02-25 | 2022-05-10 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2021-05-15 |
 | [Harmony](https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce) | [Chris Emond](https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy) | [Harmony](https://open.spotify.com/album/0zvdah1dhmJdoPnNlV5AmB) | 4:18 | 2023-10-20 | 2023-11-18 |
+| [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-08 |  |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-10-25 | 2022-11-17 |
 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 | 2023-09-08 | 2023-11-21 |
 | [HAZY](https://open.spotify.com/track/0U8iXqyuhoFL07KOXIbN2P) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:48 | 2022-10-25 | 2022-10-28 |
@@ -677,6 +678,7 @@
 | [HI 5](https://open.spotify.com/track/0k9ynvL7RDuqNWiS7d7s8i) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [HI 5](https://open.spotify.com/album/1ZPLF1NH79pCOPF7SlZxCB) | 2:52 | 2023-03-24 | 2023-04-15 |
 | [High \- Remix](https://open.spotify.com/track/1YTslvpUMCvbo2GMR25LTq) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [High \(Remix\)](https://open.spotify.com/album/38MrNIfXvvdnU0WxeArHSd) | 1:56 | 2024-03-08 | 2024-06-01 |
 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 | 2022-10-14 | 2023-01-28 |
+| [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 | 2024-08-08 |  |
 | [HIGHWITCHA](https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [HIGHWITCHA](https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh) | 2:15 | 2024-03-01 | 2024-04-27 |
 | [HILL$](https://open.spotify.com/track/5Kh8IpsqrQIlMdPKi7WSbA) | [LORD$OFDOGTOWN](https://open.spotify.com/artist/3MR1RYx6wS8n93uSVpYoQ5) | [HILL$](https://open.spotify.com/album/4U9ClDKHyxKnAqdVufDn0n) | 2:22 | 2022-08-26 | 2022-09-24 |
 | [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:52 | 2023-03-17 | 2023-10-21 |
@@ -871,7 +873,7 @@
 | [Limousine](https://open.spotify.com/track/3zL4FoSW5burOKQQkEqFPS) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:12 | 2021-08-14 | 2021-10-16 |
 | [Liquor Locker](https://open.spotify.com/track/5YbrqNUUleF39Ai3b3ruQy) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:18 | 2022-02-04 | 2022-03-01 |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-07-24 | 2021-10-16 |
-| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-02 |  |
+| [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-02 | 2024-08-09 |
 | [LITTLE KING](https://open.spotify.com/track/0pBco0QbgLMrbIOpJTCFdx) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [PURE ENERGY](https://open.spotify.com/album/3daboqKiZqOpKWdsI1tP3k) | 2:43 | 2022-05-27 | 2022-07-01 |
 | [little too quiet](https://open.spotify.com/track/5Jh61eOabfxYRjjxR0MNFR) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Venus as a boy](https://open.spotify.com/artist/06e04zMiKIaUEldslPkhsu) | [little too quiet](https://open.spotify.com/album/30tG5Tdh3AYESQLA0CuHfS) | 2:42 | 2022-04-08 | 2022-07-01 |
 | [locket](https://open.spotify.com/track/3HI8Suc5LWcJMzbiJN1e5u) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [locket](https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N) | 1:44 | 2023-08-25 | 2024-01-10 |
@@ -1132,7 +1134,7 @@
 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 | 2022-05-09 | 2022-07-01 |
 | [Pelican Freestyle](https://open.spotify.com/track/6sNfqqGpSImTscoZNrsCBe) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Cloud Paint](https://open.spotify.com/album/3ihhpCQwkkson9Lz3NQ6OI) | 3:19 | 2022-06-24 | 2022-08-06 |
 | [peppermint](https://open.spotify.com/track/3j8IY51BphvdJhwllZa64l) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [peppermint](https://open.spotify.com/album/0lY0zMy831JbNwgM1wv2rK) | 2:47 | 2021-05-29 | 2021-10-11 |
-| [Perfume](https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Perfume](https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV) | 2:27 | 2024-06-28 |  |
+| [Perfume](https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Perfume](https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV) | 2:27 | 2024-06-28 | 2024-08-09 |
 | [Personal](https://open.spotify.com/track/6ijMD2jUQaP5HRYevZJqrO) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Personal](https://open.spotify.com/album/3maTenAQlMwbdmx74MdIyf) | 2:37 | 2023-10-20 | 2023-11-12 |
 | [Peso](https://open.spotify.com/track/6oqRowe5lMSV62jZwar1VO) | [Lance Skiiiwalker](https://open.spotify.com/artist/4jlguclMzgjLqZPqF9s19O), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Tales From The Telescope Chapter 2: Internal Shine](https://open.spotify.com/album/08MjfVgkdqINsqCeY67xaG) | 3:10 | 2021-12-15 | 2022-02-05 |
 | [PETTY \(feat\. TiaCorine\)](https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 3:06 | 2023-06-23 | 2023-09-30 |

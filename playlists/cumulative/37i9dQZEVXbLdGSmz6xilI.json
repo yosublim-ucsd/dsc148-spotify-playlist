@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 174286,
       "name": "An Th\u1ea7n",
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
@@ -3154,10 +3154,44 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 256000,
       "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
       "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" - Live Stage 2",
+        "url": "https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "C\u00f4ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
+        },
+        {
+          "name": "NICKY",
+          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
+      "url": "https://open.spotify.com/track/5YiNxgEQQTuFi5dKLxxjWm"
     },
     {
       "album": {
@@ -3522,7 +3556,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 156303,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm"
@@ -3558,7 +3592,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH"
@@ -8118,10 +8152,40 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 245454,
       "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
       "url": "https://open.spotify.com/track/3EQjXzlXY0dyOovq0Awe91"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" - Live Stage 2",
+        "url": "https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        },
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        },
+        {
+          "name": "Ph\u00e1p Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "H\u00c0O QUANG (feat. RHYDER, D\u01b0\u01a1ng Domic & Ph\u00e1p Ki\u1ec1u)",
+      "url": "https://open.spotify.com/track/7gSQxwCpEMjg8wb6Y3oqe7"
     },
     {
       "album": {
@@ -10464,10 +10528,44 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 235179,
       "name": "LOVE SAND (feat. HIEUTHUHAI, JSOL, Ali Ho\u00e0ng D\u01b0\u01a1ng & V\u0169 Th\u1ecbnh)",
       "url": "https://open.spotify.com/track/2SmnoPHetB88xJwC6HJHGv"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" - Live Stage 2",
+        "url": "https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "Ali Ho\u00e0ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh"
+        },
+        {
+          "name": "V\u0169 Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/5CmaKrKVwzQ6iQnJx2cGAm"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235179,
+      "name": "LOVE SAND (feat. HIEUTHUHAI, JSOL, Ali Ho\u00e0ng D\u01b0\u01a1ng & V\u0169 Th\u1ecbnh)",
+      "url": "https://open.spotify.com/track/5TtNxUZBjYR4wgzOpHpS7h"
     },
     {
       "album": {
@@ -12720,7 +12818,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 236262,
       "name": "Nh\u1eefng L\u1eddi H\u1ee9a B\u1ecf Qu\u00ean",
       "url": "https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o"
@@ -19272,7 +19370,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 157239,
       "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
       "url": "https://open.spotify.com/track/1oVbTGLd8EgyeWBoqAYBD0"
@@ -19700,7 +19798,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
@@ -20722,10 +20820,40 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 213818,
       "name": "\u0110\u1ea6U \u0110\u1ed8I S\u1eeaNG (feat. Qu\u00e2n A.P, HURRYKNG & H\u00f9ng Hu\u1ef3nh)",
       "url": "https://open.spotify.com/track/6s9xQXSKc8tYMe1ZH5aiYs"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\" - Live Stage 2",
+        "url": "https://open.spotify.com/album/3oWelWuv6TkzEhaUerF47z"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+        },
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        },
+        {
+          "name": "H\u00f9ng Hu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/6LBaSwUNOiuHp1WqbdrZO9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "\u0110\u1ea6U \u0110\u1ed8I S\u1eeaNG (feat. Qu\u00e2n A.P, HURRYKNG & H\u00f9ng Hu\u1ef3nh)",
+      "url": "https://open.spotify.com/track/7pqx5vF7DzkVtEdsXQ9iua"
     },
     {
       "album": {

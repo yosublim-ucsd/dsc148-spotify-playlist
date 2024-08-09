@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160226,
       "name": "2004",
       "url": "https://open.spotify.com/track/70mnNt3wqV6MYIAR9vvixQ"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184333,
       "name": "Allein",
       "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
@@ -696,6 +696,24 @@
       "duration_ms": 180080,
       "name": "besonders",
       "url": "https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU"
+    },
+    {
+      "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169508,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL"
     },
     {
       "album": {
@@ -1413,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Die Jungs",
+        "url": "https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Die Jungs",
+      "url": "https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M"
+    },
+    {
+      "album": {
         "name": "Dies & Das",
         "url": "https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI"
       },
@@ -1440,6 +1476,24 @@
       "duration_ms": 139280,
       "name": "Dies & Das",
       "url": "https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS"
+    },
+    {
+      "album": {
+        "name": "Dies das",
+        "url": "https://open.spotify.com/album/44LE68OtvDk5sBlbsrqKPi"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Dies das",
+      "url": "https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE"
     },
     {
       "album": {
@@ -1570,6 +1624,32 @@
       "duration_ms": 127794,
       "name": "DREI2EINS",
       "url": "https://open.spotify.com/track/5sJw10xQQv0yEO6g6O5TOn"
+    },
+    {
+      "album": {
+        "name": "WOHIN?",
+        "url": "https://open.spotify.com/album/0uEbV2OygbZ4VeQ0kO8xGA"
+      },
+      "artists": [
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "Cato",
+          "url": "https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc"
+        },
+        {
+          "name": "Yosho",
+          "url": "https://open.spotify.com/artist/3teKhev8dyP7LKMcDrS2kT"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/4TIuKVR9bLwwDhBfesKZVe"
     },
     {
       "album": {
@@ -4236,7 +4316,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 148671,
       "name": "Retail Therapy",
       "url": "https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0"
@@ -5714,7 +5794,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 200495,
       "name": "Weniger Allein",
       "url": "https://open.spotify.com/track/3HuQvPFNb8e8pYITgwFPQ7"

@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Acid / A Lot",
+        "url": "https://open.spotify.com/album/34F0ocwlWSuPYIr24I8YiU"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Rami Ali",
+          "url": "https://open.spotify.com/artist/0gdxUjDVq4FWKpMe5YgdgB"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/2hQEXzrvoJ7UpFi4NOowg0"
+    },
+    {
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM"
       },
@@ -738,7 +760,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 206964,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/3JdZapCja0ufmNY9Vqi1ia"
@@ -1826,6 +1848,28 @@
       "duration_ms": 190476,
       "name": "Boom Shack",
       "url": "https://open.spotify.com/track/7pJv0XNaGy095mMYk2SEaf"
+    },
+    {
+      "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "album": {
@@ -4987,6 +5031,28 @@
     },
     {
       "album": {
+        "name": "Feel My Needs",
+        "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Feel My Needs",
+      "url": "https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae"
+    },
+    {
+      "album": {
         "name": "Feel So High",
         "url": "https://open.spotify.com/album/6zAdJh76pLnhY0RDR6zwjL"
       },
@@ -6270,7 +6336,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 214575,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
@@ -11663,6 +11729,28 @@
     },
     {
       "album": {
+        "name": "Pass You By",
+        "url": "https://open.spotify.com/album/5gStuhfpZACqgVzuD2t6B2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212338,
+      "name": "Pass You By",
+      "url": "https://open.spotify.com/track/4XVUUqIJa8DkpNF5rpqzF6"
+    },
+    {
+      "album": {
         "name": "PASSION",
         "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
       },
@@ -15038,7 +15126,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
@@ -16452,7 +16540,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 222047,
       "name": "Un Poquito M\u00e1s",
       "url": "https://open.spotify.com/track/4gKeQ11p06eVPjaOgPi6HX"
@@ -16957,6 +17045,24 @@
     },
     {
       "album": {
+        "name": "Wasabi",
+        "url": "https://open.spotify.com/album/56FleV860R0ZCl4Zti16xY"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148427,
+      "name": "Wasabi",
+      "url": "https://open.spotify.com/track/6mXIwNxW6oxFbS1psHDNcB"
+    },
+    {
+      "album": {
         "name": "Watch My Evolution EP",
         "url": "https://open.spotify.com/album/2NeuU3rjVdUJErVueiW6nk"
       },
@@ -17336,7 +17442,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 165952,
       "name": "When You Gonna",
       "url": "https://open.spotify.com/track/6pspENPo8Mikpddtas96PH"

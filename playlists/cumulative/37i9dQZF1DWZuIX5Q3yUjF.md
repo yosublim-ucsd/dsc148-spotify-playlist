@@ -2,7 +2,7 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Sans Soucis
+> Il meglio dell'R&B italiano\. Cover: Big Dave
 
 630 songs - 1 day 7 hr 19 min
 

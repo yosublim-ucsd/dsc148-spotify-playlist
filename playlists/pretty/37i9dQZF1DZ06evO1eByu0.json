@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 160080,
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 160096,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAACFWKPJJErZnWYlWOU+H7CE",
+  "snapshot_id": "ZrK5AAAAAACyXHpdc83Fr9uK2ygDBlgK",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nazareno",
-        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
         }
       ],
-      "duration_ms": 339373,
-      "name": "O Nazareno",
-      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
+      "duration_ms": 272741,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
       },
       "artists": [
         {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
         }
       ],
-      "duration_ms": 272741,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
     },
     {
       "added_at": null,

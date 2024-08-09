@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This Is bludnymph\. Todas as faixas essenciais numa única playlist.
+> This Is bludnymph أهم المقاطع كلها في قائمة أغاني وحدة.
 
 25 songs - 1 hr 4 min
 

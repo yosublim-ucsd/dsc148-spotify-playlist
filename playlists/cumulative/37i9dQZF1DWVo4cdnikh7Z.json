@@ -1099,6 +1099,36 @@
     },
     {
       "album": {
+        "name": "Adi Soora Azhagi (From \"EMI\")",
+        "url": "https://open.spotify.com/album/0M4dgXyLykZYv3u0gPXYpr"
+      },
+      "artists": [
+        {
+          "name": "Srinath Pitchai",
+          "url": "https://open.spotify.com/artist/26IBhVXT4QLgDX3qgu2NsB"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279625,
+      "name": "Adi Soora Azhagi (From \"EMI\")",
+      "url": "https://open.spotify.com/track/3F9syv21eAIqSEs1xJHNMs"
+    },
+    {
+      "album": {
         "name": "Adi Theni Santhaiyil (From \"Idimuzhakkam\")",
         "url": "https://open.spotify.com/album/6UmuTF0OkEtg2sGEkb8ZVu"
       },
@@ -2678,6 +2708,32 @@
       "duration_ms": 132000,
       "name": "Araro Ariraaro",
       "url": "https://open.spotify.com/track/7sfGr6Rr7qumPuFEnKEM0i"
+    },
+    {
+      "album": {
+        "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
+        "url": "https://open.spotify.com/album/3jlPD6C0ta9nbL5mTxS6Ed"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "K.N. VIJAYA KUMAR",
+          "url": "https://open.spotify.com/artist/0Ptx7nI1ZzEsEW2LvmQzA8"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Archana (From \"Aho Vikramaarka\") (Tamil)",
+      "url": "https://open.spotify.com/track/1vlofzi8r6jlicHLUGGICX"
     },
     {
       "album": {
@@ -10927,7 +10983,7 @@
     },
     {
       "album": {
-        "name": "Kaathu Mela (From \"Think Indie\")",
+        "name": "Kaathu Mela - From \"Think Indie\"",
         "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
       },
       "artists": [
@@ -14272,7 +14328,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 271281,
       "name": "Kya Lafda (From \"Double ISMART\")(Tamil)",
       "url": "https://open.spotify.com/track/1SDfOBqjcOPW2VO2AwP2YA"
@@ -14772,7 +14828,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 225091,
       "name": "Lucky Baskhar Title Track (From \"Lucky Baskhar\")(Tamil)",
       "url": "https://open.spotify.com/track/3e9xbHwlPQPypDtdSOiFy1"
@@ -18003,6 +18059,28 @@
     },
     {
       "album": {
+        "name": "Demonte Colony 2 - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4E5nOfyZWVu4DuCpahnopQ"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Naan Kaanum Kana",
+      "url": "https://open.spotify.com/track/7ALTbx3W05Y9Yh1TWgBtRT"
+    },
+    {
+      "album": {
         "name": "Kaaduvetty (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0eSgaReEOaXucjeZ42QaMd"
       },
@@ -20244,7 +20322,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 220363,
       "name": "Okay Solita",
       "url": "https://open.spotify.com/track/5feaIBubBGcYoTm9B66WEg"
@@ -20978,6 +21056,10 @@
         {
           "name": "Kapil Kapilan",
           "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
         },
         {
           "name": "Vivek",
@@ -22490,6 +22572,32 @@
       "duration_ms": 60714,
       "name": "Pet Lovers Anthem (Paal Mazhayin Thooralil) (From \"Shot Boot Three\") - Instrumental",
       "url": "https://open.spotify.com/track/3hRULsTMyuGLDt52RCjtsX"
+    },
+    {
+      "album": {
+        "name": "Petha Thaayum (From \"Boat\")",
+        "url": "https://open.spotify.com/album/5RxfLfl6XpS1cX9ODxE8sR"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Gold Devaraj",
+          "url": "https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn"
+        },
+        {
+          "name": "Vamanaa",
+          "url": "https://open.spotify.com/artist/5ltwHuHNxtXl6EmCW6nbdM"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "Petha Thaayum (From \"Boat\")",
+      "url": "https://open.spotify.com/track/5qCzys7n6p75UJSfkduGfS"
     },
     {
       "album": {
@@ -25168,6 +25276,32 @@
       "duration_ms": 252923,
       "name": "Saturday is Cominguu (From \"Kick\")",
       "url": "https://open.spotify.com/track/4foDIl6z2Xgf2MbU1SXBk7"
+    },
+    {
+      "album": {
+        "name": "Sayyare Sayya (From \"35 Chinna Katha Kaadu\")(Tamil)",
+        "url": "https://open.spotify.com/album/4SF49a0qeHgiGpyOqMJTyU"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Madhurakavi",
+          "url": "https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273400,
+      "name": "Sayyare Sayya (From \"35 Chinna Katha Kaadu\")(Tamil)",
+      "url": "https://open.spotify.com/track/3rikU85Gi1CapFREGLn4hN"
     },
     {
       "album": {
@@ -31684,7 +31818,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 218505,
       "name": "Vada poda - Reprise",
       "url": "https://open.spotify.com/track/1NhpnaNmhAm6ffXjAp9OCp"

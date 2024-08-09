@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Umile (Deluxe)",
+        "url": "https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197027,
+      "name": "Angeli",
+      "url": "https://open.spotify.com/track/4smsamhRCgETpkyegvYtBe"
+    },
+    {
+      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -3143,6 +3161,28 @@
     },
     {
       "album": {
+        "name": "Identit\u00e0",
+        "url": "https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Range Castagno",
+      "url": "https://open.spotify.com/track/77bEUzzKuiTT7TkRcUT2t2"
+    },
+    {
+      "album": {
         "name": "CVLT - HELLRAISERS",
         "url": "https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw"
       },
@@ -3416,6 +3456,28 @@
       "duration_ms": 192000,
       "name": "Sotto zero (feat. Emis Killa & Jake La Furia)",
       "url": "https://open.spotify.com/track/2usarU8ZBUy3Hj0j5fZrXG"
+    },
+    {
+      "album": {
+        "name": "Identit\u00e0",
+        "url": "https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Squalo Assassino",
+      "url": "https://open.spotify.com/track/1ColyaIb7jtKK4cPUT5at7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs?si=iHPs3TTvTNKtIYNSW14QQw>Emandiong</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=pfkatCuATDu7xqiKIfGolg>No\u00ebl Mio</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 150309,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/0AlabmZBtb0V1xpV6AJVpa"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 240048,
       "name": "Awesome God",
       "url": "https://open.spotify.com/track/1nTrFtXwhWY68CQJMAT0ej"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 193846,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/511Yo8d8ZcHB4tInOOPqC4"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 182543,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6ey6UQnRFCF4Oxmy0FCw9a"
@@ -5186,6 +5186,32 @@
       "duration_ms": 121730,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0ittKgqNcAIPN2ccJAtW6v"
+      },
+      "artists": [
+        {
+          "name": "Sherry Ann Maughan",
+          "url": "https://open.spotify.com/artist/3VfoQA2c4wouzvweBvReMf"
+        },
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203512,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1dtdLI6XUxM4EdX3ubyrom"
     },
     {
       "album": {
@@ -7264,6 +7290,32 @@
       "duration_ms": 210599,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/15lMgmcxp8giTCSFg4KW0N"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "R-Scar",
+          "url": "https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH"
+        },
+        {
+          "name": "RVIVXL",
+          "url": "https://open.spotify.com/artist/5C1BuQjvF1s7Usyff3T36B"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/3jwNKRDcqiaB5A16L218vY"
     },
     {
       "album": {
@@ -12883,6 +12935,28 @@
     },
     {
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1rbf7G10i9kfVxNYNTcvot"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+        },
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/5ULJy8nuV7jeNjsjyUpzXw"
+    },
+    {
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
       },
@@ -12942,7 +13016,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 126928,
       "name": "Raise Your Shoulder Up",
       "url": "https://open.spotify.com/track/0jqF0kugHjpAsRjAdVdqZN"
@@ -14830,6 +14904,24 @@
       "duration_ms": 133053,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/3lZqJ8lyCWUobZLJ0vIr0w"
+    },
+    {
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw\">Jo Black</a>",
-  "num_followers": 19488,
+  "num_followers": 19511,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Ewigheid (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Alleen - Remastered 2024",
-      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
         "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 222666,
       "name": "Hello",
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Ewigheid (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Alleen - Remastered 2024",
+      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Bloeisels",
-        "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
-      },
-      "artists": [
-        {
-          "name": "Straatligkinders",
-          "url": "https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Kan Ek Met Jou Dans",
-      "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Revolusie, Romantiek, Ruk en Rol",
         "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 175866,
       "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Bloeisels",
+        "url": "https://open.spotify.com/album/21Wolo015jpmELBve2nf8E"
+      },
+      "artists": [
+        {
+          "name": "Straatligkinders",
+          "url": "https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Kan Ek Met Jou Dans",
+      "url": "https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
+      },
+      "artists": [
+        {
+          "name": "an00k",
+          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
+        },
+        {
+          "name": "Lev UFO",
+          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
+        }
+      ],
+      "duration_ms": 161091,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt"
       },
@@ -579,26 +599,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Crumble",
-        "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
-      },
-      "artists": [
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        },
-        {
-          "name": "Lev UFO",
-          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
-        }
-      ],
-      "duration_ms": 161091,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Hoogtyd",
         "url": "https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 212459,
       "name": "Hoogtyd",
       "url": "https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Joune",
+        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
+      },
+      "artists": [
+        {
+          "name": "Cara Rossouw",
+          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Joune",
+      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -643,22 +659,6 @@
       "duration_ms": 171823,
       "name": "Voel Jy Dit?",
       "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Joune",
-        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
-      },
-      "artists": [
-        {
-          "name": "Cara Rossouw",
-          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Joune",
-      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -805,20 +805,24 @@
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Land & Sand",
-        "url": "https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN"
+        "name": "Neon Bloodstains",
+        "url": "https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l"
       },
       "artists": [
         {
-          "name": "Neil Sandilands",
-          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        },
+        {
+          "name": "Johni Holiday",
+          "url": "https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Gooi Kole",
-      "url": "https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc"
+      "duration_ms": 291576,
+      "name": "Neon Bloodstains",
+      "url": "https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I"
     }
   ],
   "unique_name": "SA Rock ",

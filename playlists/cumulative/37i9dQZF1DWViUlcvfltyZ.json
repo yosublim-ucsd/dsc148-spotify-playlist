@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia, MILLE in cover \ud83c\udfb8",
+  "description": "Rock, indie e punk dall'Italia, Diorama e I Melodrama in cover \ud83c\udfb8",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180465,
       "name": "Bobby Ballad",
       "url": "https://open.spotify.com/track/6fPOGxRKCytnWrvKvvqqcp"
@@ -4032,7 +4032,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 148301,
       "name": "CRACCO",
       "url": "https://open.spotify.com/track/6UqEFbDhIFIQnL4g3AY675"
@@ -4988,7 +4988,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 225250,
       "name": "Duri Come Me",
       "url": "https://open.spotify.com/track/5K25JPnH3KNhAvx2vtKGKJ"
@@ -5426,6 +5426,40 @@
       "duration_ms": 155031,
       "name": "Estate disperata",
       "url": "https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr"
+    },
+    {
+      "album": {
+        "name": "ESTATE HORROR (feat. SPINABELLA)",
+        "url": "https://open.spotify.com/album/662xxRe46oqgN0quFhaWSf"
+      },
+      "artists": [
+        {
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
+        },
+        {
+          "name": "SPINABELLA",
+          "url": "https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr"
+        },
+        {
+          "name": "Heavyangel",
+          "url": "https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr"
+        },
+        {
+          "name": "Skrabbabby",
+          "url": "https://open.spotify.com/artist/4X6OA7xuCuovpUbPpMn62n"
+        },
+        {
+          "name": "Lincxn",
+          "url": "https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183325,
+      "name": "ESTATE HORROR (feat. SPINABELLA)",
+      "url": "https://open.spotify.com/track/5kQ1NPdI49OuO8v4ZSlTal"
     },
     {
       "album": {
@@ -8058,7 +8092,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 179786,
       "name": "Il sesso tra ex",
       "url": "https://open.spotify.com/track/0P383GVlOQT9yG94WgyQmf"
@@ -8894,7 +8928,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 303375,
       "name": "L'aura",
       "url": "https://open.spotify.com/track/0gfrq347abQM5iVlfHCynt"
@@ -12143,6 +12177,24 @@
     },
     {
       "album": {
+        "name": "New Fears",
+        "url": "https://open.spotify.com/album/4GD8YM9AWxA8x4nZzBQanK"
+      },
+      "artists": [
+        {
+          "name": "HRTBRKR",
+          "url": "https://open.spotify.com/artist/1BEwnjx2cveT2s1zj2fslI"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155713,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/7rWdEypK1O7V9oU8xm9Pxc"
+    },
+    {
+      "album": {
         "name": "Nuvola II",
         "url": "https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr"
       },
@@ -12570,6 +12622,24 @@
       "duration_ms": 200475,
       "name": "Palle piene",
       "url": "https://open.spotify.com/track/5pUX3YSJvol5sBzAmBEIGb"
+    },
+    {
+      "album": {
+        "name": "Palpitazioni",
+        "url": "https://open.spotify.com/album/2gQ6MZ7AinKvE0uzXuao5X"
+      },
+      "artists": [
+        {
+          "name": "Elisa Benetti",
+          "url": "https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160330,
+      "name": "Palpitazioni",
+      "url": "https://open.spotify.com/track/6NyMBMLgfgjxIHM574xC89"
     },
     {
       "album": {
@@ -13572,7 +13642,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 270323,
       "name": "Prendersi Cura",
       "url": "https://open.spotify.com/track/3bhZr2G5pFb6cGXPhPGHMM"
@@ -14176,6 +14246,24 @@
       "duration_ms": 131039,
       "name": "Regole",
       "url": "https://open.spotify.com/track/5DwFoKAp9nxeAClDfeSOeO"
+    },
+    {
+      "album": {
+        "name": "Relax I'm Fine",
+        "url": "https://open.spotify.com/album/4RpP5GEvSLaTTpgrToDLo3"
+      },
+      "artists": [
+        {
+          "name": "pearl moth",
+          "url": "https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Relax I'm Fine",
+      "url": "https://open.spotify.com/track/5tiopmXV8OjUIZo7Fhxqaf"
     },
     {
       "album": {
@@ -16563,6 +16651,24 @@
     },
     {
       "album": {
+        "name": "SVEGLIA",
+        "url": "https://open.spotify.com/album/5VgW1hzSaJcwwdJiOa43QF"
+      },
+      "artists": [
+        {
+          "name": "ARKITEKT",
+          "url": "https://open.spotify.com/artist/3yFXrhSF9YifzDJpAUsP8I"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "SVEGLIA",
+      "url": "https://open.spotify.com/track/1DTw3EVjXTZgWBbirB6Cwg"
+    },
+    {
+      "album": {
         "name": "Stegosauro",
         "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
       },
@@ -18930,7 +19036,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 148000,
       "name": "wolf",
       "url": "https://open.spotify.com/track/3zV97uA7DXQ7uNLkoAb3nr"
@@ -19024,6 +19130,28 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "You'll Never Be Mine Again",
+        "url": "https://open.spotify.com/album/1Dkt05eW6sWV8DbePqtGo1"
+      },
+      "artists": [
+        {
+          "name": "The Peawees",
+          "url": "https://open.spotify.com/artist/4VBH5wOuG96Gx97VGJh16p"
+        },
+        {
+          "name": "The Detroit Cobras",
+          "url": "https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148493,
+      "name": "You'll Never Be Mine Again",
+      "url": "https://open.spotify.com/track/6A7DpjdrPKQfc4kC5gugpn"
     },
     {
       "album": {

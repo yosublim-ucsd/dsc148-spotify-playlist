@@ -1,6 +1,6 @@
 {
   "description": "Que comience la fiesta.",
-  "num_followers": 8095,
+  "num_followers": 8143,
   "original_name": "Bailando Merengue",
   "owner": {
     "name": "Spotify",
@@ -718,6 +718,10 @@
         {
           "name": "Magic Juan",
           "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        },
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
       "duration_ms": 258959,
@@ -759,22 +763,6 @@
     {
       "added_at": "2024-06-21 00:01:00",
       "album": {
-        "name": "Literal",
-        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "L\u00e1mpara Pa' Mis Pies",
-      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
-    },
-    {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
         "name": "No Pares de Sudar",
         "url": "https://open.spotify.com/album/0vShaFR12XCSYASyUJqySh"
       },
@@ -787,6 +775,22 @@
       "duration_ms": 251689,
       "name": "S\u00f3lo Te Quiero Amar",
       "url": "https://open.spotify.com/track/1VNlNrgyCrPTJkAyYVIxvO"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "L\u00e1mpara Pa' Mis Pies",
+      "url": "https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE"
     },
     {
       "added_at": "2024-06-21 00:01:00",

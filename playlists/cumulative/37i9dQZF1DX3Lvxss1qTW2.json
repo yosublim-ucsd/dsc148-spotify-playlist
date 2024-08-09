@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover:  Magixx",
+  "description": "The future hits of today. \nCover: Logos Olori",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/5pXjnVsehL8FfS9v452hR2"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/7ArATzlf3OKlgfVl3RMlQQ"
     },
     {
       "album": {
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
@@ -527,6 +545,50 @@
     },
     {
       "album": {
+        "name": "EWE",
+        "url": "https://open.spotify.com/album/4qxyLpRxIfW15AKnbgmksE"
+      },
+      "artists": [
+        {
+          "name": "Davolee",
+          "url": "https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166963,
+      "name": "EWE",
+      "url": "https://open.spotify.com/track/5pdmg7p3LIyU07vlLFI7w4"
+    },
+    {
+      "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9"
+    },
+    {
+      "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
       },
@@ -546,6 +608,28 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "album": {
@@ -816,7 +900,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 219690,
       "name": "Gen-Z Faaji",
       "url": "https://open.spotify.com/track/6ML4o3KWB24d8R7RU6fVkl"
@@ -882,7 +966,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 156055,
       "name": "Gin & Juice",
       "url": "https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5"
@@ -1078,7 +1162,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 153512,
       "name": "Kel-P Vibes",
       "url": "https://open.spotify.com/track/5uNWbjRJFAWfOWcumCu0QE"
@@ -1396,7 +1480,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 235747,
       "name": "Malaika x Bien",
       "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
@@ -1414,7 +1498,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 165004,
       "name": "Man Not God",
       "url": "https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF"
@@ -1436,7 +1520,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 146250,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0E77ZX9NeYpLCgDjqfWLZF"
@@ -1733,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Prodigal",
+        "url": "https://open.spotify.com/album/6EJI47BoVplR1bbCDjHtp0"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "Prodigal",
+      "url": "https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV"
+    },
+    {
+      "album": {
         "name": "Pull Over",
         "url": "https://open.spotify.com/album/6La7mFfoiK4D76FrvF44ON"
       },
@@ -1792,7 +1894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 132571,
       "name": "Risk",
       "url": "https://open.spotify.com/track/3CbYtoJFEmPAMkKhEjPdOE"
@@ -1890,7 +1992,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144999,
       "name": "Stay Wise",
       "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
@@ -1912,7 +2014,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 176898,
       "name": "Te Button",
       "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
@@ -2010,7 +2112,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
@@ -2054,7 +2156,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 154689,
       "name": "Trending",
       "url": "https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a"
@@ -2076,7 +2178,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 153126,
       "name": "UNO (feat. BenjiFlow)",
       "url": "https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn"
@@ -2237,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182976,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
+    },
+    {
+      "album": {
         "name": "WWGD [What We Gon Do]",
         "url": "https://open.spotify.com/album/7pQTRZFDw4rcDaAqv556Ck"
       },
@@ -2248,7 +2368,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 172288,
       "name": "WWGD [What We Gon Do]",
       "url": "https://open.spotify.com/track/50sDl1FArutfd4VUt4T4ln"
@@ -2270,6 +2390,24 @@
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+    },
+    {
+      "album": {
+        "name": "Yawa",
+        "url": "https://open.spotify.com/album/69IwXK6Qhwg7QHV6abRzgd"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156044,
+      "name": "Yawa",
+      "url": "https://open.spotify.com/track/5i4jxXFVNy1cX5kz17hP06"
     },
     {
       "album": {

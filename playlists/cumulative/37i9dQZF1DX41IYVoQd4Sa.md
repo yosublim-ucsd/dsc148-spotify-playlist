@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-90 songs - 5 hr 26 min
+92 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:39 | 2024-06-27 |  |
 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 | 2024-07-11 |  |
 | [Getaway](https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V) | [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH), [Roy Reemy](https://open.spotify.com/artist/7oRZxDEJe5QKE3yWJxAOP0) | [Getaway](https://open.spotify.com/album/1CjEqOxmsaPtlm3aVp1tKU) | 3:10 | 2024-06-27 |  |
-| [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 | 2024-07-25 |  |
+| [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 | 2024-07-25 | 2024-08-09 |
 | [Ha'chayim Ha'ele](https://open.spotify.com/track/0j6h27PRdWp5reQDD3IV4V) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [Ha'chayim Ha'ele](https://open.spotify.com/album/55KdrAbQ29QClGDay6Wony) | 3:15 | 2024-07-11 | 2024-08-02 |
 | [I Never Land](https://open.spotify.com/track/4AyZu1oGMkctesnFZIPgL1) | [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [I Never Land](https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu) | 3:12 | 2024-07-18 |  |
 | [If Whiskey Was A Friend](https://open.spotify.com/track/3DFfLQlJlPDeGrNbktAmy9) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [If Whiskey Was A Friend](https://open.spotify.com/album/6MUOd5Aud7D5CfsD3DK9BQ) | 3:33 | 2024-07-18 |  |
@@ -42,7 +42,7 @@
 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 | 2024-06-27 |  |
 | [האזרח האחד / ריבונו של עולם \- Live](https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [האזרח האחד / ריבונו של עולם \(Live\)](https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu) | 5:43 | 2024-06-27 |  |
 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 | 2024-06-27 |  |
-| [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 |  |
+| [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 | 2024-08-09 |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/0GRj6FvKdaMTNqxStUGHHM) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [מתקרבים הכוכבים](https://open.spotify.com/album/0yYCbp4oZSPFWsqPA3dYZ9) | 3:03 | 2024-07-25 |  |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [היא תמשיך גם בלעדיך](https://open.spotify.com/album/4Cwr2wOmmGgmcqI74ZBe0g) | 3:03 | 2024-07-11 | 2024-07-27 |
 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 | 2024-07-25 | 2024-08-02 |
@@ -62,6 +62,7 @@
 | [כל החיים](https://open.spotify.com/track/6V4HfYE5RAObktButIRj3Q) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [כל החיים](https://open.spotify.com/album/7lIHyWYs1wRbk1GxAIY7oG) | 3:43 | 2024-06-27 | 2024-07-15 |
 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 | 2024-06-27 |  |
 | [כשאין בי אהבה](https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [כשאין בי אהבה](https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5) | 3:20 | 2024-06-27 | 2024-07-12 |
+| [כשתהיה גדול](https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3) | [Mish Bejerano](https://open.spotify.com/artist/1oG8qiBUA1WVFpYkesEZBH) | [כשתהיה גדול](https://open.spotify.com/album/6LBEj25cxtyqT3H5SAduQR) | 3:31 | 2024-08-08 |  |
 | [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 |  |
 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 | 2024-07-25 | 2024-08-05 |
@@ -74,6 +75,7 @@
 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 |  |
 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 | 2024-06-27 |  |
 | [מראה שבורה \- לייב](https://open.spotify.com/track/6T1jIQSlwvQ7L3uHIX2PgJ) | [איתי דלומי](https://open.spotify.com/artist/0aCKA0bYDFN7BIt7v2YJrB), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h), [Eran Weitz](https://open.spotify.com/artist/3D99a797NmPrmX4s9WA750) | [מראה שבורה \(לייב\)](https://open.spotify.com/album/6NupFAXRVQ7qw2VrJwf1AE) | 3:46 | 2024-06-27 | 2024-07-12 |
+| [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 | 2024-08-08 |  |
 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 |  |
 | [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 | 2024-06-27 |  |
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 |  |

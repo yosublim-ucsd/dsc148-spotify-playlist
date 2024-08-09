@@ -1279,6 +1279,32 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD"
+      },
+      "artists": [
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Joh!",
+          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192772,
+      "name": "BAD (Feat. Moon Sujin, Joh!)",
+      "url": "https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V"
+    },
+    {
+      "album": {
         "name": "Made In Heart",
         "url": "https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH"
       },
@@ -7756,7 +7782,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -8574,7 +8600,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 182480,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
@@ -12294,7 +12320,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159013,
       "name": "Sunkissed (Feat. MARK of NCT)",
       "url": "https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6"

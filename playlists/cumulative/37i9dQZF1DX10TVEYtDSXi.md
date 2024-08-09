@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-56 songs - 2 hr 52 min
+57 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-06-21 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-21 |  |
 | [HubbaBubba](https://open.spotify.com/track/3qWnKB22BGrKCTTBRAfkb3) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [HubbaBubba](https://open.spotify.com/album/5BRijH5ZOuUJ2DiSnSlZiO) | 1:59 | 2024-07-26 |  |
-| [Hvað með þig?](https://open.spotify.com/track/34sUp0Qv7GQzjTiufBMbJz) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx), [HÚGÓ](https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [Hvað með þig?](https://open.spotify.com/album/2NWyXlP1pmVQW5HMmJsrPL) | 2:28 | 2024-06-21 |  |
+| [Hvað með þig?](https://open.spotify.com/track/34sUp0Qv7GQzjTiufBMbJz) | [NUSSUN](https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx), [HÚGÓ](https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [Hvað með þig?](https://open.spotify.com/album/2NWyXlP1pmVQW5HMmJsrPL) | 2:28 | 2024-06-21 | 2024-08-09 |
 | [Hvert ertu að fara?](https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Hvert ertu að fara?](https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ) | 2:37 | 2024-06-21 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-21 |  |
@@ -63,6 +63,7 @@
 | [Veit ekki með þig](https://open.spotify.com/track/5BsvubZKwChZFcNRkxlOgD) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Veit ekki með þig](https://open.spotify.com/album/4080PUV38C8ZVnEE65s7EO) | 2:42 | 2024-06-21 |  |
 | [Wash It Away](https://open.spotify.com/track/6uWg8e184kvHyy2LkDVoHj) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Wash It Away](https://open.spotify.com/album/3VRr7bkdTRnc5Gej5ymHGt) | 4:03 | 2024-06-21 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-06-21 |  |
+| [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 |  |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-21 | 2024-08-02 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

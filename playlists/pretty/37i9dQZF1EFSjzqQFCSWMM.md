@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 28 | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/track/3udJ09ioWBam8g9AlfUpvY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/album/4UyKbjtQ4cn8UOUHNlLWPR) | 2:42 |
 | 29 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 |
 | 30 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 |
-| 31 | [Lift Off](https://open.spotify.com/track/70H6NS297gvxm2TQAeMmQj) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 2:53 |
-| 32 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 |
+| 31 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 |
+| 32 | [Lift Off](https://open.spotify.com/track/70H6NS297gvxm2TQAeMmQj) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 2:53 |
 | 33 | [LET IT GO](https://open.spotify.com/track/6U0aE7POLQ0mQJd3gutMub) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [LVL 36](https://open.spotify.com/album/2en8CrkQChgJ8YJMyJPtmF) | 3:36 |
 | 34 | [Nada](https://open.spotify.com/track/3CVEQzKtULatPcRoCUMDvU) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:17 |
 | 35 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 76 | [HICCUP](https://open.spotify.com/track/3xO0JG5aeKca9gp9SYcljz) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/6dqubyVt3aC3niJDXkSB5Q) | 2:10 |
 | 77 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 |
 | 78 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 |
-| 79 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 |
-| 80 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
+| 79 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 |
+| 80 | [Good Life](https://open.spotify.com/track/04mFzfiMGq2EHPZhTpcYMc) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:45 |
 | 81 | [Barely Anybody](https://open.spotify.com/track/74OXa3vvBFhJoLgx5jPYva) | [Wesson Desir](https://open.spotify.com/artist/5TfGTJqLoXQYHHW7hyaDot) | [Apollo Archives](https://open.spotify.com/album/5eMzcOEjGRmKypPq6nbZTz) | 2:27 |
 | 82 | [Sunrise](https://open.spotify.com/track/4l7D1q4Z2XIZE7GzCWnFeb) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/4xYXybTIaWJJVR3ahv85TO) | 2:18 |
 | 83 | [BELIEVE ME](https://open.spotify.com/track/1iYzpPZzxkdgZG3ukBRE9m) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:48 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 95 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 96 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AbY0FgAAAADgEb3e1pzLJPqLpE7LhKw3`
+Snapshot ID: `AbY5tgAAAACqz+Uk2ainV/91a25wwHci`

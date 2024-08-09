@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Faut que tu m'aimes" de Styleto est le Grand Hit de la semaine.
+> "Ton regard" de Joseph Kamel est le Grand Hit de la semaine.
 
 168 songs - 8 hr 38 min
 

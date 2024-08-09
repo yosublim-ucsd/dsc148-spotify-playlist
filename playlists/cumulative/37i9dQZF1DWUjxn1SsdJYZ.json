@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "OOS OOS!!! It's your weekly dose of AUS & NZ Rap. Cover: Hooligan Hefs",
+  "description": "ESHYAY CUZ!!! It's the spot for AUS & NZ Rap. Cover: Hooligan Hefs",
   "name": "Local Hype",
   "tracks": [
     {
@@ -10304,7 +10304,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 160186,
       "name": "Neglected",
       "url": "https://open.spotify.com/track/5YU1qcBVspS4TisxvqtrTh"
@@ -12231,6 +12231,24 @@
     },
     {
       "album": {
+        "name": "KILL THE DEAD",
+        "url": "https://open.spotify.com/album/28ZkakRoyR48ojYgVugcM8"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174373,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/6OsKteNYckuH9PzkPH8ijU"
+    },
+    {
+      "album": {
         "name": "Sinning Winning Living",
         "url": "https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk"
       },
@@ -13750,7 +13768,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 116571,
       "name": "SHININ' (Feat. Raf Receipt)",
       "url": "https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA"
@@ -15010,6 +15028,24 @@
       "duration_ms": 177634,
       "name": "Telem How",
       "url": "https://open.spotify.com/track/1LvdK1HBtxQ4R5AgNYXL76"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/5WOGBzFpckM9DHx8Zc29mP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139136,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0LOftSMMK0R57XJS0jYSIz"
     },
     {
       "album": {

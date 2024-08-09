@@ -6213,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "And Now, Eric Carmen: The Arista Archive",
+        "url": "https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205164,
+      "name": "My Heart Stops",
+      "url": "https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW"
+    },
+    {
+      "album": {
         "name": "Hearts In Motion",
         "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
       },

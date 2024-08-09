@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Terence Crawford
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry
 
 665 songs - 1 day 9 hr 43 min
 

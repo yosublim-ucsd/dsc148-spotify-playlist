@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 |  |
+| [1990](https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [1990](https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS) | 1:40 | 2022-07-06 | 2024-08-09 |
 | [2016](https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [2016](https://open.spotify.com/album/4Y1a0m4CCbZRpPH2X2E2WA) | 3:00 | 2024-02-09 |  |
 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 | 2023-03-24 |  |
 | [3am](https://open.spotify.com/track/3e8lI9dQ9q0PHIgTtQPhcH) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [3am](https://open.spotify.com/album/1sMVWxsUWC5UKxKFQYMAKM) | 2:56 | 2021-10-11 | 2022-04-20 |
@@ -45,7 +45,7 @@
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-24 |  |
 | [Boys Got to Go](https://open.spotify.com/track/3tD1Woe9cOS3pF8eUGMIMC) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/0ak4UjGlHdaae0fPn8cgCi) | 2:55 | 2020-12-22 | 2021-03-06 |
 | [Brillo](https://open.spotify.com/track/5Mvi4VJVhPKPn3OxumkRI6) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Brillo](https://open.spotify.com/album/5GHe6nkqz9cE4dS76BmPuR) | 4:20 | 2020-12-11 | 2020-12-22 |
-| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 | 2024-07-21 |
+| [Broken Record](https://open.spotify.com/track/2rNSaR3roXGZHSdPkbbsFH) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [All We've Ever Known](https://open.spotify.com/album/2vHY2n9f4dlmC7OzGbLjaK) | 4:01 | 2022-07-06 |  |
 | [Bubblegum](https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Liquid](https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps) | 2:46 | 2022-07-06 | 2023-09-28 |
 | [Bubblegum](https://open.spotify.com/track/5XaJdpwi6KoKHzxYS3wDcH) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Bubblegum](https://open.spotify.com/album/47AJ4yZfbQni0cUn6NNyM1) | 2:46 | 2021-09-10 | 2022-07-29 |
 | [Burnout!](https://open.spotify.com/track/6aBl8UezkCSSORPvG5l9Kt) | [Blushh](https://open.spotify.com/artist/6gwYYlD3bgZOHGYGrTGFz5) | [Burnout!](https://open.spotify.com/album/6dIw0ywe3wwTifjy57eHG8) | 2:18 | 2022-04-13 | 2022-06-25 |

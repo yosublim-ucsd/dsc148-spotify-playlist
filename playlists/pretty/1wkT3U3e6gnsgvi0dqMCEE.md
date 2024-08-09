@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\. For up to date new releases and exclusives from your favourite artists, Follow uDiscover <a href="https://udiscoverca.lnk.to/udiscovermusicca">here</a>
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 3,744 likes - 93 songs - 5 hr 59 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 3,743 likes - 93 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 15 | [Linger](https://open.spotify.com/track/2PthnEVjnqMYPWTg7ZW8QC) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Linger \(Iain Cook Remix\)](https://open.spotify.com/album/1cu4TMoCmGTpuJ0cozozF0) | 4:34 |
 | 16 | [The Hurt](https://open.spotify.com/track/0ssyUYzev6ulxNWQcAPk6m) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Foreigner](https://open.spotify.com/album/3tHGLaibgszG59jDPHkw2Q) | 4:19 |
 | 17 | [Soily \- One Hand Clapping Sessions](https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [One Hand Clapping](https://open.spotify.com/album/5bo520v8a72MrqnQNCPh5Y) | 3:56 |
-| 18 | [Aisumasen \(I'm Sorry\) \- Ultimate Mix](https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Aisumasen \(I’m Sorry\) \[Ultimate Mix\]](https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY) | 4:39 |
+| 18 | [Aisumasen \(I'm Sorry\) \- Ultimate Mix](https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Aisumasen \(I’m Sorry\) \- Ultimate Mix](https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY) | 4:39 |
 | 19 | [King Of Pain \- Demo](https://open.spotify.com/track/3zygIi9BmfAo6ORqJlfyqv) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [King Of Pain \(Demo\)](https://open.spotify.com/album/01eQ5d9ozwnYAdAFVzPo7z) | 4:14 |
 | 20 | [Another One Bites The Dust \- Live](https://open.spotify.com/track/45mhiVPUphR25oRJ4UEgDz) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Rock Montreal](https://open.spotify.com/album/2IY3Ty8CrUyvpibt8AcZmp) | 4:00 |
 | 21 | [Rebel Yell](https://open.spotify.com/track/2HFJ24aoUuS9mvcfCt9yiw) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 4:48 |

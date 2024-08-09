@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Blumengarten",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 153447,
       "name": "300g",
       "url": "https://open.spotify.com/track/47wrpWUKellZqQwzjQkUE0"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 184333,
       "name": "Allein",
       "url": "https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187000,
       "name": "Boxsack",
       "url": "https://open.spotify.com/track/7DQuPLmkfztfrAvrjaAvom"
@@ -2609,6 +2609,24 @@
     },
     {
       "album": {
+        "name": "Die Jungs",
+        "url": "https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Die Jungs",
+      "url": "https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M"
+    },
+    {
+      "album": {
         "name": "Die Kids sind alright",
         "url": "https://open.spotify.com/album/48XnW5Nr0BE4F8s2g2iPib"
       },
@@ -2700,6 +2718,24 @@
       "duration_ms": 141032,
       "name": "Die Zeit steht still",
       "url": "https://open.spotify.com/track/1t4oaKyj54yJp46ARxZ7fv"
+    },
+    {
+      "album": {
+        "name": "Dies das",
+        "url": "https://open.spotify.com/album/44LE68OtvDk5sBlbsrqKPi"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Dies das",
+      "url": "https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE"
     },
     {
       "album": {
@@ -7370,7 +7406,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 191538,
       "name": "Lichtblick",
       "url": "https://open.spotify.com/track/3bclSz6FTJriC5YVWoAzo7"
@@ -10504,7 +10540,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 144000,
       "name": "Seit du weg bist",
       "url": "https://open.spotify.com/track/1muCrkpIssK607KL9EaAZq"
@@ -10797,6 +10833,24 @@
     },
     {
       "album": {
+        "name": "so allein",
+        "url": "https://open.spotify.com/album/7jK6jSILE3ey68mlC0DnFl"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160012,
+      "name": "so allein",
+      "url": "https://open.spotify.com/track/16Jm7I1i6ubm5mGhLInqCr"
+    },
+    {
+      "album": {
         "name": "So bin ich halt / blablabla",
         "url": "https://open.spotify.com/album/5g0qVROyAjzBdxShAaWFdT"
       },
@@ -10856,6 +10910,24 @@
       "duration_ms": 142479,
       "name": "so sch\u00f6n",
       "url": "https://open.spotify.com/track/6y8VFRPbnCmABVPNtPwExr"
+    },
+    {
+      "album": {
+        "name": "so sch\u00f6n rot",
+        "url": "https://open.spotify.com/album/6uKIvRYZoxjQ4wZyJowsyn"
+      },
+      "artists": [
+        {
+          "name": "Wavy",
+          "url": "https://open.spotify.com/artist/6fo2QiffMr02sEA2aFvUIz"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154511,
+      "name": "so sch\u00f6n rot",
+      "url": "https://open.spotify.com/track/79crABfcQo5b1viw1gBZi5"
     },
     {
       "album": {
@@ -11862,6 +11934,24 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
+    },
+    {
+      "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
     },
     {
       "album": {
@@ -13159,6 +13249,24 @@
     },
     {
       "album": {
+        "name": "wie du da liegst",
+        "url": "https://open.spotify.com/album/3ihmHOSp2dQ2ehpF0JHecB"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169613,
+      "name": "wie du da liegst",
+      "url": "https://open.spotify.com/track/4GIN80SV7QGrb34fSxt6XO"
+    },
+    {
+      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -13327,6 +13435,24 @@
     },
     {
       "album": {
+        "name": "Wieso eigentlich?",
+        "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "Wieso eigentlich?",
+      "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"
+    },
+    {
+      "album": {
         "name": "Wilde Herzen",
         "url": "https://open.spotify.com/album/1wf7R5V02ykidXjrEf2H9C"
       },
@@ -13432,7 +13558,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 180000,
       "name": "Wisch&Tipp",
       "url": "https://open.spotify.com/track/2UkCafENd1PZfIaLd27NVi"
@@ -13682,7 +13808,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 153985,
       "name": "zu gut",
       "url": "https://open.spotify.com/track/5TM9lVAjcGNYqaGFqIoAJS"

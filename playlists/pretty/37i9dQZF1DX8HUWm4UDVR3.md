@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Hervé
+> La pop française annonce la couleur\. Photo : Olympe Chabert
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,084 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,087 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 |
-| 2 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 |
-| 3 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
-| 4 | [Allô Maman](https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Allô Maman](https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO) | 2:40 |
-| 5 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 |
-| 6 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 |
+| 1 | [Bad boy malheureux](https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Bad boy malheureux](https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD) | 2:54 |
+| 2 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
+| 3 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 |
+| 4 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 |
+| 5 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 |
+| 6 | [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 |
 | 7 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 8 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 |
-| 9 | [Bad boy malheureux](https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Bad boy malheureux](https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD) | 2:54 |
-| 10 | [boomerang](https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [boomerang](https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY) | 2:57 |
-| 11 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 |
-| 12 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 |
-| 13 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 |
-| 14 | [Mille morceaux](https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf) | [Basile Palace](https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh) | [Mille morceaux](https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD) | 3:03 |
-| 15 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 |
-| 16 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 |
-| 17 | [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 |
-| 18 | [Ce soir](https://open.spotify.com/track/7z6qjtc8VJcJ9G10n03P4i) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:46 |
-| 19 | [Bêtise](https://open.spotify.com/track/6OmdFCxnpRCwuMX9kprUXU) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Bêtise](https://open.spotify.com/album/4oYPlPRZRLpvuFWGDQJepf) | 3:01 |
-| 20 | [Dans mon coeur, tu reviens](https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Dans mon coeur, tu reviens](https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX) | 3:05 |
+| 8 | [boomerang](https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [boomerang](https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY) | 2:57 |
+| 9 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 |
+| 10 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 |
+| 11 | [Mille morceaux](https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf) | [Basile Palace](https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh) | [Mille morceaux](https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD) | 3:03 |
+| 12 | [Allô Maman](https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Allô Maman](https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO) | 2:40 |
+| 13 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 |
+| 14 | [Loser](https://open.spotify.com/track/5Dj8pFjDCm6Pm4aaOqfgkj) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Loser](https://open.spotify.com/album/4v8CMaH9wc0c47jev8WYEp) | 2:49 |
+| 15 | [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 |
+| 16 | [Plus de problèmes](https://open.spotify.com/track/0pulUhI0fMLZIcPNClwjhL) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Plus de problèmes](https://open.spotify.com/album/5z52r8m9gHlX3NWOW6SdpH) | 3:04 |
+| 17 | [Comme ceux qui s'aiment](https://open.spotify.com/track/68p57UPGx8uXlGSEAdKHis) | [Nyv](https://open.spotify.com/artist/1ciw0LLweRvHpU9zhiOYyq) | [Comme ceux qui s'aiment](https://open.spotify.com/album/13yLsDKsT0GK6c2s4FnfsC) | 3:05 |
+| 18 | [Dans mon coeur, tu reviens](https://open.spotify.com/track/7BNT3qsg230rBtAaZy0CC4) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Dans mon coeur, tu reviens](https://open.spotify.com/album/4jB21HxVGQORLHD7sqXQLX) | 3:05 |
+| 19 | [Ce soir](https://open.spotify.com/track/7z6qjtc8VJcJ9G10n03P4i) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Nouvelle Ère](https://open.spotify.com/album/5fDeHvOOrCb7iOw7V90OQm) | 2:46 |
+| 20 | [Bêtise](https://open.spotify.com/track/6OmdFCxnpRCwuMX9kprUXU) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Bêtise](https://open.spotify.com/album/4oYPlPRZRLpvuFWGDQJepf) | 3:01 |
 | 21 | [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 |
 | 22 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 |
 | 23 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [L'or & le fer](https://open.spotify.com/track/5jJDOgQ8ZY5cDUvWpAEANZ) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [L'or & le fer](https://open.spotify.com/album/75OHOkrQ8bYdZvTN6a1YpH) | 3:06 |
 | 50 | [tattoo](https://open.spotify.com/track/7evwmxNkhVLd2upYjGa7De) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [MOLITOR 24](https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9) | 2:50 |
 
-Snapshot ID: `ZqwFYAAAAADoPjLvvcth+GXjGXr3KDZa`
+Snapshot ID: `ZrU/4AAAAAB82uVBrcKNHuevRIZIjdPB`

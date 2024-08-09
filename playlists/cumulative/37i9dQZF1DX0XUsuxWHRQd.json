@@ -18343,6 +18343,24 @@
     },
     {
       "album": {
+        "name": "Dorrough Music",
+        "url": "https://open.spotify.com/album/0tzzLaqTTh1DuYN2fLpQnY"
+      },
+      "artists": [
+        {
+          "name": "Dorrough Music",
+          "url": "https://open.spotify.com/artist/5MAp6rMiUJjRLXMWtArXRS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "Ice Cream Paint Job",
+      "url": "https://open.spotify.com/track/35EfL85garkKhKEemkeLoC"
+    },
+    {
+      "album": {
         "name": "Ice Spice",
         "url": "https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN"
       },

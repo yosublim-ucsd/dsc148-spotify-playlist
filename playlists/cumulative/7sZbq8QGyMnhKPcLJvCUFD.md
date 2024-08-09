@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-578 songs - 1 day 5 hr 25 min
+579 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [corrupted](https://open.spotify.com/track/39GHv2K1RKIQfZHFjR1yjY) | [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [corrupted](https://open.spotify.com/album/3BvcTWoK35dqfpunJgJBHm) | 1:42 | 2024-07-12 |  |
 | [Cozy Thunder](https://open.spotify.com/track/1RuxuAnkAJZ2FPdxvcDDih) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:16 | 2023-02-17 | 2023-08-10 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-23 |  |
-| [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Charlotte Reed](https://open.spotify.com/artist/2QJptU1vtIdk7WQIuylCjs) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
+| [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
 | [Crazy](https://open.spotify.com/track/5nihLVpUd4birzwDlSp1Ph) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Crazy](https://open.spotify.com/album/59yKZOWSuX7wYlH5nZneRY) | 3:08 | 2023-08-08 | 2023-12-14 |
 | [Crossed The Line](https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Crossed The Line](https://open.spotify.com/album/2hlugmYMiNqGeMYmksckMe) | 2:27 | 2023-08-08 | 2024-03-08 |
 | [Cruising](https://open.spotify.com/track/6wbsJTgOAlKbpKvhQbQkqW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Cruising](https://open.spotify.com/album/4wS9vXssesDfru8gNF7aNY) | 2:40 | 2024-03-26 |  |
@@ -453,6 +453,7 @@
 | [Shadow Of Ages](https://open.spotify.com/track/7bu3s4HOeeThwIzupE8bp6) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Ric Waves](https://open.spotify.com/artist/290b7FiG8ePIb0VaLosR49) | [Shadow Of Ages](https://open.spotify.com/album/4hYf5tJ8E8peLMFT0Q7rfM) | 2:33 | 2023-12-26 | 2024-07-19 |
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 | 2023-08-10 |
 | [Shine](https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Shine](https://open.spotify.com/album/1TS3cjyqnslzRJIU91kGYF) | 5:15 | 2023-08-08 | 2024-01-04 |
+| [Shine \- Always Mirin Remix](https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV), [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Shine \(Always Mirin Remix\)](https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN) | 2:20 | 2024-08-08 |  |
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 | 2023-04-28 |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 | 2023-04-28 |
 | [Sinister](https://open.spotify.com/track/5UJe4xKCeK9LshHzyoxMmy) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [SVRT](https://open.spotify.com/artist/0IMi6kEmTfnK7LylEoy59Z), [Chilly](https://open.spotify.com/artist/68XjmGeWauzvqJuWYMuxtA) | [Sinister](https://open.spotify.com/album/2FGXfyoyL7GtjF6Gu69b9e) | 2:55 | 2023-07-05 | 2023-08-28 |

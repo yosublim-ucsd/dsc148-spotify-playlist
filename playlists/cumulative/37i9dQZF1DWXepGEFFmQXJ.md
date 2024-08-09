@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Keith Urban
+> The cream of today's Country crop\. Cover: Thomas Rhett
 
-719 songs - 1 day 15 hr 26 min
+724 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Acres](https://open.spotify.com/track/4JIWCqW9WFHYD7Snwxji7m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Acres](https://open.spotify.com/album/59ZMKvAyxlAYf6IioYgSi0) | 3:52 | 2023-02-23 | 2023-03-19 |
 | [Acres](https://open.spotify.com/track/68Em9vuEpyi3DMxeDiCe2m) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Now She Ain't](https://open.spotify.com/album/5FpvK5R9OIe7mcQbedllpM) | 3:52 | 2023-04-13 | 2023-12-20 |
 | [Admire](https://open.spotify.com/track/0wdFJP36ORnHvKNK0fEtTg) | [Jake Davey](https://open.spotify.com/artist/5dlylLGY11H1ekOD9hwHuK) | [Admire](https://open.spotify.com/album/6OpFEhugnMcaFwgVGoFFcg) | 3:34 | 2022-03-04 | 2022-07-18 |
+| [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-08 |  |
 | [After the Breakdown](https://open.spotify.com/track/5XsBQNOToyIfL0dGp7KIna) | [McAlister Kemp](https://open.spotify.com/artist/3kYvlV6E961RxSCtavDXe6) | [After the Breakdown](https://open.spotify.com/album/6TDFO09pfq3OdtvKFEj9Ey) | 3:24 | 2022-03-31 | 2022-06-17 |
 | [After The Storm](https://open.spotify.com/track/10i4wnz3CyvAJ8LZxjGEMV) | [FIREROSE](https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [After The Storm](https://open.spotify.com/album/6QMgGMYh0z0NWkEPWb769g) | 3:36 | 2024-03-28 | 2024-05-17 |
 | [Ain't Goin' Home](https://open.spotify.com/track/4HpMCEkK2bAYTsIaMnVfsc) | [Vixens Of Fall](https://open.spotify.com/artist/5E8CKxCEIm6vLESXqUExBt) | [Ain't Goin' Home](https://open.spotify.com/album/2BaCaOKP9hMhf68PTLKJY6) | 3:18 | 2022-07-21 | 2022-10-07 |
@@ -62,6 +63,7 @@
 | [Bad Things](https://open.spotify.com/track/14TZAzaNPCqMUaVSWhsVWk) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [Darlinghurst](https://open.spotify.com/album/77bjZYPdR8D10J5XhhjAmB) | 3:42 | 2021-12-30 | 2022-01-22 |
 | [Bar High](https://open.spotify.com/track/1HTmE3WQOuahpTwpoyji5i) | [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Bar High](https://open.spotify.com/album/2obFqMJf41lw1DUTMRgQOk) | 2:52 | 2022-07-21 | 2023-01-13 |
 | [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 | 2023-01-12 | 2023-07-14 |
+| [Be Like](https://open.spotify.com/track/1UGFaqYcaP8xicpYfP26Lh) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Be Like](https://open.spotify.com/album/0g9eIz9SLlJV55DDz0n5la) | 3:29 | 2024-08-08 |  |
 | [Beat of My Own Drum](https://open.spotify.com/track/7HK0624DLMQDA5x7rdZNkB) | [Christie Lamb](https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F) | [Beat of My Own Drum](https://open.spotify.com/album/16WLa1TPCS4sBEWWgUBxHR) | 3:06 | 2022-03-17 | 2022-05-13 |
 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 | 2024-05-09 |  |
 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 | 2022-09-15 | 2023-03-18 |
@@ -97,6 +99,7 @@
 | [Breaking My Heart](https://open.spotify.com/track/4gfseDv2tGCUlBLtOljnJP) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Breaking My Heart](https://open.spotify.com/album/6JPhvVl0yTlDB1MoUNFea1) | 3:40 | 2024-01-19 | 2024-04-19 |
 | [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 | 2022-09-24 |
 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 | 2023-03-16 | 2023-09-01 |
+| [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 | 2024-08-08 |  |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-07-07 | 2023-01-28 |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-09 |  |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2023-05-18 | 2023-09-22 |
@@ -121,6 +124,7 @@
 | [Chill](https://open.spotify.com/track/1kTYELly3Zlf2zFWFu2oW4) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Any Less Anymore](https://open.spotify.com/album/7kzmnHQbgOfSfAl5oYw0w5) | 3:06 | 2023-11-30 | 2024-03-08 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
 | [City Girls In The Country](https://open.spotify.com/track/4R59AUuHpRuhI6A1CT6nzt) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [City Girls In The Country](https://open.spotify.com/album/6aip6rm5QprYwSErt07SVe) | 3:13 | 2022-09-29 | 2023-03-10 |
+| [Closing Time In California](https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Closing Time In California](https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl) | 3:29 | 2024-08-08 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-10-05 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-08-31 | 2024-05-17 |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 |  |
@@ -339,6 +343,7 @@
 | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/track/4K3yNCPmLL8pRffpLBJkLR) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Just the Way \(feat\. Bryce Vine\)](https://open.spotify.com/album/1dVViRBF5dPVKNeCuicN4T) | 3:13 | 2021-12-30 | 2022-03-05 |
 | [Keith](https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/5vhfSn7rFEfy8jxuoI1PGE) | 2:51 | 2022-05-08 | 2022-10-14 |
 | [KEITH \- Pop Remix](https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m) | 2:52 | 2022-03-31 | 2022-05-09 |
+| [Kick The Doors Down](https://open.spotify.com/track/2ZbQHHk3Sc7ksW0qR08avs) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Kick The Doors Down](https://open.spotify.com/album/47mQUon9srpsIP1X9o5DBJ) | 2:57 | 2024-08-08 |  |
 | [Kiss Me Like You Mean It](https://open.spotify.com/track/2XBzrwJxSVLFt2sF45HT9W) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Light It Up](https://open.spotify.com/album/4mu4JS9y4EMTe8DdTvh1BE) | 3:06 | 2022-06-30 | 2022-09-30 |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-05-30 | 2024-06-21 |
 | [Lake Rules](https://open.spotify.com/track/3PtUd7f5pWdCC1DlUiqIvs) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Lake Rules](https://open.spotify.com/album/3xWvsXQdKGhpKbOj3j6UgU) | 3:34 | 2023-07-13 | 2023-09-08 |

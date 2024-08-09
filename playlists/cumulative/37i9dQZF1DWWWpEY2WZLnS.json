@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Bo Bo Bo",
+        "url": "https://open.spotify.com/album/3dZBu4c9LUhSYTtqCdgVHN"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94285,
+      "name": "Bo Bo Bo",
+      "url": "https://open.spotify.com/track/3YD3fzaeUAG60fb1x8yDaq"
+    },
+    {
+      "album": {
         "name": "Bobote",
         "url": "https://open.spotify.com/album/68ihFK8T2v5Y2RcCAOFA1s"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
@@ -5788,6 +5806,10 @@
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
       "date_added": "2023-06-12",
@@ -8181,6 +8203,24 @@
     },
     {
       "album": {
+        "name": "Vivela",
+        "url": "https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131081,
+      "name": "Vivela",
+      "url": "https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz"
+    },
+    {
+      "album": {
         "name": "VIVELA",
         "url": "https://open.spotify.com/album/3CXYQFagZLJ5WFoMjBVi3n"
       },
@@ -8192,7 +8232,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 137652,
       "name": "VIVELA",
       "url": "https://open.spotify.com/track/04L7uMLzJuEJx2ETNmwAm2"

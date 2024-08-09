@@ -4,7 +4,7 @@
 
 > den største danske rap lige nu..\.  <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> gæster <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI's</a> radiokanal <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊🔊 lyt lige med der
 
-209 songs - 9 hr 2 min
+211 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 2:37 | 2024-02-08 | 2024-04-19 |
 | [911](https://open.spotify.com/track/1JufAqONpGBVcy8tQffI14) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3), [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [911](https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov) | 2:41 | 2024-06-20 |  |
 | [Aldrig Alene](https://open.spotify.com/track/4TcrnNLEiMfSrg1uXOzk1E) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [Aldrig Alene](https://open.spotify.com/album/0ycAu4h4VWO0wo0PuBvn8X) | 2:36 | 2024-05-30 |  |
+| [Alt Jeg Ved](https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Alt Jeg Ved](https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR) | 3:00 | 2024-08-08 |  |
 | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/track/13ORFYlIGeLnai3mhgKFxZ) | [TV 2 Play](https://open.spotify.com/artist/0R3vuLe6DSrs1gpqOI27uO) | [Alt vi har er nu \(Artigeardit, Lamin\)](https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ) | 2:42 | 2023-11-10 | 2024-04-26 |
 | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/track/5od1j7k88aLQoLJdj4xdoq) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Altid Med \(feat\. Mowgli\)](https://open.spotify.com/album/5D5P9ieuXW4WEtprfjCj4M) | 3:11 | 2024-02-22 | 2024-05-14 |
 | [AMAL PT\. 2](https://open.spotify.com/track/7zH44zeRQPJdkNmKJyNvrL) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [AMAL PT\. 2](https://open.spotify.com/album/1fxN0kfZA3pus0HH1LfCJi) | 3:14 | 2024-01-11 |  |
@@ -33,6 +34,7 @@
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 |  |
 | [Black Ops](https://open.spotify.com/track/7J1DgyE3mGoazGOHqZ2Kh2) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Black Ops](https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT) | 2:36 | 2024-04-11 |  |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 |  |
+| [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 |  |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [Brutalt](https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 3:49 | 2024-08-07 |  |
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 |  |

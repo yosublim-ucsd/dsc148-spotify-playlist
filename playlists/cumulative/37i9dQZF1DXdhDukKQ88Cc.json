@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "Alt Jeg Ved",
+        "url": "https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180806,
+      "name": "Alt Jeg Ved",
+      "url": "https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7"
+    },
+    {
+      "album": {
         "name": "Alt vi har er nu (Artigeardit, Lamin)",
         "url": "https://open.spotify.com/album/0OO5fNXA3JRABs8vRpvSSQ"
       },
@@ -484,6 +502,28 @@
       "duration_ms": 136092,
       "name": "Bombay (feat. Belly)",
       "url": "https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0"
+    },
+    {
+      "album": {
+        "name": "KENNY",
+        "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123628,
+      "name": "Booty Up",
+      "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
     },
     {
       "album": {

@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -14060,6 +14060,32 @@
       "duration_ms": 195500,
       "name": "vicious circle (Feat. Rei, Lil Kintexx)",
       "url": "https://open.spotify.com/track/6AnMuoMXMsaNq6TiWuwip4"
+    },
+    {
+      "album": {
+        "name": "VISTA",
+        "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239259,
+      "name": "VISTA (feat. gaeko, THAMA)",
+      "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
     },
     {
       "album": {

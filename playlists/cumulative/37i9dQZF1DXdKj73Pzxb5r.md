@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Romantic Echoes
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Refo dan Fauna
 
-152 songs - 9 hr 52 min
+156 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bersama Lagi](https://open.spotify.com/track/0af5NEGjg4mLCOaOqhBBCv) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Bersama Lagi](https://open.spotify.com/album/7MoR88Za93o77ecSCFw2XT) | 4:24 | 2024-08-01 |  |
 | [Bersepah](https://open.spotify.com/track/32Ws16l1zR7H8bpc9XiezS) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a), [Gulf of Meru](https://open.spotify.com/artist/4Qj1DeSCA9enWHj4oh10ao) | [Jenjam](https://open.spotify.com/album/4vSgTJIrvaPulmGygOZCB0) | 6:00 | 2024-07-24 |  |
 | [bila](https://open.spotify.com/track/6gHh6SMnCRxLwpDDD7zTqW) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filosofi Males](https://open.spotify.com/album/3RiYb3auIbLVAo8E38mLq8) | 3:32 | 2024-07-04 |  |
+| [Blues dari Rumah](https://open.spotify.com/track/75SPAZgHvdQ72a0MwFb1ev) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2WXRlR4QoYDhmD7OZsgcI9) | 2:25 | 2024-08-09 |  |
 | [Burn](https://open.spotify.com/track/0yR1fy72LIFLQqfjVVnFhN) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Burn](https://open.spotify.com/album/75YDVoGjHMD7r7OY5vJEIm) | 3:07 | 2024-06-27 |  |
 | [can't get over you](https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ) | [Ernesto.](https://open.spotify.com/artist/0gaT6R7nbUJWNbZOydCP8m) | [can't get over you](https://open.spotify.com/album/7n3C0AQw8Qm91SJsxFXtyB) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Can't Stop Thinking of You](https://open.spotify.com/track/16QDnfyDBztTEdBatjF09y) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [The Reasons Why](https://open.spotify.com/album/3iSXqJbtRNytqs0ytpuxHO) | 4:00 | 2024-06-27 |  |
@@ -47,6 +48,7 @@
 | [Emily](https://open.spotify.com/track/2KT7vr9KLbd5JZaNuSd85O) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Emily](https://open.spotify.com/album/4EeMy2xG66d55u96B5guOV) | 3:46 | 2024-06-27 |  |
 | [End Differently](https://open.spotify.com/track/1nOcvj8h1IrxceTisMyqdR) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [End Differently](https://open.spotify.com/album/29P6fKBt4dH1B54VzH2g37) | 3:11 | 2024-07-24 |  |
 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 | 2024-06-27 |  |
+| [Ethereal](https://open.spotify.com/track/2hlCRcQZfpHQ6FkngkAg78) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Manic](https://open.spotify.com/album/4IOflu03FoysawHvpmBZSr) | 4:12 | 2024-08-09 |  |
 | [Expectation](https://open.spotify.com/track/3E9C95z7qSy2DDN8Q0pppH) | [Mentari Novel](https://open.spotify.com/artist/5DsdNBqFCoD43aPV8XhxmQ) | [Expectation](https://open.spotify.com/album/03tQ7t9U9Nn1FPBSeSiH6V) | 3:19 | 2024-06-27 | 2024-08-02 |
 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-06-27 | 2024-07-12 |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
@@ -95,6 +97,7 @@
 | [Masih Batu](https://open.spotify.com/track/0KxfKlka5Y9PGRJJN3ccm4) | [BAALE](https://open.spotify.com/artist/62CEo98IwJIKhJ9fQ4Emta) | [Fortuna](https://open.spotify.com/album/447tgZJJCLdymxUM4LJKQy) | 4:50 | 2024-06-27 |  |
 | [Menit Tambahan](https://open.spotify.com/track/2y5QvggKQs5iauTD9Bc8Oa) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Menit Tambahan](https://open.spotify.com/album/0V3gnXRk85cwiz9xvV7Nu6) | 4:05 | 2024-06-27 |  |
 | [Merangkai Gundah Gulana](https://open.spotify.com/track/702KQGQOlABC5xua4IfyGT) | [Shadowplay](https://open.spotify.com/artist/2kvN7s4MbzDIYY0aqqHEwB) | [Merangkai Gundah Gulana](https://open.spotify.com/album/0esDD2wKp1IX3kSefJIvNz) | 3:58 | 2024-06-27 |  |
+| [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2) | 6:34 | 2024-08-09 |  |
 | [Might As Well](https://open.spotify.com/track/1Pr58jSNpGDipEC8MWUHY6) | [Hapsara](https://open.spotify.com/artist/2dvY9MH65eBTQFcH3WQee5) | [Might As Well](https://open.spotify.com/album/5Ja3htlbhmAhbfPffHysGP) | 3:53 | 2024-06-27 | 2024-07-27 |
 | [MNSF](https://open.spotify.com/track/6JouPb4bv2ki48IDhq9D9F) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [MNSF](https://open.spotify.com/album/1zEvKoMzRqXIRM9RnAzi84) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [Mohon Maaf](https://open.spotify.com/track/4Fe6hYyWpcTKHOrWCoQp5e) | [Good Ol' Dreams](https://open.spotify.com/artist/79q9reqE7oBuRsYVubsrYN) | [Untuk Pengantin](https://open.spotify.com/album/2cwYJmPEAyOEwvvgh2T2t3) | 4:12 | 2024-06-27 |  |
@@ -147,8 +150,9 @@
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-06-27 |  |
 | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ) | [Serdadu Sam](https://open.spotify.com/artist/5C4HI7BDqAXMAKhMEGuTFe) | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/album/5xKO46V57iXZ6rlxXaHmiq) | 4:26 | 2024-06-27 | 2024-08-02 |
 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 | 2024-07-04 |  |
+| [Tirai Pembuka](https://open.spotify.com/track/2zyjwR6Pd5lWc2qLAS6Apg) | [Christabel Annora](https://open.spotify.com/artist/47FWnVDKhmgk7ZCHKSewHq) | [Sudut Kamar](https://open.spotify.com/album/2ReacdDsznM8jSnnkjJiIk) | 1:54 | 2024-08-09 |  |
 | [Tolong Bales Watsap Ku](https://open.spotify.com/track/4fLV287uHpZWX5KAEeTr5x) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Tolong Bales Watsap Ku](https://open.spotify.com/album/7IuoK8NTkw2c6uHbz1iCzO) | 2:29 | 2024-06-27 |  |
-| [Tuan Kelana](https://open.spotify.com/track/10EoDBgK6FesVtr2fMpvvi) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Tuan Kelana](https://open.spotify.com/album/3kKK912M3mHQsqfB6D1vhJ) | 5:35 | 2024-06-27 |  |
+| [Tuan Kelana](https://open.spotify.com/track/10EoDBgK6FesVtr2fMpvvi) | [Figura Renata](https://open.spotify.com/artist/4l7rQ4b0SprtkOMgfMRDN5) | [Tuan Kelana](https://open.spotify.com/album/3kKK912M3mHQsqfB6D1vhJ) | 5:35 | 2024-06-27 | 2024-08-09 |
 | [Ujung Andromeda](https://open.spotify.com/track/6dbYpkS5dhnoJcu5mhWko0) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Ujung Andromeda](https://open.spotify.com/album/6267dKL2VuVN8Pc8ODc0I1) | 4:45 | 2024-06-27 |  |
 | [Untuk Bunga](https://open.spotify.com/track/1HGzVBvwUSlvE3JzVjUPaO) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Untuk Bunga](https://open.spotify.com/album/2VtEtHxewo8Az3Pr8xruI7) | 3:54 | 2024-07-19 |  |
 | [Vom](https://open.spotify.com/track/6Kq42y6TC92XYhvObBQAO7) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Vom](https://open.spotify.com/album/0y2gdrV2oqEF2sE24Zxuny) | 1:59 | 2024-06-27 |  |

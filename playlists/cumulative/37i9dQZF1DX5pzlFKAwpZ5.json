@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 505160,
       "name": "Atrium",
       "url": "https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 165200,
       "name": "Colors",
       "url": "https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "HereAfter",
+        "url": "https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363323,
+      "name": "HereAfter",
+      "url": "https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW"
+    },
+    {
+      "album": {
         "name": "Hicari",
         "url": "https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR"
       },
@@ -1764,6 +1782,24 @@
       "duration_ms": 355534,
       "name": "hoshisayuru",
       "url": "https://open.spotify.com/track/40vwaUbcDvJKO0lLdl4aWC"
+    },
+    {
+      "album": {
+        "name": "hue",
+        "url": "https://open.spotify.com/album/1iZPZAw6xNwXuQfRgx5EB4"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156013,
+      "name": "hue",
+      "url": "https://open.spotify.com/track/2PRWUAyqmp0OA5i7VFseXl"
     },
     {
       "album": {
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 263580,
       "name": "Life, Life",
       "url": "https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr"
@@ -2270,6 +2306,24 @@
       "duration_ms": 194000,
       "name": "light seeing 3-3",
       "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
+    },
+    {
+      "album": {
+        "name": "londonderry air",
+        "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
+      },
+      "artists": [
+        {
+          "name": "Shin Ichikawa",
+          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181829,
+      "name": "londonderry air",
+      "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
     },
     {
       "album": {
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 889260,
       "name": "Old Dream Spell",
       "url": "https://open.spotify.com/track/6y57EpCattl9PxuMRR0Vc0"
@@ -2994,6 +3048,24 @@
       "duration_ms": 224000,
       "name": "rings of saturn",
       "url": "https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP"
+    },
+    {
+      "album": {
+        "name": "As Planetary Dreams",
+        "url": "https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6"
+      },
+      "artists": [
+        {
+          "name": "Taeji Sawai",
+          "url": "https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "S_lowl Melancolic",
+      "url": "https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN"
     },
     {
       "album": {
@@ -3410,7 +3482,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 392500,
       "name": "Slow Sky",
       "url": "https://open.spotify.com/track/5DlLYv7xXpnM1Se5yUPjxB"
@@ -3572,7 +3644,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 727173,
       "name": "Still Park - Ensemble",
       "url": "https://open.spotify.com/track/3Op3F8ipO0YQO8ps4p5kYv"
@@ -4369,6 +4441,24 @@
     },
     {
       "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4LjFjTFlduHdM4zXXJFb87"
+      },
+      "artists": [
+        {
+          "name": "HAL ca",
+          "url": "https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471864,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/7d3AfivASmxXlmF93jFegO"
+    },
+    {
+      "album": {
         "name": "Black Swallow",
         "url": "https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU"
       },
@@ -4820,7 +4910,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 716173,
       "name": "\u96e8\u97f3",
       "url": "https://open.spotify.com/track/4YUGDSUgPapHEtsBry5aWI"
@@ -4838,7 +4928,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 349933,
       "name": "\u96ea",
       "url": "https://open.spotify.com/track/6Yob39WAE8Um7Dox1ch886"

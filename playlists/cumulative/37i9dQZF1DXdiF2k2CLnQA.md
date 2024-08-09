@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! ⚡️
+> Den bästa och största rocklistan i Sverige! ⚡️ Cover: HammerFall
 
-106 songs - 6 hr 42 min
+111 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,17 +19,20 @@
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-06-27 | 2024-08-02 |
 | [Are you ready to die](https://open.spotify.com/track/44VyHJi5insnDldfenkiTV) | [C.K.O](https://open.spotify.com/artist/4bUT6OhOQe0ASQTGSm2THR) | [Are you ready to die](https://open.spotify.com/album/503bwfjSd72RvYKRwxTsps) | 3:50 | 2024-06-27 |  |
 | [Avalanche](https://open.spotify.com/track/0ZxfEDSNGmttbh6tL0LuBb) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Avalanche](https://open.spotify.com/album/63az96vCNz85pMBbioaPdz) | 5:07 | 2024-06-27 |  |
+| [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 | 2024-08-08 |  |
 | [Bad Choices](https://open.spotify.com/track/4owIs1SnK0EtEY0nOOQFUj) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Birthday](https://open.spotify.com/album/41iAihj3VUoUpOLRMReypO) | 3:25 | 2024-08-01 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster](https://open.spotify.com/album/42k0w1OlvshAChVmMlYxHS) | 3:32 | 2024-06-27 |  |
 | [Blood Of The Kings](https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Blood Of The Kings](https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ) | 4:00 | 2024-06-27 |  |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-06-27 |  |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-27 |  |
 | [Break My Lying Tongue](https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Break My Lying Tongue](https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs) | 3:50 | 2024-06-27 |  |
+| [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-08 |  |
 | [Burnout](https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Burnout](https://open.spotify.com/album/5Bjbfx9AELAXq13zH6CsV0) | 3:24 | 2024-06-27 |  |
 | [By Design](https://open.spotify.com/track/19mCBWbK2QUL7vNVx8gRYV) | [Amongst Liars](https://open.spotify.com/artist/3ZwxX5XIpWy4E7xzf9ZqMu), [Felin](https://open.spotify.com/artist/0M3FnNOwLaADbsJw92lftP) | [By Design](https://open.spotify.com/album/6vq49SapId7PB5sQcgETud) | 3:37 | 2024-06-27 |  |
 | [Caroline](https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Caroline](https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y) | 4:56 | 2024-06-27 | 2024-08-02 |
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 |  |
+| [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 |  |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 |  |
 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 | 2024-06-27 |  |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-06-27 |  |
@@ -49,6 +52,7 @@
 | [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-06-27 | 2024-08-02 |
 | [Haters](https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Mister Misery](https://open.spotify.com/album/6fKArz5J5tdK4eSFEe7YDF) | 3:29 | 2024-08-01 |  |
 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 | 2024-06-27 |  |
+| [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-08 |  |
 | [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-06-27 | 2024-08-02 |
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-06-27 |  |
 | [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn) | 2:14 | 2024-06-27 |  |
@@ -97,6 +101,7 @@
 | [Teenage Rebel](https://open.spotify.com/track/0i5DEAK979g2ZN8JLhQe7L) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:32 | 2024-06-27 |  |
 | [The Age of AGI](https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W) | [Endigo](https://open.spotify.com/artist/6CMARBTk7A5cN9UW9LZqDj) | [The Age of AGI](https://open.spotify.com/album/4Tw9c6YmLJlLEv8fCJvgpM) | 3:44 | 2024-06-27 |  |
 | [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-06-27 |  |
+| [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 |  |
 | [The Doomsday Clock](https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [The Doomsday Clock](https://open.spotify.com/album/0ilMPn2NgTzh5kvyJBnphe) | 3:42 | 2024-06-27 | 2024-08-02 |
 | [The End Justifies](https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [The End Justifies](https://open.spotify.com/album/3yKUFE4u6NtSrfQ0OAKjtU) | 5:09 | 2024-06-27 |  |
 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 | 2024-06-27 |  |

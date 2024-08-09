@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-403 songs - 21 hr 29 min
+404 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 | 2024-07-24 |  |
 | [Niña](https://open.spotify.com/track/7y4BwUn53YT56Zy4F0ca1n) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Lucho](https://open.spotify.com/artist/0Fh9nNdiSPLCwaKF1NV9De) | [Niña](https://open.spotify.com/album/7qdqiGQugGL4tcwB3DORRb) | 2:23 | 2024-07-24 |  |
 | [No Lover \- Live](https://open.spotify.com/track/7ltaQZDqFe1oyghj8nqdmI) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Compass Box Music: Unboxed, Vol\. 2 \(Live\)](https://open.spotify.com/album/7iSN503ApELtn6u9dF77yB) | 4:06 | 2024-07-24 |  |
+| [No Wonder Taxes Are High](https://open.spotify.com/track/3E18putZUB0PUTGiItq24P) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Aladdin](https://open.spotify.com/album/6dnx8GTQeF1jHRdLwq2H3Z) | 3:05 | 2024-08-08 |  |
 | [Nobody's Chasing Me](https://open.spotify.com/track/5Yd3gvv13WcEVm8yVwXs3O) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 4:42 | 2024-07-24 |  |
 | [Noel C'est L'Amour](https://open.spotify.com/track/0YA39ajuqPWarCzm2F1zCL) | [Chante avec moi](https://open.spotify.com/artist/1loyZdJGUq4fABwm80n0ZR) | [Et le choeur des enfants \(Volume 16\)](https://open.spotify.com/album/4xYRC4VO5HxvCD65Jg20QE) | 2:24 | 2024-07-24 |  |
 | [Noite e Dia](https://open.spotify.com/track/0GHM6p3dWeF42wfW6m0AeC) | [Vitoria Maldonado](https://open.spotify.com/artist/2nG4E6YcuST9Fql9uUQa3Q), [Ron Carter Quartet](https://open.spotify.com/artist/1FZbleR1waNhe2389QAtaN) | [BRASIL L.I.K.E\. Versões](https://open.spotify.com/album/29JD82mnjsGjt5E9Deq0yS) | 3:26 | 2024-07-24 |  |
@@ -400,7 +401,7 @@
 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 | 2024-07-24 |  |
 | [You Remind Me](https://open.spotify.com/track/0l9eRY4OJhLkaQlh28Eh6j) | [Chris Porter](https://open.spotify.com/artist/4657QEJIOQnfUJq3hyuNtc) | [You Remind Me](https://open.spotify.com/album/5t9t1MXA6rsbysqK673nM8) | 2:58 | 2024-07-24 |  |
 | [You Were Made For Me \- Mono](https://open.spotify.com/track/6RmBbSohNlnwGKf3eu7bq7) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:56 | 2024-07-24 |  |
-| [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 | 2024-07-24 |  |
+| [You'd Be So Nice To Come Home To \- Remastered 1998](https://open.spotify.com/track/5cNTrq3s5Us1aibaLQfXCi) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \- Remastered / Expanded Edition](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:04 | 2024-07-24 |  |
 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 | 2024-07-24 |  |
 | [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 | 2024-07-24 |  |
 | [You're Just Too, Too!](https://open.spotify.com/track/6yMFCN5ohHra2A7x2iw899) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [I Got Rhythm](https://open.spotify.com/album/6eTcIUVYY214XsgfTlnl2h) | 1:59 | 2024-07-24 |  |

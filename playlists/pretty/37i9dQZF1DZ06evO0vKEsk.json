@@ -1,33 +1,13 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132731,
+  "num_followers": 132729,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAADtdCPWnI82FseSH0ekQoYU",
+  "snapshot_id": "ZrK5AAAAAABB9iW/CRA0uO2rWacDcQfQ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Te Ouvi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 243368,
-      "name": "Eu Te Ouvi - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
-    },
     {
       "added_at": null,
       "album": {
@@ -223,6 +203,26 @@
       "duration_ms": 288809,
       "name": "Advogado Fiel",
       "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Te Ouvi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 243368,
+      "name": "Eu Te Ouvi - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Shaday (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 323832,
-      "name": "El Shaday (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 196812,
       "name": "Meu Deus Cuidar\u00e1 de Mim",
       "url": "https://open.spotify.com/track/1V0Ma0rTt44fPrU6GVPI7I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Shaday (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 323832,
+      "name": "El Shaday (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melhor Amigo",
-        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 335481,
-      "name": "Melhor Amigo",
-      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maranata (Vem Emanuel) (Ao Vivo)",
         "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 350528,
       "name": "Levantamos Tu Nombre",
       "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melhor Amigo",
+        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 335481,
+      "name": "Melhor Amigo",
+      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
       "duration_ms": 358376,
       "name": "Digno \u00e9 o Cordeiro",
       "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     }
   ],
   "unique_name": "This Is Bruna Karla",

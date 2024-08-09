@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u4ee4\u6674 (Lynn)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: mukio (\u5f35\u7267\u55ac)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 324800,
       "name": "Expired \u301c\u671f\u9650\u5207\u308c\u306e\u611b\u301c (OT\uff1a\u6211\u9084\u7e5e\u8457\u4f60\u5728\u65cb\u8f49)",
       "url": "https://open.spotify.com/track/4PFWjoTHEFAfhonI5TUgAs"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187585,
       "name": "Kaede Kimura",
       "url": "https://open.spotify.com/track/2Y2jsX6Uzpe4CFsy4vrOYL"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 185338,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/41312k36is0WtJUS5S3RTb"
@@ -1794,6 +1794,24 @@
       "duration_ms": 335595,
       "name": "Moon",
       "url": "https://open.spotify.com/track/30g5POchpw47WCcIeeqeIO"
+    },
+    {
+      "album": {
+        "name": "more about you",
+        "url": "https://open.spotify.com/album/15jd1fNpq1MGOzssezx2uj"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u7267\u55ac",
+          "url": "https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145384,
+      "name": "more about you",
+      "url": "https://open.spotify.com/track/3PGX7THaDbTHSdoDijMNaV"
     },
     {
       "album": {
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 216128,
       "name": "Oh Why",
       "url": "https://open.spotify.com/track/6bNSDf3jZ7ThziVCbq0Mq2"
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 196452,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5JDoRZ0rgo9cbvSsCdFJQt"
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 197635,
       "name": "Unwind",
       "url": "https://open.spotify.com/track/4cAVjrQKhvYrirCdD3u4Iu"

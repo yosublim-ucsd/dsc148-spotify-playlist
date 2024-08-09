@@ -2,7 +2,7 @@
 
 ### [This Is Tasha Cobbs Leonard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wtU1K)
 
-> This Is Tasha Cobbs Leonard\. Los temas esenciales, todos en una lista.
+> This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
 99 songs - 9 hr 28 min
 

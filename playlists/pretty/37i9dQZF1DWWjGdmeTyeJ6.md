@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Check out <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">three new Fresh Finds playlists</a> in the Fresh Finds hub\. Cover: total tommy, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,267 likes - 200 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,403 likes - 200 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 2 | [Ditto](https://open.spotify.com/track/2S9I4sB14ZVmIvjtdWMvJ8) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s) | [Working Order](https://open.spotify.com/album/2hhMCOQiSh58vPBcwaSosR) | 2:07 |
 | 3 | [Curiosa](https://open.spotify.com/track/6JzoOH968HLLgvEhwQRRzZ) | [Alaï](https://open.spotify.com/artist/0Z7AgMjU5hpEED5EqvPoYv) | [Curiosa](https://open.spotify.com/album/2VuF4euv6mmtDMghtg2atI) | 4:09 |
 | 4 | [Rain](https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev) | [Rain](https://open.spotify.com/album/0n35Yu5zqqNVdPj0Xecack) | 2:52 |
-| 5 | [Devoted](https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Devoted](https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59) | 3:15 |
+| 5 | [devoted](https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [devoted](https://open.spotify.com/album/2sGo4EvvruyJSYKQNdtC59) | 3:15 |
 | 6 | [ALL THE TIME](https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [ALL THE TIME](https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX) | 2:48 |
 | 7 | [laced up](https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [laced up](https://open.spotify.com/album/4cVTqaVqALNAoN5HQmRbai) | 2:50 |
 | 8 | [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 |

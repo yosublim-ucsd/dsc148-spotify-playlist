@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: KiDi and Black Sheriff",
+  "description": "The big Hip-Life hits rn. Cover: Cina Soul, DJ Breezy, Okenneth , Sarkodie",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -892,7 +892,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "BOA ME",
       "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 158122,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b"
@@ -3834,6 +3834,36 @@
       "duration_ms": 360605,
       "name": "Toffee",
       "url": "https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr"
+    },
+    {
+      "album": {
+        "name": "Too Bad / Different Place",
+        "url": "https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "DJ Breezy",
+          "url": "https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix"
     },
     {
       "album": {

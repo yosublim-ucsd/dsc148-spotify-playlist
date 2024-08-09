@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: PJ Panda
 
-505 songs - 21 hr 45 min
+506 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Tomorrow](https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:43 | 2022-12-09 | 2024-01-05 |
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 | 2023-02-10 |
 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 | 2024-03-08 |  |
+| [Too Sweet](https://open.spotify.com/track/5VV7jBGFStPxRbQc3BlK6O) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Too Sweet](https://open.spotify.com/album/6fgqEz2qgiPYeqtmjbAwPE) | 4:10 | 2024-08-02 |  |
 | [Train Is Coming](https://open.spotify.com/track/0q55KH1lfm7yIgOLJws9ui) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [One Million Dillions](https://open.spotify.com/album/3bnVjZwgc5G4SVxTl6fS9q) | 2:06 | 2024-01-05 | 2024-02-17 |
 | [Train Is Coming](https://open.spotify.com/track/76sV3pmK4aaTb9tdwL2d0O) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Train Is Coming](https://open.spotify.com/album/11D3dlxcvp4YHOc1qICJeo) | 2:06 | 2023-03-17 | 2024-02-10 |
 | [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 | 2024-05-24 |  |

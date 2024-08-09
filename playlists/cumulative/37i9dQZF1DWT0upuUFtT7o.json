@@ -41597,6 +41597,24 @@
     },
     {
       "album": {
+        "name": "I've Seen The Lizard People",
+        "url": "https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131178,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2tOAaP3Z4mmoNJnnw5bCaj"
+    },
+    {
+      "album": {
         "name": "The Bad Guy (Another Version)",
         "url": "https://open.spotify.com/album/6XFuGWx0rDHECJeXTqncrV"
       },

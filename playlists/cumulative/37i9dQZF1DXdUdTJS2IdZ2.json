@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Shye",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: brb.",
   "name": "Rising 65",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 355480,
       "name": "Close The Distance",
       "url": "https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 182097,
       "name": "Jangan Bilang",
       "url": "https://open.spotify.com/track/5xjKh8aSqAgYYEOmBVnYaz"
@@ -1414,6 +1414,28 @@
       "duration_ms": 250285,
       "name": "JEAN",
       "url": "https://open.spotify.com/track/3GGhDuH1CvIJbMy5qZvF00"
+    },
+    {
+      "album": {
+        "name": "jelly",
+        "url": "https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "jelly",
+      "url": "https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq"
     },
     {
       "album": {
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 193880,
       "name": "Malas",
       "url": "https://open.spotify.com/track/4egbTRuka8z3f6eXyPZ5IR"
@@ -2024,6 +2046,24 @@
       "duration_ms": 156190,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/0qMP7NeROCwLgqSDbtuZff"
+    },
+    {
+      "album": {
+        "name": "Sepasang Bayang-Bayang",
+        "url": "https://open.spotify.com/album/7CP84rDDqRBYEeGAD2EIJH"
+      },
+      "artists": [
+        {
+          "name": "Wild Rice",
+          "url": "https://open.spotify.com/artist/1xFFXhUxaRoGDaK0wQJIcD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Sepasang Bayang-Bayang",
+      "url": "https://open.spotify.com/track/5UHGyTdwnM5ITzOKFnxKaD"
     },
     {
       "album": {
@@ -3066,6 +3106,24 @@
       "duration_ms": 210975,
       "name": "\u6d77\u9f9c\u6e6f (\u6975\u77ed\u7bc7\u5f71\u96c6\u300a\u90fd\u5e02\u61fc\u96c6\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/7cIuxCYNjnSAwEYzOXvuCM"
+    },
+    {
+      "album": {
+        "name": "\u76f8\u601d\u6cb3\u7554 (\u7535\u5f71\u300a\u4e50\u56edWonderland\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/6R8f8XRhpJK4UX8FpufZ64"
+      },
+      "artists": [
+        {
+          "name": "Joi Chua",
+          "url": "https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u76f8\u601d\u6cb3\u7554 (\u7535\u5f71\u300a\u4e50\u56edWonderland\u300b\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/0By0k0EgoTOKcqbqas7g2F"
     },
     {
       "album": {

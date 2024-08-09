@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Psycho YP",
+  "description": "Hip hop and rap music from Nigeria. Cover: Showdemcamp, The cavemen & nsikak david",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Eventually",
+        "url": "https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE"
+    },
+    {
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
       },
@@ -2870,6 +2888,32 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+    },
+    {
+      "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203615,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9"
     },
     {
       "album": {
@@ -4168,7 +4212,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 162989,
       "name": "John Travolta (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/22aQcPPXH3vFltmSO7vIhr"
@@ -4262,7 +4306,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 164605,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/6S0SOCYKxo2v4CFbFLgidP"
@@ -4670,6 +4714,36 @@
       "duration_ms": 138243,
       "name": "Letter From Overseas (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
+    },
+    {
+      "album": {
+        "name": "Lifestyle (feat. Magnito)",
+        "url": "https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX"
+      },
+      "artists": [
+        {
+          "name": "DJ Shawn",
+          "url": "https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Lifestyle (feat. Magnito)",
+      "url": "https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt"
     },
     {
       "album": {
@@ -8288,7 +8362,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 176898,
       "name": "Te Button",
       "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"

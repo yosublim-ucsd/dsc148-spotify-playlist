@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats
 
-183 songs - 13 hr 21 min
+184 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [call me when it's over \- Dark Dhalia Remix](https://open.spotify.com/track/3eSsdUdz7IBN5k2ZRxS54t) | [Jetta](https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [call me when it's over \(Dark Dhalia Remix\)](https://open.spotify.com/album/5Xa7gkLZnokZhbsTJbFciL) | 3:29 | 2024-03-28 | 2024-05-24 |
 | [Calling Out Your Name](https://open.spotify.com/track/6awyjYKGtDWPFaQXbvNu2e) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Tom Wigley](https://open.spotify.com/artist/6eozTfRPyagBkpRZ3lSce2), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Calling Out Your Name](https://open.spotify.com/album/0SndAxCJHSInfQFHSDbr7z) | 3:54 | 2024-01-26 |  |
 | [Cardboard Castle \- Kev Sheridan Remix](https://open.spotify.com/track/3UjMGfGOmQpgGM7A0IagqQ) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe), [Kev Sheridan](https://open.spotify.com/artist/4rqPUulTdgCJfxITPHP2oY) | [Cardboard Castle \(Kev Sheridan Remix\)](https://open.spotify.com/album/3er4xta0FEHX3FvGyQCCIf) | 3:48 | 2022-01-21 | 2022-07-28 |
-| [Clarity](https://open.spotify.com/track/5bgoZIKRGxSbI9JtUBQ7hz) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Clarity](https://open.spotify.com/album/1TVt5DJMvE3wnt83HzefKx) | 4:34 | 2024-01-05 |  |
+| [Clarity](https://open.spotify.com/track/5bgoZIKRGxSbI9JtUBQ7hz) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Clarity](https://open.spotify.com/album/1TVt5DJMvE3wnt83HzefKx) | 4:34 | 2024-01-05 | 2024-08-09 |
 | [Closer](https://open.spotify.com/track/0Afle0K0M8JzzShUV30nXp) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Closer](https://open.spotify.com/album/7s9OGHcBR1ZBk8463p9abU) | 4:35 | 2023-11-17 | 2024-07-05 |
 | [Closer](https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Closer](https://open.spotify.com/album/5YlSfO92YJjjEJWUVMlsUG) | 3:24 | 2022-01-21 | 2023-09-22 |
 | [Come Down](https://open.spotify.com/track/1QsYj5ILdwRstWgCP8LOH0) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Come Down](https://open.spotify.com/album/5FvrHHl0xwpdI7xgaYeaGq) | 3:31 | 2024-07-26 |  |
@@ -64,6 +64,7 @@
 | [Exhale](https://open.spotify.com/track/4FJXpPTkaH5GEersVyy2zd) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Exhale](https://open.spotify.com/album/5QhRahKmC2RLWAyst08xJo) | 2:19 | 2024-05-24 |  |
 | [Fall A Little Further](https://open.spotify.com/track/10AhHD1WQoDPicXe9WrK38) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Fall A Little Further](https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj) | 2:39 | 2024-07-05 |  |
 | [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 | 2023-11-17 |  |
+| [False Promises](https://open.spotify.com/track/2YZDyDCDnars3sl7sdRct0) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [False Promises](https://open.spotify.com/album/2l1yrGPj7FEdoeky9l6NgC) | 3:44 | 2024-08-08 |  |
 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 | 2022-01-21 | 2023-04-05 |
 | [FEEL LIKE ME](https://open.spotify.com/track/7fsyvxSJi1vkTzwO5eQFMo) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [FEEL LIKE ME](https://open.spotify.com/album/3bJ63PICHastTFzJkXGHAu) | 5:13 | 2024-07-26 |  |
 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2022-10-28 |  |

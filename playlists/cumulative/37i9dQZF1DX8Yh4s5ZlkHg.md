@@ -2,7 +2,7 @@
 
 ### [sexy indie](https://open.spotify.com/playlist/37i9dQZF1DX8Yh4s5ZlkHg)
 
-> Intimate, including selections from Claire Cottrill\. Cover: Clairo
+> Intimate\. Cover: Debbie Harry
 
 57 songs - 3 hr 26 min
 

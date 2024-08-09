@@ -1,12 +1,12 @@
 {
-  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 472981,
+  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
+  "num_followers": 473040,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAADujRlV+9CIIXUIUt1kaVDV",
+  "snapshot_id": "ZrK5AAAAAADvczqNDqfHgnQ9HsWLcY88",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Tu Camisa Puesta",
-      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Se\u00f1ora (En Vivo)",
         "url": "https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184026,
       "name": "\u00c9l - Banda",
       "url": "https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Tu Camisa Puesta",
+      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 245967,
-      "name": "Chuper Amigos",
-      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Chacalosa",
         "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216880,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 158915,
-      "name": "Trono Ca\u00eddo",
-      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 158915,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 277653,
       "name": "Detr\u00e1s de Mi Ventana - Banda",
       "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
       "duration_ms": 201826,
       "name": "Cuando Me Acuerdo de Ti",
       "url": "https://open.spotify.com/track/1jiTEN8iyh2GerskBrVm2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

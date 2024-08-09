@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Lucrezia
+> La nuova scena indie italiana! Cover: Prim
 
 [Spotify](https://open.spotify.com/user/spotify) - 33,582 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 |
-| 2 | [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 |
-| 3 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 |
-| 4 | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z) | 4:06 |
-| 5 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 |
-| 6 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 |
-| 7 | [Mai](https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Mai](https://open.spotify.com/album/2l4QPoQ4gxcL8EliWt2ZxP) | 2:30 |
-| 8 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 |
-| 9 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 |
-| 10 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 |
-| 11 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 |
-| 12 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 |
-| 13 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 |
-| 14 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
+| 1 | [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 |
+| 2 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 |
+| 3 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 |
+| 4 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 |
+| 5 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 |
+| 6 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 |
+| 7 | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 |
+| 8 | [Mai](https://open.spotify.com/track/5T68iQz4aGE9y0itqNQwF2) | [DUOPOP](https://open.spotify.com/artist/3k4rjybHf6uCbfWJgA0hbo) | [Mai](https://open.spotify.com/album/2l4QPoQ4gxcL8EliWt2ZxP) | 2:30 |
+| 9 | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z) | 4:06 |
+| 10 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
+| 11 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 |
+| 12 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 |
+| 13 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 |
+| 14 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 |
 | 15 | [luci dell'autostrada](https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU) | [Biava](https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk) | [luci dell'autostrada](https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF) | 2:44 |
 | 16 | [Sto impazzendo \(piangi\) \(feat\. Atarde\)](https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:03 |
 | 17 | [Coca Malibù](https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Coca Malibù](https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 54 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 |
 | 55 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 |
 
-Snapshot ID: `ZrIeogAAAAB1lmz1hfak5k3kL8vZ411S`
+Snapshot ID: `ZrVAHAAAAACmYDDiXGflvOgUCM5coEWL`

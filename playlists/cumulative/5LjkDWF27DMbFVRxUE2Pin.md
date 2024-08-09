@@ -4,7 +4,7 @@
 
 > 
 
-424 songs - 1 day 3 hr 15 min
+425 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Valkyriernes Sang](https://open.spotify.com/track/3ipe855Jm1qrsKVKJqfhKJ) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 3:55 | 2024-07-16 |  |
 | [Verd Mín](https://open.spotify.com/track/4TrsgVdNbfnbt7krb5sL2o) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Slør](https://open.spotify.com/album/54GSg6YH72DvPf5G1egXY2) | 4:56 | 2024-07-16 |  |
 | [Vi er Norge](https://open.spotify.com/track/7woMrk0yjPz3bw4jApFtpG) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Vi er Norge](https://open.spotify.com/album/7ouRJTyx5xvHeawVsozjqh) | 2:53 | 2024-07-16 |  |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2024-08-08 |  |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2024-07-17 |  |
 | [Walking Over My Grave](https://open.spotify.com/track/3BZTexQN5ZbGJyBRUgEv5B) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [The Cause of Shipwreck](https://open.spotify.com/album/5pkvMawHD8iGBuzaQcQ5xG) | 4:29 | 2024-07-21 |  |
 | [Warriors](https://open.spotify.com/track/4keKh92BlOnRSEBeumCPM4) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr) | [Subway Gawdz](https://open.spotify.com/album/0GvhshU38CjwxkvWAmbXS0) | 3:31 | 2024-07-04 |  |

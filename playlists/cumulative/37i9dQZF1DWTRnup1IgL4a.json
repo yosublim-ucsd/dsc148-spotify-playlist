@@ -3433,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Silent Solitude",
+        "url": "https://open.spotify.com/album/59LQA9efBHSC1chERqC74o"
+      },
+      "artists": [
+        {
+          "name": "Wanderer's Trove",
+          "url": "https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "Silent Solitude",
+      "url": "https://open.spotify.com/track/2du2s6ogKrsGQ22p2NlRhl"
+    },
+    {
+      "album": {
         "name": "Sire\u0300ne",
         "url": "https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3"
       },
@@ -4460,6 +4478,24 @@
       "duration_ms": 193049,
       "name": "Walz for Marion",
       "url": "https://open.spotify.com/track/4TU6HO0q8qHMkItZwP9pom"
+    },
+    {
+      "album": {
+        "name": "Warm Winds",
+        "url": "https://open.spotify.com/album/1KlFEgMtktwFRxgN3SpgkP"
+      },
+      "artists": [
+        {
+          "name": "Morgan Fleich",
+          "url": "https://open.spotify.com/artist/0fA5ejVShbNdZWiw5CB1l1"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176665,
+      "name": "Warm Winds",
+      "url": "https://open.spotify.com/track/6FLTmuEnGxh5MGAApUsN1x"
     },
     {
       "album": {

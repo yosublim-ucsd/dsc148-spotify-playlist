@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,901 songs - 10 day 21 hr 39 min
+6,903 songs - 10 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1985,7 +1985,7 @@
 | [Feels Like Home](https://open.spotify.com/track/58uy3CHRJaCg8fzxqpuibp) | [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [TapeRtrn](https://open.spotify.com/artist/3weCx3D8pt2jsVnXADJNUU) | [Feels Like Home](https://open.spotify.com/album/03Js8wNJsdPq3CNSbufaAs) | 1:58 | 2024-05-24 |  |
 | [Feierabend](https://open.spotify.com/track/2EPHmpDvT6pJYhbrALp7MK) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Feierabend](https://open.spotify.com/album/0JcNrYDajHuPQSr50ebHvr) | 2:30 | 2023-11-17 |  |
 | [Feline Friends](https://open.spotify.com/track/69vmseeWrdd3fDdh1lCpC7) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD), [Yannik](https://open.spotify.com/artist/3HAFpxjlKatci4fTVPHwpJ) | [Feline Friends](https://open.spotify.com/album/3xX4k1sLIZHMIB0yFDBCpk) | 2:05 | 2020-10-27 | 2021-04-17 |
-| [Fender Bender](https://open.spotify.com/track/3pjPkqTACSQHtQIgPJWSPN) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Fender Bender](https://open.spotify.com/album/2DFnlZ6tetbFlV99j0XtHd) | 2:03 | 2024-04-12 |  |
+| [Fender Bender](https://open.spotify.com/track/3pjPkqTACSQHtQIgPJWSPN) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Fender Bender](https://open.spotify.com/album/2DFnlZ6tetbFlV99j0XtHd) | 2:03 | 2024-04-12 | 2024-08-09 |
 | [Feng Shui](https://open.spotify.com/track/2ML0jzajePjIglKltU0rrp) | [Inf](https://open.spotify.com/artist/6yGW6Z2OraCYUr9OsqZo2x), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Feng Shui](https://open.spotify.com/album/3WruV7vr2H03rU7x5Ht4FT) | 2:08 | 2019-12-22 | 2021-07-17 |
 | [Fermata Rework](https://open.spotify.com/track/6FwlBgZbAlkxurt0OVqAH9) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Fermata Rework](https://open.spotify.com/album/0pTsohCnS7XIoSONCFTenZ) | 1:49 | 2022-12-09 | 2023-12-15 |
 | [Fern](https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Fern](https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC) | 2:03 | 2023-11-10 |  |
@@ -4639,6 +4639,7 @@
 | [plants are forever](https://open.spotify.com/track/6vqDkuOIvE2cYFbkG81v1s) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [plants are forever](https://open.spotify.com/album/1OfUDDMDtxfvhSwhf6eF7p) | 2:09 | 2022-11-18 | 2022-12-14 |
 | [plants are forever](https://open.spotify.com/track/7f8eA0ML0NvPg2gDDiV7ao) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [plants are forever](https://open.spotify.com/album/2S7zFeR64JfVUwyXTZiVFK) | 2:09 | 2022-10-14 | 2022-11-24 |
 | [Plateau](https://open.spotify.com/track/0XbufSnr1JuJ82kGqucmMw) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Plateau](https://open.spotify.com/album/0jqw9ts0V5Lyg0k6Q8pjgf) | 2:41 | 2021-12-03 | 2022-06-24 |
+| [Play](https://open.spotify.com/track/6tbF8ENwQyrG4YN8w6nmME) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Play](https://open.spotify.com/album/01kThAblxJsnraguhWNSJW) | 1:52 | 2024-07-26 |  |
 | [Play and Stop](https://open.spotify.com/track/1gT6cdQbANynZ2aur4Prnk) | [Vibrant.](https://open.spotify.com/artist/0GBgTYdOAOCFuCK9MJURBL) | [Viro Aronowitz](https://open.spotify.com/album/6PyEDBCGsADSxhoRksNFxQ) | 1:45 | 2022-08-26 | 2023-01-13 |
 | [play me](https://open.spotify.com/track/20iCDmodyMCKSpNpoCus35) | [yumiyumi](https://open.spotify.com/artist/7Cp3qOemuJmuqdD7qnL780) | [play me](https://open.spotify.com/album/0jFczI9RFaTMEkgF6wJGnc) | 2:17 | 2022-03-11 | 2022-09-30 |
 | [Play this in front of a fireplace](https://open.spotify.com/track/7hDspWBvPoj0POjZd9ZVV6) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Play this in front of a fireplace](https://open.spotify.com/album/36iz9pIHXvS2x6MDBZ9jY7) | 2:45 | 2024-02-02 |  |
@@ -5117,7 +5118,7 @@
 | [Sea Glass](https://open.spotify.com/track/4fQ5j3zGe75c7T8wtCbVdw) | [Sports & Music](https://open.spotify.com/artist/48hF8pmQ61ySf1iwpF3Yo9) | [Sea Glass](https://open.spotify.com/album/0IEFN0UXa6evPNmTTYadzt) | 2:03 | 2021-12-03 | 2022-06-17 |
 | [Sea Secrets](https://open.spotify.com/track/71e0TKZn2VgFg6t8kNdkkD) | [Starlies](https://open.spotify.com/artist/3ZXBbe1WF1PfwggpEOcips) | [Water Secrets](https://open.spotify.com/album/2Ck16RhFLyGrGq2HfBYAOZ) | 2:17 | 2023-10-13 | 2023-11-11 |
 | [Seagazing](https://open.spotify.com/track/2HnbW4hHhgfqiwjP97eFcg) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Seagazing](https://open.spotify.com/album/4cgTpLNBUtHUywVqBaWG71) | 2:24 | 2022-11-25 | 2023-01-20 |
-| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 |  |
+| [Seagull Blues](https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk) | [Seagull Blues](https://open.spotify.com/album/1mZTRPhAzZ5wMuZZ2L1a7D) | 2:29 | 2024-02-09 | 2024-08-09 |
 | [Search for Tomorrow](https://open.spotify.com/track/1uTxXCU8uNiOB8iTg3sjcs) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Search for Tomorrow](https://open.spotify.com/album/1mA1yze65ZUBv1xqClnnc2) | 2:08 | 2019-07-23 | 2020-10-21 |
 | [Seashells](https://open.spotify.com/track/2UOaLTPCnWUO8aMDmsIuKr) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Seashells](https://open.spotify.com/album/65mSvsHnM4RjAgBGEcTvar) | 1:55 | 2022-06-10 | 2022-09-30 |
 | [Seaside Stroll](https://open.spotify.com/track/3nmMrM1q7bEHMen6XtrZFg) | [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU), [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O) | [Seaside Stroll](https://open.spotify.com/album/70rRWiCBg4IZCxHXKJbC3N) | 2:27 | 2022-11-11 | 2023-09-29 |
@@ -6879,6 +6880,7 @@
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-09-29 |
 | [yugatu](https://open.spotify.com/track/3eq5UzNAoGMdns6JayLaZg) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [yugatu](https://open.spotify.com/album/1aI9v6ZA0k88NrdpqfNhCc) | 3:22 | 2022-07-15 | 2022-10-24 |
 | [yugatu](https://open.spotify.com/track/7Im8ZwdtOa8brvg6sreL0w) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [ripple room](https://open.spotify.com/album/012HxPEZF8LcbBHmu9HdT5) | 3:22 | 2022-10-14 | 2022-10-28 |
+| [Yugen](https://open.spotify.com/track/4of9bPHp68CawZd6uMB1GO) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Yugen](https://open.spotify.com/album/1mboIpTAZLYh9a4imLi7Dc) | 2:33 | 2024-07-26 |  |
 | [Yugen](https://open.spotify.com/track/5Qxkj85iFpJKPGb1JRq48F) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Yugen](https://open.spotify.com/album/5WKe3DoGzAnyzn2VJTGXeF) | 1:38 | 2019-11-29 | 2021-07-29 |
 | [Yugen](https://open.spotify.com/track/1uAsrVZwWejTkJ87otnX7l) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr), [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Yugen](https://open.spotify.com/album/3KzCaYMJFkvEtPDPbWrxhw) | 1:55 | 2022-07-01 | 2022-10-14 |
 | [Yuki](https://open.spotify.com/track/316XgMkvkl639PPBdOqghb) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Yuki](https://open.spotify.com/album/7CvDXOm91qEUW4zQgVjFbd) | 2:20 | 2020-01-13 | 2021-08-22 |

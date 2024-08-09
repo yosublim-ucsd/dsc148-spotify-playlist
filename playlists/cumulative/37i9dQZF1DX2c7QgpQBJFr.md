@@ -2,9 +2,9 @@
 
 ### [Caleido](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> Gli astri nascenti del pop italiano 🔮 Cover: jiojio
+> Gli astri nascenti del pop italiano 🔮 MATILDE e Germo67 in cover
 
-151 songs - 7 hr 12 min
+152 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 |  |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-06-27 |  |
 | [Limone](https://open.spotify.com/track/2iHashE3Z4XJ9iB7HIKDI5) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Limone](https://open.spotify.com/album/3BoKlSj5zZ3NL30CR0sTTF) | 3:40 | 2024-06-27 | 2024-07-12 |
+| [loop](https://open.spotify.com/track/73IP6x82Ew9PRuTO9zC9iT) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [loop](https://open.spotify.com/album/7cAHykwJrXzjQeZe3aCu6m) | 3:00 | 2024-08-08 |  |
 | [LOVESICK \(feat\. CARO WOW\)](https://open.spotify.com/track/4wTJnESTXwENnqm4sTpd6F) | [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM), [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [LOVESICK \(feat\. CARO WOW\)](https://open.spotify.com/album/1eY2rl9gAxGakV59A2IxPj) | 2:33 | 2024-07-11 |  |
 | [Luci](https://open.spotify.com/track/0WHbpAszTFTND9kvKyTPKA) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Luci](https://open.spotify.com/album/24Bpm70wpDI1KPw6U4gs5S) | 3:03 | 2024-06-27 | 2024-08-02 |
 | [luna di miele](https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 3:02 | 2024-06-27 | 2024-07-05 |
@@ -122,7 +123,7 @@
 | [PERDONIAMOCI LO STESSO](https://open.spotify.com/track/47IkpRhL9DgMsDEvQ8Q8sF) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [PERDONIAMOCI LO STESSO](https://open.spotify.com/album/2EYUDEWk8OPvYVkojUQy08) | 3:11 | 2024-08-01 |  |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 |  |
 | [PICCOLO CHIKORITA \- Prod\. PLASTICA](https://open.spotify.com/track/4LBqBTqhaOwbdlgOSHEMRI) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s), [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM) | [PICCOLO CHIKORITA \(Prod\. PLASTICA\)](https://open.spotify.com/album/1Iqd2nGXi3RJYRD4GBAfca) | 3:23 | 2024-06-27 |  |
-| [Pioggia Col Sole](https://open.spotify.com/track/6qUCgUlybSFYCH8ZrhepoL) | [DEN](https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs) | [Pioggia Col Sole](https://open.spotify.com/album/6bpOoycddo5YEz0Jg3hVnB) | 2:40 | 2024-06-27 |  |
+| [Pioggia Col Sole](https://open.spotify.com/track/6qUCgUlybSFYCH8ZrhepoL) | [DEN](https://open.spotify.com/artist/3oWSB5GjD00qyMzxQLRkNs) | [Pioggia Col Sole](https://open.spotify.com/album/6bpOoycddo5YEz0Jg3hVnB) | 2:40 | 2024-06-27 | 2024-08-09 |
 | [Popstar](https://open.spotify.com/track/2Q1YyroZKv05BiI4P1w34w) | [LOLITA](https://open.spotify.com/artist/1uflDfFlGattqNVKCnCB8P) | [Popstar](https://open.spotify.com/album/1uxauVQqGlDlwrhO3PwYEb) | 2:34 | 2024-06-27 | 2024-07-05 |
 | [Porta Pia](https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Porta Pia](https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 | 2024-06-27 | 2024-07-05 |

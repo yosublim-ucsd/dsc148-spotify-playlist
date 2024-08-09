@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring Sofi Tukker",
+  "description": "ur on the list bb \ud83e\ude90 featuring Maya Randle",
   "name": "planet rave",
   "tracks": [
     {
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 129470,
       "name": "bloody mary",
       "url": "https://open.spotify.com/track/4UpfzD7yre0D0JKpnzjRE5"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 206626,
       "name": "DIE LIEBE KOMMT NICHT AUS BERLIN",
       "url": "https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc"
@@ -6377,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "Ghost Of What Could Be",
+        "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202786,
+      "name": "Ghost Of What Could Be",
+      "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
+    },
+    {
+      "album": {
         "name": "Gift EP",
         "url": "https://open.spotify.com/album/58X3RQRsXbgnXYf3rbj8TW"
       },
@@ -7196,6 +7214,24 @@
       "duration_ms": 134750,
       "name": "Here",
       "url": "https://open.spotify.com/track/3PaunyhsLdbbRSwcAvAZ7p"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/3kQD69BPkZRFy4MIssW54j"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187534,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/6GH9l0byJ9UTc3BqUtesNP"
     },
     {
       "album": {
@@ -8204,7 +8240,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 213034,
       "name": "I Still Got U",
       "url": "https://open.spotify.com/track/0cG19pcQsnVlPblRcmaTB1"
@@ -8244,6 +8280,24 @@
       "duration_ms": 149345,
       "name": "I Watch The Moon",
       "url": "https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr"
+    },
+    {
+      "album": {
+        "name": "i won't be your boo",
+        "url": "https://open.spotify.com/album/0DE26JfP9iNArszV4PaEyv"
+      },
+      "artists": [
+        {
+          "name": "LEOWI",
+          "url": "https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "i won't be your boo",
+      "url": "https://open.spotify.com/track/3zzb9MOjPd0ZXkh7TOBtPI"
     },
     {
       "album": {
@@ -8313,6 +8367,28 @@
     },
     {
       "album": {
+        "name": "Icky Boyz",
+        "url": "https://open.spotify.com/album/4Wi5VeEYchfdVcThpnC7Tn"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        },
+        {
+          "name": "Crybaby",
+          "url": "https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143281,
+      "name": "Icky Boyz",
+      "url": "https://open.spotify.com/track/277hRJkk5W8GKzdBZ67Q1l"
+    },
+    {
+      "album": {
         "name": "idgaf",
         "url": "https://open.spotify.com/album/6wMU9MnWIR1jM9xY5rt8zC"
       },
@@ -8350,10 +8426,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 137806,
       "name": "idol",
       "url": "https://open.spotify.com/track/4cOq1Qx9d5Kxtjd3Tww47b"
+    },
+    {
+      "album": {
+        "name": "IF YOU GET IT YOU GET IT",
+        "url": "https://open.spotify.com/album/4djSPd8BPMQvjRdqGCHlAG"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105604,
+      "name": "IF YOU GET IT YOU GET IT",
+      "url": "https://open.spotify.com/track/1GB1a8tFzstmLy8uulch93"
     },
     {
       "album": {
@@ -9472,7 +9566,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 124615,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
@@ -9708,6 +9802,24 @@
       "duration_ms": 218200,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/10tif34C0hcgqdDgsvQLQG"
+    },
+    {
+      "album": {
+        "name": "honestly, does this smell off to you?",
+        "url": "https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "limousine",
+      "url": "https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH"
     },
     {
       "album": {
@@ -11246,7 +11358,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 162413,
       "name": "Nice to meet you (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR"
@@ -11592,6 +11704,42 @@
       "duration_ms": 231529,
       "name": "Noodle Poodle - Tommy Villiers Remix",
       "url": "https://open.spotify.com/track/3Iqd1QXYAChLtYDWCMYgBi"
+    },
+    {
+      "album": {
+        "name": "NOT ANGRY",
+        "url": "https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111483,
+      "name": "NOT ANGRY",
+      "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
+    },
+    {
+      "album": {
+        "name": "GIRL!!!",
+        "url": "https://open.spotify.com/album/5f8If4cKjTsXaegOsrA25q"
+      },
+      "artists": [
+        {
+          "name": "Maisi",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Not My Type",
+      "url": "https://open.spotify.com/track/5mHeJsko8znfqCEXayzfAS"
     },
     {
       "album": {
@@ -11976,7 +12124,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 161137,
       "name": "Only In My Mind",
       "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
@@ -16073,6 +16221,24 @@
     },
     {
       "album": {
+        "name": "Budots World (Reloaded)",
+        "url": "https://open.spotify.com/album/1AjWbEq838WOOmiQm9lsDa"
+      },
+      "artists": [
+        {
+          "name": "DJ Love (Sherwin Tuna)",
+          "url": "https://open.spotify.com/artist/1Yeag7FqLNFE3dIFitfbeC"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "TiwTiw",
+      "url": "https://open.spotify.com/track/38jm2SfOqsqDmL6BWQZkId"
+    },
+    {
+      "album": {
         "name": "tokyothrift",
         "url": "https://open.spotify.com/album/32iH6ohhmZEEx0EFLbdUxh"
       },
@@ -18088,7 +18254,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 124686,
       "name": "you'll come back",
       "url": "https://open.spotify.com/track/12AUL8xZVqnq75tvmZs085"

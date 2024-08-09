@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Merveille",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 126040,
       "name": "DEUSPI",
       "url": "https://open.spotify.com/track/1tiPiU4mka9lKzA0gJTpTW"
@@ -5083,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "S'\u00e9garer",
+        "url": "https://open.spotify.com/album/7m3mfDHqK57CJpYTdyEJlA"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136637,
+      "name": "S'\u00e9garer",
+      "url": "https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux"
+    },
+    {
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/08ksLbbYidSLVQ3W79Lwt6"
       },
@@ -5642,6 +5660,24 @@
       "duration_ms": 168986,
       "name": "Sp\u00e9cial",
       "url": "https://open.spotify.com/track/2TeWW86rzv5Mxfb8vFYIAN"
+    },
+    {
+      "album": {
+        "name": "ATHENA - R\u00e9\u00e9dition",
+        "url": "https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/18LJA309PjDoViodm94Us1"
     },
     {
       "album": {
@@ -6400,7 +6436,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 84107,
       "name": "\u00c0 TON AISE",
       "url": "https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv"

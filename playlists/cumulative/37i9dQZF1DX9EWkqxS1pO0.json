@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Alara",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Bostanc\u0131 Day\u0131",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Beni de Kendine Benzettin",
+        "url": "https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178583,
+      "name": "Beni de Kendine Benzettin",
+      "url": "https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD"
+    },
+    {
+      "album": {
         "name": "beni sen delirttin",
         "url": "https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 161632,
       "name": "Beni Seviyo",
       "url": "https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP"
@@ -326,7 +344,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 145781,
       "name": "Cehennem",
       "url": "https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5"
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 159000,
       "name": "d\u00f6n bak ne haldesin",
       "url": "https://open.spotify.com/track/2BllmYspkFLpqrbYVM3tY6"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 201662,
       "name": "\u0130stila",
       "url": "https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7"
@@ -824,6 +842,24 @@
       "duration_ms": 162105,
       "name": "Ko\u015ftum Sana",
       "url": "https://open.spotify.com/track/4mzA94C3c4CSpkvZLd8TUu"
+    },
+    {
+      "album": {
+        "name": "Mahvettim",
+        "url": "https://open.spotify.com/album/5yiS1Re5SgJ3Q9VxRF8TyT"
+      },
+      "artists": [
+        {
+          "name": "Bostanc\u0131 Day\u0131",
+          "url": "https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219512,
+      "name": "Mahvettim",
+      "url": "https://open.spotify.com/track/0RtzvHBV65ThWzML2a6EDA"
     },
     {
       "album": {
@@ -990,7 +1026,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "R\u00fczgar\u0131n Pe\u015finde",
       "url": "https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV"
@@ -1008,7 +1044,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 217083,
       "name": "Sabah\u0131n D\u00f6rt Bu\u00e7u\u011funda",
       "url": "https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn"
@@ -1138,7 +1174,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "Sesim Kulakl\u0131klar\u0131nda",
       "url": "https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W"
@@ -1610,7 +1646,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 131769,
       "name": "\u00c7ATAPAT",
       "url": "https://open.spotify.com/track/6V6efRzijn61AYQCEAd6TZ"

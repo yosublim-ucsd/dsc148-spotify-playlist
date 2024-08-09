@@ -1,13 +1,29 @@
 {
   "description": "I really wish your real name is my last name \ud83e\udd21",
-  "num_followers": 447770,
+  "num_followers": 447789,
   "original_name": "membadut",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrL3lAAAAAAkSlSApCHJmrZ/dvcEfeXi",
+  "snapshot_id": "ZrVNeQAAAAD+JYUsZq1OZMKq4ylo+QpI",
   "tracks": [
+    {
+      "added_at": "2024-08-08 22:58:01",
+      "album": {
+        "name": "Badut Baru",
+        "url": "https://open.spotify.com/album/2hHIt7x4I5MPMUiAwNkQcZ"
+      },
+      "artists": [
+        {
+          "name": "dbatlayar",
+          "url": "https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG"
+        }
+      ],
+      "duration_ms": 237659,
+      "name": "Badut Baru",
+      "url": "https://open.spotify.com/track/2cvKEBxlLOjAWYhsDwOvRC"
+    },
     {
       "added_at": "2024-08-07 04:27:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Fally Ipupa
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,690 likes - 69 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,732 likes - 69 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

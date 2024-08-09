@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: U:NUS",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u6c92\u6709\u624d\u80fd (anti-talent)",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 202352,
       "name": "Freaky Girl",
       "url": "https://open.spotify.com/track/29ubgKk8PtZS3kDZ4IEBwT"
@@ -192,6 +192,28 @@
       "duration_ms": 235268,
       "name": "HERO",
       "url": "https://open.spotify.com/track/4HA8zNYdlVYS76vc4paWns"
+    },
+    {
+      "album": {
+        "name": "I Wake Up to Love You (Motion Graphics Remix)",
+        "url": "https://open.spotify.com/album/5dgfdXLm3yPefXfTKL7r79"
+      },
+      "artists": [
+        {
+          "name": "Mola Oddity",
+          "url": "https://open.spotify.com/artist/7cw3Yw21RFUzZA744fIYH7"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248902,
+      "name": "I Wake Up to Love You - Motion Graphics Remix",
+      "url": "https://open.spotify.com/track/0vAAyMznMZI8W5YdU3AgqB"
     },
     {
       "album": {
@@ -663,6 +685,24 @@
     },
     {
       "album": {
+        "name": "\u4f60\u8981\u7d50\u5a5a\u600e\u9ebc\u6c92\u627e\u6211you forget me;( (always)",
+        "url": "https://open.spotify.com/album/5qLSqtr6k7PwF1pSDCokB9"
+      },
+      "artists": [
+        {
+          "name": "Jazzweed.\u82a5\u5b50\u8349",
+          "url": "https://open.spotify.com/artist/6hsNVDSKfU1yStQycSP67T"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270792,
+      "name": "\u4f60\u8981\u7d50\u5a5a\u600e\u9ebc\u6c92\u627e\u6211you forget me;( (always)",
+      "url": "https://open.spotify.com/track/0nDPOKjplHsErigvEnqpFu"
+    },
+    {
+      "album": {
         "name": "\u4f9d\u7136FANTASY",
         "url": "https://open.spotify.com/album/2MYIeUWHPvrkMLjbuBnWCV"
       },
@@ -674,7 +714,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 151077,
       "name": "\u4f9d\u7136FANTASY",
       "url": "https://open.spotify.com/track/6ntrEvJeBQPvDF3p6nq6C8"
@@ -750,7 +790,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 537530,
       "name": "\u532f\u6d41\u5411\u6d77 Into the Ocean - 2024 Version",
       "url": "https://open.spotify.com/track/5f2h3glhTXNVMNWwXk8cbR"
@@ -768,7 +808,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 302727,
       "name": "\u5341\u4e8c\u6708\u7684\u591c\u8272",
       "url": "https://open.spotify.com/track/43xiQdyyfixaCvW0NsvpLq"
@@ -996,7 +1036,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 193106,
       "name": "\u5c08\u5c6c\u7684\u590f\u5929",
       "url": "https://open.spotify.com/track/3rA0hkbOcgxmF00nu4KOz5"
@@ -1224,6 +1264,24 @@
       "duration_ms": 207875,
       "name": "\u6211\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa"
+    },
+    {
+      "album": {
+        "name": "\u6211\u60f3\u7576\u98a8 (\u96fb\u5f71\u300a\u6293\u5a03\u5a03\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/0CALrrwyBYwBdQtjakZ5zi"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u5148\u68ee\u4e50\u961f",
+          "url": "https://open.spotify.com/artist/4SklOYXOJe2H6R1Vz2gc0F"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229943,
+      "name": "\u6211\u60f3\u7576\u98a8 (\u96fb\u5f71\u300a\u6293\u5a03\u5a03\u300b\u7247\u5c3e\u66f2)",
+      "url": "https://open.spotify.com/track/0b39ltlXVkAaIkOyvGHP9p"
     },
     {
       "album": {
@@ -1485,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "\u6b64\u6642\u6b64\u523b",
+        "url": "https://open.spotify.com/album/6gyRZGBe9o2GlYoOe6jwBA"
+      },
+      "artists": [
+        {
+          "name": "\u6c92\u6709\u624d\u80fd",
+          "url": "https://open.spotify.com/artist/520jt7VsRdtgRbwag2zxd7"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256268,
+      "name": "\u6b64\u6642\u6b64\u523b",
+      "url": "https://open.spotify.com/track/0wD8aR60o3wCUC0uEzq5rU"
+    },
+    {
+      "album": {
         "name": "\u6c38\u665d\u98db\u8239 InSonnia (2024\u91d1\u724c\u53f0\u7063\u5564\u9152\u5e74\u5ea6\u5ee3\u544a\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6T5UTHDvx1UDm2KArcEWzZ"
       },
@@ -1670,7 +1746,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 275238,
       "name": "\u7528\u529b\u7684\u611b\u5c07\u6211\u5e36\u53bb\u9060\u65b9",
       "url": "https://open.spotify.com/track/2y58AH8dsNRWqzn1WaBjCS"

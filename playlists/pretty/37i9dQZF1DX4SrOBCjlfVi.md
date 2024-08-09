@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A$AP Rocky, Polo G, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,135 likes - 48 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,291 likes - 48 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Tryin' to Play Me](https://open.spotify.com/track/1CFYvRq6i4O0i5FvziWt57) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Tryin' to Play Me](https://open.spotify.com/album/6zDqz2lliTI1j18F6fBLrZ) | 3:05 |
 | 36 | [Red Roses](https://open.spotify.com/track/0zCwO6xv3FGekF2OymdDTa) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Memoirs In Armour](https://open.spotify.com/album/4HgkXIyPXtXueFq7swBqXa) | 2:43 |
 | 37 | [god's fav](https://open.spotify.com/track/7qd2vngyZFpqA4O12uigPA) | [MESSIAH!](https://open.spotify.com/artist/7nfddgqZWzCgRcgZvjJqgo), [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [the villain wins](https://open.spotify.com/album/37pthVfyembuuFlsRCeb35) | 2:03 |
-| 38 | [Silent Stepper Gang](https://open.spotify.com/track/1dql2QWLLpC1K3FAKIt9oN) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Silent Stepper Gang](https://open.spotify.com/album/4yLjJxeJstmChANl5bDDSv) | 2:40 |
+| 38 | [Silent Stepper Gang \(feat\. Skilla Baby\)](https://open.spotify.com/track/1dql2QWLLpC1K3FAKIt9oN) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Silent Stepper Gang \(feat\. Skilla Baby\)](https://open.spotify.com/album/4yLjJxeJstmChANl5bDDSv) | 2:40 |
 | 39 | [Ms\. Aquarium \(Wet Wet\)](https://open.spotify.com/track/3R1hQ4C3LPb7Z3ZdXYueUc) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Ms\. Aquarium \(Wet Wet\)](https://open.spotify.com/album/58lCRjnBxucVoaJ4orqjEY) | 2:47 |
 | 40 | [wassup with you](https://open.spotify.com/track/2V7fCAaoLmhJ8WKZ9GTyHH) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [wassup with you](https://open.spotify.com/album/4HLJcn7zQkdnBzRDAM71RW) | 2:50 |
 | 41 | [Remote Job](https://open.spotify.com/track/2PaLHn5rC6MphhTtiNjYcK) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Iiinfinite](https://open.spotify.com/artist/5tw81TqzE5gbCxMrYU710Y) | [Remote Job](https://open.spotify.com/album/7y9keRCffe6NJOF8v7yrsB) | 3:00 |

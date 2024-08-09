@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bratty. Los temas esenciales, todos en una lista.",
-  "num_followers": 11969,
+  "description": "This is Bratty. The essential tracks, all in one playlist.",
+  "num_followers": 11974,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrFngAAAAABtJcau/KpWoyf/SYFWbToV",
+  "snapshot_id": "ZrK5AAAAAACuUcbBeIQg1VO1XOxXtOdd",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 257773,
-      "name": "friend",
-      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
+      "duration_ms": 211746,
+      "name": "tarde",
+      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 211746,
-      "name": "tarde",
-      "url": "https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN"
+      "duration_ms": 257773,
+      "name": "friend",
+      "url": "https://open.spotify.com/track/6POsLQxXvK9HIjS4CS2iRI"
     },
     {
       "added_at": null,

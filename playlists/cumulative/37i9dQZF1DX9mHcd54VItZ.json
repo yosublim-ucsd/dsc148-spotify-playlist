@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 171533,
       "name": "Gooi Kole",
       "url": "https://open.spotify.com/track/66xWEcI12VxFXpuDCxWnYc"
@@ -5472,6 +5472,28 @@
       "duration_ms": 196380,
       "name": "Na\u00efef",
       "url": "https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr"
+    },
+    {
+      "album": {
+        "name": "Neon Bloodstains",
+        "url": "https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l"
+      },
+      "artists": [
+        {
+          "name": "Crash And The Void",
+          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
+        },
+        {
+          "name": "Johni Holiday",
+          "url": "https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291576,
+      "name": "Neon Bloodstains",
+      "url": "https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I"
     },
     {
       "album": {

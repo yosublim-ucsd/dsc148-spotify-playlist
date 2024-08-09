@@ -1,13 +1,317 @@
 {
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
-  "num_followers": 438811,
+  "num_followers": 439369,
   "original_name": "The Umbrella Academy Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsSXQAAAADytizh5+q0jrl6N68IOMMj",
+  "snapshot_id": "ZrRs8AAAAACp3wxKwMR+/xIm7keNrBNY",
   "tracks": [
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Easy on the Heart",
+        "url": "https://open.spotify.com/album/6y3amjFTKWJNEywfXypOMS"
+      },
+      "artists": [
+        {
+          "name": "Ernie Rowell",
+          "url": "https://open.spotify.com/artist/2l2L5DuBBB0AhTtxoDeWTY"
+        }
+      ],
+      "duration_ms": 174115,
+      "name": "Facing You",
+      "url": "https://open.spotify.com/track/44kVKAHA9gqVyaa5R0VOFp"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/6V5t1pXmUrcbwxIDnzWhKJ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/59hKzj0h6ElhQv8rBqvpUz"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "The Murder City Devils",
+        "url": "https://open.spotify.com/album/2FJ2igLHDR6juIv1HOF5Xw"
+      },
+      "artists": [
+        {
+          "name": "The Murder City Devils",
+          "url": "https://open.spotify.com/artist/0rIOnBirvFkIILkTCGc7N0"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Boom Swagger Boom",
+      "url": "https://open.spotify.com/track/0F9pIiJLzZOh4oDQKZZ6kl"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Powered Up",
+        "url": "https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N"
+      },
+      "artists": [
+        {
+          "name": "Cobra Man",
+          "url": "https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9"
+        }
+      ],
+      "duration_ms": 183162,
+      "name": "Powered Up",
+      "url": "https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Pinkfong Animal Songs",
+        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 80927,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/5ygDXis42ncn6kYG14lEVG"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7ie7Sms15buQST5IZc0ftZ"
+      },
+      "artists": [
+        {
+          "name": "Lost Cat",
+          "url": "https://open.spotify.com/artist/38S1OA29Be4JJxQc5QN7Ly"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/2a1IcQ54dJOU5wG7h27RyJ"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Barrett Strong",
+        "url": "https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Nilsson Schmilsson",
+        "url": "https://open.spotify.com/album/3EfpOFKjotrMQTFTnxrXaB"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 422106,
+      "name": "Jump Into The Fire",
+      "url": "https://open.spotify.com/track/3hgHrfMdtnLtH54HYTdNHF"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Gypsys, Tramps & Thieves",
+        "url": "https://open.spotify.com/album/4NsAwBNLIHDpmlCCGNGzH9"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Gypsys, Tramps & Thieves",
+      "url": "https://open.spotify.com/track/6fsSZbNL7XP9gf1kJ2l155"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Desert Center",
+        "url": "https://open.spotify.com/album/49uZlCBy87wJdiMLxTTVcu"
+      },
+      "artists": [
+        {
+          "name": "Guantanamo Baywatch",
+          "url": "https://open.spotify.com/artist/2uZajWbkMRUYdyCHvsh494"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Witch Stomp",
+      "url": "https://open.spotify.com/track/2zMltFX7IerjrXLSt1P0WG"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "...And I Know You Wanna Dance (Live)",
+        "url": "https://open.spotify.com/album/5AvBYSKIsM0HVGvI5AYA8y"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivers",
+          "url": "https://open.spotify.com/artist/3TiISqKS6ESlMQ4WFfZJw2"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Secret Agent Man - Live At Whisky A Go-Go, Los Angeles, CA / 1966",
+      "url": "https://open.spotify.com/track/5RNeOg5D1AwMvEILRxPZbG"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 258066,
+      "name": "Map of the Problematique",
+      "url": "https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Dead To The World",
+        "url": "https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 253510,
+      "name": "Dead To The World",
+      "url": "https://open.spotify.com/track/1HuR4jf1BdzTIba7raFsPR"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Ain't It A Shame",
+      "url": "https://open.spotify.com/track/4TtymnqQiN24mkJ8M2AjI5"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "I Think We're Alone Now",
+        "url": "https://open.spotify.com/album/6gvl4yoeI4s7y5MbQzfONy"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "I Think We're Alone Now - Single Version",
+      "url": "https://open.spotify.com/track/3AXDLGI5TIYi72JcYFvNpv"
+    },
+    {
+      "added_at": "2024-08-08 07:00:00",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
     {
       "added_at": "2022-06-22 15:55:51",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Kusah",
+  "description": "What is your love language? Say it in Swahili.  Cover: Charisma",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -4110,7 +4110,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 190689,
       "name": "Wawili",
       "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
@@ -4176,6 +4176,24 @@
       "duration_ms": 266006,
       "name": "Wimbo Wetu",
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
+    },
+    {
+      "album": {
+        "name": "THE MOTIONS",
+        "url": "https://open.spotify.com/album/4fPOxjuC3kyV9c6TW4Ejjq"
+      },
+      "artists": [
+        {
+          "name": "Charisma",
+          "url": "https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180694,
+      "name": "WIVU",
+      "url": "https://open.spotify.com/track/0wKkMsJb5vGjUMG1AHU4OM"
     },
     {
       "album": {

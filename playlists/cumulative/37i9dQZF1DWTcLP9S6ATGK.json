@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: JESENN",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Anji",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 207647,
       "name": "Benar Salah",
       "url": "https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY"
+    },
+    {
+      "album": {
+        "name": "Berjalan Adanya",
+        "url": "https://open.spotify.com/album/3IEDfeJRAQam1cMQInbqmN"
+      },
+      "artists": [
+        {
+          "name": "Dendi Nata",
+          "url": "https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246349,
+      "name": "Berjalan Adanya",
+      "url": "https://open.spotify.com/track/6ZLlgoRysbx0XWWRuMWR1N"
     },
     {
       "album": {
@@ -1551,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Laras Sukma",
+        "url": "https://open.spotify.com/album/3XZ7My2aJhwrDCTecMTnvj"
+      },
+      "artists": [
+        {
+          "name": "Rahma Savitri",
+          "url": "https://open.spotify.com/artist/5qu3vm5pK4C2UblwOEsP4V"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Laras Sukma",
+      "url": "https://open.spotify.com/track/7tmxIgPDatMU03hhPaZlH8"
+    },
+    {
+      "album": {
         "name": "Last Right One",
         "url": "https://open.spotify.com/album/4pIZut1MFibakG5NQLSewa"
       },
@@ -2053,6 +2089,28 @@
     },
     {
       "album": {
+        "name": "Pelan Pelan Melupakan",
+        "url": "https://open.spotify.com/album/2judBM7zQxlllXnEF601B9"
+      },
+      "artists": [
+        {
+          "name": "Aan Story",
+          "url": "https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk"
+        },
+        {
+          "name": "Dinda Ghania",
+          "url": "https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229523,
+      "name": "Pelan Pelan Melupakan",
+      "url": "https://open.spotify.com/track/1mdYmKqowTqMxEgONsGFNK"
+    },
+    {
+      "album": {
         "name": "Pengkhianatan Terbesar",
         "url": "https://open.spotify.com/album/61HHuQ6mEm300bfJnRZ47n"
       },
@@ -2309,6 +2367,32 @@
     },
     {
       "album": {
+        "name": "Sayang Segera Pulang",
+        "url": "https://open.spotify.com/album/3Y8CQYyOORxgn035ofr9TP"
+      },
+      "artists": [
+        {
+          "name": "Langit Sore",
+          "url": "https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj"
+        },
+        {
+          "name": "Aesha Clara",
+          "url": "https://open.spotify.com/artist/17JxKMTscR0CSCcRaflnvI"
+        },
+        {
+          "name": "GFRN",
+          "url": "https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158387,
+      "name": "Sayang Segera Pulang",
+      "url": "https://open.spotify.com/track/2FzAxscJuxvvHACabMnLm4"
+    },
+    {
+      "album": {
         "name": "Sejauh Dua Benua",
         "url": "https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY"
       },
@@ -2346,6 +2430,24 @@
       "duration_ms": 295800,
       "name": "Selamanya Untukku",
       "url": "https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT"
+    },
+    {
+      "album": {
+        "name": "Selamat Datang Di Realita",
+        "url": "https://open.spotify.com/album/38SGxevynExMhA61GaaPTs"
+      },
+      "artists": [
+        {
+          "name": "Anji",
+          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341408,
+      "name": "Selamat Datang Di Realita",
+      "url": "https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy"
     },
     {
       "album": {

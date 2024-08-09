@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "album": {
         "name": "The Dude EP",
         "url": "https://open.spotify.com/album/6445ilfquVMyJ09G3fLao7"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 201707,
       "name": "Ayana",
       "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187096,
       "name": "My City's On Fire",
       "url": "https://open.spotify.com/track/4naKJYQsRnQcBvYcgAGivQ"
@@ -5384,6 +5402,24 @@
       "duration_ms": 448750,
       "name": "Nosara",
       "url": "https://open.spotify.com/track/0cAarkhbKeI6z0YnpwjyLP"
+    },
+    {
+      "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
     },
     {
       "album": {
@@ -6847,7 +6883,7 @@
     },
     {
       "album": {
-        "name": "Shiver (Cassian Remix)",
+        "name": "Shiver - Cassian Remix",
         "url": "https://open.spotify.com/album/2TUxf9Z7J0Mxhm8jgpKAtv"
       },
       "artists": [

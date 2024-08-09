@@ -4445,6 +4445,28 @@
     },
     {
       "album": {
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/6dnx8GTQeF1jHRdLwq2H3Z"
+      },
+      "artists": [
+        {
+          "name": "Cyril Ritchard",
+          "url": "https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185253,
+      "name": "No Wonder Taxes Are High",
+      "url": "https://open.spotify.com/track/3E18putZUB0PUTGiItq24P"
+    },
+    {
+      "album": {
         "name": "Out Of This World",
         "url": "https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI"
       },
@@ -7653,7 +7675,7 @@
     },
     {
       "album": {
-        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "name": "A Swingin' Affair! - Remastered / Expanded Edition",
         "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
       },
       "artists": [

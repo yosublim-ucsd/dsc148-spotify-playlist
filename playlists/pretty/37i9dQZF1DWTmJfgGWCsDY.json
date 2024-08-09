@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 4073,
+  "num_followers": 4074,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
-      },
-      "artists": [
-        {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Tajiri Remix (feat. 2Fani & Chobamc)",
         "url": "https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
+        "name": "We Nani",
+        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "We Nani",
+      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
         "name": "HASSANI",
         "url": "https://open.spotify.com/album/0gJNgqvpEbrfybrkpQyBhW"
       },
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "We Nani",
-        "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
         }
       ],
-      "duration_ms": 254258,
-      "name": "We Nani",
-      "url": "https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc"
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -851,8 +851,8 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Amechukua Nani",
-        "url": "https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4"
+        "name": "Viburi",
+        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
       },
       "artists": [
         {
@@ -860,13 +860,13 @@
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         },
         {
-          "name": "Stizo",
-          "url": "https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J"
+          "name": "Chief Becka",
+          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
         }
       ],
-      "duration_ms": 226453,
-      "name": "Amechukua Nani",
-      "url": "https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC"
+      "duration_ms": 201967,
+      "name": "Viburi",
+      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Mama Samia",
-        "url": "https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk"
-      },
-      "artists": [
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        }
-      ],
-      "duration_ms": 300698,
-      "name": "Mama Samia",
-      "url": "https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
         "name": "Jiangalie",
         "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 229944,
       "name": "Jiangalie",
       "url": "https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Mama Samia",
+        "url": "https://open.spotify.com/album/0XN125dECgTZxpcDG1XoNk"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "duration_ms": 300698,
+      "name": "Mama Samia",
+      "url": "https://open.spotify.com/track/6yiMBUbTgySnOMVPVyvIJZ"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -959,8 +959,8 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Viburi",
-        "url": "https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk"
+        "name": "Amechukua Nani",
+        "url": "https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4"
       },
       "artists": [
         {
@@ -968,13 +968,13 @@
           "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         },
         {
-          "name": "Chief Becka",
-          "url": "https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6"
+          "name": "Stizo",
+          "url": "https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J"
         }
       ],
-      "duration_ms": 201967,
-      "name": "Viburi",
-      "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"
+      "duration_ms": 226453,
+      "name": "Amechukua Nani",
+      "url": "https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -991,26 +991,6 @@
       "duration_ms": 277812,
       "name": "UTAMUWA BAKHRESA",
       "url": "https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV"
-    },
-    {
-      "added_at": "2024-06-28 13:15:54",
-      "album": {
-        "name": "Kua Uone",
-        "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
-      },
-      "artists": [
-        {
-          "name": "Beka Flavour",
-          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
-        },
-        {
-          "name": "Easy Man",
-          "url": "https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt"
-        }
-      ],
-      "duration_ms": 291980,
-      "name": "Kua Uone",
-      "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1047,6 +1027,26 @@
       "duration_ms": 243997,
       "name": "Wapo",
       "url": "https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa"
+    },
+    {
+      "added_at": "2024-06-28 13:15:54",
+      "album": {
+        "name": "Kua Uone",
+        "url": "https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        },
+        {
+          "name": "Easy Man",
+          "url": "https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt"
+        }
+      ],
+      "duration_ms": 291980,
+      "name": "Kua Uone",
+      "url": "https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Maisha Yetu Usela",
-        "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
+        "name": "Magetoni",
+        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
         }
       ],
-      "duration_ms": 325666,
-      "name": "Maisha Yetu Usela",
-      "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
+      "duration_ms": 314226,
+      "name": "Magetoni",
+      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
     },
     {
       "added_at": "2024-06-28 13:15:54",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2024-06-28 13:15:54",
       "album": {
-        "name": "Magetoni",
-        "url": "https://open.spotify.com/album/3YiUmqa4dqqMEZIosKI82E"
+        "name": "Maisha Yetu Usela",
+        "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
       "artists": [
         {
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm"
         }
       ],
-      "duration_ms": 314226,
-      "name": "Magetoni",
-      "url": "https://open.spotify.com/track/0FGVaG13YmSM4WTGXvGYO3"
+      "duration_ms": 325666,
+      "name": "Maisha Yetu Usela",
+      "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
     },
     {
       "added_at": "2024-06-28 13:15:54",

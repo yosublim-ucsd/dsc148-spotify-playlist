@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Be Be Be",
+        "url": "https://open.spotify.com/album/4EG22Kltz4QwkxDoDRuTj5"
+      },
+      "artists": [
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198743,
+      "name": "Be Be Be",
+      "url": "https://open.spotify.com/track/4bG3ISMmxTOc0FJ5jdi5gc"
+    },
+    {
+      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 187454,
       "name": "Crazy (Mutwe)",
       "url": "https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s"
@@ -1546,6 +1564,24 @@
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
+    },
+    {
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/1SmFveGoKEu2380eQ81EQV"
+      },
+      "artists": [
+        {
+          "name": "Izabelug",
+          "url": "https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218125,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/4tcyW3Umi79mY16GHL9PmE"
     },
     {
       "album": {
@@ -1698,7 +1734,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 186382,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
@@ -2216,6 +2252,28 @@
       "duration_ms": 194482,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/5BUZgm3cD3xv7E3t20SB7W"
+    },
+    {
+      "album": {
+        "name": "Funga Gate",
+        "url": "https://open.spotify.com/album/3lurrWpZExkdwy2RMSgzgb"
+      },
+      "artists": [
+        {
+          "name": "Gravity Omutujju",
+          "url": "https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko"
+        },
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "Funga Gate",
+      "url": "https://open.spotify.com/track/1e8ho7Rsnfd1Oedgmgk02L"
     },
     {
       "album": {
@@ -3518,6 +3576,32 @@
       "duration_ms": 208822,
       "name": "Mind Your Business",
       "url": "https://open.spotify.com/track/3ndAqWz3OJZ7adPyS4yhm9"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5Xeacg5kVriMnBk9QuNfb4"
+      },
+      "artists": [
+        {
+          "name": "Thesecond",
+          "url": "https://open.spotify.com/artist/5JIgYf3Lr4AM4Zsw1WHnmW"
+        },
+        {
+          "name": "Jiggy",
+          "url": "https://open.spotify.com/artist/2RVuaOGTewTX5TUa2H4iSs"
+        },
+        {
+          "name": "Kimathi Marshall",
+          "url": "https://open.spotify.com/artist/6fkddypPfkLF7mSe0XtLo9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226246,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/47LtCGLay8TMO0WnZygKNJ"
     },
     {
       "album": {
@@ -4990,7 +5074,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 191691,
       "name": "Practical",
       "url": "https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8"
@@ -6197,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Towaga",
+        "url": "https://open.spotify.com/album/09yJGNEry9NhmcYnETl8nl"
+      },
+      "artists": [
+        {
+          "name": "Bad Sparksy",
+          "url": "https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205624,
+      "name": "Towaga",
+      "url": "https://open.spotify.com/track/1tnng1avGX947WavDejvbT"
+    },
+    {
+      "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
       },
@@ -6610,7 +6712,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 181276,
       "name": "Wesudiya",
       "url": "https://open.spotify.com/track/6k856Fpj5VGtxwRdni0kcz"
@@ -6720,7 +6822,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 195453,
       "name": "Yo Body",
       "url": "https://open.spotify.com/track/5IfuuYy11rSQFghYk6RUB2"

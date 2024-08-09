@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover:  Drizzly)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover:  Hitsujibungaku)",
   "name": "Haze ",
   "tracks": [
     {
@@ -124,10 +124,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
+        "name": "Burning (English ver.)",
+        "url": "https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "Burning - English ver.",
+      "url": "https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb"
     },
     {
       "album": {
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 293522,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG"
@@ -286,7 +304,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 260487,
       "name": "Don't Get Yourself Dry",
       "url": "https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 267375,
       "name": "Lily",
       "url": "https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n"
@@ -890,6 +908,24 @@
       "duration_ms": 179500,
       "name": "Loving You (Isn't So Hard)",
       "url": "https://open.spotify.com/track/4p4yq2tUiF5GBGhjxwE80t"
+    },
+    {
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4"
+      },
+      "artists": [
+        {
+          "name": "aunt robert",
+          "url": "https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154127,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6"
     },
     {
       "album": {
@@ -994,7 +1030,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 363037,
       "name": "n e a r",
       "url": "https://open.spotify.com/track/224stW1Dr20xqS0HSq6NVL"
@@ -1163,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "p.m.5:00 / \u5922\u306e\u4e2d\u3067",
+        "url": "https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO"
+      },
+      "artists": [
+        {
+          "name": "the slow films",
+          "url": "https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199490,
+      "name": "p.m.5:00",
+      "url": "https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx"
+    },
+    {
+      "album": {
         "name": "Painless",
         "url": "https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk"
       },
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 222416,
       "name": "Precious Me",
       "url": "https://open.spotify.com/track/1gyIGh5Zqjc7BG0xUfTjP9"
@@ -1354,7 +1408,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 235250,
       "name": "Realize",
       "url": "https://open.spotify.com/track/7qVKgHJDWENFmqtnvr6Tzq"
@@ -1678,7 +1732,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 407040,
       "name": "The Sun Is In Our Eyes",
       "url": "https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm"
@@ -1772,7 +1826,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 366728,
       "name": "Whale blows rainbow",
       "url": "https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O"
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-09",
       "duration_ms": 244114,
       "name": "\u3084\u3055\u3057\u3044\u96f7",
       "url": "https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc"
