@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 42017,
+  "num_followers": 42025,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lkgv8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkmBcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Andvaka",
         "url": "https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Gemm\u00e9r Gemm\u00e9r",
         "url": "https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -145,7 +145,23 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Til \u00ed allt, Pt. III",
         "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "MONN\u00cd",
         "url": "https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf"
@@ -201,10 +201,10 @@
       "url": "https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
       },
       "artists": [
         {
@@ -214,10 +214,58 @@
       ],
       "duration_ms": 251424,
       "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "PBT 2.0",
         "url": "https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
@@ -253,39 +301,7 @@
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -312,12 +328,32 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -333,7 +369,23 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
@@ -357,7 +409,39 @@
       "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -377,75 +461,7 @@
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
@@ -465,27 +481,7 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "1000 or\u00f0",
-        "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
-      },
-      "artists": [
-        {
-          "name": "BR\u00cdET",
-          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "Lifa af",
-      "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -501,7 +497,7 @@
       "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Hvert ertu a\u00f0 fara?",
         "url": "https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ"
@@ -521,55 +517,7 @@
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227032,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -585,23 +533,23 @@
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
+        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 227032,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -617,51 +565,43 @@
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
-        "name": "Sumar \u00ed RVK",
-        "url": "https://open.spotify.com/album/6O5a72rItw2aLwnQNFshVj"
+        "name": "1000 or\u00f0",
+        "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
       },
       "artists": [
         {
-          "name": "NUSSUN",
-          "url": "https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx"
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
         },
         {
-          "name": "H\u00daG\u00d3",
-          "url": "https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
         }
       ],
-      "duration_ms": 180733,
-      "name": "Sumar \u00ed RVK",
-      "url": "https://open.spotify.com/track/2mpoRaaGqOltcKFPHDF7aP"
+      "duration_ms": 198120,
+      "name": "Lifa af",
+      "url": "https://open.spotify.com/track/5cFYLpNErj9k9JjjZL8Vft"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
-        "name": "Elska",
-        "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
       "artists": [
         {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "Lil Binni",
-          "url": "https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 157506,
-      "name": "Elska",
-      "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -677,7 +617,23 @@
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -693,7 +649,7 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -709,7 +665,7 @@
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -725,79 +681,7 @@
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 86983,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "E\u00f0a?",
-        "url": "https://open.spotify.com/album/4BlVwHVCwKyy4JALdkV35M"
-      },
-      "artists": [
-        {
-          "name": "GusGus",
-          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
-        },
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 432613,
-      "name": "E\u00f0a?",
-      "url": "https://open.spotify.com/track/4eJfLhC4v8psN3X8w2vXg2"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "S\u00f3linni",
-        "url": "https://open.spotify.com/album/23Y4b5qrZNx3GmtT5osZd1"
-      },
-      "artists": [
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "S\u00f3linni",
-      "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -813,7 +697,7 @@
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "Allt Sem \u00c9g \u00dearf",
         "url": "https://open.spotify.com/album/4ml1b0kDJphL7zgdFfFn7I"
@@ -837,23 +721,139 @@
       "url": "https://open.spotify.com/track/0C27Rm4T8UXUEnLyA6Q0Aj"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
-        "name": "Krumla",
-        "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
       "artists": [
         {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 195464,
-      "name": "Krumla",
-      "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Growling / E\u00f0a?",
+        "url": "https://open.spotify.com/album/3u5Ex27IPFfRvJor3zyIga"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 432613,
+      "name": "E\u00f0a?",
+      "url": "https://open.spotify.com/track/1shnvybhQIlWY5A2VcPBcE"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Elska",
+        "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Lil Binni",
+          "url": "https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Elska",
+      "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "Sumar \u00ed RVK",
+        "url": "https://open.spotify.com/album/6O5a72rItw2aLwnQNFshVj"
+      },
+      "artists": [
+        {
+          "name": "NUSSUN",
+          "url": "https://open.spotify.com/artist/0at3uaVgwcDuhoSynpoLzx"
+        },
+        {
+          "name": "H\u00daG\u00d3",
+          "url": "https://open.spotify.com/artist/7cCl5Y8YSCS9WQPD6kVTpI"
+        },
+        {
+          "name": "\u00deorm\u00f3\u00f0ur",
+          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Sumar \u00ed RVK",
+      "url": "https://open.spotify.com/track/2mpoRaaGqOltcKFPHDF7aP"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
+      "album": {
+        "name": "S\u00f3linni",
+        "url": "https://open.spotify.com/album/23Y4b5qrZNx3GmtT5osZd1"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "S\u00f3linni",
+      "url": "https://open.spotify.com/track/6096fQMsntByvgFdpnvQ2e"
+    },
+    {
+      "added_at": "2024-08-09 09:21:31",
       "album": {
         "name": "yustyna",
         "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
@@ -869,20 +869,20 @@
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
     },
     {
-      "added_at": "2024-08-08 09:28:01",
+      "added_at": "2024-08-09 09:21:31",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     }
   ],
   "unique_name": "Top 50 - Iceland",

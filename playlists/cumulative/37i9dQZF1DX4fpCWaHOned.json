@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 260239,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199840,
       "name": "Beautiful Liar",
       "url": "https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF"
@@ -5403,6 +5403,28 @@
     },
     {
       "album": {
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+      },
+      "artists": [
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
       },
@@ -7918,6 +7940,24 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183888,
+      "name": "Super Graphic Ultra Modern Girl",
+      "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU"
     },
     {
       "album": {

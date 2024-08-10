@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -7832,6 +7832,24 @@
     {
       "album": {
         "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "ATE",
         "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
       },
       "artists": [
@@ -7842,7 +7860,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -10296,7 +10314,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199701,
       "name": "Dejame Solo Pablo",
       "url": "https://open.spotify.com/track/0uCN5y7t7KTh7Ah84w2nhl"
@@ -19662,7 +19680,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -24360,6 +24378,24 @@
       "duration_ms": 169090,
       "name": "Mensaje de cumplea\u00f1os",
       "url": "https://open.spotify.com/track/26TEh9taf5N1kpUmPsCuoa"
+    },
+    {
+      "album": {
+        "name": "MENTE EN BLANCO",
+        "url": "https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154961,
+      "name": "MENTE EN BLANCO",
+      "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
     },
     {
       "album": {
@@ -36577,6 +36613,24 @@
     },
     {
       "album": {
+        "name": "Solida",
+        "url": "https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Solida",
+      "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
+    },
+    {
+      "album": {
         "name": "PROYECTO A-KLEIN",
         "url": "https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k"
       },
@@ -37882,7 +37936,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"

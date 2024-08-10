@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-790 songs - 1 day 21 hr 17 min
+791 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 | 2023-07-06 |
 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 | 2024-02-09 | 2024-05-01 |
+| [Ignite](https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ignite](https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD) | 2:53 | 2024-08-09 |  |
 | [Ignite](https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Ignite](https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR) | 3:16 | 2023-08-29 | 2023-12-14 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
 | [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 | 2024-06-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Freddie D.",
+  "description": "n\u00fc-metal revival is happening here and now with Silly Goose",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 206086,
       "name": "King Of The Hill",
       "url": "https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL"
@@ -2623,6 +2623,28 @@
     },
     {
       "album": {
+        "name": "T.I.T.P.",
+        "url": "https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r"
+      },
+      "artists": [
+        {
+          "name": "REDDSTAR",
+          "url": "https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK"
+        },
+        {
+          "name": "Dropout Kings",
+          "url": "https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "T.I.T.P.",
+      "url": "https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD"
+    },
+    {
+      "album": {
         "name": "HYPERVIOLENCE",
         "url": "https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX"
       },
@@ -2822,6 +2844,24 @@
       "duration_ms": 249728,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224924,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9238,
+  "num_followers": 9231,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2024-08-05 09:34:01",
       "album": {
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4"
+    },
+    {
+      "added_at": "2024-08-05 09:34:01",
+      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/0t8BYpDMceb2cfEdHYwXhP"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 179000,
       "name": "Alone (Feat. LeeHi)",
       "url": "https://open.spotify.com/track/2SSbQoEqPHu6qAgi3pFobY"
-    },
-    {
-      "added_at": "2024-08-05 09:34:01",
-      "album": {
-        "name": "2NE1 1st Mini Album",
-        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2EwOnaGCrPjbmyZlt76NN4"
     },
     {
       "added_at": "2024-08-05 09:34:01",
@@ -379,26 +379,6 @@
     {
       "added_at": "2024-08-05 09:34:01",
       "album": {
-        "name": "Wifey",
-        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
-    },
-    {
-      "added_at": "2024-08-05 09:34:01",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 182346,
       "name": "Right Now (Feat. Crush)",
       "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+    },
+    {
+      "added_at": "2024-08-05 09:34:01",
+      "album": {
+        "name": "Wifey",
+        "url": "https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Wifey",
+      "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
     },
     {
       "added_at": "2024-08-05 09:34:01",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-08-05 09:34:01",
       "album": {
+        "name": "Life is Wet",
+        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Life is Wet",
+      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2024-08-05 09:34:01",
+      "album": {
         "name": "Action!",
         "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 197938,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2024-08-05 09:34:01",
-      "album": {
-        "name": "Life is Wet",
-        "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Life is Wet",
-      "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
     },
     {
       "added_at": "2024-08-05 09:34:01",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-08-05 09:34:01",
       "album": {
-        "name": "OHAYO MY NIGHT",
-        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
-      },
-      "artists": [
-        {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        },
-        {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "OHAYO MY NIGHT",
-      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
-    },
-    {
-      "added_at": "2024-08-05 09:34:01",
-      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2hDC3CbocIjSSFo7wrc62f"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 224526,
       "name": "GONE",
       "url": "https://open.spotify.com/track/2fzucOTof4pxCDG6u8iiGY"
+    },
+    {
+      "added_at": "2024-08-05 09:34:01",
+      "album": {
+        "name": "OHAYO MY NIGHT",
+        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
+      },
+      "artists": [
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        },
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
     },
     {
       "added_at": "2024-08-05 09:34:01",

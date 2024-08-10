@@ -1125,6 +1125,28 @@
     },
     {
       "album": {
+        "name": "Evergreen (feat. Caamp)",
+        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177512,
+      "name": "Evergreen (feat. Caamp)",
+      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+    },
+    {
+      "album": {
         "name": "Evergreen (You Didn't Deserve Me At All) [Stripped]",
         "url": "https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2"
       },
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171021,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE"
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 127000,
       "name": "Heather On The Hill - Acoustic Version",
       "url": "https://open.spotify.com/track/1EM1LtvbdqXKU8Gf05aopw"
@@ -3717,6 +3739,28 @@
     },
     {
       "album": {
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
+    },
+    {
+      "album": {
         "name": "RUNAWAY (Acoustic)",
         "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
       },
@@ -4216,7 +4260,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151705,
       "name": "STRINGS (feat. JVKE & Bazzi) - Stripped Version",
       "url": "https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk"
@@ -4752,6 +4796,24 @@
       "duration_ms": 188200,
       "name": "When You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/3KrfUt1cYSbkBpstlITPkp"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

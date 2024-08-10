@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 2302,
+  "num_followers": 2332,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -919,42 +919,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "C14TORCE IV",
-        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "C14TORCE IV",
-      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Mi Llamada (Remix)",
         "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
@@ -991,6 +955,42 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "C14TORCE IV",
+        "url": "https://open.spotify.com/album/4VYevg4fdLHmRiEvDtRIEY"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "C14TORCE IV",
+      "url": "https://open.spotify.com/track/2rSjMzTh9CPqaFMQMZJy0s"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Lo 100to",
         "url": "https://open.spotify.com/album/7L8uuFGSNjnHX5uwxWXHTM"
       },
@@ -1515,26 +1531,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj"
-      },
-      "artists": [
-        {
-          "name": "Denilson",
-          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "GRACIAS POR NADA",
         "url": "https://open.spotify.com/album/1dqTVJ6xNIAG1GQZ7PGssr"
       },
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "No Puedo Fingir",
-        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Denilson",
+          "url": "https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
         }
       ],
-      "duration_ms": 164352,
-      "name": "No Puedo Fingir",
-      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
+      "duration_ms": 181800,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1663,6 +1663,30 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Tus Dudas",
+        "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Elmabel",
+          "url": "https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Tus Dudas",
+      "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "Te Olvidaste",
         "url": "https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB"
       },
@@ -1687,30 +1711,6 @@
       "duration_ms": 196858,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Tus Dudas",
-        "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        },
-        {
-          "name": "Elmabel",
-          "url": "https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr"
-        },
-        {
-          "name": "Rodridi",
-          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Tus Dudas",
-      "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
     },
     {
       "added_at": "2024-07-26 04:59:00",

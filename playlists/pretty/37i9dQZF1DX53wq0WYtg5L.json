@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 551099,
+  "num_followers": 551080,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 149289,
-      "name": "Toro Relajo",
-      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Pepe Aguilar con Tambora",
         "url": "https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 137108,
       "name": "La Vaquilla Colorada",
       "url": "https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 149289,
+      "name": "Toro Relajo",
+      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 322168,
-      "name": "Popurr\u00ed de Sones",
-      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 178386,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 322168,
+      "name": "Popurr\u00ed de Sones",
+      "url": "https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2NWbP3D49SbIgp2U9I84yj"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 136493,
-      "name": "Gavilancito Sangre Cruzada",
-      "url": "https://open.spotify.com/track/4qKnjzcIukPfpquVZW8Lnw"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 176386,
       "name": "El Caporal de Chihuahua",
       "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2NWbP3D49SbIgp2U9I84yj"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 136493,
+      "name": "Gavilancito Sangre Cruzada",
+      "url": "https://open.spotify.com/track/4qKnjzcIukPfpquVZW8Lnw"
     },
     {
       "added_at": "2024-07-11 15:45:34",

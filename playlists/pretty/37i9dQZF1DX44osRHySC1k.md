@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,342 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,339 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 44 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 45 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
 | 46 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 |
-| 47 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
+| 47 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
 | 48 | [My Sleeping Rose](https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [My Sleeping Rose](https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w) | 2:07 |
-| 49 | [Quiet Nights](https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:06 |
+| 49 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
 | 50 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
 | 51 | [REM Phase](https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8) | [Meditation Music Zone](https://open.spotify.com/artist/7zwiFdY90oXzLh1Wz22oEq) | [Deep Meditation 50: Relaxation & Sleep, Yoga, Meditation, Massage, Healing Music with Nature Sounds](https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2) | 4:09 |
 | 52 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 62 | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/track/2hkPUEsERVGoI4DxfZjUj5) | [Yue Yan Jen](https://open.spotify.com/artist/4MBwj0QO9m7CS0pHBfhrkU) | [梦蝶 \- Dream to be a butterfly](https://open.spotify.com/album/4j2aVL8FxwYDS92E0yyUbg) | 2:40 |
 | 63 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
 | 64 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
-| 65 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
-| 66 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
+| 65 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
+| 66 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
 | 67 | [Linger](https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL) | [Alexander Molina](https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW) | [Linger](https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI) | 2:43 |
 | 68 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 |
 | 69 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 92 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 |
 | 93 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
 | 94 | [Bliss](https://open.spotify.com/track/5ZfQjYCKtLZZR7e5PAFTgM) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/6YyNx799ExMH8D18jFkpbI) | 7:25 |
-| 95 | [Where's My Love \- Piano Solo](https://open.spotify.com/track/59lUvVUixyLmC3u9kSIU1Y) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/3nB2ynDft4qV8kuP4zkQB4) | 4:34 |
-| 96 | [Sound of Invisible Waters](https://open.spotify.com/track/4O20FRyWVCr4t6bl3Xxvsj) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf) | 9:32 |
+| 95 | [Sound of Invisible Waters](https://open.spotify.com/track/4O20FRyWVCr4t6bl3Xxvsj) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Koyasan: Reiki Sound Healing](https://open.spotify.com/album/4iVHdg8bb5lkUZGhAbwVCf) | 9:32 |
+| 96 | [Where's My Love \- Piano Solo](https://open.spotify.com/track/59lUvVUixyLmC3u9kSIU1Y) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/3nB2ynDft4qV8kuP4zkQB4) | 4:34 |
 | 97 | [Mother's Wingspan](https://open.spotify.com/track/58j7x742K2P6jhthofQwBp) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 8:33 |
 | 98 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/7wY3h2bJXXAVEI3KHuzHmi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland / Forever Song \(Solo Piano Version\)](https://open.spotify.com/album/6vzzFnlj1almQsBqBz0la9) | 2:41 |
 | 99 | [As We Believed](https://open.spotify.com/track/0YS2Iy9JTHWVm4ros9DRJI) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/3KpbGfC4zBlggH4aOWjHZ5) | 4:07 |

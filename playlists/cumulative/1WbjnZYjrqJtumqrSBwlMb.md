@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-980 songs - 2 day 12 hr 12 min
+982 songs - 2 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2023-04-03 |  |
 | [Sideline Story](https://open.spotify.com/track/5pIn0ZiclQOMzoFUlgDY0f) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:57 | 2023-03-23 |  |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2024-04-29 |  |
+| [SIN MIEDO](https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:46 | 2024-08-10 |  |
 | [Sisyphus](https://open.spotify.com/track/3Fck3nrjmTedqrT9GTTehP) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 4:32 | 2021-04-14 |  |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2022-08-06 |  |
 | [Skin and Bones](https://open.spotify.com/track/4CZgQq8KJYWGh1bM3sqGmd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:34 | 2022-06-05 |  |
@@ -922,6 +923,7 @@
 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 | 2022-01-21 |  |
 | [Vignette](https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 | 2024-05-23 |  |
 | [Violent Crimes](https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:35 | 2021-07-28 |  |
+| [vulgar display of power](https://open.spotify.com/track/1Z0FllHuwKceEa9wRJKTku) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:52 | 2024-08-10 |  |
 | [VULTURES](https://open.spotify.com/track/4202KkXGtULRsbRocWSw09) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:36 | 2024-02-10 | 2024-05-20 |
 | [VULTURES](https://open.spotify.com/track/4fFHFp2cadSc397kr5wPbx) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [VULTURES](https://open.spotify.com/album/2mT5CGX436a2WbCUMuR20Y) | 4:36 | 2024-02-08 |  |
 | [VULTURES \- Havoc Version](https://open.spotify.com/track/1AmRnoLEaq7E38IlFDjQRl) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [VULTURES PACK](https://open.spotify.com/album/28pcV1bRvJ8WoVDFcF2Rl9) | 4:24 | 2024-02-09 |  |

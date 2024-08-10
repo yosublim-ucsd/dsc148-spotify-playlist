@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 197706,
+  "num_followers": 197762,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAByoFc2iLGed7A1iR192fdH",
+  "snapshot_id": "ZrQKgAAAAACVCIn5y8w81sKGOVEiOKNj",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 194133,
       "name": "Underclass Hero",
       "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Jessica Kill",
-      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 286373,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Jessica Kill",
+      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
     },
     {
       "added_at": null,

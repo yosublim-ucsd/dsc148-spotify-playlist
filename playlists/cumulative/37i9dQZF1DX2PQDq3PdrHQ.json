@@ -262,7 +262,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152000,
       "name": "a night to remember",
       "url": "https://open.spotify.com/track/7LxD5ps1MIhhLDB5SHR7m5"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179500,
       "name": "Crowds",
       "url": "https://open.spotify.com/track/0LdHDQyxnjOZIRFrW9ya53"
@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Helio Ballon",
+        "url": "https://open.spotify.com/album/7gEWyUsO9QZzCcv2KvfHcN"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Helio Ballon",
+      "url": "https://open.spotify.com/track/2QTYIMZ8rQ06lkMijfpb9b"
+    },
+    {
+      "album": {
         "name": "her eyes",
         "url": "https://open.spotify.com/album/31MyEUNIgVzT3kibYCaLBs"
       },
@@ -5526,7 +5544,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160441,
       "name": "In a Movie",
       "url": "https://open.spotify.com/track/4OUAPh56ulVaZxJjh4JviP"
@@ -6422,7 +6440,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 112207,
       "name": "Let's Move",
       "url": "https://open.spotify.com/track/5nDqeyoH3vlNFJY1uhHTYI"
@@ -7298,6 +7316,28 @@
       "duration_ms": 120612,
       "name": "Me, I'm Counting",
       "url": "https://open.spotify.com/track/0RuEzjOG0rzEx7wGhhxKdP"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
+      },
+      "artists": [
+        {
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "album": {
@@ -8868,7 +8908,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160000,
       "name": "Off In The Distance",
       "url": "https://open.spotify.com/track/2DlcixBEbVoU3JcGsjwaFT"
@@ -9006,7 +9046,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152030,
       "name": "oolong musk",
       "url": "https://open.spotify.com/track/7tb8LslP3BKAT1SDnpgvVa"
@@ -10136,7 +10176,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 138663,
       "name": "roamwave",
       "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
@@ -10626,7 +10666,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193714,
       "name": "shaman dreams again",
       "url": "https://open.spotify.com/track/0ma4paR3UywyIlTzceEtOR"
@@ -11972,7 +12012,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 127500,
       "name": "Sundown Chill",
       "url": "https://open.spotify.com/track/2Cokpifmi3nuz1N7NWcryd"
@@ -12856,7 +12896,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144000,
       "name": "totoro",
       "url": "https://open.spotify.com/track/0lBF1BteJu33MjTtN9OcHa"

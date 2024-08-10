@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > HARD Summer 2K24 has entered the chat\. Spanning every genre of dance music, and some of the finest up & coming selectors, there's nothing like LA's biggest party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,722 likes - 58 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,711 likes - 58 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 17 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 18 | [In My Hands](https://open.spotify.com/track/7q6jGl6Cx8KQoSygglNgj4) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [HARD Summer 2024](https://open.spotify.com/album/7h7PgEkuj1ePzoOEL0XLdO) | 3:40 |
 | 19 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 |
-| 20 | [Shallow Water \- Club Mix](https://open.spotify.com/track/0bJpKkUSRTVRS6crcdH9LQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water \(Club Mix\)](https://open.spotify.com/album/7iC0tylF48VvOWBvJjBtqa) | 3:10 |
+| 20 | [Shallow Water \- Club Mix](https://open.spotify.com/track/0bJpKkUSRTVRS6crcdH9LQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water \- Club Mix](https://open.spotify.com/album/7iC0tylF48VvOWBvJjBtqa) | 3:10 |
 | 21 | [Apache](https://open.spotify.com/track/0PRE8kPOBGONzyYMXz4BzF) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [HARD Summer 2024](https://open.spotify.com/album/7h7PgEkuj1ePzoOEL0XLdO) | 2:36 |
 | 22 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 |
 | 23 | [Westside](https://open.spotify.com/track/27WthxZR20aI47qFU8x9Dp) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [HARD Summer 2024](https://open.spotify.com/album/7h7PgEkuj1ePzoOEL0XLdO) | 2:56 |

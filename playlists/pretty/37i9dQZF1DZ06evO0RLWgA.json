@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 47959,
+  "num_followers": 47971,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACKvH22kgonC/VnUK8bQ+fs",
+  "snapshot_id": "ZrQKgAAAAAA0bm9OuEqHnrDFddfjmUDs",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Serves You Right To Suffer",
         "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 145760,
       "name": "Bottle Up & Go",
       "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -419,6 +435,22 @@
       "duration_ms": 296733,
       "name": "Ali D'Oro",
       "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Backbiters And Syndicaters",
+      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
     },
     {
       "added_at": null,
@@ -443,38 +475,6 @@
       "duration_ms": 341600,
       "name": "The Blues Medley",
       "url": "https://open.spotify.com/track/4iX3VpT5WSW39gRmbaOqvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "Backbiters And Syndicaters",
-      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": null,
@@ -534,11 +534,15 @@
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Kiddio (2007 - Remaster)",
-      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
+      "duration_ms": 386973,
+      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
+      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
     },
     {
       "added_at": null,
@@ -598,15 +602,11 @@
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 386973,
-      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
-      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
+      "duration_ms": 191266,
+      "name": "Kiddio (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "It Serves Me Right",
-      "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
         "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 137920,
       "name": "Big Legs, Tight Skirt",
       "url": "https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "It Serves Me Right",
+      "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145551,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 266533,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travelin'",
-        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145551,
-      "name": "No Shoes",
-      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167335,
+      "name": "Drug Store Woman",
+      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 203626,
       "name": "Messin' With The Hook",
       "url": "https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167335,
-      "name": "Drug Store Woman",
-      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
     },
     {
       "added_at": null,

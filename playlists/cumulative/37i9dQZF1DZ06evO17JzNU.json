@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
+  "description": "This Is Los Gemelos De Sinaloa. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Gemelos De Sinaloa",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 168019,
       "name": "AZULES",
       "url": "https://open.spotify.com/track/3Vm0Ug2mKx5zsWUBO7TCyI"
+    },
+    {
+      "album": {
+        "name": "Bikini Dior",
+        "url": "https://open.spotify.com/album/25s553TzfBrDz4GgAo3etU"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Bikini Dior",
+      "url": "https://open.spotify.com/track/0wZiACJz2BQaEvfFmHdagZ"
     },
     {
       "album": {

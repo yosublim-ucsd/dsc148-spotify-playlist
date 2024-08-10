@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-112 songs - 7 hr 11 min
+113 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Amanhã](https://open.spotify.com/track/4vZrmDFysiHR2gUORSfpvM) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [Amanhã](https://open.spotify.com/album/11WpvblIjfo4CQN04AtDhu) | 3:25 | 2024-01-12 |  |
 | [Anita's Dream](https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Anita's Dream](https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b) | 3:07 | 2023-11-17 |  |
 | [As Irrational As Love](https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [As Irrational As Love](https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v) | 3:44 | 2024-01-12 |  |
+| [Astra](https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Astra](https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM) | 4:23 | 2024-08-09 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2023-05-11 |  |
 | [Beatriz](https://open.spotify.com/track/6LyuSgzToMUYVf6ebce8CJ) | [The Cloud](https://open.spotify.com/artist/5XxGygPJsu9sVpxe4R97k9) | [Beatriz](https://open.spotify.com/album/76KMP8gBAdDM04PCSvmXnW) | 3:47 | 2024-03-08 |  |
 | [Belém](https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Belém](https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H) | 2:53 | 2023-12-08 |  |

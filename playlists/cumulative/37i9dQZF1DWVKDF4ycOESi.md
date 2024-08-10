@@ -4,7 +4,7 @@
 
 > J Balvin in cover + le migliori uscite di questa settimana!
 
-1,419 songs - 2 day 22 hr 53 min
+1,421 songs - 2 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,6 +524,7 @@
 | [GUARDAMI NEGLI OCCHI](https://open.spotify.com/track/4z0TQHbnMAuwqhcmeLHD9i) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [SOTTOSOPRA ༝](https://open.spotify.com/album/7F14fLaQK6FeKH7OCKCOTD) | 2:21 | 2024-06-13 | 2024-06-21 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2024-08-09 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-08-02 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 |  |
 | [Hai mai](https://open.spotify.com/track/2gzUFGfRPJsWfgwe43AJYg) | [Brown](https://open.spotify.com/artist/0Q4V6DfjCMP0AYZvErnC2V), [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [Hai mai](https://open.spotify.com/album/1IA9i3CYiaDOJ7bIM7kIgX) | 2:52 | 2024-06-20 | 2024-06-28 |
 | [HALA/GARA](https://open.spotify.com/track/6QDS0zEx9niX6dOk5vZTA7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [ZÉPECK](https://open.spotify.com/album/5D1zbHAbSFYJqR0zIVrvAH) | 2:57 | 2024-07-11 | 2024-07-19 |
 | [HALLELUJA](https://open.spotify.com/track/1nCKE8Cs7KnTyBvuMtDQPp) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [HALLELUJA](https://open.spotify.com/album/7iWDxRiP5GiuZORofNUhUw) | 2:58 | 2024-05-09 | 2024-05-17 |
@@ -879,6 +880,7 @@
 | [Niente come te](https://open.spotify.com/track/1UF0avM3gYfFttKAexuKVH) | [MARTINA](https://open.spotify.com/artist/4HdGvAHeQqqez8NI7PmrWx) | [Niente come te](https://open.spotify.com/album/6LmlhLhKeWpDgzzQ6IO2F7) | 2:53 | 2024-05-02 | 2024-05-10 |
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-11 | 2024-07-19 |
 | [Niente di speciale](https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy) | [Santamarya](https://open.spotify.com/artist/21KDEhlB91nNVLCeUr3Rx0) | [Niente di speciale](https://open.spotify.com/album/2koptZ6UdppJIRrgXfLSo8) | 3:26 | 2024-07-04 | 2024-07-12 |
+| [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 | 2024-08-09 |  |
 | [NIRVANA \(feat\. Evra & Ernvss\)](https://open.spotify.com/track/3vzHw9uFJNbJDxI1i4XjjI) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [NIRVANA \(feat\. Evra & Ernvss\)](https://open.spotify.com/album/3gpFFqGGAPba2wQLjR6TC3) | 3:17 | 2024-06-06 | 2024-06-14 |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-05-02 | 2024-05-10 |
 | [NO JECKERSON](https://open.spotify.com/track/5dVqhGtNTeLOBxMeVQ2lYv) | [Sicko Myers](https://open.spotify.com/artist/7FJQ9maA8rbbj0Z6zV63IO) | [NO JECKERSON](https://open.spotify.com/album/4jzKmEy05gvaGLafp9IAPq) | 1:47 | 2024-07-18 | 2024-07-27 |

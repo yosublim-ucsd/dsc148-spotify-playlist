@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 128770,
+  "num_followers": 128773,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABb2aWhQo6L8TWUcjLJ8k/q",
+  "snapshot_id": "ZrQKgAAAAABN+h3TwZP/+fxgsBB4CEIp",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Berry's",
-        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 136546,
-      "name": "My Mustang Ford",
-      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 136546,
+      "name": "My Mustang Ford",
+      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Reelin' And Rockin'",
-      "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 270293,
       "name": "Oh Louisiana",
       "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Reelin' And Rockin'",
+      "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny",
+      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chuck Berry Twist",
         "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122533,
-      "name": "Bye Bye Johnny",
-      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 161893,
       "name": "Flying Home - Live At Fillmore Auditorium, San Francisco, CA/1967",
       "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bio",
         "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 264386,
       "name": "Bio",
       "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,

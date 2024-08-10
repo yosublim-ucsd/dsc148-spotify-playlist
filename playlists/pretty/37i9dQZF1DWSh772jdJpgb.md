@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSh772jdJpgb.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Stories with Just the Nobody's, Brown Bag, Scottie & Sylvia and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,774 likes - 33 songs - 1 day 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,772 likes - 33 songs - 1 day 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

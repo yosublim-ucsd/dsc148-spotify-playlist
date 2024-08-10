@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-596 songs - 1 day 6 hr 19 min
+598 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Don't Look Back In Anger](https://open.spotify.com/track/1wSjtNZH4XRBU0KpjrYIYB) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Don't Look Back In Anger](https://open.spotify.com/album/4oHlMLyej1Sb1UPvoDCezc) | 3:46 | 2022-12-02 | 2023-06-03 |
 | [Don't You Worry Child](https://open.spotify.com/track/3J7sFURDzIfnRmyLW8xAzF) | [Steve Dawson](https://open.spotify.com/artist/0k7ltXZL0tbVfeO3Qhp21c) | [Don't You Worry Child](https://open.spotify.com/album/3lkTUg2cqPr4Mqt4uXienx) | 3:38 | 2023-05-12 |  |
 | [Don´t Speak](https://open.spotify.com/track/4dHbpaYpTfoms8zFBLjJxC) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Don´t Speak](https://open.spotify.com/album/5F0qAUqoTQZbhjfyDkRyIx) | 3:42 | 2023-12-08 |  |
+| [Don’t stop me now](https://open.spotify.com/track/1auQkWPjDjIRXhch3hpIsc) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Don’t stop me now](https://open.spotify.com/album/4g2jAAdcnEzrYtjtD7SORm) | 2:42 | 2024-08-09 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/6xIidCUt8vNnGHYfXH9hVU) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Dream A Little Dream Of Me](https://open.spotify.com/album/482fvXp5PuWSHqR01zR0xd) | 3:15 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
 | [Drivers License](https://open.spotify.com/track/2EdN4I7srUp7OOkNwXBZwm) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Drivers License](https://open.spotify.com/album/0Xnu91s6VhpY12MAPCX7Kj) | 3:14 | 2024-06-07 |  |
@@ -167,6 +168,7 @@
 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-01-21 | 2022-10-15 |
 | [Fields Of Gold](https://open.spotify.com/track/3tPbXeqDlpliZNNaCzNC6K) | [Scarlet Patel](https://open.spotify.com/artist/6Iqj1M1NzaOzIE4d5vCcM4) | [Fields Of Gold](https://open.spotify.com/album/50QiC76tE4Y61Q8il5aC2M) | 1:57 | 2022-09-30 | 2023-03-18 |
 | [Fields Of Gold](https://open.spotify.com/track/3pajXCqOSkwgTIBXZEauQD) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Fields Of Gold](https://open.spotify.com/album/740iE8dch9vJaHW9OeNSbv) | 3:24 | 2022-01-21 | 2022-10-15 |
+| [Firework](https://open.spotify.com/track/6kFILBBiac062EAoYXhy9v) | [Sandra Turner](https://open.spotify.com/artist/0AbxEThob5FBDkb4K6MX9q) | [Firework](https://open.spotify.com/album/2kvM4gLHmeglBs7Rxqn7Tb) | 3:36 | 2024-08-09 |  |
 | [Fix You](https://open.spotify.com/track/5dkN1lmO0Qc9tr7zIDsvrq) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Fix You](https://open.spotify.com/album/237VpOpUlxSe4UQJ2d9xSr) | 2:51 | 2023-04-14 | 2023-06-03 |
 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 | 2023-12-08 |  |
 | [Fix You](https://open.spotify.com/track/3ForPcmt7W2jUTqgGjyKAN) | [Raphaela Esquelas](https://open.spotify.com/artist/7pd3yh8h1rD9x8POMkzkgg) | [Fix You](https://open.spotify.com/album/428DgqAtnVbbJhVKmcZ2Fl) | 3:39 | 2022-01-21 | 2022-12-02 |
@@ -360,7 +362,7 @@
 | [My Girl](https://open.spotify.com/track/4wye421ZuzNnDkriGPzp8j) | [River May](https://open.spotify.com/artist/6oTUPROiaMgKm92kbxRXyR) | [My Girl](https://open.spotify.com/album/6dNpdBtcDpYkF3rjMe3fx6) | 1:59 | 2022-10-28 | 2023-02-10 |
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-04-14 |  |
 | [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 | 2024-01-19 |  |
-| [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-02 |  |
+| [My Romance](https://open.spotify.com/track/2rWqBm1Hs2rbw8rzJpDD71) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [My Romance](https://open.spotify.com/album/1Q8e34UABF8CKhX8sZSIe7) | 2:43 | 2022-12-02 | 2024-08-10 |
 | [Mystery Of Love](https://open.spotify.com/track/5iAtsXItE1NUh8SbDaEzSQ) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Mystery Of Love](https://open.spotify.com/album/4tmM2JSI4iIYn7r1Kdse8M) | 3:44 | 2023-02-24 |  |
 | [Night Changes](https://open.spotify.com/track/5PgHmtuPjhreShfiZXK6mH) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Night Changes](https://open.spotify.com/album/0XScF6kh4dPuFX757xUyZF) | 3:23 | 2023-11-17 |  |
 | [Nights in white satin](https://open.spotify.com/track/2j8e5FzNDN1Qs0mAcCUzgN) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Nights in white satin](https://open.spotify.com/album/4PO6LHupf2iLLOP13enrOl) | 2:06 | 2023-09-22 |  |
@@ -476,7 +478,7 @@
 | [Talking To The Moon](https://open.spotify.com/track/7wtsP54umUm3MvvdRWBOrU) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Talking To The Moon](https://open.spotify.com/album/36kCoY0H6FV0aKKIMefH7r) | 3:09 | 2023-03-17 |  |
 | [Tattoo](https://open.spotify.com/track/1c5cSzqSCGLf2YfbBsoUUY) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Tattoo](https://open.spotify.com/album/6gTf9Fn2UixItSmFgWdfua) | 3:29 | 2023-04-14 | 2023-06-03 |
 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 | 2022-05-02 | 2024-07-13 |
-| [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 |  |
+| [Thank You For The Music](https://open.spotify.com/track/5ulQSckssGmu09iyxlgCYc) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Thank You For The Music](https://open.spotify.com/album/4CJ1FrArr8OwNTKIYryekH) | 3:26 | 2023-01-06 | 2024-08-10 |
 | [That's The Way It Is](https://open.spotify.com/track/4xMDyCESzvK2wNxeslM8M5) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Céline Piano Covers](https://open.spotify.com/album/7nJe5fPZkiHCxQ4OPGuj8k) | 2:44 | 2023-03-24 |  |
 | [That's What Friends Are For](https://open.spotify.com/track/33XiutcUojrArf3R2GWCfO) | [Colton Rhodes](https://open.spotify.com/artist/2s0UVTXzeFVuHYKKYcJNbk) | [That's What Friends Are For](https://open.spotify.com/album/51pZa7LkBM5SopdpL4LlXi) | 3:04 | 2023-05-12 | 2023-06-09 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/2291OZxZ4Ra3FNKDhljgBr) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [CUFF IT](https://open.spotify.com/album/4yU9HvloC2VTTKnTqlNT4P) | 3:19 | 2023-03-17 | 2023-06-03 |

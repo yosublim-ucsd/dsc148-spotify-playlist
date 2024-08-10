@@ -2,26 +2,29 @@
 
 ### [Brillas](https://open.spotify.com/playlist/37i9dQZF1DX7yaR5d7FkNX)
 
-> ✨❤️🌹Para Rocanlovers en compañía de Peces Raros
+> ✨❤️🌹Para Rocanlovers en compañía de León Larregui
 
-244 songs - 14 hr 52 min
+247 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 | 2022-01-28 | 2023-07-01 |
 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 | 2022-04-26 |  |
+| [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 | 2024-08-09 |  |
 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 | 2023-04-24 | 2023-07-01 |
 | [Abismo](https://open.spotify.com/track/05jqbc1rLQEO7ChyHBmE6V) | [Costa Felina](https://open.spotify.com/artist/742Og7D5C7u1USoNJHNiOT) | [Abismo](https://open.spotify.com/album/4F5ItUjqDeZ15OTQHd4Aky) | 3:37 | 2024-07-12 |  |
 | [Abril](https://open.spotify.com/track/1iDw6gQPCiRaXlzvnryPKh) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [La Fama](https://open.spotify.com/album/21Xq8rEbyJpRyLkvEUot7l) | 3:02 | 2022-01-28 | 2023-07-01 |
 | [Acelerar](https://open.spotify.com/track/1hP1iHCGOaA9GraLDeBt2O) | [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acelerar](https://open.spotify.com/album/0FMudSMcFuKShSYkXAApP3) | 3:22 | 2023-03-17 | 2024-08-01 |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2022-04-26 | 2023-07-01 |
 | [Acá](https://open.spotify.com/track/3f7lb7Y4YUaxQb8a0YP9Qr) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 4:10 | 2024-07-12 |  |
-| [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-05-05 |  |
+| [Adentro Brilla El Sol](https://open.spotify.com/track/2Y985lqSz23xEgUhdRZK28) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todo es Ceremonia en el Jardin Salvaje](https://open.spotify.com/album/1cwkQ7TFUp35Gju5Y7DL2L) | 3:04 | 2023-05-05 | 2024-08-10 |
 | [Al Borde del Infinito](https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Al Borde del Infinito](https://open.spotify.com/album/5MO5FGNuMfF0gWPmjk0dOC) | 4:09 | 2024-07-12 |  |
+| [Al Revés](https://open.spotify.com/track/5r8tolaXEEWIRyabeqDZZs) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [Al Revés](https://open.spotify.com/album/3WqltOe3n18x6UGOeCqynI) | 4:12 | 2024-08-09 |  |
 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 | 2023-04-14 | 2024-08-01 |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2022-01-28 |  |
 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 | 2022-01-28 |  |
 | [Alucinante](https://open.spotify.com/track/7gkw2rnb9fr0jFibCEjeTK) | [Monte Casino](https://open.spotify.com/artist/5ar40BBA3PLuS5Ac8D8zon), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Alucinante](https://open.spotify.com/album/2zFnVvMJjnuqG8bTLSdcDg) | 2:37 | 2022-01-28 | 2023-07-01 |
+| [Amantes \- Tayrell Remix](https://open.spotify.com/track/5Vgtlq0kIHccpzQQEJXfLw) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Mixarama \(No\. 3\)](https://open.spotify.com/album/6gUtonk9lKhnOq6ah82XHH) | 3:43 | 2024-08-09 |  |
 | [Amar No Es Poseer](https://open.spotify.com/track/3MhHgwjIvlWhg64zcwJlhx) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Amar No Es Poseer](https://open.spotify.com/album/2KO7mImTyuul1RLM8XRb1m) | 3:19 | 2022-04-26 | 2023-11-25 |
 | [Amarrado](https://open.spotify.com/track/1IGP8u0IJoytYEtqupjpTi) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:05 | 2022-04-26 |  |
 | [Amigos](https://open.spotify.com/track/187MoZm4r1N74DjImP9v3x) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 4:27 | 2022-04-26 | 2023-07-01 |
@@ -92,7 +95,7 @@
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2022-01-28 |  |
 | [En Años Luz](https://open.spotify.com/track/2HtmGWcpIJBgO8GVpjfbl2) | [Rock And Lovers](https://open.spotify.com/artist/18f0fAWI5vioFhhwzz3UEF) | [En Años Luz](https://open.spotify.com/album/1FELRgnG6G1igkp59ooXEe) | 3:45 | 2022-03-18 | 2023-11-25 |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 | 2024-05-14 |
-| [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 |  |
+| [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 | 2024-08-10 |
 | [Encrucijada](https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [Encrucijada](https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX) | 3:39 | 2023-04-24 | 2023-07-01 |
 | [Era Primavera](https://open.spotify.com/track/78uQdQG1eaqC78z8g5Lecj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Era Primavera](https://open.spotify.com/album/6neGV0F44OSV979QtmColK) | 4:11 | 2024-03-04 | 2024-03-30 |
 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 | 2022-01-28 | 2023-07-01 |
@@ -215,7 +218,7 @@
 | [Satélites](https://open.spotify.com/track/4ZkDM3luQLAL8oXmDUHbuh) | [Depressiego](https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD) | [Satélites](https://open.spotify.com/album/7KE8OXh0yBO1VdP7XIsQ5r) | 3:19 | 2023-05-12 |  |
 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 | 2024-06-28 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 | 2023-07-01 |
-| [Ser Humano \(Pies Extraños\)](https://open.spotify.com/track/2d2HXApLEJdHVppOfUhkQ7) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Lonely Dinosaurio](https://open.spotify.com/album/3HlXOARhQkhD8NfCXnt7Ai) | 2:54 | 2023-04-28 |  |
+| [Ser Humano \(Pies Extraños\)](https://open.spotify.com/track/2d2HXApLEJdHVppOfUhkQ7) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Lonely Dinosaurio](https://open.spotify.com/album/3HlXOARhQkhD8NfCXnt7Ai) | 2:54 | 2023-04-28 | 2024-08-10 |
 | [Siento La Noche \(Hale\-Bopp, 1997\)](https://open.spotify.com/track/6wYlkFiOhd35Q4dOloZXTu) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY), [Rodrigo Guardiola](https://open.spotify.com/artist/4GqajRF5SFfl0R9pDrEExP) | [Siento La Noche \(Hale\-Bopp, 1997\)](https://open.spotify.com/album/23t9rWllkrn5jQmAwlc2mu) | 3:36 | 2024-05-13 |  |
 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 | 2022-01-28 |  |
 | [Sobre Natural](https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Sobre Natural](https://open.spotify.com/album/4plALexvYJjioZhfvh47PA) | 3:25 | 2022-04-26 | 2023-02-18 |

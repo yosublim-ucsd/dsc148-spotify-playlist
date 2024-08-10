@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-443 songs - 1 day 2 hr 5 min
+444 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Ice & Fire](https://open.spotify.com/track/440ldYsqevrNXmwwj9DD2B) | [King Canyon](https://open.spotify.com/artist/78mhiIF6AMT9bmfDp1P9NV), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN) | [Ice & Fire](https://open.spotify.com/album/1xauUnaLc4Baj0MmUbEggs) | 4:04 | 2022-12-02 | 2024-06-01 |
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 |  |
 | [In The Morning](https://open.spotify.com/track/5VJYx5pWH1Xqc3ZYf18L4E) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [In The Morning](https://open.spotify.com/album/0npcY0CbZwg7I7xyHZSmQf) | 4:00 | 2024-05-03 |  |
+| [Into the Night](https://open.spotify.com/track/7GStnyZffPUZaJpe27bmDx) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Into the Night](https://open.spotify.com/album/5rX9FsDuGiUXGdZnklcgQn) | 3:53 | 2024-08-09 |  |
 | [Is There Any Love](https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Twin Shadow](https://open.spotify.com/album/4QZCgxTBUhyILi8vxR4fYU) | 3:27 | 2021-07-09 | 2022-11-05 |
 | [It Feels Good To Write A Song](https://open.spotify.com/track/467adj5oe7iFD39MbA0VV6) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [It Feels Good To Write A Song](https://open.spotify.com/album/6Tn91A0aDiM5tHmgEG4Nai) | 2:58 | 2024-04-26 |  |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-29 |
@@ -256,7 +257,7 @@
 | [LOVE IN A GROOVE](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 | 2024-05-04 |
 | [LOVE IN A GROOVE](https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [The Sovereign of 14742](https://open.spotify.com/album/61ofiuSmZuRkvPc2KWNVtf) | 3:30 | 2022-11-04 | 2024-04-19 |
 | [Love Myself](https://open.spotify.com/track/14OQ9qHCNEOGiy9UryGImS) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Love Myself](https://open.spotify.com/album/2OtqYv9drYUxpKV1gpX67l) | 3:44 | 2024-06-14 |  |
-| [Love The Mystery \- Jafunk Remix](https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Love The Mystery \(Jafunk Remix\)](https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX) | 2:57 | 2024-05-10 |  |
+| [Love The Mystery \- Jafunk Remix](https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Love The Mystery \(Jafunk Remix\)](https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX) | 2:57 | 2024-05-10 | 2024-08-10 |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 | 2024-05-04 |
 | [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 |  |
 | [LOVEなシーン](https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [LOVEなシーン](https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z) | 5:19 | 2024-03-01 |  |

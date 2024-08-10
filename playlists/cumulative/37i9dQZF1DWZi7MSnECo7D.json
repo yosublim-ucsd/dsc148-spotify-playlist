@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Exclusive Os Cabides",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Matheus Who",
   "name": "alt BR",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 165013,
       "name": "2 A.M.",
       "url": "https://open.spotify.com/track/34lKWobdEGO69CULhtiREz"
+    },
+    {
+      "album": {
+        "name": "Cr\u00f4nicas casuais de Rom\u00e2nticos carism\u00e1ticos",
+        "url": "https://open.spotify.com/album/3l2OhUuzXEQQUqIMuilin1"
+      },
+      "artists": [
+        {
+          "name": "Miniguini & os \u00faltimos rom\u00e2nticos",
+          "url": "https://open.spotify.com/artist/6wHUga7t4oUQDvwegAPejo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205325,
+      "name": "2 metros de saudade",
+      "url": "https://open.spotify.com/track/6iRvhbw58qALPMFitdO0oa"
     },
     {
       "album": {
@@ -1389,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Barco a Vela",
+        "url": "https://open.spotify.com/album/75e9rU419yHJEcvC0XBaEa"
+      },
+      "artists": [
+        {
+          "name": "Quarto Vazio",
+          "url": "https://open.spotify.com/artist/6ZxobXkVVR3tVt084Jo9AT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Barco a Vela",
+      "url": "https://open.spotify.com/track/6ew3HycnoXbqHjFiVAn2Y6"
+    },
+    {
+      "album": {
         "name": "Bateria Social",
         "url": "https://open.spotify.com/album/698LkunOLkOj80zdayoiHa"
       },
@@ -1578,7 +1614,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 230400,
       "name": "Blefe, Prova, Posse",
       "url": "https://open.spotify.com/track/2vywnLvUFVsqA9KhuKsn0p"
@@ -1852,6 +1888,24 @@
       "duration_ms": 228691,
       "name": "Caboclo (Demo 2)",
       "url": "https://open.spotify.com/track/6aQVooSqc0rA0tAW5s9RZi"
+    },
+    {
+      "album": {
+        "name": "Caco",
+        "url": "https://open.spotify.com/album/2OBDrtPglyBYXsW7ss1WLk"
+      },
+      "artists": [
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Caco",
+      "url": "https://open.spotify.com/track/0DhW5Qsf3PBbIz5EfG619L"
     },
     {
       "album": {
@@ -2196,7 +2250,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 251040,
       "name": "Cerer\u00ea",
       "url": "https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp"
@@ -2655,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Copa",
+        "url": "https://open.spotify.com/album/3MQ24k5gMz8xZdM13EbrXK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Who",
+          "url": "https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237063,
+      "name": "Copa",
+      "url": "https://open.spotify.com/track/6NQFHSTsw7g6lDtWv88yCs"
+    },
+    {
+      "album": {
         "name": "Cor de Jasmim",
         "url": "https://open.spotify.com/album/2doQm73YZifzBJcTPLqpFo"
       },
@@ -2778,7 +2850,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193162,
       "name": "Curitiba",
       "url": "https://open.spotify.com/track/2OokguhlbXzig1WIE5uwFC"
@@ -3550,7 +3622,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 217661,
       "name": "Dores no Varal",
       "url": "https://open.spotify.com/track/1O5QLe2KpkGRjeasjjEQV1"
@@ -4100,7 +4172,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178378,
       "name": "Eu e a Lua",
       "url": "https://open.spotify.com/track/361ToCNpHcthhkQaPtohp4"
@@ -4198,6 +4270,24 @@
       "duration_ms": 227825,
       "name": "Eu N\u00e3o Vou Embora",
       "url": "https://open.spotify.com/track/1Jf2ajAR9tdCCVoVWc0hQY"
+    },
+    {
+      "album": {
+        "name": "eu te espero",
+        "url": "https://open.spotify.com/album/3MTbcjeg0gH0YJYmwE2YUx"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "eu te espero",
+      "url": "https://open.spotify.com/track/7va2sIn90wtZQmNWSgHc1p"
     },
     {
       "album": {
@@ -5397,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "jantar",
+        "url": "https://open.spotify.com/album/0kWp82VUzESpxSG469bQNo"
+      },
+      "artists": [
+        {
+          "name": "pedro lanches",
+          "url": "https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7"
+        },
+        {
+          "name": "bia balugani",
+          "url": "https://open.spotify.com/artist/1UPnWfEg8eRQB38APaumd1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "jantar",
+      "url": "https://open.spotify.com/track/30jc6apoAG1AGCk9MFr8T4"
+    },
+    {
+      "album": {
         "name": "Jaz uma Flor",
         "url": "https://open.spotify.com/album/1CeY970vJdP7gbt8HfXRTp"
       },
@@ -5520,7 +5632,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199611,
       "name": "lentamente",
       "url": "https://open.spotify.com/track/4ve8c7k1gugrh7cdY0TNQo"
@@ -6746,7 +6858,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182007,
       "name": "Morgar Minha Praia",
       "url": "https://open.spotify.com/track/1zala1ysApAABpxFcH8PBw"
@@ -8071,6 +8183,24 @@
     },
     {
       "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/2V6HAHc2D0ltLAgFXBtP6A"
+      },
+      "artists": [
+        {
+          "name": "Ale Sater",
+          "url": "https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186874,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/4r1EfYKnKmYvrx4VRiCKNk"
+    },
+    {
+      "album": {
         "name": "Ora\u00e7\u00e3o 18 (pra viver junto)",
         "url": "https://open.spotify.com/album/1G5SOAr5BN4J50Sa54mE3f"
       },
@@ -8235,6 +8365,24 @@
     },
     {
       "album": {
+        "name": "Parati",
+        "url": "https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV"
+      },
+      "artists": [
+        {
+          "name": "perdido",
+          "url": "https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166923,
+      "name": "Parati",
+      "url": "https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK"
+    },
+    {
+      "album": {
         "name": "Pare",
         "url": "https://open.spotify.com/album/21P7sYIcWF89cfjJYDcxo3"
       },
@@ -8268,7 +8416,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 105018,
       "name": "partida - eu corro lo-fi mix",
       "url": "https://open.spotify.com/track/5zMnl2vbs28HyE5PHat3pz"
@@ -11860,7 +12008,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189829,
       "name": "Vai Passar",
       "url": "https://open.spotify.com/track/4kjGJky3RBDFK2CiVC2wM3"
@@ -11900,6 +12048,28 @@
       "duration_ms": 229369,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3RsbQPOPalz26UnLQqBf3v"
+    },
+    {
+      "album": {
+        "name": "Valeu",
+        "url": "https://open.spotify.com/album/2RRFk6WIQkqFSRcAZmndNe"
+      },
+      "artists": [
+        {
+          "name": "Bratislava",
+          "url": "https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY"
+        },
+        {
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259370,
+      "name": "Valeu",
+      "url": "https://open.spotify.com/track/5gC1kq5eYL7hqCx2ccf0ol"
     },
     {
       "album": {

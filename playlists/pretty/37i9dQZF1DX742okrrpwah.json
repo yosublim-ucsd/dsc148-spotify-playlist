@@ -1,12 +1,12 @@
 {
   "description": "Shawn Mendes au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 350056,
+  "num_followers": 350159,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrU/4AAAAAC8VnmUVTLMGkRDJ4hhqJp7",
+  "snapshot_id": "ZrWGPAAAAAArdNT0T5xnWLCPzfERol/Z",
   "tracks": [
     {
       "added_at": "2024-08-08 22:00:00",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/6eMxS9ckdmnjkVlADrsPte"
     },
     {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
+    },
+    {
       "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Lucky (feat. Remi Wolf)",
@@ -207,6 +223,22 @@
       "duration_ms": 171940,
       "name": "X-ADV",
       "url": "https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n"
+    },
+    {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218710,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -273,6 +305,26 @@
       "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
     },
     {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Summer 2000 Baby / Take a Trip",
+        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 242410,
+      "name": "Summer 2000 Baby",
+      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
+    },
+    {
       "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "All My Life",
@@ -321,6 +373,22 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Beat Fantasy",
+        "url": "https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 187337,
+      "name": "Beat Fantasy",
+      "url": "https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa"
+    },
+    {
       "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "EL COMIENZO",
@@ -339,6 +407,22 @@
       "duration_ms": 124805,
       "name": "TU TA RIKA",
       "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
+    },
+    {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -437,6 +521,26 @@
       "url": "https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU"
     },
     {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+    },
+    {
       "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "True",
@@ -455,6 +559,26 @@
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Rest (with Sasha Alex Sloan)",
+        "url": "https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "Rest (with Sasha Alex Sloan)",
+      "url": "https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -547,6 +671,22 @@
       "duration_ms": 188863,
       "name": "Empire Service",
       "url": "https://open.spotify.com/track/1ZjwDwoRZC53PPF8W7W5q9"
+    },
+    {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Fakest Bitch",
+        "url": "https://open.spotify.com/album/1U44iGkne7rn8IiitBVO1G"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 259234,
+      "name": "Fakest Bitch",
+      "url": "https://open.spotify.com/track/3bmNNWs7JmH57YfRB6d6NR"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -669,6 +809,58 @@
       "url": "https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT"
     },
     {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Don't Get Me Started",
+        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 355733,
+      "name": "Don't Get Me Started",
+      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
+    },
+    {
+      "added_at": "2024-08-09 03:00:12",
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
       "added_at": "2024-08-08 22:00:00",
       "album": {
         "name": "Pray For Me (feat. Wyclef Jean)",
@@ -739,6 +931,38 @@
       "duration_ms": 187542,
       "name": "i think i'm in love",
       "url": "https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Mirror 25",
+        "url": "https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/5fOt4iG6Xty1zMAlUt1niy"
     },
     {
       "added_at": "2024-08-08 22:00:00",

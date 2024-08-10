@@ -1,6 +1,6 @@
 {
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
-  "num_followers": 148992,
+  "num_followers": 148983,
   "original_name": "White Christmas",
   "owner": {
     "name": "Spotify",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2023-12-16 03:21:22",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
     },
     {
       "added_at": "2023-12-16 03:21:22",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2023-12-16 03:21:22",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
-      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy"
     },
     {
       "added_at": "2023-12-16 03:21:22",

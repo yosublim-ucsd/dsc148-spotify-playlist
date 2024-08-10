@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "A Frente Do Tempo",
+        "url": "https://open.spotify.com/album/4UEVbO2YShRifxzYqWfaG5"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129933,
+      "name": "A Frente Do Tempo",
+      "url": "https://open.spotify.com/track/1uQp4JOwUjWObGdZfamId7"
+    },
+    {
+      "album": {
         "name": "Nuvens de Neon",
         "url": "https://open.spotify.com/album/5ojGjI0TqdxY2ZFGIzJn76"
       },
@@ -554,7 +576,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173571,
       "name": "A Noite \u00c9 Nossa",
       "url": "https://open.spotify.com/track/5psDcRC8PvznC9TehMzFKg"
@@ -888,7 +910,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160000,
       "name": "Alimenta a Ilus\u00e3o",
       "url": "https://open.spotify.com/track/1soE2ygCbmzKuJVTzGjPr0"
@@ -6964,7 +6986,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 202474,
       "name": "Fuma\u00e7a (feat. Veigh)",
       "url": "https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope"
@@ -8852,7 +8874,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 288973,
       "name": "Malokeragem 2",
       "url": "https://open.spotify.com/track/0AnmjiG5ulFJom8Y8RBpf3"
@@ -9596,6 +9618,36 @@
       "duration_ms": 124556,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/75zNDGCcRnQ7HgdNK4KRAh"
+    },
+    {
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Trnxtin",
+          "url": "https://open.spotify.com/artist/0OfvPvMbaGjgMclkp13k2f"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        },
+        {
+          "name": "Caio Reis",
+          "url": "https://open.spotify.com/artist/0X8NLhPGlESaU2enG4iDBR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Mem\u00f3rias",
+      "url": "https://open.spotify.com/track/6jzwGprEz2qQNggqHsxl5U"
     },
     {
       "album": {
@@ -15713,6 +15765,32 @@
     },
     {
       "album": {
+        "name": "RADAR 2050 2.0",
+        "url": "https://open.spotify.com/album/3gLAG152k2dcpZJJzOoU2f"
+      },
+      "artists": [
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "VIT\u00c3UFUG3LDS",
+          "url": "https://open.spotify.com/artist/6xrAUD8vhVgjff25UDFHrB"
+        },
+        {
+          "name": "Mineirin",
+          "url": "https://open.spotify.com/artist/2aKV7lCt1FIb79KzJX6zVu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147925,
+      "name": "T\u00e1 Tudo Normal",
+      "url": "https://open.spotify.com/track/6pFok6XPrKbZA36TcmD4cO"
+    },
+    {
+      "album": {
         "name": "T\u00e3o Linda",
         "url": "https://open.spotify.com/album/5vM7qR7a9FjM7VPtIaYkV4"
       },
@@ -15992,6 +16070,32 @@
       "duration_ms": 195000,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu"
+    },
+    {
+      "album": {
+        "name": "Vai Ser S\u00f3 Love",
+        "url": "https://open.spotify.com/album/0IFCAjKD74gwEdWWAHFJAD"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116825,
+      "name": "Vai Ser S\u00f3 Love",
+      "url": "https://open.spotify.com/track/2FtVif26wZYPLcKJKqbOXK"
     },
     {
       "album": {

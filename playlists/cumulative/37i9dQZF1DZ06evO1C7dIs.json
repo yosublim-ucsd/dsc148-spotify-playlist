@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "The Day Of...",
+        "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "The Day Of...",
+      "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
+    },
+    {
+      "album": {
         "name": "Endless Forms Most Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },

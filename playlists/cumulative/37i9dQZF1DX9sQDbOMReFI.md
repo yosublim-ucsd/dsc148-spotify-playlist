@@ -2,9 +2,9 @@
 
 ### [West Coast Classics](https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI)
 
-> The best side! Cover: Warren G
+> The best side! Cover: 213
 
-135 songs - 10 hr 2 min
+137 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ghetto Bird \- Remastered](https://open.spotify.com/track/6M3lqzrkzSKrBehkeAxTXc) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Lethal Injection](https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p) | 3:51 | 2023-12-06 |  |
 | [Gin and Juice](https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:31 | 2023-03-10 |  |
 | [Gin N Juice \(feat\. Dat Nigga Daz\)](https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 3:31 | 2022-02-11 | 2023-03-11 |
+| [Groupie Love \(feat\. 213\) \(J\. Period Remix\)](https://open.spotify.com/track/0vnFD0OUbh7EFANmaXbwgz) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [213](https://open.spotify.com/artist/6DGTVWzslFxxT7ZNEiVVHi), [J.PERIOD](https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv) | [A Tribute to the King of G\-Funk \(Deluxe Version\)](https://open.spotify.com/album/3q5tiDIMLl2HRsfbEjh5wo) | 1:44 | 2024-08-09 |  |
 | [Gz Up, Hoes Down](https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle \(30th Anniversary Edition\)](https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN) | 2:21 | 2023-12-01 | 2023-12-07 |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2021-08-27 | 2022-02-12 |
 | [HiiiPower](https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 4:39 | 2021-07-02 | 2022-01-30 |
@@ -69,7 +70,7 @@
 | [I Get Around](https://open.spotify.com/track/74kHlIr01X459gqsSdNilW) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Shock G](https://open.spotify.com/artist/7mFqeqDcctDWHGKY2AIAMl), [Money B](https://open.spotify.com/artist/6VH75hkpvvNBk8qKVPUUwl) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:18 | 2020-05-04 | 2023-06-04 |
 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 | 2020-05-04 |  |
 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 | 2021-08-27 |  |
-| [I'm a Player \- Street Version](https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 6:01 | 2020-05-04 |  |
+| [I'm a Player \- Street Version](https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Get In Where You Fit In](https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1) | 6:01 | 2020-05-04 | 2024-08-10 |
 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 | 2021-08-27 | 2022-08-19 |
 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 | 2020-05-04 |  |
 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 | 2020-06-15 |  |
@@ -92,7 +93,7 @@
 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 | 2022-02-11 | 2024-07-22 |
 | [m.A.A.d city](https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:50 | 2022-10-25 |  |
 | [Me Against The World](https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Dramacydal](https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 | 2022-02-11 | 2023-05-13 |
-| [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 | 2021-08-27 |  |
+| [Mistadobalina](https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Wish My Brother George Was Here](https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor) | 4:13 | 2021-08-27 | 2024-08-10 |
 | [Money Trees](https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 6:26 | 2022-10-25 |  |
 | [More Than A Player](https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1) | [2nd II None](https://open.spotify.com/artist/1rlHVdoyfG6pQkzcMWI4dr) | [2nd II None](https://open.spotify.com/album/0xwxoALWTPNBxB6Xq9Fy66) | 3:16 | 2022-02-11 | 2022-10-01 |
 | [Murder Was The Case](https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 3:38 | 2023-03-10 | 2024-01-14 |
@@ -115,6 +116,7 @@
 | [Rigamortus](https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:48 | 2021-07-02 | 2022-01-27 |
 | [Runnin'](https://open.spotify.com/track/1i7tKveM6Wo3dG31c5OwAL) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia](https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0) | 4:56 | 2022-02-11 | 2023-08-05 |
 | [Same Song \- Edit Version](https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Hi\-Five: Digital Underground](https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8) | 3:57 | 2022-02-11 | 2023-03-02 |
+| [So Fly \(J\. Period Remix\)](https://open.spotify.com/track/7egCKT31LZ7M4Ko3WSwUOz) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [J.PERIOD](https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv) | [A Tribute to the King of G\-Funk \(Deluxe Version\)](https://open.spotify.com/album/3q5tiDIMLl2HRsfbEjh5wo) | 3:05 | 2024-08-09 |  |
 | [So Many Tears](https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 3:59 | 2022-02-11 | 2023-05-13 |
 | [Sprinkle Me \(feat\. Suga\-T\)](https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Suga T](https://open.spotify.com/artist/4cX9ggFy3pBFNyJOoVQCHF) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:10 | 2021-08-27 | 2022-09-29 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2021-08-27 | 2022-01-29 |

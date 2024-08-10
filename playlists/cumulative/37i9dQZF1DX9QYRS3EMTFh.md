@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Says'z x Bamby
 
-430 songs - 19 hr 21 min
+431 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Forever](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [Forever](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 | 2023-05-11 | 2023-06-02 |
 | [Friendzone](https://open.spotify.com/track/5AWWQyAsqtjov0hogzafxE) | [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Friendzone](https://open.spotify.com/album/4tGSazhEvCFBdiricqkJUV) | 3:49 | 2023-10-19 | 2023-12-08 |
 | [Fè to choix](https://open.spotify.com/track/4uTUPgwlmnXJ25m5aJjMLh) | [Ken Vybz](https://open.spotify.com/artist/0eomtAhpoAMBnsns4DwGCp) | [G\-Side: The Way I Do It](https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe) | 2:34 | 2021-12-22 | 2022-01-28 |
+| [G.O.A.T](https://open.spotify.com/track/5fOt4iG6Xty1zMAlUt1niy) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Mirror 25](https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22) | 2:58 | 2024-08-08 |  |
 | [Ganja](https://open.spotify.com/track/5Gv89SZih6lHvHpKB1mIhU) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Ganja](https://open.spotify.com/album/11W6IsmcsFkOYe54sTRMBf) | 3:05 | 2021-12-22 | 2022-04-29 |
 | [Gasolina](https://open.spotify.com/track/4vyYcSQaNVFcKVpQIFGhhS) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Caviar I](https://open.spotify.com/album/31Ok9rXTNEPcdt1SsbQgLh) | 2:21 | 2024-06-13 | 2024-07-05 |
 | [Genghis Khan](https://open.spotify.com/track/1TZZIVEkj2FgVkBGQCoVoa) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Genghis Khan](https://open.spotify.com/album/0cnRZoKx2JmGyVftNlU5zF) | 2:15 | 2022-05-26 | 2022-07-15 |

@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "album": {
         "name": "Bring Back The Beat",
         "url": "https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx"
       },
@@ -868,6 +886,24 @@
       "duration_ms": 231559,
       "name": "catacombs",
       "url": "https://open.spotify.com/track/1MqFzq311ClN9gQNbWuLPt"
+    },
+    {
+      "album": {
+        "name": "chasing the sunset",
+        "url": "https://open.spotify.com/album/6zA5isze3nnlBHZYfmT0gb"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "chasing the sunset",
+      "url": "https://open.spotify.com/track/5VlwP0Okb4ontxDrbqLAMi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The best side! Cover: Warren G",
+  "description": "The best side! Cover: 213",
   "name": "West Coast Classics",
   "tracks": [
     {
@@ -1025,6 +1025,32 @@
     },
     {
       "album": {
+        "name": "A Tribute to the King of G-Funk (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3q5tiDIMLl2HRsfbEjh5wo"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "213",
+          "url": "https://open.spotify.com/artist/6DGTVWzslFxxT7ZNEiVVHi"
+        },
+        {
+          "name": "J.PERIOD",
+          "url": "https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104986,
+      "name": "Groupie Love (feat. 213) (J. Period Remix)",
+      "url": "https://open.spotify.com/track/0vnFD0OUbh7EFANmaXbwgz"
+    },
+    {
+      "album": {
         "name": "Doggystyle (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN"
       },
@@ -1254,7 +1280,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 361266,
       "name": "I'm a Player - Street Version",
       "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
@@ -1712,7 +1738,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 253626,
       "name": "Mistadobalina",
       "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
@@ -2148,6 +2174,28 @@
       "duration_ms": 237533,
       "name": "Same Song - Edit Version",
       "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"
+    },
+    {
+      "album": {
+        "name": "A Tribute to the King of G-Funk (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3q5tiDIMLl2HRsfbEjh5wo"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "J.PERIOD",
+          "url": "https://open.spotify.com/artist/1MGyQRNDBHqVYkW1nNKRBv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185813,
+      "name": "So Fly (J. Period Remix)",
+      "url": "https://open.spotify.com/track/7egCKT31LZ7M4Ko3WSwUOz"
     },
     {
       "album": {

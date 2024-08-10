@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: Stephen Day",
+  "description": "Featuring that new vintage. Cover: Michael Bubl\u00e9",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -1632,6 +1632,24 @@
       "duration_ms": 195541,
       "name": "Don't Ask Why",
       "url": "https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN"
+    },
+    {
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
       "album": {

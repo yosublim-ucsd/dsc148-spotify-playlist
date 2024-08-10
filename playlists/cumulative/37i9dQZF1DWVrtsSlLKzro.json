@@ -6507,6 +6507,28 @@
     },
     {
       "album": {
+        "name": "Under The Sun",
+        "url": "https://open.spotify.com/album/09z21xsnQoPVYWIQuXjPXI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149423,
+      "name": "Under The Sun - Lavern Remix / Edit",
+      "url": "https://open.spotify.com/track/2C2cLOJrIDaQz6rNpBBRSP"
+    },
+    {
+      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },

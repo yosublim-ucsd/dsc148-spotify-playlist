@@ -77,6 +77,32 @@
     },
     {
       "album": {
+        "name": "Aa Rojulu Malli Raavu (From \"Committee Kurrollu\")",
+        "url": "https://open.spotify.com/album/5GYpy0N0p9KjSy4VRenZeO"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Anudeep Dev",
+          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253271,
+      "name": "Aa Rojulu Malli Raavu (From \"Committee Kurrollu\")",
+      "url": "https://open.spotify.com/track/4WLb2gV1NHlCC6KMjsWVp6"
+    },
+    {
+      "album": {
         "name": "Hi Nanna",
         "url": "https://open.spotify.com/album/1dpKR9xGrVPqN4l78ymrKD"
       },
@@ -118,7 +144,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 321619,
       "name": "Alanati Ramachandrudu",
       "url": "https://open.spotify.com/track/2SyVdOenmbDSjUGoFprS2x"
@@ -3404,7 +3430,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199072,
       "name": "Sammohanuda (From \"Rules Ranjann\")",
       "url": "https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35"
@@ -3868,7 +3894,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 245666,
       "name": "Veera Dheera",
       "url": "https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25"

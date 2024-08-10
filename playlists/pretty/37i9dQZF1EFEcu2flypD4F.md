@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,850 likes - 326 songs - 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,853 likes - 326 songs - 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,8 +267,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 257 | [These Hands I Hold \- Paul Oakenfold Future House Radio Edit](https://open.spotify.com/track/45ZxWK7H35M4tanQ6IVwR0) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [These Hands I Hold](https://open.spotify.com/album/2f0h1hYZM448Klq2JkbYrn) | 3:30 |
 | 258 | [I'm Not Important to You](https://open.spotify.com/track/3gbadh6pdgrLspW6zDHq7E) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 6:08 |
 | 259 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
-| 260 | [Best Day Ever](https://open.spotify.com/track/6XaTwM6s2IXD6btpRLVN2Z) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:58 |
-| 261 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 260 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 261 | [Best Day Ever](https://open.spotify.com/track/6XaTwM6s2IXD6btpRLVN2Z) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:58 |
 | 262 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
 | 263 | [Der Meister grillt](https://open.spotify.com/track/2Q1kubblCZ0uWJyAfBLN23) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [SpongeBob \- Der Meister grillt](https://open.spotify.com/album/51qkp1oYlVbW1XwFseNrYf) | 3:38 |
 | 264 | [One Candle](https://open.spotify.com/track/6tUkav0vClfyCbucb0mUmJ) | [J\. Ralph](https://open.spotify.com/artist/2GPriNLwjGv7sjsgIex8Wv), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Racing Extinction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tbo6edRmkeeST0qK7lsvb) | 4:03 |
@@ -293,8 +293,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 283 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
 | 284 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
 | 285 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
-| 286 | [I Will Get Over You](https://open.spotify.com/track/2EuVDGZ3aLtGen3jiYUHlE) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When You Grow Up](https://open.spotify.com/album/40VVhYrRI1I7OWWIJwhtcw) | 3:42 |
-| 287 | [Plaster](https://open.spotify.com/track/2pofAwAUipRcvvlMDS8Ftq) | [Marco Carola](https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1) | [The Tribe](https://open.spotify.com/album/1AsyuED8iHFezYSTEDNVkV) | 7:46 |
+| 286 | [Plaster](https://open.spotify.com/track/2pofAwAUipRcvvlMDS8Ftq) | [Marco Carola](https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1) | [The Tribe](https://open.spotify.com/album/1AsyuED8iHFezYSTEDNVkV) | 7:46 |
+| 287 | [I Will Get Over You](https://open.spotify.com/track/2EuVDGZ3aLtGen3jiYUHlE) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When You Grow Up](https://open.spotify.com/album/40VVhYrRI1I7OWWIJwhtcw) | 3:42 |
 | 288 | [Galaxy \- Gawler Remix / Radio Edit](https://open.spotify.com/track/3FQhlhZK98XKIPEyZ1AySj) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Gawler](https://open.spotify.com/artist/0ZWeSRSlrHHs0thSzvAfyp) | [Galaxy \(Gawler Remix\)](https://open.spotify.com/album/3WLcNk9ZWrMry1tKdSjBGH) | 3:44 |
 | 289 | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys) | [Nina Sofie](https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa) | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8) | 3:32 |
 | 290 | [Secrets](https://open.spotify.com/track/6y1ewbLHpJNL9LIA1lX4HM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [For Lovers, Dreamers & Me](https://open.spotify.com/album/71lxWlnwM9mIm2RBT4yPnG) | 4:54 |
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 325 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 326 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbY5xQAAAADsQpbg47vKjwcxcXvZwfcr`
+Snapshot ID: `AbY/ZQAAAABUbvBrsKRtk2/AWBgeuit5`

@@ -1,6 +1,6 @@
 {
   "description": "You're a pink pony girl ",
-  "num_followers": 517541,
+  "num_followers": 520482,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "I LUV IT (feat. Playboi Carti)",
-        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "I LUV IT (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "I LUV IT (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "I LUV IT (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Not My Fault (with Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
+        "name": "Slut Pop",
+        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 170528,
-      "name": "Not My Fault (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
+      "duration_ms": 118153,
+      "name": "Treat Me Like A Slut",
+      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Slut Pop",
-        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+        "name": "Not My Fault (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 118153,
-      "name": "Treat Me Like A Slut",
-      "url": "https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb"
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Lady Wood",
+        "url": "https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Lady Wood",
-        "url": "https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199179,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
     },
     {
       "added_at": "2024-08-03 15:31:45",

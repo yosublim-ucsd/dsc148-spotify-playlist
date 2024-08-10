@@ -4,25 +4,23 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,803 likes - 16 songs - 52 min 16 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,805 likes - 14 songs - 42 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oxygen](https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 2:42 |
-| 2 | [Erase You](https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Erase You](https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7) | 2:29 |
-| 3 | [SO WHAT](https://open.spotify.com/track/3uinHmFHOmXptkX1Z1bJA6) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [SO WHAT](https://open.spotify.com/album/3vCf0QsvONQz3nF3mSyR3h) | 3:16 |
-| 4 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 |
-| 5 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 6 | [Volume](https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Volume](https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc) | 3:58 |
-| 7 | [Overglow \- Jade's Version](https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow \- Jade's Version](https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e) | 3:12 |
-| 8 | [Screen Cleaner](https://open.spotify.com/track/0Mov1mEZkKFHTGgFiO3ONa) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Screen Cleaner](https://open.spotify.com/album/6knmBybayTL36FPFPge1TI) | 3:29 |
-| 9 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 |
-| 10 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 |
-| 11 | [The Way She Moves](https://open.spotify.com/track/3ggpCMbp7276cdCaMj6A3q) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [The Way She Moves](https://open.spotify.com/album/3gO9oRmrXL4IyBlaxGz7KO) | 3:01 |
-| 12 | [VOICES](https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOICES](https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh) | 2:43 |
-| 13 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
-| 14 | [domino szn](https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [domino szn](https://open.spotify.com/album/5ZahMu7KEBe4Gzf2bR61Ew) | 3:44 |
-| 15 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 |
-| 16 | [Cuppa Tea](https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Cuppa Tea](https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU) | 3:26 |
+| 1 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 |
+| 2 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 |
+| 3 | [Angel Of My Dreams \- S.A.D\. Version \- Slow\. Angelic\. Dramatic.](https://open.spotify.com/track/6NayZTCSB2d4New8oIgBx0) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(S.A.D\. Version \- Slow\. Angelic\. Dramatic.\)](https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB) | 3:45 |
+| 4 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 5 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
+| 6 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
+| 7 | [limousine](https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 3:21 |
+| 8 | [Gone](https://open.spotify.com/track/3uTMmWHtyzks33cVtGv8ys) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:17 |
+| 9 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 |
+| 10 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
+| 11 | [Shy Shy](https://open.spotify.com/track/1vIEbdHDDDueYcg7vTimTO) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX), [P Nut](https://open.spotify.com/artist/306FO9CXfM99jPu9tpNQXd) | [Shy Shy](https://open.spotify.com/album/2Zn3Zb7Vfum7WOg14dtW2J) | 3:21 |
+| 12 | [You're Invited](https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [You're Invited](https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs) | 2:32 |
+| 13 | [Fakest Bitch](https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Fakest Bitch](https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti) | 4:19 |
+| 14 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 
-Snapshot ID: `AAAK3UBr3qFMko7/AAH2iZ3xDBEuYAP9`
+Snapshot ID: `AAAK32YY4JTtC4NzbrcHxhCAZzsKcLwW`

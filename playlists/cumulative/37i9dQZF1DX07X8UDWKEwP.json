@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Wisin & Sergio George",
+  "description": "Lo nuevo del mundo tropical. Cover: Nicky Jam",
   "name": "el nuevo tropical",
   "tracks": [
+    {
+      "album": {
+        "name": "The Los Angeles League Of Musicians",
+        "url": "https://open.spotify.com/album/5U9t87KHtkBcBb55Hds7e5"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178742,
+      "name": "'72 Monte Carlo",
+      "url": "https://open.spotify.com/track/7aATFCYWHvrj7j4rjDgekI"
+    },
     {
       "album": {
         "name": "1 Millon",
@@ -1092,6 +1110,28 @@
       "duration_ms": 251250,
       "name": "Besito en la Boca",
       "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
+    },
+    {
+      "album": {
+        "name": "Beso Traicionero",
+        "url": "https://open.spotify.com/album/3P83dhzzYQc5k4DsJ9mK56"
+      },
+      "artists": [
+        {
+          "name": "Daniel Moncion",
+          "url": "https://open.spotify.com/artist/28UqZQBivOeUSS4k7Nclv5"
+        },
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Beso Traicionero",
+      "url": "https://open.spotify.com/track/4Jp6SOushl6g6KNkMrZS1G"
     },
     {
       "album": {
@@ -3043,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Enhorabuena",
+        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168459,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
+    },
+    {
+      "album": {
         "name": "Entre Tu Cuerpo y El M\u00edo",
         "url": "https://open.spotify.com/album/3W2UFR03gjYhAljpYcgPak"
       },
@@ -3814,6 +3872,24 @@
       "duration_ms": 168310,
       "name": "inexplorado",
       "url": "https://open.spotify.com/track/2fXu56oDbvq1DWP6ZFlHVI"
+    },
+    {
+      "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218710,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
     },
     {
       "album": {
@@ -9494,6 +9570,32 @@
       "duration_ms": 163246,
       "name": "Yo Muero Bebiendo",
       "url": "https://open.spotify.com/track/4sZ69wnoP8Kno1N5TBQ3xN"
+    },
+    {
+      "album": {
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/3a9L76jK0d4jVlEooWCbuU"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III",
+          "url": "https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192059,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0e50i7uScPMfqZWBfYE3Vs"
     },
     {
       "album": {

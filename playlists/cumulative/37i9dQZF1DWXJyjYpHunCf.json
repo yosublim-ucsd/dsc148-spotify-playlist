@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Gigi Perez",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jenna Raine",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -4850,7 +4850,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
+    },
+    {
+      "album": {
         "name": "Four Feet in the Forest",
         "url": "https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW"
       },
@@ -6526,7 +6544,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183809,
       "name": "Suddenly Okay",
       "url": "https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB"
@@ -7842,6 +7860,24 @@
       "duration_ms": 212400,
       "name": "Why Don't We Start from Here",
       "url": "https://open.spotify.com/track/6dHsDYVp8xo6HLlIVbiBZ2"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

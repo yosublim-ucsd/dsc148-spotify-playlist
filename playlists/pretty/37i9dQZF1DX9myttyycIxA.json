@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Georgia Gets By",
-  "num_followers": 296624,
+  "num_followers": 296632,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAABRMyybWCacOZ+c8VoIKZhK",
+  "snapshot_id": "ZrWUQAAAAADLI8AnufZYuzh9RMsW1BGt",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/56U1pIituJfEkU0impIpYA"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Kid Muscle",
@@ -39,6 +71,38 @@
       "duration_ms": 311500,
       "name": "Kid Muscle",
       "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "CARRY YOU",
+        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 188763,
+      "name": "CARRY YOU",
+      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "So Much More",
+        "url": "https://open.spotify.com/album/5ESKxWXOz9My2DvP14HnhT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "So Much More",
+      "url": "https://open.spotify.com/track/3WRn9dlr1d2w9Wvsvkph3P"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -267,22 +331,6 @@
       "duration_ms": 183386,
       "name": "Today\u2019s Iconoclast",
       "url": "https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "TV Car Chase",
-        "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 284848,
-      "name": "TV Car Chase",
-      "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1033,22 +1081,6 @@
       "url": "https://open.spotify.com/track/4XFSlBTvpkjvClOl57muno"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/6GKWORJPsbQ2lLP5Sa9s6k"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/1WfEUgnWKJLPpuEbEj69qh"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Runway",
@@ -1193,22 +1225,6 @@
       "url": "https://open.spotify.com/track/0zirRjZmsGJZAuSWLAXrUo"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Now Arriving At Panic Station",
-        "url": "https://open.spotify.com/album/2yobcjl3jVYiYpxgHM0qzx"
-      },
-      "artists": [
-        {
-          "name": "Kitschen Boy",
-          "url": "https://open.spotify.com/artist/3us25I84azA5CwbzFMB8vC"
-        }
-      ],
-      "duration_ms": 278389,
-      "name": "A New Hope",
-      "url": "https://open.spotify.com/track/3QCUjzsCibWHRferuahfXK"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Picture It",
@@ -1271,22 +1287,6 @@
       "duration_ms": 338760,
       "name": "Skin Parade / Fade Into You - Live At Narcissus",
       "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "motorway",
-        "url": "https://open.spotify.com/album/4SFCaBgBONoH4VTvSB5X6Z"
-      },
-      "artists": [
-        {
-          "name": "Goat Girl",
-          "url": "https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "motorway",
-      "url": "https://open.spotify.com/track/4j6z3exn61ZuDgcXKLrgUB"
     },
     {
       "added_at": "2024-05-03 18:52:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Bearings",
-        "url": "https://open.spotify.com/album/2dmmyuh3kpwrPzTjbdHqhy"
-      },
-      "artists": [
-        {
-          "name": "blue diner.",
-          "url": "https://open.spotify.com/artist/7507iWsMThB2CBFkRqtI2E"
-        }
-      ],
-      "duration_ms": 246990,
-      "name": "Bearings",
-      "url": "https://open.spotify.com/track/4w1haGG3nk0tCBrqadOH6m"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "One Million Love Songs",
         "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
       },
@@ -1383,22 +1367,6 @@
       "duration_ms": 148506,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD"
-    },
-    {
-      "added_at": "2024-04-17 17:43:18",
-      "album": {
-        "name": "Wish Me Away",
-        "url": "https://open.spotify.com/album/2YrX3Cnuai2IrRP5P4v5vI"
-      },
-      "artists": [
-        {
-          "name": "GIFT",
-          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
-        }
-      ],
-      "duration_ms": 238350,
-      "name": "Wish Me Away",
-      "url": "https://open.spotify.com/track/79PatmbsVvjeS4Q3p5zZ4F"
     },
     {
       "added_at": "2024-04-13 04:09:59",
@@ -1463,22 +1431,6 @@
       "duration_ms": 233675,
       "name": "How does it end?",
       "url": "https://open.spotify.com/track/0WHP8Nz9CSqalerNkQ0dBL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Rocket To Ride",
-        "url": "https://open.spotify.com/album/6cHRfp65a7Ho75CosKcT2M"
-      },
-      "artists": [
-        {
-          "name": "Jess Locke",
-          "url": "https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Rocket To Ride",
-      "url": "https://open.spotify.com/track/6MjBcqlmlWTO1HtEHvcVTF"
     },
     {
       "added_at": "2024-03-29 16:34:32",
@@ -1611,38 +1563,6 @@
       "duration_ms": 212426,
       "name": "Taller Than Me",
       "url": "https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Eating Rust",
-        "url": "https://open.spotify.com/album/0TeMT5zwq8qKcNGSrTaDEZ"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 195723,
-      "name": "Eating Rust",
-      "url": "https://open.spotify.com/track/2fPLSqIAosnpcAG9hiaXh5"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Always Something",
-        "url": "https://open.spotify.com/album/0pMwpKB8BTFmLJHVW6M94J"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 210947,
-      "name": "Always Something",
-      "url": "https://open.spotify.com/track/1bxIDIIuSxGo4AsM4XmFGs"
     },
     {
       "added_at": "2024-03-01 05:00:00",

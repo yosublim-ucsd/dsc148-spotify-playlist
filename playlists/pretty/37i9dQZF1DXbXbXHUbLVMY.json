@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28267,
+  "num_followers": 28264,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Sommerhus",
-        "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "Sommerhus",
-      "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Habibi You",
         "url": "https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 114098,
       "name": "Habibi You",
       "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Sommerhus",
+        "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Sommerhus",
+      "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "SOLDAT",
         "url": "https://open.spotify.com/album/30rq6uVi2lypmp6787cImE"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "players (feat. Ari Bajgora)",
         "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Schnogodidougudugidoubudibow",
-      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Ambassador",
         "url": "https://open.spotify.com/album/3xPt4uCVp49yGgVMPORwlS"
       },
@@ -555,6 +539,42 @@
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Schnogodidougudugidoubudibow",
+      "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -655,42 +675,6 @@
       "duration_ms": 147678,
       "name": "On It",
       "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "En till dans",
-        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 200412,
-      "name": "En till dans",
-      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -803,6 +787,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
         "name": "Ledare",
         "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 195577,
       "name": "Matrisen",
       "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 123149,
       "name": "MANDANA",
       "url": "https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2024-07-18 22:00:00",
       "album": {
-        "name": "Stikk I Brystet",
-        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "King Of The Hill (feat. Roc Boyz)",
-      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Stikk I Brystet",
+        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "King Of The Hill (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
     },
     {
       "added_at": "2024-07-18 22:00:00",

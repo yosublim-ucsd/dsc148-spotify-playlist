@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Raghu Dixit
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,621 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,638 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 46 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 |
 | 47 | [Ekla Cholo Re](https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ) | [Ekla Cholo Re](https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo) | 3:53 |
 | 48 | [Sajaniya](https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Sajaniya](https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp) | 5:31 |
-| 49 | [Priyotoma](https://open.spotify.com/track/0ZYfRyGRGABm4EPykODGqO) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [John Paul](https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:00 |
-| 50 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
+| 49 | [Natkhat Nadiya](https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy), [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 5:39 |
+| 50 | [Priyotoma](https://open.spotify.com/track/0ZYfRyGRGABm4EPykODGqO) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [John Paul](https://open.spotify.com/artist/7yNLJplNQVIAOTRGCr2bJ0), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Shakkar](https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO) | 5:00 |
 
 Snapshot ID: `ZqNwwQAAAADz5S86Ti8jbrNpC8hgfeQJ`

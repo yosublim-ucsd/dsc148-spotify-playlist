@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157402,
       "name": "Busy",
       "url": "https://open.spotify.com/track/6vz9zu8tWoQo2wiAG9oP5c"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 320000,
       "name": "Customers",
       "url": "https://open.spotify.com/track/6x5aWKAL2H7UjK7u26rFSf"
@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Desecho por Capricho",
+        "url": "https://open.spotify.com/album/3uMreTb7ATgAtxKJecnH1c"
+      },
+      "artists": [
+        {
+          "name": "Niche Ls",
+          "url": "https://open.spotify.com/artist/2yxSMjOgzBvfmExi22OCU7"
+        },
+        {
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130052,
+      "name": "Desecho por Capricho",
+      "url": "https://open.spotify.com/track/4eZDxg3GdHkjxnE4NhFrtw"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s de Antes",
         "url": "https://open.spotify.com/album/2M7c4etCFEFT1muf7qinap"
       },
@@ -2424,6 +2446,32 @@
       "duration_ms": 227600,
       "name": "Donante de Sangre",
       "url": "https://open.spotify.com/track/1HtO3fFig35Hj12m6luK0u"
+    },
+    {
+      "album": {
+        "name": "DPIE",
+        "url": "https://open.spotify.com/album/7zqEZHzAGP0KII17Ije6Od"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161730,
+      "name": "DPIE",
+      "url": "https://open.spotify.com/track/3rVgoTdUk9yzCQKfEtx8VA"
     },
     {
       "album": {
@@ -5757,6 +5805,24 @@
     },
     {
       "album": {
+        "name": "NO NOS PARECEMOS",
+        "url": "https://open.spotify.com/album/3cbrQxgtLU6AAEYeNprQtK"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "NO NOS PARECEMOS",
+      "url": "https://open.spotify.com/track/0rQ7Ox0xRKOaEg6MaY14m6"
+    },
+    {
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -5974,7 +6040,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"

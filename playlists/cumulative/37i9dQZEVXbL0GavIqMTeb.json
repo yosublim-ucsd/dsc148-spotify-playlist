@@ -3379,6 +3379,28 @@
     },
     {
       "album": {
+        "name": "CHIKA MALA",
+        "url": "https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174412,
+      "name": "CHIKA MALA",
+      "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
+    },
+    {
+      "album": {
         "name": "El Duende Verde",
         "url": "https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl"
       },
@@ -6426,7 +6448,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
@@ -6444,7 +6466,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -6634,7 +6656,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 154462,
       "name": "Ese Guille",
       "url": "https://open.spotify.com/track/1DFLbi4TVAwgYWcV76Rcwa"
@@ -17014,10 +17036,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "album": {
+        "name": "Par\u00eds",
+        "url": "https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
     },
     {
       "album": {
@@ -18557,6 +18597,24 @@
     },
     {
       "album": {
+        "name": "Solida",
+        "url": "https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Solida",
+      "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
+    },
+    {
+      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f"
       },
@@ -18886,7 +18944,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"

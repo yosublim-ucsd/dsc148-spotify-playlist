@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: achi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,462 likes - 176 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,464 likes - 176 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 110 | [Scrake](https://open.spotify.com/track/2Ccaxvzr9Ay705HumCmvJT) | [ECHOES TOO FAR](https://open.spotify.com/artist/3ZW34vQW3fFQZfoxi4j5sK), [SeeYouTmr](https://open.spotify.com/artist/2p1CsJyPqchYSy2wJO0JQX) | [Scrake](https://open.spotify.com/album/7IdJjzFapyDQWH5b1QHBR3) | 1:50 |
 | 111 | [California \(好鬼死浪漫\)](https://open.spotify.com/track/2Fsqwg6OCrNEcjpUTorvWF) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [California \(好鬼死浪漫\)](https://open.spotify.com/album/7m89UNillV51zntHOksawo) | 4:23 |
 | 112 | [日前](https://open.spotify.com/track/7B01stoklzmVRdEHLYQHCI) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt) | [日前](https://open.spotify.com/album/5crgKrXM275zPH5T7YjNdc) | 3:35 |
-| 113 | [pie 批](https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK) | [nnscya](https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff) | [批 PIE](https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz) | 2:57 |
+| 113 | [pie 批](https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK) | [nnscya](https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff) | [批 PIE](https://open.spotify.com/album/2rq9nx7EFXvsGQaRBp8vxz) | 2:56 |
 | 114 | [in love / not enough](https://open.spotify.com/track/1hqh3ZyC1ltmQICWJK6RCs) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [in love / not enough](https://open.spotify.com/album/4UvU4P3qLkjXqQp7tqlcdQ) | 3:30 |
 | 115 | [我們之間的花期不是永遠](https://open.spotify.com/track/1lWyFWupCnE7HIGuKhxTfj) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我們之間的花期不是永遠](https://open.spotify.com/album/12Idf6J0CaXnshoFZLb19M) | 4:03 |
 | 116 | [Mom I’d Like To...](https://open.spotify.com/track/0zJ3jtxEwtcifX7S0EIVDl) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [Mom I’d Like To...](https://open.spotify.com/album/1LQtV1flVtaGPVuBZ6d8q7) | 3:46 |

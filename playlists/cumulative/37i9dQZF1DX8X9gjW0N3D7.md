@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Billie du Page
 
-82 songs - 4 hr 20 min
+84 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,12 @@
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-06-28 |  |
 | [Je te dirai tout](https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Je te dirai tout](https://open.spotify.com/album/03IRytXE6d67O40ixx6Xa2) | 2:50 | 2024-06-28 |  |
 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:11 | 2024-06-28 |  |
+| [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 |  |
 | [La fin du show](https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Pub Royal](https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U) | 7:16 | 2024-06-28 |  |
 | [La fête \- Radio Edit](https://open.spotify.com/track/1Jbmi0xYUQ01AzNCPfrmR2) | [Éléonore Lagacé](https://open.spotify.com/artist/3el018EY0lmSRv79CZORvk) | [La fête \(Radio Edit\)](https://open.spotify.com/album/24B7vQZAv39Un5u163PsZS) | 3:05 | 2024-06-28 |  |
 | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 |  |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2024-06-28 | 2024-07-13 |
-| [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 | 2024-06-28 |  |
+| [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 | 2024-06-28 | 2024-08-10 |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2024-06-28 |  |
 | [Le bac des objets perdus](https://open.spotify.com/track/3v04ebsMGllMReChKTAfZw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6), [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [Antigéographiquement](https://open.spotify.com/album/7rMlJXxFvoYgPIKSCpkPtd) | 5:05 | 2024-06-28 |  |
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-06-28 |  |
@@ -58,11 +59,12 @@
 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 | 2024-06-28 | 2024-07-27 |
 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 | 2024-06-28 |  |
 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-06-28 |  |
+| [Mâcher tes bottes](https://open.spotify.com/track/6m10tqV7JardUKNPItH94C) | [Avec pas d'casque](https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn) | [Mâcher tes bottes](https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz) | 3:27 | 2024-08-09 |  |
 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:17 | 2024-06-28 |  |
 | [NOIR SUR NOIR](https://open.spotify.com/track/4bUc91EU8ziCfoEkniWG1z) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [NOIR SUR NOIR](https://open.spotify.com/album/5cEHUk4f4t9c09ME7LxOC8) | 3:27 | 2024-06-28 |  |
 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 | 2024-06-28 |  |
 | [On va\-tu prendre une marche?](https://open.spotify.com/track/1aV7wsrT4v13cRtL5lgOuf) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [On va\-tu prendre une marche?](https://open.spotify.com/album/2vd6ICtPmTK6UO4lgyF8hX) | 3:06 | 2024-06-28 |  |
-| [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 |  |
+| [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 |  |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 |  |

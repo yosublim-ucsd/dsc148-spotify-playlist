@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: J\u00d8RD",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Dubdogz, Rooftime",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -3131,6 +3131,28 @@
     },
     {
       "album": {
+        "name": "Golden Summer",
+        "url": "https://open.spotify.com/album/2M101QeUMxmUS6xvgRy8k9"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Golden Summer",
+      "url": "https://open.spotify.com/track/6V3rAi5WlFaEF7GkqrSK1w"
+    },
+    {
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/1dFJbWmnfP9cZtk98aKBCb"
       },
@@ -4124,7 +4146,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194442,
       "name": "Jolie Fille (feat. Layefa)",
       "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
@@ -5192,7 +5214,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149032,
       "name": "Music To Myself",
       "url": "https://open.spotify.com/track/0y1EyWihaibBQGeD5K0Hiv"
@@ -8362,7 +8384,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 131612,
       "name": "Vendo Ela Sambar",
       "url": "https://open.spotify.com/track/6xEDmEXg9Br2xTqhCJhDk7"
@@ -8414,6 +8436,28 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
+      },
+      "artists": [
+        {
+          "name": "Soldera",
+          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
     },
     {
       "album": {
@@ -8632,6 +8676,32 @@
       "duration_ms": 182404,
       "name": "Where'd You Go",
       "url": "https://open.spotify.com/track/7KLlDR1Q1CNWm38nlcCgF2"
+    },
+    {
+      "album": {
+        "name": "Why I Love You So",
+        "url": "https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        },
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173996,
+      "name": "Why I Love You So",
+      "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
     },
     {
       "album": {

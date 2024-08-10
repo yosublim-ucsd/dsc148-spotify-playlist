@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 102583,
+  "num_followers": 102614,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -1543,6 +1543,30 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Tierra Madre",
+        "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        },
+        {
+          "name": "Reggie Stephens",
+          "url": "https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4"
+        },
+        {
+          "name": "One Drop Scott",
+          "url": "https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ"
+        }
+      ],
+      "duration_ms": 265264,
+      "name": "Tierra Madre",
+      "url": "https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Jamming Sin Fronteras",
         "url": "https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ"
       },
@@ -1571,30 +1595,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Tierra Madre",
-        "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        },
-        {
-          "name": "Reggie Stephens",
-          "url": "https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4"
-        },
-        {
-          "name": "One Drop Scott",
-          "url": "https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ"
-        }
-      ],
-      "duration_ms": 265264,
-      "name": "Tierra Madre",
-      "url": "https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Voy a Regresar (Escape Al Purgatorio)",
+        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
+      },
+      "artists": [
+        {
+          "name": "Zaque",
+          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
+        },
+        {
+          "name": "Doctor Destino",
+          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
+        }
+      ],
+      "duration_ms": 189910,
+      "name": "Voy a Regresar",
+      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 183013,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Voy a Regresar (Escape Al Purgatorio)",
-        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
-      },
-      "artists": [
-        {
-          "name": "Zaque",
-          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-        },
-        {
-          "name": "Doctor Destino",
-          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-        }
-      ],
-      "duration_ms": 189910,
-      "name": "Voy a Regresar",
-      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
     },
     {
       "added_at": "2024-06-21 06:01:00",

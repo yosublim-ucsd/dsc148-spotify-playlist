@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-113 songs - 6 hr 43 min
+116 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Azul](https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/2jFiD51oGy84NQoHjtiRZb) | 3:22 | 2023-04-28 | 2024-04-19 |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 |  |
 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 | 2023-04-28 |  |
+| [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 | 2024-08-09 |  |
 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 | 2023-04-28 |  |
 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 | 2024-06-28 |  |
 | [Calor](https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn) | 3:20 | 2024-06-28 |  |
@@ -32,6 +33,7 @@
 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 | 2023-04-28 |  |
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-04-28 |  |
 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 | 2023-04-28 |  |
+| [Coco Loco](https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [Coco Loco](https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp) | 3:18 | 2024-08-09 |  |
 | [Conectar](https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Álbum de las Ilusiones](https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW) | 4:21 | 2023-04-28 |  |
 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 | 2023-04-28 |  |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-04-28 |  |
@@ -84,6 +86,7 @@
 | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp) | [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l) | 2:51 | 2024-06-28 |  |
 | [No Hay Luka](https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:17 | 2023-04-28 |  |
 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 | 2024-06-28 |  |
+| [Pa' que lo bailen \- Radio Edit](https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Pa' que lo bailen \(Radio Edit\)](https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb) | 3:14 | 2024-08-09 |  |
 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 | 2023-04-28 |  |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2023-04-28 | 2023-06-17 |
 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 | 2023-04-28 |  |

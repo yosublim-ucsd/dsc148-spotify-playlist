@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "I Want to Live Like Jesus",
+        "url": "https://open.spotify.com/album/5kbvOcBqKplVFTF9FlgFhp"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Heirs",
+          "url": "https://open.spotify.com/artist/6CPiQbiF0iVrQfGa4iDjqW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "I Want to Live Like Jesus",
+      "url": "https://open.spotify.com/track/3l9JyJD74ogvMZkHNqLscS"
+    },
+    {
+      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/1eiwgrOOTkycJKPHJLhaSk"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160506,
       "name": "I'm Lovin' Life",
       "url": "https://open.spotify.com/track/62xUNQ4M5OOyb8Pe4QsZpJ"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171080,
       "name": "No Bones About It",
       "url": "https://open.spotify.com/track/0jrbL1mvRUpTaxvUDlPlrt"
@@ -2794,6 +2812,24 @@
       "duration_ms": 246733,
       "name": "Where Could I Go",
       "url": "https://open.spotify.com/track/2WO6Q2LL4KBsYl2ZjQZwmA"
+    },
+    {
+      "album": {
+        "name": "I'm Free: Songs That Wrote My Story",
+        "url": "https://open.spotify.com/album/7BJKeykInrkjIkYIHyLgPV"
+      },
+      "artists": [
+        {
+          "name": "Joseph Habedank",
+          "url": "https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/19WI6KCHCpUZLpRLnDDmQF"
     },
     {
       "album": {

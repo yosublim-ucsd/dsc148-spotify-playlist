@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 34966,
+  "num_followers": 34978,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABMcXAsLuSgNQSnq031ld3x",
+  "snapshot_id": "ZrQKgAAAAABJhMC9EKsM0+0q7xKGoJS7",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 340386,
       "name": "Exceptional",
       "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 151577,
       "name": "Simple (with Coco Jones)",
       "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
     },
     {
       "added_at": null,

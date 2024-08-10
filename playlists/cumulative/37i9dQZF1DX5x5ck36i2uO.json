@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 234202,
       "name": "3 GUINEAS",
       "url": "https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE"
@@ -3404,6 +3404,32 @@
       "duration_ms": 115438,
       "name": "Visionaire",
       "url": "https://open.spotify.com/track/2fy2p2MKqTqNbJbkl8huSq"
+    },
+    {
+      "album": {
+        "name": "VISTA",
+        "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239259,
+      "name": "VISTA (feat. gaeko, THAMA)",
+      "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
     },
     {
       "album": {

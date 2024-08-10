@@ -1,15 +1,87 @@
 {
   "description": "Your daily update of the most played tracks right now - Brazil.",
-  "num_followers": 3523320,
+  "num_followers": 3523699,
   "original_name": "Top 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lkgv8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkmBcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Embaixador Ac\u00fastico",
+        "url": "https://open.spotify.com/album/029GTh65lJarTNkssUybLW"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Morar Nesse Motel",
+      "url": "https://open.spotify.com/track/4xOvh9mF7sGEPEFiEzIKCC"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Wi-Fi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "duration_ms": 161312,
+      "name": "Wi-Fi - Ao Vivo",
+      "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "S\u00f3 F\u00e9",
+      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "THE BOX MEDLEY FUNK 2",
         "url": "https://open.spotify.com/album/0dW6ozKchun19vdN4BSIUy"
@@ -41,111 +113,43 @@
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/0B0FhGwHWbamcfAuUo4nNt"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
         }
       ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+      "duration_ms": 147860,
+      "name": "Aproveita - Ao Vivo",
+      "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "MTG QUEM N\u00c3O QUER SOU EU",
-        "url": "https://open.spotify.com/album/165nab1dGWZgzo1VTOhO1B"
+        "name": "Saveiro",
+        "url": "https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS"
       },
       "artists": [
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Mc Leozin",
-          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "MTG QUEM N\u00c3O QUER SOU EU",
-      "url": "https://open.spotify.com/track/4117uOK9BhgMyiqF5cPeRw"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Wi-Fi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw"
-      },
-      "artists": [
-        {
-          "name": "Traia V\u00e9ia",
-          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
         },
         {
           "name": "Luan Pereira",
           "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 161312,
-      "name": "Wi-Fi - Ao Vivo",
-      "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
+      "duration_ms": 144665,
+      "name": "Saveiro",
+      "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Morar Nesse Motel",
-        "url": "https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Morar Nesse Motel",
-      "url": "https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "EU SOU SENTIMENTO",
-        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "EU SOU SENTIMENTO",
-      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
@@ -165,7 +169,31 @@
       "url": "https://open.spotify.com/track/7ldcYtMOjtX1eFVEYzj2kJ"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Mtg Forr\u00f3 e Desmantelo",
+        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
+      },
+      "artists": [
+        {
+          "name": "dj sv",
+          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        },
+        {
+          "name": "Manim Vaqueiro",
+          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Mtg Forr\u00f3 e Desmantelo",
+      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
@@ -197,43 +225,23 @@
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Ao Vivo Em Bras\u00edlia (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/0B0FhGwHWbamcfAuUo4nNt"
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
       },
       "artists": [
         {
-          "name": "Clayton & Rom\u00e1rio",
-          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 147860,
-      "name": "Aproveita - Ao Vivo",
-      "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
+      "duration_ms": 162190,
+      "name": "Mulher Foda - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Fortaleza, Vol.3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Triplex (Ao Vivo)",
         "url": "https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3"
@@ -253,47 +261,7 @@
       "url": "https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "S\u00f3 F\u00e9",
-      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Mtg Forr\u00f3 e Desmantelo",
-        "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
-      },
-      "artists": [
-        {
-          "name": "dj sv",
-          "url": "https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        },
-        {
-          "name": "Manim Vaqueiro",
-          "url": "https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Mtg Forr\u00f3 e Desmantelo",
-      "url": "https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Daqui pra Sempre",
         "url": "https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa"
@@ -313,27 +281,23 @@
       "url": "https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Saveiro",
-        "url": "https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS"
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA"
       },
       "artists": [
         {
-          "name": "Kaique e Felipe",
-          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
-        },
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
         }
       ],
-      "duration_ms": 144665,
-      "name": "Saveiro",
-      "url": "https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G"
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
@@ -353,7 +317,27 @@
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Fortaleza, Vol.3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "Me Caiu T\u00e3o Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -369,23 +353,43 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH"
+        "name": "EU SOU SENTIMENTO",
+        "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
       },
       "artists": [
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
         }
       ],
-      "duration_ms": 162190,
-      "name": "Mulher Foda - Ao Vivo",
-      "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
+      "duration_ms": 186107,
+      "name": "EU SOU SENTIMENTO",
+      "url": "https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "In Casa Vol. 02 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 155488,
+      "name": "Chorosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Sonho Dela (Cowboy)",
         "url": "https://open.spotify.com/album/7Msie9nqF5903P39GV4lGq"
@@ -409,23 +413,87 @@
       "url": "https://open.spotify.com/track/6W196uVRkmQFHbc1XV8DNk"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Quest\u00e3o de Tempo (Ao Vivo / Parte 1)",
-        "url": "https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA"
+        "name": "Intenso, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
       },
       "artists": [
         {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 171335,
-      "name": "Gosta De Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/4VNRWHoiKHZJIoQHPbmJIv"
+      "duration_ms": 132057,
+      "name": "Foi Intenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/0agjQg7eWrwFtqBQRKu1CX"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Minha Heran\u00e7a",
+        "url": "https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 222277,
+      "name": "Minha Heran\u00e7a",
+      "url": "https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "MTG QUEM N\u00c3O QUER SOU EU",
+        "url": "https://open.spotify.com/album/165nab1dGWZgzo1VTOhO1B"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "MTG QUEM N\u00c3O QUER SOU EU",
+      "url": "https://open.spotify.com/track/4117uOK9BhgMyiqF5cPeRw"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 168805,
+      "name": "Nosso Primeiro Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -449,43 +517,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Intenso, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 132057,
-      "name": "Foi Intenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/0agjQg7eWrwFtqBQRKu1CX"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "In Casa Vol. 02 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 155488,
-      "name": "Chorosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
@@ -517,39 +549,7 @@
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Reza do Milh\u00e3o",
-        "url": "https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 184427,
-      "name": "Reza do Milh\u00e3o",
-      "url": "https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 168805,
-      "name": "Nosso Primeiro Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
@@ -565,27 +565,27 @@
       "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Intenso, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
+        "name": "Sombra Desconhecida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         },
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 177567,
-      "name": "Mela\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ZI7HOZoBqrV3lFlHKJshI"
+      "duration_ms": 160885,
+      "name": "Sombra Desconhecida - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
@@ -617,43 +617,79 @@
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Minha Heran\u00e7a",
-        "url": "https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO"
+        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+        "url": "https://open.spotify.com/album/5E0tvz3mH2hGjef9ybC3Uv"
       },
       "artists": [
         {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         }
       ],
-      "duration_ms": 222277,
-      "name": "Minha Heran\u00e7a",
-      "url": "https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI"
+      "duration_ms": 117576,
+      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
+      "url": "https://open.spotify.com/track/70ZMGJGfSXw5pIvi0wbNja"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Ou\u00e7a Com o Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3DfKViKLWQvoO05Z6fDCOh"
+        "name": "Reza do Milh\u00e3o",
+        "url": "https://open.spotify.com/album/44ZcMGMb1ZJ1pNNJQ0MXC5"
       },
       "artists": [
         {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 184427,
+      "name": "Reza do Milh\u00e3o",
+      "url": "https://open.spotify.com/track/4oHVbU9l8Ja6g4q4ACf7M4"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Haver\u00e1 Sinais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         },
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 150693,
-      "name": "Seu Oposto",
-      "url": "https://open.spotify.com/track/6mIAta8vOaOhCM4yh8P2FJ"
+      "duration_ms": 190272,
+      "name": "Haver\u00e1 Sinais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Intenso, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 177567,
+      "name": "Mela\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ZI7HOZoBqrV3lFlHKJshI"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
@@ -677,47 +713,7 @@
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Haver\u00e1 Sinais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15GThOcgtXImBrv3PmlOm6"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 190272,
-      "name": "Haver\u00e1 Sinais - Ao Vivo",
-      "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Sombra Desconhecida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Sombra Desconhecida - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "FALTA DE QU\u00ca?",
         "url": "https://open.spotify.com/album/0Dq8h1ncJUPjvgSbhF2DPt"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/6hNREzgHbVM5AkGwP4SPmU"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Simone Mendes - S\u00f3 Hits",
         "url": "https://open.spotify.com/album/1LftNEPKrkFye3xoJ8kjQ7"
@@ -753,63 +749,43 @@
       "url": "https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Fortaleza, Vol.2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
+        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
       },
       "artists": [
         {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 172548,
-      "name": "Anestesiado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5r0JHIjcY7dLWHkljNeQbj"
+      "duration_ms": 163089,
+      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Fortaleza, Vol.2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
+        "name": "062 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY"
       },
       "artists": [
         {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 167391,
-      "name": "Dedo do Meio - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         },
         {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+      "duration_ms": 166804,
+      "name": "Morena De Goi\u00e2nia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Vamo de Pagodin",
         "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
@@ -833,43 +809,23 @@
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Fortaleza, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 172548,
+      "name": "Anestesiado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5r0JHIjcY7dLWHkljNeQbj"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "Eu So Comi Ela uma Vez",
-        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
-      },
-      "artists": [
-        {
-          "name": "Dj VN Maestro",
-          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
-        },
-        {
-          "name": "MC G DS",
-          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
-        }
-      ],
-      "duration_ms": 107102,
-      "name": "Eu So Comi Ela uma Vez",
-      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Como Um Beijo",
         "url": "https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4"
@@ -889,79 +845,123 @@
       "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
+        "name": "Eu So Comi Ela uma Vez",
+        "url": "https://open.spotify.com/album/3Wt4fIdsPcbuOHpQvASMkQ"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "Dj VN Maestro",
+          "url": "https://open.spotify.com/artist/31r6lIoq94Bww3TKIPQ01L"
+        },
+        {
+          "name": "MC G DS",
+          "url": "https://open.spotify.com/artist/1xIma0CABaifVU5xJAqAAs"
         }
       ],
-      "duration_ms": 163089,
-      "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+      "duration_ms": 107102,
+      "name": "Eu So Comi Ela uma Vez",
+      "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Magia Azul",
-        "url": "https://open.spotify.com/album/0kMDUt8bGLJfHRyXiUnBnJ"
+        "name": "Fortaleza, Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
       },
       "artists": [
         {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
         }
       ],
-      "duration_ms": 300487,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/4W87Hv4pBFsE0JEi7enRBQ"
+      "duration_ms": 167391,
+      "name": "Dedo do Meio - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "MTG PASSA PASSA PRA EU SARRAR",
-        "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Intenso, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 122169,
+      "name": "Deu Moral - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VZNgofGpFZ8FrQM3VYosB"
+    },
+    {
+      "added_at": "2024-08-09 09:21:22",
+      "album": {
+        "name": "Clack Bum",
+        "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
+      },
+      "artists": [
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "DJ Borest",
+          "url": "https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46"
         }
       ],
       "duration_ms": 141230,
-      "name": "MTG PASSA PASSA PRA EU SARRAR",
-      "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
+      "name": "Clack Bum",
+      "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
         "name": "Ferrugem 10 Anos, Vol. 1: O In\u00edcio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm"
@@ -981,52 +981,40 @@
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "Intenso, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
+        "name": "062 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BvTUSzjyRiATeuIPicQPY"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         }
       ],
-      "duration_ms": 122169,
-      "name": "Deu Moral - Ao Vivo",
-      "url": "https://open.spotify.com/track/4VZNgofGpFZ8FrQM3VYosB"
+      "duration_ms": 164240,
+      "name": "Vazou Na Braquiara - Ao Vivo",
+      "url": "https://open.spotify.com/track/2RX89Di479sc53wkaNgt9E"
     },
     {
-      "added_at": "2024-08-08 09:27:54",
+      "added_at": "2024-08-09 09:21:22",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "MTG PASSA PASSA PRA EU SARRAR",
+        "url": "https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-08-08 09:27:54",
-      "album": {
-        "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-        "url": "https://open.spotify.com/album/5E0tvz3mH2hGjef9ybC3Uv"
-      },
-      "artists": [
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
         {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
         }
       ],
-      "duration_ms": 117576,
-      "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
-      "url": "https://open.spotify.com/track/70ZMGJGfSXw5pIvi0wbNja"
+      "duration_ms": 141230,
+      "name": "MTG PASSA PASSA PRA EU SARRAR",
+      "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
     }
   ],
   "unique_name": "Top 50 - Brazil",

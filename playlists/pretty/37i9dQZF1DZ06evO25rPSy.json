@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 23945,
+  "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
+  "num_followers": 23947,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACHNEbXakovLx7O2v4RH5jN",
+  "snapshot_id": "ZrQKgAAAAAB459c7hmkqwDsAzEiwT97y",
   "tracks": [
     {
       "added_at": null,
@@ -592,25 +592,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Marilo\u0301",
-      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Marilo\u0301",
+      "url": "https://open.spotify.com/track/1ndwvemO3SxGIlqF4Hor7p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,

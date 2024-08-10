@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 352299,
+  "num_followers": 352354,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lkgv8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkmBcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -45,39 +45,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Angel Of My Dreams",
-        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Angel Of My Dreams",
-      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -93,7 +61,7 @@
       "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Pensa Que \u00c9 Dois",
         "url": "https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS"
@@ -117,7 +85,23 @@
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -133,7 +117,7 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -149,7 +133,7 @@
       "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Nois J\u00e1 T\u00e1 Rico",
         "url": "https://open.spotify.com/album/2FNhDzIHJgOxQz6Ru6HxfB"
@@ -165,7 +149,7 @@
       "url": "https://open.spotify.com/track/07sMt82ZS8ChcQhZ0P098t"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Bengala e Croch\u00ea",
         "url": "https://open.spotify.com/album/2znP9w3bHdb0JCqURRO1IS"
@@ -189,23 +173,7 @@
       "url": "https://open.spotify.com/track/2HGdp5rQB9CZcukJz17dut"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
-      },
-      "artists": [
-        {
-          "name": "O REI DA BATIDINHA",
-          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
-        }
-      ],
-      "duration_ms": 100702,
-      "name": "Patrai Patrai",
-      "url": "https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -221,7 +189,39 @@
       "url": "https://open.spotify.com/track/5sXZxVZZMn4ImhotK2Y3D1"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "No Bar de T\u00f5e Furico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0A4m8mPzLSwJwuOAniS4KC"
+      },
+      "artists": [
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "duration_ms": 100702,
+      "name": "Patrai Patrai",
+      "url": "https://open.spotify.com/track/4BVL2QLF5QQLT15SpAWMVq"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Dias De Luta",
+      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Achei que era Pagode",
         "url": "https://open.spotify.com/album/2Xv52XBe67uFQJzEDAW4nH"
@@ -277,7 +261,7 @@
       "url": "https://open.spotify.com/track/2NmunJ0EJbE2oFbs1CIOeQ"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
@@ -293,7 +277,7 @@
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -304,68 +288,12 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "O Melhor no Que Faz 3.0",
-        "url": "https://open.spotify.com/album/2R1AMmWGUa5IJYAdejtajq"
-      },
-      "artists": [
-        {
-          "name": "DJ BRYAN 7",
-          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
-        },
-        {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
-        }
-      ],
-      "duration_ms": 120240,
-      "name": "O Melhor no Que Faz 3.0",
-      "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "MTG CHIHIRO",
-        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
-      },
-      "artists": [
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Dias De Luta",
-      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "A\u00ed A\u00ed Que Legal - A\u00ed A\u00ed Que Fenomenal",
         "url": "https://open.spotify.com/album/0PSFi4yziwxIfoLgV7J64X"
@@ -389,39 +317,63 @@
       "url": "https://open.spotify.com/track/5Wo7n1OpPGKSMzTvfou9s8"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
-        "name": "Harpy Hare",
-        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
+        "name": "O Melhor no Que Faz 3.0",
+        "url": "https://open.spotify.com/album/1bpSogkiOx621fvZpTRHjS"
       },
       "artists": [
         {
-          "name": "Yaelokre",
-          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+          "name": "DJ BRYAN 7",
+          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
+        },
+        {
+          "name": "Dj Fenix",
+          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
         }
       ],
-      "duration_ms": 180922,
-      "name": "Harpy Hare",
-      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+      "duration_ms": 120240,
+      "name": "O Melhor no Que Faz 3.0",
+      "url": "https://open.spotify.com/track/6HbawgJD23u3hGMPoGpHHo"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "MTG CHIHIRO",
+        "url": "https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 151384,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "D.Silvestre",
         "url": "https://open.spotify.com/album/1s9saLW7U80RYSv1AeBh7w"
@@ -445,7 +397,39 @@
       "url": "https://open.spotify.com/track/1e8CmxUPIWyxW0BKUPlWru"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Harpy Hare",
+        "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "duration_ms": 180922,
+      "name": "Harpy Hare",
+      "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
@@ -461,7 +445,23 @@
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 173557,
+      "name": "Cedo Ou Tarde",
+      "url": "https://open.spotify.com/track/6ckJpZArtp9UwOmMA3onES"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "O Melhor no Que Faz 3.0 [Slowed]",
         "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Achei Que Era Pagode",
         "url": "https://open.spotify.com/album/3DLkq6PzXkWeCm5uyuetaW"
@@ -537,23 +537,7 @@
       "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
-      },
-      "artists": [
-        {
-          "name": "DJ OLIVEIRA ORIGINAL",
-          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
-        }
-      ],
-      "duration_ms": 80754,
-      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
-      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
@@ -569,7 +553,23 @@
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+        "url": "https://open.spotify.com/album/7bmJvjFssJPBmYjzZy6Blu"
+      },
+      "artists": [
+        {
+          "name": "DJ OLIVEIRA ORIGINAL",
+          "url": "https://open.spotify.com/artist/1cCYuIofJkQf9YN1FZo5A4"
+        }
+      ],
+      "duration_ms": 80754,
+      "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
+      "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Wi-Fi (Ao Vivo)",
         "url": "https://open.spotify.com/album/4iPWQzXrICuvO2Dy7TztRw"
@@ -589,39 +589,7 @@
       "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Bloquinho da Agonia 1.0",
-        "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
-      },
-      "artists": [
-        {
-          "name": "Os Africanos",
-          "url": "https://open.spotify.com/artist/2vAfV52NyCCHRY8WUqnjD2"
-        }
-      ],
-      "duration_ms": 446432,
-      "name": "Bloquinho da Agonia 1.0",
-      "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "ATE",
-        "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Chk Chk Boom",
-      "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Coloca a M\u00e3o no Meu Garoto (Remix)",
         "url": "https://open.spotify.com/album/59BYcBMgutpvl53bEEN14v"
@@ -641,7 +609,195 @@
       "url": "https://open.spotify.com/track/3an02GANC6edxoVCUvTCSM"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Bloquinho da Agonia 1.0",
+        "url": "https://open.spotify.com/album/5nRLFA2YCfJnvQdrwwdg7U"
+      },
+      "artists": [
+        {
+          "name": "Os Africanos",
+          "url": "https://open.spotify.com/artist/2vAfV52NyCCHRY8WUqnjD2"
+        }
+      ],
+      "duration_ms": 446432,
+      "name": "Bloquinho da Agonia 1.0",
+      "url": "https://open.spotify.com/track/1J0yA8GoN2GUoxEG4njbkR"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 221387,
+      "name": "Longe e Se Querendo",
+      "url": "https://open.spotify.com/track/1NvgihR6tOuY73sGmn4v4o"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Pode Vim Me Dando",
+        "url": "https://open.spotify.com/album/0Uq4ddp0YQv43sxe6mIjoK"
+      },
+      "artists": [
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        }
+      ],
+      "duration_ms": 134999,
+      "name": "Pode Vim Me Dando",
+      "url": "https://open.spotify.com/track/5tYgnE7vMlW6lCVKz0BD25"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Alma De Pipa",
+      "url": "https://open.spotify.com/track/644gq5WwvqPNJa1Kai6bLR"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "The girl, so confusing version with lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "The girl, so confusing version with lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Bloquinho da agonia 2.0",
+        "url": "https://open.spotify.com/album/45rVLH5Ow5Qvlkzd41A3Bm"
+      },
+      "artists": [
+        {
+          "name": "Oh Malvad\u00e3oo",
+          "url": "https://open.spotify.com/artist/5sPVrlMHaCypOJbU8rgA7i"
+        }
+      ],
+      "duration_ms": 282774,
+      "name": "Bloquinho da Agonia 2.0",
+      "url": "https://open.spotify.com/track/0iAPI0M8NlROE4cOk6Kl5f"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "Eu Queria Mudar",
+      "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -673,115 +829,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 173557,
-      "name": "Cedo Ou Tarde",
-      "url": "https://open.spotify.com/track/6ckJpZArtp9UwOmMA3onES"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Pode Vim Me Dando",
-        "url": "https://open.spotify.com/album/0Uq4ddp0YQv43sxe6mIjoK"
-      },
-      "artists": [
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
-        }
-      ],
-      "duration_ms": 134999,
-      "name": "Pode Vim Me Dando",
-      "url": "https://open.spotify.com/track/5tYgnE7vMlW6lCVKz0BD25"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
@@ -797,55 +845,7 @@
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Bloquinho da agonia 2.0",
-        "url": "https://open.spotify.com/album/45rVLH5Ow5Qvlkzd41A3Bm"
-      },
-      "artists": [
-        {
-          "name": "Oh Malvad\u00e3oo",
-          "url": "https://open.spotify.com/artist/5sPVrlMHaCypOJbU8rgA7i"
-        }
-      ],
-      "duration_ms": 282774,
-      "name": "Bloquinho da Agonia 2.0",
-      "url": "https://open.spotify.com/track/0iAPI0M8NlROE4cOk6Kl5f"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Alma De Pipa",
-      "url": "https://open.spotify.com/track/644gq5WwvqPNJa1Kai6bLR"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 221387,
-      "name": "Longe e Se Querendo",
-      "url": "https://open.spotify.com/track/1NvgihR6tOuY73sGmn4v4o"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "O Lado Bom do Homem Mau",
         "url": "https://open.spotify.com/album/0Gl7QJiBqjNsnogLP5yuLb"
@@ -921,23 +921,7 @@
       "url": "https://open.spotify.com/track/2739WNF0lAMaNQt78wIC7p"
     },
     {
-      "added_at": "2024-08-08 13:34:45",
-      "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/2H7euNHOF7uADN6dfsWoZa"
-    },
-    {
-      "added_at": "2024-08-08 13:34:45",
+      "added_at": "2024-08-09 14:00:46",
       "album": {
         "name": "Ovelhinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
@@ -951,6 +935,30 @@
       "duration_ms": 276453,
       "name": "Ovelhinha (Ao Vivo)",
       "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+    },
+    {
+      "added_at": "2024-08-09 14:00:46",
+      "album": {
+        "name": "Relaxa a Bct Mulher",
+        "url": "https://open.spotify.com/album/43b8MbRzxEojO69E1sy6dX"
+      },
+      "artists": [
+        {
+          "name": "DJ NATHAN RV",
+          "url": "https://open.spotify.com/artist/2eUmKl5zvdGRVIg2CsFpBh"
+        },
+        {
+          "name": "DJ Blakes",
+          "url": "https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz"
+        },
+        {
+          "name": "Mc Roba Cena",
+          "url": "https://open.spotify.com/artist/3JDFG8UQZzliFU7BiKK40c"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "Relaxa a Bct Mulher",
+      "url": "https://open.spotify.com/track/3rhCQVwAYYdcc0yFLQi3Kb"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: CYRIL
 
-5,169 songs - 11 day 15 hr 48 min
+5,172 songs - 11 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1703,6 +1703,7 @@
 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-21 | 2023-09-29 |
 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-07-25 | 2024-08-02 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 | 2024-06-14 |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-08 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-10-13 |
 | [Get Back To This](https://open.spotify.com/track/1TDXAaxW5flsMfxoMr6vI1) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Get Back To This](https://open.spotify.com/album/4IztYZZhdJPXIRn1Hm30oM) | 3:27 | 2023-10-26 | 2023-11-03 |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2023-11-24 |
@@ -1873,6 +1874,7 @@
 | [GUTS!](https://open.spotify.com/track/1TgfuMX9NCHkMTMlAf1yQB) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [GUTS!](https://open.spotify.com/album/5L148hAAOKZP6GsvjUzSXs) | 2:12 | 2023-10-12 | 2023-10-20 |
 | [Gutta](https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Gutta](https://open.spotify.com/album/19UpTFofaeJWpgprRhLPOG) | 3:53 | 2023-11-30 | 2023-12-08 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-08-02 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 |  |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-28 | 2024-04-05 |
 | [Habits](https://open.spotify.com/track/3igoVqqRIqOtEFSgSVueHw) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The World Don't Owe You Anything](https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg) | 2:49 | 2023-09-28 | 2023-10-06 |
 | [HAD ENOUGH](https://open.spotify.com/track/7vxBjMIHTqIN6PDL4PURQp) | [ASM Keeno](https://open.spotify.com/artist/4hOzP5v63WYkbLWzZJDefU) | [HAD ENOUGH](https://open.spotify.com/album/69elRFydgIXtRgbKlFJX7t) | 3:10 | 2023-08-10 | 2023-08-18 |
@@ -4499,7 +4501,7 @@
 | [The Nightmare](https://open.spotify.com/track/1LelsCLOrLroUkAyIeBCvH) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [The Nightmare](https://open.spotify.com/album/77RPzaih1NxrPvXrDDZV83) | 3:04 | 2023-11-09 | 2023-11-17 |
 | [The One](https://open.spotify.com/track/0Z03vJaevXkkHLIrqDRC6O) | [Brandon Stone](https://open.spotify.com/artist/2xLnJZODyKLRuxUrv63Qez), [lxrdmc](https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ) | [The One](https://open.spotify.com/album/5MMxsxfktFYqhm2qumR03Z) | 3:16 | 2024-05-31 | 2024-06-07 |
 | [The One](https://open.spotify.com/track/4tCzAMFUd31yxOA4Mc8cz4) | [Peter Bibby](https://open.spotify.com/artist/2hL4zRvjx5funfrhNUxUS2) | [The One](https://open.spotify.com/album/7hjGINTLUq7K82NK9brytF) | 2:24 | 2023-10-26 | 2023-11-03 |
-| [The One That You Call \- Piano](https://open.spotify.com/track/0e00DxJefEb6SunidIj2TN) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [The One That You Call \- Piano](https://open.spotify.com/album/6tjmRmokYJBKwjQpo6mf93) | 2:00 | 2024-08-08 |  |
+| [The One That You Call \- Piano](https://open.spotify.com/track/0e00DxJefEb6SunidIj2TN) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [The One That You Call \- Piano](https://open.spotify.com/album/6tjmRmokYJBKwjQpo6mf93) | 2:00 | 2024-08-08 | 2024-08-10 |
 | [The Ones That Dance](https://open.spotify.com/track/4ZMian2vfhjwIxnj5MiLup) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [The Ones That Dance](https://open.spotify.com/album/7gBSl92CDoTHkxbEY5N6Y1) | 4:07 | 2024-08-08 |  |
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-06 | 2024-06-14 |
 | [The Only One](https://open.spotify.com/track/38m0WpFdCKTWrU7QAalN8U) | [Grinspoon](https://open.spotify.com/artist/04qi4CymYf3E50Mt2na4QS) | [whatever, whatever](https://open.spotify.com/album/7x6mE04uImocP7F9CC0j3M) | 3:07 | 2024-08-08 |  |
@@ -4983,6 +4985,7 @@
 | [WHO'S BACK?](https://open.spotify.com/track/2MpOA7dCkVgMtAFmMkAdyi) | [SkuX](https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv) | [Yknow How We Do](https://open.spotify.com/album/7JLfTaDM9ZR97On7H36ez6) | 2:04 | 2024-07-18 | 2024-07-27 |
 | [Whole Again](https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Whole Again](https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo) | 3:35 | 2023-06-23 | 2023-06-30 |
 | [Whole Lotta Drugs](https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Whole Lotta Drugs / Over The Edge](https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn) | 3:28 | 2024-04-04 | 2024-04-12 |
+| [Whoop](https://open.spotify.com/track/4L6qcTaDXQc4wEmsd8C8oO) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Mirror 25](https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22) | 3:36 | 2024-08-08 |  |
 | [Whoops](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 | 2024-06-06 | 2024-06-14 |
 | [Whose Rearview](https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI) | 3:16 | 2023-11-02 | 2023-11-10 |
 | [WHY DO YOU HATE ME?](https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [WHY DO YOU HATE ME?](https://open.spotify.com/album/1JUucwGCSxaYw87tnPXtSy) | 2:12 | 2024-07-25 | 2024-08-02 |

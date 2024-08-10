@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,056 likes - 218 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,055 likes - 218 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 22 | [Special Affair](https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:56 |
 | 23 | [shut up](https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:37 |
 | 24 | [Pink](https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:55 |
-| 25 | [Sheesh!](https://open.spotify.com/track/77aXKTGNtAEmtDcPpqyXAG) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/70SO4lxUQN7Rt1bg3JCIaS) | 2:28 |
+| 25 | [Sheesh!](https://open.spotify.com/track/77aXKTGNtAEmtDcPpqyXAG) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pacifico \- Deluxe](https://open.spotify.com/album/70SO4lxUQN7Rt1bg3JCIaS) | 2:28 |
 | 26 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 |
 | 27 | [love language](https://open.spotify.com/track/6NYtLvyThMT0oALFdJFdzq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:59 |
 | 28 | [I Like That](https://open.spotify.com/track/2EznBGrlmx9wBeYgyDojsA) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 31 | [In Common](https://open.spotify.com/track/2y292SsIKqyBnII5TZuhv7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:29 |
 | 32 | [If It Ain’t Me](https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:15 |
 | 33 | [Take Yourself Home](https://open.spotify.com/track/6LqK5VHLY9Aaxn9jYEmEDb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 4:09 |
-| 34 | [There She Go \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7i2xVGqiF5FBPvLg6PLHX3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:35 |
+| 34 | [There She Go \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/7i2xVGqiF5FBPvLg6PLHX3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Justice \- Triple Chucks Deluxe](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:35 |
 | 35 | [worst behavior](https://open.spotify.com/track/6KIKaWKE9wV6mLjho3w61y) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:04 |
 | 36 | [Not a Pop Song](https://open.spotify.com/track/5WDIq9E5f5ryHeIs8FwKcl) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:59 |
 | 37 | [Diamonds \(with Normani\)](https://open.spotify.com/track/0PQsrLxPbOBBwwmXCnGvcF) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Diamonds \(with Normani\)](https://open.spotify.com/album/2brh6nArR9NUPankXlhmAZ) | 3:19 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 57 | [I Got the Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5Yfq9uugLFchtFymQQWxgt) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:46 |
 | 58 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
 | 59 | [Infinity](https://open.spotify.com/track/7IzurnmQLvZmMDJcpITUyt) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [\#1 to Infinity](https://open.spotify.com/album/6kRdK7cPgLqNfSoI7AMlyj) | 3:59 |
-| 60 | [2 Places](https://open.spotify.com/track/3LJT5LFqEW0FxULZtdWOOS) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \(Deluxe Edition\)](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 3:01 |
-| 61 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 |
+| 60 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/74cQSljwBwRAHbuXHf2HYs) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 6:25 |
+| 61 | [2 Places](https://open.spotify.com/track/3LJT5LFqEW0FxULZtdWOOS) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \(Deluxe Edition\)](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 3:01 |
 | 62 | [Rendezvous](https://open.spotify.com/track/157MAS9dxMKcYTvISq6hie) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:56 |
 | 63 | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7A6UIxi15awyiEbYbMF06V) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Fight \(feat\. Florida Georgia Line\)](https://open.spotify.com/album/1gaAEfy9L4TIl3lrIVGe5h) | 3:17 |
 | 64 | [Coffee](https://open.spotify.com/track/6jShoT9pQam6vzsJzKkevB) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Inspired by True Events \(Deluxe Edition\)](https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY) | 4:09 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 217 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 218 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `AbY5xAAAAACyIMxE1gJ0S/v8rZ9eKg32`
+Snapshot ID: `AbY/ZAAAAAAMKlbC8gKFPKW58cPX+Few`

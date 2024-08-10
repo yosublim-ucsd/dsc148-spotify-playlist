@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123837,
+  "num_followers": 123833,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "South Dakota",
         "url": "https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 178983,
       "name": "South Dakota",
       "url": "https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 237230,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4aosx8uOGPG9aJjm0Dj4dN"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Change of Mind (Acoustic)",
-        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
-      },
-      "artists": [
-        {
-          "name": "New Portals",
-          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
-        }
-      ],
-      "duration_ms": 183209,
-      "name": "Change of Mind - Acoustic",
-      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 154124,
       "name": "Perfect Stranger",
       "url": "https://open.spotify.com/track/0aX5kjSlup9iqZbf1chTr3"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Change of Mind (Acoustic)",
+        "url": "https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq"
+      },
+      "artists": [
+        {
+          "name": "New Portals",
+          "url": "https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1"
+        }
+      ],
+      "duration_ms": 183209,
+      "name": "Change of Mind - Acoustic",
+      "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Moon in the Morning",
-      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Moon in the Morning",
+      "url": "https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Melchor Lullaby Hotline Vol. 1",
-        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Made Up My Mind",
         "url": "https://open.spotify.com/album/0xlLPP99IxXSaXw2idaUaI"
       },
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 174558,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Melchor Lullaby Hotline Vol. 1",
+        "url": "https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/63msGdgRl82cT88247E2kz"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
         "name": "Love Is Letting Go (feat. Diane Keaton)",
         "url": "https://open.spotify.com/album/0MinLMVdEPsMarTkzH9NRv"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/4Fvbi4wxMw12cXWkAHlt0Z"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 174558,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/5V93DZxOOLqTT5zF8uWOm2"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Open Your Heart",
         "url": "https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 224701,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/6TRJINYsux28IglskjOSRy"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Temple (Unplugged)",
         "url": "https://open.spotify.com/album/7FAc0Om3wUx1X87f01EFvW"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Pull",
-        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
       },
       "artists": [
         {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
         }
       ],
-      "duration_ms": 196615,
-      "name": "Pull",
-      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 199179,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Pull",
+        "url": "https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Pull",
+      "url": "https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 229773,
       "name": "Better Than Today",
       "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Odd Willow",
-        "url": "https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6"
+        "name": "The Things We Talk About",
+        "url": "https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb"
       },
       "artists": [
         {
-          "name": "Big Brutus",
-          "url": "https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi"
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84"
+      "duration_ms": 217727,
+      "name": "Waiting for this Love to Die",
+      "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "The Things We Talk About",
-        "url": "https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb"
+        "name": "The Odd Willow",
+        "url": "https://open.spotify.com/album/6beLTdJjPsKEWYVQJGHXB6"
       },
       "artists": [
         {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+          "name": "Big Brutus",
+          "url": "https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi"
         }
       ],
-      "duration_ms": 217727,
-      "name": "Waiting for this Love to Die",
-      "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
+      "duration_ms": 244866,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0fdYaOG3Dp8t6fhW5Cel84"
     }
   ],
   "unique_name": "Chill Singer-Songwriter",

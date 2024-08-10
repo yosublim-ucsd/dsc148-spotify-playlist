@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Captain America (1966 Theme) [2024 Stereo Remaster]",
+        "url": "https://open.spotify.com/album/6pivPJM6FWa6nb0UwznLHv"
+      },
+      "artists": [
+        {
+          "name": "Marvel Chorus",
+          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56858,
+      "name": "Captain America - 2024 Stereo Remaster",
+      "url": "https://open.spotify.com/track/3nUb9i0OJ0Lh9JqbRBvFg2"
+    },
+    {
+      "album": {
         "name": "Captain America: The First Avenger",
         "url": "https://open.spotify.com/album/0La1Tskamjd6akysepE8r5"
       },

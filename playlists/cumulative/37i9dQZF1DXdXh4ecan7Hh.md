@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh)
 
-> County's best like you've never heard before\. Cover: Keith Urban at Spotify House
+> County's best like you've never heard before\. Cover: mgk at Spotify House
 
 102 songs - 6 hr 15 min
 

@@ -4,11 +4,11 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-247 songs - 12 hr 47 min
+248 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 |  |
+| [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 | 2024-06-25 | 2024-08-10 |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
@@ -64,7 +64,7 @@
 | [Fast Car \- Acoustic Live Session](https://open.spotify.com/track/14N56qsRV6jOydcjHqN6El) | [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Fast Car \(Acoustic Live Session\)](https://open.spotify.com/album/36HrHr1wj7tzsryHiUnem2) | 3:21 | 2024-04-07 | 2024-05-18 |
 | [Fields Of Gold](https://open.spotify.com/track/5vtOJrmovXGxGsnAck694H) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Songbird](https://open.spotify.com/album/14vOTJhsfQIlJeHgLajs7r) | 4:42 | 2019-10-13 |  |
 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 | 2019-10-13 |  |
-| [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \(Acoustic\)](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 | 2023-03-23 |  |
+| [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \- Acoustic](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 | 2023-03-23 |  |
 | [For Once in My Life \- Acoustic](https://open.spotify.com/track/6x4DcYo8cg6HPwPORgMeWF) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [For Once in My Life \(Acoustic\)](https://open.spotify.com/album/0GcFzXpmOAoP8NsdcExPti) | 2:42 | 2024-02-09 | 2024-06-22 |
 | [Freedom \- Acoustic](https://open.spotify.com/track/63HLCxYAAfRPo47zawh8ep) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN), [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Freedom \(Acoustic\)](https://open.spotify.com/album/1UvTMIIkqpPW96X0QmyaiN) | 3:38 | 2022-01-21 | 2022-09-16 |
 | [Freedom \- Acoustic](https://open.spotify.com/track/2Sta4O12D55ZhfhBzKMdQZ) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [Freedom \(Acoustic\)](https://open.spotify.com/album/408UMBuS3W1kHMpJJssUBl) | 3:07 | 2023-01-20 | 2024-01-13 |
@@ -232,6 +232,7 @@
 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5bldrrpdHrTeaWNT1Kp5xs) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:23 | 2019-10-13 |  |
 | [What's Love Got to Do With It \- Acoustic](https://open.spotify.com/track/3MvFb6pDujgveRaMlTJQ8A) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [What's Love Got to Do With It \(Acoustic\)](https://open.spotify.com/album/5LhqpsqdqBFg9KtEZjDX0X) | 2:41 | 2023-01-20 |  |
 | [What's Up \- Acoustic](https://open.spotify.com/track/6K8gvnCTE8vR5QAbpol2Rj) | [Dimas Senopati](https://open.spotify.com/artist/6NtH5kpLzDDl3hHPt9l0sI) | [What's Up \(Acoustic\)](https://open.spotify.com/album/6Diq7WhTYeCtnBk37jbDz5) | 4:59 | 2023-11-05 | 2024-02-14 |
+| [When a Man Loves a Woman \- Acoustic](https://open.spotify.com/track/2PN98rN23SlUeFWEsuzj9u) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [When a Man Loves a Woman \(Acoustic\)](https://open.spotify.com/album/07CClNjoAklrtFbP4fSlbb) | 2:03 | 2024-08-09 |  |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 | 2019-10-13 |  |
 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/6hoGJGxmzC0jlqfJdte74d) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Dimas Senopati](https://open.spotify.com/artist/6NtH5kpLzDDl3hHPt9l0sI) | [Wherever You Will Go \(Acoustic\)](https://open.spotify.com/album/7uNYjrTXi5IK26ePa0KdAJ) | 3:13 | 2023-06-23 | 2023-12-14 |
 | [Wings \- Acoustic](https://open.spotify.com/track/6RABQoaafYVilegWAT8iQK) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Wings \(Acoustic\)](https://open.spotify.com/album/0zKFZC6ieoYGW8IRvRWmoh) | 3:42 | 2019-10-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38225,
+  "num_followers": 38226,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+        "name": "Random Acts of Total Control",
+        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
       },
       "artists": [
         {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+          "name": "Unschooling",
+          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
         }
       ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
+      "duration_ms": 232895,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Random Acts of Total Control",
-        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
       },
       "artists": [
         {
-          "name": "Unschooling",
-          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
         }
       ],
-      "duration_ms": 232895,
-      "name": "NYE",
-      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Power Lines",
+        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
+      },
+      "artists": [
+        {
+          "name": "Two Trains Left",
+          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Power Lines",
+      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Power Lines",
-        "url": "https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS"
+        "name": "Corrosion",
+        "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
       },
       "artists": [
         {
-          "name": "Two Trains Left",
-          "url": "https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn"
+          "name": "Vestige",
+          "url": "https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN"
         }
       ],
-      "duration_ms": 220812,
-      "name": "Power Lines",
-      "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
+      "duration_ms": 316462,
+      "name": "Corrosion",
+      "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -439,22 +455,6 @@
       "duration_ms": 255483,
       "name": "Piece Of You",
       "url": "https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Corrosion",
-        "url": "https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa"
-      },
-      "artists": [
-        {
-          "name": "Vestige",
-          "url": "https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN"
-        }
-      ],
-      "duration_ms": 316462,
-      "name": "Corrosion",
-      "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
-      },
-      "artists": [
-        {
-          "name": "7 Weeks",
-          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Teenage Ends",
         "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 135270,
       "name": "I Don't Give A Shit",
       "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
+      },
+      "artists": [
+        {
+          "name": "7 Weeks",
+          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Vacuum Sealed",
-        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Songs from the Deepwater",
         "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 284098,
       "name": "Le Squinfus",
       "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Vacuum Sealed",
+        "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/5hy0BBGoCoo7yc3jCWW5mo"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
-      },
-      "artists": [
-        {
-          "name": "Shady Fat Kats",
-          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
-        }
-      ],
-      "duration_ms": 216047,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Centaur Desire",
         "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
       },
       "artists": [
         {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+          "name": "Shady Fat Kats",
+          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+      "duration_ms": 216047,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1199,6 +1183,38 @@
       "duration_ms": 135750,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+      },
+      "artists": [
+        {
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+        }
+      ],
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
+        "name": "From The Sea To Your Mind",
+        "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
       },
       "artists": [
         {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
+          "name": "SIZ",
+          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
         }
       ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+      "duration_ms": 329909,
+      "name": "From The Sea To Your Mind",
+      "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1263,22 +1279,6 @@
       "duration_ms": 201706,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "From The Sea To Your Mind",
-        "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
-      },
-      "artists": [
-        {
-          "name": "SIZ",
-          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
-        }
-      ],
-      "duration_ms": 329909,
-      "name": "From The Sea To Your Mind",
-      "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Homes & Galaxies",
-        "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
+        "name": "Yellow Green",
+        "url": "https://open.spotify.com/album/2s9EeTNm6Xo0EnEDfc4uUZ"
       },
       "artists": [
         {
-          "name": "Fl\u00e8che",
-          "url": "https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs"
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
         }
       ],
-      "duration_ms": 263100,
-      "name": "Once You Taste Blood",
-      "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
+      "duration_ms": 155300,
+      "name": "Yellow Green",
+      "url": "https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld"
     }
   ],
   "unique_name": "French Noise",

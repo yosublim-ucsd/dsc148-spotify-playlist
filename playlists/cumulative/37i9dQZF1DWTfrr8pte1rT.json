@@ -1218,6 +1218,24 @@
     {
       "album": {
         "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0YVBxt3XNv4ZMSawxI0OzI"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/5VlOlh5dIIdhnynEM0tCPp"
+    },
+    {
+      "album": {
+        "name": "Cheerleader",
         "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
       },
       "artists": [
@@ -3376,7 +3394,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
@@ -3952,6 +3970,32 @@
       "duration_ms": 201038,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3NBUmLtUa5mmAqRpcppjta"
+    },
+    {
+      "album": {
+        "name": "Hold My Breath (Mazare Remix)",
+        "url": "https://open.spotify.com/album/1L6AMJSGbd7dmYMk51Lj2B"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        },
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174797,
+      "name": "Hold My Breath (Mazare Remix)",
+      "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
     },
     {
       "album": {
@@ -5844,7 +5888,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 177103,
       "name": "NOVOCAINE",
       "url": "https://open.spotify.com/track/1FWymtsd4lVBebFXELUMtC"
@@ -7745,6 +7789,32 @@
     },
     {
       "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/7mdDDc1sH2RZZcOjhvsYOU"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "OUTRAGE",
+          "url": "https://open.spotify.com/artist/0TcUpuK8ELUzy7nEjZM4xS"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/4wPbUJofQZVpC5mP925ZBg"
+    },
+    {
+      "album": {
         "name": "Steps On You (Peep My Style)",
         "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
       },
@@ -8360,7 +8430,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159103,
       "name": "Throw Your Hands Up",
       "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"

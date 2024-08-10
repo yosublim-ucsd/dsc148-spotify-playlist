@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 631606,
+  "num_followers": 631876,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": "2023-08-25 04:01:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -193,38 +209,6 @@
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
       "added_at": "2024-03-22 07:20:24",
       "album": {
         "name": "TYLA",
@@ -251,22 +235,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -285,20 +265,24 @@
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
-      "added_at": "2023-07-14 04:17:24",
+      "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -331,6 +315,22 @@
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+    },
+    {
+      "added_at": "2023-07-14 04:17:24",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2024-06-14 07:39:29",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
-    },
-    {
       "added_at": "2023-08-25 04:01:00",
       "album": {
         "name": "I Told Them...",
@@ -455,6 +439,22 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "Partition",
-      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "Partition",
+      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
     },
     {
       "added_at": "2024-03-22 07:20:24",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
     },
     {
-      "added_at": "2023-08-25 04:01:00",
-      "album": {
-        "name": "JAGUAR II",
-        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
-    },
-    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "My Own Lane (Expanded Edition)",
@@ -833,6 +817,22 @@
       "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
     },
     {
+      "added_at": "2023-08-25 04:01:00",
+      "album": {
+        "name": "JAGUAR II",
+        "url": "https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
+    },
+    {
       "added_at": "2022-08-02 10:25:51",
       "album": {
         "name": "Bittersweet",
@@ -851,22 +851,6 @@
       "duration_ms": 228000,
       "name": "Breathe (feat. Sean Paul) - Rap Version",
       "url": "https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -907,6 +891,38 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+    },
+    {
+      "added_at": "2023-07-14 04:17:24",
+      "album": {
+        "name": "On My Mama",
+        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 186678,
+      "name": "On My Mama",
+      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -967,22 +983,6 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2023-07-14 04:17:24",
-      "album": {
-        "name": "On My Mama",
-        "url": "https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 186678,
-      "name": "On My Mama",
-      "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 299826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Jade To The Max",
         "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 299826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+      "duration_ms": 217666,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2024-03-22 07:20:24",
@@ -1415,22 +1431,6 @@
       "duration_ms": 214880,
       "name": "Tadow - Edit",
       "url": "https://open.spotify.com/track/5RgNhmyaWYtuIioRVoQzMR"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "Lucy Pearl",
-        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
-      },
-      "artists": [
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/2J2hVpwVV25EK8Bvd3OgCK"
     },
     {
       "added_at": "2024-06-14 07:39:29",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Don't Waste My Time (feat. Ella Mai)",
         "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 199720,
       "name": "Don't Waste My Time (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
-        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Doo Wop (That Thing) - Edit",
-      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Know Myself",
         "url": "https://open.spotify.com/album/3yQsZtQbpsk62l4Yq5pjIK"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 167493,
       "name": "Know Myself",
       "url": "https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
+        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Doo Wop (That Thing) - Edit",
+      "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain](/playlists/plain/37i9dQZF1DX7RR1KZZuLBy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7RR1KZZuLBy)
 
-### [Gospel Greatness](https://open.spotify.com/playlist/37i9dQZF1DX7RR1KZZuLBy)
+### [Gospel Greatness: Kirk Franklin Takeover](https://open.spotify.com/playlist/37i9dQZF1DX7RR1KZZuLBy)
 
-> Listen to your favourite tunes for inspiration and upliftment.
+> Stream Gospel Greatness Takeover by Kirk Franklin as we kick off the Kingdom World Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,996 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,160 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Ngiza Ngokukholwa \(Live at the Durban Icc\)](https://open.spotify.com/track/7ni9SGonngu16zwAbFwVW9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at the Durban Icc\)](https://open.spotify.com/album/2F6EYWwEN8z7yuzjtV5WB2) | 10:36 |
 | 50 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/1AdcEWQE8vSDYqOPHZsOSh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:59 |
 
-Snapshot ID: `ZrR7IQAAAAA8h3Uq876rMeJCgOhrVu+F`
+Snapshot ID: `ZrW8OQAAAADU+z1hQw+v4eoPCW0SNr7G`

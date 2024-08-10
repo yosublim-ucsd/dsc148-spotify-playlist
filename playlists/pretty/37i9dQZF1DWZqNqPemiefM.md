@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,756 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,762 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 34 | [Great Black Music](https://open.spotify.com/track/3HNhpdb8fEnLaa4nSamLos) | [Ethnic Heritage Ensemble](https://open.spotify.com/artist/6ow3P6IkcDfaSGpPVYjzmj), [Kahil El'Zabar](https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV) | [Open Me, A Higher Consciousness of Sound and Spirit](https://open.spotify.com/album/79yO2lHbzL3moNvKykxm5p) | 7:09 |
 | 35 | [Cutting Branches For A Temporary Shelter \- Remastered 2008](https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN) | [Penguin Cafe Orchestra](https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E) | [Penguin Café Orchestra](https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8) | 3:08 |
 | 36 | [Simple Math](https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Simple Math](https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N) | 2:44 |
-| 37 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
+| 37 | [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 |
 | 38 | [KITA VS MEREKA \(Salamanda Remix\)](https://open.spotify.com/track/4nSN1JjvIndrFZu9fTAIIO) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [adaptations](https://open.spotify.com/album/69omOCz2NGSLe7Tum2J4IS) | 4:33 |
-| 39 | [Modern Steps](https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 1:57 |
+| 39 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
 | 40 | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/track/5AeZqVy9kG5B5X8lnYCnNX) | [磯田健一郎](https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt) | [マジエルのまどろみ \- Majel's Slumber](https://open.spotify.com/album/0zlWnNzkRwiGZrk6jwwhuz) | 10:29 |
 | 41 | [Sanctuary](https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 1:05 |
 | 42 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 |

@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: BARANOVSKI
 
-120 songs - 5 hr 42 min
+121 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Miłego lata](https://open.spotify.com/track/6qRA84oyd0yKDnTHbOkSlZ) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Miłego lata](https://open.spotify.com/album/4vgTXHPyctIDYOBKellbeH) | 2:42 | 2024-07-01 |  |
 | [Miłość jest ślepa](https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:17 | 2024-07-01 |  |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 |  |
-| [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/track/3Ugq1h32zAd2ILdNZMdCJp) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA) | 2:35 | 2024-07-01 |  |
+| [na nowo](https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [na nowo](https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a) | 2:04 | 2024-08-09 |  |
+| [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/track/3Ugq1h32zAd2ILdNZMdCJp) | [WERSOW](https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Nad wodę \(feat\. Tribbs\)](https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA) | 2:35 | 2024-07-01 | 2024-08-10 |
 | [Najlepszy miesiąc w roku](https://open.spotify.com/track/7iF5gvEJZVHArxumAc7rUy) | [WOLSKA](https://open.spotify.com/artist/6W535X9Sk4zYwdMeXQ8LwM) | [Najlepszy miesiąc w roku](https://open.spotify.com/album/6vtkxkhV5C2WVBaZb6Fs6j) | 2:53 | 2024-07-01 | 2024-07-05 |
 | [Nasze Święto](https://open.spotify.com/track/1glH8A4oyLdRK2UY77yA13) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Nasze Święto](https://open.spotify.com/album/2E62T54J5L1oWosbl6XfOV) | 2:55 | 2024-07-25 | 2024-08-02 |
 | [Naturalnie](https://open.spotify.com/track/0ITBfggasiPdkLgubB7NDk) | [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Naturalnie](https://open.spotify.com/album/2vERDQM1THyLRWAu5lbs4b) | 2:04 | 2024-08-08 |  |

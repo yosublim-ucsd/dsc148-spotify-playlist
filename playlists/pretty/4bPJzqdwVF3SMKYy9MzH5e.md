@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,933 songs - 4 day 8 hr 6 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,936 songs - 4 day 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1941,5 +1941,8 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1931 | [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Disguise](https://open.spotify.com/album/7MVTglonJzo6LgHJI8MA92) | 2:20 |
 | 1932 | [wutiwant](https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/1ymKniZ31tQMi6lVuM95Ic) | 3:13 |
 | 1933 | [mmm00nm0thz](https://open.spotify.com/track/0SsYZiXbLhPH8WU36muJ4T) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [mmm00nm0thz](https://open.spotify.com/album/5tlsNzwyBLbo5F98qlzZ5X) | 2:56 |
+| 1934 | [bootleg\_mov](https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [bootleg\_mov](https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn) | 1:56 |
+| 1935 | [JUMPSTYLE PARTY](https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE) | [JUMPSTYLE PARTY](https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ) | 1:44 |
+| 1936 | [JUMPSTYLE BOOTLEG](https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [JUMPSTYLE BOOTLEG](https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK) | 3:39 |
 
-Snapshot ID: `AAADMQjQ22kQFQvAPMNpNfRsTxkuGDxT`
+Snapshot ID: `AAADNC+HElT4XJslPMZWUk9frnwJIkJM`

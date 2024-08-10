@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: FISHER & Flowdan
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,032 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,081 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 92 | [My Provider](https://open.spotify.com/track/1JqDQiYE0kGXpYJJgGpR8Z) | [Harvey M](https://open.spotify.com/artist/27clM8Zz7GvmrBHmklzth8) | [My Provider](https://open.spotify.com/album/2ovVwx4VM9SOFbc3BCFBB3) | 3:24 |
 | 93 | [IN YOUR EYES](https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [IN YOUR EYES](https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24) | 3:16 |
 | 94 | [No Heroes](https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [No Heroes](https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu) | 2:01 |
-| 95 | [Shallow Water \- Club Mix](https://open.spotify.com/track/0bJpKkUSRTVRS6crcdH9LQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water \(Club Mix\)](https://open.spotify.com/album/7iC0tylF48VvOWBvJjBtqa) | 3:10 |
+| 95 | [Shallow Water \- Club Mix](https://open.spotify.com/track/0bJpKkUSRTVRS6crcdH9LQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water \- Club Mix](https://open.spotify.com/album/7iC0tylF48VvOWBvJjBtqa) | 3:10 |
 | 96 | [Blinded By Desire](https://open.spotify.com/track/7cFkTvvksmu7l6yoXyaDh7) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Blinded By Desire](https://open.spotify.com/album/1aPmvHGhIEAEZKHFjVAAt7) | 3:12 |
 | 97 | [left u](https://open.spotify.com/track/19yihq4raZGhYZlDEUI75a) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [JOY.](https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P) | [left u](https://open.spotify.com/album/724lIJTgUgcouczJpSDYFg) | 3:09 |
 | 98 | [Don't Stop the Music](https://open.spotify.com/track/3FN9upQKJEZfxCSd34jMN3) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Don't Stop the Music](https://open.spotify.com/album/37btLTfYfICMHtHC6q7smj) | 2:55 |

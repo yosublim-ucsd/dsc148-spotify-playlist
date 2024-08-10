@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1054616,
+  "num_followers": 1054562,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,26 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+      "duration_ms": 163804,
+      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -303,26 +307,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 163804,
-      "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-      "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "No Drama (feat. Craig David)",
-        "url": "https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 153309,
-      "name": "No Drama (feat. Craig David)",
-      "url": "https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v"
-    },
-    {
-      "added_at": "2022-02-25 03:00:00",
-      "album": {
         "name": "Stay (Don't Go Away) [feat. Raye]",
         "url": "https://open.spotify.com/album/581MrXg5n979mmvZaC6AOE"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 185942,
       "name": "Stay (Don't Go Away) [feat. Raye]",
       "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
+    },
+    {
+      "added_at": "2022-02-25 03:00:00",
+      "album": {
+        "name": "No Drama (feat. Craig David)",
+        "url": "https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 153309,
+      "name": "No Drama (feat. Craig David)",
+      "url": "https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v"
     },
     {
       "added_at": "2022-02-25 03:00:00",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2022-02-25 03:00:00",
       "album": {
-        "name": "Provocar",
-        "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
       "artists": [
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
         }
       ],
-      "duration_ms": 168138,
-      "name": "Provocar",
-      "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     }
   ],
   "unique_name": "Projeto Ver\u00e3o",

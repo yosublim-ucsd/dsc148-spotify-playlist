@@ -1,6 +1,6 @@
 {
   "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Semicenk",
-  "num_followers": 1451610,
+  "num_followers": 1451912,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,22 @@
       "duration_ms": 205224,
       "name": "Ortak",
       "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
+    },
+    {
+      "added_at": "2024-08-08 21:00:00",
+      "album": {
+        "name": "Eriyorum G\u00fcnden G\u00fcne",
+        "url": "https://open.spotify.com/album/07ZzbfU1xkU9d9r90jKV5N"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Eriyorum G\u00fcnden G\u00fcne",
+      "url": "https://open.spotify.com/track/6Tv0qEIymHmFJT74WS52TO"
     },
     {
       "added_at": "2024-08-08 21:00:00",

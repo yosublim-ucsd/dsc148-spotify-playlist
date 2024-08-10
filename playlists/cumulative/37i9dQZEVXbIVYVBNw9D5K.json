@@ -5000,7 +5000,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -9728,10 +9728,28 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146979,
       "name": "Kadehimi Bo\u015f B\u0131rakma",
       "url": "https://open.spotify.com/track/14y1hmMvxwpDLbZnY5i0Ne"
+    },
+    {
+      "album": {
+        "name": "Kadehimi Bo\u015f B\u0131rakma",
+        "url": "https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Kadehimi Bo\u015f B\u0131rakma",
+      "url": "https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr"
     },
     {
       "album": {
@@ -14844,7 +14862,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 146964,
       "name": "Salla Salla",
       "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"

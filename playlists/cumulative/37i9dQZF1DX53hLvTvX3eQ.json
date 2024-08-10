@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Asura",
+        "url": "https://open.spotify.com/album/5TlUHsL9fB3jtCQ6rmIIG2"
+      },
+      "artists": [
+        {
+          "name": "Seo Moon Tak",
+          "url": "https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297508,
+      "name": "Loving Me, Loving You",
+      "url": "https://open.spotify.com/track/0DXhrYTbsMhFBKiqmDtkd7"
+    },
+    {
+      "album": {
         "name": "\uc0c8\ubcbd",
         "url": "https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH"
       },
@@ -938,24 +956,6 @@
       "duration_ms": 316466,
       "name": "\uc0ac\ub791 Two",
       "url": "https://open.spotify.com/track/5EGZGkg7DuToUdEa88W2xQ"
-    },
-    {
-      "album": {
-        "name": "Asura",
-        "url": "https://open.spotify.com/album/5TlUHsL9fB3jtCQ6rmIIG2"
-      },
-      "artists": [
-        {
-          "name": "\uc11c\ubb38\ud0c1",
-          "url": "https://open.spotify.com/artist/190lOeScMz8R14WxvV5iq6"
-        }
-      ],
-      "date_added": "2023-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 285466,
-      "name": "\uc0ac\ub791, \uacb0\ucf54 \uc2dc\ub4e4\uc9c0 \uc54a\ub294....",
-      "url": "https://open.spotify.com/track/0DXhrYTbsMhFBKiqmDtkd7"
     },
     {
       "album": {

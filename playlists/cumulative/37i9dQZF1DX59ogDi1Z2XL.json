@@ -1415,6 +1415,28 @@
     },
     {
       "album": {
+        "name": "Arachnid",
+        "url": "https://open.spotify.com/album/6zuNJEZVTcAnSI6uUO2SPy"
+      },
+      "artists": [
+        {
+          "name": "Riicch",
+          "url": "https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ"
+        },
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "Ain't Perfect (feat. Dom Vallie)",
+      "url": "https://open.spotify.com/track/4pMmWdSfDdneUqebBEe9VN"
+    },
+    {
+      "album": {
         "name": "Ain't Reason",
         "url": "https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev"
       },
@@ -4130,7 +4152,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152579,
       "name": "Bon Dieu voit",
       "url": "https://open.spotify.com/track/7hzoYoaXeVkbUkxnNqsRnG"
@@ -5176,6 +5198,32 @@
       "duration_ms": 173714,
       "name": "Chain Smokin Part II",
       "url": "https://open.spotify.com/track/7nwG5yh8PBsY64VdLN3JXx"
+    },
+    {
+      "album": {
+        "name": "Chalk Brothers",
+        "url": "https://open.spotify.com/album/0u8TxlrF4PLYecUnr6azaK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Finn",
+          "url": "https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb"
+        },
+        {
+          "name": "Lord Juco",
+          "url": "https://open.spotify.com/artist/5Gld0bWeqAVgHGgwLpOJlZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133750,
+      "name": "Chalk Brothers",
+      "url": "https://open.spotify.com/track/5ovzmBEZRKyfKeGAmV7USe"
     },
     {
       "album": {
@@ -6338,6 +6386,28 @@
       "duration_ms": 164557,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/0JLXM0cJHkPAiJ1QwAMW4R"
+    },
+    {
+      "album": {
+        "name": "CUCCI",
+        "url": "https://open.spotify.com/album/6q9PrzN1ci2UtgV9zk5MSX"
+      },
+      "artists": [
+        {
+          "name": "Paris Richards",
+          "url": "https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH"
+        },
+        {
+          "name": "Dub J",
+          "url": "https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196765,
+      "name": "CUCCI",
+      "url": "https://open.spotify.com/track/7BUo8ydoUi6HW6o0ProMLy"
     },
     {
       "album": {
@@ -18403,6 +18473,28 @@
     },
     {
       "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/68deIdFlxBeQw5f7ymxIdV"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/3qXKedpMh4zUFRUljwHT8C"
+    },
+    {
+      "album": {
         "name": "Never Give Up (feat. Steven Zaire)",
         "url": "https://open.spotify.com/album/79NtppICeKqi1eW9qliQdD"
       },
@@ -18843,6 +18935,24 @@
     },
     {
       "album": {
+        "name": "NO DOGS ALLOWED",
+        "url": "https://open.spotify.com/album/6r5gr5fWJpmrBx1WZp4FrC"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144135,
+      "name": "NO DOGS ALLOWED",
+      "url": "https://open.spotify.com/track/3Ejg3n0wYfnC0fDjeVLm3S"
+    },
+    {
+      "album": {
         "name": "NO EMOTION / ADRENALINE",
         "url": "https://open.spotify.com/album/0nBp7q8MwjEjqojkCznuJc"
       },
@@ -19242,7 +19352,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 118153,
       "name": "No Sleep (Sega Gen 2)",
       "url": "https://open.spotify.com/track/4v2sTlms5Ac7qjSMzT759B"
@@ -19964,6 +20074,24 @@
       "duration_ms": 157624,
       "name": "Old Head",
       "url": "https://open.spotify.com/track/7CW2GK8hvtjLskynueVWfj"
+    },
+    {
+      "album": {
+        "name": "Old Money",
+        "url": "https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128098,
+      "name": "Old Money",
+      "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"
     },
     {
       "album": {
@@ -22046,7 +22174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156800,
       "name": "Presshaw",
       "url": "https://open.spotify.com/track/5jUb2gxd7DymGzQo4OmFNP"
@@ -22250,7 +22378,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158895,
       "name": "Problems Over Peace",
       "url": "https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD"
@@ -23440,7 +23568,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 116819,
       "name": "Road Dog",
       "url": "https://open.spotify.com/track/2Wigbmrj8vU2yqk5hSeXqJ"
@@ -26734,7 +26862,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200500,
       "name": "Symbiote Suit",
       "url": "https://open.spotify.com/track/4fdAQbsC1jYK5mkGoWF71C"

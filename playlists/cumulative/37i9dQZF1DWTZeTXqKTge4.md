@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Raccoon
+> Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-704 songs - 1 day 12 hr 1 min
+705 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [HAHAHA](https://open.spotify.com/track/5DH1e07zNFKlX5EQZF7sns) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [HAHAHA](https://open.spotify.com/album/5dA0KFh2v17LVU9IALcLRU) | 2:20 | 2024-05-24 | 2024-06-22 |
 | [Haine & Peine](https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:43 | 2022-02-18 | 2022-04-23 |
 | [Harry Potter](https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Harry Potter](https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7) | 3:55 | 2023-03-03 | 2023-05-20 |
-| [Hier encore](https://open.spotify.com/track/4vCqXGcra1BULikbeZCg9z) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:03 | 2024-05-03 |  |
+| [Hier encore](https://open.spotify.com/track/4vCqXGcra1BULikbeZCg9z) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Portrait robot](https://open.spotify.com/album/2XacUMB8RXlMXTr2GCIyzs) | 3:03 | 2024-05-03 | 2024-08-10 |
 | [Highway](https://open.spotify.com/track/6sBWExHE8o9EPgl5qtouGf) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Génération VDR](https://open.spotify.com/album/6TrliXQxDiWmkAuJftqKmN) | 3:36 | 2022-06-10 | 2022-09-03 |
 | [Himalaya](https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Himalaya](https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW) | 2:55 | 2023-05-19 | 2024-03-02 |
 | [HIT](https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [HIT](https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR) | 3:36 | 2022-05-20 | 2022-10-22 |
@@ -464,6 +464,7 @@
 | [Nouveau Chapitre](https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Nouveau Chapitre](https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR) | 3:53 | 2024-06-14 |  |
 | [Nouvelle religion](https://open.spotify.com/track/1nGXom4fnChcFdymHFtknK) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:31 | 2022-02-18 | 2022-08-27 |
 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 | 2022-01-07 | 2022-06-04 |
+| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 |  |
 | [Nova](https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Nova](https://open.spotify.com/album/36y502QiSN08zEiF1ZQ7b5) | 2:31 | 2022-01-07 | 2022-04-16 |
 | [Noyé](https://open.spotify.com/track/6Q2UmYEhrFyQSe9PcKOz5b) | [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Noyé](https://open.spotify.com/album/41qjVmiRONGjHzAnNBHaFW) | 3:34 | 2023-03-31 | 2024-01-27 |
 | [NRNTB\_XC40](https://open.spotify.com/track/2irF6A4W7Dqv4jObPXFHdw) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [NRNTB\_XC40](https://open.spotify.com/album/1U8DHe7YStB6cZIj5cIYXU) | 1:58 | 2024-02-02 | 2024-07-19 |

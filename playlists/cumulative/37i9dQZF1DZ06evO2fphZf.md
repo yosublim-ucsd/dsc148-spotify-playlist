@@ -2,7 +2,7 @@
 
 ### [This Is thủy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fphZf)
 
-> This is thủy\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is thủy\. The essential tracks, all in one playlist.
 
 52 songs - 2 hr 39 min
 

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-347 songs - 20 hr 38 min
+348 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-11 | 2024-04-19 |
 | [Treading Water](https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Treading Water](https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu) | 3:37 | 2022-08-12 |  |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-03-04 |  |
+| [Under The Sun \- Lavern Remix / Edit](https://open.spotify.com/track/2C2cLOJrIDaQz6rNpBBRSP) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Under The Sun](https://open.spotify.com/album/09z21xsnQoPVYWIQuXjPXI) | 2:29 | 2024-08-09 |  |
 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 | 2021-12-03 | 2022-02-12 |
 | [Visions](https://open.spotify.com/track/4TANuW9cpKCGqH499rr9re) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Visions](https://open.spotify.com/album/5T9RiXXAhDNHltzGYXDMGn) | 4:21 | 2021-12-03 | 2022-05-07 |
 | [Waiting For You](https://open.spotify.com/track/3uuHc2dliwIln1oAmSWEZb) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Messing With Magic](https://open.spotify.com/album/2iVxSHEKjzhd5ItHaJgIEx) | 3:45 | 2023-12-08 | 2024-04-19 |

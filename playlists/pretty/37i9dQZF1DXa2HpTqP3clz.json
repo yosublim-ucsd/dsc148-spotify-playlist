@@ -1,15 +1,15 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
-  "num_followers": 162842,
+  "num_followers": 162863,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAC28co+s6PVQQ4oPYooMNni",
+  "snapshot_id": "ZrWUQAAAAABdwm94g7oVEeuWO/h/uLdM",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Earl Jam",
         "url": "https://open.spotify.com/album/1XvuX8TaK3bGUU80Ot741Q"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/2a00zfig1zAOU5aNytQgP2"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Leadfoot",
         "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
@@ -117,47 +117,7 @@
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Will You Ever Be Mine",
-        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
-          "name": "Dudley Connell",
-          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Will You Ever Be Mine",
-      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Into the Wild",
         "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
@@ -177,7 +137,47 @@
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Will You Ever Be Mine",
+        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Will You Ever Be Mine",
+      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6FEPSiSEAwxe9FOpomdoOt"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 182826,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Last Chance to Win",
         "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/3VDvqw41vBUXaqK9FPzkYz"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Brown's Ferry Blues",
         "url": "https://open.spotify.com/album/0qXUsQ7JyqZH3CUN3AgCvT"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7aV13wf4P3pvrNAl1DtXVr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
         "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Alpenglow",
         "url": "https://open.spotify.com/album/2iSaVUXzQK55C1IXDOCSDc"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0DFo7a8DQvONxF2Q5dpV3i"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Midnight on the Stormy Deep",
         "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Heartbreak Train",
         "url": "https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Light We Bring",
         "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "God Fearing Heathen",
         "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/1bSNnXPvsUZ8ZEN51DLgFb"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Black Banjo",
         "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Dangerfield Newby",
         "url": "https://open.spotify.com/album/5dDn4DVhCkI8CtaEbJRUzg"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/08otEkP88HytOAVaUqEjtc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Congratulations and Condolences",
         "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "On Banjo",
         "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Last Slice Of Heaven",
         "url": "https://open.spotify.com/album/5vW3SQQtRDKNHgxjk5ZLSw"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/4mmyKUU1AKiXK8vrYCKafp"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Hubbardville Store",
         "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Back Porch Bluegrass",
         "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
@@ -613,23 +613,23 @@
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+        "name": "Squareneck Soul",
+        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
       "artists": [
         {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+      "duration_ms": 149346,
+      "name": "Squareneck Soul",
+      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "One Sunray At A Time",
         "url": "https://open.spotify.com/album/6wyosEFDOpn2NlDyNlpKPg"
@@ -649,7 +649,23 @@
       "url": "https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
@@ -665,23 +681,7 @@
       "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Squareneck Soul",
-        "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
-      },
-      "artists": [
-        {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Squareneck Soul",
-      "url": "https://open.spotify.com/track/5CqfAkwqX8GmPHJB4J0i6Z"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
@@ -701,55 +701,7 @@
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
@@ -765,7 +717,55 @@
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Whole of the Moon",
         "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Fire in the Dark",
         "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Blue Railroad Train",
         "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Highs and Lows",
         "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Authentic Unlimited",
         "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Morning Shift",
         "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
@@ -997,23 +997,7 @@
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
@@ -1029,7 +1013,23 @@
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
@@ -1049,7 +1049,7 @@
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Something Higher",
         "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
@@ -1065,7 +1065,7 @@
       "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Small Towns",
         "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
@@ -1081,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
@@ -1097,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Please Mr Please",
         "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
@@ -1113,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Runaway Train",
         "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
@@ -1145,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
@@ -1161,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Disarm",
         "url": "https://open.spotify.com/album/2aqRa79t97SrXRvmpmu6zn"
@@ -1177,7 +1177,7 @@
       "url": "https://open.spotify.com/track/28mgF3i1YsF7Vn9HZJl9rj"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Hillside",
         "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
@@ -1193,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Odds of Getting Even",
         "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
@@ -1249,47 +1249,7 @@
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
-        }
-      ],
-      "duration_ms": 230032,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
-      },
-      "artists": [
-        {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
-        }
-      ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
@@ -1329,7 +1289,27 @@
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+        }
+      ],
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
@@ -1353,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
@@ -1369,23 +1349,7 @@
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Murmurations, Vol. 2",
-        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
-      },
-      "artists": [
-        {
-          "name": "Birds of Play",
-          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Sandhill Cranes",
-      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Something You Didn't Count On",
         "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
@@ -1401,7 +1365,23 @@
       "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Murmurations, Vol. 2",
+        "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
+      },
+      "artists": [
+        {
+          "name": "Birds of Play",
+          "url": "https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Sandhill Cranes",
+      "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
@@ -1421,7 +1401,7 @@
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
@@ -1437,7 +1417,7 @@
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Big City",
         "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
@@ -1453,7 +1433,7 @@
       "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Blackgrass: From West Virginia to 125th St",
         "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
@@ -1473,7 +1453,7 @@
       "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Railroadin' & Gamblin'",
         "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
@@ -1489,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
@@ -1505,23 +1485,7 @@
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "This Valley",
         "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
@@ -1537,7 +1501,23 @@
       "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Lives of the Innocent",
         "url": "https://open.spotify.com/album/0E4nRRTROArGOcYoJsGz6J"
@@ -1553,39 +1533,7 @@
       "url": "https://open.spotify.com/track/74uMXgkmFPCj0YLMh39hhO"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Slow Lane",
-        "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 260717,
-      "name": "Slow Lane",
-      "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Kentucky Bluegrassed",
-        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Kentucky Blue",
-      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
@@ -1605,7 +1553,39 @@
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Slow Lane",
+        "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 260717,
+      "name": "Slow Lane",
+      "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Kentucky Bluegrassed",
+        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 180570,
+      "name": "Kentucky Blue",
+      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Snake Charmer",
         "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
@@ -1621,23 +1601,7 @@
       "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Hey Blue Eyed Girl",
-        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
-      },
-      "artists": [
-        {
-          "name": "Cody Sherman",
-          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Hey Blue Eyed Girl",
-      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/0QOVHIpQPTjVy2Mkqhs6Rt"
@@ -1653,23 +1617,39 @@
       "url": "https://open.spotify.com/track/0E5Xg5SpLNfsrhizdoiJN5"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Mary Ann is a Pistol",
-        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
+        "name": "Just Let Me Know",
+        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
       },
       "artists": [
         {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
         }
       ],
-      "duration_ms": 161333,
-      "name": "Mary Ann is a Pistol",
-      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+      "duration_ms": 168000,
+      "name": "Just Let Me Know",
+      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Hey Blue Eyed Girl",
+        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
+      },
+      "artists": [
+        {
+          "name": "Cody Sherman",
+          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Hey Blue Eyed Girl",
+      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Abigail",
         "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
@@ -1685,23 +1665,7 @@
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Kentucky for Me",
         "url": "https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv"
@@ -1721,39 +1685,39 @@
       "url": "https://open.spotify.com/track/5x4uYmnt3aGBjUHcMv5ogR"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+        "name": "Mary Ann is a Pistol",
+        "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
       "artists": [
         {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
         }
       ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+      "duration_ms": 161333,
+      "name": "Mary Ann is a Pistol",
+      "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Just Let Me Know",
-        "url": "https://open.spotify.com/album/6bfTQn4NFP7pDjwNqcJPpg"
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
       },
       "artists": [
         {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Just Let Me Know",
-      "url": "https://open.spotify.com/track/6YwqHK6OUiTvkcKNnH48nZ"
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "As the Crow Flies",
         "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
@@ -1769,7 +1733,23 @@
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
+      },
+      "artists": [
+        {
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Blues Are Close at Hand",
         "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
@@ -1785,7 +1765,27 @@
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Give It Away",
         "url": "https://open.spotify.com/album/2GQjg9G5k3PVsxbbhCSrEF"

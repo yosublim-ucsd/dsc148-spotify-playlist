@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 79234,
+  "num_followers": 79270,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-08-02 10:57:39",
       "album": {
+        "name": "Bringing Me Joy",
+        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
+      },
+      "artists": [
+        {
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "prettyboyface",
+          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "Bringing Me Joy",
+      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
+    },
+    {
+      "added_at": "2024-08-02 10:57:39",
+      "album": {
         "name": "Rita Ora",
         "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 161715,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1"
-    },
-    {
-      "added_at": "2024-08-02 10:57:39",
-      "album": {
-        "name": "Bringing Me Joy",
-        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
-      },
-      "artists": [
-        {
-          "name": "BVNQUET",
-          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
-        },
-        {
-          "name": "prettyboyface",
-          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "Bringing Me Joy",
-      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
     },
     {
       "added_at": "2024-08-02 10:57:39",

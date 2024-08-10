@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Officialalex425 en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁  Xavi en portada.
 
-344 songs - 19 hr 10 min
+345 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-23 | 2023-02-25 |
 | [Ojitos Rojos](https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ojitos Rojos](https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU) | 3:01 | 2024-05-17 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 | 2023-02-24 | 2023-04-22 |
-| [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-06-28 |  |
+| [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-06-28 | 2024-08-10 |
 | [Otra Noche](https://open.spotify.com/track/5aUcRdeMllzipglMOSi5JX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Otra Noche](https://open.spotify.com/album/1cbZXUpP2kswCktpR1hnTa) | 3:21 | 2023-12-22 | 2024-02-17 |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-02-21 | 2022-06-11 |
 | [Pa' Un Cabrón](https://open.spotify.com/track/5byxnDjFcoC37Fu6PIcKqP) | [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Pa' Un Cabrón](https://open.spotify.com/album/0IfD2gf83roRVbZfTSPUb3) | 2:12 | 2024-07-19 |  |
@@ -332,6 +332,7 @@
 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 | 2023-02-10 | 2023-04-22 |
 | [Una Noche En Miami](https://open.spotify.com/track/5TM1G08OEZjLu70YaSbYe2) | [Martinsito](https://open.spotify.com/artist/0lGwR7cZwTuIOpeiagR5uf), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Una Noche En Miami](https://open.spotify.com/album/0H0QKdt4RkDRRPi4EYofRp) | 2:42 | 2024-02-02 | 2024-03-09 |
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-04-08 | 2022-06-25 |
+| [Una Semana](https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Una Semana](https://open.spotify.com/album/4QuVImSzXeKG40qXi9PzuL) | 3:23 | 2024-08-09 |  |
 | [Una Vez Más](https://open.spotify.com/track/2mw2HxgWWgI5SktIxNO43z) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Vez Más](https://open.spotify.com/album/60v1tRIYwWeu1DSqNQYVhR) | 2:38 | 2024-05-17 | 2024-07-19 |
 | [Vas A Olvidarte](https://open.spotify.com/track/3owQ1hV6hn0sQmjRDFmyRe) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 </3](https://open.spotify.com/album/2P6TMN431iln4GxB1SlSo0) | 3:47 | 2023-06-02 | 2023-07-08 |
 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 | 2024-05-31 |  |

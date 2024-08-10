@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Muni Long.",
+  "description": "What's happening in r&b, right now \u2013 featuring Ayra Starr.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -742,6 +742,24 @@
       "duration_ms": 218333,
       "name": "Almost Doesn't Count - Spotify Singles",
       "url": "https://open.spotify.com/track/1tkVsTS1tnMPIBHyWQioLB"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238070,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
     },
     {
       "album": {
@@ -2230,6 +2248,28 @@
       "duration_ms": 216760,
       "name": "careless (feat. daniel caesar)",
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
+    },
+    {
+      "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217283,
+      "name": "CARPINTERIA (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/70W3zEXIxCdMv8l8XfbhoG"
     },
     {
       "album": {
@@ -4395,6 +4435,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152768,
+      "name": "Favorite (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7"
       },
@@ -5916,7 +5978,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh)",
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
@@ -9662,7 +9724,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 265373,
       "name": "N o C h i l l",
       "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
@@ -12898,7 +12960,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152540,
       "name": "Show",
       "url": "https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM"
@@ -15784,7 +15846,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
@@ -17250,6 +17312,24 @@
       "duration_ms": 169516,
       "name": "Young Boy Problems",
       "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

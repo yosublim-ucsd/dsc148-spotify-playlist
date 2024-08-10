@@ -1909,6 +1909,28 @@
     },
     {
       "album": {
+        "name": "SGIODM",
+        "url": "https://open.spotify.com/album/4JbvKbq4e48ky9A7q8qo8U"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u7c73\u9ad8JIMIN",
+          "url": "https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo"
+        },
+        {
+          "name": "m00dzzz",
+          "url": "https://open.spotify.com/artist/26uCgYlH66vPvo22PXEyx1"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "SGIODM",
+      "url": "https://open.spotify.com/track/06K2Ty8SWAFyWZbzPBE2x5"
+    },
+    {
+      "album": {
         "name": "She is a Dream Pop girl",
         "url": "https://open.spotify.com/album/1JcD5n1QyKHhJ1pnQMlhQi"
       },
@@ -2884,6 +2906,24 @@
       "duration_ms": 217802,
       "name": "\u4ed6\u662f\u4f60\u7684\u4f60\u662f\u6211\u7684\u4e00\u5834\u60e1\u5922",
       "url": "https://open.spotify.com/track/4s2zPHCjiDnzM0Dg4KYSVM"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u5148\u4f24\u7684\u6211",
+        "url": "https://open.spotify.com/album/72QX5oLvAzoVqwURV3PqHR"
+      },
+      "artists": [
+        {
+          "name": "D'Trophe \u8c46\u6d46",
+          "url": "https://open.spotify.com/artist/4AQw8kaUipmeuWqmcwetyc"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156132,
+      "name": "\u4f60\u5148\u4f24\u7684\u6211",
+      "url": "https://open.spotify.com/track/1WYiMlJWXNRxDWF4rxtLxo"
     },
     {
       "album": {
@@ -4131,7 +4171,7 @@
     },
     {
       "album": {
-        "name": "\u5c0d\u93e1 (\u5f71\u8996\u5287\u300a\u5510\u671d\u7570\u805e\u9304\u300b\u63d2\u66f2)",
+        "name": "\u5c0d\u93e1 - \u5f71\u8996\u5287\u300a\u5510\u671d\u7570\u805e\u9304\u300b\u63d2\u66f2",
         "url": "https://open.spotify.com/album/4dR10WWNy7b04yBDbX9haY"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,415 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,442 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 48 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
 | 49 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 |
 | 50 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 |
-| 51 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
-| 52 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
+| 51 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
+| 52 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |
 | 53 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
 | 54 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
 | 55 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
-| 56 | [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 |
-| 57 | [I Feel It Coming \- Version Cumbia](https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Rochi Degrossi](https://open.spotify.com/artist/2uqGbV16oT3LW9wDoT1iMh) | [I Feel It Coming \(Version Cumbia\)](https://open.spotify.com/album/6l2TFbfJURhQkuQoZeTZ86) | 2:46 |
+| 56 | [I Feel It Coming \- Version Cumbia](https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Rochi Degrossi](https://open.spotify.com/artist/2uqGbV16oT3LW9wDoT1iMh) | [I Feel It Coming \(Version Cumbia\)](https://open.spotify.com/album/6l2TFbfJURhQkuQoZeTZ86) | 2:46 |
+| 57 | [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 |
 | 58 | [Simplemente Amigos \- Electrocumbia Remix](https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU) | [BXS](https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO) | [Simplemente Amigos](https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM) | 3:44 |
 | 59 | [Con Calma](https://open.spotify.com/track/4rHCsdlraJ36u00sqeVlzT) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Con Calma](https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre) | 3:05 |
 | 60 | [Tonta](https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7) | 3:25 |

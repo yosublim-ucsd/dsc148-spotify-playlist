@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 983235,
+  "num_followers": 983310,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-05-27 19:34:20",
       "album": {
-        "name": "Boxes (Acoustic)",
-        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Boxes - Acoustic",
-      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
-    },
-    {
-      "added_at": "2024-05-27 19:34:20",
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2024-05-27 19:34:20",
+      "album": {
+        "name": "Boxes (Acoustic)",
+        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Boxes - Acoustic",
+      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
       "added_at": "2024-05-27 19:34:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-27 19:34:20",
       "album": {
-        "name": "Many of Horror (MTV Unplugged Live; Edit)",
-        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 254510,
-      "name": "Many of Horror - MTV Unplugged Live; Edit",
-      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
-    },
-    {
-      "added_at": "2024-05-27 19:34:20",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-05-27 19:34:20",
+      "album": {
+        "name": "Many of Horror (MTV Unplugged Live; Edit)",
+        "url": "https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 254510,
+      "name": "Many of Horror - MTV Unplugged Live; Edit",
+      "url": "https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud"
     },
     {
       "added_at": "2024-05-27 19:34:20",
@@ -783,7 +783,7 @@
     {
       "added_at": "2024-05-27 19:34:20",
       "album": {
-        "name": "fleabag (acoustic)",
+        "name": "fleabag - acoustic",
         "url": "https://open.spotify.com/album/5TER2W8dPyfyUIO3FjheKf"
       },
       "artists": [

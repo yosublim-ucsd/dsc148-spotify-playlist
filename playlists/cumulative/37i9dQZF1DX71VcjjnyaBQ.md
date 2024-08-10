@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-205 songs - 17 hr 33 min
+206 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Loose Caboose](https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 3:48 | 2022-06-30 | 2024-01-18 |
 | [Loose Caboose](https://open.spotify.com/track/58dK5y8ovl8y2lyaPRzax7) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Loose Caboose](https://open.spotify.com/album/573EOOeUz1MthRowbswtBC) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Los Bandidos Bogarolles](https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw) | [Judith O'Higgins](https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [His'n'Hers](https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92) | [Los Bandidos Bogarolles](https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu) | 6:55 | 2021-12-21 | 2024-06-01 |
+| [Love for Sale](https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [Love for Sale](https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe) | 5:31 | 2024-08-09 |  |
 | [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 | 2023-06-15 |  |
 | [Mack the Knife](https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [Mack the Knife](https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu) | 5:31 | 2021-12-21 |  |
 | [Memories](https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG), [Maija Kauhanen](https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q) | [Memories](https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv) | 6:06 | 2022-02-10 |  |
@@ -162,7 +163,7 @@
 | [Son binocle](https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 4:04 | 2021-12-21 |  |
 | [Soulsides](https://open.spotify.com/track/2sHWX0OKbabU5Nz5pDUc0D) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Feeling Good \- The Supreme Sound Of Producer Bob Shad](https://open.spotify.com/album/6sR9DBCXgOZo9oZ9zGkRkr) | 4:28 | 2021-12-21 | 2022-09-28 |
 | [Spring of Life](https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Via de la Plata](https://open.spotify.com/album/4nwGWXjKct2mSfGjQQcbYI) | 3:35 | 2022-06-30 | 2024-04-19 |
-| [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 | 2021-12-21 |  |
+| [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 | 2021-12-21 | 2024-08-10 |
 | [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 | 2021-12-21 |  |
 | [Strange Flower](https://open.spotify.com/track/5yXxlQuUaPjIrHe3e6QKrb) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq) | 5:29 | 2022-11-10 | 2024-04-19 |
 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2022-06-30 | 2024-01-18 |

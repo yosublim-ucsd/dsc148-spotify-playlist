@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-207 songs - 11 hr 24 min
+208 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-05-17 |  |
 | [ART DECO \(TEKKNO\)](https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po) | [Clarke 99](https://open.spotify.com/artist/2oAPxiUkLs3EdFAtYX4Qr5) | [ART DECO \(TEKKNO\)](https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o) | 3:18 | 2024-07-05 |  |
 | [Axel F](https://open.spotify.com/track/69NJgj9iXZbpd5mpFCNLIz) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Axel F](https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6) | 2:28 | 2024-07-26 |  |
+| [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/track/69akic9gR26niltxBY8pFm) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD) | 2:19 | 2024-08-09 |  |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-03-15 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
@@ -183,7 +184,7 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-21 |  |
 | [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 | 2024-03-29 |  |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 |  |
-| [Techno Cobra](https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Techno Cobra](https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx) | 3:24 | 2024-04-26 |  |
+| [Techno Cobra](https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Techno Cobra](https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx) | 3:24 | 2024-04-26 | 2024-08-10 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 | 2024-03-17 |
 | [Tell Me](https://open.spotify.com/track/3pvuMKIcwgv9E1UXiwjDyH) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Fairground](https://open.spotify.com/artist/4dQlpFhvkptuBBL8Suvp7E) | [Tell Me](https://open.spotify.com/album/7C0qvVx8l3z9ffSkCeIdtW) | 3:17 | 2024-07-05 |  |
 | [Tell Me Why](https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Tell Me Why](https://open.spotify.com/album/224hEKX6NC4pzENbWL2vXj) | 2:15 | 2023-10-20 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Charli xcx, Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276,761 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,276,664 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 |
 | 2 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 3 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
+| 3 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
 | 4 | [Sweet Dreams](https://open.spotify.com/track/0ekANUuUFZeWZMNQRmYhvs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/6LM7oiElbxhLJJRL6K7AB5) | 3:09 |
 | 5 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 |
 | 6 | [iloveyousomuch](https://open.spotify.com/track/5eICJe5Nqk8VwdPY14gIUr) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [iloveyousomuch](https://open.spotify.com/album/0BFvrRlqx79CGQezsF2XSp) | 2:55 |

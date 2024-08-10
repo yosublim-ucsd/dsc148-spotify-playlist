@@ -5720,6 +5720,28 @@
     {
       "album": {
         "name": "Contigo",
+        "url": "https://open.spotify.com/album/5K3M8cOMFr6ITmE4FgMdI8"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5dDTrE9ePpX0nGY1naajL0"
+    },
+    {
+      "album": {
+        "name": "Contigo",
         "url": "https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF"
       },
       "artists": [
@@ -5734,7 +5756,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 174937,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC"
@@ -19198,7 +19220,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -19220,7 +19242,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
@@ -22886,10 +22908,32 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156290,
       "name": "Queen Of My Castle",
       "url": "https://open.spotify.com/track/3GcdNX6fTmBUqXrZzKiFsD"
+    },
+    {
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156290,
+      "name": "Queen Of My Castle",
+      "url": "https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69"
     },
     {
       "album": {

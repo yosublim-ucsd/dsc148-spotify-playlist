@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-766 songs - 1 day 9 hr 20 min
+769 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,10 +410,12 @@
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-21 | 2023-01-21 |
 | [Mon meilleur ami](https://open.spotify.com/track/6LRrvXTPDplQuKIuIsLZu9) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Mon meilleur ami](https://open.spotify.com/album/3XEe0hI4r7gdlD8WBlpRGX) | 2:09 | 2022-04-21 | 2022-08-10 |
 | [Moon Song](https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Moon Song](https://open.spotify.com/album/343jSnwo27lTQx4VIEuUxA) | 2:32 | 2023-03-20 |  |
+| [Moonglade](https://open.spotify.com/track/4NDadJdcT4V4BdXCZMEAbn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Moonglade](https://open.spotify.com/album/1PBrsZDQjiFQZ8EM2TQUIV) | 2:31 | 2024-08-09 |  |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2022-04-21 | 2023-08-12 |
 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 | 2022-04-21 | 2022-09-24 |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-04-21 | 2023-02-27 |
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-19 | 2023-07-25 |
+| [Morning Mists](https://open.spotify.com/track/1FSVsyrq98BOshFuIK7F5y) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Morning Mists](https://open.spotify.com/album/2NF9nKwXvgywt6Vb5Yhv21) | 2:44 | 2024-08-09 |  |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2022-04-21 | 2022-09-24 |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2022-04-21 | 2022-11-06 |
 | [Morning Sun](https://open.spotify.com/track/3qp1ushu4Ve2Vl5keFaUDM) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Morning Sun](https://open.spotify.com/album/0Mtut04kbP2YfeFRqOMfoU) | 2:27 | 2022-07-20 | 2022-08-10 |
@@ -546,6 +548,7 @@
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2023-01-20 |  |
 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 | 2023-08-29 |  |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2022-04-21 | 2024-03-26 |
+| [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 | 2024-08-09 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-21 | 2024-04-04 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-04-21 |  |
 | [Sapiens](https://open.spotify.com/track/5w32YiZfjZ0vC3Y1bYs62i) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 3:05 | 2022-04-21 | 2022-08-10 |

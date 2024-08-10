@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Coy6oi x Yuni
 
-412 songs - 23 hr 43 min
+414 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Sapuy 火把](https://open.spotify.com/track/1F3hFNZXJ2bOYdlQazr1VC) | [Sauljaljui](https://open.spotify.com/artist/5U7enzUf0xuOMdiqj4tncy) | [Sauljaljui](https://open.spotify.com/album/346YN7qfO68PxzlrroChPX) | 3:59 | 2024-06-27 | 2024-07-05 |
 | [Save Me From Hell](https://open.spotify.com/track/5mOA5K06EpY7PV62bqTEDI) | [武宏澧](https://open.spotify.com/artist/58kU1aZSAwtNyfcND3dWis) | [Save Me From Hell](https://open.spotify.com/album/0qSi596PI2P2jmf78cnAHV) | 3:48 | 2024-06-27 | 2024-07-27 |
 | [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 | 2024-07-27 |
+| [SGIODM](https://open.spotify.com/track/06K2Ty8SWAFyWZbzPBE2x5) | [吉米高JIMIN](https://open.spotify.com/artist/6A0Y9UdTtlmOltkBZ1KtQo), [m00dzzz](https://open.spotify.com/artist/26uCgYlH66vPvo22PXEyx1) | [SGIODM](https://open.spotify.com/album/4JbvKbq4e48ky9A7q8qo8U) | 2:56 | 2024-08-08 |  |
 | [She is a Dream Pop girl](https://open.spotify.com/track/7AIH2Yv5rg0gXNs0tAoSpq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [She is a Dream Pop girl](https://open.spotify.com/album/1JcD5n1QyKHhJ1pnQMlhQi) | 3:23 | 2024-06-27 | 2024-07-12 |
 | [Silent Choir](https://open.spotify.com/track/2cB4qOucH67drKz1W5U4Dk) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Silent Choir](https://open.spotify.com/album/2UAIWUD7MNBn6WW5G3tTmE) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [SLOW DOWN](https://open.spotify.com/track/7kZ6Zxxqcl0iJcPMqYYBiu) | [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI) | [SLOW DOWN](https://open.spotify.com/album/1k5Yew7UAyhZi2HAl1Stgb) | 2:56 | 2024-07-11 | 2024-08-02 |
@@ -157,6 +158,7 @@
 | [人間動物園](https://open.spotify.com/track/0MJYZSyKWHFoCjpfyFSHjP) | [Jonsom Lee](https://open.spotify.com/artist/7D922kvb7JKuCWJNrmo72i) | [人間動物園](https://open.spotify.com/album/509bMhqv6Wp6j1GiottHHu) | 4:56 | 2024-07-11 | 2024-07-19 |
 | [今日休業中](https://open.spotify.com/track/2FOqaWkZOE5in8uCUT4FNJ) | [王錚亮](https://open.spotify.com/artist/3mCdK5iQjk98thTdx2UAUN) | [今日休業中](https://open.spotify.com/album/1wUssSTXZUpkhk2HE59Xk7) | 3:18 | 2024-07-18 | 2024-08-09 |
 | [他是你的你是我的一場惡夢](https://open.spotify.com/track/4s2zPHCjiDnzM0Dg4KYSVM) | [晚餐思路](https://open.spotify.com/artist/5yDEms9eAoq8TyNxMG5JuM) | [私心思](https://open.spotify.com/album/4FyloTXbXZewzcTincL1ZP) | 3:37 | 2024-07-11 | 2024-08-02 |
+| [你先伤的我](https://open.spotify.com/track/1WYiMlJWXNRxDWF4rxtLxo) | [D'Trophe 豆浆](https://open.spotify.com/artist/4AQw8kaUipmeuWqmcwetyc) | [你先伤的我](https://open.spotify.com/album/72QX5oLvAzoVqwURV3PqHR) | 2:36 | 2024-08-08 |  |
 | [你妈逼你结婚了吗](https://open.spotify.com/track/5yynVhfTHW2C9hTXG9uKoi) | [Dotaterr](https://open.spotify.com/artist/1K9PpLJWA2pNg2GwTNxltw) | [你妈逼你结婚了吗](https://open.spotify.com/album/2itQJizHmAIbyLBsFSYuWo) | 3:16 | 2024-07-18 | 2024-07-27 |
 | [你是治癒我的光](https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [你是治癒我的光](https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl) | 2:51 | 2024-07-11 | 2024-07-19 |
 | [你要結婚怎麼沒找我you forget me;\( \(always\)](https://open.spotify.com/track/0nDPOKjplHsErigvEnqpFu) | [Jazzweed.芥子草](https://open.spotify.com/artist/6hsNVDSKfU1yStQycSP67T) | [你要結婚怎麼沒找我you forget me;\( \(always\)](https://open.spotify.com/album/5qLSqtr6k7PwF1pSDCokB9) | 4:30 | 2024-08-08 |  |
@@ -223,7 +225,7 @@
 | [寫DY神曲](https://open.spotify.com/track/5E99YbtnHBXevlTpJTJCQa) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Danny Koo](https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9) | [寫DY神曲](https://open.spotify.com/album/2UVmIlQbLPenk1ByzaLaui) | 2:59 | 2024-06-27 | 2024-07-12 |
 | [寫個屬於我們的故事](https://open.spotify.com/track/43tBubn4S5Lt0mguZlesGK) | [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k) | [Memories](https://open.spotify.com/album/1LqrQBaPDIx1SG21uO9EGK) | 2:57 | 2024-07-18 | 2024-08-09 |
 | [專屬天使](https://open.spotify.com/track/0Skc50nsr518eMmIvH8qlw) | [716](https://open.spotify.com/artist/36Waxfclz2eUotkb8RzQxu) | [7](https://open.spotify.com/album/370vZV2XBiB2A3lLWixvkQ) | 2:23 | 2024-07-25 | 2024-08-09 |
-| [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/track/0j3tWDV6qieqwy8dkqrKLQ) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [對鏡 \(影視劇《唐朝異聞錄》插曲\)](https://open.spotify.com/album/4dR10WWNy7b04yBDbX9haY) | 4:15 | 2024-08-01 |  |
+| [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/track/0j3tWDV6qieqwy8dkqrKLQ) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/album/4dR10WWNy7b04yBDbX9haY) | 4:15 | 2024-08-01 |  |
 | [小孩](https://open.spotify.com/track/7rPXUq935WHYBoWpWA9p9r) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [小孩](https://open.spotify.com/album/0xN7IDBgNLs64r2RbO8e4g) | 4:12 | 2024-08-01 |  |
 | [小故事](https://open.spotify.com/track/4c9PG93lgIdnyTqPMSExsS) | [Summer Lei](https://open.spotify.com/artist/1oA59f4Muicrwf7QY5nDqV) | [小故事](https://open.spotify.com/album/495W9MNVLUBe44jsQ6ANaA) | 3:54 | 2024-07-04 | 2024-07-27 |
 | [就這樣跟我走](https://open.spotify.com/track/1FHycTQaZcHq8NWNncmsef) | [PG LIU](https://open.spotify.com/artist/7pWhfTv5RxJOwBk61w1HoK) | [就這樣跟我走](https://open.spotify.com/album/2ky0oxeA1CPj8NQAMz4dUm) | 2:57 | 2024-06-27 | 2024-07-05 |

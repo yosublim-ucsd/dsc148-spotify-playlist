@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,639 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,655 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 43 | [Eyes Closed](https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 4:32 |
 | 44 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
 | 45 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
-| 46 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
-| 47 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
-| 48 | [Luv 4 U](https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Luv 4 U](https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO) | 3:06 |
-| 49 | [Why \(Remix\)](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why \(Remix\)](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 |
-| 50 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
+| 46 | [Luv 4 U](https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Luv 4 U](https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO) | 3:06 |
+| 47 | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hennessy \(feat\. Blxst\)](https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk) | 2:24 |
+| 48 | [Called it Love](https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Called it Love](https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a) | 3:06 |
+| 49 | [Tasty](https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Tasty](https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK) | 2:30 |
+| 50 | [Why \(Remix\)](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why \(Remix\)](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 |
 | 51 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM) | 3:10 |
 | 52 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
 | 53 | [Room Full Of Love](https://open.spotify.com/track/5zthp0rjPhiX8Vty5tmbzF) | [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2), [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [Room Full Of Love](https://open.spotify.com/album/0NqK6iQuCSulrXQ9hr6oKO) | 3:59 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 79222,
+  "num_followers": 79250,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "I Guess",
-        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224022,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Simple Like 17 (Deluxe)",
         "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 198287,
       "name": "Shut Up About It",
       "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224022,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Crimes of the Heart",
-      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
     },
     {
       "added_at": "2024-08-02 04:00:00",

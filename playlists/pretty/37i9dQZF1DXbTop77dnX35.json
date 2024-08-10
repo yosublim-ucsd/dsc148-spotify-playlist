@@ -1,12 +1,12 @@
 {
   "description": "New Music from Asake, Darkoo, Joeboy, BNXN, showdemcamp and more ",
-  "num_followers": 72999,
+  "num_followers": 73277,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcPAAAAAB4gyv7GqqRejJzlKKlck1p",
+  "snapshot_id": "ZrWwcAAAAAC6BNv6VE8vE5flHap4NhHR",
   "tracks": [
     {
       "added_at": "2024-08-09 00:01:00",
@@ -525,6 +525,26 @@
       "url": "https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV"
     },
     {
+      "added_at": "2024-08-09 06:00:16",
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 156303,
+      "name": "Bad Kids (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
       "added_at": "2024-08-09 00:01:00",
       "album": {
         "name": "Fallin For U",
@@ -863,6 +883,38 @@
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "added_at": "2024-08-09 06:00:16",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": "2024-08-09 06:00:16",
+      "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
     },
     {
       "added_at": "2024-08-09 00:01:00",

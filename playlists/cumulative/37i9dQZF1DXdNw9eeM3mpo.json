@@ -5966,7 +5966,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
@@ -6310,6 +6310,28 @@
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
+    },
+    {
+      "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "album": {

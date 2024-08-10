@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: FLO",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
   "name": "Channel-X",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189867,
       "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
       "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 91500,
       "name": "BUMBO",
       "url": "https://open.spotify.com/track/6Um5zkKxfKPphaOHf4jsrt"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158382,
       "name": "Colonize - Supa Dups Remix",
       "url": "https://open.spotify.com/track/5QOfdOoZ11L68mlPjaMVry"
@@ -4630,10 +4630,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "album": {
@@ -5315,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -5651,6 +5691,28 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Good 2 You (feat. Ciara)",
+      "url": "https://open.spotify.com/track/1ryTZYgEkgaDcxPG3pucHw"
+    },
+    {
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -5758,7 +5820,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
@@ -5900,7 +5962,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210027,
       "name": "hair down",
       "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
@@ -6098,7 +6160,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 177204,
       "name": "Heart Ain't Empty",
       "url": "https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ"
@@ -6294,6 +6356,24 @@
       "duration_ms": 192278,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/7v3v3pXC6RaeLEhsIcAFrs"
+    },
+    {
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/2ZtB2MwrBeH3tkHFQq6lnX"
+      },
+      "artists": [
+        {
+          "name": "Skylar Blatt",
+          "url": "https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/4xFSchyxIzNeNc2d3dWE4i"
     },
     {
       "album": {
@@ -6836,6 +6916,24 @@
       "duration_ms": 189357,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
+    },
+    {
+      "album": {
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
       "album": {
@@ -8305,6 +8403,28 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Look What You Did (feat. Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
@@ -9014,7 +9134,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136763,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/5QqZxIFsXfyIIKWB5MWgza"
@@ -9186,7 +9306,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222141,
       "name": "Moment",
       "url": "https://open.spotify.com/track/5JeIhfMHRZzDcBVKiajU8I"
@@ -9572,7 +9692,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146791,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR"
@@ -9612,6 +9732,28 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195261,
+      "name": "Never Let You Go (feat. YG Marley)",
+      "url": "https://open.spotify.com/track/24XvVvkb3QY6aSKMrb83tN"
     },
     {
       "album": {
@@ -10194,7 +10336,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 239008,
       "name": "Ohemaa (feat. taves)",
       "url": "https://open.spotify.com/track/5rUQxOEjRKajsf7B9iADdJ"
@@ -10380,7 +10522,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
@@ -10788,7 +10930,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 204115,
       "name": "Passion Pt. 2",
       "url": "https://open.spotify.com/track/3OraGxjYSSd6ifEX0Ji2mj"
@@ -10884,7 +11026,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
@@ -11302,7 +11444,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163685,
       "name": "Pressure (feat. JayO)",
       "url": "https://open.spotify.com/track/79OE0Hp0x9UCPqgCvHPgrZ"
@@ -12060,7 +12202,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
@@ -12108,6 +12250,28 @@
       "duration_ms": 207339,
       "name": "Run Away (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
+    },
+    {
+      "album": {
+        "name": "Run It Up (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191925,
+      "name": "Run It Up (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/1bpHOhTahBPeL08SVrxvjc"
     },
     {
       "album": {
@@ -12612,7 +12776,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 133974,
       "name": "SHOW ME OUT",
       "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
@@ -13362,7 +13526,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
@@ -13600,7 +13764,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140768,
       "name": "Stealin' Love",
       "url": "https://open.spotify.com/track/7c41OkV2tVXVsjgCl9chVq"
@@ -13764,7 +13928,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170551,
       "name": "Summer (feat. Musiq Soulchild)",
       "url": "https://open.spotify.com/track/6YjGyMSXvJqvIsdfu2a2cS"
@@ -13986,7 +14150,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -14088,7 +14252,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146127,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx"
@@ -14548,7 +14712,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 220865,
       "name": "Tiny Apartment (with SAINt JHN)",
       "url": "https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY"
@@ -15332,7 +15496,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170721,
       "name": "Wahala (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
@@ -15726,7 +15890,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 114545,
       "name": "Weh She Wan",
       "url": "https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q"
@@ -16778,6 +16942,24 @@
       "duration_ms": 190560,
       "name": "You Laughed at Me",
       "url": "https://open.spotify.com/track/7k9ZpXwNUtVP6RlYbYw8Bd"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

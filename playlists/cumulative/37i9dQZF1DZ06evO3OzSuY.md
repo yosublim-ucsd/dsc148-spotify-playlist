@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3OzSuY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3OzSuY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3OzSuY)
 
-### [This Is ゼンデイヤ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY)
+### [This Is Zendaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3OzSuY)
 
-> This is ゼンデイヤ。アーティストの代表曲をひとつのプレイリストに。
+> This is Zendaya\. The essential tracks, all in one playlist.
 
 40 songs - 2 hr 9 min
 

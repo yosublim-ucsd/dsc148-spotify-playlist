@@ -1,12 +1,12 @@
 {
   "description": "This is Phoenix. The essential tracks, all in one playlist.",
-  "num_followers": 77550,
+  "num_followers": 77573,
   "original_name": "This Is Phoenix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADjZHm0LGfXxMP2FPCSkHZh",
+  "snapshot_id": "ZrQKgAAAAABSJx6+kZ557T9FcibRiqkt",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Eyes On Me (feat. BENEE, Chad Hugo & Pusha T)",
         "url": "https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 146440,
       "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
       "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 259560,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5"
     },
     {
       "added_at": null,

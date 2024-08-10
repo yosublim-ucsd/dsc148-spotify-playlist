@@ -2,9 +2,9 @@
 
 ### [SA Rock ](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw">Jo Black</a>
+> The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C?si=6pB76\-\-cQgW9yydRzvv4XQ">Elle E</a>
 
-495 songs - 1 day 5 hr 33 min
+496 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [EX\-GIRLFRIEND](https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND](https://open.spotify.com/album/6D5taPEIOdazo0DMHRRJnQ) | 2:25 | 2022-03-24 | 2022-08-05 |
 | [EX\-GIRLFRIEND \- Radio Edit](https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND \(Radio Edit\)](https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS) | 2:25 | 2022-03-17 | 2022-12-09 |
 | [Fade](https://open.spotify.com/track/5d0j1i2GP8XwXbLqBUgkcz) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Fade](https://open.spotify.com/album/0ahHE8vBjPVQ1zr2tji7L0) | 5:11 | 2021-09-02 | 2022-07-22 |
-| [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 | 2024-01-04 |  |
+| [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \- Bonus Track Version](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 | 2024-01-04 |  |
 | [FAKE LOVE](https://open.spotify.com/track/4yCzdEiGPcpcDQ87fG4nHS) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Brogan the band](https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc) | [FAKE LOVE](https://open.spotify.com/album/2EuqxVxPLgeVGrIri3Tbhs) | 2:53 | 2022-08-25 | 2022-09-16 |
 | [FALLING DOWN](https://open.spotify.com/track/2DsW6khzay6yv7OMe7Is0x) | [Fortunes Fool](https://open.spotify.com/artist/6xKedc1VLxptty71ldI0Py) | [FALLING DOWN](https://open.spotify.com/album/1d456n0tT0NBMjrdSfahwS) | 4:15 | 2023-02-02 | 2023-04-15 |
 | [Fatal Attraction](https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E) | [3's and 7's](https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H) | [Fatal Attraction](https://open.spotify.com/album/2TJlitKnHY894L95PfqLie) | 3:21 | 2023-03-23 | 2023-04-21 |
@@ -305,7 +305,7 @@
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |
 | [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 | 2024-05-09 | 2024-07-06 |
-| [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 | 2024-08-01 |  |
+| [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 | 2024-08-01 | 2024-08-10 |
 | [Nice Dress](https://open.spotify.com/track/6Kd1izacFjRIP7qUYwqOea) | [SUGAR DIP](https://open.spotify.com/artist/4LguOGGtT3KZLhdCYRN7JG) | [Damage and Dodge](https://open.spotify.com/album/34kSCWvTzuTg3YG2Rr1hRk) | 3:04 | 2023-02-02 | 2023-03-31 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2023-05-06 |
 | [Nikotien](https://open.spotify.com/track/2GhbAsaThgnJQkJJ2NLll7) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Nikotien](https://open.spotify.com/album/3V0aS1eLxtRTWXgYDnZ1uT) | 3:58 | 2024-07-04 | 2024-07-22 |
@@ -345,6 +345,7 @@
 | [Pizza Party](https://open.spotify.com/track/34G7rugYnI2n8PMgAjQ1xr) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Pizza Party](https://open.spotify.com/album/6hzXhNSce8sW2sn4fr5rUd) | 3:20 | 2023-09-15 | 2023-11-10 |
 | [Prediker](https://open.spotify.com/track/4awOkMUUOHxxjU9uJBmd1G) | [RAAF](https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi) | [Prediker](https://open.spotify.com/album/6DLr0e6UlImONhBrEK9Dlp) | 4:52 | 2023-12-08 | 2024-01-05 |
 | [Prisoner of Love](https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Prisoner of Love](https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA) | 3:28 | 2023-05-18 | 2023-07-07 |
+| [Probleem Kind](https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj) | [Elle E](https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C) | [Probleem Kind](https://open.spotify.com/album/3Vc6ivfrjobE5Smg88bBZF) | 3:11 | 2024-08-09 |  |
 | [Prodigal Son](https://open.spotify.com/track/3CJRVQvgxk4vA5ezsADTRf) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Prodigal Son](https://open.spotify.com/album/7rNLF1btPIbjQ0OKHArllT) | 3:31 | 2021-11-11 | 2022-08-05 |
 | [Psycho Killer \- Single Version](https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW) | [The Medicine Dolls](https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese) | [Psycho Killer](https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG) | 3:59 | 2021-05-06 | 2022-09-03 |
 | [Push Me to the Floor](https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Stardust Galaxies](https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro) | 4:11 | 2024-01-04 |  |

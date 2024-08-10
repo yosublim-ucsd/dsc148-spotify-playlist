@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > blir det en hvit sommer?
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,089 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,110 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 25 | [Vakker og vill](https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Vakker og vill](https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj) | 3:46 |
 | 26 | [Dunka](https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [Dunka](https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7) | 2:13 |
 | 27 | [FREDAG](https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [FREDAG](https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46) | 2:48 |
-| 28 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
+| 28 | [FREDAG](https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Jamze](https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX) | [FREDAG](https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u) | 2:07 |
 | 29 | [Min psykolog](https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Min psykolog](https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf) | 2:30 |
-| 30 | [FREDAG](https://open.spotify.com/track/2BW06C7AAEjCdK6GVi2tzU) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Jamze](https://open.spotify.com/artist/3OBoHiFRFSu5KaqskfBDPX) | [FREDAG](https://open.spotify.com/album/2FlDQsT40blZmH2HAt097u) | 2:07 |
+| 30 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 |
 | 31 | [Helg](https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Helg](https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl) | 2:51 |
 | 32 | [Livet Er Herlig](https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Livet Er Herlig](https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG) | 2:23 |
 | 33 | [Lyst på dæ](https://open.spotify.com/track/0pAaQWTrmbKEVPL0mlB9Sx) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Lyst på dæ](https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i) | 2:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 65 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 66 | [Ei tid \- Akustisk versjon](https://open.spotify.com/track/38Qxu73W4pnkkwlKJaLfUK) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT), [Synne](https://open.spotify.com/artist/68UvCzlIOr87VYF5icJd2d) | [Ei tid \(Akustisk versjon\)](https://open.spotify.com/album/2JenyjghH78NEzzNDEfPvF) | 4:02 |
 | 67 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
-| 68 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 |
-| 69 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
+| 68 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
+| 69 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 |
 | 70 | [MERE BANJO!](https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [MERE BANJO!](https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7) | 2:04 |
 
 Snapshot ID: `ZrU/4AAAAAB/89OGV2OIi9hUYre4zc2J`

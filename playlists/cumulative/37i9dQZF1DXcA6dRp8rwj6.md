@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Hanumankind\)
 
-2,213 songs - 4 day 16 hr 23 min
+2,214 songs - 4 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-27 | 2023-05-19 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 | 2023-07-07 |
 | [Gyatt](https://open.spotify.com/track/55l0NVQeCkygpxNjIj7X4B) | [BEL](https://open.spotify.com/artist/6ZIgt7yQuYVxpBpTdHxOQn), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl) | [Gyatt](https://open.spotify.com/album/5RVxXWyW9GG3UnPSCk6Gbm) | 2:37 | 2024-03-08 | 2024-05-10 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 |  |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 | 2024-06-14 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 | 2024-01-05 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-16 | 2022-07-15 |

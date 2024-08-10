@@ -4019,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/1PjNPYkyGVExyT8zgaafqZ"
+      },
+      "artists": [
+        {
+          "name": "CAKES",
+          "url": "https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179062,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS"
+    },
+    {
+      "album": {
         "name": "Infinity (PRETTY YOUNG Remix)",
         "url": "https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti"
       },
@@ -6562,7 +6580,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 228057,
       "name": "Ribs - Joe Hertz Remix",
       "url": "https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc"

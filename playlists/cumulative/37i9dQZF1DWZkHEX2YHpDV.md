@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt & more\. Cover: The Home Team
 
-1,247 songs - 2 day 17 hr 57 min
+1,248 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 | 2022-03-25 | 2022-05-31 |
 | [Crisis](https://open.spotify.com/track/2Wi6zwLGfBlCLl2Pp4fgoN) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Identity Crisis](https://open.spotify.com/album/4FWyoXLfgFO7aGcCXvAgSn) | 3:16 | 2022-02-04 | 2022-05-12 |
 | [cross to bear](https://open.spotify.com/track/3IYiaXzyuPALEvpJ5IXzZ8) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [cross to bear + sorrow machine](https://open.spotify.com/album/0GAtySUVv6nUhmVeWpfAFy) | 4:32 | 2024-07-19 |  |
+| [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 | 2024-07-19 |  |
 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 | 2023-12-08 | 2024-01-20 |
 | [Crying Wolf](https://open.spotify.com/track/6s0lUde4F2kTYAw6u7ku2r) | [The Story Changes](https://open.spotify.com/artist/4ESrVjoUNUtw0QUZl6t3nF) | [To Hell with This Delicate Equation](https://open.spotify.com/album/53RDG8S4bVMArK8jN7o21x) | 2:33 | 2022-03-25 | 2022-04-15 |
 | [Cult](https://open.spotify.com/track/42VEP8qv16ffoRKHcgUYYj) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Cult](https://open.spotify.com/album/4L4UaXxbqEB5NxBk6qaFtx) | 3:13 | 2021-12-10 | 2022-06-24 |
@@ -520,7 +521,7 @@
 | [Home](https://open.spotify.com/track/5gy1YIqLHga0NlBz9ngrFX) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Home](https://open.spotify.com/album/655ZAOVJuY5GK6aND5rkzR) | 3:19 | 2022-01-14 | 2022-07-13 |
 | [Homicide](https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Homicide](https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW) | 3:06 | 2023-05-12 | 2023-07-15 |
 | [Honeymoon](https://open.spotify.com/track/7jZBhvdYb5oMBqkHR9VKtb) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Honeymoon](https://open.spotify.com/album/7FLjZ71F6COhXCoRa8xhod) | 2:45 | 2022-02-04 | 2022-05-26 |
-| [Hopefully Pitchfork Doesn't Hear This](https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [Hopefully Pitchfork Doesn't Hear This](https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg) | 2:26 | 2024-04-12 |  |
+| [Hopefully Pitchfork Doesn't Hear This](https://open.spotify.com/track/3D6N0OuzZPTEDP9MfSIgA0) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [Hopefully Pitchfork Doesn't Hear This](https://open.spotify.com/album/01GmOq8jksLHTkozUJ9Ixg) | 2:26 | 2024-04-12 | 2024-08-10 |
 | [Horoscope](https://open.spotify.com/track/0GdurIUMGkwNPQCLWYj9Y3) | [Thick Skin](https://open.spotify.com/artist/6daSwa3QR61QH1s8t426c2) | [Horoscope](https://open.spotify.com/album/1m1cehDYl8Nt3xqMmKWxAk) | 3:41 | 2022-04-01 | 2022-04-21 |
 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 | 2023-04-10 | 2024-05-25 |
 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 | 2024-01-19 |  |

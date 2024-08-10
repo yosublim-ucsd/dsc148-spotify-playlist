@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 245830,
+  "num_followers": 245980,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Maria Elena",
-        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Maria Elena",
-      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
         "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 233600,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "El Condor Pasa",
-        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
-      },
-      "artists": [
-        {
-          "name": "Orchester Anthony Ventura",
-          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
-        }
-      ],
-      "duration_ms": 140573,
-      "name": "Don't Cry for Me, Argentina",
-      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Die Sch\u00f6nsten Melodien Der Welt",
         "url": "https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 124240,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
+      },
+      "artists": [
+        {
+          "name": "Orchester Anthony Ventura",
+          "url": "https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK"
+        }
+      ],
+      "duration_ms": 140573,
+      "name": "Don't Cry for Me, Argentina",
+      "url": "https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -815,22 +815,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "Kiss of Fire",
-      "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "Kiss of Fire",
+      "url": "https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Pure Instrumental Memories",
-        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+        "name": "Exploring New Sounds In Stereo",
+        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
+      "duration_ms": 165200,
+      "name": "Lazy Bones",
+      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Pure Instrumental Memories",
+        "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/2EEcKIpEnPvBz7dndYugVu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "I Love Paris, Holiday In Rome (Two Original Albums on One)",
         "url": "https://open.spotify.com/album/0QUJfvFIgBbund9LcRwI4q"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 147453,
       "name": "Mademoiselle de Paris",
       "url": "https://open.spotify.com/track/3cGMK5oIwTvy4IZNVtWSxc"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Exploring New Sounds In Stereo",
-        "url": "https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "Lazy Bones",
-      "url": "https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Music Box Dancer",
+        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
+      },
+      "artists": [
+        {
+          "name": "Frank Mills",
+          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Music Box Dancer",
+      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Themes",
         "url": "https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay"
       },
@@ -1659,38 +1675,6 @@
       "duration_ms": 211208,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Music Box Dancer",
-        "url": "https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf"
-      },
-      "artists": [
-        {
-          "name": "Frank Mills",
-          "url": "https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Music Box Dancer",
-      "url": "https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1743,22 +1727,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
-        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
-      },
-      "artists": [
-        {
-          "name": "Spanish Caribe Band",
-          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Concierto para una Sola Voz",
-      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "!!!Going Places!!!",
         "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
       },
@@ -1775,6 +1743,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Fusion Brasil Jazz. Bossa Nova M\u00fasica Brasile\u00f1a",
+        "url": "https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29"
+      },
+      "artists": [
+        {
+          "name": "Spanish Caribe Band",
+          "url": "https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q"
+        }
+      ],
+      "duration_ms": 140560,
+      "name": "Concierto para una Sola Voz",
+      "url": "https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR"
     },
     {
       "added_at": "2020-12-08 19:02:01",

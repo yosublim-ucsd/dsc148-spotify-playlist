@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchqrcYVfAQC.md) - [plain]
 
 > A playlist by Sabrina, to warm you up for the Short n'Sweet tour 💕☕💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,206 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,230 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

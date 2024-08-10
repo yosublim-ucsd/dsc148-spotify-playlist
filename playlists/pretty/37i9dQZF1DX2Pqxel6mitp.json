@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 90333,
+  "num_followers": 90396,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 360480,
       "name": "Blue River Rising",
       "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "High and Lonesome",
-        "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 273954,
-      "name": "High and Lonesome",
-      "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -831,6 +811,26 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "High and Lonesome",
+        "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 273954,
+      "name": "High and Lonesome",
+      "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Yellow Peril",
         "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 204986,
       "name": "Yellow Peril",
       "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 156465,
       "name": "The Sun is Shining",
       "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Traveling Medicine Man",
-        "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
-      },
-      "artists": [
-        {
-          "name": "Bai Kamara Jr",
-          "url": "https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi"
-        },
-        {
-          "name": "The Voodoo Sniffers",
-          "url": "https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 335880,
       "name": "Stagolee",
       "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Traveling Medicine Man",
+        "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
+      },
+      "artists": [
+        {
+          "name": "Bai Kamara Jr",
+          "url": "https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi"
+        },
+        {
+          "name": "The Voodoo Sniffers",
+          "url": "https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1339,8 +1339,8 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Candy Man Blues: Essential Recordings",
-        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 175226,
-      "name": "Candy Man Blues",
-      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Holding Court",
         "url": "https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV"
       },
@@ -1503,8 +1487,24 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Candy Man Blues: Essential Recordings",
+        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
+      "duration_ms": 175226,
+      "name": "Candy Man Blues",
+      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 211999,
       "name": "Dirtiest Little Darling",
       "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+      },
+      "artists": [
+        {
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+        }
+      ],
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Top Jazz Blues Festival 1964",
-        "url": "https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0"
-      },
-      "artists": [
-        {
-          "name": "Mongarfield",
-          "url": "https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX"
-        }
-      ],
-      "duration_ms": 202337,
-      "name": "Baby Back to Me",
-      "url": "https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 134093,
       "name": "Rainy Day Blues",
       "url": "https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Top Jazz Blues Festival 1964",
+        "url": "https://open.spotify.com/album/68AAzzir4EMjSEZYDvbDM0"
+      },
+      "artists": [
+        {
+          "name": "Mongarfield",
+          "url": "https://open.spotify.com/artist/0RiXHV3CODQwPjdM79ntEX"
+        }
+      ],
+      "duration_ms": 202337,
+      "name": "Baby Back to Me",
+      "url": "https://open.spotify.com/track/4JNwX5jryAvLWcB38Kriyh"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -2015,22 +2015,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO"
       },
       "artists": [
         {
-          "name": "AJ Fullerton",
-          "url": "https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 194321,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
+      "duration_ms": 226333,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
     }
   ],
   "unique_name": "Black Coffee Blues",

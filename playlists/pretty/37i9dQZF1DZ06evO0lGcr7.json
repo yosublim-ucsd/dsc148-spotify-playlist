@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46975,
+  "num_followers": 46978,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAADfrO2ThNpzRemAsAYslWd",
+  "snapshot_id": "ZrQKgAAAAAC2WIr8nMiyoH3csO1uWUaF",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "almost home",
-      "url": "https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUFFET",
         "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 110011,
       "name": "walk but in a garden (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "almost home",
+      "url": "https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "please don't",
         "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 256601,
       "name": "please don't",
       "url": "https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "unspoken words",
-      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 191706,
       "name": "haze",
       "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "unspoken words",
+      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "dream of you",
-      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 158200,
       "name": "quiet motions",
       "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "dream of you",
+      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "suffice",
-      "url": "https://open.spotify.com/track/52zX2mU98vc7Vz9EzvRGMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 169413,
       "name": "no faker",
       "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "suffice",
+      "url": "https://open.spotify.com/track/52zX2mU98vc7Vz9EzvRGMh"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 123773,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/7vpBAYLRWsyoXRKBkEn6IK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Mean",
         "url": "https://open.spotify.com/album/24sVYdbUT74K1lO3lTnbOe"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 270445,
       "name": "So Mean",
       "url": "https://open.spotify.com/track/67LVRpGwukS1vEO8nNzT37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 123773,
-      "name": "1, 2",
-      "url": "https://open.spotify.com/track/7vpBAYLRWsyoXRKBkEn6IK"
     },
     {
       "added_at": null,

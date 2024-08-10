@@ -1,29 +1,13 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43437,
+  "num_followers": 43443,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACDaKePtfpEPP4VVhn2vxUi",
+  "snapshot_id": "ZrQKgAAAAACmAb5LRnv1fxUGp6dNrsDl",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin City (Live from Bensalem, PA. 2023)",
-        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 211713,
-      "name": "Sin City - Live from Bensalem, PA. 2023",
-      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
-    },
     {
       "added_at": null,
       "album": {
@@ -155,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashes & Fire",
-        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Lucky Now",
-      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -183,6 +151,22 @@
       "duration_ms": 132680,
       "name": "Dear Chicago",
       "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/6embeY4aFzhjb25UbR8RU6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Lucky Now",
+      "url": "https://open.spotify.com/track/1xLiOXTkAetjRqmPQwELn4"
     },
     {
       "added_at": null,
@@ -523,38 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
-        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 233858,
-      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
-      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -567,6 +519,22 @@
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
+        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
       },
       "artists": [
         {
@@ -596,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 233858,
+      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
+      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
     },
     {
       "added_at": null,
@@ -615,6 +583,22 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 234426,
+      "name": "I See Monsters",
+      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -676,9 +676,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin City (Live from Bensalem, PA. 2023)",
+        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 211713,
+      "name": "Sin City - Live from Bensalem, PA. 2023",
+      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
     },
     {
       "added_at": null,
@@ -692,29 +708,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 234426,
-      "name": "I See Monsters",
-      "url": "https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Battle",
-        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Cary",
-          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
-        },
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "The Battle (feat. Ryan Adams)",
-      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
       "added_at": null,
@@ -744,9 +740,29 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+      "duration_ms": 181840,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "The Battle (feat. Ryan Adams)",
+      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
     },
     {
       "added_at": null,
@@ -763,38 +779,6 @@
       "duration_ms": 256312,
       "name": "After the Gold Rush - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
-        "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 264699,
-      "name": "When Doves Cry - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/07DYpYvOfxSSx7Rwk4WZRm"
     },
     {
       "added_at": null,
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+        "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
+        "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 207971,
-      "name": "Speeding Car",
-      "url": "https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1"
+      "duration_ms": 264699,
+      "name": "When Doves Cry - Live from Minneapolis, MN. 2022.",
+      "url": "https://open.spotify.com/track/07DYpYvOfxSSx7Rwk4WZRm"
     }
   ],
   "unique_name": "This Is Ryan Adams",

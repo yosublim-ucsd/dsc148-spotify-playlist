@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 591071,
+  "num_followers": 591194,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -455,30 +455,6 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "Not Fair",
-        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Old Jim",
-          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
-        },
-        {
-          "name": "Enny-Mae",
-          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Not Fair",
-      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
+        "name": "Not Fair",
+        "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Enny-Mae",
+          "url": "https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Not Fair",
+      "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "Faster n Harder",
-        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
-      },
-      "artists": [
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Faster n Harder",
-      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 169852,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
+        "name": "Faster n Harder",
+        "url": "https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W"
+      },
+      "artists": [
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Faster n Harder",
+      "url": "https://open.spotify.com/track/3qaMprRWLGggArD14diXYz"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
         "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
         "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
@@ -831,18 +847,22 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -871,26 +891,6 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
         "name": "Erinner mich",
         "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
-      },
-      "artists": [
-        {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -967,6 +947,30 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
+        "name": "Lay All Your Love On Me",
+        "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
+      },
+      "artists": [
+        {
+          "name": "Lietru",
+          "url": "https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ"
+        },
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
         "name": "Friesenjung",
         "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
       },
@@ -991,26 +995,22 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "Lay All Your Love On Me",
-        "url": "https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz"
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
       "artists": [
         {
-          "name": "Lietru",
-          "url": "https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ"
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
         },
         {
-          "name": "YAMAS",
-          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "TABU.",
-        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
-      },
-      "artists": [
-        {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "TABU.",
-      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
         "name": "King Of My Castle",
         "url": "https://open.spotify.com/album/6bgKBvSpQlbrGcy7dut6cl"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 153406,
       "name": "King Of My Castle",
       "url": "https://open.spotify.com/track/2NKLeHNNgAd8YE5guUPdL0"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
         "name": "Lila Wolken - EP",
         "url": "https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
     },
     {
       "added_at": "2024-08-08 07:19:16",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-08-08 07:19:16",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2024-08-08 07:19:16",
-      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 231533,
       "name": "Crying at the Discoteque - Radio Edit",
       "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
+    },
+    {
+      "added_at": "2024-08-08 07:19:16",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     }
   ],
   "unique_name": "schiebt anders",

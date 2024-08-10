@@ -2699,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "Juntas",
+        "url": "https://open.spotify.com/album/1o52QXSvHiQXkXdeqwNf3o"
+      },
+      "artists": [
+        {
+          "name": "La Farmakos",
+          "url": "https://open.spotify.com/artist/1rRwWqd4q5AZP4BXbhoRlO"
+        },
+        {
+          "name": "Eli Almic",
+          "url": "https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162497,
+      "name": "Juntas",
+      "url": "https://open.spotify.com/track/7FQyqcmxZaPncz5370wexn"
+    },
+    {
+      "album": {
         "name": "Amor, Locura & Otros Vicios",
         "url": "https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD"
       },
@@ -3650,7 +3672,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 191250,
       "name": "Mi Testamento",
       "url": "https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi"
@@ -5166,7 +5188,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171740,
       "name": "Scorpio",
       "url": "https://open.spotify.com/track/5RwbPOgYWW4xis3fcxS7nv"
@@ -5978,6 +6000,28 @@
       "duration_ms": 159590,
       "name": "Tumbao",
       "url": "https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu"
+    },
+    {
+      "album": {
+        "name": "Un Ratito",
+        "url": "https://open.spotify.com/album/0Sc65JNBxNxp6RCU91j5mT"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166775,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/5GP3ZYAcxO6BvT9XSzQuRA"
     },
     {
       "album": {

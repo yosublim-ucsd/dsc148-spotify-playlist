@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121605,
+  "num_followers": 121612,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-08-02 11:59:36",
       "album": {
-        "name": "Acid Dreams",
-        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 183930,
-      "name": "Acid Dreams",
-      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
-    },
-    {
-      "added_at": "2024-08-02 11:59:36",
-      "album": {
         "name": "Amor de Domingo",
         "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 154337,
       "name": "Amor de Domingo",
       "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
+    },
+    {
+      "added_at": "2024-08-02 11:59:36",
+      "album": {
+        "name": "Acid Dreams",
+        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 183930,
+      "name": "Acid Dreams",
+      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
     },
     {
       "added_at": "2024-08-02 11:59:36",

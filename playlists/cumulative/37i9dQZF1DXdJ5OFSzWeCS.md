@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-710 songs - 21 hr 18 min
+711 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Den Finurliga Humlan](https://open.spotify.com/track/0SwL4QnOkrOLrigdCUlIn4) | [Isa Gillis](https://open.spotify.com/artist/3rU2YqShYRVpdKKMHcJtJZ) | [Den Finurliga Humlan](https://open.spotify.com/album/6eqbBYqruKx9FTGOBHbLbf) | 2:27 | 2022-02-10 | 2023-04-07 |
 | [Ding dong](https://open.spotify.com/track/7aytpVhnbyhSk2SMYJyJ8F) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Ding dong](https://open.spotify.com/album/6cckM8YGNmoqkleN5X6H4Z) | 1:25 | 2022-02-10 | 2024-03-29 |
 | [Ding Dong Bell](https://open.spotify.com/track/45HVwDVWHeiIbRtpDmvwqI) | [Carolyn Gupton](https://open.spotify.com/artist/2KZs7N1xQn6LR7TFeunoVg) | [A Day At The Market](https://open.spotify.com/album/5bZ2cjSCMj11WgEi4JNtEN) | 1:27 | 2022-02-10 | 2023-03-18 |
-| [Dinosaur Bob](https://open.spotify.com/track/5InBJ8eibgtmv1N09ngDhr) | [Dave Zavier](https://open.spotify.com/artist/5eHdr3iDhoa3RwHXlmO8gT) | [Dinosaur Bob](https://open.spotify.com/album/04PLoT0cxdH5slFAVwvsKO) | 1:32 | 2022-02-10 |  |
+| [Dinosaur Bob](https://open.spotify.com/track/5InBJ8eibgtmv1N09ngDhr) | [Dave Zavier](https://open.spotify.com/artist/5eHdr3iDhoa3RwHXlmO8gT) | [Dinosaur Bob](https://open.spotify.com/album/04PLoT0cxdH5slFAVwvsKO) | 1:32 | 2022-02-10 | 2024-08-10 |
 | [Dinosaur Doughnuts](https://open.spotify.com/track/7Iw8nAnMvJk8WVk6dG3qW0) | [Veronika Macias](https://open.spotify.com/artist/2l9FJRThNUAv0yn6wg8b6S) | [Dinosaur Doughnuts](https://open.spotify.com/album/0tbvgoVxplbVawrvYnVuKI) | 1:03 | 2022-02-10 | 2024-03-29 |
 | [Dog\-Tired](https://open.spotify.com/track/3OBdzBF7LZx3rCTefNYI4J) | [Janessa Coleman](https://open.spotify.com/artist/2XBm3Isxn2i0mt3Rm0Jc1O) | [Dog\-Tired](https://open.spotify.com/album/45a45mtZEuQOYaAsEUFVro) | 1:51 | 2022-02-10 | 2022-12-24 |
 | [Donnie The Dino](https://open.spotify.com/track/0YsOXsvS44rwX2A29yGbU1) | [Beatrice Beaulieu](https://open.spotify.com/artist/5dRCdXi7qGfFhdWRyhQuuh) | [Donnie The Dino](https://open.spotify.com/album/4EdOgktOVMSgt9Zo8P02Td) | 2:51 | 2022-02-10 | 2022-10-29 |
@@ -559,6 +559,7 @@
 | [Sleepyness](https://open.spotify.com/track/4AtkK1OH5jMYRYp09dPzEL) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [Sleepyness](https://open.spotify.com/album/0uqbHNasZC4ZnqwYnv6TJ4) | 1:51 | 2022-06-30 | 2023-08-26 |
 | [Sloop John B](https://open.spotify.com/track/7LXjN2ax1g6aMHFWgYM4CZ) | [Laurel Hoh](https://open.spotify.com/artist/08SzjkwPk23BWqKL6LMHMj) | [Sloop John B](https://open.spotify.com/album/4dAGEQqMhXguM3LluDzKR3) | 1:47 | 2022-12-23 | 2024-04-19 |
 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 | 2023-12-08 |  |
+| [Slumber All Night](https://open.spotify.com/track/3moGIJmSwdX8Co4ksrm8rk) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [Slumber All Night](https://open.spotify.com/album/2R6NKr5obgHmT6xSYIO8CK) | 1:16 | 2024-08-09 |  |
 | [Slumra i min famn](https://open.spotify.com/track/6y9ZWh1WBU9PwFI10v2go9) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Slumra i min famn](https://open.spotify.com/album/2NHnGQfcnblQkmmbJHTBFh) | 2:03 | 2022-02-10 | 2022-10-08 |
 | [Small Clouds](https://open.spotify.com/track/1aRMumON7JNWL982gkl7Tz) | [Greg Lattimore](https://open.spotify.com/artist/2qmcE76xWoCFGJy7fzPcx6) | [Bedtime Lullaby](https://open.spotify.com/album/4QJRLkSNB0HFepfxRCp8rk) | 1:31 | 2023-03-17 |  |
 | [Smiling In My Sleep](https://open.spotify.com/track/4k2xVaV0x3RdW3vUoL68h3) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [Smiling In My Sleep](https://open.spotify.com/album/3YbzN8nHdN5jorYjpNvzLu) | 2:10 | 2022-02-10 | 2024-03-29 |

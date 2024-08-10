@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "12345678",
+        "url": "https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124804,
+      "name": "12345678",
+      "url": "https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu"
+    },
+    {
+      "album": {
         "name": "15 MINUTES",
         "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
       },
@@ -368,6 +386,24 @@
       "duration_ms": 146317,
       "name": "99 boys",
       "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
+    },
+    {
+      "album": {
+        "name": "99% ANGEL",
+        "url": "https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "99% ANGEL",
+      "url": "https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB"
     },
     {
       "album": {
@@ -1176,6 +1212,24 @@
       "duration_ms": 180066,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/5Pl43Jl1upKLQVM3pmjN76"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Dante",
+          "url": "https://open.spotify.com/artist/4qKhmtnbLhjuRXQSS07yrs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176865,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/37A6byRJN2nxOmqAAqLOr8"
     },
     {
       "album": {
@@ -2957,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "CHATEAU MARMONT",
+        "url": "https://open.spotify.com/album/0GPjPG3ahpOYHJd4yQEzOS"
+      },
+      "artists": [
+        {
+          "name": "Cooper Scott",
+          "url": "https://open.spotify.com/artist/5Fs8S6yfPpZ1yW6y32SguL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127802,
+      "name": "CHATEAU MARMONT",
+      "url": "https://open.spotify.com/track/0D1XVGMkfTpYPbhBrEozeX"
+    },
+    {
+      "album": {
         "name": "Check Check",
         "url": "https://open.spotify.com/album/2cjrye5FaoK9ExMD1rwWa6"
       },
@@ -4418,7 +4490,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178510,
       "name": "Don't Let My Boyfriend Get In Your Way",
       "url": "https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98"
@@ -9498,10 +9570,28 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
+    },
+    {
+      "album": {
+        "name": "JOYRIDE (The Remixes)",
+        "url": "https://open.spotify.com/album/1J2fMSLw8qwvUUCy0d9jdU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125752,
+      "name": "JOYRIDE - Revved Up Remix",
+      "url": "https://open.spotify.com/track/1gpiXfkPgenfYUqXmvXDtV"
     },
     {
       "album": {
@@ -9654,7 +9744,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
@@ -10280,6 +10370,24 @@
       "duration_ms": 178133,
       "name": "Life's Too Short (English Version)",
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+    },
+    {
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "album": {
@@ -12335,6 +12443,32 @@
     },
     {
       "album": {
+        "name": "Never Like Me",
+        "url": "https://open.spotify.com/album/3aMmzcJ5CmtMltIC41HKdT"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Never Like Me",
+      "url": "https://open.spotify.com/track/7gJ4fxyVlsTvk9deROJc0F"
+    },
+    {
+      "album": {
         "name": "Never Made It Out Alive",
         "url": "https://open.spotify.com/album/1YMTVbVImqUtUN0pa78xxK"
       },
@@ -14068,7 +14202,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
@@ -16232,7 +16366,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188266,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/0beVZzd2zliQ75XNIhTG93"
@@ -16982,7 +17116,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190327,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/0tVt6EukkvPm3V0JRP5wzW"
@@ -18900,7 +19034,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"

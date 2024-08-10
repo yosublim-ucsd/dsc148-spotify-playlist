@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,758 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,759 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,7 +286,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 276 | [Mommy Can't Sleep](https://open.spotify.com/track/4juBbnJZoHhqle4x1SmOtx) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql) | [Mommy Can't Sleep](https://open.spotify.com/album/24srZLe34NVpR9s4Pnhl7N) | 2:55 |
 | 277 | [Crack](https://open.spotify.com/track/7zMDDl1exHzSKPQEW5z8fM) | [India de Beaufort](https://open.spotify.com/artist/09m33O8TlkSE2oRUuDPoXF) | [Crack](https://open.spotify.com/album/284yQ83jnjLkhRkEvUs9zE) | 2:33 |
 | 278 | [Queendom](https://open.spotify.com/track/3aV1ZZwtb6X0W3znYSyZS5) | [Moana A](https://open.spotify.com/artist/3OSLBsIyNqsC9GvtPwKNwU), [Koda Kids](https://open.spotify.com/artist/6Tqb4gf9C6YCBGuJ1GAO3m) | [Queendom](https://open.spotify.com/album/0XcAf8bsVBDd3ky6a1JJYP) | 3:27 |
-| 279 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 |
+| 279 | [Tonight Tonight](https://open.spotify.com/track/1lk1AQ4NL2F5INzLcCWa1u) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \- Deluxe](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 3:39 |
 | 280 | [Conquistador](https://open.spotify.com/track/2CtGSHNuoOv1vEddNdw5NC) | [Dylan Carlson](https://open.spotify.com/artist/1dDX5u6NxFxiGmOjbVmZ4a) | [Conquistador](https://open.spotify.com/album/54oeDcahqpxhWxZZp71kyr) | 13:12 |
 | 281 | [The Push](https://open.spotify.com/track/44m2gnazCaLaXSFiBBTbnA) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 4:17 |
 | 282 | [Bread + Wine](https://open.spotify.com/track/59dOoa6Zco8dpqZnEONvBO) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 5:19 |

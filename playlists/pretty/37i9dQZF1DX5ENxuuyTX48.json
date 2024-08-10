@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW! Cover: RESORT",
-  "num_followers": 20759,
+  "num_followers": 20767,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-09 01:27:50",
       "album": {
+        "name": "Lagipula Hidup Akan Berakhir",
+        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 266330,
+      "name": "Cincin",
+      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "added_at": "2024-08-09 01:27:50",
+      "album": {
         "name": "Mengudara",
         "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
       },
@@ -603,18 +619,22 @@
     {
       "added_at": "2024-08-09 01:27:50",
       "album": {
-        "name": "Lagipula Hidup Akan Berakhir",
-        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+        "name": "Terlalu Cinta",
+        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         }
       ],
-      "duration_ms": 266330,
-      "name": "Cincin",
-      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+      "duration_ms": 259040,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
     },
     {
       "added_at": "2024-08-09 01:27:50",
@@ -647,26 +667,6 @@
       "duration_ms": 215591,
       "name": "Tutur Batin",
       "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
-    },
-    {
-      "added_at": "2024-08-09 01:27:50",
-      "album": {
-        "name": "Terlalu Cinta",
-        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
-      },
-      "artists": [
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Terlalu Cinta",
-      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
     },
     {
       "added_at": "2024-08-09 01:27:50",

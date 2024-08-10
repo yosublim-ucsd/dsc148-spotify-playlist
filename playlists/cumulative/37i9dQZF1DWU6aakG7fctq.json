@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Alex O'aiza",
+  "description": "Fresh Latin Indie you should know. Cover: Gyanma",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "broken heart",
+        "url": "https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V"
+      },
+      "artists": [
+        {
+          "name": "Danny Bonilla",
+          "url": "https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162310,
+      "name": "broken heart",
+      "url": "https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ"
+    },
+    {
+      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5w2Tv48nWVpjJ4BjUwFrW2"
       },
@@ -1980,6 +1998,24 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "album": {
+        "name": "Ciudad",
+        "url": "https://open.spotify.com/album/7lDwcUdc7xrQyjpSkyqOyQ"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "Ciudad",
+      "url": "https://open.spotify.com/track/10VPZ9VTWGUVhfCTSwA9yv"
     },
     {
       "album": {
@@ -3314,6 +3350,24 @@
       "duration_ms": 168774,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "album": {
+        "name": "El Llamado",
+        "url": "https://open.spotify.com/album/2Mj97JfpLRWFdljh8UiC6H"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "El Llamado",
+      "url": "https://open.spotify.com/track/1Z0IeSBzx9xFvwAZHSovaC"
     },
     {
       "album": {
@@ -4935,6 +4989,24 @@
     },
     {
       "album": {
+        "name": "H\u00e1blame",
+        "url": "https://open.spotify.com/album/3W81xa1E69ZSbZ2dXHyjm6"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "H\u00e1blame",
+      "url": "https://open.spotify.com/track/2MNhIVTYZKH7axq8CmGYA2"
+    },
+    {
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
       },
@@ -6332,7 +6404,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186598,
       "name": "los \u00e1ngeles cantan",
       "url": "https://open.spotify.com/track/5epwMXy0ChnEP139GCS0RF"
@@ -6818,6 +6890,42 @@
       "duration_ms": 215866,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "album": {
+        "name": "Putas Canciones",
+        "url": "https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154036,
+      "name": "Me Gustan Tus Pies",
+      "url": "https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u"
     },
     {
       "album": {
@@ -8591,6 +8699,28 @@
     },
     {
       "album": {
+        "name": "TRAUMA2",
+        "url": "https://open.spotify.com/album/2BZH7SW04rLQ0HOa4I3uKv"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Zcar JPG",
+          "url": "https://open.spotify.com/artist/2ob3mlhTI7y5BZXVmjIL18"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270983,
+      "name": "ODIO quererte",
+      "url": "https://open.spotify.com/track/7riwTuogQgDGP1LBlwadXV"
+    },
+    {
+      "album": {
         "name": "oggy",
         "url": "https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN"
       },
@@ -8856,7 +8986,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
@@ -10569,6 +10699,24 @@
     },
     {
       "album": {
+        "name": "Cutie Pie: 3",
+        "url": "https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179596,
+      "name": "Shibari \u7dca\u7e1b",
+      "url": "https://open.spotify.com/track/7bJLcYJusVPXFR3xph2l44"
+    },
+    {
+      "album": {
         "name": "Si Fui Yo",
         "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
       },
@@ -11820,7 +11968,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198691,
       "name": "Terapia - Remix",
       "url": "https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX"

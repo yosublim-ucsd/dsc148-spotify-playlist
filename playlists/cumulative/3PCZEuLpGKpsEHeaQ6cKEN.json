@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Don Diablo, Lufthouse w/ Robbie Williams, Sophya Nzau",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Adam Beyer &amp; The Good Men",
   "name": "Armada Today",
   "tracks": [
     {
@@ -9526,14 +9526,6 @@
           "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         },
         {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
           "name": "Low Steppa",
           "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
         }
@@ -11953,40 +11945,6 @@
     },
     {
       "album": {
-        "name": "We All Move Together - Remixes",
-        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Steffanie Christi'an",
-          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "Sam Divine",
-          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
-        }
-      ],
-      "date_added": "2024-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210337,
-      "name": "Living In A Dream - Sam Divine Remix",
-      "url": "https://open.spotify.com/track/6nsbeYgK4UM6x3ZX6jA8P3"
-    },
-    {
-      "album": {
         "name": "Living In A Dream (Sam Divine Remix)",
         "url": "https://open.spotify.com/album/3ZyUz81eDbqZnSxDBf2B9e"
       },
@@ -12010,6 +11968,32 @@
       "duration_ms": 210337,
       "name": "Living In A Dream - Sam Divine Remix",
       "url": "https://open.spotify.com/track/2u5EC1LZIs6kyWzxW8f4JX"
+    },
+    {
+      "album": {
+        "name": "We All Move Together - Remixes",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Living In A Dream - Sam Divine Remix",
+      "url": "https://open.spotify.com/track/6nsbeYgK4UM6x3ZX6jA8P3"
     },
     {
       "album": {
@@ -19359,6 +19343,32 @@
     },
     {
       "album": {
+        "name": "We All Move Together - Remixes",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227036,
+      "name": "Stop & Stare - Cinthie Remix",
+      "url": "https://open.spotify.com/track/2tRHEP4lWiN8WA7fmEQrjg"
+    },
+    {
+      "album": {
         "name": "Stop & Stare (Cinthie Remix)",
         "url": "https://open.spotify.com/album/4XWcwJmRusEYwFZ8EANWsj"
       },
@@ -19390,40 +19400,6 @@
       "duration_ms": 227036,
       "name": "Stop & Stare - Cinthie Remix",
       "url": "https://open.spotify.com/track/2mCXjD2S7fxqgNGHt0nGOU"
-    },
-    {
-      "album": {
-        "name": "We All Move Together - Remixes",
-        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Steffanie Christi'an",
-          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "date_added": "2024-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 227036,
-      "name": "Stop & Stare - Cinthie Remix",
-      "url": "https://open.spotify.com/track/2tRHEP4lWiN8WA7fmEQrjg"
     },
     {
       "album": {
@@ -20569,6 +20545,32 @@
     },
     {
       "album": {
+        "name": "We All Move Together - Remixes",
+        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Steffanie Christi'an",
+          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
+        },
+        {
+          "name": "Jordan Nocturne",
+          "url": "https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W"
+        }
+      ],
+      "date_added": "2024-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153836,
+      "name": "That Feeling - Jordan Nocturne Remix",
+      "url": "https://open.spotify.com/track/0iVDETLNxhzOmLyRJRTZVg"
+    },
+    {
+      "album": {
         "name": "Believe / That Feeling (Gerd Janson & Jordan Nocturne Remixes)",
         "url": "https://open.spotify.com/album/1C7EqSEHZ9aFmPSksNbgqO"
       },
@@ -20600,40 +20602,6 @@
       "duration_ms": 153836,
       "name": "That Feeling - Jordan Nocturne Remix",
       "url": "https://open.spotify.com/track/3azVD1RnD6Btdla8HFYeiD"
-    },
-    {
-      "album": {
-        "name": "We All Move Together - Remixes",
-        "url": "https://open.spotify.com/album/4uQCLjkZ10Su9JicEEVynb"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Steffanie Christi'an",
-          "url": "https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        },
-        {
-          "name": "Jordan Nocturne",
-          "url": "https://open.spotify.com/artist/2yXuTkmZAi1D8vXJrRA72W"
-        }
-      ],
-      "date_added": "2024-05-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 153836,
-      "name": "That Feeling - Jordan Nocturne Remix",
-      "url": "https://open.spotify.com/track/0iVDETLNxhzOmLyRJRTZVg"
     },
     {
       "album": {
@@ -23262,10 +23230,6 @@
         {
           "name": "Idris Elba",
           "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
-        },
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         },
         {
           "name": "Kevin Saunderson",

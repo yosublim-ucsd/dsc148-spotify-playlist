@@ -1,13 +1,113 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Better Lovers",
-  "num_followers": 8647,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Deadlands",
+  "num_followers": 8651,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMeWzeFbQjtD3EasSg9MxRx8oTgg5X",
+  "snapshot_id": "AAAMgh8bGQnwcbja4H7elXMGOIG0OpbY",
   "tracks": [
+    {
+      "added_at": "2024-08-09 18:38:48",
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/271gwtwUdqnLjsEELFD1Nb"
+      },
+      "artists": [
+        {
+          "name": "Deadlands",
+          "url": "https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/2tCDFUzU0ouUPDxxUYLUGb"
+    },
+    {
+      "added_at": "2024-08-09 18:37:52",
+      "album": {
+        "name": "Mammoth's Hand",
+        "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "duration_ms": 233624,
+      "name": "Mammoth's Hand",
+      "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
+    },
+    {
+      "added_at": "2024-08-09 18:38:06",
+      "album": {
+        "name": "snuff.tape",
+        "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
+      },
+      "artists": [
+        {
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        },
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "snuff.tape",
+      "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
+    },
+    {
+      "added_at": "2024-08-09 18:38:22",
+      "album": {
+        "name": "Toothache",
+        "url": "https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2"
+      },
+      "artists": [
+        {
+          "name": "LOCKED SHUT",
+          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
+        }
+      ],
+      "duration_ms": 114238,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk"
+    },
+    {
+      "added_at": "2024-08-09 18:38:35",
+      "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+    },
+    {
+      "added_at": "2024-08-09 18:39:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "duration_ms": 224924,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
+    },
     {
       "added_at": "2024-08-02 19:47:16",
       "album": {

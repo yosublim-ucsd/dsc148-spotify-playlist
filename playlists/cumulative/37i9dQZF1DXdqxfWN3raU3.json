@@ -566,7 +566,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186285,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
@@ -3914,6 +3914,28 @@
       "duration_ms": 147831,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/0jmTQqjsUwvPkLPOqqvPj7"
+    },
+    {
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "album": {
@@ -8262,6 +8284,24 @@
       "duration_ms": 208673,
       "name": "Yo sigo aqu\u00ed",
       "url": "https://open.spotify.com/track/1MRoHyLRphJUWL2hmVC9VN"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

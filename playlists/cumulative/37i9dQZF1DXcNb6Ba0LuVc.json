@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "afternoon espresso",
+        "url": "https://open.spotify.com/album/0pMqi7Py6c4wsB7eKH7FUx"
+      },
+      "artists": [
+        {
+          "name": "DYVN",
+          "url": "https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X"
+        },
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110561,
+      "name": "afternoon espresso",
+      "url": "https://open.spotify.com/track/0z0lcD8CgATL07Vb2bwViB"
+    },
+    {
+      "album": {
         "name": "Aldo",
         "url": "https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1"
       },
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 111136,
       "name": "Conspiracy",
       "url": "https://open.spotify.com/track/3GIrnG853rYeeMEjB77ikE"
@@ -2182,7 +2204,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 133953,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5goFbQsBMTVrM5eSut1z4n"
@@ -4728,7 +4750,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 134831,
       "name": "Longboard Girl",
       "url": "https://open.spotify.com/track/3CIEoCUzOaYZ8lfuShGiU7"
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 131071,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/444lm679kTAXCPTaccUjRx"
@@ -5256,7 +5278,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135214,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1Cqj266QvBLBNNhRFfupDj"
@@ -6224,7 +6246,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 110571,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va"
@@ -6398,6 +6420,24 @@
       "duration_ms": 84023,
       "name": "Perspectives",
       "url": "https://open.spotify.com/track/0cAx7XcK0FgWXNr2FD7xhc"
+    },
+    {
+      "album": {
+        "name": "Piano D'JaZz",
+        "url": "https://open.spotify.com/album/7asE8Z5ACXluhTAfVPYqsJ"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Piano D'JaZz",
+      "url": "https://open.spotify.com/track/0uqqvcc9mCFjL8mGtFA0xZ"
     },
     {
       "album": {
@@ -6596,7 +6636,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140200,
       "name": "P\u00e3o de Mel",
       "url": "https://open.spotify.com/track/6c6xj5g0hgCRfXXIa2iYEN"
@@ -6998,6 +7038,28 @@
       "duration_ms": 144146,
       "name": "saffron echoes",
       "url": "https://open.spotify.com/track/2TixM05WePykQVfmxs1ojS"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/1b0Fwqs7lXkIh430Oeo8kA"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167715,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/1M1Du0TUK8uC2CNBAbcG46"
     },
     {
       "album": {
@@ -8304,7 +8366,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151200,
       "name": "The Chillest",
       "url": "https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr"
@@ -9030,7 +9092,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135529,
       "name": "Tudo Bem",
       "url": "https://open.spotify.com/track/0uTkC8q1PBpdco61GYuCNs"
@@ -9214,7 +9276,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155862,
       "name": "Ver\u00e3o",
       "url": "https://open.spotify.com/track/72rhfLBwRG8Px3dFDtdGWc"
@@ -9620,7 +9682,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 141064,
       "name": "Where the Sun Lives",
       "url": "https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph"

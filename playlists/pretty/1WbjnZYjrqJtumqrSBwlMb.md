@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 963 songs - 2 day 11 hr 14 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 965 songs - 2 day 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -971,5 +971,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 961 | [i recovered from this](https://open.spotify.com/track/2f6UtOGwSA1CMuWZi59r8Z) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:55 |
 | 962 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
 | 963 | [Whistle For The Choir](https://open.spotify.com/track/3rXCnvL6xP83VsYUg4rm7e) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 |
+| 964 | [vulgar display of power](https://open.spotify.com/track/1Z0FllHuwKceEa9wRJKTku) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:52 |
+| 965 | [SIN MIEDO](https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:46 |
 
-Snapshot ID: `AAAIjteSuzL+bkvhXT1N35h7mmhi+5mC`
+Snapshot ID: `AAAIkOGdZWaeXf6HRSrO6O8DLYmAm1mq`

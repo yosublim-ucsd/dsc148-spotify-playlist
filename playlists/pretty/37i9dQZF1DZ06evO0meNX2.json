@@ -1,12 +1,12 @@
 {
   "description": "This Is Codiciado. Los temas esenciales, todos en una lista.",
-  "num_followers": 29873,
+  "num_followers": 29943,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACNTsnu4Ogic9LwLV2BfpV3",
+  "snapshot_id": "ZrQKgAAAAAA8qcgi5jYcjyEks3wwBHwb",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C.H.S.M",
         "url": "https://open.spotify.com/album/6WhE39eYeHUcjNuvjoRRVg"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 138533,
       "name": "C.H.S.M",
       "url": "https://open.spotify.com/track/11gvUHIxBEnsCn8sAltFmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152433,
-      "name": "Buena Vida Mala Fama",
-      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
     },
     {
       "added_at": null,

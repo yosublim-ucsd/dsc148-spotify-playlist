@@ -1,13 +1,61 @@
 {
-  "description": "The best indie dance tracks of the moment. Cover: TOKiMONSTA",
-  "num_followers": 861402,
+  "description": "The best indie dance tracks of the moment. Cover: The Dare",
+  "num_followers": 861454,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrE4vQAAAADTG8QuleFiSenAbZeXlAye",
+  "snapshot_id": "ZrWUQAAAAACJdzyjXkIvvGk+7p4nV+29",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 152348,
+      "name": "You're Invited",
+      "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "LOVE MIGHT MAKE ME BETTER",
+        "url": "https://open.spotify.com/album/71H9vgQ8l9mvltuvLREHQQ"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 207098,
+      "name": "LOVE MIGHT MAKE ME BETTER",
+      "url": "https://open.spotify.com/track/4tMvRHWZEWWFWtL99IEzcx"
+    },
+    {
+      "added_at": "2024-06-24 13:06:02",
+      "album": {
+        "name": "Vhs",
+        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -25,36 +73,40 @@
       "url": "https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "ok </3",
-        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+        "name": "Waiting 4",
+        "url": "https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97"
       },
       "artists": [
         {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        },
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
         }
       ],
-      "duration_ms": 204760,
-      "name": "ok </3",
-      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
+      "duration_ms": 253846,
+      "name": "Waiting 4",
+      "url": "https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L"
     },
     {
-      "added_at": "2024-06-24 13:06:02",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Vhs",
-        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/1ERvxD2WEsZKdDoDgHhmFB"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
         }
       ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
+      "duration_ms": 266793,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0Yi6JO54MOb65Gerl4b22J"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -81,6 +133,26 @@
       "url": "https://open.spotify.com/track/5TK4IOdSlCvnsoj5txC7S0"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "shine",
+        "url": "https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "duration_ms": 144304,
+      "name": "shine",
+      "url": "https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "SENESCENCE 05 + 06",
@@ -97,20 +169,40 @@
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-05 20:40:29",
       "album": {
-        "name": "LOVE MIGHT MAKE ME BETTER",
-        "url": "https://open.spotify.com/album/71H9vgQ8l9mvltuvLREHQQ"
+        "name": "Chasing a Comfort",
+        "url": "https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA"
       },
       "artists": [
         {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+          "name": "16 Underground",
+          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
         }
       ],
-      "duration_ms": 207098,
-      "name": "LOVE MIGHT MAKE ME BETTER",
-      "url": "https://open.spotify.com/track/4tMvRHWZEWWFWtL99IEzcx"
+      "duration_ms": 215000,
+      "name": "Chasing a Comfort",
+      "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "How You Mad at Me?",
+        "url": "https://open.spotify.com/album/7G5Bsx0hQ9ydpv8EO7m8kN"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "How You Mad At Me?",
+      "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -149,92 +241,20 @@
       "url": "https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Waiting 4",
-        "url": "https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97"
+        "name": "Baby Dragon",
+        "url": "https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY"
       },
       "artists": [
         {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        },
-        {
-          "name": "demotapes",
-          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
         }
       ],
-      "duration_ms": 253846,
-      "name": "Waiting 4",
-      "url": "https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Dancing",
-        "url": "https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an"
-      },
-      "artists": [
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 230329,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic"
-    },
-    {
-      "added_at": "2024-06-29 20:24:58",
-      "album": {
-        "name": "Snog",
-        "url": "https://open.spotify.com/album/0yszMLZhCjPj39V54464kX"
-      },
-      "artists": [
-        {
-          "name": "Alex Bone",
-          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
-        }
-      ],
-      "duration_ms": 207134,
-      "name": "Snog",
-      "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-08-05 20:40:29",
-      "album": {
-        "name": "Chasing a Comfort",
-        "url": "https://open.spotify.com/album/373EmkGUoO2bHobyeR2RuA"
-      },
-      "artists": [
-        {
-          "name": "16 Underground",
-          "url": "https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Chasing a Comfort",
-      "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
+      "duration_ms": 207217,
+      "name": "Baby Dragon",
+      "url": "https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -253,6 +273,22 @@
       "url": "https://open.spotify.com/track/0y3I34brDg7wkiUnryRCWN"
     },
     {
+      "added_at": "2024-06-24 13:06:02",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Junction 3",
@@ -267,6 +303,62 @@
       "duration_ms": 158666,
       "name": "Junction 3",
       "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
+    },
+    {
+      "added_at": "2024-07-30 14:31:50",
+      "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -291,22 +383,6 @@
       "duration_ms": 164026,
       "name": "Angel Face Disaster",
       "url": "https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S"
-    },
-    {
-      "added_at": "2024-07-30 14:31:50",
-      "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -345,20 +421,36 @@
       "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl"
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/2NUAVm5hnaZN42fPjQcin8"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 258986,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
+      "duration_ms": 313750,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/0FQu568m5iyA0hmF9NMjLq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "dancebaby",
+        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "dancebaby",
+      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -385,20 +477,20 @@
       "url": "https://open.spotify.com/track/3QYtytvuqpK7Ehl29vadbA"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "dancebaby",
-        "url": "https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk"
+        "name": "give me a reason",
+        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
       },
       "artists": [
         {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
         }
       ],
-      "duration_ms": 174545,
-      "name": "dancebaby",
-      "url": "https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK"
+      "duration_ms": 159327,
+      "name": "give me a reason",
+      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -425,6 +517,26 @@
       "url": "https://open.spotify.com/track/5CUTZzYgjZ9ndkvnAnesqA"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an"
+      },
+      "artists": [
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 230329,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Unpredictable",
@@ -441,20 +553,36 @@
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "give me a reason",
-        "url": "https://open.spotify.com/album/1sWjExmhTuP0KGYKHew4ro"
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl"
       },
       "artists": [
         {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 159327,
-      "name": "give me a reason",
-      "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
+      "duration_ms": 258986,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
+    },
+    {
+      "added_at": "2024-06-29 20:24:58",
+      "album": {
+        "name": "Snog",
+        "url": "https://open.spotify.com/album/0yszMLZhCjPj39V54464kX"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "duration_ms": 207134,
+      "name": "Snog",
+      "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -543,26 +671,6 @@
       "duration_ms": 226626,
       "name": "One Thousand Waves",
       "url": "https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Harmonics",
-        "url": "https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Findia",
-          "url": "https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -695,26 +803,6 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "WE COULD BE",
-        "url": "https://open.spotify.com/album/1HdQD8XuoZx6JeJLRnV3c5"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        },
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "WE COULD BE",
-      "url": "https://open.spotify.com/track/5GkPPp1nBA28G4LSrj1DVe"
     },
     {
       "added_at": "2024-06-28 04:20:08",
@@ -957,26 +1045,6 @@
       "url": "https://open.spotify.com/track/3lRX4cmV9miVBF06ZOEtLC"
     },
     {
-      "added_at": "2024-06-28 04:20:08",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 298425,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX"
-    },
-    {
       "added_at": "2024-06-24 13:06:02",
       "album": {
         "name": "Gangbusters Melody Club",
@@ -1181,22 +1249,6 @@
       "url": "https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/2eUIILAD7povYXfZ8Lqd56"
-      },
-      "artists": [
-        {
-          "name": "Vitesse X",
-          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/3fll9dlWXC29WZU5deUIKs"
-    },
-    {
       "added_at": "2024-07-05 05:27:32",
       "album": {
         "name": "could you not go?",
@@ -1387,22 +1439,6 @@
     {
       "added_at": "2024-06-24 13:06:02",
       "album": {
-        "name": "The Afterparty (Remixes)",
-        "url": "https://open.spotify.com/album/5nlQy7iPMXCp64V3EmZ4rc"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "The Afterparty - Disco Version",
-      "url": "https://open.spotify.com/track/7zA31bgrzPaDXbmrKViL9b"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
         "name": "Thinking ('bout you, 'bout me) [dance edit]",
         "url": "https://open.spotify.com/album/1cO50FyrJadA8wmaG5EQKM"
       },
@@ -1443,22 +1479,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 219537,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
     },
     {
       "added_at": "2024-06-24 13:06:02",
@@ -1819,26 +1839,6 @@
       "duration_ms": 249022,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
-    },
-    {
-      "added_at": "2024-06-24 13:06:02",
-      "album": {
-        "name": "Shine Love In",
-        "url": "https://open.spotify.com/album/5cITFIW9CxttK24F0wyWXn"
-      },
-      "artists": [
-        {
-          "name": "Jai Piccone",
-          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
-        },
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Shine Love In",
-      "url": "https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0"
     }
   ],
   "unique_name": "metropolis",

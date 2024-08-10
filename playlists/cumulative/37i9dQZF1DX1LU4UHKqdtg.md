@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: xikers
 
-1,146 songs - 2 day 13 hr 52 min
+1,148 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-19 | 2023-07-21 |
 | [Broken Melodies](https://open.spotify.com/track/63Czf03uph6EyJDL1z3x3z) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:46 | 2023-07-20 | 2024-04-19 |
 | [Broken Melodies \- JVKE Remix](https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Broken Melodies \(JVKE Remix\)](https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn) | 3:46 | 2023-11-16 | 2023-12-27 |
+| [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/track/6mslYkzyL8uDfacJezJnof) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/album/3VvvahAqcsVGeKmdUATpnd) | 2:56 | 2024-08-08 |  |
 | [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 | 2022-05-13 | 2022-07-20 |
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-16 | 2024-02-28 |
 | [Bubble \- Japanese Ver.](https://open.spotify.com/track/6lBifd8pkWukU3sIjtkwIR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Bubble \(Japanese Ver.\)](https://open.spotify.com/album/0LIFa5uJeyyNq58t9k4UfH) | 2:59 | 2023-12-05 | 2024-01-10 |
@@ -247,6 +248,7 @@
 | [Dear My U](https://open.spotify.com/track/3GFI9dc6mDo4ROdxmaSVyc) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Dear My U](https://open.spotify.com/album/6WmnLIcrMrGWN8y5bT2pe7) | 3:31 | 2023-12-14 | 2023-12-16 |
 | [Dear.](https://open.spotify.com/track/28n96eIVJvJ9pkreZYclYC) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Dear.\]](https://open.spotify.com/album/4AaM6fXI6FAGOgaMQO22AD) | 3:24 | 2023-12-11 | 2024-03-08 |
 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 | 2024-06-28 |  |
+| [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-08 |  |
 | [DEEP IN LOVE](https://open.spotify.com/track/6Ht6X2tKYkbWNJ4ytBmsDh) | [GreatGuys](https://open.spotify.com/artist/5rl5eIP9MogVsjbIVUKK1y) | [RECORD OF YOUTH EP.2 \_ DEEPLY](https://open.spotify.com/album/0uZJykDiG0jkvrOGINTfFD) | 2:32 | 2023-11-07 | 2023-11-24 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 |  |
 | [Deja Vu \- Japanese Ver.](https://open.spotify.com/track/2Mv8lQxFrpmDxulzBU0PTu) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BEYOND : ZERO](https://open.spotify.com/album/4k7ECCNLLIukf1rwPaOxoY) | 3:17 | 2022-05-24 | 2022-07-19 |

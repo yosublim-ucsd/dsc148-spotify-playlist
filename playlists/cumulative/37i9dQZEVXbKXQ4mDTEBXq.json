@@ -612,6 +612,24 @@
     {
       "album": {
         "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "ATE",
         "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
       },
       "artists": [
@@ -622,7 +640,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216892,
       "name": "EYES ON YOU",
       "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
@@ -2059,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "Lucky Color",
+        "url": "https://open.spotify.com/album/5mU3ik8IR3B5k0RqPUAsjJ"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219328,
+      "name": "Lucky Color",
+      "url": "https://open.spotify.com/track/4G79qDjWXpgNxfuqfC8cU7"
+    },
+    {
+      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/6YiIRjTqbhaWpNG5WpgB85"
       },
@@ -2478,6 +2514,24 @@
       "duration_ms": 260903,
       "name": "mutual love",
       "url": "https://open.spotify.com/track/4tgMvqm78qmbPsrP4AaCbD"
+    },
+    {
+      "album": {
+        "name": "My lovely killer",
+        "url": "https://open.spotify.com/album/5z6e7ospoCedgVD1l9bMbm"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132472,
+      "name": "My lovely killer",
+      "url": "https://open.spotify.com/track/0l9OsLo35t2HgSqLkJMT4G"
     },
     {
       "album": {
@@ -3044,6 +3098,24 @@
       "duration_ms": 326842,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
+    },
+    {
+      "album": {
+        "name": "RED OUT",
+        "url": "https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
     },
     {
       "album": {
@@ -5486,7 +5558,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
@@ -5504,7 +5576,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1"
@@ -6122,7 +6194,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219328,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
@@ -6522,7 +6594,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132472,
       "name": "\u521d\u604b\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
@@ -6926,7 +6998,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
@@ -7614,7 +7686,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 307066,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
@@ -7658,7 +7730,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 307120,
       "name": "\u70b9\u63cf\u306e\u5504",
       "url": "https://open.spotify.com/track/7Md0Rk4s9khBtVpSD03bWl"

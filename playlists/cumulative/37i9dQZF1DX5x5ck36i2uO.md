@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-186 songs - 10 hr 34 min
+187 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2018 \(feat\. YunB\)](https://open.spotify.com/track/64pPakl5rfhazEQ7DZiOw8) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [YunB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:02 | 2022-06-03 | 2022-07-14 |
 | [20180222\-20180930](https://open.spotify.com/track/2nrWw9mH2R5IiNFRtcAkIK) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf) | 2:43 | 2022-07-22 | 2023-01-10 |
 | [20180222\-20180930](https://open.spotify.com/track/5918ji3b3679cnAjHFo9sU) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MALIK THE CACTUS FLOWER](https://open.spotify.com/album/6LB9gCiUqrrHOZEoYZ730k) | 2:43 | 2022-05-11 | 2022-07-28 |
-| [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 | 2022-05-11 |  |
+| [3 GUINEAS](https://open.spotify.com/track/2vxhl2CBUu0m7tQAgOHTsE) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ZOO](https://open.spotify.com/album/6p5kwLGQ7yLZ7faZ58dJwa) | 3:54 | 2022-05-11 | 2024-08-10 |
 | [3355 \(feat\. Ugly Duck\)](https://open.spotify.com/track/1BtUFAuADaGleNA3ojpcUc) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [YEAREND](https://open.spotify.com/album/2hvPqD3IqDzDgqdal3pr6F) | 3:09 | 2022-07-22 | 2022-07-26 |
 | [a fence](https://open.spotify.com/track/3d9ttWtLGA5YYx5O6VvjZl) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [Af](https://open.spotify.com/album/4D4c8N9dVBUaVRRP6teuOE) | 3:27 | 2022-05-11 | 2022-07-28 |
 | [a fence](https://open.spotify.com/track/3NGqVukEbiECo3YgZYzp36) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [af](https://open.spotify.com/album/4tEWOjspGZE0A8hiSBtMS8) | 3:27 | 2022-07-22 | 2024-04-19 |
@@ -171,6 +171,7 @@
 | [Used To Be](https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Used To Be](https://open.spotify.com/album/0fTJlZVOWY9h7hvK7KGH42) | 2:57 | 2024-04-05 |  |
 | [Usual Suspect](https://open.spotify.com/track/3bVx3OJhxGYMIvtCUPL1XB) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 3:28 | 2024-07-02 |  |
 | [Visionaire](https://open.spotify.com/track/2fy2p2MKqTqNbJbkl8huSq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 1:55 | 2024-07-02 |  |
+| [VISTA \(feat\. gaeko, THAMA\)](https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [VISTA](https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG) | 3:59 | 2024-08-08 |  |
 | [Walk With Us \(feat\. Jedi P & Am Kay\)](https://open.spotify.com/track/7HtPan3iB9NTVEl4bT9auy) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [Jedi P](https://open.spotify.com/artist/5gg8fcfzZ7BLpT4Sm8KgCT), [Am Kay](https://open.spotify.com/artist/34L1Z19WeYdYhWvTQMo3lC) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 3:52 | 2022-11-09 | 2024-06-17 |
 | [We have a difference \(Feat\. Goopy\)](https://open.spotify.com/track/6oGMHh9vqGJla6p9qXn9Rx) | [Nuol](https://open.spotify.com/artist/0ZYQRDQ7V5rIbzg565VHAh), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [We have a difference \(Feat\. Goopy\)](https://open.spotify.com/album/33vbWEoX1ae9c5N2wfrH3N) | 2:51 | 2022-06-03 | 2022-07-29 |
 | [Welcome to seoul](https://open.spotify.com/track/5StHhl2yfuqvYT0TcYXuiW) | [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:35 | 2022-05-11 | 2022-07-23 |

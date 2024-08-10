@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. El Frizian, Lenin Ramírez en portada.
 
-537 songs - 1 day 4 hr 34 min
+538 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Con un Botecito a Pecho](https://open.spotify.com/track/2rv3za9M5o6DtkIVZXgu1r) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Disfruto](https://open.spotify.com/album/3IlO5KgqBRd6DHEOzBcf9l) | 2:56 | 2022-12-02 | 2022-12-10 |
 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 | 2023-10-06 | 2024-03-23 |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2023-12-08 | 2024-03-23 |
-| [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-04-22 |  |
+| [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-04-22 | 2024-08-10 |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 | 2023-07-01 |
 | [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 | 2023-09-12 |
 | [Corrido De Antonia Lopez](https://open.spotify.com/track/7KXgqdYzOVvqENcVtO4vLd) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Corrido De Antonia Lopez](https://open.spotify.com/album/4kgTo9OnBDOnWqLcnHQl0S) | 3:36 | 2023-01-27 | 2023-02-25 |
@@ -128,6 +128,7 @@
 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/0dXQHB8h7HEGD95YYcj7HJ) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/480oASOS6npWutZkW7zeNf) | 2:33 | 2023-09-08 | 2024-03-06 |
 | [El Callado](https://open.spotify.com/track/51tc4qhcssnwHV683Pq8H3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Callado](https://open.spotify.com/album/4hVjflE1kDLzwLNOtDsNq9) | 2:58 | 2022-08-05 | 2022-11-05 |
 | [El Canelo](https://open.spotify.com/track/7Dz034bA0pM21kTDqTW1jM) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Canelo](https://open.spotify.com/album/4GvvGYS3KFaNqwh9UXnaP7) | 3:16 | 2022-06-24 | 2022-07-12 |
+| [El Carretonero](https://open.spotify.com/track/5Fsw7xaGNCVn0sU83QWZVf) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Carretonero](https://open.spotify.com/album/3QgSWKWUEUVJxbcbsa9Vj3) | 3:55 | 2024-07-12 |  |
 | [El Cinco De Las Cuatro](https://open.spotify.com/track/1TUszLjyHqWjruuOMOv0ro) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Cinco De Las Cuatro](https://open.spotify.com/album/6aIKbjrdIynZPF4nKRgwSI) | 3:01 | 2023-12-01 | 2023-12-09 |
 | [El Colesterol](https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Las Agüitas](https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD) | 2:56 | 2023-04-14 | 2024-08-02 |
 | [El Comerciante](https://open.spotify.com/track/56YZft0whsresPdufFqwwS) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ) | 4:05 | 2021-12-17 | 2023-06-16 |

@@ -2,7 +2,7 @@
 
 ### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This Is Emei أهم المقاطع كلها في قائمة أغاني وحدة.
+> This is Emei\. The essential tracks, all in one playlist.
 
 22 songs - 52 min 10 sec
 

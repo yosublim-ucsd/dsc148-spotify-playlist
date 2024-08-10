@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 |
-| 2 | [Solo por Hoy](https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Solo por Hoy](https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH) | 2:46 |
-| 3 | [Belik Bellak](https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Belik Bellak](https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX) | 2:43 |
+| 2 | [Belik Bellak](https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW) | [Domenica](https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Belik Bellak](https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX) | 2:43 |
+| 3 | [Solo por Hoy](https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Solo por Hoy](https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH) | 2:46 |
 | 4 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
 | 5 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
 | 6 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 27 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 |
 | 28 | [Yo soy Buena Mujer](https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:20 |
 | 29 | [Qué Tanto Es Tantito?](https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:41 |
-| 30 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 |
-| 31 | [Chapulín \- En Vivo](https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:27 |
+| 30 | [Chapulín \- En Vivo](https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:27 |
+| 31 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 |
 | 32 | [La Mejor Versión de Mi](https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Mejor Versión de Mi](https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO) | 2:17 |
-| 33 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 |
-| 34 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 |
-| 35 | [Ahí Va la Loca](https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ahí Va la Loca](https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs) | 3:23 |
+| 33 | [Ahí Va la Loca](https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ahí Va la Loca](https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs) | 3:23 |
+| 34 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 |
+| 35 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 |
 | 36 | [Ojalá que Quererte Bastara](https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:11 |
 | 37 | [Leña de Pirul](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 |
 | 38 | [Donde Pongo el Ojo \- En Vivo](https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 2:52 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 44 | [Sigo Siendo Yo \- En Vivo](https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:22 |
 | 45 | [Empiezo a Recordarte \- En Vivo](https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:51 |
 
-Snapshot ID: `ZrK5AAAAAADCkIlXm3laJf3V9MRbjJlV`
+Snapshot ID: `ZrQKgAAAAAAqvA2NUzOvVXGb6GKaGwkr`

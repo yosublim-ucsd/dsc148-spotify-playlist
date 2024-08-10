@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: GloRilla",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 127228,
       "name": "90's Baby",
       "url": "https://open.spotify.com/track/44qD9IskeQr9Qnm6wlIM60"
@@ -4367,6 +4367,24 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "album": {
         "name": "Hands Up (with Monaleo)",
         "url": "https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR"
       },
@@ -4622,6 +4640,24 @@
       "duration_ms": 192818,
       "name": "HISS",
       "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+    },
+    {
+      "album": {
+        "name": "Hoe Please",
+        "url": "https://open.spotify.com/album/2fkpDFhCAihdVOb4GXPhpH"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142616,
+      "name": "Hoe Please",
+      "url": "https://open.spotify.com/track/7F5arGBPyG6QnYNwB1Cc8i"
     },
     {
       "album": {
@@ -8917,6 +8953,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178209,
+      "name": "Shake (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/3Ls934T4L1oidrOVNFRIs5"
+    },
+    {
+      "album": {
         "name": "Shake Yo Dreads",
         "url": "https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh"
       },
@@ -9816,6 +9874,24 @@
       "duration_ms": 177705,
       "name": "The P*ssy Song",
       "url": "https://open.spotify.com/track/6WN4iIsMU0BK3irBvKCAIi"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "There She Go",
+      "url": "https://open.spotify.com/track/3hhBbf2lhUByyphVxhestO"
     },
     {
       "album": {

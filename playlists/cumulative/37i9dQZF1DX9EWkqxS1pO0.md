@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Bostancı Dayı
 
-93 songs - 4 hr 29 min
+94 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Duy Sesimi](https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O) | [Duhan Demirci](https://open.spotify.com/artist/4xfIX4AK4xyml8Bqj5Mw3F), [Kaan Arslan](https://open.spotify.com/artist/5ML0ingV07lUL61gjbH7u2) | [Duy Sesimi](https://open.spotify.com/album/0hO21Uh7eA7UwbjY5s3QuY) | 2:54 | 2024-07-04 |  |
 | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-20 |  |
 | [dön bak ne haldesin](https://open.spotify.com/track/2BllmYspkFLpqrbYVM3tY6) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [dön bak ne haldesin](https://open.spotify.com/album/6esCyEWg0It0yLqlQ1YAKf) | 2:39 | 2024-06-20 | 2024-08-09 |
+| [Dün Gördüğüm Rüya](https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Dün Gördüğüm Rüya](https://open.spotify.com/album/5VhULdlFyy9iDC1MMHIuFa) | 3:24 | 2024-08-08 |  |
 | [DÜŞLERİM](https://open.spotify.com/track/5fyQngKPy0lxTQlVXzdKz2) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [DÜŞLERİM](https://open.spotify.com/album/5hBZZAzvX2Otm312ORebxl) | 1:47 | 2024-06-20 |  |
 | [El Ele](https://open.spotify.com/track/1BGM05D6mlJKMRiW8jaC3K) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [El Ele](https://open.spotify.com/album/23Iw8sDaUDTWF57ghfxh13) | 2:52 | 2024-06-20 |  |
 | [Elmas](https://open.spotify.com/track/2Odk6q0tqmIVAwDsnz5z8y) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Elmas](https://open.spotify.com/album/4o6SVSaIFFTzqRbRQ95v0Z) | 2:34 | 2024-06-20 | 2024-08-02 |
@@ -63,7 +64,7 @@
 | [olmazsan da olur](https://open.spotify.com/track/0YrMEGICoUQ5QzQPmUDqou) | [ILKE](https://open.spotify.com/artist/6HFMFBSKBz3HrMIvmdM5LP), [Özkan](https://open.spotify.com/artist/4DtIvaqPA65sH5o6oelleY) | [olmazsan da olur](https://open.spotify.com/album/4qaSxmAB6YkR0t9U0Bmbrr) | 3:46 | 2024-06-20 | 2024-07-12 |
 | [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/track/7F5UtoioUJvUjMUkE6GnPi) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Onu da Hiç Silemedim Bir Anısı Var](https://open.spotify.com/album/2ptbJBBhBDpgIUhw10x0qg) | 2:36 | 2024-07-12 |  |
 | [rüyet](https://open.spotify.com/track/7thtv8TVmmxx5edxwk9r1o) | [Anıl Ulusoy](https://open.spotify.com/artist/4GiOCNBFYdYJ0e7trjiOaO), [Suzan Hacigarip](https://open.spotify.com/artist/70sxCmeoRmcpTdH4atqPDV) | [rüyet](https://open.spotify.com/album/43RbKe4SAbTgx2GqLINY43) | 4:15 | 2024-06-20 |  |
-| [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 |  |
+| [Rüzgarın Peşinde](https://open.spotify.com/track/2dlYKaAlRXc3s9Xt0T6XvV) | [Okyanus Caddesi](https://open.spotify.com/artist/23rss6kqqXejwS6klTb49G) | [Rüzgarın Peşinde](https://open.spotify.com/album/3fsBYajHJEHVWHL9Qw6ZQ8) | 3:34 | 2024-06-20 | 2024-08-10 |
 | [Sabahın Dört Buçuğunda](https://open.spotify.com/track/5ps4DiaUpc6l96ixypIXkn) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Sabahın Dört Buçuğunda](https://open.spotify.com/album/5aKXt3i7tNjPHlbJLvaL5y) | 3:37 | 2024-07-04 |  |
 | [Sal](https://open.spotify.com/track/44nYGyz9DwMU6dOWVxL2FK) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Sal](https://open.spotify.com/album/0SkOqSQaogpiYuUm5hwhre) | 2:37 | 2024-07-04 |  |
 | [Sen Artık Sıradan Biri](https://open.spotify.com/track/0sRt7yIvUGlesGwPjQmGs7) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Sen Artık Sıradan Biri](https://open.spotify.com/album/0knB4RKmuWqmD4ue8HCp9g) | 3:25 | 2024-08-01 |  |

@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Teen Jesus and the Jean Teasers
 
-179 songs - 9 hr 51 min
+180 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-05-24 | 2024-07-19 |
 | [Sedate](https://open.spotify.com/track/6ltMjqTcCviZnoClCZteg8) | [Fan Club](https://open.spotify.com/artist/5g0xvAbzuQsBsKPXEmKfxF) | [Towards the Sun](https://open.spotify.com/album/3F3rp5JZyHObOhgEyN2Uqx) | 2:40 | 2024-07-11 |  |
 | [Separate States](https://open.spotify.com/track/65b03PnGaiUS6mi9AUzZ7O) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Separate States](https://open.spotify.com/album/7FkeRJn9645Bt9n3EKPp97) | 2:21 | 2024-06-20 | 2024-08-02 |
+| [Settling Down](https://open.spotify.com/track/4XIjKkcMOxWJwxFMnwUiT3) | [Psychic Social Club](https://open.spotify.com/artist/3zdmOqsxv0670azOyHTFYY) | [Settling Down](https://open.spotify.com/album/5vekeb3JTodzTkN9DJ1Qie) | 3:16 | 2024-08-08 |  |
 | [Shark](https://open.spotify.com/track/7GIY9zTluNSy82nEMEn8yX) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Shark](https://open.spotify.com/album/6N103DHkiwthYBOCADC0vM) | 3:14 | 2024-05-24 | 2024-08-02 |
 | [sharp tongue](https://open.spotify.com/track/0qTya9vMHszwTnuPeJwhyR) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [sharp tongue](https://open.spotify.com/album/04H1lR6aneFeKIS1CyAeGp) | 4:04 | 2024-07-04 |  |
 | [she's lying to me](https://open.spotify.com/track/7gHrHtCAOX9QAlYnJmW1gP) | [michael duncan](https://open.spotify.com/artist/7G782kqSW5TuwsbkPZJ8NG) | [she's lying to me](https://open.spotify.com/album/4uzCctwtXuFkd6ftGFFQGA) | 2:34 | 2024-05-30 |  |

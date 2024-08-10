@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 47921,
+  "num_followers": 47933,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACpZY74X/FJysqlD1Wu7+Cg",
+  "snapshot_id": "ZrQKgAAAAAA98cXt1KonJPuez8kEv3bt",
   "tracks": [
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
+        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
+      "duration_ms": 280293,
+      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
+      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
     }
   ],
   "unique_name": "This Is Muddy Waters",

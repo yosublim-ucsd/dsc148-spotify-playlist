@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:6y7frW1RUq3XBBXbYowVpk\">Chandler Moore</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0f59qYByNYzspwAr7huTSB\">Isadora Pompeo </a> and <a href=\"spotify:artist:3rdJD72bitczKtW5yNgAA4\">Seph Schleuter</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 241928,
       "name": "A Great Awakening",
       "url": "https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887"
+    },
+    {
+      "album": {
+        "name": "A Hope and a Future",
+        "url": "https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8"
+      },
+      "artists": [
+        {
+          "name": "Fresh Life Worship",
+          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254817,
+      "name": "A Hope and a Future",
+      "url": "https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6"
     },
     {
       "album": {
@@ -252,7 +270,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216081,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/6IbmGtKY7ZLMbBkn4PZoZ1"
@@ -270,7 +288,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 275955,
       "name": "Adoration Song",
       "url": "https://open.spotify.com/track/4g4PYXN1KQVE4NMFuZuPZa"
@@ -730,6 +748,32 @@
       "duration_ms": 414375,
       "name": "Ask Seek Pray",
       "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
+    },
+    {
+      "album": {
+        "name": "At The Altar",
+        "url": "https://open.spotify.com/album/7pFy4KDfxHjmobTrYCC6Zm"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432766,
+      "name": "At The Altar",
+      "url": "https://open.spotify.com/track/2QmFBXdMGeXlsE0AV8j5qA"
     },
     {
       "album": {
@@ -1439,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Bless The Lord",
+        "url": "https://open.spotify.com/album/5RiIEZcWk9PN68CWuk1pvU"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196859,
+      "name": "Bless The Lord",
+      "url": "https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0UhDdx4FunkOEOMDbp0jBY"
       },
@@ -1908,6 +1970,28 @@
       "duration_ms": 278949,
       "name": "By Your Spirit",
       "url": "https://open.spotify.com/track/3ovxoxGOrctXFXhDECSNBL"
+    },
+    {
+      "album": {
+        "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
     },
     {
       "album": {
@@ -2751,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "Desirable",
+        "url": "https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 731465,
+      "name": "Desirable",
+      "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
+    },
+    {
+      "album": {
         "name": "Don't Fight Alone",
         "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
       },
@@ -2864,6 +2970,32 @@
       "duration_ms": 268656,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4A8WlAKXU1e3LiZPKmR9b1"
+    },
+    {
+      "album": {
+        "name": "Sounds From The House - Vol. 1",
+        "url": "https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Brett Lee Miller",
+          "url": "https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359786,
+      "name": "Endless Well",
+      "url": "https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH"
     },
     {
       "album": {
@@ -3036,7 +3168,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 266320,
       "name": "Fall On Me (Maverick City Music Version)",
       "url": "https://open.spotify.com/track/3u17j60STzpuF3nBptem3b"
@@ -3826,7 +3958,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 298682,
       "name": "GOODBYE YESTERDAY",
       "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
@@ -6581,6 +6713,36 @@
     },
     {
       "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "album": {
         "name": "Kingdom (feat. Naomi Raine & Chandler Moore)",
         "url": "https://open.spotify.com/album/4KdsGYinvqc6quBfbTChHz"
       },
@@ -7710,7 +7872,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210649,
       "name": "My Story",
       "url": "https://open.spotify.com/track/66vtyVkJRKTen5JqBYsPpm"
@@ -8060,7 +8222,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 304615,
       "name": "No One But Jesus",
       "url": "https://open.spotify.com/track/6AtPVvOCYexCYYOU9FVRJo"
@@ -8858,7 +9020,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199595,
       "name": "people need people",
       "url": "https://open.spotify.com/track/2tm5t7lVSRBWEOM8TSeumV"
@@ -10857,6 +11019,28 @@
     },
     {
       "album": {
+        "name": "Thank You So Much Jesus",
+        "url": "https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Paul Klein",
+          "url": "https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Thank You So Much Jesus",
+      "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "album": {
         "name": "That's The Power",
         "url": "https://open.spotify.com/album/3lmOaIoTpLZCPUnbUuJDLL"
       },
@@ -12024,7 +12208,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 330167,
       "name": "To The Lamb",
       "url": "https://open.spotify.com/track/5IILKBAHeBrZyyrdYq8FwA"
@@ -12268,7 +12452,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 308254,
       "name": "Trust You Again",
       "url": "https://open.spotify.com/track/6S1ba7g7dfOq4h4kWVpJO0"
@@ -12426,6 +12610,24 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "We Choose Praise (Live)",
+        "url": "https://open.spotify.com/album/5Xi732fHAJZapcrvoVI4Vt"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300063,
+      "name": "We Choose Praise - Live",
+      "url": "https://open.spotify.com/track/3Fg12qkxZokspmB4UUYHiZ"
     },
     {
       "album": {

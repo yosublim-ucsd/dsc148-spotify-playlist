@@ -1,15 +1,15 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 187372,
+  "num_followers": 187467,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmecAAAAAABRwG853FB6+Pb1acnOoPh",
+  "snapshot_id": "ZrX4zwAAAAA4nRAlKcOHW7lEcRZpCY3w",
   "tracks": [
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "You & Me (Rivo Remix)",
         "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
@@ -33,47 +33,47 @@
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Where The Mountains Grow",
-        "url": "https://open.spotify.com/album/7Ky5LYmNqG33DayRxkXaOu"
+        "name": "Changes (feat. Hayze)",
+        "url": "https://open.spotify.com/album/0HfuHJSkr3RGmUpiBcuvfo"
       },
       "artists": [
         {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Chris Howard",
-          "url": "https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
         }
       ],
-      "duration_ms": 231322,
-      "name": "Where The Mountains Grow",
-      "url": "https://open.spotify.com/track/4VG2Aq26xZWJUoUywi4x4r"
+      "duration_ms": 271476,
+      "name": "Changes (feat. Hayze)",
+      "url": "https://open.spotify.com/track/5TCRUxemPlPxOVWIIk5Dsk"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -101,27 +101,23 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Stolen Glances (feat. L\u00e5psley)",
-        "url": "https://open.spotify.com/album/5DObus73yw027Z2SM972b3"
+        "name": "Sunrise To The Morning",
+        "url": "https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn"
       },
       "artists": [
         {
           "name": "Franky Wah",
           "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 188394,
-      "name": "Stolen Glances (feat. L\u00e5psley)",
-      "url": "https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5"
+      "duration_ms": 268000,
+      "name": "Sunrise To The Morning",
+      "url": "https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
@@ -145,23 +141,27 @@
       "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "The Learning of Urgency",
         "url": "https://open.spotify.com/album/7uAP4tFWMugcNZOrk5xBED"
@@ -181,71 +181,63 @@
       "url": "https://open.spotify.com/track/1eF1JXR4hUi7IrHjByXruI"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Endlessly",
-        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Nadia Ali",
-          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 217377,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         }
       ],
-      "duration_ms": 269221,
-      "name": "Running In A Dream",
-      "url": "https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL"
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
@@ -265,23 +257,31 @@
       "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/61cJV13UL9K8JL5dOcqS9o"
       },
       "artists": [
         {
           "name": "Eli & Fur",
           "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         }
       ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+      "duration_ms": 272180,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/5vTD0GuutyInvNpOFxLCPi"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
@@ -301,23 +301,23 @@
       "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "The Night We Met",
-        "url": "https://open.spotify.com/album/6G6WiEmy65P4I5qeApTXBz"
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
       },
       "artists": [
         {
-          "name": "Tommy Farrow",
-          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Two Souls Intertwine",
-      "url": "https://open.spotify.com/track/5YpQ073khPhn3QqpVHb8aZ"
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Silver Lining",
         "url": "https://open.spotify.com/album/7lHRlpAf30Jjk2ggwFIxBk"
@@ -333,27 +333,23 @@
       "url": "https://open.spotify.com/track/0lnvO4NJ3bqBLL0vHfjeOx"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/7sUT01qCXPckucWAUpJdR2"
+        "name": "Quezacotl",
+        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
       },
       "artists": [
         {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 250666,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB"
+      "duration_ms": 435000,
+      "name": "Quezacotl",
+      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Love You Got",
         "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
@@ -369,27 +365,27 @@
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
-        "name": "Best Life",
-        "url": "https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn"
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/1xxj3i8zJ8a9mFIf23ymLv"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
         }
       ],
-      "duration_ms": 239717,
-      "name": "Best Life",
-      "url": "https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC"
+      "duration_ms": 217377,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/6QeO1fYyKamrW3JcdlfSoP"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Hey Hey (Jack Back Remix)",
         "url": "https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD"
@@ -413,7 +409,7 @@
       "url": "https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "LMK",
         "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
@@ -433,107 +429,7 @@
       "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Quezacotl",
-        "url": "https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 435000,
-      "name": "Quezacotl",
-      "url": "https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "All We Ever Do",
-        "url": "https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "All We Ever Do",
-      "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Kendall Park",
-        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
-      },
-      "artists": [
-        {
-          "name": "Duce",
-          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 200635,
-      "name": "Kendall Park",
-      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Resonate (feat. Julia Church)",
         "url": "https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ"
@@ -557,27 +453,7 @@
       "url": "https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "One Last Call",
         "url": "https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy"
@@ -597,7 +473,91 @@
       "url": "https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "All We Ever Do",
+        "url": "https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "All We Ever Do",
+      "url": "https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Kendall Park",
+        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 200635,
+      "name": "Kendall Park",
+      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/0XDch3owENNks3bapuFjAs"
@@ -621,7 +581,7 @@
       "url": "https://open.spotify.com/track/595mcofiqQr4E0Ihpr5ZMA"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Nothing Ever Changes",
         "url": "https://open.spotify.com/album/0HlphAJZzZbQ9xcqaD2yX4"
@@ -641,7 +601,7 @@
       "url": "https://open.spotify.com/track/1oytqQdZTKnICWgqCW9SrI"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/5SqJpjqYemto4l2ETxIHzA"
@@ -661,23 +621,7 @@
       "url": "https://open.spotify.com/track/2hRd8sG0Qx15VNx4Jk8E7u"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Give Me Something To Hold",
         "url": "https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU"
@@ -701,7 +645,7 @@
       "url": "https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Running In A Dream",
         "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
@@ -721,7 +665,27 @@
       "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi"
@@ -745,7 +709,7 @@
       "url": "https://open.spotify.com/track/7lLuAZCes4jKORs3ak8xZP"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
@@ -765,7 +729,23 @@
       "url": "https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
@@ -789,23 +769,7 @@
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2m4l1KffyARA2MSaAJhEKH"
@@ -821,7 +785,7 @@
       "url": "https://open.spotify.com/track/7GJz7LUlNyf5DahBhG1XIg"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Remission",
         "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
@@ -841,7 +805,7 @@
       "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/7jLwbeWUr2NVz7fZmX6rRb"
@@ -861,7 +825,27 @@
       "url": "https://open.spotify.com/track/5lGgglkaWaFS5g0yRlqeV7"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Stolen Glances (feat. L\u00e5psley)",
+        "url": "https://open.spotify.com/album/5DObus73yw027Z2SM972b3"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 188394,
+      "name": "Stolen Glances (feat. L\u00e5psley)",
+      "url": "https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Freedom 2024",
         "url": "https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI"
@@ -881,7 +865,27 @@
       "url": "https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/7sUT01qCXPckucWAUpJdR2"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Lose Your Love",
         "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Highest Love",
         "url": "https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u"
@@ -921,7 +925,7 @@
       "url": "https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
@@ -941,7 +945,23 @@
       "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Ice Moon",
         "url": "https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2"
@@ -965,23 +985,7 @@
       "url": "https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
@@ -1001,7 +1005,31 @@
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
+      "album": {
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 269221,
+      "name": "Running In A Dream",
+      "url": "https://open.spotify.com/track/66RMkzVBVjI3MlOiQ4v4gL"
+    },
+    {
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1"
@@ -1017,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "It's Love (Trippin')",
         "url": "https://open.spotify.com/album/2NWsEyK1jCTUINqSKWcVyA"
@@ -1041,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2bqwXwAj4ALLlDZ3JYbQVg"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Crazy Love (ANUQRAM Remix)",
         "url": "https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U"
@@ -1065,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "You and Me (We Owned It)",
         "url": "https://open.spotify.com/album/0Pvy8zkVenMBdOQH6cdEjZ"
@@ -1085,7 +1113,7 @@
       "url": "https://open.spotify.com/track/1ORzNmt5S14aUa9va4hviA"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7kGKwjJjYg3y4vXZGRPgj1"
@@ -1105,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6RMu6i69byAclapnUHdyFZ"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/3YwNWS7OPQHEp1wBorm5T0"
@@ -1125,7 +1153,7 @@
       "url": "https://open.spotify.com/track/42j9s3ezCCR9wC1fJ4X3iz"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Incomplete Dreaming",
         "url": "https://open.spotify.com/album/6QsZfxJ3RL8oUV32vlJ2n7"
@@ -1141,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6SRM57YcCB4YqiqhJlnqdn"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4A0StE56VMKnr1QlzosEua"
@@ -1161,7 +1189,7 @@
       "url": "https://open.spotify.com/track/75gsMOTK0ZXgBeJ4wvDpL4"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t"
@@ -1181,7 +1209,7 @@
       "url": "https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU"
     },
     {
-      "added_at": "2024-07-18 23:00:00",
+      "added_at": "2024-08-09 11:09:03",
       "album": {
         "name": "Ayana",
         "url": "https://open.spotify.com/album/4DdIBvo6xW2iXFqoNyJx5g"
@@ -1199,26 +1227,6 @@
       "duration_ms": 201707,
       "name": "Ayana",
       "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
-    },
-    {
-      "added_at": "2024-07-18 23:00:00",
-      "album": {
-        "name": "The Orange Theme",
-        "url": "https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "The Orange Theme",
-      "url": "https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT"
     }
   ],
   "unique_name": "Melodic & Euphoric",

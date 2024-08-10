@@ -1,12 +1,12 @@
 {
   "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
-  "num_followers": 63399,
+  "num_followers": 63461,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACcAt9bleyM0nB6IYweia8/",
+  "snapshot_id": "ZrQKgAAAAABpyC6+lBxD/kePzj3DS3ux",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dos de los Antrax",
-        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 199769,
-      "name": "El Dos de los Antrax",
-      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dos de los Antrax",
+        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 199769,
+      "name": "El Dos de los Antrax",
+      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179737,
+      "name": "Fue Un Error",
+      "url": "https://open.spotify.com/track/332fNfcFr8Jtr4lsVHysQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mexicano",
         "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179737,
-      "name": "Fue Un Error",
-      "url": "https://open.spotify.com/track/332fNfcFr8Jtr4lsVHysQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 184739,
       "name": "Suerte He Tenido",
       "url": "https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Sin Equipaje",
+      "url": "https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy"
     },
     {
       "added_at": null,
@@ -611,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 199274,
+      "name": "Y Tu",
+      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -667,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Sin Equipaje",
-      "url": "https://open.spotify.com/track/0bVtKbzLzlwV1IPPFqIWWy"
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
     },
     {
       "added_at": null,
@@ -719,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
@@ -748,9 +764,25 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 199274,
-      "name": "Y Tu",
-      "url": "https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt"
+      "duration_ms": 229568,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/06i9ONJKurz5snGZ5JJRbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 155688,
+      "name": "El Encuentro (En Vivo)",
+      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
     },
     {
       "added_at": null,
@@ -787,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 170794,
+      "name": "El Hijo De Pancho",
+      "url": "https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
@@ -796,9 +844,25 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 155688,
-      "name": "El Encuentro (En Vivo)",
-      "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
+      "duration_ms": 178175,
+      "name": "El Puente Roto (En Vivo)",
+      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 150713,
+      "name": "Y Van A Hablar",
+      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
     },
     {
       "added_at": null,
@@ -823,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 150713,
-      "name": "Y Van A Hablar",
-      "url": "https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
@@ -848,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 229568,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/06i9ONJKurz5snGZ5JJRbn"
+      "duration_ms": 159109,
+      "name": "Orgullo Sinaloense",
+      "url": "https://open.spotify.com/track/0Cg0kMenE8Qa8TDJLHoBlO"
     },
     {
       "added_at": null,
@@ -891,58 +939,6 @@
       "duration_ms": 180638,
       "name": "Casi se les hizo (En Vivo)",
       "url": "https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
-      },
-      "artists": [
-        {
-          "name": "Mario \"El Cachorro\" Delgado",
-          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 496138,
-      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 170794,
-      "name": "El Hijo De Pancho",
-      "url": "https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 178175,
-      "name": "El Puente Roto (En Vivo)",
-      "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 5907,
+  "num_followers": 5913,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADSHcSzDA8NyI/GZb43yNCD",
+  "snapshot_id": "ZrQKgAAAAABhq98HMq0BfTr9ecILZspW",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Dance Go (Eau De Vie)",
+      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Dance Go (Eau De Vie)",
-      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
     },
     {
       "added_at": null,
@@ -904,13 +904,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Ehi Idibia",
-          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
         }
       ],
-      "duration_ms": 230191,
-      "name": "Free (feat. Ehi Idibia)",
-      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
+      "duration_ms": 261276,
+      "name": "Enter the Place (feat. Sound Sultan)",
+      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
     },
     {
       "added_at": null,
@@ -988,13 +988,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+          "name": "Ehi Idibia",
+          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
         }
       ],
-      "duration_ms": 261276,
-      "name": "Enter the Place (feat. Sound Sultan)",
-      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
+      "duration_ms": 230191,
+      "name": "Free (feat. Ehi Idibia)",
+      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
     },
     {
       "added_at": null,

@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 244386,
       "name": "Ain't Life Strange",
       "url": "https://open.spotify.com/track/3aqAPFEFmLcFJ0sPzs8OXf"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 235940,
       "name": "Bending Over Backwards",
       "url": "https://open.spotify.com/track/4HyPn4ut2n0c4w8IrUc3Ix"
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180068,
       "name": "Leaving It All Behind",
       "url": "https://open.spotify.com/track/6XpXDtDIvaOqVuHDthfWwK"
@@ -4728,6 +4728,24 @@
       "duration_ms": 367986,
       "name": "Lighthouse in Little Lorraine",
       "url": "https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R"
+    },
+    {
+      "album": {
+        "name": "Purple Gas / Lightning in July (Prairie Fire)",
+        "url": "https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242932,
+      "name": "Lightning in July (Prairie Fire)",
+      "url": "https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK"
     },
     {
       "album": {
@@ -6724,7 +6742,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 253754,
       "name": "Say When",
       "url": "https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr"

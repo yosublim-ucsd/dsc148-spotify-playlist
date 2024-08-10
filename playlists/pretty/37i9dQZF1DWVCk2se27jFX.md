@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Lika Nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,859 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,863 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 94 | [Ya No Importa](https://open.spotify.com/track/1FkrSRXKb8kg4eUf4stNyU) | [Not Berlin](https://open.spotify.com/artist/6uM2ZMwwaTYmWmTTM223GR) | [Ya No Importa](https://open.spotify.com/album/7jTAmzvhohcdBv3ATeC81W) | 4:12 |
 | 95 | [Odebrecht](https://open.spotify.com/track/4xUO5mZzFCqrjCCIGW17Gk) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Odebrecht](https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs) | 3:57 |
 | 96 | [Atalanta](https://open.spotify.com/track/7AgebD5Roub1tcCP8ceOja) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Atalanta](https://open.spotify.com/album/0g6SujRzpoDxrCKdUFoxgg) | 6:00 |
-| 97 | [Bailando Triste](https://open.spotify.com/track/4gJsODHdl5ju39UY1cLXjc) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Como Pez en el Hielo](https://open.spotify.com/album/0ZNx94IhJIedeHjVV7PqOU) | 4:32 |
+| 97 | [Bailando Triste](https://open.spotify.com/track/4gJsODHdl5ju39UY1cLXjc) | [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Como Pez en el Hielo](https://open.spotify.com/album/0ZNx94IhJIedeHjVV7PqOU) | 4:26 |
 | 98 | [Esquinas](https://open.spotify.com/track/7znbenF3IGzqmpX6RIepwV) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Esquinas](https://open.spotify.com/album/0olqsQLCmq0Vm4dsxW7iWz) | 2:50 |
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/1KggS8Fk7lofj9rjtCEKv3) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/7npVc4YI5A14JlrIqOG2wH) | 3:47 |

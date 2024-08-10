@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACOcGXaw+UcMYv4wrSnGgyu",
+  "snapshot_id": "ZrQKgAAAAABRUyZ0ol4H/6K5liU1H0Ih",
   "tracks": [
     {
       "added_at": null,
@@ -99,30 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAILE",
-        "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 115859,
-      "name": "Se T\u00e1 Solteira",
-      "url": "https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Errei Eu Fui Muleque",
         "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
       },
@@ -151,6 +127,30 @@
       "duration_ms": 180803,
       "name": "Eu Errei Eu Fui Muleque",
       "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BAILE",
+        "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 115859,
+      "name": "Se T\u00e1 Solteira",
+      "url": "https://open.spotify.com/track/6a5JCYemYOR4lta1mzaetS"
     },
     {
       "added_at": null,
@@ -507,30 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "Dj Mack",
-          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Fiel \u00e0 Cachorrada",
-      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ta na Hora",
         "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 202007,
       "name": "Ta na Hora",
       "url": "https://open.spotify.com/track/3c5YDO4ZMp0jwUcTq8PzTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "Dj Mack",
+          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Fiel \u00e0 Cachorrada",
+      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 131374,
       "name": "Minha Cara Metade",
       "url": "https://open.spotify.com/track/4OJ3BZdgIUwAjx75SCi6wE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -711,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Garoto",
-          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
-        },
-        {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Eu Vou Te Levar pro C\u00e9u",
-      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoje Eu Vou Te Dar Trabalho",
         "url": "https://open.spotify.com/album/4mdLcUIbFJcbcOf87U593M"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 147284,
       "name": "Hoje Eu Vou Te Dar Trabalho",
       "url": "https://open.spotify.com/track/4b6e1r9jRoQaHfEHrB1w7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Garoto",
+          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Eu Vou Te Levar pro C\u00e9u",
+      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "Dj Nattan",
-          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
-        }
-      ],
-      "duration_ms": 99692,
-      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
-      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
       },
@@ -863,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rua do Ouro",
-        "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
       "artists": [
         {
@@ -872,17 +848,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+          "name": "Dj Nattan",
+          "url": "https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Rua do Ouro",
-      "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
+      "duration_ms": 99692,
+      "name": "Toma Cuidado pra N\u00e3o Se Apegar",
+      "url": "https://open.spotify.com/track/391W14a84cUzNFL2lOwvzZ"
     },
     {
       "added_at": null,
@@ -911,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+        "name": "Rua do Ouro",
+        "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
       },
       "artists": [
         {
@@ -920,17 +896,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "DJ BK",
-          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
         }
       ],
-      "duration_ms": 135692,
-      "name": "No Baile do Serr\u00e3o",
-      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
+      "duration_ms": 151384,
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
     },
     {
       "added_at": null,
@@ -951,6 +927,30 @@
       "duration_ms": 156500,
       "name": "Sem Calcinha",
       "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        },
+        {
+          "name": "DJ BK",
+          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "No Baile do Serr\u00e3o",
+      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dif\u00edcil - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/2ucmr0dO5e7dszezzDnRd1"
       },
@@ -1015,22 +1035,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
       },
       "artists": [
         {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
         },
         {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": null,
@@ -1071,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balan\u00e7a Dona On\u00e7a",
         "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 204444,
       "name": "Balan\u00e7a Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
     },
     {
       "added_at": null,
@@ -1131,22 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$IMBIO$E",
         "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
@@ -1167,8 +1167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4"
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": null,

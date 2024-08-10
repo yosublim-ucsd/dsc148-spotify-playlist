@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 205010,
+  "num_followers": 205076,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACyT8AUnpvul5Ll1RAlKs+q",
+  "snapshot_id": "ZrQKgAAAAACgdoYPO1E+zLEXTxZJZQBJ",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "FIELD TRIP",
+        "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 167228,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -359,34 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIELD TRIP",
-        "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 167228,
-      "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FEMA (Finesse Elevate Motivate Achieve)",
         "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
       },
@@ -403,6 +403,38 @@
       "duration_ms": 203840,
       "name": "Heart Mind",
       "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 241658,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
     },
     {
       "added_at": null,
@@ -443,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 241658,
-      "name": "Already",
-      "url": "https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 150979,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith Of A Mustard Seed",
         "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 264531,
       "name": "Codeine Dreaming (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Institution",
-        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 249240,
       "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
     },
     {
       "added_at": null,

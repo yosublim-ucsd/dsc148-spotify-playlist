@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=OffopowoQTecX1GXkafgIQ>Folabi Nuel</a>",
-  "num_followers": 31114,
+  "num_followers": 31134,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcPAAAAAARIh0GeYwcyxJ6OKKnsmS6",
+  "snapshot_id": "ZrW9qQAAAAD1ifCrNdrsvnPiTamClvFW",
   "tracks": [
     {
       "added_at": "2024-04-05 00:01:00",
@@ -125,24 +125,20 @@
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "GOD IS GOOD",
-        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -229,20 +225,24 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "added_at": "2023-12-15 00:01:00",

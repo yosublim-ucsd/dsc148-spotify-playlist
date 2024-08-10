@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Tit\u00e3s",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: NXZero",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194899,
       "name": "Al\u00edvio Imediato",
       "url": "https://open.spotify.com/track/1GF4riVRxRKiurhO1S7NvF"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 142372,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/69CkhPFeQ0AtCiAcCCUoSD"
@@ -4251,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "Liga\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq"
+      },
+      "artists": [
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272559,
+      "name": "Liga\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK"
+    },
+    {
+      "album": {
         "name": "Linhas Tortas",
         "url": "https://open.spotify.com/album/19R6WFL5S185IDKDVFBBqh"
       },
@@ -7206,7 +7224,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186795,
       "name": "Que L\u00edngua Falo Eu",
       "url": "https://open.spotify.com/track/2kQPQGayBHqN4Vf83fRYiV"
@@ -8203,6 +8221,24 @@
     },
     {
       "album": {
+        "name": "S\u00cdNDROME",
+        "url": "https://open.spotify.com/album/6JT8tYN9ARTzeSkHyLbe8y"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183597,
+      "name": "S\u00cdNDROME",
+      "url": "https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Chamar",
         "url": "https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96"
       },
@@ -8496,6 +8532,28 @@
       "duration_ms": 113547,
       "name": "Teoria",
       "url": "https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW"
+    },
+    {
+      "album": {
+        "name": "Teu Sangue",
+        "url": "https://open.spotify.com/album/5Z1N7u5zetgCctRkRqwSPW"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "name": "Hecto",
+          "url": "https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196513,
+      "name": "Teu Sangue",
+      "url": "https://open.spotify.com/track/2Qh8h9ulpgaoBpKslweA75"
     },
     {
       "album": {

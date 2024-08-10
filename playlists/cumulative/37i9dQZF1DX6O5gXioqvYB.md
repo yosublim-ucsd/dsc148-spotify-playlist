@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Prim
 
-114 songs - 5 hr 30 min
+115 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [SISSI 2](https://open.spotify.com/track/7kOXcYjbXmUW2dTF6DRdsV) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI 2](https://open.spotify.com/album/3RRSr7oDLfuUHVMI8ajtOJ) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [Solo per guardarti](https://open.spotify.com/track/7KjSp39rTMRU7FaasDEzpa) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [Solo per guardarti](https://open.spotify.com/album/6ocvw6K862kzRuEd2PDgAK) | 1:56 | 2024-07-25 |  |
 | [SOTTOCASSA](https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SOTTOCASSA](https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi) | 3:36 | 2024-06-27 | 2024-07-12 |
+| [Sto grande carro](https://open.spotify.com/track/3tJCSVef5sXu6gic1VnAJF) | [chela](https://open.spotify.com/artist/3eKuNJjfZsVt03Qfla2s0u) | [Sto grande carro](https://open.spotify.com/album/7sknGlGWbt7BdpIBQOcagv) | 2:25 | 2024-08-09 |  |
 | [Sto impazzendo \(piangi\) \(feat\. Atarde\)](https://open.spotify.com/track/6mPmLz3mxRoLWGfLDHSTnC) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:03 | 2024-07-11 |  |
 | [STUPIDA](https://open.spotify.com/track/1yHU38rOiDrRC839QBbN8l) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [STUPIDA](https://open.spotify.com/album/1imcRHiMvoqVMsyRdO4vv5) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [SUPERORGASMO](https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [ULTRAFRAGOLA](https://open.spotify.com/album/2nKUWSfMt5T1uUw0dG246Q) | 2:39 | 2024-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Mc Daniel",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi farofa a\u00e7a\u00ed cm peixe frito enfim desfrute / Foto: Pedro Sampaio, DJ Topo",
   "name": "PURO SUCO DO BRASIL",
   "tracks": [
     {
@@ -4761,6 +4761,28 @@
     },
     {
       "album": {
+        "name": "PEDRIN",
+        "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127846,
+      "name": "PEDRIN",
+      "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
+    },
+    {
+      "album": {
         "name": "Pega Cabuloso (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o"
       },
@@ -6014,7 +6036,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148548,
       "name": "SOLTEIROU - Ao Vivo",
       "url": "https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT"
@@ -6972,6 +6994,28 @@
       "duration_ms": 188423,
       "name": "Voc\u00ea Me Conquistou",
       "url": "https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw"
+    },
+    {
+      "album": {
+        "name": "Estilo Nattanzinho - Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/5ZV75Hjx4E4BhCJYUridzi"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Grupo Deixa Falar",
+          "url": "https://open.spotify.com/artist/0TuX3XFa8GFRmJG4pU7aOc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177030,
+      "name": "Voltar Pra Tu - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5kddwic80peJZYrWGMliGX"
     },
     {
       "album": {

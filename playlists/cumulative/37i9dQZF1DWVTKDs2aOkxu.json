@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242526,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2"
+    },
+    {
+      "album": {
         "name": "Solitude Of The Night Bus",
         "url": "https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADyURdxCuvTSYAX1hKhhXdB",
+  "snapshot_id": "ZrQKgAAAAAA/rNMfDoII1/ND5zwEjU4A",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head Above the Waters",
         "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 230511,
       "name": "New Harrison",
       "url": "https://open.spotify.com/track/7EV6sb1gDY337fBJNy3obX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beige",
-        "url": "https://open.spotify.com/album/7JNh6e48gMbtw75GLOARSA"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/55kxuWtCLOZ9LD7paQylnO"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Above the Waters",
-        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 155843,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Future II",
         "url": "https://open.spotify.com/album/4Bx8NxZeTAC53GjxVxXp2W"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 201210,
       "name": "Holding Up The World (feat. Harrison & Albin Myers)",
       "url": "https://open.spotify.com/track/5y8hl8FzwzRgtgRgAU9pu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Above the Waters",
+        "url": "https://open.spotify.com/album/7KhkoeMNagRr4PqRYudCet"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 155843,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/0kakE3UT2nSghNRVqBIEWm"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 91580,
-      "name": "7PM",
-      "url": "https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq"
+      "duration_ms": 85883,
+      "name": "A View From The Sky",
+      "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 85883,
-      "name": "A View From The Sky",
-      "url": "https://open.spotify.com/track/10N0I9KcAZ7dJKs6n3x7WQ"
+      "duration_ms": 91580,
+      "name": "7PM",
+      "url": "https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq"
     },
     {
       "added_at": null,
@@ -450,11 +450,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
     },
     {
       "added_at": null,
@@ -466,15 +470,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
+      "duration_ms": 123000,
+      "name": "Ashe Maree",
+      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
     },
     {
       "added_at": null,
@@ -522,15 +522,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -542,11 +538,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Ashe Maree",
-      "url": "https://open.spotify.com/track/72Dfg8NS9WDyH9xUEsfXIn"
+      "duration_ms": 240000,
+      "name": "How Can It Be (feat. Maddee)",
+      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 240000,
-      "name": "How Can It Be (feat. Maddee)",
-      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+      "duration_ms": 282000,
+      "name": "She's Strong (feat. Maddee)",
+      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
       "added_at": null,

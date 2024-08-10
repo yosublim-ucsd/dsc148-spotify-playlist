@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,412 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,455 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 65 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 |
 | 66 | [Agrim Agadez](https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL) | [Etran de L'AÏr](https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg) | [No\. 1](https://open.spotify.com/album/4wpPZZoZk7tIm2pdiKEEWC) | 5:51 |
 | 67 | [As\-tu été à Tahiti?](https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ) | [Racines](https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx) | 1:13 |
-| 68 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 |
-| 69 | [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 |
+| 68 | [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 |
+| 69 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 |
 | 70 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
 | 71 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
-| 72 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
-| 73 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 |
-| 74 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 |
-| 75 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 |
+| 72 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 |
+| 73 | [Nomad](https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nomad](https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs) | 4:35 |
+| 74 | [Makeda](https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Unconscious Collective](https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL) | 5:53 |
+| 75 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 |
 | 76 | [Eléctrico](https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O) | 3:37 |
 | 77 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 |
 | 78 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 84 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 |
 | 85 | [Afrique Victime](https://open.spotify.com/track/1RhL5PGWaiYXwVmqOpj0Nm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 7:25 |
 | 86 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 |
-| 87 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
-| 88 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 |
-| 89 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
+| 87 | [Geeta duniki](https://open.spotify.com/track/6Y4txHIZfSfFfON6SG8484) | [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM), [Susha](https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC) | [Global Control / Invisible Invasion](https://open.spotify.com/album/1teOHeiThN9wbZLcYKfqjI) | 3:32 |
+| 88 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
+| 89 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 |
 | 90 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ) | 3:58 |
 | 91 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
 | 92 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 95 | [Arnaq](https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 3:25 |
 | 96 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
 | 97 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 |
-| 98 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
-| 99 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
+| 98 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
+| 99 | [Junchuch](https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0) | [Junchuch](https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY) | 4:36 |
 | 100 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
 
 Snapshot ID: `Zq0UbgAAAAC5DWYCe6VTXYXmJVyWUNZ8`

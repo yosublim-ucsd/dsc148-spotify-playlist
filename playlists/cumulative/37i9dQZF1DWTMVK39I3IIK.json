@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik! <a href=\"spotify:artist:6J9AFauvtJJ8brNaiWwWat\">Sira Jovina</a> p\u00e5 forsiden\ud83d\udd2a",
+  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a Dos Santos p\u00e5 coveret",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -490,6 +490,24 @@
       "duration_ms": 188408,
       "name": "ENDORFINER",
       "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
+    },
+    {
+      "album": {
+        "name": "Falder I",
+        "url": "https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180437,
+      "name": "Falder I",
+      "url": "https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9"
     },
     {
       "album": {
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199578,
       "name": "Puff",
       "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"

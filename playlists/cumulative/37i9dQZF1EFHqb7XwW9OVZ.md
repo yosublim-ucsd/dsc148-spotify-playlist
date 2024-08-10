@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3uZkaA66y2JQegYQaCP1Fp">Erika de Casier</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-57 songs - 3 hr 10 min
+58 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ASAP](https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:14 | 2024-01-29 |  |
 | [Believe It](https://open.spotify.com/track/0mHftcfyNVJlVDBWW4GxQ7) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 3:07 | 2024-03-15 |  |
 | [Better Than That](https://open.spotify.com/track/0OQWttGvtkNs5rnhTdqWx9) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:56 | 2024-01-29 |  |
+| [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 | 2024-08-09 |  |
 | [Busy](https://open.spotify.com/track/5MMx0OKy2DN6GWPodrqxtw) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:59 | 2024-01-29 |  |
 | [Call Me Anytime](https://open.spotify.com/track/4RHQXs034DNqWRoC5dQCih) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:34 | 2024-01-29 |  |
 | [Camo](https://open.spotify.com/track/0NYTDaeVpepG9KxxP3ehQ9) | [Saint Cava](https://open.spotify.com/artist/5jHcWYiZoV18ALtgTjirLW) | [Bliss](https://open.spotify.com/album/4C1IvWSjR0deLBqZFtyIAK) | 3:07 | 2024-01-29 |  |

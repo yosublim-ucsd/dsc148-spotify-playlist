@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d\u300c\u3042\u3093\u30b9\u30bf\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2014-2019 Happy Elements K.K",
-  "num_followers": 55489,
+  "num_followers": 55493,
   "original_name": "ENSEMBLE STARS!! \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
-        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
-      },
-      "artists": [
-        {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "\u5e78\u305b\u306e\u6b4c",
-      "url": "https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Eden",
         "url": "https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 249933,
       "name": "Sunlit Smile!",
       "url": "https://open.spotify.com/track/48spUdSXNLwakQV7vpIc9m"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+      },
+      "artists": [
+        {
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+        }
+      ],
+      "duration_ms": 290266,
+      "name": "\u5e78\u305b\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
-        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
+        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
       },
       "artists": [
         {
-          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
-          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
+          "name": "\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)",
+          "url": "https://open.spotify.com/artist/6SnZppEs1Cpthc4gNQKEHv"
         }
       ],
-      "duration_ms": 224500,
-      "name": "Romantic Xday!",
-      "url": "https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo"
+      "duration_ms": 194733,
+      "name": "ALTA MODA -\u30a2\u30eb\u30bf\u30fb\u30e2\u30fc\u30c0-",
+      "url": "https://open.spotify.com/track/29c5z1PTpP8LWWBIVEggiT"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -580,13 +580,13 @@
       },
       "artists": [
         {
-          "name": "\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)",
-          "url": "https://open.spotify.com/artist/6SnZppEs1Cpthc4gNQKEHv"
+          "name": "\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/46nckR9Qrx1XdIQpMttfZD"
         }
       ],
-      "duration_ms": 194733,
-      "name": "ALTA MODA -\u30a2\u30eb\u30bf\u30fb\u30e2\u30fc\u30c0-",
-      "url": "https://open.spotify.com/track/29c5z1PTpP8LWWBIVEggiT"
+      "duration_ms": 201560,
+      "name": "\u30e6\u30cb\u30be\u30f3\u304c\u805e\u3053\u3048\u308b",
+      "url": "https://open.spotify.com/track/6NxR8TLh8p7xilpxP2eyWG"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
-        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
       },
       "artists": [
         {
-          "name": "\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)",
-          "url": "https://open.spotify.com/artist/46nckR9Qrx1XdIQpMttfZD"
+          "name": "Trickstar/\u6c37\u9df9\u5317\u6597(CV.\u524d\u91ce\u667a\u662d)\u3001\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)\u3001\u904a\u6728 \u771f(CV.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u8863\u66f4\u771f\u7dd2(CV.\u68b6 \u88d5\u8cb4)",
+          "url": "https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4"
         }
       ],
-      "duration_ms": 201560,
-      "name": "\u30e6\u30cb\u30be\u30f3\u304c\u805e\u3053\u3048\u308b",
-      "url": "https://open.spotify.com/track/6NxR8TLh8p7xilpxP2eyWG"
+      "duration_ms": 224500,
+      "name": "Romantic Xday!",
+      "url": "https://open.spotify.com/track/1y6DVlLnYmNg5shSlLxKyo"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
-        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
+        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
       },
       "artists": [
         {
-          "name": "\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish"
+          "name": "\u6d41\u661f\u968a\uff0f\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)",
+          "url": "https://open.spotify.com/artist/7CJMlJDmJqILvjKmXvrUxe"
         }
       ],
-      "duration_ms": 283813,
-      "name": "KISS YOURSELF",
-      "url": "https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP"
+      "duration_ms": 213093,
+      "name": "\u50d5\u3089\u306e\u30b9\u30c6\u30e9",
+      "url": "https://open.spotify.com/track/2bnwmebEaREd1EKXvcG9CF"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -831,34 +831,34 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
-        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
+        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
       },
       "artists": [
         {
-          "name": "\u6d41\u661f\u968a\uff0f\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)",
-          "url": "https://open.spotify.com/artist/7CJMlJDmJqILvjKmXvrUxe"
+          "name": "\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish"
         }
       ],
-      "duration_ms": 213093,
-      "name": "\u50d5\u3089\u306e\u30b9\u30c6\u30e9",
-      "url": "https://open.spotify.com/track/2bnwmebEaREd1EKXvcG9CF"
+      "duration_ms": 283813,
+      "name": "KISS YOURSELF",
+      "url": "https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP"
     },
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u6d41\u661f\u968a \u2715 Knights\u300c\u9752\u6625Emergency\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 06",
-        "url": "https://open.spotify.com/album/4Iyn5w22zjcZPOF1YadFvH"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
       },
       "artists": [
         {
-          "name": "\u6d41\u661f\u968a \u2715 Knights/\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/0Rfw2biPyl9NsYF1Y0sNXb"
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
         }
       ],
-      "duration_ms": 269586,
-      "name": "\u9752\u6625Emergency",
-      "url": "https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C"
+      "duration_ms": 249613,
+      "name": "\u9b45\u60d1\u5287",
+      "url": "https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
-        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+        "name": "\u6d41\u661f\u968a \u2715 Knights\u300c\u9752\u6625Emergency\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 06",
+        "url": "https://open.spotify.com/album/4Iyn5w22zjcZPOF1YadFvH"
       },
       "artists": [
         {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
+          "name": "\u6d41\u661f\u968a \u2715 Knights/\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)\u3001\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
+          "url": "https://open.spotify.com/artist/0Rfw2biPyl9NsYF1Y0sNXb"
         }
       ],
-      "duration_ms": 249613,
-      "name": "\u9b45\u60d1\u5287",
-      "url": "https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs"
+      "duration_ms": 269586,
+      "name": "\u9752\u6625Emergency",
+      "url": "https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Valkyrie",
-        "url": "https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF"
-      },
-      "artists": [
-        {
-          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
-          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "\u795d\u798f\u306eLibrary",
-      "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"
-    },
-    {
-      "added_at": "2024-07-30 15:00:00",
-      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra \u30aa\u30eb\u30bf\u30fc\u30c9 & fine-O",
         "url": "https://open.spotify.com/album/5lJ8ITtleAjSpDELNpjzaO"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-07-30 15:00:00",
       "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
-        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Valkyrie",
+        "url": "https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF"
       },
       "artists": [
         {
-          "name": "\u30ca\u30a4\u30c8\u30ad\u30e9\u30fc\u30ba/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd\u5149)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
-          "url": "https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB"
+          "name": "Valkyrie/\u658e\u5bae \u5b97(CV.\u9ad8\u6a4b\u5e83\u6a39)\u3001\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Crush of Judgment",
-      "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
+      "duration_ms": 243426,
+      "name": "\u795d\u798f\u306eLibrary",
+      "url": "https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT"
     },
     {
       "added_at": "2024-07-30 15:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 260495,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/5blci0P2JzxqqzdlReqHwT"
+    },
+    {
+      "added_at": "2024-07-30 15:00:00",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
+        "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30a4\u30c8\u30ad\u30e9\u30fc\u30ba/\u6708\u6c38\u30ec\u30aa(CV.\u6d45\u6cbc\u664b\u592a\u90ce)\u3001\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd\u5149)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u4ec1\u514e\u306a\u305a\u306a(CV.\u7c73\u5185\u4f51\u5e0c)",
+          "url": "https://open.spotify.com/artist/1lSJyubKtkGymlXRwo8mPB"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Crush of Judgment",
+      "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
     },
     {
       "added_at": "2024-07-30 15:00:00",

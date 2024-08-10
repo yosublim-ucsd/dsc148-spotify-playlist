@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 44 min
+175 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 | 2021-12-27 |  |
 | [Stay](https://open.spotify.com/track/0I20rLT2MJDhcF96AjbNYo) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay +](https://open.spotify.com/album/5auUsyFbwRARoWkOFopQ12) | 3:30 | 2021-12-27 |  |
 | [Stay](https://open.spotify.com/track/3Wp6apjCZ6bgj3l3tuvs6G) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/39NAZ1TZNMDLADu3ERGpux) | 3:34 | 2023-12-13 | 2024-02-01 |
-| [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 | 2021-12-27 |  |
+| [Tainted](https://open.spotify.com/track/1u1VSSLBKzPWlbuwVqLGMl) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:32 | 2021-12-27 | 2024-08-10 |
+| [Tainted](https://open.spotify.com/track/5nQAWjvARaGiEiqNrvVLZj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/10xM56wKLWLEU3sX4q8CVl) | 3:32 | 2024-08-09 |  |
 | [Takes Two](https://open.spotify.com/track/1qYasLtXkp2bXcxyGIxb53) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:33 | 2021-12-27 |  |
 | [Talk to Me \(feat\. Tove Styrke\)](https://open.spotify.com/track/4rjV9NFV51DrGXC2jbK2EN) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:53 | 2021-12-27 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/5kgqTe1BM720OjU78TGYDw) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:10 | 2021-12-27 |  |

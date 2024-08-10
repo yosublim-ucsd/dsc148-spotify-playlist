@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 167044,
+  "num_followers": 167122,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAAdxejMc2nOZutdGsImE6K/",
+  "snapshot_id": "ZrQKgAAAAACd7WitA6pp4n7V5yKjgvIM",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
+      "duration_ms": 162266,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": null,

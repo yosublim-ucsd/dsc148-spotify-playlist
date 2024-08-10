@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 23434,
+  "num_followers": 23442,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -267,30 +267,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
-      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Martha Argerich - The Complete Sony Recordings",
         "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
       },
@@ -315,6 +291,30 @@
       "duration_ms": 1121000,
       "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
       "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
+      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -847,6 +847,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
+        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
+      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Vier letzte Lieder; Ein Heldenleben (Live)",
-        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Ein Heldenleben, Op. 40: Der Held - Live",
-      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
     },
     {
       "added_at": "2022-06-20 09:55:21",

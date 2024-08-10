@@ -1,6 +1,6 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 91763,
+  "num_followers": 91827,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -49,22 +49,6 @@
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
-      "added_at": "2024-07-29 04:47:27",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
       "added_at": "2024-08-08 14:00:00",
       "album": {
         "name": "Big Dawgs",
@@ -83,6 +67,22 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-07-29 04:47:27",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2024-07-29 04:47:27",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-07-29 04:47:27",
       "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 192470,
+      "name": "Pure Water (with Migos)",
+      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
+    },
+    {
+      "added_at": "2024-07-29 04:47:27",
+      "album": {
         "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
         "url": "https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
-    },
-    {
-      "added_at": "2024-07-29 04:47:27",
-      "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 192470,
-      "name": "Pure Water (with Migos)",
-      "url": "https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8"
     },
     {
       "added_at": "2024-07-29 04:47:27",
@@ -617,6 +617,46 @@
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
     },
     {
+      "added_at": "2024-08-08 14:00:00",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
+    },
+    {
+      "added_at": "2024-07-29 04:47:27",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 244679,
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+    },
+    {
       "added_at": "2024-07-29 04:47:27",
       "album": {
         "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
@@ -647,22 +687,18 @@
     {
       "added_at": "2024-07-29 04:47:27",
       "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR"
+        "name": "Up (Instrumental)",
+        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 244679,
-      "name": "Lucky You (feat. Joyner Lucas)",
-      "url": "https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0"
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
     },
     {
       "added_at": "2024-07-29 04:47:27",
@@ -679,42 +715,6 @@
       "duration_ms": 171067,
       "name": "Body",
       "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
-    },
-    {
-      "added_at": "2024-07-29 04:47:27",
-      "album": {
-        "name": "Up (Instrumental)",
-        "url": "https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
-    },
-    {
-      "added_at": "2024-08-08 14:00:00",
-      "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
     },
     {
       "added_at": "2024-07-29 04:47:27",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-07-29 04:47:27",
       "album": {
-        "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
-        "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
-      "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
-    },
-    {
-      "added_at": "2024-07-29 04:47:27",
-      "album": {
         "name": "Thot Shit",
         "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 236665,
       "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
       "url": "https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe"
+    },
+    {
+      "added_at": "2024-07-29 04:47:27",
+      "album": {
+        "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+        "url": "https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "duration_ms": 207315,
+      "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
+      "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
     },
     {
       "added_at": "2024-07-29 04:47:27",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2024-07-29 04:47:27",
       "album": {
-        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 213307,
-      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
-      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
-    },
-    {
-      "added_at": "2024-07-29 04:47:27",
-      "album": {
         "name": "Suga",
         "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
+    },
+    {
+      "added_at": "2024-07-29 04:47:27",
+      "album": {
+        "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+        "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 213307,
+      "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
+      "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
     },
     {
       "added_at": "2024-07-29 04:47:27",

@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179761,
+  "num_followers": 179769,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Broken Harvest",
-        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 287439,
-      "name": "Broken Harvest",
-      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Wildflowers in the Graveyard",
         "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Broken Harvest",
+        "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 287439,
+      "name": "Broken Harvest",
+      "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Breakin' Ground",
-        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breakin' Ground",
-      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Breakin' Ground",
+        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breakin' Ground",
+      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 257920,
       "name": "You Led Me To The Wrong",
       "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Fall (Deluxe)",
         "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 167333,
       "name": "High and Low (Acoustic)",
       "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Hills of Mexico",
         "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 351193,
       "name": "Hills of Mexico",
       "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Darden Smith",
-          "url": "https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA"
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Love Will Win the War",
-      "url": "https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9"
+      "duration_ms": 234826,
+      "name": "Avalon (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
     }
   ],
   "unique_name": "Contemporary Folk",

@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 235548,
+  "num_followers": 235608,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
         "name": "Glue Song",
         "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "Flying Solo",
-        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 344571,
-      "name": "To the Bone",
-      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
+        "name": "Flying Solo",
+        "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 344571,
+      "name": "To the Bone",
+      "url": "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
         "name": "Somebody's Pleasure",
         "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
       },
@@ -551,42 +551,6 @@
       "duration_ms": 223957,
       "name": "Somebody's Pleasure",
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 212784,
-      "name": "LIMBO",
-      "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
-        "name": "Let You Break My Heart Again",
-        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Let You Break My Heart Again",
-      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -611,6 +575,26 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 212784,
+      "name": "LIMBO",
+      "url": "https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -655,6 +655,22 @@
       "duration_ms": 181224,
       "name": "NVMD",
       "url": "https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "light",
-        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225949,
-      "name": "light",
-      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
         "name": "THE REAPER",
         "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
       },
@@ -739,8 +739,24 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "Take A Bite",
-        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+        "name": "light",
+        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225949,
+      "name": "light",
+      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158866,
-      "name": "Take A Bite",
-      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 199514,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
         }
       ],
-      "duration_ms": 199514,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        }
-      ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
+    },
+    {
+      "added_at": "2024-07-26 05:00:00",
+      "album": {
         "name": "One Bad Day",
         "url": "https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 256336,
       "name": "Why Don't You Stay (WorldTour Ver.)",
       "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2024-07-26 05:00:00",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-07-26 05:00:00",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-07-26 05:00:00",
       "album": {
-        "name": "Slow (with Ciara)",
-        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
       "artists": [
         {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 192181,
-      "name": "Slow (with Ciara)",
-      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     }
   ],
   "unique_name": "tapioca",

@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 233554,
+  "num_followers": 233713,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-06-26 19:13:54",
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
+    },
+    {
+      "added_at": "2024-06-26 19:13:54",
+      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
-    },
-    {
-      "added_at": "2024-06-26 19:13:54",
-      "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2024-06-26 19:13:54",

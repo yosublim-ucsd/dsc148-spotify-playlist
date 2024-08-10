@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 127723,
+  "num_followers": 127745,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 281034,
-      "name": "Tangerina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Final de Semana",
         "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
       },
@@ -91,6 +71,26 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 281034,
+      "name": "Tangerina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa"
       },
@@ -107,6 +107,26 @@
       "duration_ms": 191164,
       "name": "\u00cdndia",
       "url": "https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Samurai (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -131,26 +151,6 @@
       "duration_ms": 185333,
       "name": "Pipa Voada (feat. Emicida)",
       "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Samurai (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Me Toca",
         "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 186042,
       "name": "Me Toca",
       "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
         "name": "Mar\u00e9",
         "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 201937,
       "name": "Estragar a Amizade",
       "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2023-12-26 03:01:00",

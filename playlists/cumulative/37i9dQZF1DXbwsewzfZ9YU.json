@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A White Horse Covered In Blood",
+        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "A White Horse Covered In Blood",
+      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
+    },
+    {
+      "album": {
         "name": "BABYLON",
         "url": "https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF"
       },
@@ -589,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Can't See Straight",
+        "url": "https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63466,
+      "name": "Can't See Straight",
+      "url": "https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB"
+    },
+    {
+      "album": {
         "name": "CAN'T STOP IT",
         "url": "https://open.spotify.com/album/0UScfF1NDqhyU3fYgnUPBS"
       },
@@ -932,7 +968,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169045,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/60vVj2WfNR4weWoMEiO9er"
@@ -1621,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d"
+      },
+      "artists": [
+        {
+          "name": "Regional Justice Center",
+          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71584,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm"
+    },
+    {
+      "album": {
         "name": "FUBAR",
         "url": "https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx"
       },
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 100253,
       "name": "GETMONEY",
       "url": "https://open.spotify.com/track/2k3eHeXxtdkzuTSqt4fizQ"
@@ -2396,7 +2450,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165540,
       "name": "Like A Sickness",
       "url": "https://open.spotify.com/track/0E3LY4IzJldhjtjXyA2YCZ"
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140203,
       "name": "Low Tech",
       "url": "https://open.spotify.com/track/1G9givRPDFvYoKaMw2OqjK"
@@ -2454,6 +2508,24 @@
       "duration_ms": 86560,
       "name": "Magazine Beach",
       "url": "https://open.spotify.com/track/1T8py1nh6wsKy6jPDNkGMC"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/6zDQno0qRzHewdWZ1K6qN5"
+      },
+      "artists": [
+        {
+          "name": "Squint",
+          "url": "https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5hnUL0yMgx0fWskjHUmkv2"
     },
     {
       "album": {
@@ -2624,6 +2696,28 @@
       "duration_ms": 178000,
       "name": "Myopic",
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
+    },
+    {
+      "album": {
+        "name": "CORPUS II EP I",
+        "url": "https://open.spotify.com/album/1ivwu21QVPJ0ns2BAHiF9I"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144801,
+      "name": "Nation of Mind",
+      "url": "https://open.spotify.com/track/4YU0kQCJ4B514nNQKmiHwE"
     },
     {
       "album": {
@@ -2824,7 +2918,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 172949,
       "name": "NO LOVE BUT FOR OUR OWN",
       "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
@@ -3166,7 +3260,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 253952,
       "name": "Playin' Hell Tryin' To Get To Heaven",
       "url": "https://open.spotify.com/track/5dZEWLFTHuaz8lq3ryNYoV"
@@ -3915,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/4EHiifrNOWZdl74QiWqcEW"
+      },
+      "artists": [
+        {
+          "name": "Xile",
+          "url": "https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163899,
+      "name": "Stone Cold",
+      "url": "https://open.spotify.com/track/6yxNb0lJgKAnGfulrMgFS2"
+    },
+    {
+      "album": {
         "name": "Deep Sage",
         "url": "https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1"
       },
@@ -3987,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Supreme Ruler",
+        "url": "https://open.spotify.com/album/0nj0wMbDj49fBooNKFN5po"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54242,
+      "name": "Supreme Ruler",
+      "url": "https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz"
+    },
+    {
+      "album": {
         "name": "Suspend This Life...",
         "url": "https://open.spotify.com/album/1255avWn2ZjpEzeHrhjQDk"
       },
@@ -4002,6 +4132,24 @@
       "duration_ms": 174586,
       "name": "Suspend This Life",
       "url": "https://open.spotify.com/track/4AJeJGnx67RojXzrWGUWXZ"
+    },
+    {
+      "album": {
+        "name": "Seeking Refuge",
+        "url": "https://open.spotify.com/album/4WiawcUQDOnCZ7HCOqUqoV"
+      },
+      "artists": [
+        {
+          "name": "Excel",
+          "url": "https://open.spotify.com/artist/7a6NJqMhOHFRgKb61tNm2P"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199282,
+      "name": "Take Your Part Gotta Encourage",
+      "url": "https://open.spotify.com/track/2MQh8UcBkR5hhe6LMBINhz"
     },
     {
       "album": {
@@ -4648,7 +4796,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 207000,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/6cHOi5m75d3W57ezmw4WRr"
@@ -4736,7 +4884,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135208,
       "name": "We Came To Play",
       "url": "https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z"

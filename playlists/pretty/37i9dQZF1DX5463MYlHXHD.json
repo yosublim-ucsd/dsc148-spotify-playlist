@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Turros.",
-  "num_followers": 566670,
+  "num_followers": 566695,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "Rompiendo el Silencio",
+        "url": "https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 247092,
+      "name": "Dejenl\u00e1 Que Llore",
+      "url": "https://open.spotify.com/track/0zlkl9ewks8yTGovGtar8N"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Rompiendo el Silencio",
-        "url": "https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 247092,
-      "name": "Dejenl\u00e1 Que Llore",
-      "url": "https://open.spotify.com/track/0zlkl9ewks8yTGovGtar8N"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
-      },
-      "artists": [
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
-        }
-      ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 164531,
       "name": "PICA",
       "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+      },
+      "artists": [
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+        }
+      ],
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -1867,46 +1867,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "YO SOY TU MAESTRO (Remix)",
-        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "YO SOY TU MAESTRO - Remix",
-      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -1943,6 +1903,62 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "YO SOY TU MAESTRO (Remix)",
+        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "YO SOY TU MAESTRO - Remix",
+      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Supermerk2 & Meta Guacha: 2x1",
+        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Para la Gilada",
+      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Te Fuiste De Gira",
         "url": "https://open.spotify.com/album/3RkhjlXDIeMAnsSzpdIucJ"
       },
@@ -1967,22 +1983,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Supermerk2 & Meta Guacha: 2x1",
-        "url": "https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y"
-      },
-      "artists": [
-        {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Para la Gilada",
-      "url": "https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Session en el Barrio #4",
         "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
       },
@@ -1999,6 +1999,38 @@
       "duration_ms": 152176,
       "name": "Session en el Barrio #4",
       "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 235368,
+      "name": "Vengo de la casa de ella",
+      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -2043,34 +2075,18 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+        "name": "Rompiendo el Silencio",
+        "url": "https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB"
       },
       "artists": [
         {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 235368,
-      "name": "Vengo de la casa de ella",
-      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
-      },
-      "artists": [
-        {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+      "duration_ms": 193201,
+      "name": "Adi\u00f3s, Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/4WVK4mDcXkNTya0GgwcAFT"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -2087,22 +2103,6 @@
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Rompiendo el Silencio",
-        "url": "https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 193201,
-      "name": "Adi\u00f3s, Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/4WVK4mDcXkNTya0GgwcAFT"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -2143,6 +2143,74 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
+        "name": "CD2",
+        "url": "https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0"
+      },
+      "artists": [
+        {
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+        },
+        {
+          "name": "Hamster Records",
+          "url": "https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6"
+        }
+      ],
+      "duration_ms": 166863,
+      "name": "Mujer Yo te amo",
+      "url": "https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Carta A Un Amigo",
+      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -2167,58 +2235,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "CD2",
-        "url": "https://open.spotify.com/album/1pG0DclJo5ORG9DpaMQ6r0"
-      },
-      "artists": [
-        {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
-        },
-        {
-          "name": "Hamster Records",
-          "url": "https://open.spotify.com/artist/7GCulQ8qiEwJqoubKbf6l6"
-        }
-      ],
-      "duration_ms": 166863,
-      "name": "Mujer Yo te amo",
-      "url": "https://open.spotify.com/track/3S5wSXom8rA2VUsXenvsdQ"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Carta A Un Amigo",
-      "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -2231,6 +2247,22 @@
       "duration_ms": 223920,
       "name": "La cola less",
       "url": "https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV"
+    },
+    {
+      "added_at": "2024-07-26 03:00:00",
+      "album": {
+        "name": "En Este Mundo",
+        "url": "https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j"
+      },
+      "artists": [
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx"
+        }
+      ],
+      "duration_ms": 164346,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/78K8wJinqmHpfiLwjUk8jS"
     },
     {
       "added_at": "2024-07-26 03:00:00",
@@ -2315,22 +2347,6 @@
     {
       "added_at": "2024-07-26 03:00:00",
       "album": {
-        "name": "En Este Mundo",
-        "url": "https://open.spotify.com/album/7hk8g5VKny9ZPYweUUtk0j"
-      },
-      "artists": [
-        {
-          "name": "Junior",
-          "url": "https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx"
-        }
-      ],
-      "duration_ms": 164346,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/78K8wJinqmHpfiLwjUk8jS"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -2347,22 +2363,6 @@
       "duration_ms": 275200,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
-    },
-    {
-      "added_at": "2024-07-26 03:00:00",
-      "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/0jwK1Db1clUXBKCPnr19iM"
     },
     {
       "added_at": "2024-07-26 03:00:00",

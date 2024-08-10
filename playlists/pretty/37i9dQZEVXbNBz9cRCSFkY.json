@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1354659,
+  "num_followers": 1355087,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lkgv8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LkmBcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Dilaw",
         "url": "https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Talaarawan",
         "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Sariling Mundo",
         "url": "https://open.spotify.com/album/2rfBUsHWqodvzhMDNDAeJW"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/4Rlbzn3nj9XJMZTijQUXMs"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 175461,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Pantropiko",
-        "url": "https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Pantropiko",
-      "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -141,7 +109,39 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Pantropiko",
+        "url": "https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Pantropiko",
+      "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 175461,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Karera",
         "url": "https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R"
@@ -157,39 +157,7 @@
       "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
-      },
-      "artists": [
-        {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Kung Alam Mo Lang",
-        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Walang Alam",
-      "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
@@ -209,23 +177,55 @@
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Saan?",
-        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
       },
       "artists": [
         {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Saan?",
-      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
+      "duration_ms": 185000,
+      "name": "Walang Alam",
+      "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Sandali",
         "url": "https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P"
@@ -241,27 +241,23 @@
       "url": "https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Babaero",
-        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
+        "name": "Saan?",
+        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
       },
       "artists": [
         {
-          "name": "gins&melodies",
-          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 175396,
-      "name": "Babaero",
-      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+      "duration_ms": 206500,
+      "name": "Saan?",
+      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Burgis",
         "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
@@ -281,23 +277,59 @@
       "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "TAKE ALL THE LOVE",
-        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
         }
       ],
-      "duration_ms": 206181,
-      "name": "TAKE ALL THE LOVE",
-      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+      "duration_ms": 175396,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "This Na Malambing",
         "url": "https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T"
@@ -317,39 +349,7 @@
       "url": "https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Misteryoso",
         "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S"
@@ -381,7 +381,55 @@
       "url": "https://open.spotify.com/track/5YV9UyeC3dMV4kuRiTMGJs"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Ikot",
+        "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "Ikot",
+      "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Wag Na",
         "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
@@ -401,71 +449,7 @@
       "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Ikot",
-        "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
-      },
-      "artists": [
-        {
-          "name": "Over October",
-          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "Ikot",
-      "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Musika",
-        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Musika",
-      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
@@ -485,7 +469,23 @@
       "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Miss Miss",
         "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
@@ -501,23 +501,7 @@
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Dikapamigay",
         "url": "https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp"
@@ -537,27 +521,23 @@
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Makasarili Malambing (feat. Hev Abi)",
-        "url": "https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4"
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
       },
       "artists": [
         {
-          "name": "Kristina Dawn",
-          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 121660,
-      "name": "Makasarili Malambing (feat. Hev Abi)",
-      "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "YK",
         "url": "https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS"
@@ -573,23 +553,7 @@
       "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
@@ -609,39 +573,23 @@
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Reid Alert",
-        "url": "https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9"
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
       },
       "artists": [
         {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 244520,
-      "name": "Randomantic",
-      "url": "https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT"
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "TJ Monterde",
-        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Dating Tayo",
-      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Hoodie (feat. Alisson Shore)",
         "url": "https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK"
@@ -661,7 +609,27 @@
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Makasarili Malambing (feat. Hev Abi)",
+        "url": "https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 121660,
+      "name": "Makasarili Malambing (feat. Hev Abi)",
+      "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
@@ -677,39 +645,39 @@
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+        "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Isa lang",
-        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
+        "name": "Reid Alert",
+        "url": "https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
         }
       ],
-      "duration_ms": 269256,
-      "name": "Isa lang",
-      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
+      "duration_ms": 244520,
+      "name": "Randomantic",
+      "url": "https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
@@ -725,55 +693,59 @@
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Isa lang",
+        "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 269256,
+      "name": "Isa lang",
+      "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Kisame",
-        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "rhodessa",
-          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 212608,
-      "name": "Kisame",
-      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -797,27 +769,7 @@
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Ikaw Lang",
         "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
@@ -833,7 +785,39 @@
       "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Kisame",
+        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Kisame",
+      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
       "album": {
         "name": "Strike Whilst the Iron Is Hot",
         "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
@@ -849,20 +833,36 @@
       "url": "https://open.spotify.com/track/0Qra8Ps4tJAZPqRXyehCjc"
     },
     {
-      "added_at": "2024-08-08 09:27:48",
+      "added_at": "2024-08-09 09:21:20",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-08-09 09:21:20",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/08hFNg8Oz3lvaAms7qrIif"
     }
   ],
   "unique_name": "Top 50 - Philippines",

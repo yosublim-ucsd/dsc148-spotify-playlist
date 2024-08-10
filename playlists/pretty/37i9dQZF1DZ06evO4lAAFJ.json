@@ -1,12 +1,12 @@
 {
-  "description": "This Is ROSAL\u00cdA. Los temas esenciales, todos en una lista.",
-  "num_followers": 627735,
+  "description": "This Is ROSAL\u00cdA. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 627818,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABpM5Mf4/Z4J8tSjDClrfAW",
+  "snapshot_id": "ZrQKgAAAAABOwWOfqnDSkwkh8DcYz+Yn",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TKN (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 129370,
+      "name": "TKN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -267,26 +287,6 @@
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TKN (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 129370,
-      "name": "TKN (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 89749,
-      "name": "LAX",
-      "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
+      "duration_ms": 120991,
+      "name": "CHIRI",
+      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 120991,
-      "name": "CHIRI",
-      "url": "https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL"
+      "duration_ms": 89749,
+      "name": "LAX",
+      "url": "https://open.spotify.com/track/2N3YZ075lq9z1ObaAiX6l1"
     },
     {
       "added_at": null,

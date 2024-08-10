@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Teddy Swims & Jessie Murph",
+  "description": "Recent hits and new songs from your fave artists. Cover: Finneas",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "album": {
         "name": "The Country And The Coast Side A",
         "url": "https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R"
       },
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3975,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "album": {
         "name": "Broke (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
       },
@@ -4030,6 +4066,28 @@
       "duration_ms": 172000,
       "name": "broken by you",
       "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
+    },
+    {
+      "album": {
+        "name": "Broken Heart Thing (feat. Dustin Lynch)",
+        "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Broken Heart Thing (feat. Dustin Lynch)",
+      "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
       "album": {
@@ -5204,7 +5262,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
@@ -6048,6 +6106,32 @@
       "duration_ms": 189772,
       "name": "Cry About It Later",
       "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
+    },
+    {
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157086,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
     },
     {
       "album": {
@@ -6968,6 +7052,24 @@
       "duration_ms": 223733,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
+    },
+    {
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
       "album": {
@@ -8352,7 +8454,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143976,
       "name": "Fall At Your Feet (with Dean Lewis)",
       "url": "https://open.spotify.com/track/0M0a2E5H8pUmqDHs0A4931"
@@ -9053,6 +9155,24 @@
     },
     {
       "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -9532,6 +9652,24 @@
       "duration_ms": 221465,
       "name": "Funny",
       "url": "https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW"
+    },
+    {
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "album": {
@@ -12592,7 +12730,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
@@ -13012,7 +13150,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -13070,7 +13208,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216818,
       "name": "i hope i never fall in love",
       "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
@@ -14448,7 +14586,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176022,
       "name": "Indifferent",
       "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
@@ -14781,7 +14919,7 @@
     },
     {
       "album": {
-        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "name": "In The Lonely Hour - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
       "artists": [
@@ -16333,6 +16471,24 @@
     },
     {
       "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -16746,7 +16902,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210320,
       "name": "Live For You",
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
@@ -18628,7 +18784,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
@@ -21695,6 +21851,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "album": {
         "name": "Peer Pressure (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/4pPJ0Hwrvadty8bGsg4Msg"
       },
@@ -21948,7 +22122,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -22006,7 +22180,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -22848,6 +23022,24 @@
       "duration_ms": 163228,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
     },
     {
       "album": {
@@ -24344,7 +24536,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
@@ -25158,6 +25350,24 @@
       "duration_ms": 197513,
       "name": "Sorry for Me",
       "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
+    },
+    {
+      "album": {
+        "name": "Sorry Mom",
+        "url": "https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215786,
+      "name": "Sorry Mom",
+      "url": "https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE"
     },
     {
       "album": {
@@ -25998,7 +26208,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -29053,6 +29263,28 @@
     },
     {
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "album": {
         "name": "True Babe",
         "url": "https://open.spotify.com/album/61dpINnbtGk1FcOR3VtQYh"
       },
@@ -29306,6 +29538,24 @@
       "duration_ms": 197055,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/6IgGwkA5kXqFJkMYTFpBRX"
+    },
+    {
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171444,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK"
     },
     {
       "album": {
@@ -29744,7 +29994,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181632,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3NSfknvFy4Z9TguAVNe39W"
@@ -29881,6 +30131,24 @@
     },
     {
       "album": {
+        "name": "Waiting For The Joy",
+        "url": "https://open.spotify.com/album/5VLsfyfaF6LcvMpCsA39kR"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Waiting For The Joy",
+      "url": "https://open.spotify.com/track/2a6gh56vuPGtYM6RIT7fqe"
+    },
+    {
+      "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
       },
@@ -29990,10 +30258,28 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159784,
       "name": "Want This Beer (Feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
+    },
+    {
+      "album": {
+        "name": "Left on McKinney",
+        "url": "https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189793,
+      "name": "Warm Body",
+      "url": "https://open.spotify.com/track/7g7nmZQDejKZtFOfST9C7u"
     },
     {
       "album": {
@@ -31013,6 +31299,24 @@
     },
     {
       "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "album": {
         "name": "Bigger Love",
         "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
       },
@@ -31578,7 +31882,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150474,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"

@@ -4,7 +4,7 @@
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-157 songs - 8 hr 34 min
+158 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-17 | 2024-07-06 |
 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 | 2024-03-01 |  |
 | [Religiously](https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously](https://open.spotify.com/album/5M1xyJCeOsknHsg8k3yOxI) | 2:58 | 2023-12-08 | 2024-06-06 |
+| [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-10 |  |
 | [S.O.B.](https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [S.O.B.](https://open.spotify.com/album/1ueSCQNbsw3cZ0sV97Qrka) | 3:03 | 2024-02-09 | 2024-03-16 |
 | [Saltwater Cinderella](https://open.spotify.com/track/6ukdlzjSgvwpirC5HE9ZUW) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Saltwater Cinderella](https://open.spotify.com/album/1JHqBa0fAJjpBt6xOVg4sZ) | 3:05 | 2024-06-21 |  |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-12-08 | 2024-01-20 |

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-134 songs - 8 hr 27 min
+135 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Chaos](https://open.spotify.com/track/3w2btrPhG4QXL5XG2pkFFm) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 2:54 | 2023-12-08 | 2024-03-09 |
 | [Chime](https://open.spotify.com/track/7M8rxHUoLI7k10qurZ5GyA) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:53 | 2024-07-19 |  |
 | [Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/0p7nH5bz0pWBor10osUBuD) | 5:05 | 2024-04-12 | 2024-07-20 |
-| [closer](https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [closer](https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae) | 6:08 | 2023-12-08 |  |
+| [closer](https://open.spotify.com/track/1zSPYn6baJA7zuYj2EZ99y) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [closer](https://open.spotify.com/album/3Wf2gPi59LCtE5yBfSAEae) | 6:08 | 2023-12-08 | 2024-08-10 |
 | [Closer To You](https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Closer To You](https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax) | 3:12 | 2024-06-03 |  |
 | [Come Together \- Nox Vahn & Marsh Revisit](https://open.spotify.com/track/1a9ShyDtSg8KqVdfa4Kyd0) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Come Together \(Nox Vahn & Marsh Revisit\)](https://open.spotify.com/album/6m0mLramcaMID73jvYf0Lx) | 4:07 | 2024-08-02 |  |
 | [Diamonds \- Vraell's Guitar Version](https://open.spotify.com/track/2DgVUg7thg7eZlFOm5IN3a) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [Diamonds \(Vraell's Guitar Version\)](https://open.spotify.com/album/4SG3j1q6Yo8J8bWOIAOii4) | 2:01 | 2024-06-14 | 2024-07-20 |
@@ -75,6 +75,7 @@
 | [IZUMO](https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq) | [Yui Onodera](https://open.spotify.com/artist/7mCcHxpwKyDj2aJZNGZP7e) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 4:41 | 2023-12-08 |  |
 | [Just Like Heaven](https://open.spotify.com/track/03lqvDgdBKvrq3mGztwU93) | [Vincenzo](https://open.spotify.com/artist/7FR8ZynvReyPlYfi4LnKyI), [Minako](https://open.spotify.com/artist/5XmQ2g7xxwA3I0o6LWXM2N) | [The Vanishing Years](https://open.spotify.com/album/3lnxGIRMSj6NKB16ijwbOH) | 4:55 | 2024-04-26 | 2024-06-27 |
 | [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2024-06-03 |  |
+| [Kintsugi](https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Kintsugi](https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk) | 3:31 | 2024-08-09 |  |
 | [Kioku](https://open.spotify.com/track/6xGkHqnwZ0Gsbw6npaCD3s) | [Akitsugu Fukushima](https://open.spotify.com/artist/7prxMXbUZnwDhlaxGC5Bdb) | [Boy 1 EP](https://open.spotify.com/album/7uIBHzFLaUAdv6xkVTPLeT) | 3:48 | 2024-03-28 | 2024-06-04 |
 | [Kyoto \(京都\)](https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 4:15 | 2024-06-03 |  |
 | [Kyoto \(京都\) \- Lycoriscoris Remix](https://open.spotify.com/track/3rNpzCkiH8H7kvL44T36D1) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P), [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Jōhatsu \(蒸発\) \(The Remixes\)](https://open.spotify.com/album/1iDvYexi7CTmtTSSI16vJs) | 3:50 | 2023-12-08 | 2024-01-27 |

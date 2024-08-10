@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144000,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2IrEBO5jKGNRZJhn1Xqlab"
@@ -7484,7 +7484,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "First half of a lifetime",
       "url": "https://open.spotify.com/track/3rZXfQugkHjGx7zNUCikbX"
@@ -8414,7 +8414,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183858,
       "name": "fruitful",
       "url": "https://open.spotify.com/track/16ZBxJvYhFW3hRu40WG5qO"
@@ -15534,7 +15534,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 146707,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/20E0W4WPSElB9zewWC12pq"
@@ -17294,7 +17294,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144291,
       "name": "one2three",
       "url": "https://open.spotify.com/track/7zxIRw4TVVsPZbXPhDgDKG"
@@ -17972,7 +17972,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144000,
       "name": "Perfect Moment",
       "url": "https://open.spotify.com/track/4LQXHGOAjC249XnciBfeAA"
@@ -23585,6 +23585,24 @@
     },
     {
       "album": {
+        "name": "Take your time",
+        "url": "https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154936,
+      "name": "Take your time",
+      "url": "https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW"
+    },
+    {
+      "album": {
         "name": "Taking a Gap Year",
         "url": "https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS"
       },
@@ -24038,7 +24056,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144175,
       "name": "The Blue Wasp",
       "url": "https://open.spotify.com/track/73uib3JEo1xh70wEvSAR45"
@@ -24182,7 +24200,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 150769,
       "name": "The Happiest Moment",
       "url": "https://open.spotify.com/track/2uwFWhi2oU2A7n65Xrn62x"
@@ -25852,7 +25870,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 99000,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/43WE9XdOjh3T65qYjtcJQj"

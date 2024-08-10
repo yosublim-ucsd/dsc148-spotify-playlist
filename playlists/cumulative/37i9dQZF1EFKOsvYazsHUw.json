@@ -722,6 +722,24 @@
     {
       "album": {
         "name": "It Was Divine",
+        "url": "https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300574,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/02YPsZehXDNohgCbH6t5Lm"
+    },
+    {
+      "album": {
+        "name": "It Was Divine",
         "url": "https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6"
       },
       "artists": [
@@ -732,7 +750,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 300574,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/7cIPifhS3R4rF4sKi8466d"

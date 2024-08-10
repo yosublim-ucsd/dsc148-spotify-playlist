@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Xavi
+> Lo que diga el corazón ❤️💔 Cover: Armenta & Adrian L Santos
 
-76 songs - 3 hr 49 min
+77 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2024-03-15 |  |
 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 | 2024-07-05 |  |
 | [Pal Amor Soy Malo \- Remix](https://open.spotify.com/track/5u9W6O6RiCRbJIOhE4Nmzy) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Pal Amor Soy Malo \(Remix\)](https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF) | 2:36 | 2024-03-15 |  |
+| [PERDICIÓN](https://open.spotify.com/track/3Aic7019oZOWvAKhPSAOr9) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [PERDICIÓN](https://open.spotify.com/album/1K5nVzcBuN4mT02x2lMLnL) | 3:29 | 2024-08-09 |  |
 | [Polvito](https://open.spotify.com/track/6Ue52TJAdl5BHt389OOjlm) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Polvito](https://open.spotify.com/album/0LROhRL0IfDHtFMxwUKNuY) | 2:50 | 2024-03-15 | 2024-05-18 |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2024-03-15 |  |
 | [Ramo Buchón](https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr) | [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Ramo Buchón](https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8) | 3:33 | 2024-03-15 |  |

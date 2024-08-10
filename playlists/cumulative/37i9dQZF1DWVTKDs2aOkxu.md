@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Yannis & The Yaw giving us a better day 🌧️
 
-135 songs - 7 hr 27 min
+136 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Second Best](https://open.spotify.com/track/2y4smdlMAA7Fg6I7iyDHjK) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [The Garden Dream](https://open.spotify.com/album/6ZaWKnLc8g4KDily8uOC9R) | 2:50 | 2024-06-27 | 2024-07-19 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-18 |  |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-27 | 2024-07-27 |
+| [Softly](https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Softly](https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs) | 4:02 | 2024-08-09 |  |
 | [Solitude Of The Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude Of The Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-11 |  |
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 |  |
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-25 |  |

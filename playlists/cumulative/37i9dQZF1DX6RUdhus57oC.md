@@ -4,7 +4,7 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer.
 
-99 songs - 4 hr 15 min
+100 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2024-06-03 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2024-06-03 |  |
 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2024-06-03 |  |
+| [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2024-06-03 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-09-29 | 2024-06-04 |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2023-09-29 | 2024-06-04 |
 | [Dear Buddy](https://open.spotify.com/track/4XhZgQHy6yNEB5M3NhZXAG) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Dear Buddy](https://open.spotify.com/album/7nRhGhULaOo98BoVjYzzgD) | 2:12 | 2023-09-29 | 2024-06-04 |
@@ -96,7 +97,7 @@
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2024-06-03 |  |
 | [The tree that I don't forget](https://open.spotify.com/track/239W1Z795G2xYOqdrVLirv) | [Giuseppe Califano](https://open.spotify.com/artist/5kqQv4acGpWR8L1xhlLuSf) | [The tree that I don't forget](https://open.spotify.com/album/6dT2UTUh4rYKFdakQ01sBc) | 3:18 | 2023-09-29 | 2024-06-04 |
 | [To the Rain](https://open.spotify.com/track/025aQi6Ffw676y8m4zLPk7) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [To the Rain](https://open.spotify.com/album/30HSC1ogeWpwBZXroMTTDW) | 2:25 | 2023-09-29 | 2024-06-04 |
-| [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2024-06-03 |  |
+| [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2024-06-03 | 2024-08-10 |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2023-09-29 | 2024-06-04 |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2023-09-29 | 2024-06-20 |
 | [Un Cadeau](https://open.spotify.com/track/7Jrx30VldPaujIaP3c2SJn) | [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Un Cadeau](https://open.spotify.com/album/75lQPJlmH7f4DlqyOpemjO) | 2:37 | 2023-09-29 | 2024-06-04 |

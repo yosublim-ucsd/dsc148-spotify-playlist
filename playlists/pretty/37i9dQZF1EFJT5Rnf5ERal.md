@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446 likes - 259 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 259 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 137 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
 | 138 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
 | 139 | [They Madd](https://open.spotify.com/track/4q3q8GiRSa1rKBCdwwsSHc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:09 |
-| 140 | [Not Too Many](https://open.spotify.com/track/6lU7MhNXxqqAMH2pa9MJDX) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 2:56 |
-| 141 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 140 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 |
+| 141 | [Not Too Many](https://open.spotify.com/track/6lU7MhNXxqqAMH2pa9MJDX) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 2:56 |
 | 142 | [TaKe oNe](https://open.spotify.com/track/1r1CbOrfAaiYQiDfk7lssT) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:22 |
 | 143 | [Hooters](https://open.spotify.com/track/6TCz9dPTN2FjSrHYg2RpwS) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Still My Moment](https://open.spotify.com/album/3M683oGfLgaL300rp3xIT2) | 2:50 |
 | 144 | [CAUTIOUS \(feat\. Tay Keith\)](https://open.spotify.com/track/1M7uameaPY3xlxMde3WLFl) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Gutta Baby](https://open.spotify.com/album/2sGx2Tx6PtiBlC7LGO8qNz) | 2:42 |
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 258 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 259 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbY5yQAAAACNeMsC75pqA6qFvs1z9L3D`
+Snapshot ID: `AbY/aQAAAADH/CnW7oNtt2Fw81qVIpxW`

@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Akshath
 
-252 songs - 14 hr 14 min
+253 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Qareeb](https://open.spotify.com/track/4x8yhZPbOuqJ2PLg4QmrL0) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [Shayan Rashid](https://open.spotify.com/artist/1ikVRNcb5keuzlwiP8mJbb) | [Qareeb](https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o) | 2:30 | 2023-08-21 | 2024-05-29 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-01-24 | 2022-08-11 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-08-25 |  |
-| [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-13 |  |
+| [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2022-06-13 | 2024-08-10 |
 | [Rab Raakha](https://open.spotify.com/track/6cmPjiylmkjv2wiBCx2AHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Rab Raakha](https://open.spotify.com/album/7waXLin5hX3LJ6bxrCHxZf) | 3:59 | 2021-12-06 | 2023-05-14 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2021-12-06 |  |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-08-04 | 2024-01-13 |
@@ -221,6 +221,7 @@
 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 | 2022-01-05 | 2022-04-07 |
 | [Soye Ja](https://open.spotify.com/track/5hD1IFTGFghyp502slNEht) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Kun](https://open.spotify.com/album/4elrhRR5bdw7JhvrWl56XM) | 5:26 | 2021-12-06 | 2022-03-17 |
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2021-12-06 | 2022-07-14 |
+| [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-08-09 |  |
 | [Sukoon](https://open.spotify.com/track/3DwDpL9QpO5gqPFuHZXUx9) | [Samar Mehdi](https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN) | [Sukoon](https://open.spotify.com/album/1b43QbuhfXPgBGU6lDxn0I) | 3:04 | 2021-12-06 | 2023-02-25 |
 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 | 2024-01-12 |  |
 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 | 2021-12-06 | 2022-09-06 |

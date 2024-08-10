@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Jhen\u00e9 Aiko",
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Ambr\u00e9",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1939,6 +1939,28 @@
     },
     {
       "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/1tsORkJTdhTAMAvxQRfp2p"
+      },
+      "artists": [
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194361,
+      "name": "BITTERSWEET (feat. Zacari)",
+      "url": "https://open.spotify.com/track/25uOlr7jmRQPPAZ57uwL0I"
+    },
+    {
+      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
       },
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149941,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2"
@@ -3830,7 +3852,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 239306,
       "name": "CRYBABY",
       "url": "https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD"
@@ -6371,6 +6393,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+    },
+    {
+      "album": {
         "name": "FromHere (feat. Snoop Dogg & October London)",
         "url": "https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ"
       },
@@ -7163,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "The R&B You Love",
+        "url": "https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263730,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/7z5mythpa4M2WDXZR2bgtg"
+    },
+    {
+      "album": {
         "name": "Good Morning Gorgeous",
         "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
       },
@@ -7262,7 +7320,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 236904,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW"
@@ -9501,6 +9559,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "Life Will Be",
+      "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
+    },
+    {
+      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC"
       },
@@ -9950,7 +10026,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143028,
       "name": "lost in translation",
       "url": "https://open.spotify.com/track/2JRNKk2mx8ODmynCxwhnxw"
@@ -10374,7 +10450,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146250,
       "name": "LOW TIDE",
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
@@ -11483,6 +11559,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/0B1vzblCZwbnUF8cv5jGkd"
       },
@@ -12522,7 +12616,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155355,
       "name": "One Of Them Days (feat. Monica)",
       "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
@@ -14273,6 +14367,24 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175208,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5MIYJvDfPyIeiF2XVUYKM9"
+    },
+    {
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
       },
@@ -14346,7 +14458,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198019,
       "name": "Run That Back (Acoustic)",
       "url": "https://open.spotify.com/track/3bHivYhcLMJgTh9B4qngw9"
@@ -18751,6 +18863,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248183,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/1PhS4L7ug3hnWRHwiA9pc4"
+    },
+    {
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/0ETr9LBbVHsstgFFpugTeF"
       },
@@ -19708,6 +19842,28 @@
       "duration_ms": 168936,
       "name": "You And I",
       "url": "https://open.spotify.com/track/25UDLYL5fRm1LSfbUTt6Nt"
+    },
+    {
+      "album": {
+        "name": "i do this sh*t in my sleep",
+        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
     },
     {
       "album": {

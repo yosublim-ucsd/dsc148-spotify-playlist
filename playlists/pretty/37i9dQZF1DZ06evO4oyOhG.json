@@ -1,12 +1,12 @@
 {
-  "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 17374,
+  "description": "This is CHiCO with HoneyWorks\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 17373,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAC5NWBwQGRHEEiXMu0R7kgy",
+  "snapshot_id": "ZrQKgAAAAAAKHUk7I4BiwcOqKnrV72yS",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
-        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "BGM",
-      "url": "https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6211\u6b66\u8005\u7f85",
         "url": "https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 195600,
       "name": "\u5927\u4eba\u306b\u306a\u3063\u305f\u306d",
       "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "BGM",
+      "url": "https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr"
     },
     {
       "added_at": null,

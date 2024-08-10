@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: شارموفرز
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: حماقي
 
-1,095 songs - 2 day 13 hr 23 min
+1,097 songs - 2 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-08 | 2023-09-29 |
 | [Tegy Netsawar](https://open.spotify.com/track/6GnLxviis9Qsu1oq4fvfR6) | [Islam Zaki](https://open.spotify.com/artist/3z3CZNhE5lU0aRyAZ2XKpH), [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tegy Netsawar](https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4) | 2:46 | 2023-07-14 | 2023-08-10 |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2021-12-29 | 2022-03-10 |
+| [Tekhsarny](https://open.spotify.com/track/5dAgXBrIOgw24tV9KVxdD8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tekhsarny](https://open.spotify.com/album/0QJYKeKXNLJfck0FwSD2xh) | 4:23 | 2024-08-09 |  |
 | [Tel3et Shatra](https://open.spotify.com/track/4Fc4BthBA9jfUVGMU2nnbf) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [Tel3et Shatra](https://open.spotify.com/album/7EtK7ztKN3ckrnEvzCMPtD) | 3:15 | 2022-09-22 | 2022-12-24 |
 | [Telk Qadeya](https://open.spotify.com/track/5T8lBGbV2vH3CzrnJxPa7K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Telk Qadeya](https://open.spotify.com/album/4DG6jlpuo1MHl8wPWzNuO3) | 5:54 | 2023-11-30 | 2024-01-27 |
 | [Tenzl Feen](https://open.spotify.com/track/1uhzrj5NCOzhgJAyHtPas7) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Tenzl Feen](https://open.spotify.com/album/46VnjHhdT1EzNzJZDFMoEx) | 2:47 | 2024-06-16 | 2024-07-27 |
@@ -753,6 +754,7 @@
 | [أمانة ياقلبي](https://open.spotify.com/track/3FTEDGInbFF2kjecQsQZkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [أمانة ياقلبي](https://open.spotify.com/album/6OpGUC2jtawLCn4TWPV4Ny) | 3:40 | 2024-01-07 | 2024-02-14 |
 | [أنا الندل](https://open.spotify.com/track/5jnggsioZ2JbgjDZq2KrPV) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [أنا الندل](https://open.spotify.com/album/6kuuM31USrZHwLNX9xwvW7) | 2:39 | 2024-04-24 | 2024-05-09 |
 | [أنا بابا](https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أنا بابا](https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS) | 3:10 | 2024-07-31 |  |
+| [أنت لأ](https://open.spotify.com/track/2nwuR4TngBhug1tThFbqXq) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [أنت لأ](https://open.spotify.com/album/5UQrVAqYhr9HuXVtHlsrDh) | 2:51 | 2024-08-09 |  |
 | [أهلاً يا عصابة](https://open.spotify.com/track/01f6PEvG17oW71HTwihsOQ) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [أهلاً يا عصابة](https://open.spotify.com/album/67t7ewVf6XgYiRMGU5oEIc) | 3:21 | 2024-03-12 | 2024-06-14 |
 | [أولاد مسك](https://open.spotify.com/track/7lcfRpuUMaqXQPYgri11iD) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أولاد مسك](https://open.spotify.com/album/1KOMgY5pSYH7HkOEyAUAnM) | 2:38 | 2024-04-14 | 2024-04-19 |
 | [أووووه](https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [أووووه](https://open.spotify.com/album/5UomHwXDMZNAumKNzGBubk) | 2:30 | 2023-06-29 | 2023-08-02 |

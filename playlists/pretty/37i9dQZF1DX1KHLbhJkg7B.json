@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Kane Brown",
-  "num_followers": 115331,
+  "num_followers": 115397,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
+        "name": "Take Me as I Am",
+        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -795,26 +811,6 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "I'm On Fire - Spotify Singles",
-        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "I'm On Fire - Spotify Singles",
-      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -835,18 +831,22 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "Take Me as I Am",
-        "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
+        "name": "I'm On Fire - Spotify Singles",
+        "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 241280,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88"
+      "duration_ms": 209586,
+      "name": "I'm On Fire - Spotify Singles",
+      "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
       },
@@ -1223,6 +1207,38 @@
       "duration_ms": 230453,
       "name": "Home",
       "url": "https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+        }
+      ],
+      "duration_ms": 195455,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
       },
       "artists": [
         {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1287,22 +1303,6 @@
       "duration_ms": 278000,
       "name": "Seminole Wind",
       "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 194459,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
         "name": "Lord, I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
       },
@@ -1559,6 +1543,38 @@
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 194459,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "Feathered Indians",
+        "url": "https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1591,22 +1607,6 @@
       "duration_ms": 301146,
       "name": "I Want to Know What Love Is",
       "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
-        "name": "Feathered Indians",
-        "url": "https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV"
     },
     {
       "added_at": "2024-08-01 16:18:31",

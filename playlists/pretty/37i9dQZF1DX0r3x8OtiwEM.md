@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,925 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,066 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 26 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 |
 | 27 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
 | 28 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 |
-| 29 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
-| 30 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 |
+| 29 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 |
+| 30 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 31 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
-| 32 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
-| 33 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
-| 34 | [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 |
+| 32 | [Believe](https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Believe](https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu) | 3:50 |
+| 33 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
+| 34 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
 | 35 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 36 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 |
 | 37 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 40 | [Holocene, Pt\. II](https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Holocene, Pt\. II](https://open.spotify.com/album/0tR8cyT01xwg5DDuMdQCys) | 6:54 |
 | 41 | [Electric](https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta) | [Electric](https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX) | 4:21 |
 | 42 | [Kaleidoscope Colours](https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Kaleidoscope Colours](https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9) | 4:15 |
-| 43 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
-| 44 | [Kiss Me Hard \- Adam Ten Remix](https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Kiss Me Hard \(Adam Ten Remix\)](https://open.spotify.com/album/57EvaqsfOIfKbhXBJmvCXw) | 5:20 |
+| 43 | [Kiss Me Hard \- Adam Ten Remix](https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Kiss Me Hard \(Adam Ten Remix\)](https://open.spotify.com/album/57EvaqsfOIfKbhXBJmvCXw) | 5:20 |
+| 44 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
 | 45 | [Afterglow](https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Afterglow](https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm) | 4:29 |
 | 46 | [​so far away](https://open.spotify.com/track/25LH9N0JmgSYsV6eqJPy97) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [current collection of demos on my drive](https://open.spotify.com/album/7KOEj1tjY9zeL70zHJoYGt) | 4:04 |
 | 47 | [Domino \- David Guetta Remix](https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK) | [Oxia](https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Domino \(David Guetta Remix\)](https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k) | 4:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [No One Like You \- Edit](https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [No One Like You \- EP](https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK) | 4:16 |
 | 60 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
 
-Snapshot ID: `Zq0PbgAAAACc1DWf9UBj31mnZJFgza+J`
+Snapshot ID: `ZrWUQAAAAAC27NaJUHWgQTa6ijnKwt7L`

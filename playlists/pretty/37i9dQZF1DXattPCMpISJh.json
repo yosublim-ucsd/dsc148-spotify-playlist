@@ -1,13 +1,69 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 124848,
+  "num_followers": 124950,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAADXNgY9mB3TbM7woYlDC91/",
+  "snapshot_id": "ZrWUQAAAAAAHneo4mFzRdQkg9ERAFT+H",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "READY!",
+        "url": "https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Charlie Vettuno",
+          "url": "https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0"
+        }
+      ],
+      "duration_ms": 209535,
+      "name": "READY!",
+      "url": "https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Disco Snails",
+        "url": "https://open.spotify.com/album/3b13wU9zmyxbMn5bNVfEgZ"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Zachary Barker",
+          "url": "https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Disco Snails",
+      "url": "https://open.spotify.com/track/6DpcY8DLvDyMjJri97HNFy"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Outta My Mind",
+        "url": "https://open.spotify.com/album/6oMNE87tErgAFfZjVYEjYo"
+      },
+      "artists": [
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Outta My Mind",
+      "url": "https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -33,24 +89,24 @@
       "url": "https://open.spotify.com/track/3FN9upQKJEZfxCSd34jMN3"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Disco Snails",
-        "url": "https://open.spotify.com/album/3b13wU9zmyxbMn5bNVfEgZ"
+        "name": "Lilliputian Chop",
+        "url": "https://open.spotify.com/album/345QsP4NPgD3FMDtgjkCvQ"
       },
       "artists": [
         {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
         },
         {
-          "name": "Zachary Barker",
-          "url": "https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c"
+          "name": "Augie Bello",
+          "url": "https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg"
         }
       ],
-      "duration_ms": 193240,
-      "name": "Disco Snails",
-      "url": "https://open.spotify.com/track/6DpcY8DLvDyMjJri97HNFy"
+      "duration_ms": 217080,
+      "name": "Lilliputian Chop",
+      "url": "https://open.spotify.com/track/7ugZBeWH6nrtgPeP0vnoEB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -111,6 +167,22 @@
       "duration_ms": 197106,
       "name": "Survive [Feat. Walk Off The Earth]",
       "url": "https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/3b7R0UvZGomnzGfTWevliY"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/1vnMD8Nk8FN44hJDya1cuP"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1405,30 +1477,6 @@
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
     },
     {
-      "added_at": "2023-05-26 04:01:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/4QoLb7RcShidfum5Ghi1Xs"
-      },
-      "artists": [
-        {
-          "name": "Liam Mockridge",
-          "url": "https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG"
-        },
-        {
-          "name": "Herizen",
-          "url": "https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 228243,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6p1xdGwSFQkmyWm3hFuHZn"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "HISTORY",
@@ -1727,26 +1775,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "I Found More Love (Sophie Lloyd Remix - Extended)",
-        "url": "https://open.spotify.com/album/5mqePSgQ6PqiB2nExt0Y5i"
-      },
-      "artists": [
-        {
-          "name": "Midnight Magic",
-          "url": "https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le"
-        },
-        {
-          "name": "Sophie Lloyd",
-          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
-        }
-      ],
-      "duration_ms": 528520,
-      "name": "I Found Love - Sophie Lloyd Remix - Extended Mix",
-      "url": "https://open.spotify.com/track/3ZQzvmQyG7T0UAlrotKwI8"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Conversation Starter",
         "url": "https://open.spotify.com/album/0IPQwJgxXg1tq6Ip4JP3iW"
       },
@@ -1781,26 +1809,6 @@
       "url": "https://open.spotify.com/track/3WfuS8tulwcGr7XZX7Qkpw"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Versace Eros",
-        "url": "https://open.spotify.com/album/72QT6rIPoVLQnnXY9lTqxA"
-      },
-      "artists": [
-        {
-          "name": "French Horn Rebellion",
-          "url": "https://open.spotify.com/artist/6G5wDM1Vmsscql7qRtcLH0"
-        },
-        {
-          "name": "Sin\u00e9",
-          "url": "https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN"
-        }
-      ],
-      "duration_ms": 167579,
-      "name": "Versace Eros",
-      "url": "https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Entangle",
@@ -1831,22 +1839,6 @@
       "duration_ms": 221111,
       "name": "Never Knew",
       "url": "https://open.spotify.com/track/5GwzmBgVwaS14JuB65ZMoQ"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/1LV5fBgsYBmb85DyqCtNNx"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        }
-      ],
-      "duration_ms": 202844,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0uo8mXAMX1OGngebGLmAeH"
     },
     {
       "added_at": "2022-10-21 04:00:00",

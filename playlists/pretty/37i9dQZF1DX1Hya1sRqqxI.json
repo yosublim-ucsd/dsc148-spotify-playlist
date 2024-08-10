@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 445608,
+  "num_followers": 446100,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Toto",
@@ -471,6 +455,22 @@
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Elvis (Fool)",
@@ -615,6 +599,22 @@
       "duration_ms": 170293,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -923,6 +923,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -967,22 +983,6 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Nightflight to Venus",
-        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Rivers of Babylon",
-      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -1111,22 +1095,6 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1163,6 +1131,38 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Nightflight to Venus",
+        "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Rivers of Babylon",
+      "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Fire And Water",
         "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
@@ -1225,20 +1209,20 @@
       "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Rose Garden",
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Collection & Tracklisting",
-        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 273866,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Cyan",
         "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 204106,
       "name": "Shambala - Single Version",
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Collection & Tracklisting",
+        "url": "https://open.spotify.com/album/5e6VPOPLw5cSXsVMvQEioq"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 273866,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/2LScqpywMqGcnum6nNaxXX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "Grease - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 193253,
       "name": "Rock 'n' Roll (Part 2)",
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "Grease - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1885,22 +1885,6 @@
       "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Nightbirds",
-        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
-      },
-      "artists": [
-        {
-          "name": "LaBelle",
-          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Lady Marmalade",
-      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I Love The Way You Love",
@@ -1915,6 +1899,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Nightbirds",
+        "url": "https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo"
+      },
+      "artists": [
+        {
+          "name": "LaBelle",
+          "url": "https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Lady Marmalade",
+      "url": "https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 317160,
       "name": "Get Down Tonight - 2004 Remaster",
       "url": "https://open.spotify.com/track/6zbFTYeqNvZdms60HouEFT"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "KC & the Sunshine Band, Pt. 3... and More",
         "url": "https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 242133,
       "name": "I'm Your Boogie Man",
       "url": "https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Who Loves You",
+      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Very Best of the Spinners",
-        "url": "https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Working My Way Back to You",
-      "url": "https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Just Another Way To Say I Love You",
         "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 219440,
       "name": "What Am I Gonna Do With You",
       "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Very Best of the Spinners",
+        "url": "https://open.spotify.com/album/05jU4HqC6CTnRuP1e4yYnS"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Working My Way Back to You",
+      "url": "https://open.spotify.com/track/7cLkQkC9Z7hnN767rfRl5G"
     },
     {
       "added_at": "2021-09-08 13:31:49",

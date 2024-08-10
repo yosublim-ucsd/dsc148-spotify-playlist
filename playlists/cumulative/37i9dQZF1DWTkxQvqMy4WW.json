@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "All Again",
       "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201485,
       "name": "Back Then Right Now",
       "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 206240,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/2eCgRuEddwFVOKLC9uERD3"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2019-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 188613,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/7yrJnekdlwWARt5lmVqJ6L"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2019-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-07",
+      "date_removed": null,
       "duration_ms": 219053,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181621,
       "name": "Cowgirls (feat. ERNEST)",
       "url": "https://open.spotify.com/track/7fveJ3pk1eSfxBdVkzdXZ0"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 200706,
       "name": "Crazy Girl",
       "url": "https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 234306,
       "name": "Do I Make You Wanna",
       "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
+    },
+    {
+      "album": {
         "name": "Giving You Up",
         "url": "https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p"
       },
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2019-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 276880,
       "name": "Highway Don't Care",
       "url": "https://open.spotify.com/track/4wFUdSCer8bdQsrp1M90sa"
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 210720,
       "name": "Honey Bee",
       "url": "https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4"
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 162443,
       "name": "Lotta Bit of You",
       "url": "https://open.spotify.com/track/7LFj4V7izgF22CUGeDo38n"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
@@ -4218,7 +4236,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226173,
       "name": "May We All",
       "url": "https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ"
@@ -4832,7 +4850,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
@@ -5376,7 +5394,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200306,
       "name": "Save a Horse (Ride a Cowboy)",
       "url": "https://open.spotify.com/track/5s7m2xNZWgz5FqVSIvJcGA"
@@ -5416,7 +5434,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237493,
       "name": "Save Me (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23"
@@ -5456,7 +5474,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
@@ -5604,7 +5622,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 209253,
       "name": "She Won't Be Lonely Long",
       "url": "https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX"
@@ -5730,7 +5748,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193929,
       "name": "Slow Dance In A Parking Lot",
       "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
@@ -6198,7 +6216,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
@@ -6256,7 +6274,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 174254,
       "name": "Take It From Me",
       "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
@@ -6346,7 +6364,7 @@
       ],
       "date_added": "2019-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187053,
       "name": "Tequila Makes Her Clothes Fall Off",
       "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
@@ -7232,7 +7250,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 186790,
       "name": "What My World Spins Around",
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
@@ -7412,7 +7430,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 183789,
       "name": "Whiskey On You",
       "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
@@ -7430,7 +7448,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
@@ -7610,7 +7628,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 220893,
       "name": "With You I Am",
       "url": "https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ"
@@ -7952,7 +7970,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161200,
       "name": "Your Heart Or Mine",
       "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"

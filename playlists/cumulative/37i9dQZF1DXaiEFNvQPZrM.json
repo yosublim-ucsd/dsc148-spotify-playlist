@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
@@ -1570,6 +1570,24 @@
       "duration_ms": 182840,
       "name": "Lay Down With You",
       "url": "https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1"
+    },
+    {
+      "album": {
+        "name": "Purple Gas / Lightning in July (Prairie Fire)",
+        "url": "https://open.spotify.com/album/4sb2phigQoxyIkRU9kSMYQ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242932,
+      "name": "Lightning in July (Prairie Fire)",
+      "url": "https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK"
     },
     {
       "album": {
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 261826,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV"
@@ -3244,6 +3262,24 @@
       "duration_ms": 174837,
       "name": "We Didn't Have Much",
       "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "album": {
+        "name": "What A View / Trudy",
+        "url": "https://open.spotify.com/album/5ZKIADNBMZK1KnWEHvTFuy"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "What A View",
+      "url": "https://open.spotify.com/track/1NgiY4X2wnypPdke76W4Ed"
     },
     {
       "album": {

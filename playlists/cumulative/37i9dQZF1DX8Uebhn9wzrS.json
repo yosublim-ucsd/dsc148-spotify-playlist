@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 105950,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3MfEbk1mY9pbKQwYZ8X768"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "Amu",
       "url": "https://open.spotify.com/track/4deGzlKPFGSRCNwz4JAoGg"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149504,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
@@ -4528,7 +4528,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135529,
       "name": "Bullet Train",
       "url": "https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK"
@@ -10112,7 +10112,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 101647,
       "name": "estate",
       "url": "https://open.spotify.com/track/38JCaWrU5CHL14bs3JNXOA"
@@ -12068,7 +12068,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 126522,
       "name": "freddie and me",
       "url": "https://open.spotify.com/track/3sbTAYyO19qJ4DsmrpXsnr"
@@ -13506,7 +13506,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 132705,
       "name": "gramophone groove",
       "url": "https://open.spotify.com/track/1o0sTvsEd5nIx3kFHtDXeP"
@@ -14746,7 +14746,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 102857,
       "name": "Hinode",
       "url": "https://open.spotify.com/track/0kAXBA7ZLIK6TxHPqCbDRu"
@@ -19686,7 +19686,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 120031,
       "name": "Machines",
       "url": "https://open.spotify.com/track/5LD9Kx8SmFL4yToNIbQ0ty"
@@ -20220,7 +20220,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "maybe or maybe",
       "url": "https://open.spotify.com/track/1GRBea14szlPf66aUR1Yaz"
@@ -21016,7 +21016,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 171880,
       "name": "Mir\u00f3",
       "url": "https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1"
@@ -21880,7 +21880,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175250,
       "name": "Mud Place",
       "url": "https://open.spotify.com/track/54EsBnXKPIpyJSZPOt75VM"
@@ -23709,6 +23709,24 @@
     },
     {
       "album": {
+        "name": "Midnight Glow, Vol. 5",
+        "url": "https://open.spotify.com/album/4SYqnMZDQjgwuMI6UX4lLR"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Old Bridge",
+      "url": "https://open.spotify.com/track/1p435FfuuqC4MB7jHp4k2R"
+    },
+    {
+      "album": {
         "name": "Cinematic Lofi",
         "url": "https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V"
       },
@@ -25054,7 +25072,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 131200,
       "name": "Passing By...",
       "url": "https://open.spotify.com/track/01rraBw03gDE6g4JWUUs6V"
@@ -27680,7 +27698,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 122592,
       "name": "Road to Skate",
       "url": "https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR"
@@ -28686,7 +28704,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164487,
       "name": "seek somebody",
       "url": "https://open.spotify.com/track/5qirk6OgA1PzJhBxAOnTyi"
@@ -31288,7 +31306,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 169691,
       "name": "Stoplight",
       "url": "https://open.spotify.com/track/4rl9BtI2ieHybBIVbjf1tG"
@@ -31856,7 +31874,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
@@ -32674,7 +32692,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132313,
       "name": "Sweet Mood",
       "url": "https://open.spotify.com/track/1BfGvcTnpZNqoU8jHNOQMH"
@@ -32746,7 +32764,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 118356,
       "name": "Swirl it please",
       "url": "https://open.spotify.com/track/7G66UFvbPRtFh9klVEg1bL"

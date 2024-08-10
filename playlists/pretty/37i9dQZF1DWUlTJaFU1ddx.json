@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 27589,
+  "num_followers": 27603,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Nos El Bahr",
-        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
-      },
-      "artists": [
-        {
-          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
-          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Nos El Bahr",
-      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
-    },
-    {
-      "added_at": "2023-10-02 12:15:54",
-      "album": {
         "name": "\u0625\u0646\u0647\u0636",
         "url": "https://open.spotify.com/album/2UYF5glGACebnFJcxzMHEO"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 248888,
       "name": "\u0625\u0646\u0647\u0636",
       "url": "https://open.spotify.com/track/6gaEXyjkXtIfFcmNZSPQhL"
+    },
+    {
+      "added_at": "2023-10-02 12:15:54",
+      "album": {
+        "name": "Nos El Bahr",
+        "url": "https://open.spotify.com/album/5b7quz61hkXH51ocDuSeCp"
+      },
+      "artists": [
+        {
+          "name": "Tayar - \u062a\u064a\u0651\u0627\u0631",
+          "url": "https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Nos El Bahr",
+      "url": "https://open.spotify.com/track/3uUUJo8kymUm0a9L7JSEDF"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -531,8 +531,8 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Serti Halali",
-        "url": "https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A"
+        "name": "Wahad Tnean",
+        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 237453,
-      "name": "Serti Halali",
-      "url": "https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz"
+      "duration_ms": 187746,
+      "name": "Wahad Tnean",
+      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
     },
     {
       "added_at": "2023-10-02 12:15:54",
@@ -627,8 +627,8 @@
     {
       "added_at": "2023-10-02 12:15:54",
       "album": {
-        "name": "Wahad Tnean",
-        "url": "https://open.spotify.com/album/7N0irhTBjGV5StiVTw8qTt"
+        "name": "Serti Halali",
+        "url": "https://open.spotify.com/album/0IiY9pwCRMsRdldrMpW03A"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Wahad Tnean",
-      "url": "https://open.spotify.com/track/0y9njiG24r8Pc7iPNuY5zl"
+      "duration_ms": 237453,
+      "name": "Serti Halali",
+      "url": "https://open.spotify.com/track/5aV0Vl1Fv9s9PmWklzzlvz"
     },
     {
       "added_at": "2023-10-02 12:15:54",

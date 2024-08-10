@@ -2,7 +2,7 @@
 
 ### [This Is Hombres G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xExRS)
 
-> This Is Hombres G\. Los temas esenciales, todos en una lista.
+> This is Hombres G\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 28 min
 
@@ -37,8 +37,8 @@
 | [Lo noto \- Remaster 2015](https://open.spotify.com/track/3q6Ta92jThS5sOK8r2YSBD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 4:21 | 2022-10-26 |  |
 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 | 2022-10-26 |  |
 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 | 2022-10-26 |  |
-| [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-10-26 | 2024-07-13 |
-| [Marta tiene un marcapasos](https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Marta tiene un marcapasos](https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW) | 2:58 | 2024-07-14 |  |
+| [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-10-26 |  |
+| [Marta tiene un marcapasos](https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Marta tiene un marcapasos](https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW) | 2:58 | 2024-07-14 | 2024-08-10 |
 | [Me siento bien](https://open.spotify.com/track/1BhVIZ0fuduQfpB7AD3AeY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [10](https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg) | 3:39 | 2022-10-26 |  |
 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 | 2022-10-30 |  |
 | [Nada que perder](https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder](https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u) | 3:17 | 2024-02-03 |  |
@@ -77,7 +77,7 @@
 | [Visite nuestro bar](https://open.spotify.com/track/65Lg0BbJnzTIPMlnXN3Knv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 3:21 | 2022-10-26 |  |
 | [Voy a pasármelo bien](https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Voy A Pasarmelo Bien](https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv) | 3:55 | 2022-10-26 |  |
 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 | 2022-10-26 |  |
-| [Y cayó la bomba \- Fetida](https://open.spotify.com/track/4VAjay4fzvm5usaLLHhmSD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:54 | 2023-06-30 |  |
+| [Y cayó la bomba \- Fetida](https://open.spotify.com/track/4VAjay4fzvm5usaLLHhmSD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:54 | 2023-06-30 | 2024-08-10 |
 | [¿Qué te he hecho yo?](https://open.spotify.com/track/1ZKYyqCoI6NnQ6bfr3ydKQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 2:31 | 2022-10-26 |  |
 
 \*This playlist was first scraped on 2022-10-27. Prior content cannot be recovered.

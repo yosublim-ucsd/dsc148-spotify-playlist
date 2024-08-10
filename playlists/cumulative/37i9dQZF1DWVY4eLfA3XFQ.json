@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring AYYBO \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Kyle Watson & NEZ \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -3515,6 +3515,32 @@
     },
     {
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163468,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i"
+    },
+    {
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/5rSwibwAvUaIdeTdMi5gmA"
       },
@@ -3592,6 +3618,28 @@
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
+    },
+    {
+      "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "album": {
@@ -4016,6 +4064,28 @@
       "duration_ms": 203442,
       "name": "Britney",
       "url": "https://open.spotify.com/track/0yY2A8OQVJMSSRFoFy13SL"
+    },
+    {
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/63ZXc36VVDK9J38Z6XmcqI"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        },
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168372,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2ewptKy5uxfJ66m9rNj8jT"
     },
     {
       "album": {
@@ -5136,7 +5206,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196030,
       "name": "Cha Cha Cha (Bruno Furlan Remix)",
       "url": "https://open.spotify.com/track/7lNyQm09JHENyOOpCjw8LH"
@@ -7146,7 +7216,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150461,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7qsyyhllSvwoJl4I1O4VZW"
@@ -8702,7 +8772,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160312,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/2nNAhqR125TJlQmaxOE2T0"
@@ -11375,6 +11445,24 @@
     },
     {
       "album": {
+        "name": "Get Hard",
+        "url": "https://open.spotify.com/album/0OIAyBGYBWS251BzOzsexk"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Get Hard",
+      "url": "https://open.spotify.com/track/2CWqNo8w5cMePz6Bt06IGJ"
+    },
+    {
+      "album": {
         "name": "Givin It Bifters",
         "url": "https://open.spotify.com/album/5tNuVA9IoMhJ01hJt4xaNN"
       },
@@ -12226,6 +12314,24 @@
       "duration_ms": 225000,
       "name": "Guru",
       "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
+    },
+    {
+      "album": {
+        "name": "H*es",
+        "url": "https://open.spotify.com/album/62LmVQgKcN1LZlrfeKu5b6"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "H*es",
+      "url": "https://open.spotify.com/track/27Dsm8IzYaLkec04yeCyzc"
     },
     {
       "album": {
@@ -14140,7 +14246,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166299,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
@@ -16344,7 +16450,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 134880,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
@@ -16960,7 +17066,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170625,
       "name": "LFO",
       "url": "https://open.spotify.com/track/4WoToF6YK8PFPnykFt8bXI"
@@ -18662,6 +18768,24 @@
     {
       "album": {
         "name": "Mantra",
+        "url": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187883,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/1VNZtpJBPdyhW5EOOhLw7r"
+    },
+    {
+      "album": {
+        "name": "Mantra",
         "url": "https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe"
       },
       "artists": [
@@ -19050,7 +19174,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200344,
       "name": "Metro",
       "url": "https://open.spotify.com/track/6IwnAfDj2Dv8SXyyzHvutN"
@@ -23596,7 +23720,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
@@ -24514,7 +24638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 134002,
       "name": "Raven - Torren Foot & Airwolf Paradise Remix",
       "url": "https://open.spotify.com/track/307cEniVE1LUYooSEpiE3J"
@@ -26600,6 +26724,28 @@
     {
       "album": {
         "name": "Shake It",
+        "url": "https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175730,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
+    },
+    {
+      "album": {
+        "name": "Shake It",
         "url": "https://open.spotify.com/album/4Ln2YxuIGgmqNTxDEPAcMh"
       },
       "artists": [
@@ -26800,6 +26946,28 @@
       "duration_ms": 387906,
       "name": "shawty.",
       "url": "https://open.spotify.com/track/1YGOdGy4tFmKEsjRyJyMIu"
+    },
+    {
+      "album": {
+        "name": "She's Bad",
+        "url": "https://open.spotify.com/album/4An5I08XxzaWOA1u8nwiW3"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227812,
+      "name": "She's Bad",
+      "url": "https://open.spotify.com/track/1BNiqDN2t9cTsofdwCq4R4"
     },
     {
       "album": {
@@ -27542,7 +27710,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 180019,
       "name": "Slimed In",
       "url": "https://open.spotify.com/track/0dhnviNDqGcXwAjrGoNSbS"
@@ -31065,6 +31233,24 @@
     },
     {
       "album": {
+        "name": "There It Is",
+        "url": "https://open.spotify.com/album/1HIhM9eys4WCCLvgcppZTl"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "There It Is",
+      "url": "https://open.spotify.com/track/71b4fGIGMUacvD6fg6xltk"
+    },
+    {
+      "album": {
         "name": "Think About It",
         "url": "https://open.spotify.com/album/0gvBqzpRrgaqyUwrPLZ84A"
       },
@@ -33150,7 +33336,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192187,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"

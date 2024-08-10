@@ -2882,10 +2882,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149647,
       "name": "SUV PRATA",
       "url": "https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom"
+    },
+    {
+      "album": {
+        "name": "Teleport",
+        "url": "https://open.spotify.com/album/3U8uDkXEkcBwsqZeizd6No"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205683,
+      "name": "Teleport",
+      "url": "https://open.spotify.com/track/3C3nXh1MLj9dP4BYPMrzTG"
     },
     {
       "album": {

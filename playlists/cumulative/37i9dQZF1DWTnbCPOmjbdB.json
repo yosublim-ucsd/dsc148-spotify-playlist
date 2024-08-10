@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "na nowo",
+        "url": "https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124422,
+      "name": "na nowo",
+      "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
+    },
+    {
+      "album": {
         "name": "Nad wod\u0119 (feat. Tribbs)",
         "url": "https://open.spotify.com/album/00qlmn8FxtemR5WGnKLehA"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155625,
       "name": "Nad wod\u0119 (feat. Tribbs)",
       "url": "https://open.spotify.com/track/3Ugq1h32zAd2ILdNZMdCJp"

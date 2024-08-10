@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125842,
+  "num_followers": 125841,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASz4xxqLtRMsbTJ1Oen5werayEJ5a5",
+  "snapshot_id": "AAAS0Geob+MpiQFjKuZMUgI6K2AaqCo3",
   "tracks": [
+    {
+      "added_at": "2024-08-09 13:41:19",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd"
+    },
     {
       "added_at": "2024-08-08 15:18:51",
       "album": {

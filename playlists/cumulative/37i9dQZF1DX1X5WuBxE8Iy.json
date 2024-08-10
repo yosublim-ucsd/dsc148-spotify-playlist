@@ -43,6 +43,42 @@
     },
     {
       "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "Algo quiero",
+      "url": "https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238070,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
+    },
+    {
+      "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
       },
@@ -83,6 +119,50 @@
     },
     {
       "album": {
+        "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
+      },
+      "artists": [
+        {
+          "name": "Dan Osorio",
+          "url": "https://open.spotify.com/artist/0bQBooej9K9x0aJL6HM2QK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186626,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln"
+    },
+    {
+      "album": {
         "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M"
       },
@@ -106,10 +186,46 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196586,
       "name": "B\u00e9sala",
       "url": "https://open.spotify.com/track/3OwBqd3EezGZldOJIalnUy"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Banda De Sonido Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs"
+      },
+      "artists": [
+        {
+          "name": "Isabela Souza",
+          "url": "https://open.spotify.com/artist/2sSeIHqgpFdFg83U8kYnHY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215903,
+      "name": "Callar (Versi\u00f3n Completa)",
+      "url": "https://open.spotify.com/track/1baxg5MMisZ7VzaXzbRnxC"
+    },
+    {
+      "album": {
+        "name": "La Cenicienta (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/2Uys6MBZkH1LhkJUxMLsBd"
+      },
+      "artists": [
+        {
+          "name": "Coro - La Cenicienta",
+          "url": "https://open.spotify.com/artist/05D2DYmdOr55XT42iBwqHQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171706,
+      "name": "Cenicienta",
+      "url": "https://open.spotify.com/track/3SV96ua0nZtnKYtE5tT8Ai"
     },
     {
       "album": {
@@ -196,7 +312,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165280,
       "name": "De nada",
       "url": "https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2"
@@ -214,10 +330,28 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205504,
       "name": "Desde hoy",
       "url": "https://open.spotify.com/track/3q8yfHfQqfd0ShcTJC20aH"
+    },
+    {
+      "album": {
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     },
     {
       "album": {
@@ -250,7 +384,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 130426,
       "name": "Happy Working Song",
       "url": "https://open.spotify.com/track/2dI8WphJYLiSMERFTeD2gp"
@@ -293,6 +427,42 @@
     },
     {
       "album": {
+        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224150,
+      "name": "Hasta vencer",
+      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "The Dwarf Chorus",
+          "url": "https://open.spotify.com/artist/6oyAC5MXCvdwRH2bpPOmYz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Heigh-Ho",
+      "url": "https://open.spotify.com/track/4OkD0WYpUTu8eJcDDVJERl"
+    },
+    {
+      "album": {
         "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
       },
@@ -326,7 +496,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 162826,
       "name": "I Am Moana (Song of the Ancestors)",
       "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
@@ -364,7 +534,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140226,
       "name": "I Won't Say (I'm In Love)",
       "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
@@ -386,7 +556,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "I'm Wishing / One Song",
       "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
@@ -430,7 +600,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186693,
       "name": "I'm Wishing/One Song",
       "url": "https://open.spotify.com/track/0UwQOcaLUIenpbQX3RpBfK"
@@ -499,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+      },
+      "artists": [
+        {
+          "name": "Romina Marroqu\u00edn Payr\u00f3",
+          "url": "https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y"
+        },
+        {
+          "name": "Hugo Serrano",
+          "url": "https://open.spotify.com/artist/54Twb3sUF3sXUE2NdCT9xi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124653,
+      "name": "La Puerta Es el Amor",
+      "url": "https://open.spotify.com/track/167XxZYPzDURPVxCvNQ9Mo"
+    },
+    {
+      "album": {
         "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
       },
@@ -510,7 +702,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 223835,
       "name": "Lead the Way",
       "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
@@ -535,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Libre Soy",
+      "url": "https://open.spotify.com/track/2PHO8EhBkqFQQ9JtQaAt0P"
+    },
+    {
+      "album": {
         "name": "Frozen Canciones de una Aventura Congelada",
         "url": "https://open.spotify.com/album/2pC5M2j2omSWmqBbZo678t"
       },
@@ -546,7 +756,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222640,
       "name": "Libre Soy",
       "url": "https://open.spotify.com/track/6X7g8O6vs22Z6sh9q4rrZj"
@@ -630,10 +840,32 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166199,
       "name": "Loyal Brave True",
       "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Arturo Mercado",
+          "url": "https://open.spotify.com/artist/37o8xXhcDR1fJTpSUDjRul"
+        },
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "Ma Belle Evangeline",
+      "url": "https://open.spotify.com/track/4i5L7KbZZ9ygJrZFNlc4hI"
     },
     {
       "album": {
@@ -802,10 +1034,36 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195493,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Isela Sotelo",
+          "url": "https://open.spotify.com/artist/5pfjnWnr2y2f72qbIG2tfO"
+        },
+        {
+          "name": "J.A.C. Redford",
+          "url": "https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Parte de \u00e9l",
+      "url": "https://open.spotify.com/track/1DJICuMsoD3ZmhWTOPydKr"
     },
     {
       "album": {
@@ -820,10 +1078,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 214373,
       "name": "Parte de \u00e9l",
       "url": "https://open.spotify.com/track/5siX0Y3orXZzUE0oeAxe8u"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Trujillo",
+          "url": "https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171760,
+      "name": "Pr\u00edncipe Al\u00ed",
+      "url": "https://open.spotify.com/track/4deFjaHvIsvW4WtKuxxvdN"
     },
     {
       "album": {
@@ -838,7 +1114,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 217996,
       "name": "Reflection (2020)",
       "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
@@ -900,7 +1176,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 260906,
       "name": "Show Yourself",
       "url": "https://open.spotify.com/track/50WeOnXhM1H7AZEeIDoWfZ"
@@ -922,10 +1198,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 92600,
       "name": "So This Is Love - From \"Cinderella\"",
       "url": "https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114306,
+      "name": "Some Day My Prince Will Come",
+      "url": "https://open.spotify.com/track/0E2ARPr6Anq8l4dwsu8hbP"
     },
     {
       "album": {
@@ -958,7 +1252,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208800,
       "name": "Speechless (Full)",
       "url": "https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR"
@@ -1012,7 +1306,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216773,
       "name": "The Next Right Thing",
       "url": "https://open.spotify.com/track/1gilgPrTkkZTp09Xf8zCmK"
@@ -1090,10 +1384,28 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226909,
       "name": "Trust Again - Inspired by \"Raya and The Last Dragon\"",
       "url": "https://open.spotify.com/track/6XDfioly4ZYDHxQFppvPjK"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Trujillo",
+          "url": "https://open.spotify.com/artist/6KT2TYbf3hbyQsye7cpqOV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146453,
+      "name": "Un Amigo Fiel",
+      "url": "https://open.spotify.com/track/6GTcMZqvnPzBvOeylpRSdk"
     },
     {
       "album": {
@@ -1119,6 +1431,46 @@
     },
     {
       "album": {
+        "name": "Aladd\u00edn (Banda De Sonido Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7aPWDugGx9KNY4YGjBbDSs"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241472,
+      "name": "Un mundo ideal (Versi\u00f3n Cr\u00e9ditos)",
+      "url": "https://open.spotify.com/track/5pGJgq1KxaRHEOZTD0egWL"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
+      },
+      "artists": [
+        {
+          "name": "Demian Bichir",
+          "url": "https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "Un Salto Adelante",
+      "url": "https://open.spotify.com/track/4YLKSQgmCpl3TS1k4p7rpS"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
       },
@@ -1130,7 +1482,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 63586,
       "name": "Vanessa's Trick",
       "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
@@ -1286,10 +1638,36 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 206946,
       "name": "\u00bfY Si Hacemos Un Mu\u00f1eco?",
       "url": "https://open.spotify.com/track/03FqinKPv27MArnoijp8FT"
+    },
+    {
+      "album": {
+        "name": "Frozen: Una Aventura Congelada (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/5lTQwTqH8ItAw7zhuQiNvO"
+      },
+      "artists": [
+        {
+          "name": "Romina Marroqu\u00edn Payr\u00f3",
+          "url": "https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y"
+        },
+        {
+          "name": "Sara Paula G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT"
+        },
+        {
+          "name": "Andrea Rebeca G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2lIwN9VYopnWydLL1Gz4z0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "\u00bfY Si Hacemos Un Mu\u00f1eco?",
+      "url": "https://open.spotify.com/track/3vAkxLPdOML7BEl0tUaB5z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1X5WuBxE8Iy"

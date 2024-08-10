@@ -1365,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156303,
+      "name": "Bad Kids (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "album": {
         "name": "Baddest (feat. Chris Brown & 2 Chainz)",
         "url": "https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV"
       },
@@ -6938,6 +6960,24 @@
       "duration_ms": 105377,
       "name": "GYALIS",
       "url": "https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "album": {

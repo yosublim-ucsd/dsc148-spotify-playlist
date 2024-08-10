@@ -6,8 +6,196 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGFF4faZDkTY6MJVi4rt/H0CYn4BhV",
+  "snapshot_id": "AAAGGrtQ4xsGREXsH5LoN4xB/UQHkZHU",
   "tracks": [
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "HIGH SUMMER",
+        "url": "https://open.spotify.com/album/4vcl2jvQ01FwUwMW3g5ej0"
+      },
+      "artists": [
+        {
+          "name": "Magic Flowers",
+          "url": "https://open.spotify.com/artist/5gowyoaFBfchd0dEY3kyxC"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "HIGH SUMMER",
+      "url": "https://open.spotify.com/track/0gCPea4rNIFLfXwJUPI9MJ"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "Change Of Air",
+        "url": "https://open.spotify.com/album/5pDEinlrYp1N3mlic4kdXA"
+      },
+      "artists": [
+        {
+          "name": "Kreech",
+          "url": "https://open.spotify.com/artist/5ZcXIQ6novByvRJGlTebf3"
+        }
+      ],
+      "duration_ms": 359016,
+      "name": "Funk You",
+      "url": "https://open.spotify.com/track/1wCkje6yead8QoDkwX4ktU"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "No Longer The Man",
+        "url": "https://open.spotify.com/album/5TWKhIFKFYfXyuQsCUSfUV"
+      },
+      "artists": [
+        {
+          "name": "Body Ocean",
+          "url": "https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "No Longer The Man",
+      "url": "https://open.spotify.com/track/5TcblxP958qTmFVZlIscue"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "I Move, You Move",
+        "url": "https://open.spotify.com/album/3ZqXUYoGMl7tVntIRm4XKh"
+      },
+      "artists": [
+        {
+          "name": "Golden Lambo",
+          "url": "https://open.spotify.com/artist/41KnTYjQMWmLmzwFXS5lum"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "I Move, You Move",
+      "url": "https://open.spotify.com/track/5jVOR9leZjED30YJxjtmoF"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "Cereal Groover (feat. Fountain Sound)",
+        "url": "https://open.spotify.com/album/0wvlV6FYNWnikJKshvGUiN"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Olive F",
+          "url": "https://open.spotify.com/artist/58ELqEa08lx83Qh49jOFJn"
+        },
+        {
+          "name": "Fountain Sound",
+          "url": "https://open.spotify.com/artist/0cmd8hGc9y0bTDNzfRi8XG"
+        }
+      ],
+      "duration_ms": 183464,
+      "name": "Cereal Groover (feat. Fountain Sound)",
+      "url": "https://open.spotify.com/track/2X5IcFGZ8pCrlNAkQhgI95"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/4qRpEQqCsebWuL6GyRuiHF"
+      },
+      "artists": [
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3r7MwyJWwS6lZbWjEi9rZ9"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "Junction 3",
+        "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Junction 3",
+      "url": "https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "Toolroom Ibiza 2024",
+        "url": "https://open.spotify.com/album/5vBT7N9rQahP0CbNkHh8wG"
+      },
+      "artists": [
+        {
+          "name": "Ben Remember",
+          "url": "https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Long Way",
+      "url": "https://open.spotify.com/track/5tWiYszKA40eeF1SuO98yW"
+    },
+    {
+      "added_at": "2024-08-09 15:42:56",
+      "album": {
+        "name": "Fallin'",
+        "url": "https://open.spotify.com/album/08PhldvZ4hbOab4isVx3BR"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Ren Ocean",
+          "url": "https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/5P6MHn5WvNKILAraRgVp15"
+    },
     {
       "added_at": "2024-06-28 20:02:02",
       "album": {

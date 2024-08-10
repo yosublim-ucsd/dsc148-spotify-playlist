@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC?si=_oqzWiQgQomo6FjTBILUbA\">Lainey Wilson</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=6qkSYoQ-Th65L1wancEr5w\">Kelsea Ballerini</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -225,6 +225,28 @@
     },
     {
       "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "album": {
         "name": "Damn Love",
         "url": "https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai"
       },
@@ -442,7 +464,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180621,
       "name": "Hatchet",
       "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
@@ -460,7 +482,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 213880,
       "name": "Heartbreak King",
       "url": "https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe"
@@ -496,7 +518,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194571,
       "name": "Hell or High Water (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
@@ -686,6 +708,24 @@
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "album": {
+        "name": "Leaving at Midnight (Radio Edit)",
+        "url": "https://open.spotify.com/album/79127mkkGmDXdhm3umZAB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Atlantic",
+          "url": "https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176505,
+      "name": "Leaving at Midnight - Radio Edit",
+      "url": "https://open.spotify.com/track/5mpuf0qLx3l19E1l6FoYYs"
     },
     {
       "album": {

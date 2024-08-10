@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Gini
+> Most exciting artists from the Indian Indie scene\. Cover: Zephyrtone
 
-310 songs - 17 hr 52 min
+311 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-03-01 | 2024-01-11 |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-14 | 2023-03-14 |
 | [Do Shaitano](https://open.spotify.com/track/6SrDgvxLztbmuK5jX7hg1T) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB) | [Do Shaitano](https://open.spotify.com/album/0TfdtzxV0kkk4vXtXiZcv8) | 3:30 | 2023-02-17 | 2024-06-22 |
+| [Don’t Wanna Love](https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo) | [Don’t Wanna Love](https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4) | 2:29 | 2024-08-10 |  |
 | [Doobna Aata Hai](https://open.spotify.com/track/5WmulZwnY1U5566pqYWstk) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Doobna Aata Hai](https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg) | 5:21 | 2022-05-19 | 2023-03-30 |
 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 | 2023-05-29 | 2023-07-04 |
 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 | 2022-01-10 | 2023-05-11 |
@@ -102,7 +103,7 @@
 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 | 2022-04-05 | 2022-08-24 |
 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 | 2022-11-15 | 2024-01-11 |
 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 | 2022-10-18 | 2023-01-12 |
-| [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-10 |  |
+| [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-10 | 2024-08-10 |
 | [Ho Jaane Do](https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Ho Jaane Do](https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C) | 2:58 | 2023-01-19 |  |
 | [Hua Mera](https://open.spotify.com/track/52rCzPVc4qHUqAN7nfJOB5) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Hua Mera](https://open.spotify.com/album/3nGM067kh5hi5AYzJWgloe) | 3:53 | 2021-12-06 | 2022-07-09 |
 | [Hum Chal Rahe Hain](https://open.spotify.com/track/63Vx8wbVFhSIuvRdNQzMo2) | [Sheherazaad](https://open.spotify.com/artist/7pHput1tbvgyLsIYu7GM1p) | [Khwaabistan](https://open.spotify.com/album/6Wq0QDsS81FQHOQujprKVP) | 2:17 | 2021-12-06 | 2022-01-11 |

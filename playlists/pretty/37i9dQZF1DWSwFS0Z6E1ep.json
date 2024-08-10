@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 261624,
+  "num_followers": 261708,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
-      },
-      "artists": [
-        {
-          "name": "The Champs",
-          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
-        }
-      ],
-      "duration_ms": 130320,
-      "name": "Tequila (Original)",
-      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Wanda Jackson",
         "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 131200,
       "name": "Let's Have A Party",
       "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/2NJ4uQ6j4wASjGpGFc0m3C"
+      },
+      "artists": [
+        {
+          "name": "The Champs",
+          "url": "https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp"
+        }
+      ],
+      "duration_ms": 130320,
+      "name": "Tequila (Original)",
+      "url": "https://open.spotify.com/track/14bUqUj1EUnQabWeAqnj39"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 148053,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
+      "duration_ms": 138986,
+      "name": "New Rock The Joint",
+      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "So Young / Right Behind You Baby",
-        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
+        "name": "Come on Little Mama / Where'd You Stay Last Night",
+        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
       },
       "artists": [
         {
-          "name": "Ray Smith",
-          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
+          "name": "Ray Harris",
+          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Right Behind You Baby",
-      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
+      "duration_ms": 138813,
+      "name": "Come on Little Mama",
+      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 138986,
-      "name": "New Rock The Joint",
-      "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
+      "duration_ms": 148053,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/3nUEF90dilZHOoURbBYDEo"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come on Little Mama / Where'd You Stay Last Night",
-        "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
+        "name": "So Young / Right Behind You Baby",
+        "url": "https://open.spotify.com/album/6LP7wSqVMR2We0QErREC0w"
       },
       "artists": [
         {
-          "name": "Ray Harris",
-          "url": "https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8"
+          "name": "Ray Smith",
+          "url": "https://open.spotify.com/artist/4SGITJm1kRaIEoqEwv360I"
         }
       ],
-      "duration_ms": 138813,
-      "name": "Come on Little Mama",
-      "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
+      "duration_ms": 145093,
+      "name": "Right Behind You Baby",
+      "url": "https://open.spotify.com/track/5omAt5Vn4vRZH9ulslkKZ6"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sun Records Recording Artist - Rosco Gordon",
+        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+      },
+      "artists": [
+        {
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+        }
+      ],
+      "duration_ms": 156088,
+      "name": "Bop With Me Baby",
+      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Slow Down / A Fool for Loving You",
         "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Sun Records Recording Artist - Rosco Gordon",
-        "url": "https://open.spotify.com/album/1yVVmzSJ8XucF6wYCO2jzH"
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
       },
       "artists": [
         {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
         }
       ],
-      "duration_ms": 156088,
-      "name": "Bop With Me Baby",
-      "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1527,22 +1543,6 @@
       "duration_ms": 119368,
       "name": "Rockin Daddy",
       "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sun Records - Rockabilly Archive",
         "url": "https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 139181,
       "name": "Rock Around The Town",
       "url": "https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",

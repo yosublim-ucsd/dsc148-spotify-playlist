@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Blush Always
 
-267 songs - 15 hr 7 min
+269 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bottle of Wisdom](https://open.spotify.com/track/4zF0KmSZx5zU4V24hddGbf) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Bottle of Wisdom](https://open.spotify.com/album/75ZfUYm9KOVtfcVhh39BRr) | 3:05 | 2024-06-28 | 2024-07-19 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-08-09 |
 | [Break My Own Heart](https://open.spotify.com/track/2jZgubyu0PsDex7nU4GQiW) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Break My Own Heart](https://open.spotify.com/album/1NgP3DVeHnyt2stxdMPfA4) | 3:34 | 2024-06-28 | 2024-07-05 |
+| [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 |  |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-28 | 2024-07-19 |
 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-18 | 2024-08-09 |
 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-08 |  |
@@ -55,6 +56,7 @@
 | [Can I Just Be](https://open.spotify.com/track/6fQi31b2gQj0bhSAQH4zQU) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Can I Just Be](https://open.spotify.com/album/1jsJb2cEAalckfpjmiiF4T) | 2:47 | 2024-07-18 |  |
 | [carry you on my broken wings](https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby’s out of luck again](https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX) | 3:05 | 2024-08-01 |  |
 | [catacombs](https://open.spotify.com/track/1MqFzq311ClN9gQNbWuLPt) | [nothhingspecial](https://open.spotify.com/artist/1GDKz5zXC9NCTA2ViXPv02) | [WHERE DO YOU WANNA GO?](https://open.spotify.com/album/0hZdR27bkhmIVaP9fyCOsK) | 3:51 | 2024-06-28 | 2024-07-05 |
+| [chasing the sunset](https://open.spotify.com/track/5VlwP0Okb4ontxDrbqLAMi) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [chasing the sunset](https://open.spotify.com/album/6zA5isze3nnlBHZYfmT0gb) | 3:02 | 2024-08-09 |  |
 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 | 2024-07-04 | 2024-07-27 |
 | [CHEW ON THIS](https://open.spotify.com/track/2mrkK3X2xpHfDlT6RCVqn1) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [CHEW ON THIS](https://open.spotify.com/album/4Vofg4EDlI37O82dyursWR) | 2:35 | 2024-07-25 | 2024-08-09 |
 | [Chicago](https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K) | 3:58 | 2024-07-18 | 2024-08-02 |

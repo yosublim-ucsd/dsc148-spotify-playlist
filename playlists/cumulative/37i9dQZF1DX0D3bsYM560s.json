@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Free Time",
+        "url": "https://open.spotify.com/album/0739R9Mg1Y4LUSmARIsHKy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Crowder",
+          "url": "https://open.spotify.com/artist/3gHDvvAdomgodvNvZNlRZ2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178103,
+      "name": "Free Time",
+      "url": "https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck"
+    },
+    {
+      "album": {
         "name": "Windy City (Deluxe)",
         "url": "https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG"
       },
@@ -1261,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Let It Fall",
+        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
+      },
+      "artists": [
+        {
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Let It Fall",
+      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
+    },
+    {
+      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 254106,
       "name": "New Star",
       "url": "https://open.spotify.com/track/6fHFfhmYtgOqxREejrtFuv"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 185013,
       "name": "Won't Be Crying Over You",
       "url": "https://open.spotify.com/track/3JraynhjkGD8XmcINUd5br"
@@ -2678,6 +2714,24 @@
       "duration_ms": 196256,
       "name": "You Can't Stop Me from Staying",
       "url": "https://open.spotify.com/track/4I5setKgeqtfcz4NZDxPdC"
+    },
+    {
+      "album": {
+        "name": "Mountain Soul",
+        "url": "https://open.spotify.com/album/7CcrHU1XDBwkymb36Lj68f"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365173,
+      "name": "You'll Never Leave Harlan Alive",
+      "url": "https://open.spotify.com/track/1KL82DZju7EN0Jpolg6CwD"
     },
     {
       "album": {

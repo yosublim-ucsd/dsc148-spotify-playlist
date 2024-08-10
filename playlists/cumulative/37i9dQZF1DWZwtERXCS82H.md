@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-760 songs - 1 day 8 hr 55 min
+763 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,8 +401,10 @@
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-15 | 2024-04-04 |
 | [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-04-15 | 2022-12-24 |
 | [Moon Song](https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Moon Song](https://open.spotify.com/album/343jSnwo27lTQx4VIEuUxA) | 2:32 | 2023-03-14 | 2024-03-19 |
+| [Moonglade](https://open.spotify.com/track/4NDadJdcT4V4BdXCZMEAbn) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Moonglade](https://open.spotify.com/album/1PBrsZDQjiFQZ8EM2TQUIV) | 2:31 | 2024-08-09 |  |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-04-15 | 2024-04-04 |
 | [Morning Frost](https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Morning Frost](https://open.spotify.com/album/22tSnBD38TgaLWbMzbfNXM) | 1:52 | 2023-06-19 | 2023-07-25 |
+| [Morning Mists](https://open.spotify.com/track/1FSVsyrq98BOshFuIK7F5y) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Morning Mists](https://open.spotify.com/album/2NF9nKwXvgywt6Vb5Yhv21) | 2:44 | 2024-08-09 |  |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2022-04-15 | 2022-05-27 |
 | [Moss](https://open.spotify.com/track/44rpdWxWd9Y6jTth7KTJuU) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Moss](https://open.spotify.com/album/6Fwj10SLezxRhQUIdOsPAl) | 2:22 | 2022-04-15 | 2024-04-10 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-04-15 | 2023-07-25 |
@@ -530,6 +532,7 @@
 | [Route To Rio De Janeiro](https://open.spotify.com/track/6S7KWlTlZzKM1QraYjEOvV) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Airways To Brazil](https://open.spotify.com/album/0A9uf2RSSsd5D3c7azMOCq) | 3:29 | 2022-04-15 | 2023-05-04 |
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-22 |  |
 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 | 2023-08-29 | 2024-06-01 |
+| [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 | 2024-08-09 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2022-04-15 | 2022-05-14 |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-15 | 2024-02-14 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-04-15 | 2024-02-03 |

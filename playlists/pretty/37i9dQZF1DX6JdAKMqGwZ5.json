@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Natalia Lacunza.",
-  "num_followers": 194666,
+  "num_followers": 194671,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "CON LOQ1 NACE",
+        "url": "https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn"
+      },
+      "artists": [
+        {
+          "name": "ODDLIQUOR",
+          "url": "https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34"
+        }
+      ],
+      "duration_ms": 186937,
+      "name": "CON LOQ1 NACE",
+      "url": "https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/0uKwIyx6m6LUVpACtb8Qfq"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 192253,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/4F5gTSLd8FvbLkWlJHFQlq"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "CON LOQ1 NACE",
-        "url": "https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn"
-      },
-      "artists": [
-        {
-          "name": "ODDLIQUOR",
-          "url": "https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34"
-        }
-      ],
-      "duration_ms": 186937,
-      "name": "CON LOQ1 NACE",
-      "url": "https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Todos menos t\u00fa",
-        "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        },
-        {
-          "name": "I-Ace",
-          "url": "https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Todos menos t\u00fa",
-      "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Todos menos t\u00fa",
+        "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        },
+        {
+          "name": "I-Ace",
+          "url": "https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Todos menos t\u00fa",
+      "url": "https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Ni una sola palabra",
-        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
-      },
-      "artists": [
-        {
-          "name": "dani dicostas",
-          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
-        }
-      ],
-      "duration_ms": 211567,
-      "name": "Ni una sola palabra",
-      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "PR\u00cdNCIPE",
         "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+        "name": "Ni una sola palabra",
+        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
       },
       "artists": [
         {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
         }
       ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+      "duration_ms": 211567,
+      "name": "Ni una sola palabra",
+      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+      },
+      "artists": [
+        {
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+        }
+      ],
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Esto no es el cielo",
-        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
-      },
-      "artists": [
-        {
-          "name": "Sienna",
-          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
-        }
-      ],
-      "duration_ms": 179114,
-      "name": "Esto no es el cielo",
-      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Mirarte",
-        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
+        "name": "Esto no es el cielo",
+        "url": "https://open.spotify.com/album/1oSd0iudeLKkSTjkWF3lpp"
       },
       "artists": [
         {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
         }
       ],
-      "duration_ms": 188464,
-      "name": "Mirarte",
-      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
+      "duration_ms": 179114,
+      "name": "Esto no es el cielo",
+      "url": "https://open.spotify.com/track/5IG6ux0mJM0H0Jti7ecz54"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 148607,
       "name": "No Quiero Ser Tu Amiga",
       "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Mirarte",
+        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Mirarte",
+      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Volver\u00e9is",
+        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
+      },
+      "artists": [
+        {
+          "name": "Adi\u00f3s Amores",
+          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
+        }
+      ],
+      "duration_ms": 189303,
+      "name": "Volver\u00e9is",
+      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "The Last of Us",
         "url": "https://open.spotify.com/album/3m706HSNKqmnycUdWYt7Zw"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 159925,
       "name": "Sin Morir Espero",
       "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Volver\u00e9is",
-        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
-      },
-      "artists": [
-        {
-          "name": "Adi\u00f3s Amores",
-          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
-        }
-      ],
-      "duration_ms": 189303,
-      "name": "Volver\u00e9is",
-      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "LAS 12",
-        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
-      },
-      "artists": [
-        {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
-        }
-      ],
-      "duration_ms": 147895,
-      "name": "LAS 12",
-      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 163001,
       "name": "Decid\u00ed Desaparecer",
       "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "LAS 12",
+        "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "LAS 12",
+      "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "El Porvenir",
-        "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
-      },
-      "artists": [
-        {
-          "name": "Ale Acosta",
-          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
-        },
-        {
-          "name": "Depedro",
-          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
-        }
-      ],
-      "duration_ms": 232157,
-      "name": "Famara (feat. Depedro)",
-      "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1383,18 +1363,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "KORAJE",
-        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+        "name": "El Porvenir",
+        "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
       "artists": [
         {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        },
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
         }
       ],
-      "duration_ms": 226549,
-      "name": "KORAJE",
-      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
+      "duration_ms": 232157,
+      "name": "Famara (feat. Depedro)",
+      "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1415,6 +1399,22 @@
       "duration_ms": 208750,
       "name": "Sin dudar",
       "url": "https://open.spotify.com/track/4gjKl2YT2zDCVORaJrIGT6"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "KORAJE",
+        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 226549,
+      "name": "KORAJE",
+      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
-      },
-      "artists": [
-        {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
-        }
-      ],
-      "duration_ms": 114799,
-      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "sangre y sal",
         "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Si Tengo Suerte",
-        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
       },
       "artists": [
         {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Si Tengo Suerte",
-      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1563,6 +1547,22 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Si Tengo Suerte",
+        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Si Tengo Suerte",
+      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Ajedrez",
-        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
+        "name": "relevante",
+        "url": "https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
         }
       ],
-      "duration_ms": 202413,
-      "name": "Ajedrez",
-      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
+      "duration_ms": 235565,
+      "name": "relevante",
+      "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
     }
   ],
   "unique_name": "Radar Indie",

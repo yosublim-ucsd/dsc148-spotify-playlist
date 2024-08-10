@@ -4,7 +4,7 @@
 
 > Have the loveliest little day.
 
-454 songs - 1 day 3 hr 26 min
+455 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Ladybird](https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Ladybird](https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs) | 4:05 | 2021-11-12 | 2022-07-29 |
 | [Lavender](https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:11 | 2022-06-22 | 2023-09-25 |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-11-12 | 2022-07-29 |
-| [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2022-03-19 |  |
+| [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2022-03-19 | 2024-08-10 |
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2023-05-18 |  |
 | [Let You Go \- Acoustic](https://open.spotify.com/track/2UFFkNjqEm1H2DVeomQuWX) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Let You Go \(Acoustic\)](https://open.spotify.com/album/6E6SrGzLSnd7R6pvIOez0d) | 3:43 | 2021-11-12 | 2022-07-29 |
 | [Like Dylan in the Movies](https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 4:14 | 2022-03-19 |  |
@@ -348,6 +348,7 @@
 | [So High School](https://open.spotify.com/track/1GP8VW5Wk2w2obkWjGCGXd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg) | 3:48 | 2024-04-19 |  |
 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 | 2022-02-07 |  |
 | [So Unimportant](https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [So Unimportant](https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq) | 4:23 | 2022-03-19 |  |
+| [Softly](https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Softly](https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs) | 4:02 | 2024-08-09 |  |
 | [Somebody Else](https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X) | 5:31 | 2021-11-12 | 2022-07-29 |
 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 | 2023-02-03 | 2023-02-21 |
 | [Something Holy](https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Something Holy](https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl) | 3:18 | 2021-11-12 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: Nameless Kids
 
-130 songs - 8 hr 30 min
+132 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 | 2023-11-10 | 2024-07-19 |
 | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/album/1cu62EgLqxSpDOw3nKGMhk) | 4:19 | 2023-10-13 | 2024-06-04 |
 | [I'll Be Mine](https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R), [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [I'll Be Mine](https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC) | 3:30 | 2024-04-26 |  |
+| [I.N.A.S.](https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 2:28 | 2024-08-09 |  |
 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 | 2023-10-13 | 2024-06-22 |
 | [Just Another Christmas](https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Just Another Christmas](https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG) | 2:16 | 2023-11-18 | 2024-07-19 |
 | [Just to See You](https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw) | [The Braille Flowers](https://open.spotify.com/artist/1oCEHpiSBXA8IpjKsLc3OA) | [Just to See You](https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY) | 4:25 | 2023-10-13 | 2023-11-19 |
@@ -63,6 +64,7 @@
 | [Lila](https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Lila](https://open.spotify.com/album/4QuF85jFBoM63F56LIYZCT) | 3:48 | 2024-07-19 |  |
 | [Lilly's Child](https://open.spotify.com/track/53VWrgqxMeyLvzRaPZH89K) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Lilly's Child](https://open.spotify.com/album/6IljuxUuJiSP87CuHpEn3E) | 2:24 | 2023-10-13 | 2024-02-10 |
 | [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-12 |  |
+| [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-09 |  |
 | [Mahal Na Yata Kita](https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Mahal Na Yata Kita](https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj) | 3:07 | 2024-07-19 |  |
 | [Mahika](https://open.spotify.com/track/0oKhpGNegABcrCGJacx1rC) | [shed](https://open.spotify.com/artist/3NrtcbIz7aWDbsqvlb7mPF) | [Mahika](https://open.spotify.com/album/6xXxqw4s5LrpxUKDpI72Z3) | 3:50 | 2024-06-03 |  |
 | [MALABO](https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [MALABO](https://open.spotify.com/album/0decNGiRDcErQsQvcyfEMz) | 3:40 | 2023-10-13 | 2024-06-22 |

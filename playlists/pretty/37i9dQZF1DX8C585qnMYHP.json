@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 168702,
+  "num_followers": 168783,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
         "name": "Hailu Remixes",
         "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 334000,
       "name": "Riot on the Hush - K-LONE Remix",
       "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -821,6 +821,38 @@
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "i've seen a way",
+        "url": "https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 256949,
+      "name": "Injury Detail",
+      "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
+    },
+    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "the key",
@@ -855,38 +887,6 @@
       "duration_ms": 425454,
       "name": "Mercurio",
       "url": "https://open.spotify.com/track/0pTUnJy3AqAKHtYXc2fMWv"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "i've seen a way",
-        "url": "https://open.spotify.com/album/4oMlaPrzjAHEHh26MkR6DB"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 256949,
-      "name": "Injury Detail",
-      "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
     },
     {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+    },
+    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "INVERTIDO",
@@ -1001,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Acryl",
-        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
-      },
-      "artists": [
-        {
-          "name": "Damian Dalla Torre",
-          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Acryl",
-      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Nightshade",
@@ -1063,6 +1047,22 @@
       "duration_ms": 235853,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Acryl",
+        "url": "https://open.spotify.com/album/5QxKzsz8n1CEgX5r8EwlWr"
+      },
+      "artists": [
+        {
+          "name": "Damian Dalla Torre",
+          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Acryl",
+      "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1213,6 +1197,38 @@
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+        }
+      ],
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "Psychedelic Anxiety",
+        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
+      },
+      "artists": [
+        {
+          "name": "Frances Chang",
+          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Spiral in Houston",
+      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Unbound",
@@ -1240,25 +1256,9 @@
           "url": "https://open.spotify.com/artist/1vnPgyInQLiCKgpq4Cf6Ff"
         }
       ],
-      "duration_ms": 177249,
+      "duration_ms": 176835,
       "name": "pie \u6279",
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "Psychedelic Anxiety",
-        "url": "https://open.spotify.com/album/3b1rSDft4AEvV3lVqTZWEf"
-      },
-      "artists": [
-        {
-          "name": "Frances Chang",
-          "url": "https://open.spotify.com/artist/4mGbLmr9tmgnWFM4CaFJRe"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Spiral in Houston",
-      "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1293,24 +1293,20 @@
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-03-20 13:59:17",
       "album": {
-        "name": "when will you be here again?",
-        "url": "https://open.spotify.com/album/1F8IaN43aS4AqW3Ejugnko"
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
       },
       "artists": [
         {
-          "name": "Grasps",
-          "url": "https://open.spotify.com/artist/6L4fqVLdgeOOOpDR81rFgZ"
-        },
-        {
-          "name": "BAYANG (tha Bushranger)",
-          "url": "https://open.spotify.com/artist/6cAeWipy7tqdKa5mIPHMIY"
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
         }
       ],
-      "duration_ms": 172919,
-      "name": "7 Hells",
-      "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
+      "duration_ms": 270557,
+      "name": "MissU",
+      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1329,20 +1325,24 @@
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+        "name": "when will you be here again?",
+        "url": "https://open.spotify.com/album/1F8IaN43aS4AqW3Ejugnko"
       },
       "artists": [
         {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+          "name": "Grasps",
+          "url": "https://open.spotify.com/artist/6L4fqVLdgeOOOpDR81rFgZ"
+        },
+        {
+          "name": "BAYANG (tha Bushranger)",
+          "url": "https://open.spotify.com/artist/6cAeWipy7tqdKa5mIPHMIY"
         }
       ],
-      "duration_ms": 270557,
-      "name": "MissU",
-      "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
+      "duration_ms": 172919,
+      "name": "7 Hells",
+      "url": "https://open.spotify.com/track/7u0jk3Ib4R7Cd719TOpwR9"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/2RNhGCpqfV9ldc1VDeHCmG"
     },
     {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
-      },
-      "artists": [
-        {
-          "name": "s\u00fas",
-          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
-        }
-      ],
-      "duration_ms": 260970,
-      "name": "Abdolmen",
-      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "I Need Time",
@@ -1475,6 +1459,22 @@
       "duration_ms": 257091,
       "name": "I Need Time",
       "url": "https://open.spotify.com/track/6pa6928PyZgyt5fpusQvux"
+    },
+    {
+      "added_at": "2024-05-29 02:04:24",
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/3z3CbypAGkGUz2nDePXN7z"
+      },
+      "artists": [
+        {
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+        }
+      ],
+      "duration_ms": 260970,
+      "name": "Abdolmen",
+      "url": "https://open.spotify.com/track/19dvbEw3zQ0urfAnJUmlDJ"
     },
     {
       "added_at": "2024-05-01 17:01:23",

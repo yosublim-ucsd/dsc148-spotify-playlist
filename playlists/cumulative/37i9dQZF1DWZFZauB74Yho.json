@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Little Home To Go To",
+        "url": "https://open.spotify.com/album/6WB5ReM0O5wSkiEdGVTkwH"
+      },
+      "artists": [
+        {
+          "name": "Jody Stecher",
+          "url": "https://open.spotify.com/artist/1mRgiIS98mLuRaQXADGA6D"
+        },
+        {
+          "name": "Mile Twelve",
+          "url": "https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "A Little Home To Go To",
+      "url": "https://open.spotify.com/track/0OTFoBGamyDGDcCV92ScNz"
+    },
+    {
+      "album": {
         "name": "Arlington",
         "url": "https://open.spotify.com/album/3H8KcOWrQR6bCjj7O8Tk8V"
       },
@@ -160,6 +182,24 @@
       "duration_ms": 192386,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/1lzu5UGZJdOSmx26rdsm6g"
+    },
+    {
+      "album": {
+        "name": "Between the Two of Us",
+        "url": "https://open.spotify.com/album/4BvBXlDoMUUdGckyx5hQhr"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Between the Two of Us",
+      "url": "https://open.spotify.com/track/4pS7ad7B02becjE3TjNjSJ"
     },
     {
       "album": {
@@ -504,7 +544,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176170,
       "name": "Complicated Man",
       "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
@@ -540,7 +580,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194479,
       "name": "Cowboy Special - Take 1",
       "url": "https://open.spotify.com/track/5CbX4WpPpbapyCCjcKQvRO"
@@ -628,7 +668,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160626,
       "name": "Daylight No More",
       "url": "https://open.spotify.com/track/2NwCj87xzfVJSHbjfOIdux"
@@ -646,7 +686,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 296200,
       "name": "Dirty Water",
       "url": "https://open.spotify.com/track/4JPBavH5IA7zkXeoUN97mO"
@@ -778,10 +818,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 283000,
       "name": "Donner Pass",
       "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "album": {
+        "name": "Down to the River",
+        "url": "https://open.spotify.com/album/6A4nqIIvLeGHb52JBB3uh6"
+      },
+      "artists": [
+        {
+          "name": "Greenwood Rye",
+          "url": "https://open.spotify.com/artist/2mcITeRSJbvXSnZaVNZiJM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233039,
+      "name": "Down to the River",
+      "url": "https://open.spotify.com/track/4Y9glUL5VxLnEUhzzLwXAb"
     },
     {
       "album": {
@@ -843,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Tenkiller",
+        "url": "https://open.spotify.com/album/1XVoJ98MjMuJyIzoJmU7Wp"
+      },
+      "artists": [
+        {
+          "name": "Lance Roark",
+          "url": "https://open.spotify.com/artist/6i0HzrUPAeWOfZiXxOU903"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317586,
+      "name": "Fatal Romance",
+      "url": "https://open.spotify.com/track/42OWS1YLUhCdtQK2KC74yG"
+    },
+    {
+      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/0G080kprHWuQFw5eg1pSko"
       },
@@ -876,7 +952,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 138000,
       "name": "First Snow - Live from Powell River Sessions",
       "url": "https://open.spotify.com/track/4DZTCqivpcz5hgZOBzO2wX"
@@ -1035,6 +1111,42 @@
     },
     {
       "album": {
+        "name": "Rolling Down the Line",
+        "url": "https://open.spotify.com/album/5bJtENAtxbI7TM6SHfzU7q"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Parks",
+          "url": "https://open.spotify.com/artist/0CQKWypk5iKCbUuTkTk6C9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Good Morning (In Heaven)",
+      "url": "https://open.spotify.com/track/4MZodY8Eei5MGkOkitalIr"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7t1jhZwQzyPP2Pi1hLdCeC"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6C56x4HZbAYTIEShKSTsIg"
+    },
+    {
+      "album": {
         "name": "Grass is Greener",
         "url": "https://open.spotify.com/album/0uG3J21GQVppHdRuGZSrwv"
       },
@@ -1090,7 +1202,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 279198,
       "name": "He Called Me Baby",
       "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
@@ -1112,10 +1224,40 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188541,
       "name": "He Would've Wrote Em' All",
       "url": "https://open.spotify.com/track/3l3w4s8oMWXD2kGCpV2k8q"
+    },
+    {
+      "album": {
+        "name": "Weary Ramblers",
+        "url": "https://open.spotify.com/album/5vH9LVfYyyEv1mZyB4zU1A"
+      },
+      "artists": [
+        {
+          "name": "Weary Ramblers",
+          "url": "https://open.spotify.com/artist/0IdBS2pDWcnNYVIaj1m76g"
+        },
+        {
+          "name": "Kathryn Severing Fox",
+          "url": "https://open.spotify.com/artist/3Vln9nidUksznYyeEIiYcu"
+        },
+        {
+          "name": "Chad Elliott",
+          "url": "https://open.spotify.com/artist/2fmDVJvIib3nun1XBc8nmk"
+        },
+        {
+          "name": "Pieta Brown",
+          "url": "https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148960,
+      "name": "Hidden Road",
+      "url": "https://open.spotify.com/track/246LMzpYVylsS5ndNwXvdp"
     },
     {
       "album": {
@@ -1371,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/25GPikQmgB5D5fLb1y03V9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Parker & Company",
+          "url": "https://open.spotify.com/artist/2anC5AGNJAouO88tQypXRJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196775,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/4E0BAnuJWZNDCxGCtT0Jps"
+    },
+    {
+      "album": {
         "name": "I'm in Tennessee",
         "url": "https://open.spotify.com/album/0PFvGsYh75RguPVWr1xGrk"
       },
@@ -1386,6 +1546,24 @@
       "duration_ms": 241000,
       "name": "I'm in Tennessee",
       "url": "https://open.spotify.com/track/6NNuFH7JO8K24y3aLTw4ai"
+    },
+    {
+      "album": {
+        "name": "Ijams",
+        "url": "https://open.spotify.com/album/0yathcyg0W8Zm4UpSeFpp3"
+      },
+      "artists": [
+        {
+          "name": "Redd & The Paper Flowers",
+          "url": "https://open.spotify.com/artist/2bnXixwpVfopSYPLkujWO3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287687,
+      "name": "Ijams",
+      "url": "https://open.spotify.com/track/1yzsTkjClmlyCl8HMGID5P"
     },
     {
       "album": {
@@ -1650,7 +1828,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 258045,
       "name": "Let the Creek Rise",
       "url": "https://open.spotify.com/track/0TNTjUfgc4tGPH3sSPQ4Sj"
@@ -1668,7 +1846,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268800,
       "name": "Linger",
       "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
@@ -1704,7 +1882,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 396438,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/3kowXiulAQLaoCufDH24tH"
@@ -1868,6 +2046,46 @@
       "duration_ms": 239082,
       "name": "One Sunray At A Time",
       "url": "https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1"
+    },
+    {
+      "album": {
+        "name": "Outrun The Rain",
+        "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271973,
+      "name": "Outrun The Rain",
+      "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "album": {
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/1BrxbQYvU3wMT2wTD8ruQi"
+      },
+      "artists": [
+        {
+          "name": "Presley Davis Jr.",
+          "url": "https://open.spotify.com/artist/6VzNgF1lWRHctZCMgsjl5H"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Petunia",
+      "url": "https://open.spotify.com/track/4XPNALw92r7ahWOWMeSqEj"
     },
     {
       "album": {
@@ -2141,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "So Long To The Kicking Horse Canyon and Other Folk Songs",
+        "url": "https://open.spotify.com/album/51ctX17XCdhSUxL9hLTwa9"
+      },
+      "artists": [
+        {
+          "name": "The McMillan's Camp Boys",
+          "url": "https://open.spotify.com/artist/1zWLmWWqJMDez7sDeqrPc0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Rain And Snow",
+      "url": "https://open.spotify.com/track/5iJoRMKPmYcbgaSTT2M5hE"
+    },
+    {
+      "album": {
         "name": "Right Where You Belong",
         "url": "https://open.spotify.com/album/6KtO5qLdARe7NnoEJE8DOl"
       },
@@ -2268,7 +2504,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150743,
       "name": "She Flies",
       "url": "https://open.spotify.com/track/252oEjuaiFuDEKvi8QlR2O"
@@ -2457,6 +2693,32 @@
     },
     {
       "album": {
+        "name": "Destinations and Fun Places",
+        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256924,
+      "name": "Take Me Home Country Roads",
+      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "album": {
         "name": "Instrumentals, Vol. 2: Mandolin Mysteries",
         "url": "https://open.spotify.com/album/1qnypzzfDpbxtVOgXuyUoo"
       },
@@ -2538,7 +2800,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 388160,
       "name": "The Otter Creek Incident",
       "url": "https://open.spotify.com/track/58EpbedY26g7KtHrA9krbe"
@@ -2600,7 +2862,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173178,
       "name": "The Wandering Boy",
       "url": "https://open.spotify.com/track/2GE8U9rTREnInEkPQGD0G0"
@@ -2716,7 +2978,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 89868,
       "name": "Trudging Along",
       "url": "https://open.spotify.com/track/3Obg2tZtWFgAbg6Vs1bOGw"
@@ -2777,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Uncertain Times",
+        "url": "https://open.spotify.com/album/27k7z1B0twbxJwZbrnJ74M"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Uncertain Times",
+      "url": "https://open.spotify.com/track/08x0AYzvLufpYzZJy2383R"
+    },
+    {
+      "album": {
         "name": "Valley Flower",
         "url": "https://open.spotify.com/album/7MDJNxfHTfilPJ0528J656"
       },
@@ -2828,7 +3108,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
@@ -2882,7 +3162,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 139762,
       "name": "What People Think of Me Is None of My Business",
       "url": "https://open.spotify.com/track/5hk7aR6Qg3PUlZxUO0Qoeh"

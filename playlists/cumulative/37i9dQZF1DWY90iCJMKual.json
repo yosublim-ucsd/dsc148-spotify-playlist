@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Denise Julia",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: Ryannah J",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 231840,
       "name": "Akong Addiction",
       "url": "https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN"
@@ -862,6 +862,24 @@
       "duration_ms": 176307,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/2HLCZ1OJCd3uRd5o5btDNW"
+    },
+    {
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/4cmN8MWGer0BH45wZSnkFO"
+      },
+      "artists": [
+        {
+          "name": "rk jlln",
+          "url": "https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100689,
+      "name": "dawn",
+      "url": "https://open.spotify.com/track/5qfetWn53xemg40aT5CXIp"
     },
     {
       "album": {
@@ -1820,6 +1838,24 @@
       "duration_ms": 150034,
       "name": "Hit It Off",
       "url": "https://open.spotify.com/track/1T5aFm4MOFZNQwQCbeMmYA"
+    },
+    {
+      "album": {
+        "name": "Hmmm (Masasawi)",
+        "url": "https://open.spotify.com/album/3LYlh3KDntUE3YrsNW9Ui4"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181072,
+      "name": "Hmmm (Masasawi)",
+      "url": "https://open.spotify.com/track/23XWtmVCCqqusWLmtxWUM8"
     },
     {
       "album": {
@@ -2894,7 +2930,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193000,
       "name": "LOWKEY",
       "url": "https://open.spotify.com/track/3v2zCHxRGNaCTJqMn6OYdv"
@@ -3046,7 +3082,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163350,
       "name": "Mahirap",
       "url": "https://open.spotify.com/track/4RUF5cWK5iKOa8OY8gCU0W"
@@ -3514,6 +3550,32 @@
       "duration_ms": 212210,
       "name": "On It",
       "url": "https://open.spotify.com/track/4Oa7hB0TLwbBOotG2Br45k"
+    },
+    {
+      "album": {
+        "name": "On&Off",
+        "url": "https://open.spotify.com/album/0UzoVAS4sDTE46lmKDCyVT"
+      },
+      "artists": [
+        {
+          "name": "Vince Lucero",
+          "url": "https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq"
+        },
+        {
+          "name": "kn\u014dwmaad",
+          "url": "https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU"
+        },
+        {
+          "name": "ONEFLOOR",
+          "url": "https://open.spotify.com/artist/5mn4HsyvMQ1tluNNl2HXDQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221489,
+      "name": "On&Off",
+      "url": "https://open.spotify.com/track/4uh7kGhYyAzvABoNVUG50M"
     },
     {
       "album": {
@@ -4212,6 +4274,32 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "album": {
+        "name": "SA'YO LANG",
+        "url": "https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        },
+        {
+          "name": "Kyleswish",
+          "url": "https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa"
+        },
+        {
+          "name": "Jawz",
+          "url": "https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "SA'YO LANG",
+      "url": "https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL"
     },
     {
       "album": {

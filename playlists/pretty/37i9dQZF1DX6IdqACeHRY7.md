@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain](/playlists/plain/37i9dQZF1DX6IdqACeHRY7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6IdqACeHRY7)
 
-### [Ren hygge](https://open.spotify.com/playlist/37i9dQZF1DX6IdqACeHRY7)
+### [hygge](https://open.spotify.com/playlist/37i9dQZF1DX6IdqACeHRY7)
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,855 likes - 114 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,861 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 29 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 |
 | 30 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 31 | [Better Luck Next Time](https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Better Luck Next Time](https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6) | 2:52 |
-| 32 | [Red](https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Love & War](https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6) | 3:53 |
-| 33 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
-| 34 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
-| 35 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
+| 32 | [Runaway](https://open.spotify.com/track/7oHijHxh7cI40fNC4S619V) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Runaway](https://open.spotify.com/album/4iioyYjn5y3TYGTdl7qdL5) | 3:38 |
+| 33 | [Red](https://open.spotify.com/track/1ZCCVA90RcBOyiPPJPoNd6) | [Daniel Merriweather](https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN) | [Love & War](https://open.spotify.com/album/7esBRX55cujeL0iSZWu0U6) | 3:53 |
+| 34 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 |
+| 35 | [Fired Up](https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Fired Up](https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP) | 3:21 |
 | 36 | [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 |
 | 37 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 |
 | 38 | [Rockabye \- Acoustic Version](https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Rockabye \(Acoustic\)](https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW) | 2:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 62 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 |
 | 63 | [What Happened To Perfect](https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:56 |
 | 64 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 |
-| 65 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
-| 66 | [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 |
+| 65 | [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 |
+| 66 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 67 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 |
 | 68 | [Until The Hurting Is Gone](https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [1975](https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ) | 3:17 |
 | 69 | [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 |
@@ -96,21 +96,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 86 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 87 | [Same Old](https://open.spotify.com/track/3GCVYVuCRRMH7WVtI5V0E3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/59YQpTemLWyGdL6oQMPq6w) | 2:55 |
 | 88 | [Lying To Yourself](https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Not That Special \- EP](https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk) | 3:32 |
-| 89 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
-| 90 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
+| 89 | [Masquerade](https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:47 |
+| 90 | [New Eyes \- Acoustic](https://open.spotify.com/track/2yKmYCA9JECFdN06Imdp0C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:09 |
 | 91 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 |
 | 92 | [No Fixed Abode](https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [No Fixed Abode](https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF) | 3:24 |
 | 93 | [Fin Regn](https://open.spotify.com/track/6bSW1ulgeoD2wSHP017uXe) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Fin Regn](https://open.spotify.com/album/59ODE2Q2ldmwZKlDg5Dds6) | 3:21 |
 | 94 | [Say Goodnight](https://open.spotify.com/track/4xYTaeo4725e2XJTJYz3km) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Say Goodnight](https://open.spotify.com/album/2SZ5OldmAx9zijGjLbSfor) | 2:46 |
-| 95 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 |
+| 95 | [I Was Made For Loving You](https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:08 |
 | 96 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 97 | [Wish I Was Right For You](https://open.spotify.com/track/5IpIv7yNJnuCWQLn7dd1aL) | [jens](https://open.spotify.com/artist/71o1oWpLHVDNbfw7TwXKDg) | [Wish I Was Right For You](https://open.spotify.com/album/33sa2eTt4d7hKrf2mr8lZR) | 3:02 |
 | 98 | [Heartbeat](https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Inner Critic's Choice Awards](https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr) | 3:55 |
 | 99 | [Reasons](https://open.spotify.com/track/6PspLxCglJJH7bu14CZf4T) | [NAKED KOALA](https://open.spotify.com/artist/5FUdTISe2JvTPPDaUwVqHe), [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp) | [Reasons](https://open.spotify.com/album/0W0vF3I0amUEMT05E83lmz) | 2:53 |
-| 100 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 |
-| 101 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 |
+| 100 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 |
+| 101 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 |
 | 102 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
-| 103 | [I Was Made For Loving You](https://open.spotify.com/track/4XbQLaWyFkXTwPK33kxWQJ) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:08 |
+| 103 | [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 |
 | 104 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 |
 | 105 | [They Told Me](https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [They Told Me](https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F) | 3:01 |
 | 106 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Stop By Now](https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Stop By Now](https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH) | 3:43 |
 | 114 | [Make Me Like You](https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Make Me Like You](https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi) | 3:12 |
 
-Snapshot ID: `ZaEL7AAAAAC6HVqXGoFxgbHJN/3LgWGf`
+Snapshot ID: `ZrXXogAAAAAvzrmo5+x7rO6QtyR8cEkx`

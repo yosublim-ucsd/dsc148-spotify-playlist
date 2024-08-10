@@ -4,11 +4,11 @@
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-151 songs - 9 hr 41 min
+152 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A felicidade](https://open.spotify.com/track/1brWhQEoBoT9tMnNfcRsjr) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Estudando o samba](https://open.spotify.com/album/2jOgajtpXNsinBpwg2dUjH) | 3:18 | 2021-12-31 |  |
+| [A felicidade](https://open.spotify.com/track/1brWhQEoBoT9tMnNfcRsjr) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Estudando o samba](https://open.spotify.com/album/2jOgajtpXNsinBpwg2dUjH) | 3:18 | 2021-12-31 | 2024-08-10 |
 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 | 2021-12-31 |  |
 | [A Palo Seco](https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn) | [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52), [Gilvan de Oliveira](https://open.spotify.com/artist/68MpNrGnDXG9d8qdBuPXwS) | [Belchior Acústico](https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC) | 2:35 | 2021-12-31 |  |
 | [A Paz \- Ao Vivo](https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Unplugged \(Ao vivo\)](https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf) | 4:53 | 2021-12-31 |  |
@@ -16,6 +16,7 @@
 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 | 2021-12-31 |  |
 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 | 2021-12-31 |  |
 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 | 2021-12-31 |  |
+| [Amores](https://open.spotify.com/track/7kaQsHwoj5JZAe9uInlUwV) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Amores](https://open.spotify.com/album/3HYJ4QzNZI60OzmNln5Ojp) | 2:39 | 2024-08-09 |  |
 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 | 2021-12-31 |  |
 | [Angélica](https://open.spotify.com/track/1LjfrlwvGYyYxFEWbUzjWS) | [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Angélica](https://open.spotify.com/album/0qJF66hF0OL18NydgS31hS) | 3:00 | 2024-05-17 |  |
 | [Anjo Exterminado](https://open.spotify.com/track/65ih3kBtkXPjtJUuT2A8rk) | [Jards Macalé](https://open.spotify.com/artist/11dkvirvWFnfNUsaGVvObg), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Real Grandeza](https://open.spotify.com/album/3usj8jb2F3lbhlwH3xAQ3Z) | 3:15 | 2024-05-24 | 2024-07-27 |

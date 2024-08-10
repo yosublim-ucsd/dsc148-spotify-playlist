@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Check out <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">three new Fresh Finds playlists</a> in the Fresh Finds hub\. Cover: total tommy, Artwork: Isu Kim
 
-6,768 songs - 15 day 7 hr 2 min
+6,769 songs - 15 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3752,6 +3752,7 @@
 | [Me And You, Anywhere](https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Me And You, Anywhere](https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz) | 3:22 | 2023-08-09 | 2023-08-17 |
 | [me encontré](https://open.spotify.com/track/2MnNO6OX0AZxByx2WXo2AU) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [me encontré](https://open.spotify.com/album/4Sdxwp2KJdBwLIyBiBIWiv) | 2:46 | 2023-06-07 | 2023-06-15 |
 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 | 2023-05-17 | 2023-05-24 |
+| [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-09 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/23upLez9sHh20nqatvOfWr) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Me Gustas Mucho](https://open.spotify.com/album/1OqE1tUPpQb2FoQxmYkGtq) | 2:44 | 2022-03-02 | 2022-03-10 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-09 | 2022-03-17 |
 | [Me Or Her](https://open.spotify.com/track/4ZJBr569wzQGM8JJhpLqms) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Me Or Her](https://open.spotify.com/album/4NoRqooBul0OF8yCFA6mKJ) | 2:50 | 2022-08-31 | 2022-09-09 |
@@ -5012,7 +5013,7 @@
 | [Ryman](https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki) | [Jack Hartman](https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l) | [Ryman](https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm) | 4:24 | 2024-02-14 | 2024-02-29 |
 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 | 2023-11-29 | 2024-01-11 |
 | [S3 X](https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:38 | 2023-05-31 | 2023-06-08 |
-| [Sabor a Fresa](https://open.spotify.com/track/1m8PGcU3Wyoq53MmpRYIjX) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Sabor a Fresa](https://open.spotify.com/album/4GqQBvFA4LHmXtECU2rZNK) | 3:09 | 2024-07-17 |  |
+| [Sabor a Fresa](https://open.spotify.com/track/1m8PGcU3Wyoq53MmpRYIjX) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Sabor a Fresa](https://open.spotify.com/album/4GqQBvFA4LHmXtECU2rZNK) | 3:09 | 2024-07-17 | 2024-08-10 |
 | [Sad B!tch](https://open.spotify.com/track/45Zeyz2qdAU4QzUxesHGaZ) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Sad B!tch](https://open.spotify.com/album/1Q2Z08U9aQ2VRjzcLnvlUL) | 2:24 | 2023-02-22 | 2023-03-02 |
 | [SAD BOI SEX LYFE](https://open.spotify.com/track/68UfnN1zTqzMb5lYWGITtX) | [Love Montage](https://open.spotify.com/artist/4fRb6fmVqRMsm58m4ka4FE) | [SAD BOI SEX LYFE](https://open.spotify.com/album/5lWXCQKHccRwwj1U33ugMp) | 3:18 | 2022-06-08 | 2022-06-16 |
 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2023-03-15 | 2023-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,971 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,030 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 18 | [Pump Me Up](https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:45 |
 | 19 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 20 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
-| 21 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
-| 22 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
+| 21 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
+| 22 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
 | 23 | [Thunder](https://open.spotify.com/track/4x210VRNZyMIyjwuMsqYbg) | [Duke](https://open.spotify.com/artist/5G0rFFvPHNS5lZ7abaxNXT) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 6:35 |
 | 24 | [Follow The Leader, Leader](https://open.spotify.com/track/5dSyyEkLtuirZgxqt1E7fz) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:05 |
 | 25 | [Madness](https://open.spotify.com/track/6cTVUICdB3NIKD8wVIkNrZ) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:45 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 35 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [CRAZY](https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
 | 36 | [Ragga, Ragga](https://open.spotify.com/track/2eXmkQJ6N9DUkMbMMFTDf8) | [Red Plastic Bag](https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:36 |
 | 37 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
-| 38 | [Hold Ya Foot Up & Jump](https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc) | [Zulu Lightening](https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:19 |
-| 39 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
-| 40 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 |
+| 38 | [Gyal Farm](https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:41 |
+| 39 | [Hold Ya Foot Up & Jump](https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc) | [Zulu Lightening](https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 4:19 |
+| 40 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 41 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
-| 42 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
+| 42 | [Movin'](https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb) | [Nigell & Marvinn](https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 5:19 |
 | 43 | [Girls Gone Wild](https://open.spotify.com/track/69eRt8YA5s0dgMWDXMy88f) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:15 |
 | 44 | [Total Dis Order](https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U) | [Mighty Duke](https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx) | [The Mighty Duke Classic Collection 1986\-1990](https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1) | 6:50 |
 | 45 | [If Ah Rude Ah Rude](https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1) | [Devon George](https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG) | [Man Ah Bad Man](https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3) | 5:00 |

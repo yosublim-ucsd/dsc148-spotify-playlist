@@ -69549,6 +69549,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "album": {
         "name": "Me Gustas Mucho",
         "url": "https://open.spotify.com/album/1OqE1tUPpQb2FoQxmYkGtq"
       },
@@ -93032,7 +93050,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189781,
       "name": "Sabor a Fresa",
       "url": "https://open.spotify.com/track/1m8PGcU3Wyoq53MmpRYIjX"

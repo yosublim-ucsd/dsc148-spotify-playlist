@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 72527,
+  "num_followers": 72530,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+      },
+      "artists": [
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        }
+      ],
+      "duration_ms": 298813,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Joe Stilgoe's Christmas Album",
         "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 170000,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "Merry Christmas Darling",
-        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
-      },
-      "artists": [
-        {
-          "name": "James Lanman",
-          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
-        },
-        {
-          "name": "Alanna Vicente",
-          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
-        }
-      ],
-      "duration_ms": 155641,
-      "name": "Merry Christmas Darling",
-      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -491,22 +491,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+        "name": "Merry Christmas Darling",
+        "url": "https://open.spotify.com/album/1tHctD2yAOz3P7fxWCj5aF"
       },
       "artists": [
         {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+          "name": "James Lanman",
+          "url": "https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36"
         },
         {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+          "name": "Alanna Vicente",
+          "url": "https://open.spotify.com/artist/7q8ZRdJqcvmbwKBoJCiufK"
         }
       ],
-      "duration_ms": 298813,
-      "name": "Christmas Memories",
-      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+      "duration_ms": 155641,
+      "name": "Merry Christmas Darling",
+      "url": "https://open.spotify.com/track/6yO8zPQZFMT2u4VUUZ1AO3"
     },
     {
       "added_at": "2023-12-19 12:10:20",

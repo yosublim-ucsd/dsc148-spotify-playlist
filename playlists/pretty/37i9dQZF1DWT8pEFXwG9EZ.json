@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 163854,
+  "num_followers": 163903,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Bullitt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Room \"26\"",
+      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Bossa Nova (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B"
       },
@@ -827,18 +843,34 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Bullitt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 143066,
-      "name": "Room \"26\"",
-      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
+      "duration_ms": 180677,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -863,38 +895,6 @@
       "duration_ms": 175866,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1V43BO81I2LLHjy25en933"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180677,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
     },
     {
       "added_at": "2024-06-14 07:09:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Khalid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,755 likes - 98 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,756 likes - 98 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 2 | [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 |
 | 3 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 |
 | 4 | [without you](https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [without you](https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS) | 3:26 |
-| 5 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
+| 5 | [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 |
 | 6 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 |
 | 7 | [Grieving](https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Grieving](https://open.spotify.com/album/4C3JSLCk8UVhA1kUtjdU2k) | 4:19 |
 | 8 | [Messy Girl](https://open.spotify.com/track/6vAdrRJEkTlDmS2MxKPWzC) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Messy Girl](https://open.spotify.com/album/436e9dwX8pSzED7X2s7Fse) | 2:46 |

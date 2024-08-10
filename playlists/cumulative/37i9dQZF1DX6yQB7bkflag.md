@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Aziz Hedra
 
-716 songs - 1 day 17 hr 54 min
+717 songs - 1 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Istimewa \- Acoustic](https://open.spotify.com/track/2xDSj5bg69YUEthIIlAYLW) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Uan Kaisar](https://open.spotify.com/artist/0o8cmGK9dAnIFmWAuXi3bl) | [Istimewa \(Acoustic\)](https://open.spotify.com/album/5135k6hokpOicmNzobFzKZ) | 4:19 | 2024-02-01 | 2024-03-22 |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-24 | 2024-06-14 |
 | [Itu Aku \- Spotify Singles](https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Itu Aku \- Spotify Singles](https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j) | 4:14 | 2024-01-18 | 2024-03-22 |
-| [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-01 |  |
+| [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-01 |  |
 | [Jadikan Aku Yang Kedua](https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Jadikan Aku Yang Kedua](https://open.spotify.com/album/2QXZh0ONgicCZHSloy6t2M) | 4:04 | 2024-07-19 |  |
 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 | 2024-01-18 | 2024-02-02 |
 | [Jangan Tersesat, Sayang](https://open.spotify.com/track/7lX0j4GG0naNhJ2kHp6o1d) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Jangan Tersesat, Sayang](https://open.spotify.com/album/4T7yxx7Dd7Z0EK9qA55kdf) | 4:15 | 2024-01-18 | 2024-01-26 |
@@ -519,6 +519,7 @@
 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 | 2024-02-29 | 2024-03-22 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-23 | 2024-05-03 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-11 | 2024-08-09 |
+| [Say That You Will Wait For Me](https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Liang Lawrence](https://open.spotify.com/artist/3OOg1OfH1ta9ugur0HQMyi) | [Say That You Will Wait For Me](https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX) | 3:40 | 2024-08-09 |  |
 | [Sebatas Bayangmu](https://open.spotify.com/track/2n745zRI6dLlWmUwCpLzR7) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Sebatas Bayangmu](https://open.spotify.com/album/5Pbc6ehPlsj4xkt89vQHxn) | 3:55 | 2024-01-18 | 2024-01-26 |
 | [second guessing](https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:29 | 2024-03-28 | 2024-04-19 |
 | [Sedetik](https://open.spotify.com/track/1pBptkRZaXHrYMprAJsu8i) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Mr\. Menawan](https://open.spotify.com/album/2AFvXQe1WKhDMUkx1PJNn7) | 4:02 | 2024-01-18 | 2024-01-26 |

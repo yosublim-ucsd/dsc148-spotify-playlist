@@ -5063,6 +5063,24 @@
     },
     {
       "album": {
+        "name": "The Devil's Wrong, but Not to Blame",
+        "url": "https://open.spotify.com/album/5aoIg1oGowkstefojC9X11"
+      },
+      "artists": [
+        {
+          "name": "Eddie & The Wolves",
+          "url": "https://open.spotify.com/artist/0LLPFS3w5aAnQ8DyOGV7of"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "The Devil's Wrong, but Not to Blame",
+      "url": "https://open.spotify.com/track/6U7nODmDU0GD1fyVrnXFLo"
+    },
+    {
+      "album": {
         "name": "Black Holes",
         "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
       },

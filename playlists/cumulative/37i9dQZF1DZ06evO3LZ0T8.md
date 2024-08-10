@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 48 min
+57 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bumpin'](https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Bumpin'](https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA) | 2:55 | 2023-09-18 |  |
 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 | 2022-10-10 |  |
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |
-| [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 |  |
+| [DNA \- Extended Mix](https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 3:58 | 2024-08-10 |  |
+| [DNA \- Radio Edit](https://open.spotify.com/track/5Hl5WE271CXsku5wtSxxh1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/2q7zsnZP4sFCA9BMrhCkHU) | 2:58 | 2022-10-10 | 2024-08-10 |
 | [Don't Sweat It](https://open.spotify.com/track/46ejVpRBMemcDh4RMHrQzR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [BINGEWATCH](https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z) | [Don't Sweat It](https://open.spotify.com/album/3u7jL6KxRZ2OhGcyjXesFF) | 2:56 | 2022-10-10 |  |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-15 |  |
 | [Freak Out](https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Freak Out](https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro) | 2:18 | 2023-11-10 |  |

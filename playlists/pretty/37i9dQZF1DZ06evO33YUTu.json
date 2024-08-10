@@ -1,12 +1,12 @@
 {
-  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
-  "num_followers": 120491,
+  "description": "This is Greeicy. The essential tracks, all in one playlist.",
+  "num_followers": 120514,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAB+YIpuvsJO52+SHun/6u2l",
+  "snapshot_id": "ZrQKgAAAAADX9ArZ8TgIGWAWVEYKmkhd",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Espejo",
+        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minifalda",
         "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 178946,
       "name": "Minifalda",
       "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Espejo",
-        "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 206320,
       "name": "Ya Para Qu\u00e9",
       "url": "https://open.spotify.com/track/5jX5LKsgCcM2GMSLfVYn78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Piti",
         "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 183680,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jacuzzi",
         "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -823,6 +823,34 @@
       "duration_ms": 171520,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]",
+        "url": "https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 252903,
+      "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
+      "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
     },
     {
       "added_at": null,
@@ -863,34 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]",
-        "url": "https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 252903,
-      "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
-      "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "I Try For You",
-      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Besos (Versi\u00f3n Piano)",
         "url": "https://open.spotify.com/album/4wIHfk91jr0IaqsPoAcP2g"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 230840,
       "name": "Los Besos - Versi\u00f3n Piano",
       "url": "https://open.spotify.com/track/7mekhXCiEHT9yCTfL2JvfO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "I Try For You",
+      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
     },
     {
       "added_at": null,

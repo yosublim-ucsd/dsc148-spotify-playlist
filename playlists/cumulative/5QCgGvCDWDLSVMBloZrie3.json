@@ -8515,6 +8515,24 @@
     },
     {
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },

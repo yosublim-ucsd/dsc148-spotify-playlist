@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Gavin Adcock",
+  "description": "Top trending country tracks from the last few months. Cover: Koe Wetzel",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179882,
       "name": "A Cigarette",
       "url": "https://open.spotify.com/track/7kpCMD8iv4RC971CJRPZ3U"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 221760,
       "name": "Banks",
       "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "album": {
         "name": "I Am Not Okay",
         "url": "https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i"
       },
@@ -3110,7 +3128,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
@@ -3934,6 +3952,24 @@
       "duration_ms": 206044,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/09MhsFYo8oqSsd4eR2F15A"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g"
     },
     {
       "album": {
@@ -5516,6 +5552,24 @@
       "duration_ms": 212680,
       "name": "Run",
       "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
+    },
+    {
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/5gDFOZ783vDJU8hEjewfTa"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160291,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/0p63QhP6CtJafORUnjBk3L"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6572,
+  "num_followers": 6581,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 154125,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 177255,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 154125,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
-      },
-      "artists": [
-        {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
-        }
-      ],
-      "duration_ms": 171899,
-      "name": "Pluto - Bonus Track",
-      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Spinning Around",
         "url": "https://open.spotify.com/album/7eae6QcOQ7yyIa2YI4jwNS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 176557,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0ZnElXbF0geNJvnZJfl5wo"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+      },
+      "artists": [
+        {
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+        }
+      ],
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
+        "name": "Rear View",
+        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
       },
       "artists": [
         {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
         }
       ],
-      "duration_ms": 143480,
-      "name": "I\u2019ll Think of You",
-      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
+      "duration_ms": 194594,
+      "name": "Rear View",
+      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3p3saMidKHm879P3SC0znA"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "I\u2019ll Think of You",
+      "url": "https://open.spotify.com/track/11SNn6ED0KKZR4HTe0WFkN"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
         "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
@@ -635,38 +651,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "All My Life (Where Have You Been)",
-        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "All My Life (Where Have You Been)",
-      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "Rear View",
-        "url": "https://open.spotify.com/album/5PFq6xr6uyeNqwOoimJm02"
-      },
-      "artists": [
-        {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Rear View",
-      "url": "https://open.spotify.com/track/03BphqIUSACDtLxYwTx88P"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "That Guy",
         "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 154866,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "All My Life (Where Have You Been)",
+        "url": "https://open.spotify.com/album/1IynmYnMto0IfvYfvuWTeU"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "All My Life (Where Have You Been)",
+      "url": "https://open.spotify.com/track/5zZr5MeTBHHyyOjGHo0TKo"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Mercedes",
-      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "I Turn To You",
         "url": "https://open.spotify.com/album/211hQhZlaZz0cE9pO7fSfg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 162853,
       "name": "Expiration Date_demo_V2.wav",
       "url": "https://open.spotify.com/track/0v0Gekm6VUYI924GpUYJdL"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Mercedes",
+      "url": "https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ"
     },
     {
       "added_at": "2024-02-08 23:00:00",

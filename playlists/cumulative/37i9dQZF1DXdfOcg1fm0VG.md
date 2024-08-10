@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-168 songs - 9 hr 43 min
+169 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Demacia Rising](https://open.spotify.com/track/6Q6G9OIyiehtUDmSOGCLCF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 4:07 | 2021-12-15 |  |
 | [Dianoia](https://open.spotify.com/track/4eKttBFjxz3qF2ByEv5tol) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Immortals Fenyx Rising \(Original Game Soundtrack\)](https://open.spotify.com/album/5j30b8wiK6MbEbmxnB8CmI) | 4:24 | 2021-12-15 |  |
 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 | 2021-12-15 |  |
+| [EA Sports Football Theme](https://open.spotify.com/track/3CWHoLCOIbK3cYC6okUMeU) | [Bleeding Fingers](https://open.spotify.com/artist/1UpmxFaO2uAw5IPK1JUxib) | [EA Sports Football Theme \(Original Game Soundtrack\)](https://open.spotify.com/album/5NQSOHUwU3lP8Y0NDpr7qT) | 0:50 | 2024-08-09 |  |
 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 | 2022-09-09 |  |
 | [Elder Scrolls: Oblivion](https://open.spotify.com/track/7aENwq13lwx4TLLNRDxr5P) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 1:52 | 2021-12-15 |  |
 | [England \(The Industrial Era\)](https://open.spotify.com/track/697Keoq5gB7W3xui3vBpG4) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 3:58 | 2021-12-15 |  |

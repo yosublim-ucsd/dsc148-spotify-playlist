@@ -4,7 +4,7 @@
 
 > The essence of Tamil Rap from Kollywood<br/>Cover : Yuvan Shankar Raja
 
-90 songs - 6 hr 17 min
+91 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 | 2022-02-08 |  |
 | [Boom Boom](https://open.spotify.com/track/6dqGbIiIVd4R6Y9V6PK37R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi](https://open.spotify.com/artist/0p0l6CNMWVPN7BRJbjt0Ye), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Joytsna](https://open.spotify.com/artist/5JBsI8843fA4h2YActpbUd) | [Raam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7rAGXwE4JbyOqJgl4TULFi) | 4:36 | 2022-02-08 |  |
 | [Boom Boom](https://open.spotify.com/track/3grlUawHZ70GY9gUWzbkfr) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Joytsna](https://open.spotify.com/artist/5JBsI8843fA4h2YActpbUd) | [Raam](https://open.spotify.com/album/4DXtEUHsdft8M7A2UbI01I) | 4:36 | 2022-02-08 | 2024-04-19 |
+| [Boombastic \- From "Kadaisi Ulaga Por"](https://open.spotify.com/track/0Og0stoQkK2Axw9UQ0bzQX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Rajan Chelliah](https://open.spotify.com/artist/0jvnsvvEiOVRAFS0kgK3en) | [Boombastic \- From "Kadaisi Ulaga Por"](https://open.spotify.com/album/7A5PybkVgLvWMyYYeGNmU0) | 3:23 | 2024-08-09 |  |
 | [Cable Raja](https://open.spotify.com/track/7aXTJLef4bYEJlNDFQfpMa) | [Abhishek](https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE), [Lawrence](https://open.spotify.com/artist/27xnswouhnSbwK92xz6zAm) | [Vaanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3K2WMhR111JhiLj9VH36Q0) | 3:59 | 2022-02-08 |  |
 | [CEO in the House](https://open.spotify.com/track/5oFnrSf3YWf4AO6rIy9f96) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Sarkar \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0BsAtQgtYtnVPPs0v9UO0n) | 3:52 | 2022-02-08 |  |
 | [Chennai City Gangsta](https://open.spotify.com/track/7mIlbe9TP4eqC1oGIYC8Jh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hard Kaur](https://open.spotify.com/artist/1Xoow41U5fn5DwlMlYt7Gw), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Country Chicken](https://open.spotify.com/artist/47668odEysUnED81I9Ncqm) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:17 | 2022-02-08 |  |

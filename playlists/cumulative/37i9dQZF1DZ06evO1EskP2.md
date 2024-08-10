@@ -4,7 +4,7 @@
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 57 min
+66 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Looking for Love](https://open.spotify.com/track/7yb0IIWyXN0fyxdo3075KX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:21 | 2023-05-02 |  |
 | [Lotus](https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V) | 3:50 | 2024-04-14 |  |
 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 | 2023-05-02 |  |
+| [Maui Rain](https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Maui Rain](https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30) | 3:37 | 2024-08-10 |  |
 | [Mixed Feelings](https://open.spotify.com/track/011xoKDagylY12ofOd3qUX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:23 | 2023-05-02 | 2023-09-26 |
 | [Mixed Feelings](https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:23 | 2023-09-25 |  |
 | [Mr\. Mellow](https://open.spotify.com/track/3vcK4zAjHTL8Tf3jDVE22r) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:33 | 2023-05-02 |  |

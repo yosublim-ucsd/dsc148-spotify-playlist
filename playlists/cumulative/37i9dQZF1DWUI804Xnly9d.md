@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-380 songs - 21 hr 34 min
+381 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 | 2023-07-21 |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |
 | [Rehbara](https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Gaurav Pahuja](https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit) | [Rehbara](https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo) | 2:53 | 2023-07-12 | 2024-02-15 |
-| [Rehne De](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 | 2024-02-07 |  |
+| [Rehne De](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 | 2024-02-07 | 2024-08-10 |
 | [Rihaa](https://open.spotify.com/track/5dOj9WPvBwVjTwRtp9o3x9) | [Vansh Verma](https://open.spotify.com/artist/6gy4NgGFpdJF5jRvNOVt45) | [Rihaa](https://open.spotify.com/album/2HlZYPatRLjhAR1rTRZEiH) | 4:39 | 2024-06-28 |  |
 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 | 2024-03-21 | 2024-04-13 |
 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 | 2024-01-16 |
@@ -336,6 +336,7 @@
 | [Tootey Hai Hum](https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mugdha Hasbanis](https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 3:40 | 2023-10-04 | 2024-01-10 |
 | [Tu](https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2) | [JEKS](https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl) | [Tu](https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR) | 2:16 | 2023-07-20 | 2023-08-05 |
 | [Tu Aisa Kaise Hai](https://open.spotify.com/track/0op7p4Q6gFh44KKeTaKocv) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Saar](https://open.spotify.com/album/2leNjXvtxbHDUFiltWZtbQ) | 3:37 | 2023-05-17 | 2023-06-27 |
+| [Tu Hai](https://open.spotify.com/track/3xjEczwj6D6xKgtnUBi2A6) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Tu Hai](https://open.spotify.com/album/1CreKeXvqkaEErPmav94mX) | 2:47 | 2024-08-09 |  |
 | [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 | 2024-04-02 |  |
 | [Tu Hai Sab Hai](https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tu Hai Sab Hai](https://open.spotify.com/album/14H4tiC2cHjLNZ2lwz0lvx) | 3:57 | 2024-07-04 | 2024-07-27 |
 | [Tu Hai Toh Main Hu](https://open.spotify.com/track/3JeGnCva6aZgmG8uUlSdqe) | [Mohammed Izhar](https://open.spotify.com/artist/0wefMWpIqzVQ5v5nCehJ6k) | [Tu Hai Toh Main Hu](https://open.spotify.com/album/5antflRPPfVvqj1856YjAj) | 3:54 | 2023-10-26 | 2023-12-13 |

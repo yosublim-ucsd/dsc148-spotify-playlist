@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Shawn Mendes
 
-225 songs - 11 hr 21 min
+227 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [GUAGLIONA \(feat\. Lil Jolie\)](https://open.spotify.com/track/2KufQMHOclDkVO3WT5L91j) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [GUAGLIONA](https://open.spotify.com/album/6ssZZ0r8YDAFO8NMcLNmMP) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 |  |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 |  |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 |  |
 | [happier without you](https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC) | 3:06 | 2024-07-11 |  |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-27 | 2024-07-19 |
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-27 | 2024-07-19 |
@@ -147,6 +148,7 @@
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-27 | 2024-07-19 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-27 | 2024-07-05 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-27 | 2024-07-12 |
+| [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 | 2024-08-09 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [One Day \(feat\. Leon Bridges\)](https://open.spotify.com/track/0mo6L5y8olr6HtK8kTGfBh) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Freak Show](https://open.spotify.com/album/3bBBR0YDmIcXnZlwfk9qSd) | 3:31 | 2024-06-27 | 2024-07-05 |

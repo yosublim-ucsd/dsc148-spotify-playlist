@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Mirror 25",
+        "url": "https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178128,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/5fOt4iG6Xty1zMAlUt1niy"
+    },
+    {
+      "album": {
         "name": "Ganja",
         "url": "https://open.spotify.com/album/11W6IsmcsFkOYe54sTRMBf"
       },

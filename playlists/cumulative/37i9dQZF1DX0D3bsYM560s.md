@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-139 songs - 7 hr 50 min
+142 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Fast Moving Train](https://open.spotify.com/track/46ZogNzAJVYtiqBOdcCUU6) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1) | [Fast Moving Train](https://open.spotify.com/album/2gNwNpN7p3SKI5vMY6LMbC) | 3:15 | 2023-11-10 |  |
 | [Fine Times at Our House](https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 2:17 | 2023-04-14 | 2024-04-19 |
 | [Fine Times at Our House](https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 2:17 | 2024-04-06 | 2024-06-29 |
+| [Free Time](https://open.spotify.com/track/2HiHcis6MYpTEIVbHFrMck) | [Chloe Crowder](https://open.spotify.com/artist/3gHDvvAdomgodvNvZNlRZ2) | [Free Time](https://open.spotify.com/album/0739R9Mg1Y4LUSmARIsHKy) | 2:58 | 2024-08-09 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 | 2023-04-14 | 2024-06-29 |
 | [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-25 |  |
 | [Girl's Breakdown](https://open.spotify.com/track/4EdzW4D2a6sTZgnP9w1hrt) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Fair Weather](https://open.spotify.com/album/2J7y2LLWkhZfAuETs1Ubtb) | 3:44 | 2023-04-14 |  |
@@ -74,6 +75,7 @@
 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 | 2023-04-14 |  |
 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 | 2024-07-13 |  |
 | [Laramie](https://open.spotify.com/track/1BEm7Caa96l4PIlnpoJ6wo) | [Becky Schlegel](https://open.spotify.com/artist/21KhWiFWcK4WOJqRHMmN2a), [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Laramie](https://open.spotify.com/album/6JmyaIBchQFT7CeGRRlVbh) | 3:55 | 2023-07-21 |  |
+| [Let It Fall](https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Let It Fall](https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2) | 3:33 | 2024-08-09 |  |
 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 | 2023-04-14 |  |
 | [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 | 2023-11-10 | 2024-04-19 |
 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2023-04-14 |  |
@@ -85,7 +87,7 @@
 | [Mitchell Mullins](https://open.spotify.com/track/1PQGFvDU2ND9U7mGhJzQrI) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Mitchell Mullins](https://open.spotify.com/album/7sdmtJhjRagaW6mQAtYcSr) | 2:54 | 2024-05-10 |  |
 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 | 2023-04-14 |  |
 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 | 2023-04-14 |  |
-| [New Star](https://open.spotify.com/track/6fHFfhmYtgOqxREejrtFuv) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [New Star](https://open.spotify.com/album/3E2Yn7rSQrDYoSKgi7IFk0) | 4:14 | 2024-04-06 |  |
+| [New Star](https://open.spotify.com/track/6fHFfhmYtgOqxREejrtFuv) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [New Star](https://open.spotify.com/album/3E2Yn7rSQrDYoSKgi7IFk0) | 4:14 | 2024-04-06 | 2024-08-10 |
 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 | 2023-04-14 |  |
 | [Night Singing](https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/1njAbpRr6XDXPpwJnNnFY1) | 2:11 | 2024-04-06 | 2024-04-19 |
 | [No\-See\-Um Stomp](https://open.spotify.com/track/4ZLCJQIEzsldfX3YNj2V0n) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Avril Smith](https://open.spotify.com/artist/5pLEQhE7FwQ84khLW03dTw) | [The Butcher Shoppe EP](https://open.spotify.com/album/7IJHtzaBO8wAsroGvbA5ZN) | 2:58 | 2023-09-01 |  |
@@ -144,8 +146,9 @@
 | [Will You Ever Be Mine](https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Dudley Connell](https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0) | [Will You Ever Be Mine](https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb) | 2:38 | 2024-04-06 | 2024-06-29 |
 | [Willow](https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Willow](https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp) | 3:27 | 2023-11-10 |  |
 | [Wolf Moon](https://open.spotify.com/track/1j5eihCJgUaPv2rKl17wwK) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Vanguard Visionaries](https://open.spotify.com/album/4BqbxrFpDs9EnCJxdZFtKd) | 2:52 | 2023-04-14 | 2024-06-29 |
-| [Won't Be Crying Over You](https://open.spotify.com/track/3JraynhjkGD8XmcINUd5br) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Tina Adair](https://open.spotify.com/album/1qbXTvV7kga52P3VodWDqV) | 3:05 | 2023-04-14 |  |
+| [Won't Be Crying Over You](https://open.spotify.com/track/3JraynhjkGD8XmcINUd5br) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Tina Adair](https://open.spotify.com/album/1qbXTvV7kga52P3VodWDqV) | 3:05 | 2023-04-14 | 2024-08-10 |
 | [You Can't Stop Me from Staying](https://open.spotify.com/track/4I5setKgeqtfcz4NZDxPdC) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [You Can't Stop Me from Staying](https://open.spotify.com/album/7vwbl0BxNmBuzY5L6VhaX6) | 3:16 | 2023-04-14 |  |
+| [You'll Never Leave Harlan Alive](https://open.spotify.com/track/1KL82DZju7EN0Jpolg6CwD) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Mountain Soul](https://open.spotify.com/album/7CcrHU1XDBwkymb36Lj68f) | 6:05 | 2024-08-09 |  |
 | [You’ll Never Leave Harlan Alive](https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:55 | 2023-04-14 | 2024-06-29 |
 
 \*This playlist was first scraped on 2023-04-16. Prior content cannot be recovered.

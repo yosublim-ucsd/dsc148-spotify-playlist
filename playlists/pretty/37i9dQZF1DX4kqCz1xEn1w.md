@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,178 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,171 likes - 100 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 42 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 43 | [I Surrender](https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Take Heart \(Again\)](https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O) | 5:14 |
 | 44 | [Yahweh \(feat\. Matthew Stevenson & Chandler Moore\)](https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU), [Matthew Stevenson](https://open.spotify.com/artist/1rUprF6B19ELkhEBR0Nqf2), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Come Alive](https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t) | 9:30 |
-| 45 | [Where Do I Fit In \(feat\. Tori Kelly, Chandler Moore & Judah Smith\)](https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Judah Smith](https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:46 |
-| 46 | [One Thing Remains \- Radio Version](https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion Collection](https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn) | 3:59 |
+| 45 | [One Thing Remains \- Radio Version](https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion Collection](https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn) | 3:59 |
+| 46 | [Where Do I Fit In \(feat\. Tori Kelly, Chandler Moore & Judah Smith\)](https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Judah Smith](https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:46 |
 | 47 | [Throne Room](https://open.spotify.com/track/02X93AUKXP7FPJBPckqgGu) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [On My Side](https://open.spotify.com/album/5CAfJkZS88sq08EZC62k5W) | 4:44 |
 | 48 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 |
 | 49 | [Blessed Be Your Name](https://open.spotify.com/track/51ndwDACfzlvfOYnwp4ryn) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | ["Blessed Be Your Name: The Songs Of Matt Redman, Vol\. 1"](https://open.spotify.com/album/7pMoDDmoNMP0o44ztOoyvk) | 5:48 |

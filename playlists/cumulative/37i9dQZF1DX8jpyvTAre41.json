@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Finger Eleven",
+  "description": "The best rock songs of the moment. Cover: Fontaines D.C.",
   "name": "Rock Now",
   "tracks": [
     {
@@ -782,7 +782,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 167493,
       "name": "All Kinds Of People",
       "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Boring",
+        "url": "https://open.spotify.com/album/3SU3XSQEgOPh45ujeuM3K2"
+      },
+      "artists": [
+        {
+          "name": "Taylor Jackson",
+          "url": "https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154662,
+      "name": "Boring",
+      "url": "https://open.spotify.com/track/3spIBfS55NF9IryAYhrIx4"
+    },
+    {
+      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149483,
       "name": "Boyfeel",
       "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
@@ -2056,6 +2074,24 @@
       "duration_ms": 163453,
       "name": "breakdown.",
       "url": "https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz"
+    },
+    {
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
     },
     {
       "album": {
@@ -4023,6 +4059,28 @@
     },
     {
       "album": {
+        "name": "Dull",
+        "url": "https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195303,
+      "name": "Dull",
+      "url": "https://open.spotify.com/track/2bHiEYY2sn0FnLJW1acm2r"
+    },
+    {
+      "album": {
         "name": "Dying For A Light In The Dark (We Are)",
         "url": "https://open.spotify.com/album/3Alv1w56jvdvFLW5gYfHcS"
       },
@@ -4888,7 +4946,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
@@ -5256,6 +5314,24 @@
       "duration_ms": 270454,
       "name": "Foregone, Pt. 2",
       "url": "https://open.spotify.com/track/3Cp3wi1w6wPwYGgDPrBu6q"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5sOesRaU6GxHYLy5zZ0dmv"
+      },
+      "artists": [
+        {
+          "name": "Beach Season",
+          "url": "https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191653,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0sZamd0b0tAaRe7WGZXYmh"
     },
     {
       "album": {
@@ -6234,6 +6310,24 @@
       "duration_ms": 194120,
       "name": "Here On Out",
       "url": "https://open.spotify.com/track/4XMFDPkR1hEODcZKjixGYU"
+    },
+    {
+      "album": {
+        "name": "Here's The Thing",
+        "url": "https://open.spotify.com/album/63MATGJoOix8OypoCqnJga"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163412,
+      "name": "Here's The Thing",
+      "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
     },
     {
       "album": {
@@ -8917,6 +9011,24 @@
     },
     {
       "album": {
+        "name": "Make Your Way Back To Me",
+        "url": "https://open.spotify.com/album/4QieEdPgit5CHB4DG5z8C5"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210588,
+      "name": "Make Your Way Back To Me",
+      "url": "https://open.spotify.com/track/4rm0AaSomwKARe8tWmZa8X"
+    },
+    {
+      "album": {
         "name": "Makeshift Paradise",
         "url": "https://open.spotify.com/album/4sRT6Ay4AtKae9mW6amj7A"
       },
@@ -10784,7 +10896,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 286418,
       "name": "Open Up!",
       "url": "https://open.spotify.com/track/7gP1Jb8a2GfnrOWnAlvP8Q"
@@ -12712,7 +12824,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
@@ -13156,7 +13268,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157338,
       "name": "slapshot!",
       "url": "https://open.spotify.com/track/2wb1Inhx2cU3OaZUjvZtB2"
@@ -13892,7 +14004,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 221638,
       "name": "Summertime Voodoo - Edit",
       "url": "https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a"
@@ -17094,6 +17206,32 @@
       "duration_ms": 186402,
       "name": "You Can Let Go",
       "url": "https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl"
+    },
+    {
+      "album": {
+        "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+        "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        },
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163934,
+      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+      "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Eva Shaw. The essential tracks, all in one playlist.",
-  "num_followers": 93,
+  "num_followers": 94,
   "original_name": "This Is Eva Shaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADw4TMcgtP5oYbULBijhpKD",
+  "snapshot_id": "ZrQKgAAAAADe2X3sGvqmnm6glL4HEIEM",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "100GANG",
         "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
       },
@@ -539,50 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPE HOP 001",
-        "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "40 BANDS - Hype Hop Edit (feat. Boslen, Kris the $pirit)",
-      "url": "https://open.spotify.com/track/7ba3wESNT2Ffvgn70GcYoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STATIC",
         "url": "https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC"
       },
@@ -623,6 +599,70 @@
       "duration_ms": 214000,
       "name": "RVPTVRE",
       "url": "https://open.spotify.com/track/72WSC2XLOc4Etb3BfDxvrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPE HOP 001",
+        "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "40 BANDS - Hype Hop Edit (feat. Boslen, Kris the $pirit)",
+      "url": "https://open.spotify.com/track/7ba3wESNT2Ffvgn70GcYoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do it Again",
+        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        },
+        {
+          "name": "Jayy Brown",
+          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
+        }
+      ],
+      "duration_ms": 142806,
+      "name": "Do it Again",
+      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
     },
     {
       "added_at": null,
@@ -671,46 +711,6 @@
       "duration_ms": 184000,
       "name": "CLAP - Hype Hop Edit (feat. Nate Husser, Reeves Junya, Nesi)",
       "url": "https://open.spotify.com/track/4IsXsaT7g5hrEXtMKWqsnE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do it Again",
-        "url": "https://open.spotify.com/album/0uzuO11KDcIEz7Hub5J9SC"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Roney",
-          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
-        },
-        {
-          "name": "Jayy Brown",
-          "url": "https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE"
-        }
-      ],
-      "duration_ms": 142806,
-      "name": "Do it Again",
-      "url": "https://open.spotify.com/track/2DyvuLqjixD2t6ZH9lAF0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUIET",
-        "url": "https://open.spotify.com/album/0EBBVTmEP17PMzP7CAfwX8"
-      },
-      "artists": [
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140835,
-      "name": "QUIET",
-      "url": "https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vitamin D (Eva Shaw Remix)",
         "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 160565,
       "name": "Vitamin D - Eva Shaw Remix",
       "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUIET",
+        "url": "https://open.spotify.com/album/0EBBVTmEP17PMzP7CAfwX8"
+      },
+      "artists": [
+        {
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140835,
+      "name": "QUIET",
+      "url": "https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR"
     },
     {
       "added_at": null,
@@ -856,37 +856,21 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "THE CURE",
-      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EASTERISLAND",
-        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
         },
         {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
         },
         {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+          "name": "Young Rose",
+          "url": "https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C"
         }
       ],
-      "duration_ms": 209268,
-      "name": "EASTERISLAND",
-      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
+      "duration_ms": 240000,
+      "name": "WOKE B Hype Hop Edit",
+      "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
     },
     {
       "added_at": null,
@@ -911,6 +895,30 @@
       "duration_ms": 147153,
       "name": "MIX IT UP",
       "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EASTERISLAND",
+        "url": "https://open.spotify.com/album/6fPOD2WR2xjQaIDl0wwFbA"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "EASTERISLAND",
+      "url": "https://open.spotify.com/track/52ZmVF8HmzkRNOWNthIbTu"
     },
     {
       "added_at": null,
@@ -940,21 +948,13 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        },
-        {
-          "name": "RIZ",
-          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
-        },
-        {
-          "name": "Young Rose",
-          "url": "https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 240000,
-      "name": "WOKE B Hype Hop Edit",
-      "url": "https://open.spotify.com/track/2i5FrnPE6cf7ert9Dzb7DY"
+      "duration_ms": 203520,
+      "name": "THE CURE",
+      "url": "https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM"
     },
     {
       "added_at": null,
@@ -1095,46 +1095,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compton (feat. Sha Hustle & Eva Shaw)",
-        "url": "https://open.spotify.com/album/2z24BryUdiBgNh5yQzbJUV"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
       },
       "artists": [
         {
-          "name": "Swagger Rite",
-          "url": "https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR"
-        },
-        {
-          "name": "Sha Hustle",
-          "url": "https://open.spotify.com/artist/3xknp7V30K0Eapc06bXgKf"
-        },
-        {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "pisceze",
+          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
         }
       ],
-      "duration_ms": 118333,
-      "name": "Compton (feat. Sha Hustle & Eva Shaw)",
-      "url": "https://open.spotify.com/track/41PR1gBFgJjUmqUaNioS6r"
+      "duration_ms": 158357,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
+        "name": "100%",
+        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
         }
       ],
-      "duration_ms": 60606,
-      "name": "TOWNHOUSES - Interlude",
-      "url": "https://open.spotify.com/track/5F8kMR7DfbnoYcr63PmWKp"
+      "duration_ms": 169173,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
     }
   ],
   "unique_name": "This Is Eva Shaw",

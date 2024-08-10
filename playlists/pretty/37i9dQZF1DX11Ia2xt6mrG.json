@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58313,
+  "num_followers": 58332,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "LA RUTA X MEXICO, Vol. 1",
-        "url": "https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S"
-      },
-      "artists": [
-        {
-          "name": "FLAKO STIK",
-          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
-        }
-      ],
-      "duration_ms": 240794,
-      "name": "MARCIANO",
-      "url": "https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Tomala (Se Mueve Se Siente)",
         "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 160600,
       "name": "Tomala (Se Mueve Se Siente)",
       "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "LA RUTA X MEXICO, Vol. 1",
+        "url": "https://open.spotify.com/album/38xTcKPmTBt1vAq8vNXh0S"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "duration_ms": 240794,
+      "name": "MARCIANO",
+      "url": "https://open.spotify.com/track/7FyTcAV3bjDTMMsOY1X1RF"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Como Tony",
         "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 212088,
       "name": "Como Tony",
       "url": "https://open.spotify.com/track/4h1xBeWL6aPDkZc6JuSbAb"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "M\u00cdRAME",
-        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "M\u00cdRAME",
-      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "M\u00cdRAME",
+        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "M\u00cdRAME",
+      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Rebote",
         "url": "https://open.spotify.com/album/3MsAsDJ26pdQFdSusFhS7M"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 225230,
       "name": "MASERATI",
       "url": "https://open.spotify.com/track/7nHocPrvEi7mGoguftmCt0"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1267,26 +1287,6 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "NO ESTABA MAL",
-        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "NO ESTABA MAL",
-      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 357703,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Ancara Messi",
         "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 193846,
       "name": "Ancara Messi",
       "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 357703,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
     },
     {
       "added_at": "2024-08-02 06:00:00",

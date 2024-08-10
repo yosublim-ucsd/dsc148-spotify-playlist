@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "ENVY",
+        "url": "https://open.spotify.com/album/4ycNhte5aZy91NZk4iBQfG"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Regimen",
+          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249175,
+      "name": "I Could Fall in Love",
+      "url": "https://open.spotify.com/track/7ydcEgOlAOg0b1ZflBaL9e"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X"
       },

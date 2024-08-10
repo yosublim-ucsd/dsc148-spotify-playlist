@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,417 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,428 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 69 | [Suddenly](https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Suddenly](https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX) | 2:01 |
 | 70 | [Bongos \(feat\. Megan Thee Stallion\) \- DJ SpinKing & DJ Taj Jersey Club Mix](https://open.spotify.com/track/6GbPgkVc7MmUm2mC4QaPW8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DJ SpinKing](https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [Bongos \(feat\. Megan Thee Stallion\) \[DJ SpinKing & DJ Taj Jersey Club Mix\]](https://open.spotify.com/album/1y0OoFahczB4hnMZDAAjcc) | 1:37 |
 | 71 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
-| 72 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 73 | [HATE ME](https://open.spotify.com/track/0trJmHGtsrgcey9CQ3YxrJ) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9) | 2:02 |
+| 72 | [HATE ME](https://open.spotify.com/track/0trJmHGtsrgcey9CQ3YxrJ) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [HATE ME](https://open.spotify.com/album/3iWKVzI8YtUmESnwlwAnV9) | 2:02 |
+| 73 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 75 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
 

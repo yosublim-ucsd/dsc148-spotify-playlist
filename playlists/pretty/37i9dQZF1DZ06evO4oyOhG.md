@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 ### [This Is CHiCO with HoneyWorks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oyOhG)
 
-> This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
+> This is CHiCO with HoneyWorks。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,374 likes - 44 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,373 likes - 44 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 37 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 |
 | 38 | [きっと別れるよ](https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:44 |
 | 39 | [ロデオ](https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [今日もサクラ舞う暁に](https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV) | 3:46 |
-| 40 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
-| 41 | [大人になったね](https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c) | 3:15 |
+| 40 | [大人になったね](https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c) | 3:15 |
+| 41 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
 | 42 | [ロボット](https://open.spotify.com/track/0GBu9RCqUCL8k21OwRkSE1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:46 |
 | 43 | [決戦スピリット（BIBLE version） \- Mixed](https://open.spotify.com/track/3ku5B2Mo9cq66azFT2Mnua) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [DJ Kazu](https://open.spotify.com/artist/1IOPs2IN12TMhz9TzBy1uI) | [ミュージックレイン・オールスターMIX "バイブル" mixed by DJ和](https://open.spotify.com/album/0OKzncJhhkoB8lDgBXochL) | 1:24 |
 | 44 | [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 |
 
-Snapshot ID: `ZrK5AAAAAAC5NWBwQGRHEEiXMu0R7kgy`
+Snapshot ID: `ZrQKgAAAAAAKHUk7I4BiwcOqKnrV72yS`

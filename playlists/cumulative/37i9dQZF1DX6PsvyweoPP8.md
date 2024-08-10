@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-238 songs - 11 hr 41 min
+239 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Me Pede Mais](https://open.spotify.com/track/0eksm4vKtCSSlC9WyzI1ea) | [Wilker](https://open.spotify.com/artist/6DxZiufdSdVSptIGiQvFB2), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Me Pede Mais](https://open.spotify.com/album/2fiATUugLNGtP0GOx3nnuI) | 2:24 | 2023-06-30 | 2023-09-09 |
 | [Meia Noite](https://open.spotify.com/track/117CW2893WqAWbhYoT1r1T) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Meia Noite](https://open.spotify.com/album/0vK40migZmPRt5MWOut01C) | 2:14 | 2023-08-18 |  |
 | [Meia Volta](https://open.spotify.com/track/64HflZuvYHg5rYzVmSbjGu) | [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z), [Safí](https://open.spotify.com/artist/1LcbV2SKedrIQ9SNxm0Ww0), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Meia Volta](https://open.spotify.com/album/0RNzuKlwKrZvU7xwPgEgGP) | 3:14 | 2022-03-18 |  |
+| [Memo Papinho](https://open.spotify.com/track/7r3UTCauWELpPXbgG22yzs) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Memo Papinho](https://open.spotify.com/album/6L9vIxZkJBtkhQ5fjNpD1g) | 2:38 | 2024-08-09 |  |
 | [Menos É Mais](https://open.spotify.com/track/4M7zzV98xk9sUlzHWJU2gx) | [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk), [Yan Souza](https://open.spotify.com/artist/6qmaWTwrHG2WnGKHEyXv2j) | [Menos É Mais](https://open.spotify.com/album/3syOdBgrqsVkFfeixLus7X) | 3:46 | 2022-03-18 | 2022-06-11 |
 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 | 2022-03-18 |  |
 | [Mexe Mexe](https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a), [Yung Drum](https://open.spotify.com/artist/18jsmx1hcUmGvZ0IKWG6KO), [EarKid](https://open.spotify.com/artist/7HgyUDF9EbhOCBc0l29PD8) | [Tipo I\-Doser](https://open.spotify.com/album/67h12hjNOZvIDtJzDijc15) | 4:20 | 2024-02-02 | 2024-03-23 |

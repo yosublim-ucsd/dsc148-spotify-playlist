@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194146,
       "name": "Corre Amor",
       "url": "https://open.spotify.com/track/3qDXOJ1JaK50yFq5GU0B6L"
@@ -2973,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1ando Casa (Soundtrack: Un Tributo a Divisi\u00f3n Min\u00fascula)",
+        "url": "https://open.spotify.com/album/2GH37cvXXWdTQzw9RgYNPh"
+      },
+      "artists": [
+        {
+          "name": "Thermo",
+          "url": "https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Extra\u00f1ando Casa - Soundtrack: Un Tributo a Divisi\u00f3n Min\u00fascula",
+      "url": "https://open.spotify.com/track/2TemL4w69BKllitEqHW3Xl"
+    },
+    {
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/02PKUPTxOOUw2aPJtvBHPo"
       },
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188346,
       "name": "HASTA SIEMPRE",
       "url": "https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ"
@@ -4570,7 +4588,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 177600,
       "name": "Locos",
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
@@ -4994,6 +5012,24 @@
       "duration_ms": 199457,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z"
+    },
+    {
+      "album": {
+        "name": "Putas Canciones",
+        "url": "https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF"
+      },
+      "artists": [
+        {
+          "name": "Joven Tom",
+          "url": "https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154036,
+      "name": "Me Gustan Tus Pies",
+      "url": "https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u"
     },
     {
       "album": {
@@ -8756,6 +8792,28 @@
       "duration_ms": 220192,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1h8YWUXSUn9PMbARBOeJXe"
+    },
+    {
+      "album": {
+        "name": "Verano Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        },
+        {
+          "name": "Anabella Cartolano",
+          "url": "https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164845,
+      "name": "Verano Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
     },
     {
       "album": {

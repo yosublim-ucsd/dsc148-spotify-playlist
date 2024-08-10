@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5174,
+  "description": "This Is Harold Budd. Los temas esenciales, todos en una lista.",
+  "num_followers": 5177,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADjHwSqaVu3QCwnXy92BPkS",
+  "snapshot_id": "ZrQKgAAAAACuj44G3cfQfH7b0aUk8V7O",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 100106,
       "name": "Momentary Architecture",
       "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 434733,
       "name": "A Delicate Romance",
       "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 1107266,
-      "name": "Bismillahi 'Rrahmani 'Rrahim",
-      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Sunlit Silhouette",
-      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 210706,
       "name": "And Then I Turned Away",
       "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Sunlit Silhouette",
+      "url": "https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 85586,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 161626,
-      "name": "A Change in the Weather",
-      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -855,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
         },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 265453,
-      "name": "Outside, Silence",
-      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
+      "duration_ms": 161626,
+      "name": "A Change in the Weather",
+      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
     },
     {
       "added_at": null,
@@ -895,34 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq"
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
       "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 63506,
-      "name": "The Room Obscured",
-      "url": "https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+      "duration_ms": 265453,
+      "name": "Outside, Silence",
+      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
     }
   ],
   "unique_name": "This Is Harold Budd",

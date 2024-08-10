@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:1bdnGJxkbIIys5Jhk1T74v\">Brandon Lake</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:6eJqAWJdd8JhAN1pQGie4r\">Casting Crowns</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 236051,
       "name": "All Because of Mercy (Live at The Ryman)",
       "url": "https://open.spotify.com/track/6JMjhP5hH2RxOSKl6GR4DV"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 215392,
       "name": "Goodness and Mercy",
       "url": "https://open.spotify.com/track/4eMnqnHsNg06CG87IEum5Y"
@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Letting Go For Dear Life",
+        "url": "https://open.spotify.com/album/2Ff1VJi4VypNxjb2a4bdQ4"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Letting Go For Dear Life",
+      "url": "https://open.spotify.com/track/23FhN1EL3dfcAJbR3kWYTC"
+    },
+    {
+      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -4290,6 +4308,24 @@
       "duration_ms": 225506,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE"
+    },
+    {
+      "album": {
+        "name": "Days That We Dreamed Of",
+        "url": "https://open.spotify.com/album/4xXy7tarzpboQsgsMitTfv"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175094,
+      "name": "Look What God Can Do",
+      "url": "https://open.spotify.com/track/41MkqhPWSISUcJaNIGnSG0"
     },
     {
       "album": {
@@ -5101,6 +5137,28 @@
     },
     {
       "album": {
+        "name": "Casting Crowns: A 20 Year Celebration Live at The Ryman",
+        "url": "https://open.spotify.com/album/2FWQYj9oGl7f857rQEt4Wc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295952,
+      "name": "Nobody (Live at The Ryman)",
+      "url": "https://open.spotify.com/track/4Yeb6G23JCnr55KHJYWe5n"
+    },
+    {
+      "album": {
         "name": "Where The Winter Was",
         "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
@@ -5732,7 +5790,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193206,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/65MupW8HuzlBUH0T8XNVKF"
@@ -6044,6 +6102,24 @@
       "duration_ms": 481802,
       "name": "Same God (feat. Jonsal Barrientes)",
       "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
+    },
+    {
+      "album": {
+        "name": "Basic Faith",
+        "url": "https://open.spotify.com/album/0Jo3ugiIh8DU5OHgsiXXpe"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226315,
+      "name": "Same Jesus",
+      "url": "https://open.spotify.com/track/1MzHif37jMiFwZHazy8im1"
     },
     {
       "album": {
@@ -6699,6 +6775,28 @@
     },
     {
       "album": {
+        "name": "Thank You So Much Jesus",
+        "url": "https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Paul Klein",
+          "url": "https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Thank You So Much Jesus",
+      "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -6776,6 +6874,24 @@
       "duration_ms": 258747,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/0x2lQoO0pbXxBmJztRieR5"
+    },
+    {
+      "album": {
+        "name": "Broken Home",
+        "url": "https://open.spotify.com/album/31JnE8pI4B5Wjg7m6u7Ft9"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "The Church",
+      "url": "https://open.spotify.com/track/6r71GI3mbJzpoUFqbGTOC6"
     },
     {
       "album": {
@@ -7016,7 +7132,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 202298,
       "name": "The Lord's Work",
       "url": "https://open.spotify.com/track/6xAp8QNvjVOvkOnNYC6ZUC"
@@ -7728,7 +7844,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 209586,
       "name": "Where I Could've Been",
       "url": "https://open.spotify.com/track/54nSanOV5Twg7uIBeHeDIV"
@@ -7848,6 +7964,24 @@
       "duration_ms": 199398,
       "name": "While We Wait",
       "url": "https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl"
+    },
+    {
+      "album": {
+        "name": "whisper and the wind",
+        "url": "https://open.spotify.com/album/6VljPHqIehrP1GEPKobGDu"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197652,
+      "name": "whisper and the wind",
+      "url": "https://open.spotify.com/track/2FmLCb7nZpqLFmVMW8ALt3"
     },
     {
       "album": {
@@ -8206,6 +8340,24 @@
       "duration_ms": 236261,
       "name": "You Changed My Name - Jon Reddick Collab Version",
       "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
+    },
+    {
+      "album": {
+        "name": "You Don't Leave Me",
+        "url": "https://open.spotify.com/album/65DV27ToLxreBoQGJxErHc"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214572,
+      "name": "You Don't Leave Me",
+      "url": "https://open.spotify.com/track/7uARzsxIFbFvZc0xZC8Aca"
     },
     {
       "album": {

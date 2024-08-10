@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:44RfC7kgNNz6s2MD3gJqXX\">TOMATULUGAR</a> ",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: <a href=\"spotify:artist:2gaFnEQydJdWNkT17NLZm3\">Su Presencia</a> ",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Conocer A Dios",
+        "url": "https://open.spotify.com/album/35YwXrOj2fXzmVx6km8Fbm"
+      },
+      "artists": [
+        {
+          "name": "Gracia Soberana M\u00fasica",
+          "url": "https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254532,
+      "name": "Consumado Es",
+      "url": "https://open.spotify.com/track/1xjvPhD1vglMDUlAAdCwcb"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fHJeRf0DQquLgrwp4P9au"
       },
@@ -3198,6 +3216,28 @@
       "duration_ms": 608782,
       "name": "Desciende",
       "url": "https://open.spotify.com/track/7y3AXem43My0T7xFxryBPL"
+    },
+    {
+      "album": {
+        "name": "Desirable",
+        "url": "https://open.spotify.com/album/0BCyuqmhvDllxm2UJ8Hjhb"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 731465,
+      "name": "Desirable",
+      "url": "https://open.spotify.com/track/5UREzf4cUiZ9gkmcl7poLe"
     },
     {
       "album": {
@@ -4822,7 +4862,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181589,
       "name": "ESTOY - Reimagined",
       "url": "https://open.spotify.com/track/2IzAIFEvz45VaAO8xv6NCh"
@@ -6596,7 +6636,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 372423,
       "name": "Le\u00f3n",
       "url": "https://open.spotify.com/track/3pt0tMzHZQOY473maaT5sW"
@@ -6796,6 +6836,24 @@
       "duration_ms": 168493,
       "name": "Lo Que T\u00fa Digas",
       "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
+    },
+    {
+      "album": {
+        "name": "CONCIERTO TIENES EL CONTROL (En Vivo)",
+        "url": "https://open.spotify.com/album/4xnhkR5TkhW1i0Jd5tiTH6"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272307,
+      "name": "Lo tengo todo en ti - En Vivo",
+      "url": "https://open.spotify.com/track/3N8fdyXhkqu77NsACuAObN"
     },
     {
       "album": {
@@ -7674,6 +7732,24 @@
       "duration_ms": 292891,
       "name": "Mi Proceso - (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/7kS9xabaX3a5qVsA5w5vQZ"
+    },
+    {
+      "album": {
+        "name": "Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/3NmzFV0ppcdGcLKmjHHuDw"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247103,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/0eRkknh8nVAbPadLYhoHbL"
     },
     {
       "album": {
@@ -8670,7 +8746,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 215172,
       "name": "Noche Al Dia",
       "url": "https://open.spotify.com/track/1cmGA4i3195uoFW9dgQAXc"
@@ -10316,7 +10392,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 560624,
       "name": "Siempre que me mires",
       "url": "https://open.spotify.com/track/11Pt5mS9HuvdDBTjWNg9k9"

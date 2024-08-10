@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1579465,
+  "num_followers": 1579642,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Anarchy in the U.K.",
-      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Entertainment!",
         "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 207200,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Anarchy in the U.K.",
+      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 128906,
       "name": "Code Blue",
       "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6pkv89yzv9kw6Vxhz8nSIH"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Day the Country Died",
         "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 164200,
       "name": "Mickey Mouse Is Dead",
       "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
-        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 312040,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+        "url": "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 312040,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "This Is The Modern World",
         "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 150626,
       "name": "The Modern World",
       "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "This Year's Model",
+        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 148706,
       "name": "Hypnotised",
       "url": "https://open.spotify.com/track/0BhFhl0oaXQR4gaDphLYfE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
       },
@@ -1505,6 +1489,22 @@
       "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Blank Generation",
+        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blank Generation",
+      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
+    },
+    {
       "added_at": "2024-01-11 00:51:37",
       "album": {
         "name": "Germ Free Adolescents: The Anthology",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Blank Generation",
-        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
       },
       "artists": [
         {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Blank Generation",
-      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "First Two 7s",
-        "url": "https://open.spotify.com/album/3OirN90yBh2bSaIHcWyGsV"
+        "name": "Damned Damned Damned",
+        "url": "https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9"
       },
       "artists": [
         {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
         }
       ],
-      "duration_ms": 47226,
-      "name": "Straight Edge",
-      "url": "https://open.spotify.com/track/1xXKacUn8XhZ2ifv05RjL1"
+      "duration_ms": 164640,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/6sC3btkeaVA9IEhe0qbifj"
     }
   ],
   "unique_name": "Classic Punk",

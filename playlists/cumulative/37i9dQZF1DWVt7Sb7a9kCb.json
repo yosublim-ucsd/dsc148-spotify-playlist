@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
+    },
+    {
+      "album": {
         "name": "3 Para Las 10",
         "url": "https://open.spotify.com/album/3mBtyEcrlOoTTkYwNgrGum"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175145,
       "name": "Ahora que no est\u00e1s sola",
       "url": "https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189289,
       "name": "Ata\u00fad",
       "url": "https://open.spotify.com/track/3kcJIBxTUeAkCdMiapjJNm"
@@ -730,6 +748,24 @@
       "duration_ms": 206760,
       "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
       "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
+    },
+    {
+      "album": {
+        "name": "Azulito",
+        "url": "https://open.spotify.com/album/063BBK8zHGt6kTT7BPf8Sq"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Azulito",
+      "url": "https://open.spotify.com/track/4i3HUgcLSXRoonkFa80WDf"
     },
     {
       "album": {
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 158597,
       "name": "Bien Te Va - Remix",
       "url": "https://open.spotify.com/track/3PFzywU250T4punPFDNzW5"
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224680,
       "name": "Blindado",
       "url": "https://open.spotify.com/track/49davvNZnoNdTHal81Rt8F"
@@ -1223,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Barrio Colombia 2",
+        "url": "https://open.spotify.com/album/6fIjvLMs5MONSup1q7VFpe"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152957,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/6XhrMNZsZiKi68rQeoOR0b"
+    },
+    {
+      "album": {
         "name": "Afro Vibes",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -1242,7 +1296,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
@@ -1508,7 +1562,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150000,
       "name": "Ciclorama Sesh Cap.4: Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/4Zont12fqeprn2xdoi1R4K"
@@ -2148,7 +2202,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 129893,
       "name": "DM",
       "url": "https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK"
@@ -4470,7 +4524,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170585,
       "name": "Me Provoca",
       "url": "https://open.spotify.com/track/75qURa6pmAERaWCZ0j0vbK"
@@ -5158,7 +5212,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 204826,
       "name": "Nunca Tristes (Me Vale Madre)",
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
@@ -5676,7 +5730,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -5896,7 +5950,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 114285,
       "name": "q macizo te valgo vrga",
       "url": "https://open.spotify.com/track/1ldKQrLChHxRskT8p5uvkh"
@@ -6130,7 +6184,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 152574,
       "name": "RDC",
       "url": "https://open.spotify.com/track/48FhKMV4r50qBfpbZugaPv"
@@ -7266,7 +7320,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222747,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/3orygz2wfZ3PkXYi0RTtef"

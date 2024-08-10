@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "album": {
         "name": "Most Known Unknown",
         "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
@@ -4956,6 +4974,24 @@
       "duration_ms": 186136,
       "name": "Houston BBQ (feat. Bun B)",
       "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
+    },
+    {
+      "album": {
+        "name": "How I Live",
+        "url": "https://open.spotify.com/album/1kqsEvSPVl5q6xkESvTkDu"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "How I Live",
+      "url": "https://open.spotify.com/track/25V0U3bqjiis50GpHQvSLY"
     },
     {
       "album": {
@@ -6148,6 +6184,24 @@
       "duration_ms": 196880,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/2dRwRtYFH95QcMcRhUVWBB"
+    },
+    {
+      "album": {
+        "name": "let's pretend we're numb",
+        "url": "https://open.spotify.com/album/5MmwkV5cSX2MQJpo1mMa5V"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80105,
+      "name": "let's pretend we're numb",
+      "url": "https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW"
     },
     {
       "album": {
@@ -8909,6 +8963,24 @@
     },
     {
       "album": {
+        "name": "Reap the City P2",
+        "url": "https://open.spotify.com/album/6bVIDNzCGQKxvowCVDEcVK"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Reap the City P2",
+      "url": "https://open.spotify.com/track/5kH2TnSD7jgEzlcSWXRZXl"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -9238,6 +9310,28 @@
       "duration_ms": 137543,
       "name": "RPG",
       "url": "https://open.spotify.com/track/0cLT5haLhr9izUF0rmTTwh"
+    },
+    {
+      "album": {
+        "name": "Rumble (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/0bhN1iv5anr0CMMkfJEIDW"
+      },
+      "artists": [
+        {
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180894,
+      "name": "Rumble (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/0b7TdcjKAnlLuEEP9g8kKq"
     },
     {
       "album": {

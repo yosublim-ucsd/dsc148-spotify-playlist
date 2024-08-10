@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: CYRIL",
-  "num_followers": 377118,
+  "num_followers": 377194,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-08-08 14:11:11",
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": "2024-08-08 14:11:11",
+      "album": {
         "name": "Ripples In The Timeline",
         "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
       },
@@ -431,6 +447,22 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "added_at": "2024-08-08 14:11:11",
+      "album": {
+        "name": "Mirror 25",
+        "url": "https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "Whoop",
+      "url": "https://open.spotify.com/track/4L6qcTaDXQc4wEmsd8C8oO"
     },
     {
       "added_at": "2024-08-08 14:11:11",
@@ -847,6 +879,22 @@
     {
       "added_at": "2024-08-08 14:11:11",
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2024-08-08 14:11:11",
+      "album": {
         "name": "Run It Up (feat. BossMan Dlow)",
         "url": "https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2"
       },
@@ -1159,22 +1207,6 @@
       "duration_ms": 173996,
       "name": "Why I Love You So",
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
-    },
-    {
-      "added_at": "2024-08-08 14:11:11",
-      "album": {
-        "name": "The One That You Call - Piano",
-        "url": "https://open.spotify.com/album/6tjmRmokYJBKwjQpo6mf93"
-      },
-      "artists": [
-        {
-          "name": "Mackenzy Mackay",
-          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
-        }
-      ],
-      "duration_ms": 120526,
-      "name": "The One That You Call - Piano",
-      "url": "https://open.spotify.com/track/0e00DxJefEb6SunidIj2TN"
     },
     {
       "added_at": "2024-08-08 14:11:11",

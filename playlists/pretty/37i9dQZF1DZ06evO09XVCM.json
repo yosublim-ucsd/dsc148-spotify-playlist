@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 33186,
+  "num_followers": 33192,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADX2N2xtPdyQ+cBn5JW3qPu",
+  "snapshot_id": "ZrQKgAAAAABcnW0ZGTWMR/udvXjhcYc4",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 161693,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the only",
         "url": "https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9"
       },
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
       },
       "artists": [
         {
@@ -872,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 161693,
-      "name": "Black Cat",
-      "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebellion Rises",
         "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Story Short: Willie Nelson 90 (Live At The Hollywood Bowl)",
-        "url": "https://open.spotify.com/album/1d6bEE3fpUfav6T1IdUBth"
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/3c7fo7FWxD6XqTlJ77uF0r"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 200413,
-      "name": "Still Is Still Moving To Me - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
-      "url": "https://open.spotify.com/track/1Achm7qxXbkawlhQgRPoJv"
+      "duration_ms": 294106,
+      "name": "Personal Revolution",
+      "url": "https://open.spotify.com/track/2wtbphcz9aYNU8ONf8OkrB"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

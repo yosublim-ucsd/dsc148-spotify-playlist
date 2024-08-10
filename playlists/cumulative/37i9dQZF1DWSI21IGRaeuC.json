@@ -796,7 +796,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 341872,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
@@ -1090,6 +1090,24 @@
       "duration_ms": 508571,
       "name": "Control",
       "url": "https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF"
+    },
+    {
+      "album": {
+        "name": "Dolce Far Niente",
+        "url": "https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww"
+      },
+      "artists": [
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481343,
+      "name": "Courtyard",
+      "url": "https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg"
     },
     {
       "album": {
@@ -2191,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Gritty Dance",
+        "url": "https://open.spotify.com/album/4KhxKZ6Igqv2uiHeVQCGCl"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        },
+        {
+          "name": "Angel Sanchez",
+          "url": "https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492315,
+      "name": "Gritty Dance",
+      "url": "https://open.spotify.com/track/0GQQRGWgPcE2Tj35gS49ys"
+    },
+    {
+      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/3vERVTVUvIE7JRPr5wlQwq"
       },
@@ -2550,7 +2590,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 399659,
       "name": "I'm Surprised",
       "url": "https://open.spotify.com/track/38Fn0HQllNrRjcaRsA8dKW"
@@ -2960,6 +3000,24 @@
       "duration_ms": 178609,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
+      "album": {
+        "name": "On The Ground - EP",
+        "url": "https://open.spotify.com/album/1Ft1BFSDVrkqpM9VvtRJt3"
+      },
+      "artists": [
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/5jArQDIG7wMPLJoxuFTleo"
     },
     {
       "album": {
@@ -3514,7 +3572,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178027,
       "name": "Moon",
       "url": "https://open.spotify.com/track/181XnwgJTJpeKkpS2zQOAF"
@@ -3732,7 +3790,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190449,
       "name": "No Turning Back",
       "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
@@ -3946,6 +4004,24 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198187,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
     },
     {
       "album": {
@@ -5264,7 +5340,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
@@ -6442,7 +6518,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218181,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6ayg5ddXVYrcYOjwJvtbGq"
@@ -6620,7 +6696,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
@@ -6970,7 +7046,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 417300,
       "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
       "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"

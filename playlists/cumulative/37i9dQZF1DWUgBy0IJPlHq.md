@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Charley Crockett
 
-581 songs - 1 day 11 hr 37 min
+582 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 | 2021-12-17 | 2022-04-09 |
 | [Get Lucky](https://open.spotify.com/track/4ZCko883ozgRWoVX92CySJ) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Get Lucky](https://open.spotify.com/album/1GeMArEzZQYAM09KA8cplb) | 2:45 | 2022-04-29 | 2022-07-16 |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-02-11 | 2022-08-27 |
-| [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 | 2024-03-08 |  |
+| [Gettin' Rich, Goin' Broke](https://open.spotify.com/track/3EYuaUD1h9poig88XzuBp3) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:04 | 2024-03-08 | 2024-08-10 |
 | [Gettin’ By](https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Gettin’ By](https://open.spotify.com/album/4Tsf7EtiMsYZyPwAoXK7co) | 3:59 | 2022-04-08 | 2022-05-14 |
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-05 | 2023-07-22 |
 | [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 | 2023-04-14 |  |
@@ -580,6 +580,7 @@
 | [Yearnin’ For You](https://open.spotify.com/track/3bBWNi61k8Re8QQ01LtcIC) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Yearnin’ For You](https://open.spotify.com/album/0l689IAwF2gVXd6Z5jmoz0) | 3:35 | 2024-04-12 |  |
 | [Years](https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Years](https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G) | 2:59 | 2022-07-01 |  |
 | [Yes I Guess They Oughta Name A Drink After You](https://open.spotify.com/track/3ifJHM1SYSZUSwIrJZIPQg) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 2:52 | 2021-12-17 | 2022-02-19 |
+| [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/album/3Nfd8Qm3oYcFqMsa527Lvc) | 2:45 | 2024-08-09 |  |
 | [You Asked Me To](https://open.spotify.com/track/0fQTCoVkHfqJwMrBQ5IDLR) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Jodi Lyford](https://open.spotify.com/artist/2CvEMKeg5myDU4WfqqZiru) | [You Asked Me To](https://open.spotify.com/album/6PUdkUbLe5thp9AOJp1nTM) | 4:28 | 2022-02-04 | 2022-10-15 |
 | [You Asked Me To](https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4) | 2:51 | 2022-11-11 | 2024-06-29 |
 | [You Asked Me To](https://open.spotify.com/track/6APPu400DTzDIZ1ZXSprnJ) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/3dbBTUeh5OqW88phCpba2m) | 2:51 | 2024-04-12 | 2024-04-19 |

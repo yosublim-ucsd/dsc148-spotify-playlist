@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Don't Take Me As A Fool",
+        "url": "https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2"
+      },
+      "artists": [
+        {
+          "name": "Thee Heart Tones",
+          "url": "https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232177,
+      "name": "Don't Take Me As A Fool",
+      "url": "https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Lose You",
         "url": "https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw"
       },
@@ -4852,7 +4870,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171408,
       "name": "Need Something More",
       "url": "https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9"
@@ -4928,6 +4946,24 @@
       "duration_ms": 164949,
       "name": "No Longer Mine",
       "url": "https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd"
+    },
+    {
+      "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116550,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
     },
     {
       "album": {
@@ -5322,7 +5358,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219950,
       "name": "Over",
       "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"

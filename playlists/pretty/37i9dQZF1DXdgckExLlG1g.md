@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: <a href="spotify:artist:6pRi6EIPXz4QJEOEsBaA0m">Chris Tomlin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,511 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,468 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

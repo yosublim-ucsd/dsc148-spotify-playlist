@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems from artists carving their own path. cover: Jonah Yano",
+  "description": "gems from artists carving their own path. cover: The Dare",
   "name": "outliers",
   "tracks": [
     {
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216201,
       "name": "Artificial Genuine",
       "url": "https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9"
@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Tender the Spark",
+        "url": "https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Blue Sun",
+      "url": "https://open.spotify.com/track/4qieeXax0QsScQUBiDtqA9"
+    },
+    {
+      "album": {
         "name": "Blue World",
         "url": "https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM"
       },
@@ -2906,6 +2924,24 @@
       "duration_ms": 204000,
       "name": "Bombo Papi - Edit",
       "url": "https://open.spotify.com/track/1TroB6d70fx4rhfJdOLM0V"
+    },
+    {
+      "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "album": {
@@ -5773,6 +5809,32 @@
     },
     {
       "album": {
+        "name": "Do Something!",
+        "url": "https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131660,
+      "name": "Do Something!",
+      "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
+      "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
       },
@@ -7522,6 +7584,24 @@
       "duration_ms": 208710,
       "name": "feel good inc (bbno$ re-finessed) - spotify single",
       "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
+    {
+      "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229903,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
     },
     {
       "album": {
@@ -9300,7 +9380,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 340934,
       "name": "He Venido al Mar - short mix",
       "url": "https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8"
@@ -10574,6 +10654,24 @@
       "duration_ms": 188920,
       "name": "I Need",
       "url": "https://open.spotify.com/track/2dXp3Fgo5FkV2xxm0bUih8"
+    },
+    {
+      "album": {
+        "name": "CALL ME TWICE PT. 1",
+        "url": "https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA"
+      },
+      "artists": [
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269247,
+      "name": "I Never Knew You Well",
+      "url": "https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh"
     },
     {
       "album": {
@@ -13018,7 +13116,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156000,
       "name": "Love",
       "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
@@ -14512,7 +14610,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 244000,
       "name": "MUERTE PROFUNDA",
       "url": "https://open.spotify.com/track/20WiJleGqh8LoVrW0jE4Sm"
@@ -16575,6 +16673,24 @@
     },
     {
       "album": {
+        "name": "para siempre(\uff61>\ufe4f<)",
+        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
+    },
+    {
+      "album": {
         "name": "PRAYERS & PARANOIA",
         "url": "https://open.spotify.com/album/5l1Amt0Ll7yqnKEwxTE49R"
       },
@@ -16714,6 +16830,24 @@
       "duration_ms": 135524,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/0SdxAcV6Ef4xu8CklaiQLW"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147101,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
     },
     {
       "album": {
@@ -17154,7 +17288,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219666,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze"
@@ -17550,7 +17684,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/4PWc65kJf7tKzgINh7rQmK"
@@ -20985,6 +21119,28 @@
     },
     {
       "album": {
+        "name": "Summer 2000 Baby / Take a Trip",
+        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242410,
+      "name": "Summer 2000 Baby",
+      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
+    },
+    {
+      "album": {
         "name": "SummerTime",
         "url": "https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4"
       },
@@ -23488,7 +23644,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208713,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t"
@@ -23934,7 +24090,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182857,
       "name": "Waterworks",
       "url": "https://open.spotify.com/track/5hgUndN85doaU8jf6sM1Tj"

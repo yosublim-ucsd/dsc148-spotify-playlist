@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-143 songs - 8 hr 7 min
+144 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Blue Ridge Mountains](https://open.spotify.com/track/0X6wrG9bGZl5mz8Af6AaC7) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 2:51 | 2022-08-06 | 2023-06-19 |
 | [Blue Ridge Mountains](https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 2:51 | 2023-06-18 |  |
 | [Blue Ridge Mountains](https://open.spotify.com/track/6uMLaQcGvs5Jv9Cgiq3nWo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 2:51 | 2023-11-10 | 2024-01-21 |
-| [Bluephoria](https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe) | 4:32 | 2024-07-14 |  |
+| [Bluephoria](https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/0ysRyDkvfLlzOMPGOYzNZe) | 4:32 | 2024-07-14 | 2024-08-10 |
+| [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 | 2024-08-10 |  |
 | [Blunt](https://open.spotify.com/track/22KxHFvbIk1r3N5gK7Q5vD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:24 | 2022-08-05 | 2022-11-14 |
 | [Bolt Cutters & The Family Name](https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:15 | 2022-11-13 |  |
 | [California King](https://open.spotify.com/track/6R6CYB7cTXHsDVIoat8gD0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:18 | 2022-09-28 | 2023-06-13 |
@@ -139,8 +140,8 @@
 | [Take What You Want](https://open.spotify.com/track/7sWWzkcObUVBnQT4TIae22) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 2:59 | 2023-07-03 |  |
 | [Take What You Want](https://open.spotify.com/track/7yzGHEaHdojlhWejgqwmkX) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 2:59 | 2022-08-05 | 2023-03-27 |
 | [Tears Of Blue To Gold](https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 3:12 | 2022-08-05 | 2023-03-26 |
-| [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 | 2023-03-25 |  |
-| [Tears Of Blue To Gold](https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:12 | 2023-11-10 | 2024-08-06 |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:12 | 2023-03-25 | 2024-08-10 |
+| [Tears Of Blue To Gold](https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/0LoCekPqAvmILfr01rK9ea) | 3:12 | 2023-11-10 |  |
 | [Tired](https://open.spotify.com/track/3qBOQ0NdjQyTUHJLhTv70H) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 3:46 | 2022-08-05 | 2022-10-12 |
 | [To Myself](https://open.spotify.com/track/69e8OlPGNV0yAZlOjbbsRy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Spring](https://open.spotify.com/album/39T4bgcPVXPhJorYSvErpp) | 3:48 | 2022-08-05 | 2022-10-13 |
 | [Tom Devil](https://open.spotify.com/track/2PuIl8FZD4khF7lAt4UK2t) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 2:44 | 2023-06-16 | 2023-06-18 |

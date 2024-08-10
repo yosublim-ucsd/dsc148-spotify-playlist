@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: Enchanting",
+  "description": "Real Rap. All Pressure. Cover: Monaleo",
   "name": "Pressure",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 266322,
       "name": "Banded Up (feat. Tierra Whack)",
       "url": "https://open.spotify.com/track/7tmgmrJYAGshsUHUNWPMlO"
@@ -1712,6 +1712,24 @@
       "duration_ms": 188421,
       "name": "Blick (feat. NLE Choppa) - Remix",
       "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Blick Sum",
+      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
     },
     {
       "album": {
@@ -3275,6 +3293,28 @@
     },
     {
       "album": {
+        "name": "Don Who Leo - A\u00f1ejo Remix",
+        "url": "https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150408,
+      "name": "Don Who Leo - A\u00f1ejo Remix",
+      "url": "https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi"
+    },
+    {
+      "album": {
         "name": "Don't Deserve",
         "url": "https://open.spotify.com/album/7qxkb6P8rBSqLQCSeXx3CP"
       },
@@ -3788,7 +3828,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171290,
       "name": "Extra",
       "url": "https://open.spotify.com/track/4QoR7gJ9h4TAhkgCsK8pfK"
@@ -4520,6 +4560,28 @@
       "duration_ms": 110098,
       "name": "GEMINI+",
       "url": "https://open.spotify.com/track/51kLCQF2P7yszyBKlZVB85"
+    },
+    {
+      "album": {
+        "name": "Get In There (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195005,
+      "name": "Get In There (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
     },
     {
       "album": {
@@ -6462,7 +6524,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 101668,
       "name": "Log Off",
       "url": "https://open.spotify.com/track/7zkeBgkM5v9VEDeGqggJbM"
@@ -6987,6 +7049,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/70vJTEDVykVlyoS01UiUKL"
+      },
+      "artists": [
+        {
+          "name": "Heaven",
+          "url": "https://open.spotify.com/artist/0uaJXiIMrpbOV91Z9JxOL1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120120,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/1hNzz5ifZdDgDq4FcVfu3g"
+    },
+    {
+      "album": {
         "name": "Miss Understood",
         "url": "https://open.spotify.com/album/60F353R0WRwp8meusGnKcQ"
       },
@@ -7346,7 +7426,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157192,
       "name": "Neva (feat. Monaleo)",
       "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
@@ -8014,6 +8094,28 @@
       "duration_ms": 177319,
       "name": "On The Come Up",
       "url": "https://open.spotify.com/track/2woZp7c5x1ZP5iSWKj4J2Z"
+    },
+    {
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/0grtHFWzNqvB28CV0PsvX4"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/05rqovaF53w9op4snRPaK7"
     },
     {
       "album": {
@@ -8913,6 +9015,24 @@
     },
     {
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/3XJaGjWc4WWbYscxJoE5QI"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/08BFS5v1nfJO8cnNqmuZGS"
+    },
+    {
+      "album": {
         "name": "No Luv",
         "url": "https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7"
       },
@@ -9362,7 +9482,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132816,
       "name": "Rich Money",
       "url": "https://open.spotify.com/track/6ARCh6JHWUeDBAw5Q1WMYM"
@@ -10048,7 +10168,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 162324,
       "name": "She's Back",
       "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
@@ -11414,7 +11534,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 138000,
       "name": "Throw Dat",
       "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
@@ -11626,7 +11746,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 137150,
       "name": "Treat U Better",
       "url": "https://open.spotify.com/track/16UnzCaCh43Nixbfiv4ZPb"
@@ -11698,7 +11818,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140800,
       "name": "TTG (Go)",
       "url": "https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05"
@@ -11993,6 +12113,28 @@
     },
     {
       "album": {
+        "name": "Wanna Get Sexy (with Bay Swag)",
+        "url": "https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Wanna Get Sexy (with Bay Swag)",
+      "url": "https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT"
+    },
+    {
+      "album": {
         "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
         "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
       },
@@ -12132,6 +12274,24 @@
       "duration_ms": 121927,
       "name": "Wat U Need",
       "url": "https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9"
+    },
+    {
+      "album": {
+        "name": "Waterproof",
+        "url": "https://open.spotify.com/album/1p2uKAYBHcfUEq0zaz0Rch"
+      },
+      "artists": [
+        {
+          "name": "Steph G",
+          "url": "https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143120,
+      "name": "Waterproof",
+      "url": "https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk"
     },
     {
       "album": {

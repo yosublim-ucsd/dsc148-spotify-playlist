@@ -534,7 +534,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-13",
+      "date_removed": null,
       "duration_ms": 184375,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
@@ -2285,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "El M\u00e1s Popular - Remix",
+        "url": "https://open.spotify.com/album/3LP8U2XNMpWVk1ICV8BU3w"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189032,
+      "name": "El M\u00e1s Popular - Remix",
+      "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
+    },
+    {
+      "album": {
         "name": "El No Va a Venir",
         "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
       },
@@ -2812,7 +2834,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173949,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
@@ -3734,7 +3756,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 197288,
       "name": "Lejos de Tu Alma",
       "url": "https://open.spotify.com/track/0ViLNOOz03XlxlOG6NwmZO"

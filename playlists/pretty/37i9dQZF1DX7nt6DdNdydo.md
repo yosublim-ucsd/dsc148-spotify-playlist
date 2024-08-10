@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,768 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,782 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 29 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
 | 30 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
 | 31 | [Soft](https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection..\. Plus](https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl) | 2:33 |
-| 32 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
-| 33 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
+| 32 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
+| 33 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
 | 34 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
 | 35 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
 | 36 | [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 |

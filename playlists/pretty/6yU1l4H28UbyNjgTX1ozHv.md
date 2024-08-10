@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 9,035 likes - 131 songs - 7 hr 3 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 9,034 likes - 131 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 10 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 |
 | 11 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/1S8QuVTrjyVNPrsDIdcjpk) | 2:56 |
 | 12 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
-| 13 | [\(Your Love Keeps Lifting Me\) Higher & Higher \- Acoustic](https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [\(Your Love Keeps Lifting Me\) Higher & Higher \[Acoustic\]](https://open.spotify.com/album/5xxYqq9qp6qmTbusizp692) | 2:48 |
+| 13 | [When a Man Loves a Woman \- Acoustic](https://open.spotify.com/track/2PN98rN23SlUeFWEsuzj9u) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [When a Man Loves a Woman \(Acoustic\)](https://open.spotify.com/album/07CClNjoAklrtFbP4fSlbb) | 2:03 |
 | 14 | [You Sexy Thing \- Acoustic](https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [You Sexy Thing \(Acoustic\)](https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z) | 3:12 |
 | 15 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
 | 16 | [I'm a Believer \- Acoustic](https://open.spotify.com/track/3YZxfxxOyaneUFobNYlVlA) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [I'm a Believer \(Acoustic\)](https://open.spotify.com/album/21sYbjhRnRJMmSI60vUP9F) | 2:53 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 34 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 |
 | 35 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 |
 | 36 | [Waiting for a Star to Fall \- Acoustic](https://open.spotify.com/track/5dKgIGngjXSaseLDSaCkj0) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Waiting for a Star to Fall \(Acoustic\)](https://open.spotify.com/album/50mfevy8r6BfVbRIbP6ng4) | 2:44 |
-| 37 | [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \(Acoustic\)](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 |
+| 37 | [Flowers \- Acoustic](https://open.spotify.com/track/7uSAkK0jL8Go2YyO8T2kt6) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Flowers \- Acoustic](https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn) | 3:43 |
 | 38 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 39 | [Make Me Smile \(Come Up and See Me\) \- Acoustic](https://open.spotify.com/track/70pB50X1SwOwNnjzAKh4el) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Make Me Smile \(Come Up and See Me\) \[Acoustic\]](https://open.spotify.com/album/0Z8eRmD2Pz3JJ6VoVnzznC) | 3:29 |
 | 40 | [Dream a Little Dream of Me \- Acoustic](https://open.spotify.com/track/2FzyBzNl3GdsUEu6UYvgaa) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Dream a Little Dream of Me \(Acoustic\)](https://open.spotify.com/album/2G2lk9Ge11GkDwlBR9BbUJ) | 2:38 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 130 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 |
 | 131 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 
-Snapshot ID: `AAAFAbOJsIA9cJQKrqPQhHT4C95preVm`
+Snapshot ID: `AAAFA5y6d/eWhFye3+iCp9Yjz3Tsy+Z9`

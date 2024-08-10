@@ -2,9 +2,9 @@
 
 ### [Artists To Watch 2024](https://open.spotify.com/playlist/37i9dQZF1DX3I51YwwOUVo)
 
-> Get to know our 2024 Artists to Watch! Cover: Mochakk
+> Get to know our 2024 Artists to Watch! Cover: Destroy Boys
 
-94 songs - 5 hr 9 min
+95 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2024-01-10 |  |
 | [Birthday](https://open.spotify.com/track/24b5TbtIBm5xRixapLABo7) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Birthday](https://open.spotify.com/album/1xnYdPt8wEZyOwH8Q9GCNY) | 3:59 | 2024-04-05 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2024-01-10 |  |
-| [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-07 |  |
+| [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-07 | 2024-08-10 |
 | [BREAK IT IN A BAR](https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [BREAK IT IN A BAR](https://open.spotify.com/album/7d2E2k2Sr1Lcw86XdIHNRd) | 3:39 | 2024-01-10 |  |
 | [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2024-01-10 |  |
 | [Bud Light The Way](https://open.spotify.com/track/2Hg4pSdvKX11F0qzrylTYE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bud Light The Way](https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0) | 3:10 | 2024-04-05 |  |
@@ -101,6 +101,7 @@
 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 | 2024-01-10 |  |
 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 | 2024-05-31 |  |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Yahyuppiyah \(feat\. Pcee, EeQue, & Chley\)](https://open.spotify.com/album/1o4qQoueKYWmGiSrKFoB3C) | 4:56 | 2024-01-10 |  |
+| [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-09 |  |
 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2024-01-10 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

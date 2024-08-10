@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225523,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/1UXa2qZ0LOuMP6ye1hwHCV"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156195,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/3Jhy1g4W3ODoVAewdnAHqq"
@@ -204,6 +204,24 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "album": {
+        "name": "Bestfriend",
+        "url": "https://open.spotify.com/album/76vbR7asUO8VIocCk9iPx2"
+      },
+      "artists": [
+        {
+          "name": "Andre Graham",
+          "url": "https://open.spotify.com/artist/7IJtrjrxKAptihBlNLCxKy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bestfriend",
+      "url": "https://open.spotify.com/track/1uosp1IiH0HiPg3eBzcT9v"
     },
     {
       "album": {
@@ -369,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/5qUET0VOV6QFplvQZ9wbKe"
+      },
+      "artists": [
+        {
+          "name": "KYLE ZION",
+          "url": "https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212559,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/2XFG1Qwv5IHqWNG2NucpSg"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -384,6 +420,24 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/2yKzcsmcXuiarCQCIls9Cw"
+      },
+      "artists": [
+        {
+          "name": "Tannah",
+          "url": "https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179445,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u"
     },
     {
       "album": {
@@ -608,7 +662,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176170,
       "name": "Give Me Everything",
       "url": "https://open.spotify.com/track/0dOpKW6fWTbtaLhEgU4z0d"
@@ -919,6 +973,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -1028,6 +1100,24 @@
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+    },
+    {
+      "album": {
+        "name": "Little Boy Ego",
+        "url": "https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ"
+      },
+      "artists": [
+        {
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140752,
+      "name": "Little Boy Ego",
+      "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
     },
     {
       "album": {
@@ -1198,6 +1288,24 @@
       "duration_ms": 203906,
       "name": "Move Your Way",
       "url": "https://open.spotify.com/track/081nFsTcFxZTeArbLlukX8"
+    },
+    {
+      "album": {
+        "name": "Love the Texture, Hate the Taste",
+        "url": "https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277293,
+      "name": "Nectarines",
+      "url": "https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4"
     },
     {
       "album": {
@@ -1494,7 +1602,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224002,
       "name": "Steady",
       "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
@@ -1584,7 +1692,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
@@ -1692,7 +1800,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 209445,
       "name": "UNDERCOVER",
       "url": "https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ"
@@ -1728,7 +1836,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 145851,
       "name": "Warning Shot",
       "url": "https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh"
@@ -1862,6 +1970,24 @@
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

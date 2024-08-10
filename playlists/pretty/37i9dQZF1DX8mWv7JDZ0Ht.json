@@ -1,15 +1,15 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434578,
+  "num_followers": 434611,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxLsAAAAAC9jhER76WwhlVrurFwk/vN",
+  "snapshot_id": "ZrYqFAAAAAANzwrESmnHiUSTEjV+xS8i",
   "tracks": [
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Dentro de Um Pra Sempre",
+        "url": "https://open.spotify.com/album/08iFkrBPToLgMmI78o7W5M"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 136312,
+      "name": "Dentro de Um Pra Sempre",
+      "url": "https://open.spotify.com/track/1rvHw5yWjvDTf1oWArAM8O"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "ME LIGA",
         "url": "https://open.spotify.com/album/7ugZCiXucEKq36HER7Nuka"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
@@ -97,7 +97,27 @@
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Quem Sabe",
         "url": "https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc"
@@ -117,7 +137,31 @@
       "url": "https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Good Feeling About You (Brazilian Version)",
+        "url": "https://open.spotify.com/album/3nZSdqzaXWAQiqpR3gMcOR"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        },
+        {
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "duration_ms": 196650,
+      "name": "Good Feeling About You (Brazilian Version)",
+      "url": "https://open.spotify.com/track/50Q5FldbFCv25ymPI0UqAo"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Amor de Domingo",
         "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
@@ -165,7 +209,23 @@
       "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Antes Que O Mundo Acabe",
         "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
@@ -181,23 +241,7 @@
       "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Resposta",
-        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "Resposta",
-      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "O Amor e Suas Vari\u00e1veis",
         "url": "https://open.spotify.com/album/4WG4wPpHPf5aJFolnzCCRn"
@@ -217,7 +261,23 @@
       "url": "https://open.spotify.com/track/2Zf1ZOawP5E9xiFQd10ab3"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Eu e Voc\u00ea",
+        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 185597,
+      "name": "Eu e Voc\u00ea",
+      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Sonora Sessions: Gabriel Nandes",
         "url": "https://open.spotify.com/album/2NWyCcCBNoxMHom6j01ous"
@@ -237,7 +297,55 @@
       "url": "https://open.spotify.com/track/7bwie2qmIvmqGMk3adpAYK"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "S\u00f3 Mais Um Pouquinho",
+        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 193949,
+      "name": "S\u00f3 Mais Um Pouquinho",
+      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Resposta",
+        "url": "https://open.spotify.com/album/6fPQatXeKSpZuyNKj5adbD"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0ZJ6kYBasODtY4JWDzkDDE"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Encantos Mil",
+        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 168637,
+      "name": "Encantos Mil",
+      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
@@ -265,71 +373,7 @@
       "url": "https://open.spotify.com/track/6OaT6IKxwpGv5K62axdX74"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Eu e Voc\u00ea",
-        "url": "https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 185597,
-      "name": "Eu e Voc\u00ea",
-      "url": "https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "S\u00f3 Mais Um Pouquinho",
-        "url": "https://open.spotify.com/album/0wHwQ2NC4TPT8DpopVj4ll"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 193949,
-      "name": "S\u00f3 Mais Um Pouquinho",
-      "url": "https://open.spotify.com/track/2kaYMQUvt2Jd4i8zFCH1PV"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Encantos Mil",
-        "url": "https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 168637,
-      "name": "Encantos Mil",
-      "url": "https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Existe Amor Aqui",
-        "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
-      },
-      "artists": [
-        {
-          "name": "Julia Smith",
-          "url": "https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Sem Me Preocupar",
-      "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Saudade Sussurrou",
         "url": "https://open.spotify.com/album/5f1AUvrMH7HcBKRVBassaD"
@@ -345,43 +389,7 @@
       "url": "https://open.spotify.com/track/46hMVeI8kjadm4xrokacdG"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Carinha De Problema",
         "url": "https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD"
@@ -401,7 +409,7 @@
       "url": "https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
@@ -417,7 +425,23 @@
       "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Sentimento Raro",
+        "url": "https://open.spotify.com/album/3R2Xy1gYUFEp7sVgDu3a2f"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Sentimento Raro",
+      "url": "https://open.spotify.com/track/32VWRV4wW9lx95AQJGznCi"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Dan\u00e7ando na Beira",
         "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
@@ -437,23 +461,23 @@
       "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "Sentimento Raro",
-        "url": "https://open.spotify.com/album/3R2Xy1gYUFEp7sVgDu3a2f"
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Sentimento Raro",
-      "url": "https://open.spotify.com/track/32VWRV4wW9lx95AQJGznCi"
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Massagem nas Costas",
         "url": "https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq"
@@ -473,27 +497,7 @@
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
@@ -509,31 +513,23 @@
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "PROIBIDO N\u00c3O GOSTAR",
-        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+        "name": "Aonde quer que eu v\u00e1",
+        "url": "https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn"
       },
       "artists": [
         {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Felipe Cordeiro",
-          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+      "duration_ms": 199145,
+      "name": "Aonde quer que eu v\u00e1",
+      "url": "https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Planeta Para",
         "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
@@ -549,23 +545,7 @@
       "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/6v0P3kkqzys53QtSoCwgZB"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
-        }
-      ],
-      "duration_ms": 198890,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/1HiJXmvdZAejKVj8ZtKBOA"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "meu am\u00f4 chegou",
         "url": "https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y"
@@ -589,7 +569,7 @@
       "url": "https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Guaec\u00e1",
         "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
@@ -605,39 +585,7 @@
       "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Concreto (2024 Rework)",
-        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 194196,
-      "name": "Recome\u00e7o - Bonus Track",
-      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
@@ -653,7 +601,43 @@
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Concreto (2024 Rework)",
+        "url": "https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 194196,
+      "name": "Recome\u00e7o - Bonus Track",
+      "url": "https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "PLENA TER\u00c7A FEIRA",
         "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
@@ -673,39 +657,7 @@
       "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Aonde quer que eu v\u00e1",
-        "url": "https://open.spotify.com/album/4zwiaQH7Lrc3SkTRW6vMZn"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 199145,
-      "name": "Aonde quer que eu v\u00e1",
-      "url": "https://open.spotify.com/track/0VHkTxEsIg0Jsa71est8gk"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "PERDURAR",
         "url": "https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG"
@@ -721,7 +673,7 @@
       "url": "https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Urbano",
         "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
@@ -737,7 +689,23 @@
       "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "N\u00e3o Me Defina (Hor\u00f3scopo)",
         "url": "https://open.spotify.com/album/7cETFnvsKKgZhN8PpXa3Mx"
@@ -757,23 +725,7 @@
       "url": "https://open.spotify.com/track/3uoOQHwHhhvkh76PbbCIT7"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "que mal que tem?",
-        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157708,
-      "name": "que mal que tem?",
-      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "N\u00d3S NUS",
         "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
@@ -793,55 +745,7 @@
       "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Quando a Gente Existe",
-        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Quando a Gente Existe",
-      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Duas da Manh\u00e3",
-        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 198071,
-      "name": "Duas da Manh\u00e3",
-      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
-        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 290502,
-      "name": "Teu Ch\u00e1",
-      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Falta Pouco",
         "url": "https://open.spotify.com/album/0Sip43K1gjoRwBib3Rbbnh"
@@ -861,23 +765,71 @@
       "url": "https://open.spotify.com/track/56S6QcFGFQttLNjCwExqB7"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
-        "name": "V\u00e1rios Tipos de Amor",
-        "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
+        "name": "Quando a Gente Existe",
+        "url": "https://open.spotify.com/album/3sRKFhPG58PWFG5lR5jzF5"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 164594,
-      "name": "Tento Decifrar",
-      "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
+      "duration_ms": 204500,
+      "name": "Quando a Gente Existe",
+      "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Duas da Manh\u00e3",
+        "url": "https://open.spotify.com/album/00zcJl8VAUdohbTZfPJnY5"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Duas da Manh\u00e3",
+      "url": "https://open.spotify.com/track/4njPGT7H3RNdAy1Lkh3cYI"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
+        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 290502,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Diante dos Olhos",
         "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
@@ -897,7 +849,7 @@
       "url": "https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
@@ -917,23 +869,7 @@
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "No Teu Mar",
-        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 149072,
-      "name": "No Teu Mar",
-      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
@@ -949,7 +885,23 @@
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "No Teu Mar",
+        "url": "https://open.spotify.com/album/6ewFG75JpBi8H630jshivJ"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 149072,
+      "name": "No Teu Mar",
+      "url": "https://open.spotify.com/track/3YI1nFCJBx33t2YM9d8VmT"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Como \u00e9 que se faz",
         "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
@@ -965,7 +917,7 @@
       "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Dan\u00e7a Comigo",
         "url": "https://open.spotify.com/album/13P91cYrcOMBBceoxDLHJc"
@@ -985,7 +937,7 @@
       "url": "https://open.spotify.com/track/69Rgymrzdoyqo7oEshYTBB"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "dos p\u00e9s a cabe\u00e7a",
         "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
@@ -1001,43 +953,7 @@
       "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "\u00danica Op\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        },
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 130272,
-      "name": "\u00danica Op\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 128904,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Noites De Monza",
         "url": "https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH"
@@ -1057,7 +973,23 @@
       "url": "https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 128904,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Bia Marques Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/4FxJpaUTrbHY6jbD7c3BD4"
@@ -1073,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7ybk5hOq9uGrMMw3ICXzey"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "BabyBaby",
         "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
@@ -1089,7 +1021,7 @@
       "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "V\u00e1 Com Deus",
         "url": "https://open.spotify.com/album/3bJQlPAJkRqwdGAelkccNh"
@@ -1105,23 +1037,7 @@
       "url": "https://open.spotify.com/track/7HzpaONbbliAzPvtnh96UC"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Nosso Carnaval",
-        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
-        }
-      ],
-      "duration_ms": 165490,
-      "name": "Nosso Carnaval",
-      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Eu Sinto Muito",
         "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
@@ -1137,7 +1053,23 @@
       "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Nosso Carnaval",
+        "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Nwyqp8VllhGHPPQw6FH7U"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Nosso Carnaval",
+      "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
@@ -1157,7 +1089,7 @@
       "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
@@ -1173,23 +1105,7 @@
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Apressa",
-        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
-      },
-      "artists": [
-        {
-          "name": "Rebeca",
-          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Apressa",
-      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
@@ -1205,7 +1121,23 @@
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Apressa",
+        "url": "https://open.spotify.com/album/3FSxBRRdYvGUfu4zWXiWQZ"
+      },
+      "artists": [
+        {
+          "name": "Rebeca",
+          "url": "https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "Apressa",
+      "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Vem C\u00e1, Me Beija",
         "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
@@ -1225,7 +1157,7 @@
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "nada do que voc\u00ea falou",
         "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
@@ -1241,23 +1173,7 @@
       "url": "https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Cart\u00f5es Postais",
-        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
-      },
-      "artists": [
-        {
-          "name": "Rafa Martins",
-          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
-        }
-      ],
-      "duration_ms": 124212,
-      "name": "Cart\u00f5es Postais",
-      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Prece",
         "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
@@ -1273,7 +1189,23 @@
       "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Cart\u00f5es Postais",
+        "url": "https://open.spotify.com/album/3dZsMCVQ2IrofYTC2MfE1y"
+      },
+      "artists": [
+        {
+          "name": "Rafa Martins",
+          "url": "https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o"
+        }
+      ],
+      "duration_ms": 124212,
+      "name": "Cart\u00f5es Postais",
+      "url": "https://open.spotify.com/track/1fDE5tMYjqwrUIgBrkZdlQ"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
@@ -1289,7 +1221,7 @@
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Culpado",
         "url": "https://open.spotify.com/album/3VNqH2ZaJVBptOxIuXnCqI"
@@ -1309,7 +1241,7 @@
       "url": "https://open.spotify.com/track/19ZlB2NOx118fs8YBKm155"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Coisa Rara",
         "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
@@ -1325,7 +1257,7 @@
       "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "GUARDA O TEU CORA\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy"
@@ -1341,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Eu Gosto Assim",
         "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
@@ -1357,7 +1289,7 @@
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "Entre o Nada e o Infinito",
         "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
@@ -1373,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
         "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
@@ -1389,7 +1321,7 @@
       "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "o que seria se...",
         "url": "https://open.spotify.com/album/2b2q4eVCw5pdtHtI0W2fYH"
@@ -1405,7 +1337,71 @@
       "url": "https://open.spotify.com/track/0Z6bEMKRNmP0qMrbCkfEzA"
     },
     {
-      "added_at": "2024-08-02 03:00:00",
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Esfriou",
+        "url": "https://open.spotify.com/album/3EyzLVwpTbWR2tNM8a3twV"
+      },
+      "artists": [
+        {
+          "name": "Tuan",
+          "url": "https://open.spotify.com/artist/0fa1dVLqaZcbqjr0qryLfg"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Esfriou",
+      "url": "https://open.spotify.com/track/1eMRfCKfPVEcgpBE6DtDmQ"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/7bKD6GtSuvFctKxCfxceCF"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7N3GpvxATBCT5BtjKadlXW"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
+      "album": {
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
+    },
+    {
+      "added_at": "2024-08-09 14:39:16",
       "album": {
         "name": "A Cara do Amor da Minha Vida",
         "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"

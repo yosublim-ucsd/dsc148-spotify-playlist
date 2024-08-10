@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: Red Velvet",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: ENHYPEN",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1126,6 +1126,28 @@
       "duration_ms": 226160,
       "name": "Broken Melodies",
       "url": "https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6"
+    },
+    {
+      "album": {
+        "name": "Brought The Heat Back (Feat. Ava Max)",
+        "url": "https://open.spotify.com/album/3VvvahAqcsVGeKmdUATpnd"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176279,
+      "name": "Brought The Heat Back (Feat. Ava Max)",
+      "url": "https://open.spotify.com/track/6mslYkzyL8uDfacJezJnof"
     },
     {
       "album": {
@@ -4163,6 +4185,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180742,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0"
+    },
+    {
+      "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
       },
@@ -4246,7 +4286,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182439,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/3gPI0DkzvSHc5s21lIU5yv"
@@ -4864,7 +4904,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163480,
       "name": "LOOP (feat. Lil Cherry)",
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
@@ -6958,7 +6998,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195613,
       "name": "SABOTAGE",
       "url": "https://open.spotify.com/track/3jUnWCtIwlP9ABJWIiqrCe"
@@ -7460,7 +7500,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -8859,6 +8899,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
       },
@@ -9502,6 +9560,28 @@
       "duration_ms": 172381,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
+    },
+    {
+      "album": {
+        "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+        "url": "https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202606,
+      "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+      "url": "https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95"
     },
     {
       "album": {

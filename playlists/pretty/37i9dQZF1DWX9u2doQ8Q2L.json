@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387521,
+  "num_followers": 387531,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "GOLDENWEEK",
-        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 200910,
-      "name": "GOLDENWEEK",
-      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "\u6708\u3078\u884c\u3053\u3046",
-        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
+        "name": "GOLDENWEEK",
+        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
       },
       "artists": [
         {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
         }
       ],
-      "duration_ms": 198370,
-      "name": "\u6708\u3078\u884c\u3053\u3046",
-      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
+      "duration_ms": 200910,
+      "name": "GOLDENWEEK",
+      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -867,6 +851,22 @@
       "duration_ms": 268799,
       "name": "Luv Myself",
       "url": "https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "\u6708\u3078\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 198370,
+      "name": "\u6708\u3078\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
+        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 197904,
+      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
+      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
         "name": "24/7 YOU...",
         "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
       },
@@ -971,6 +971,22 @@
       "duration_ms": 161366,
       "name": "24/7 YOU...",
       "url": "https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1003,22 +1019,6 @@
       "duration_ms": 181384,
       "name": "Osanpo - Remix",
       "url": "https://open.spotify.com/track/32xeuwMvGI5jugOe0sv8cq"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
-        "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-        "url": "https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 197904,
-      "name": "\u30a8\u30c8\u30bb\u30c8\u30e9",
-      "url": "https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 222753,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
         "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
@@ -1091,18 +1107,22 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
+        "name": "JUNK TAPE",
+        "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
       },
       "artists": [
         {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+          "name": "SOCKS",
+          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
+        },
+        {
+          "name": "DJ RYOW",
+          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
         }
       ],
-      "duration_ms": 222753,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+      "duration_ms": 144230,
+      "name": "Osanpo",
+      "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "JUNK TAPE",
-        "url": "https://open.spotify.com/album/7nMD0ld7LG08JbYfUaZOqc"
-      },
-      "artists": [
-        {
-          "name": "SOCKS",
-          "url": "https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw"
-        },
-        {
-          "name": "DJ RYOW",
-          "url": "https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn"
-        }
-      ],
-      "duration_ms": 144230,
-      "name": "Osanpo",
-      "url": "https://open.spotify.com/track/17UmnvE8U4bOEgyP8ERpE0"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
         "name": "Pointless 5",
         "url": "https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 258005,
       "name": "Pointless 5",
       "url": "https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1231,22 +1247,6 @@
       "duration_ms": 254291,
       "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
       "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
-        "name": "\u30ab\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 228913,
-      "name": "\u30ab\u30eb\u30c8",
-      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+        "name": "\u30ab\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
       },
       "artists": [
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+      "duration_ms": 228913,
+      "name": "\u30ab\u30eb\u30c8",
+      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1347,22 +1347,6 @@
       "duration_ms": 203500,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5NCL8tzDw56FyB6ip8TVz5"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1439,6 +1423,22 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 195657,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
         "name": "LOA",
         "url": "https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo"
       },
@@ -1567,6 +1583,22 @@
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "I say bye",
+        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "I say bye",
+      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1591,18 +1623,18 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "I say bye",
-        "url": "https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ"
+        "name": "Logic 2",
+        "url": "https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
         }
       ],
-      "duration_ms": 180596,
-      "name": "I say bye",
-      "url": "https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN"
+      "duration_ms": 181672,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1623,18 +1655,18 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "Logic 2",
-        "url": "https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r"
+        "name": "Dancers Friendly",
+        "url": "https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21"
       },
       "artists": [
         {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
         }
       ],
-      "duration_ms": 181672,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6"
+      "duration_ms": 183477,
+      "name": "\u304b\u3051\u304a\u3061",
+      "url": "https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1655,38 +1687,6 @@
       "duration_ms": 152259,
       "name": "\u306a\u3093\u3066\u306d",
       "url": "https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
-        "name": "Dancers Friendly",
-        "url": "https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "\u304b\u3051\u304a\u3061",
-      "url": "https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2024-08-07 07:55:17",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-08-07 07:55:17",
       "album": {
-        "name": "nobori - \u4e0a\u308a",
-        "url": "https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 130220,
-      "name": "Assaji",
-      "url": "https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL"
-    },
-    {
-      "added_at": "2024-08-07 07:55:17",
-      "album": {
         "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
         "url": "https://open.spotify.com/album/0HAFkJH7wyUpNEZJMB6pP6"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 303156,
       "name": "tokyo (feat. \u9234\u6728\u771f\u6d77\u5b50, Skaai)",
       "url": "https://open.spotify.com/track/3tL2fCJDegsWrsCZEZTf82"
+    },
+    {
+      "added_at": "2024-08-07 07:55:17",
+      "album": {
+        "name": "nobori - \u4e0a\u308a",
+        "url": "https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 130220,
+      "name": "Assaji",
+      "url": "https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL"
     },
     {
       "added_at": "2024-08-07 07:55:17",

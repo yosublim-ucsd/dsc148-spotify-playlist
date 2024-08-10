@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,400 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,391 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 42 | [Winter Wonderland \- 78 Take](https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0) | [Chet Baker Quartet](https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Pretty/Groovy \(Expanded Edition\)](https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ) | 3:19 |
 | 43 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 3:28 |
 | 44 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 3:06 |
-| 45 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 |
-| 46 | [O Come, All Ye Faithful](https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL), [Dave Birkman](https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc), [Essiet Essiet](https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa), [Carl Allen](https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 5:12 |
+| 45 | [O Come, All Ye Faithful](https://open.spotify.com/track/1B0jJzbxFwEBrsfVKOlSfx) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL), [Dave Birkman](https://open.spotify.com/artist/4EfQMoNIcpy9wJDuCkYrzc), [Essiet Essiet](https://open.spotify.com/artist/1gQ8mRcuJnb3j7CJpMMTDa), [Carl Allen](https://open.spotify.com/artist/5ufrB7FmfeQ8whmRiRe9gF) | [Hot Jazz for a Cool Night: a Jazz Christmas](https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS) | 5:12 |
+| 46 | [Carol Of The Bells](https://open.spotify.com/track/5YmJtoST7bbcxCycpyw2yL) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Christmas Time Is Here](https://open.spotify.com/album/2I3uMBceHIZ4NXGM2HMl3Y) | 3:57 |
 | 47 | [Santa, Won't You Listen to Me](https://open.spotify.com/track/0Lh2f4LMyeA9NFLpcLoBnd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9) | [Santa, Won't You Listen to Me](https://open.spotify.com/album/6mO4bLwn1GZAmE1hnlt2dk) | 2:53 |
 | 48 | [Silent Night](https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 |
 | 49 | [What a Night!](https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 3:23 |

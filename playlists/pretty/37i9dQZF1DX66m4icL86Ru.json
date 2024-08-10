@@ -1,13 +1,29 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Kesha",
-  "num_followers": 894687,
+  "num_followers": 894689,
   "original_name": "BBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrTdogAAAABSpN5u/rTbwqGZcp4p6eos",
+  "snapshot_id": "ZrWUQAAAAABOoq7IF27vamL9/E1lgY3I",
   "tracks": [
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "TGIF (Alternate Versions)",
+        "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
+    },
     {
       "added_at": "2024-05-24 04:00:00",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Fine Ho, Stay",
@@ -63,22 +95,6 @@
       "duration_ms": 165754,
       "name": "Never Lose Me (feat. SZA & Cardi B)",
       "url": "https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "TGIF (Alternate Versions)",
-        "url": "https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "TGIF",
-      "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -115,22 +131,6 @@
       "duration_ms": 138618,
       "name": "JUST LIKE THAT",
       "url": "https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Candyman",
-        "url": "https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 172115,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -173,26 +173,6 @@
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 164256,
-      "name": "Flava (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
-    },
-    {
       "added_at": "2024-03-19 20:54:54",
       "album": {
         "name": "Get It Sexyy",
@@ -207,26 +187,6 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -277,6 +237,22 @@
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "F\u039bSHION",
+        "url": "https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX"
+      },
+      "artists": [
+        {
+          "name": "Britney Manson",
+          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
+        }
+      ],
+      "duration_ms": 146531,
+      "name": "F\u039bSHION",
+      "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
+    },
+    {
       "added_at": "2024-05-17 00:00:00",
       "album": {
         "name": "NANi",
@@ -323,6 +299,26 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Big One (feat. Monaleo)",
+        "url": "https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 156832,
+      "name": "Big One (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -373,22 +369,6 @@
       "url": "https://open.spotify.com/track/1CO1DRM25EywKMUo1TdyeU"
     },
     {
-      "added_at": "2024-05-17 00:00:00",
-      "album": {
-        "name": "Figuring Out My Emotions",
-        "url": "https://open.spotify.com/album/5twFC7fTYy978vfFyE3iP0"
-      },
-      "artists": [
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        }
-      ],
-      "duration_ms": 143814,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/4pOjseBCEPjRUt9UGF0MMr"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Alter Ego (with JT)",
@@ -409,42 +389,6 @@
       "url": "https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Getting No Sleep",
-        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Getting No Sleep",
-      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 221016,
-      "name": "Coke Bottle Body",
-      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "older",
@@ -459,22 +403,6 @@
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
-    },
-    {
-      "added_at": "2024-05-17 00:00:00",
-      "album": {
-        "name": "Chase It (Mmm Da Da Da)",
-        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Chase It (Mmm Da Da Da)",
-      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -517,22 +445,6 @@
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "F\u039bSHION",
-        "url": "https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX"
-      },
-      "artists": [
-        {
-          "name": "Britney Manson",
-          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
-        }
-      ],
-      "duration_ms": 146531,
-      "name": "F\u039bSHION",
-      "url": "https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "eternal sunshine (slightly deluxe)",
@@ -547,22 +459,6 @@
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/19nGr45kS0vRbuWeEnarRW"
-    },
-    {
-      "added_at": "2024-05-17 00:00:00",
-      "album": {
-        "name": "Deserve To Die",
-        "url": "https://open.spotify.com/album/2NGea7ZwsdQZssZb8K4dIj"
-      },
-      "artists": [
-        {
-          "name": "Rubi Rose",
-          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "Deserve To Die",
-      "url": "https://open.spotify.com/track/2DesZQFkwZ1OSKIi9e9n1t"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -741,20 +637,24 @@
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
+      "added_at": "2024-05-24 04:00:00",
       "album": {
-        "name": "BOZO",
-        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 148120,
-      "name": "BOZO",
-      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+      "duration_ms": 164256,
+      "name": "Flava (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1041,6 +941,22 @@
       "url": "https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO"
     },
     {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Candyman",
+        "url": "https://open.spotify.com/album/1Y0U9tzLmjG3x0RVhyGElR"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Candyman",
+      "url": "https://open.spotify.com/track/3Zt0VZcBR4DGmuEzpJh7PR"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "AMERICAN HORROR SHOW",
@@ -1185,6 +1101,22 @@
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+    },
+    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Boy's a liar Pt. 2",
@@ -1205,6 +1137,22 @@
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
+      "added_at": "2024-05-17 00:00:00",
+      "album": {
+        "name": "Deserve To Die",
+        "url": "https://open.spotify.com/album/2NGea7ZwsdQZssZb8K4dIj"
+      },
+      "artists": [
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "Deserve To Die",
+      "url": "https://open.spotify.com/track/2DesZQFkwZ1OSKIi9e9n1t"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Von dutch",
@@ -1219,6 +1167,94 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 221016,
+      "name": "Coke Bottle Body",
+      "url": "https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7"
+    },
+    {
+      "added_at": "2024-05-17 00:00:00",
+      "album": {
+        "name": "Chase It (Mmm Da Da Da)",
+        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Chase It (Mmm Da Da Da)",
+      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "HE KNOWS (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "HE KNOWS (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Getting No Sleep",
+        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Getting No Sleep",
+      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
+    },
+    {
+      "added_at": "2024-05-17 00:00:00",
+      "album": {
+        "name": "Figuring Out My Emotions",
+        "url": "https://open.spotify.com/album/5twFC7fTYy978vfFyE3iP0"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "duration_ms": 143814,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4pOjseBCEPjRUt9UGF0MMr"
     },
     {
       "added_at": "2023-11-24 05:00:00",

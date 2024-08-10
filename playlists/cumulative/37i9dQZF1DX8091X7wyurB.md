@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-388 songs - 1 day 12 hr 31 min
+389 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [I Give Myself Away](https://open.spotify.com/track/1tdsJZWIzCQLhp3ZKrYWhi) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [As We Worship Live](https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT) | 5:26 | 2023-12-05 | 2023-12-10 |
 | [I Just Want You](https://open.spotify.com/track/3D6LWysCetPkl9Po6WBybh) | [Sarah Wonders](https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo) | [I Just Want You](https://open.spotify.com/album/7sDgRqbK9YjtFNdbblrjaD) | 6:27 | 2024-07-05 | 2024-07-27 |
 | [I Know Who I Am \- Live](https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud \(Live\)](https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG) | 6:10 | 2023-12-05 | 2023-12-10 |
+| [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 |  |
 | [I No Send](https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/7AlTQ1pp6DfDYTgZeOMDuS) | 3:53 | 2023-04-28 | 2023-10-06 |
 | [I No Send](https://open.spotify.com/track/7DObo84GS9cTcf25Z5XMd0) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [I No Send](https://open.spotify.com/album/2u4uQpsUizbdl7KQTmnjGS) | 3:53 | 2023-12-05 | 2023-12-10 |
 | [I Overcame](https://open.spotify.com/track/4VzrPcWyOdMhNudt0SqaW0) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 5:22 | 2023-12-05 | 2023-12-10 |
@@ -314,7 +315,7 @@
 | [Surrender](https://open.spotify.com/track/1FP3EFM7Ktu4THDKl1HxP5) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Surrender](https://open.spotify.com/album/7gWyosA6T2BtuHil6La76X) | 3:27 | 2023-09-01 | 2023-09-19 |
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2024-08-09 |
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-04-21 | 2023-04-28 |
-| [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 | 2024-07-26 |  |
+| [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 | 2024-07-26 | 2024-08-10 |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-06-30 | 2023-06-06 |
 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 | 2022-09-30 | 2023-12-15 |
 | [Tatafo](https://open.spotify.com/track/2FbHSnjLmSF77Uy5IkHjnf) | [Fega Michaels](https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I) | [Tatafo](https://open.spotify.com/album/2Acy9jIYYJRVUkHc1M18jK) | 2:35 | 2022-06-30 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Tony Trischka
 
-601 songs - 1 day 11 hr 42 min
+602 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Blackbird](https://open.spotify.com/track/4KhPOLqo70Dpwy5MIkd2Et) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Rob Ickes](https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd), [Amanda Smith](https://open.spotify.com/artist/6CfCzRwZmP13kLfwtmNweM) | [Blackbird](https://open.spotify.com/album/5ccFjbNrC8LkofV9tOlSIo) | 4:04 | 2022-03-25 | 2022-07-23 |
 | [Blow Whistle](https://open.spotify.com/track/4WinHeehZl0SA3LeRAMxNI) | [Chris Jones & The Night Drivers](https://open.spotify.com/artist/1B6YLr705p5ddQ3ZjMPf9H) | [Blow Whistle](https://open.spotify.com/album/18zduoCmZAh9YYEA4XXDwM) | 2:38 | 2023-04-21 | 2023-05-16 |
 | [Blue Railroad Train](https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Blue Railroad Train](https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm) | 3:08 | 2023-04-21 |  |
-| [Blue Smoke](https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Happy Valley](https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV) | 3:50 | 2024-04-06 |  |
+| [Blue Smoke](https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Happy Valley](https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV) | 3:50 | 2024-04-06 | 2024-08-10 |
 | [Bluebird](https://open.spotify.com/track/2wxRicLmcsDth8tjvTI807) | [The Bad Oats](https://open.spotify.com/artist/3qod4QYLHKxmo007ymm6Gz) | [Bluebird](https://open.spotify.com/album/1bI2aIqHcwNjFm7IxZIzFX) | 4:43 | 2022-02-18 | 2022-07-16 |
 | [Blues and Reds](https://open.spotify.com/track/41iibtduo67boebKh4qeTf) | [Birds of Play](https://open.spotify.com/artist/3GXu0jfY6YTUeqElGLv5kC) | [Blues and Reds](https://open.spotify.com/album/0SBCpzytrudGWqycPFMo3Y) | 4:12 | 2022-02-18 | 2022-07-12 |
 | [Blues Are Close at Hand](https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu) | [The Po' Ramblin' Boys](https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o) | [Blues Are Close at Hand](https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM) | 2:39 | 2022-02-04 |  |
@@ -197,6 +197,7 @@
 | [Gone Gone Gone](https://open.spotify.com/track/6BlreBdQpQrOvpjjqqXcB4) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Gone Gone Gone](https://open.spotify.com/album/4fQG4zoMshyxV2VDwvzs1T) | 4:24 | 2021-12-17 | 2022-07-29 |
 | [Gone Gone Gone](https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:24 | 2022-10-14 | 2023-03-16 |
 | [Granny's Got a Garden \- For G'maw Jan](https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:30 | 2022-08-26 | 2024-04-27 |
+| [Grassy Cove](https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Happy Valley](https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV) | 3:38 | 2024-08-09 |  |
 | [Graveyard Fields](https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p) | [Appalachian Road Show](https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM) | [Jubilation](https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh) | 2:59 | 2023-10-27 | 2024-05-11 |
 | [Greener Grass](https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/10dyZoegG6vH1VMjWkb7Ji) | 3:02 | 2023-11-24 | 2024-04-19 |
 | [Greener Grass](https://open.spotify.com/track/3BEDazH9lyPSMkH4XKA4gK) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Mount Royal](https://open.spotify.com/album/6FouHmrNdwxJOiSafngC3Y) | 3:02 | 2021-12-17 | 2022-07-29 |

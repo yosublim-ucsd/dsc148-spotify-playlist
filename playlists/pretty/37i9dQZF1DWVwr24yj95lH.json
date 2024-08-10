@@ -1,6 +1,6 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Creed",
-  "num_followers": 622579,
+  "num_followers": 622604,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
@@ -235,7 +235,7 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "name": "Finding Beauty In Negative Spaces - Bonus Track Version",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
       "artists": [
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2024-07-02 17:11:28",
-      "album": {
         "name": "Disclaimer",
         "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 243640,
       "name": "Fine Again",
       "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2024-07-02 17:11:28",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "Stacked Actors",
-      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
-    },
-    {
-      "added_at": "2024-07-02 17:11:28",
-      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Throwing Copper",
-        "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
-          "name": "Live",
-          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 325600,
-      "name": "Lightning Crashes",
-      "url": "https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM"
+      "duration_ms": 256440,
+      "name": "Stacked Actors",
+      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
     },
     {
       "added_at": "2024-07-02 17:11:28",
@@ -991,7 +975,23 @@
     {
       "added_at": "2024-07-02 17:11:28",
       "album": {
-        "name": "Anthem For The Underdog (Bonus Track Version)",
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "duration_ms": 325600,
+      "name": "Lightning Crashes",
+      "url": "https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM"
+    },
+    {
+      "added_at": "2024-07-02 17:11:28",
+      "album": {
+        "name": "Anthem For The Underdog - Bonus Track Version",
         "url": "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
       },
       "artists": [

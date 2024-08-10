@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. Todos os maiores hits em uma só playlist.
+> This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,096 likes - 52 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,099 likes - 52 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 3 | [Jeová Jireh](https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jeová Jireh](https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse) | 6:30 |
 | 4 | [Ressuscita\-me](https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 5:43 |
 | 5 | [Imensurável](https://open.spotify.com/track/3acR6F3KuMXVGTk9dwIrKB) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Imensurável](https://open.spotify.com/album/4G9RmSVTkpZWqXjdX6l8tX) | 5:58 |
-| 6 | [Te Adorar \- Acústico](https://open.spotify.com/track/0AwC67lMYvENDvORGIb15B) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:43 |
-| 7 | [Casa do Pai](https://open.spotify.com/track/3bUvo7tVSNFvRkaTn0pGjO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:44 |
+| 6 | [Casa do Pai](https://open.spotify.com/track/3bUvo7tVSNFvRkaTn0pGjO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:44 |
+| 7 | [Te Adorar \- Acústico](https://open.spotify.com/track/0AwC67lMYvENDvORGIb15B) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:43 |
 | 8 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
 | 9 | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Rendido Estou \(Arms Open Wide\)](https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG) | 7:42 |
 | 10 | [Renova\-Me \- Ao Vivo](https://open.spotify.com/track/5fytDMLCSDAxEyITCy2YZR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:43 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 16 | [Deus do Impossível](https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 3:29 |
 | 17 | [Ao Único](https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Poder do Teu Amor](https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL) | 4:10 |
 | 18 | [Autor da Vida](https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reino](https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi) | 4:55 |
-| 19 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
+| 19 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
 | 20 | [Bem Mais Que Tudo](https://open.spotify.com/track/0LR9dbA72J4eYW8UZSrujK) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:46 |
-| 21 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 |
+| 21 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 |
 | 22 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
 | 23 | [Rompendo em Fé](https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Comunidade Evangélica Internacional da Zona Sul](https://open.spotify.com/artist/1NuQ2vlJpm8ZS9HfEOmB4j) | [Rompendo em Fé](https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR) | 4:49 |
 | 24 | [Primeira Essência \(Jardim Particular\)](https://open.spotify.com/track/4jWePuDwi4Mho9u5kpoYrj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 4:16 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 51 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 |
 | 52 | [Pisa na Muralha](https://open.spotify.com/track/73lX64r9ZjNbprMuwrxznZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:22 |
 
-Snapshot ID: `ZrK5AAAAAACyXHpdc83Fr9uK2ygDBlgK`
+Snapshot ID: `ZrQKgAAAAACgCk/xP2+3evbUFCZ5VbfS`

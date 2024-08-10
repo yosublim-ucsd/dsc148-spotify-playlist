@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=qPn48dWDT6CKMBc8gJwZTw">STATE OFFF</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi\-iSCCQb\-Sq1fLRRA">Jayda G</a>
 
-1,068 songs - 4 day 0 hr 13 min
+1,069 songs - 4 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Anelka](https://open.spotify.com/track/6o6o4WdKUhQMAMsC5qgFYg) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Anelka](https://open.spotify.com/album/6yoxxlrkQ6RB3GNGZuUJks) | 6:57 | 2022-12-08 | 2023-01-01 |
 | [Angikaze](https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Angikaze](https://open.spotify.com/album/24jSGmLZMp4TVNnD8GSDtE) | 6:43 | 2022-09-29 | 2022-11-01 |
 | [Angikaze](https://open.spotify.com/track/5F7npl4FSAFQLsIuW3o7aR) | [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe), [CocoSA](https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j), [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL) | [Next Level](https://open.spotify.com/album/38ceKeIGseGiz5dAoK4IFk) | 6:43 | 2022-11-14 | 2023-02-24 |
-| [Angisafuni](https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Small Keys](https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2) | [EVERGREEN](https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM) | 5:59 | 2024-04-12 |  |
+| [Angisafuni](https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Small Keys](https://open.spotify.com/artist/2KCQgfKYeUmXJPrWxOOEf2) | [EVERGREEN](https://open.spotify.com/album/1acxyJRAsjYqYK8cF6dOfM) | 5:59 | 2024-04-12 | 2024-08-10 |
 | [Another Way](https://open.spotify.com/track/7wEe0MtGvCZdnzcr8AHp6E) | [Q Narongwate](https://open.spotify.com/artist/09QkDzAPufKL4un4SLIjNj) | [Another Way](https://open.spotify.com/album/5RzOk5vALVcjWFZxkfKGuc) | 5:22 | 2022-04-07 | 2022-04-15 |
 | [Answers \- Radio Edit](https://open.spotify.com/track/0Gj9sN8Zd6tdUf549M6Rva) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Pierre Stemmett](https://open.spotify.com/artist/2xei4TwXqWutkMSxSCXSKS) | [Answers](https://open.spotify.com/album/1eFxfRltMiE06BejGYmHQv) | 3:59 | 2021-11-04 | 2022-01-07 |
 | [Are You Down](https://open.spotify.com/track/3w7BZ8Pj1IdoQYPzL8JcdF) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Are You Down](https://open.spotify.com/album/2Z5F672Ot12FttD9cA2QVO) | 5:00 | 2022-04-28 | 2022-06-18 |
@@ -304,6 +304,7 @@
 | [Fearless](https://open.spotify.com/track/5oIL5ZyL1G5EA0000sHCRr) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Music Theory](https://open.spotify.com/album/7JjSLk4F2IRnWFq1msHPjc) | 5:13 | 2023-06-16 | 2023-06-24 |
 | [Feel It](https://open.spotify.com/track/2GHaQZRTm2fvhaWg4jHb9X) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Feel It](https://open.spotify.com/album/4aMwnHIuXZG7e6hvLeLLSm) | 2:45 | 2024-06-13 |  |
 | [Feeling](https://open.spotify.com/track/42JdN5sBkvSd2xAWEecbRB) | [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [14:20](https://open.spotify.com/album/05z59KseTvkyP9tsEE6lvl) | 4:21 | 2022-04-14 | 2022-06-03 |
+| [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 | 2024-08-09 |  |
 | [Feeling Good \- PAUZA Radio Edit](https://open.spotify.com/track/5oNSpfaT705A7eciOOdNk1) | [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Feeling Good \(Pauza Remix\)](https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1) | 3:53 | 2022-12-31 | 2023-01-20 |
 | [Feelings](https://open.spotify.com/track/6K87itLS0K3aUYLVIlxQdX) | [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Laise Sanches](https://open.spotify.com/artist/2Me0AHsFcxnAbhQngtK621) | [Feelings](https://open.spotify.com/album/3puyriMFd361JmJR7PnaVh) | 6:38 | 2022-10-13 | 2022-11-08 |
 | [Feelings \- Original Mix](https://open.spotify.com/track/15OJz6v2vAirEsKlpq8RLp) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Blood & Roses, Vol\. 3](https://open.spotify.com/album/4D35OvPOmYVlyii1rH9uwo) | 5:55 | 2022-02-25 | 2022-04-23 |

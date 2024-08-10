@@ -328,7 +328,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 354357,
       "name": "Ange",
       "url": "https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166285,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
@@ -1446,6 +1446,28 @@
       "duration_ms": 249178,
       "name": "CBDUB - Wake and Bake Mix",
       "url": "https://open.spotify.com/track/4SkXv0xdoJHmBocbtsG5Es"
+    },
+    {
+      "album": {
+        "name": "Cedar Sunrise",
+        "url": "https://open.spotify.com/album/0UgU1YVPlvjMYgCJfh9g4I"
+      },
+      "artists": [
+        {
+          "name": "HYPERLIGHT",
+          "url": "https://open.spotify.com/artist/6oehyzq3ivxXza1uoSoIi7"
+        },
+        {
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Cedar Sunrise",
+      "url": "https://open.spotify.com/track/18kghdAvNLLKgjCTQ5ca84"
     },
     {
       "album": {
@@ -4007,6 +4029,24 @@
     },
     {
       "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1wt3bPnbLUGulqDbCocnQk"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137491,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/41P1RlldZuKjnw2Pd8lGjQ"
+    },
+    {
+      "album": {
         "name": "Decolonize",
         "url": "https://open.spotify.com/album/3Sz2i96qNwnlevouWxbeNz"
       },
@@ -4840,7 +4880,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205241,
       "name": "Inhale Exhale",
       "url": "https://open.spotify.com/track/4cCfprh4NrvyLGKN2rOCO7"
@@ -5352,6 +5392,28 @@
       "duration_ms": 210685,
       "name": "Kik Bak",
       "url": "https://open.spotify.com/track/7wal8mxwO4hBrqYXEbx5w4"
+    },
+    {
+      "album": {
+        "name": "Killshot / Charge",
+        "url": "https://open.spotify.com/album/0id6JIHrD6ZigcPS4PSSrF"
+      },
+      "artists": [
+        {
+          "name": "Unkey",
+          "url": "https://open.spotify.com/artist/4RCLOZtadG5NfdrNLAhzBd"
+        },
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248656,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/4NO6QK7TLn9oAgle11nDnE"
     },
     {
       "album": {
@@ -8043,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Put The Lights Out",
+      "url": "https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp"
+    },
+    {
+      "album": {
         "name": "Queens",
         "url": "https://open.spotify.com/album/0iLgPTOT0zXu8owQc7vyDo"
       },
@@ -9208,6 +9288,28 @@
       "duration_ms": 276000,
       "name": "Shaolin",
       "url": "https://open.spotify.com/track/2lFtQc1PhJw5w8az7tvWA7"
+    },
+    {
+      "album": {
+        "name": "Shattered",
+        "url": "https://open.spotify.com/album/5fEoFp8c3DLhNAI4DykXf1"
+      },
+      "artists": [
+        {
+          "name": "G-Space",
+          "url": "https://open.spotify.com/artist/1yxgjoiYczfFDnh4YYp4t1"
+        },
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298064,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/457llDZbSny0PwadVVYp9g"
     },
     {
       "album": {
@@ -11016,7 +11118,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 246200,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5oNAbbhAuoz6xrEPWo3U0M"
@@ -11287,6 +11389,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1weftXORtDW783sNWPbXwN"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6dMT9nL41UUJkmqXdWRFEb"
+    },
+    {
+      "album": {
         "name": "Tempa Presents: UK Dubstep, Vol. 1",
         "url": "https://open.spotify.com/album/3nBBTtMvBaQmRQsgFF4jzi"
       },
@@ -11534,7 +11654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268500,
       "name": "Versatile",
       "url": "https://open.spotify.com/track/2r14e9QOSGqi3Cp0GJ5sbE"
@@ -11680,7 +11800,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"

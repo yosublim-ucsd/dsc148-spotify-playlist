@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This is Deorro\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is Deorro\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,097 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,109 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 11 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 |
 | 12 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 |
 | 13 | [Muñequita Linda](https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Muñequita Linda](https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3) | 3:30 |
-| 14 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
-| 15 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 |
+| 14 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 |
+| 15 | [Hands Up](https://open.spotify.com/track/11lyd04BW0DTTjMyWnFsO0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/2rhi1aIdti3D6jJumud66T) | 2:11 |
 | 16 | [PINK](https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [PINK](https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo) | 3:41 |
 | 17 | [Flashlight](https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Flashlight](https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ) | 3:52 |
 | 18 | [Pica](https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Pica](https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG) | 3:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 50 | [Adios \(with Andrez Babii\)](https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Adios \(with Andrez Babii\)](https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS) | 3:04 |
 | 51 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 
-Snapshot ID: `ZrK5AAAAAACNQogPDWsZGRoVjLzATnpm`
+Snapshot ID: `ZrQKgAAAAADNQNjCsWVsclczzkGfwYXb`

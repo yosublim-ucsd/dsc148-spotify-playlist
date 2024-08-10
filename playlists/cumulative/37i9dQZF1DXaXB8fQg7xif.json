@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -976,7 +998,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
@@ -8210,7 +8232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186116,
       "name": "FVCK",
       "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
@@ -9638,7 +9660,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 223379,
       "name": "High and I Like it",
       "url": "https://open.spotify.com/track/0FBdJP7yzvq88bG1keGgt4"
@@ -13248,7 +13270,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 123692,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI"
@@ -17307,6 +17329,24 @@
     },
     {
       "album": {
+        "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+        "url": "https://open.spotify.com/album/5jAnfBukpgxAPJPtrAgLgN"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258682,
+      "name": "Pretty Green Eyes (Sunset Ibiza Mix)",
+      "url": "https://open.spotify.com/track/6iGMRy5RDMiAdTpuMB5gAm"
+    },
+    {
+      "album": {
         "name": "Pretty Green Eyes (Remixes)",
         "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
       },
@@ -20567,6 +20607,24 @@
     },
     {
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -21842,6 +21900,28 @@
       "duration_ms": 189523,
       "name": "The Sequel",
       "url": "https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW"
+    },
+    {
+      "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
     },
     {
       "album": {

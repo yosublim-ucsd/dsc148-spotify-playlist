@@ -2,9 +2,9 @@
 
 ### [Revelação Gospel](https://open.spotify.com/playlist/37i9dQZF1DX3uTE4ljTDvd)
 
-> Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
+> Ouça e conheça as revelações da música gospel\. Foto: Paloma Possi
 
-67 songs - 5 hr 42 min
+68 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 | 2022-12-09 |  |
 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB) | 3:36 | 2022-12-09 |  |
 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 | 2022-12-09 |  |
-| [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-12-09 |  |
+| [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-12-09 | 2024-08-10 |
 | [Destemida](https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9) | [Adai Music](https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa), [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Destemida](https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ) | 4:58 | 2022-12-09 |  |
 | [Deus Te Chama](https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS) | [Deus Te Chama](https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e) | 4:23 | 2022-12-09 |  |
 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 | 2022-12-09 |  |
@@ -52,6 +52,7 @@
 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49) | 7:41 | 2022-12-09 | 2024-04-19 |
 | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv) | [Alex Silva](https://open.spotify.com/artist/72qyJQtv9lGSNCSMqRJ35H), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [O Teu Poder \(Creio em Ti\)](https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI) | 4:01 | 2022-12-09 |  |
 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 | 2022-12-09 |  |
+| [Plano Melhor](https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Plano Melhor](https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY) | 4:48 | 2024-08-09 |  |
 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 | 2022-12-09 |  |
 | [Pra Que Eu Fosse Livre](https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH) | [Klev](https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC) | [Pra Que Eu Fosse Livre](https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ) | 4:48 | 2022-12-09 |  |
 | [Primeiro Amor](https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K) | [Primeiro Amor](https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J) | 3:56 | 2022-12-09 |  |

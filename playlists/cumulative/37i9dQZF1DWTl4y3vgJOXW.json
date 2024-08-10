@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Steph Curry",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover:  LeBron James and Steph Curry",
   "name": "Locked In",
   "tracks": [
     {
@@ -1726,6 +1726,24 @@
       "duration_ms": 128000,
       "name": "Black",
       "url": "https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Blick Sum",
+      "url": "https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3"
     },
     {
       "album": {
@@ -5098,6 +5116,28 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     },
     {
       "album": {
@@ -8714,7 +8754,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135959,
       "name": "On Me",
       "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"

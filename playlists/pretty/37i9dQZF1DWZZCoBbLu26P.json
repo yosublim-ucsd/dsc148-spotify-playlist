@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 89100,
+  "num_followers": 89119,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "It's Chocolate",
-        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
-      },
-      "artists": [
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 159718,
-      "name": "It's Chocolate",
-      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Cr\u00e8me Br\u00fbl\u00e9e",
         "url": "https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 172488,
       "name": "Cr\u00e8me Br\u00fbl\u00e9e",
       "url": "https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Hurt My Feelings",
-        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 237987,
-      "name": "Hurt My Feelings",
-      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/7Hg59DHj3jPVUWxegY6Inm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 191680,
       "name": "AAA",
       "url": "https://open.spotify.com/track/3emMgXnKizZEJfE8HN4WTW"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 237987,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -819,18 +819,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "The Shady Bunch / Bring Back My Girls",
-        "url": "https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6"
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
       },
       "artists": [
         {
           "name": "RuPaul",
           "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Bring Back My Girls",
-      "url": "https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX"
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+        "name": "The Shady Bunch / Bring Back My Girls",
+        "url": "https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6"
       },
       "artists": [
         {
           "name": "RuPaul",
           "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
         }
       ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+      "duration_ms": 163893,
+      "name": "Bring Back My Girls",
+      "url": "https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Much Betta",
-        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
-      },
-      "artists": [
-        {
-          "name": "Baga chipz",
-          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Much Betta",
-      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Diamond Crowned Queen",
-        "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 231932,
-      "name": "Diamond Crowned Queen - Original",
-      "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "PUMPKIN TITS - Single",
         "url": "https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 176215,
       "name": "PUMPKIN TITS",
       "url": "https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Much Betta",
+        "url": "https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB"
+      },
+      "artists": [
+        {
+          "name": "Baga chipz",
+          "url": "https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Much Betta",
+      "url": "https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Diamond Crowned Queen",
+        "url": "https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 231932,
+      "name": "Diamond Crowned Queen - Original",
+      "url": "https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B"
     },
     {
       "added_at": "2024-05-31 17:55:47",

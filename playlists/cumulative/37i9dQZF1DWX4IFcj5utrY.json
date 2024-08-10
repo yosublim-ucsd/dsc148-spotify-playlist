@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=qPn48dWDT6CKMBc8gJwZTw\">STATE OFFF</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi-iSCCQb-Sq1fLRRA\">Jayda G</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 359701,
       "name": "Angisafuni",
       "url": "https://open.spotify.com/track/4A4EXdgo16fyLqm6ylV9vW"
@@ -6574,6 +6574,24 @@
       "duration_ms": 261000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/42JdN5sBkvSd2xAWEecbRB"
+    },
+    {
+      "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229903,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
     },
     {
       "album": {

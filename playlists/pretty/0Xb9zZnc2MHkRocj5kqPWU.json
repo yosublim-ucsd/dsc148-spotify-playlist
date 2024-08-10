@@ -1,13 +1,133 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62564,
+  "num_followers": 62559,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHPjZ7q+NgoMTzsAKau2YihJ+wp3Pa",
+  "snapshot_id": "AAAHTWrZLQjGMgSmEMCy9EWek7BkMPaJ",
   "tracks": [
+    {
+      "added_at": "2024-08-09 13:16:18",
+      "album": {
+        "name": "A Good Person",
+        "url": "https://open.spotify.com/album/5o5S6SyEWAgO05k6oNDTAo"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "A Good Person",
+      "url": "https://open.spotify.com/track/31lPWnIwGVonCO9ON95oKn"
+    },
+    {
+      "added_at": "2024-08-09 13:15:02",
+      "album": {
+        "name": "Opus",
+        "url": "https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 349150,
+      "name": "for J\u00f3hann",
+      "url": "https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh"
+    },
+    {
+      "added_at": "2024-08-09 13:14:36",
+      "album": {
+        "name": "24 Preludes, Op. 11/No. 21 in B-Flat Major - Andante",
+        "url": "https://open.spotify.com/album/2MAeQ1QI3a6tIxVdKqOmJS"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "duration_ms": 120546,
+      "name": "24 Preludes, Op. 11: No. 21 in B-Flat Major - Andante",
+      "url": "https://open.spotify.com/track/3lxToYK7vt3OysDMAMVT9A"
+    },
+    {
+      "added_at": "2024-08-09 13:15:26",
+      "album": {
+        "name": "Sonata No. 42 in D Minor",
+        "url": "https://open.spotify.com/album/3QGp7vVCkhhzwQY23RjzxE"
+      },
+      "artists": [
+        {
+          "name": "Domenico Cimarosa",
+          "url": "https://open.spotify.com/artist/3UyRRlpJO3uCojQkBibqNZ"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Jean-S\u00e9lim Abdelmoula",
+          "url": "https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh"
+        }
+      ],
+      "duration_ms": 156066,
+      "name": "Sonata No. 42 in D Minor",
+      "url": "https://open.spotify.com/track/2RTqiYtiTKhkctjDOGgQlL"
+    },
+    {
+      "added_at": "2024-08-09 14:10:47",
+      "album": {
+        "name": "Italian R\u00eaverie",
+        "url": "https://open.spotify.com/album/0yZwMgMV5BzTluFxCJXBW3"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        },
+        {
+          "name": "Giuseppe Vitale",
+          "url": "https://open.spotify.com/artist/28oW7RB4sao3Ms4FuKYQyO"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Italian R\u00eaverie",
+      "url": "https://open.spotify.com/track/3GY8tgmS8X3ZwYcRqSJ6Zq"
+    },
+    {
+      "added_at": "2024-08-09 14:12:11",
+      "album": {
+        "name": "Valentin Silvestrov: Forgotten Word I Wished to Say",
+        "url": "https://open.spotify.com/album/7vFrcPyiFroABa3g2d7AL4"
+      },
+      "artists": [
+        {
+          "name": "Valentin Silvestrov",
+          "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 303826,
+      "name": "Two Pieces for Piano Solo: II. Wiegenlied",
+      "url": "https://open.spotify.com/track/6lYH6XDclBD6ZwPINWl4Oo"
+    },
     {
       "added_at": "2024-07-23 20:22:15",
       "album": {
@@ -45,6 +165,34 @@
       "url": "https://open.spotify.com/track/2TCBiOu9kpsk0JaC8vwTOf"
     },
     {
+      "added_at": "2024-08-09 13:16:51",
+      "album": {
+        "name": "We Are (Arr. for Cello and Orchestra by Julian Riem)",
+        "url": "https://open.spotify.com/album/1T6DuE6voVvFP1fTcsXMLH"
+      },
+      "artists": [
+        {
+          "name": "Yuriy Shevchenko",
+          "url": "https://open.spotify.com/artist/75doSMw5bC7hArNEZxEdJ1"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Ukraine National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0yqwhapWYzRkT5u7fcI5Ai"
+        },
+        {
+          "name": "Volodymyr Sirenko",
+          "url": "https://open.spotify.com/artist/2jApkjUMK7BoJtoySCLzKp"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "We Are (Arr. for Cello and Orchestra by Julian Riem)",
+      "url": "https://open.spotify.com/track/5q5hvbkAiKCltRMBD7Yl8F"
+    },
+    {
       "added_at": "2024-07-23 20:23:22",
       "album": {
         "name": "Toccata in C Major, BWV 564: II. Adagio (Arr. for Two Pianos by Alexander Kelberine)",
@@ -65,6 +213,102 @@
       "url": "https://open.spotify.com/track/0T7D1lgQz8fCUHGMF9YI4H"
     },
     {
+      "added_at": "2024-08-09 14:11:04",
+      "album": {
+        "name": "Peaceful Paradise",
+        "url": "https://open.spotify.com/album/24oSL9rC8r8OBsjVzbRhzG"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Peaceful Paradise",
+      "url": "https://open.spotify.com/track/3AKXbF7VasGhPv8Z10S6Dh"
+    },
+    {
+      "added_at": "2024-08-09 14:12:30",
+      "album": {
+        "name": "Liszt Variation (After Im Rhein, im sch\u00f6nen Strome, S. 272, Arr. for Piano by Florian Christl)",
+        "url": "https://open.spotify.com/album/5tf3V0H7UhI6MoOFzd7nxV"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Liszt Variation (After Im Rhein, im sch\u00f6nen Strome, S. 272, Arr. for Piano by Florian Christl)",
+      "url": "https://open.spotify.com/track/5WokHL3JXjiuhg3XvhU3e5"
+    },
+    {
+      "added_at": "2024-08-09 14:26:00",
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/1qfz5i0AowKz3cM9EIe1jg"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/00csguTIPbfkJJVUJzi6Xh"
+    },
+    {
+      "added_at": "2024-08-09 14:24:27",
+      "album": {
+        "name": "L'arbre Solitaire",
+        "url": "https://open.spotify.com/album/6epSEcZeAf17TTU6XK2HIE"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "L'arbre Solitaire",
+      "url": "https://open.spotify.com/track/1Tqs6zpPTJOvQOCJTN2Wqh"
+    },
+    {
+      "added_at": "2024-08-09 13:15:55",
+      "album": {
+        "name": "Piano Trio No. 1 in D Minor, Op. 49/II. Andante con moto tranquillo",
+        "url": "https://open.spotify.com/album/7ifMZgl12lmz17iSUGD4IB"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Jeremy Denk",
+          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
+        }
+      ],
+      "duration_ms": 372666,
+      "name": "Piano Trio No. 1 in D Minor, Op. 49: II. Andante con moto tranquillo",
+      "url": "https://open.spotify.com/track/4C6NNiKJSjpBKw9DJ8tY3B"
+    },
+    {
       "added_at": "2024-07-04 20:01:11",
       "album": {
         "name": "Walls",
@@ -79,6 +323,30 @@
       "duration_ms": 176333,
       "name": "Walls",
       "url": "https://open.spotify.com/track/35bdYC7xm7koy0KoyKS4Bw"
+    },
+    {
+      "added_at": "2024-08-09 14:23:59",
+      "album": {
+        "name": "Sinfonia in D Major: Grave",
+        "url": "https://open.spotify.com/album/5A1z6CbzmLKTppwZFzBCK5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Caldara",
+          "url": "https://open.spotify.com/artist/5K2RzBcPJRkr7qrYwSQdH8"
+        },
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Jean-S\u00e9lim Abdelmoula",
+          "url": "https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh"
+        }
+      ],
+      "duration_ms": 100786,
+      "name": "Sinfonia in D Major: Grave",
+      "url": "https://open.spotify.com/track/6LSFhFuvlKaTyUcKrIUPb5"
     },
     {
       "added_at": "2024-07-04 20:01:50",
@@ -99,6 +367,26 @@
       "duration_ms": 153640,
       "name": "Ravel Bolero Variation (After Bolero, M. 81, Arr. for Piano by Tim Allhoff)",
       "url": "https://open.spotify.com/track/7fxAIhOSzm4l5y30HBaezt"
+    },
+    {
+      "added_at": "2024-08-09 14:12:50",
+      "album": {
+        "name": "Nun komm der Heiden Heiland, BWV 659 (Arr. for Two Pianos by Alexander Kelberine)",
+        "url": "https://open.spotify.com/album/4BtKTaCUgWyFtwep6CMjmV"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "Nun komm der Heiden Heiland, BWV 659 (Arr. for Two Pianos by Alexander Kelberine)",
+      "url": "https://open.spotify.com/track/7zB8WYxu8k3gx28JjTFOUe"
     },
     {
       "added_at": "2024-07-04 19:55:59",
@@ -3523,150 +3811,6 @@
       "duration_ms": 333240,
       "name": "Choral",
       "url": "https://open.spotify.com/track/1TWKlINqC5BgDrtDAPGXPe"
-    },
-    {
-      "added_at": "2022-07-18 14:09:39",
-      "album": {
-        "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
-        "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
-      },
-      "artists": [
-        {
-          "name": "Toshifumi Hinata",
-          "url": "https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm"
-    },
-    {
-      "added_at": "2022-07-22 10:41:17",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Ferruccio Busoni",
-          "url": "https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op. 122/10",
-      "url": "https://open.spotify.com/track/0Ck1w9drSHl9NrWV9diIXv"
-    },
-    {
-      "added_at": "2022-06-20 17:43:01",
-      "album": {
-        "name": "Rabbits (XXIM:EXPO #4)",
-        "url": "https://open.spotify.com/album/3IPHcdwFrndXq3YnODC9hc"
-      },
-      "artists": [
-        {
-          "name": "Moritz Fasbender",
-          "url": "https://open.spotify.com/artist/6T7ow0yr5ho2ZoSCtvG4IQ"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "Swifts",
-      "url": "https://open.spotify.com/track/3RDbeR5LjCi10Ew88Ojxgu"
-    },
-    {
-      "added_at": "2022-06-20 17:40:59",
-      "album": {
-        "name": "Child's Play (Piano Vision)",
-        "url": "https://open.spotify.com/album/2YfKHXn3XbodHPaaEos7RX"
-      },
-      "artists": [
-        {
-          "name": "Stimming x Lambert",
-          "url": "https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Child's Play (Piano Vision)",
-      "url": "https://open.spotify.com/track/132kCNU45WFEY37DDB2SyI"
-    },
-    {
-      "added_at": "2022-06-20 17:41:58",
-      "album": {
-        "name": "Nuvole in Fiore",
-        "url": "https://open.spotify.com/album/0QD1a0CV7IIBe7cpAVWg4p"
-      },
-      "artists": [
-        {
-          "name": "Dardust",
-          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
-        }
-      ],
-      "duration_ms": 288213,
-      "name": "Nuvole in Fiore",
-      "url": "https://open.spotify.com/track/1BsVcUNzdI0FogvxXAWRVN"
-    },
-    {
-      "added_at": "2022-05-20 13:14:30",
-      "album": {
-        "name": "Mozart Adagio Variation (on Piano, Concerto No. 23 in A Minor, K.488)",
-        "url": "https://open.spotify.com/album/6PXGOTAhwyj99qisxohCra"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Dirk Maassen",
-          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Mozart Adagio Variation (Piano Concerto No. 23 in A Minor, K. 488) - Mozart Recomposed",
-      "url": "https://open.spotify.com/track/2ktvf2SbJGmgZrjp14tAcy"
-    },
-    {
-      "added_at": "2022-09-09 20:30:32",
-      "album": {
-        "name": "Papillon (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 176457,
-      "name": "Papillon - Solo Piano Version",
-      "url": "https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo"
-    },
-    {
-      "added_at": "2022-06-10 14:28:57",
-      "album": {
-        "name": "Threnody (after Mozart) - (Arr. for Piano from Piano Concerto No. 23 in A Major, K. 488: II. Adagio by Olivia Belli)",
-        "url": "https://open.spotify.com/album/7875RCkuLMiXtkns8lA1KK"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 259351,
-      "name": "Threnody (after Mozart) - (Arr. for Piano from Piano Concerto No. 23 in A Major, K. 488: II. Adagio by Olivia Belli)",
-      "url": "https://open.spotify.com/track/7A5dYneDw3MosZYSGSkMzC"
     }
   ],
   "unique_name": "Wellness",

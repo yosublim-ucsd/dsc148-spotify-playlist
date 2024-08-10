@@ -144,6 +144,24 @@
     {
       "album": {
         "name": "10 Ng\u00e0n N\u0103m",
+        "url": "https://open.spotify.com/album/63zkNfeojUjImA3nMASGsO"
+      },
+      "artists": [
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "10 Ng\u00e0n N\u0103m",
+      "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
+    },
+    {
+      "album": {
+        "name": "10 Ng\u00e0n N\u0103m",
         "url": "https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF"
       },
       "artists": [
@@ -154,7 +172,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH"
@@ -4798,6 +4816,44 @@
       "duration_ms": 270000,
       "name": "C\u1ee9 Chill Th\u00f4i",
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
+        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Lou Ho\u00e0ng",
+          "url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP"
+        },
+        {
+          "name": "Song Lu\u00e2n",
+          "url": "https://open.spotify.com/artist/0iqum9KAHh3LkgDhuqvTxM"
+        },
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272926,
+      "name": "C\u1ee8 \u0110\u1ec2 ANH TA R\u1edcI \u0110I (feat. D\u01b0\u01a1ng Domic, Quang H\u00f9ng MasterD, Lou Ho\u00e0ng, Song Lu\u00e2n & B\u1ea3o Anh)",
+      "url": "https://open.spotify.com/track/6lhwqbxrVsfCdTpfb7ga34"
     },
     {
       "album": {
@@ -12818,7 +12874,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 236262,
       "name": "Nh\u1eefng L\u1eddi H\u1ee9a B\u1ecf Qu\u00ean",
       "url": "https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o"
@@ -19370,7 +19426,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 157239,
       "name": "V\u1eeba H\u1eadn V\u1eeba Y\u00eau",
       "url": "https://open.spotify.com/track/1oVbTGLd8EgyeWBoqAYBD0"
@@ -19798,7 +19854,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"

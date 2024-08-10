@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 
 > 90년대 모두의 마음을 사로 잡았던 추억의 록 발라드를 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,206 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53hLvTvX3eQ.md) - [plain]
 | 53 | [너를 위한 나의 마음](https://open.spotify.com/track/4HiTlyjhC6SW6SQDJ5sVPo) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [그대 떠나가도](https://open.spotify.com/album/1whdmxp3Yr9SDL3D9QYpKx) | 4:42 |
 | 54 | [인연 \(From\. "드라마 불새"\)](https://open.spotify.com/track/7GXXYo4xfARIJeNOu9a2Se) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [인연](https://open.spotify.com/album/4tNYcoG7KmE4toxCvnHKQA) | 4:42 |
 | 55 | [사랑](https://open.spotify.com/track/5ojeUUgIkneFIQbZVRFOjO) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [11집 사랑](https://open.spotify.com/album/3s1SOGif1DK6FN65K1bBvv) | 3:43 |
-| 56 | [사랑, 결코 시들지 않는....](https://open.spotify.com/track/0DXhrYTbsMhFBKiqmDtkd7) | [서문탁](https://open.spotify.com/artist/190lOeScMz8R14WxvV5iq6) | [Asura](https://open.spotify.com/album/5TlUHsL9fB3jtCQ6rmIIG2) | 4:45 |
+| 56 | [Loving Me, Loving You](https://open.spotify.com/track/0DXhrYTbsMhFBKiqmDtkd7) | [Seo Moon Tak](https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G) | [Asura](https://open.spotify.com/album/5TlUHsL9fB3jtCQ6rmIIG2) | 4:57 |
 | 57 | [After](https://open.spotify.com/track/0ylDYwQ4OUSUtgZT00C13L) | [윤여규 밴드 QPIT](https://open.spotify.com/artist/6tZ7CxKeqb5RBSXiUGX7xW) | [Message](https://open.spotify.com/album/3gbGVHqtFpZIQ6NHAqip3E) | 4:49 |
 | 58 | [I Miss You](https://open.spotify.com/track/2Yhvs1vHJ68Vmn8m2Xj7h6) | [Seo Ji Won](https://open.spotify.com/artist/4TBgwwFdWe205WGBPIuiPZ) | [Tears](https://open.spotify.com/album/1z3z64S2jYWOInW3doGOgb) | 4:31 |
 | 59 | [Till the Day Being Loved Beautifully](https://open.spotify.com/track/3mP6m44SSixAnpOsoMDdhk) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [...Love U](https://open.spotify.com/album/4ltA3801NArBlcYgeknez6) | 4:44 |

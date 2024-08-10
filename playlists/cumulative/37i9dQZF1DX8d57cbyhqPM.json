@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Fally Ipupa",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Koffi Olomide",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 154000,
       "name": "DJ",
       "url": "https://open.spotify.com/track/0yHh2v3P5dBSjSyV1uDBhQ"
@@ -2533,6 +2533,28 @@
     },
     {
       "album": {
+        "name": "Eza pasi",
+        "url": "https://open.spotify.com/album/6XrmF3AOmZzMPa1dTKwqM2"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341968,
+      "name": "Eza pasi",
+      "url": "https://open.spotify.com/track/1gBRdeta1oZasVAoxYYou1"
+    },
+    {
+      "album": {
         "name": "Fais \u00e7a bien",
         "url": "https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N"
       },
@@ -2606,6 +2628,40 @@
       "duration_ms": 157496,
       "name": "Femme Africaine",
       "url": "https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY"
+    },
+    {
+      "album": {
+        "name": "Fimbi",
+        "url": "https://open.spotify.com/album/7HpMqFZmpEpGUG8kFCakMe"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tranger en Service",
+          "url": "https://open.spotify.com/artist/5eHd731OgnDsr6SlkXtQjR"
+        },
+        {
+          "name": "Escobar Macson",
+          "url": "https://open.spotify.com/artist/20h51JHDHYdRcohZcpG31X"
+        },
+        {
+          "name": "KUPALA",
+          "url": "https://open.spotify.com/artist/6XECvN8hneUtMUAYDaVVny"
+        },
+        {
+          "name": "Kozi",
+          "url": "https://open.spotify.com/artist/0tr5tW17p4VHuAU2hKJWx8"
+        },
+        {
+          "name": "Poison Mobutu",
+          "url": "https://open.spotify.com/artist/4kCTmddOqyFnW4jVVqYmCi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185749,
+      "name": "Fimbi",
+      "url": "https://open.spotify.com/track/6RT2GwSLhCWdqVkT3dKUmH"
     },
     {
       "album": {
@@ -2996,7 +3052,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184120,
       "name": "Genkidama",
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
@@ -3924,7 +3980,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192051,
       "name": "Legende",
       "url": "https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15"
@@ -3946,6 +4002,24 @@
       "duration_ms": 322773,
       "name": "Lekela Muadi",
       "url": "https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh"
+    },
+    {
+      "album": {
+        "name": "Lela",
+        "url": "https://open.spotify.com/album/3Vs0tt1V2JAU4ViJoSK8Hy"
+      },
+      "artists": [
+        {
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235300,
+      "name": "Lela",
+      "url": "https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8"
     },
     {
       "album": {
@@ -4172,7 +4246,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 230173,
       "name": "Linga Nga",
       "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
@@ -4234,6 +4308,28 @@
       "duration_ms": 335830,
       "name": "Loi",
       "url": "https://open.spotify.com/track/3ERMjh3EfOWWoLJjcxtpvt"
+    },
+    {
+      "album": {
+        "name": "Loin de toi",
+        "url": "https://open.spotify.com/album/7584QjZdTOHxOA7mQhJZ49"
+      },
+      "artists": [
+        {
+          "name": "Meydo",
+          "url": "https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u"
+        },
+        {
+          "name": "Osive",
+          "url": "https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129410,
+      "name": "Loin de toi",
+      "url": "https://open.spotify.com/track/4Wu2I5bG74sgqFhGhEQ6En"
     },
     {
       "album": {
@@ -4594,10 +4690,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 267160,
       "name": "MAMA EYENGA",
       "url": "https://open.spotify.com/track/5XID8nM9UjxKmEzvsMk7MY"
+    },
+    {
+      "album": {
+        "name": "Duniya",
+        "url": "https://open.spotify.com/album/7vYN9MSADChmcc0ciz8BRC"
+      },
+      "artists": [
+        {
+          "name": "Hugo Kafumbi",
+          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/7hmZNboMTUn21rneXOOlG9"
     },
     {
       "album": {
@@ -7278,6 +7392,28 @@
       "duration_ms": 185546,
       "name": "Tant Pis",
       "url": "https://open.spotify.com/track/4ZmqFrZr2ItfKrM9BUOqDS"
+    },
+    {
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6gygGJ48ID1OVEsaGodiR8"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220342,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/7khwo2BvzzHgXHIqIcM8xa"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Gwen Stefani & Anderson .Paak",
-  "num_followers": 440607,
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Khalid",
+  "num_followers": 440642,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAABZvbkAV/uwzYQYGhnkwl9o",
+  "snapshot_id": "ZrWUQAAAAAB/hL4L5O67Wf1nY90TqZZL",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -25,48 +25,20 @@
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-01-19 05:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 203689,
-      "name": "Up All Night (with The Lumineers & Noah Kahan)",
-      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Hello World (Song of the Olympics\u2122)",
-        "url": "https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 151392,
-      "name": "Hello World - Song of the Olympics\u2122",
-      "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -109,6 +81,22 @@
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "The Great American Bar Scene",
@@ -123,38 +111,6 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Death Wish Love (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 223955,
-      "name": "Death Wish Love (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -189,20 +145,76 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-01-19 05:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+      "duration_ms": 203689,
+      "name": "Up All Night (with The Lumineers & Noah Kahan)",
+      "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -253,22 +265,6 @@
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "The Secret of Us",
@@ -299,6 +295,22 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Double Life (From \"Despicable Me 4\")",
+        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190782,
+      "name": "Double Life - From \"Despicable Me 4\"",
+      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -369,22 +381,6 @@
       "url": "https://open.spotify.com/track/6CnRXn7fv8wLXmzsmsAIzm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Double Life (From \"Despicable Me 4\")",
-        "url": "https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190782,
-      "name": "Double Life - From \"Despicable Me 4\"",
-      "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "ROOM UNDER THE STAIRS",
@@ -399,6 +395,22 @@
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -525,22 +537,6 @@
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Work It Out",
-        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 150474,
-      "name": "Work It Out",
-      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "Scared To Start",
@@ -589,6 +585,26 @@
       "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hello World (Song of the Olympics\u2122)",
+        "url": "https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 151392,
+      "name": "Hello World - Song of the Olympics\u2122",
+      "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Before You Leave Me",
@@ -619,6 +635,22 @@
       "duration_ms": 174248,
       "name": "GRAVITY",
       "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Work It Out",
+        "url": "https://open.spotify.com/album/1sM2lvgt8XUBHJC4RRYN0Y"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "Work It Out",
+      "url": "https://open.spotify.com/track/1zepNi2GSE216osBwSn4ZD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -671,22 +703,6 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -857,20 +873,20 @@
       "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
+      "duration_ms": 185552,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -937,20 +953,20 @@
       "url": "https://open.spotify.com/track/0EsUXO4yWmG15X3VhWrWbI"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -989,52 +1005,20 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "based on a true story",
-        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
       "artists": [
         {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 220533,
-      "name": "lost cause",
-      "url": "https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "All My Broken Pieces",
-        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 242220,
-      "name": "All My Broken Pieces",
-      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Our Way",
-        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -1053,20 +1037,40 @@
       "url": "https://open.spotify.com/track/2bl81llf715VEEbAx03yvB"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
       "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
+      "added_at": "2023-12-01 17:56:37",
+      "album": {
+        "name": "based on a true story",
+        "url": "https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "lost cause",
+      "url": "https://open.spotify.com/track/15yqPpsLKCPEGIVhqE7dUD"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1083,6 +1087,22 @@
       "duration_ms": 210548,
       "name": "Gonna Find Out",
       "url": "https://open.spotify.com/track/6cxSQtWAOYXdLQJy4Cz4CA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "added_at": "2023-12-01 17:56:37",
@@ -1199,22 +1219,6 @@
       "duration_ms": 214826,
       "name": "Treehouse (feat. Brandy Clark)",
       "url": "https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "One On The Way",
-        "url": "https://open.spotify.com/album/38k1BuDRvqPmbD4Yq2MHXJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 224869,
-      "name": "One On The Way",
-      "url": "https://open.spotify.com/track/7FdTeoRDaIlNmcmpu1zX7T"
     },
     {
       "added_at": "2024-07-19 04:00:00",

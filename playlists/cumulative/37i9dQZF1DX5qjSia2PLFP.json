@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:0ocxWXtgr9tJW60xV5ZufT\">Isaiah Falls</a> ",
+  "description": "New music breaking waves. Cover: <a href=\"spotify:artist:4QSTyDpxsKmv3UfavVUImR\">Darkoo</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -1798,10 +1798,44 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 124931,
       "name": "Beckham",
       "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
+    },
+    {
+      "album": {
+        "name": "Beckham (Pack)",
+        "url": "https://open.spotify.com/album/33F2Utgufb39Z6ZtqDD0gi"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "Beckham (41 Mix)",
+      "url": "https://open.spotify.com/track/0AMujCMT4wOt8nKDSQwIK3"
     },
     {
       "album": {
@@ -2016,7 +2050,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156832,
       "name": "Big One (feat. Monaleo)",
       "url": "https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK"
@@ -2274,7 +2308,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188421,
       "name": "Blick (feat. NLE Choppa) - Remix",
       "url": "https://open.spotify.com/track/6W5l0WMb1BTvUsYmVfywco"
@@ -2518,7 +2552,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200819,
       "name": "Body Bangin",
       "url": "https://open.spotify.com/track/2iI1L6fEvcB0yS97Z2DntS"
@@ -2700,6 +2734,24 @@
       "duration_ms": 114036,
       "name": "Brand New Blues",
       "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
+    },
+    {
+      "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107760,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/4pDisT7ZgNbtpGHUyjkhUm"
     },
     {
       "album": {
@@ -2899,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Bundle Of Sticks",
+        "url": "https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Bundle Of Sticks",
+      "url": "https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr"
+    },
+    {
+      "album": {
         "name": "Bussin",
         "url": "https://open.spotify.com/album/2OA8LO3EzH1i1J1oYFcqrl"
       },
@@ -3078,7 +3148,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192251,
       "name": "Came Out A Beast",
       "url": "https://open.spotify.com/track/6o4yrCbHJAl0vpH1zi6PFZ"
@@ -3564,6 +3634,24 @@
       "duration_ms": 169195,
       "name": "Choppa (with Lil Baby & Rvssian)",
       "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
+    },
+    {
+      "album": {
+        "name": "Chrome - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6b6cuhvYFCScmmFUHtKjyq"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187274,
+      "name": "Chrome - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7eaF2ASep9mUuFLN60y7BI"
     },
     {
       "album": {
@@ -4074,7 +4162,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268875,
       "name": "Cranes in the Sky - Spotify Singles",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
@@ -4955,6 +5043,28 @@
     },
     {
       "album": {
+        "name": "Don Who Leo - A\u00f1ejo Remix",
+        "url": "https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150408,
+      "name": "Don Who Leo - A\u00f1ejo Remix",
+      "url": "https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi"
+    },
+    {
+      "album": {
         "name": "Don't Sit Right",
         "url": "https://open.spotify.com/album/3jc2NUdhVwDlMIb8kfiTlG"
       },
@@ -5505,6 +5615,28 @@
     },
     {
       "album": {
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1LynotNCLC2Q1g08KQX9TC"
+      },
+      "artists": [
+        {
+          "name": "RW 5ive",
+          "url": "https://open.spotify.com/artist/10EeD8ckn8gnq59j5oR0yb"
+        },
+        {
+          "name": "Lil Joc",
+          "url": "https://open.spotify.com/artist/1ZjFjZcPidokRavUYyltIo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "everybody",
+      "url": "https://open.spotify.com/track/4BfPAZUK2bUT0dCbNiZoAk"
+    },
+    {
+      "album": {
         "name": "Free Samples, Vol. 2",
         "url": "https://open.spotify.com/album/1WCxL49gWJL2TxE2sPVhL8"
       },
@@ -5846,6 +5978,28 @@
       "duration_ms": 140852,
       "name": "Favorite Lady",
       "url": "https://open.spotify.com/track/3DEDh62pZq4z5Lc8WkhwuM"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "album": {
@@ -6693,6 +6847,28 @@
     },
     {
       "album": {
+        "name": "Get In There (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195005,
+      "name": "Get In There (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
+    },
+    {
+      "album": {
         "name": "Get In With Me",
         "url": "https://open.spotify.com/album/5OOVp8NFXAklfbzh5BcLzx"
       },
@@ -6722,7 +6898,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -7052,7 +7228,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 119171,
       "name": "GoCrazy",
       "url": "https://open.spotify.com/track/13jS8K1h1pA6VlDTp4HsNb"
@@ -7763,6 +7939,24 @@
     },
     {
       "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181165,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp"
+    },
+    {
+      "album": {
         "name": "Here I Come",
         "url": "https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK"
       },
@@ -8054,7 +8248,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 231791,
       "name": "Homebody (with Skilla Baby feat. Moneybagg Yo & Bossman Dlow) (Remix)",
       "url": "https://open.spotify.com/track/6IIxEObjN2pZGddE0ChU1o"
@@ -9917,6 +10111,28 @@
     },
     {
       "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180338,
+      "name": "Lil Bastard (feat. Rob49)",
+      "url": "https://open.spotify.com/track/6mn8RvMkKooyaKqJ9V4Ndw"
+    },
+    {
+      "album": {
         "name": "Lil Mama Its Okay",
         "url": "https://open.spotify.com/album/5eRyz7Qo3RWjaJlIcr32QN"
       },
@@ -11590,7 +11806,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 128132,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
@@ -12260,7 +12476,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 348409,
       "name": "ON THE RADAR CONCRETE CYPHER (feat. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day)",
       "url": "https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p"
@@ -12928,7 +13144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178359,
       "name": "PJ (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
@@ -13216,7 +13432,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 88163,
       "name": "Pose For Me",
       "url": "https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9"
@@ -14250,7 +14466,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 127137,
       "name": "Running Late",
       "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
@@ -14484,7 +14700,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155193,
       "name": "Say Yes (feat. Hunxho)",
       "url": "https://open.spotify.com/track/4sBa5JbT61tNRZfDPJht5f"
@@ -15876,7 +16092,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 108863,
       "name": "STACKIN PAPE",
       "url": "https://open.spotify.com/track/0c2FsdJyPOfu5KEbWaNEWq"
@@ -16893,6 +17109,24 @@
     },
     {
       "album": {
+        "name": "The Largest",
+        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
+    },
+    {
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
       },
@@ -16988,6 +17222,24 @@
       "duration_ms": 181694,
       "name": "THE WAY",
       "url": "https://open.spotify.com/track/6JpVJ5Yfi9aHYUIWoWswSb"
+    },
+    {
+      "album": {
+        "name": "The Way She Move",
+        "url": "https://open.spotify.com/album/7zuMby38F1tC9DpUZ31vmf"
+      },
+      "artists": [
+        {
+          "name": "Btb Dezz",
+          "url": "https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "The Way She Move",
+      "url": "https://open.spotify.com/track/2QMcMpOQTnmvpvi9AkWD1Z"
     },
     {
       "album": {
@@ -17408,7 +17660,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 122841,
       "name": "Trick",
       "url": "https://open.spotify.com/track/4Inza1lYiwj1XWGaEoY3B5"
@@ -17484,7 +17736,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 185506,
       "name": "Tryin' to Play Me",
       "url": "https://open.spotify.com/track/1CFYvRq6i4O0i5FvziWt57"
@@ -18138,7 +18390,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156444,
       "name": "Wanna Be (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0Izt8MdEU7zDy2hDsm5YkH"
@@ -18280,7 +18532,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143120,
       "name": "Waterproof",
       "url": "https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk"
@@ -19146,6 +19398,28 @@
       "duration_ms": 138013,
       "name": "You Don't Even",
       "url": "https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy"
+    },
+    {
+      "album": {
+        "name": "i do this sh*t in my sleep",
+        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
     },
     {
       "album": {

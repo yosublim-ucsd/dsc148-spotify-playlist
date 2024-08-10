@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 185129,
       "name": "Jitni Dafa",
       "url": "https://open.spotify.com/track/5eJ3sPNxQ2m32DkmMQHTEc"
@@ -7514,6 +7514,28 @@
       "duration_ms": 209258,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO"
+    },
+    {
+      "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/1CreKeXvqkaEErPmav94mX"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "Tu Hai",
+      "url": "https://open.spotify.com/track/3xjEczwj6D6xKgtnUBi2A6"
     },
     {
       "album": {

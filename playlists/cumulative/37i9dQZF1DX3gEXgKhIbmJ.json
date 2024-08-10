@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "A \u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/53WJEjJJ5flJTAUmh3Kmis"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "A \u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/6ifISefylcgPQksE0gmcVY"
+    },
+    {
+      "album": {
         "name": "Vit\u00f3ria",
         "url": "https://open.spotify.com/album/7JfBKyoDTo9347LleQlGbG"
       },
@@ -425,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Fora Da Panela (Mixtape)",
+        "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Overdone",
+          "url": "https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Belo Horizonte 30 Graus A Noite",
+      "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
+    },
+    {
+      "album": {
         "name": "BIG BOY",
         "url": "https://open.spotify.com/album/6EMDntRH1kxsdU2Gre8KGl"
       },
@@ -678,6 +718,28 @@
       "duration_ms": 140146,
       "name": "Bpn",
       "url": "https://open.spotify.com/track/5L3AslRWDg4kyf3wkRGYEl"
+    },
+    {
+      "album": {
+        "name": "BRATZ",
+        "url": "https://open.spotify.com/album/0WvKlAgDTahllcJCbmcPos"
+      },
+      "artists": [
+        {
+          "name": "Kewan Lion",
+          "url": "https://open.spotify.com/artist/6E67a18QLBuN2tPgjc5faL"
+        },
+        {
+          "name": "Bxrgez",
+          "url": "https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120004,
+      "name": "BRATZ",
+      "url": "https://open.spotify.com/track/5UJUGYZaTGmqucG34gcYvQ"
     },
     {
       "album": {
@@ -3572,6 +3634,32 @@
       "duration_ms": 156812,
       "name": "PUFFER",
       "url": "https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz"
+    },
+    {
+      "album": {
+        "name": "Que Horas Ela Vem?",
+        "url": "https://open.spotify.com/album/3akVidMEvSHaNMc6fSA7Eu"
+      },
+      "artists": [
+        {
+          "name": "Palo",
+          "url": "https://open.spotify.com/artist/63OGdk3eGnk7ugMhEBOKay"
+        },
+        {
+          "name": "Tertto",
+          "url": "https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr"
+        },
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Que Horas Ela Vem?",
+      "url": "https://open.spotify.com/track/3MB3WsEVE4ELOeVbyfnjX1"
     },
     {
       "album": {

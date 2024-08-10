@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Rauw Alejandro.",
+  "description": "Pop on the rise you should know, featuring Manuel Turizo.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 212440,
       "name": "215 D\u00edas",
       "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
     },
     {
       "album": {
@@ -3681,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Enhorabuena",
+        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168459,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
+    },
+    {
+      "album": {
         "name": "Enredado",
         "url": "https://open.spotify.com/album/5PNzzawGM6qicExQSakMxb"
       },
@@ -5282,7 +5318,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 162906,
       "name": "La Raz\u00f3n",
       "url": "https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH"
@@ -6698,7 +6734,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
@@ -7908,7 +7944,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -8986,6 +9022,24 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
     },
     {
       "album": {

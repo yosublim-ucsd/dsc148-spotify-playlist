@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-978 songs - 2 day 0 hr 36 min
+979 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Dibine Kadar](https://open.spotify.com/track/5pbFyTdwtJVmZB5LXmccX4) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Duman 1](https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C) | 3:48 | 2021-10-20 | 2022-02-13 |
 | [Diken Mi Gül Mü?](https://open.spotify.com/track/0QQ1BLUudNdqOHg3FpFnYH) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/3zuJa3yg2XJWMmxoOULDaA) | 3:28 | 2023-03-31 | 2023-08-25 |
 | [Diken Mi Gül Mü?](https://open.spotify.com/track/4IjSOaCoGkP9Lqd5U8YeP0) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeni Aşkım](https://open.spotify.com/album/7soBdXkrnCgcTBQV7tCoJT) | 3:28 | 2023-05-16 | 2023-06-07 |
-| [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-01-13 |  |
+| [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-01-13 | 2024-08-10 |
 | [Dinle Beni Bi'](https://open.spotify.com/track/11PO9iu6PtpgL1JK4QNUEJ) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Akustik Travma](https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU) | 2:24 | 2021-09-28 | 2023-04-01 |
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 | 2023-02-09 |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
@@ -504,7 +504,8 @@
 | [Jalebi Baby](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc) | 3:09 | 2021-04-10 | 2021-04-15 |
 | [Jalebi Baby](https://open.spotify.com/track/40R5dXDbS3mLG9ng7COXtt) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/6ZVhO5wnf5PfUfREZylP2u) | 3:09 | 2021-03-30 | 2021-04-10 |
 | [JET BABA](https://open.spotify.com/track/7FVpfqKuhl9OYsFUHiZV4T) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [JET BABA](https://open.spotify.com/album/0iZGqSIdqgCrwsStL5jXjm) | 2:20 | 2023-12-02 | 2024-06-16 |
-| [Kadehimi Boş Bırakma](https://open.spotify.com/track/14y1hmMvxwpDLbZnY5i0Ne) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/7jSFXGgz5Yx96tTnshqitQ) | 2:26 | 2024-07-27 |  |
+| [Kadehimi Boş Bırakma](https://open.spotify.com/track/14y1hmMvxwpDLbZnY5i0Ne) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/7jSFXGgz5Yx96tTnshqitQ) | 2:26 | 2024-07-27 | 2024-08-10 |
+| [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 | 2024-08-09 |  |
 | [Kader](https://open.spotify.com/track/3F0f7Sn5dKdUHJUcyh38mY) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kader](https://open.spotify.com/album/1WqBaT9UT7Q1onJHbplcWt) | 3:09 | 2021-07-18 | 2021-07-30 |
 | [Kafa Tatili](https://open.spotify.com/track/365h8PI7fkpQMYWpk4HHC1) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kafa Tatili](https://open.spotify.com/album/1kj82OlvIWJcIOx4LupuuF) | 2:59 | 2022-06-11 | 2022-06-16 |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-06-04 | 2024-07-12 |
@@ -766,7 +767,7 @@
 | [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-10-17 | 2024-03-12 |
 | [SALAH](https://open.spotify.com/track/1hoI5KrTn5aEyBZJnVwdr0) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SALAH](https://open.spotify.com/album/69JpxQN95CyG5gX6zdN2PE) | 2:01 | 2021-10-03 | 2021-10-04 |
 | [Salam Alaykum](https://open.spotify.com/track/69YWQXUtlAlir0zRcFrPyr) | [Hypzex](https://open.spotify.com/artist/42jeWT1YU3yKejPa704z25), [RECO](https://open.spotify.com/artist/6W9GklXF52RYMTtbPbty7q) | [Salam Alaykum](https://open.spotify.com/album/2cp6COEaiPoaNQzDmQNzLO) | 2:36 | 2021-04-26 | 2021-06-14 |
-| [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-11-25 | 2024-07-05 |
+| [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-11-25 |  |
 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 | 2021-03-27\* | 2021-05-23 |
 | [Salıncak](https://open.spotify.com/track/2WvQPmUV1dFdm21C2ryqfo) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT) | [Salıncak](https://open.spotify.com/album/7e4M15sSXZHABco4p5O1GD) | 2:47 | 2022-01-11 | 2022-04-03 |
 | [Sana Bayılıyorum](https://open.spotify.com/track/1P75ygfeKbTnWpuyTzUpCy) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 2:36 | 2021-05-23 | 2021-06-06 |

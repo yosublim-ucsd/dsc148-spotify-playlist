@@ -8941,6 +8941,28 @@
     },
     {
       "album": {
+        "name": "Por Un Beso",
+        "url": "https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Por Un Beso",
+      "url": "https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0"
+    },
+    {
+      "album": {
         "name": "Por un Fume de Hachis",
         "url": "https://open.spotify.com/album/3Lh6fbzwC00dEZD4I36mKA"
       },
@@ -11880,7 +11902,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 230769,
       "name": "Un Buen D\u00eda",
       "url": "https://open.spotify.com/track/4hZgiw2H2NzPEEBo9rwsvj"

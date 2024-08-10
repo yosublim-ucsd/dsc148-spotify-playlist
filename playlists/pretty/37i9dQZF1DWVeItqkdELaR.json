@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2024! \ud83c\udf1e",
-  "num_followers": 109844,
+  "num_followers": 109987,
   "original_name": "Ver\u00e3o 2024 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-26 14:21:03",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-07-26 14:21:03",
-      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2024-07-26 14:21:03",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-07-26 14:21:03",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-26 14:21:03",
       "album": {
+        "name": "Manual de Como Amar Errado",
+        "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cora\u00e7\u00e3o de Gelo",
+      "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
+    },
+    {
+      "added_at": "2024-07-26 14:21:03",
+      "album": {
         "name": "Cart\u00e3o Black",
         "url": "https://open.spotify.com/album/23R4fvlUILMwCpu3tpgiMH"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 159973,
       "name": "Cart\u00e3o Black",
       "url": "https://open.spotify.com/track/12YCtLHGk6tP6RbHDHflCs"
-    },
-    {
-      "added_at": "2024-07-26 14:21:03",
-      "album": {
-        "name": "Manual de Como Amar Errado",
-        "url": "https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Cora\u00e7\u00e3o de Gelo",
-      "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
     },
     {
       "added_at": "2024-07-26 14:21:03",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2024-07-26 14:21:03",
       "album": {
-        "name": "HE KNOWS (feat. Lil Nas X)",
-        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "HE KNOWS (feat. Lil Nas X)",
-      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
-    },
-    {
-      "added_at": "2024-07-26 14:21:03",
-      "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 141769,
       "name": "Malvad\u00e3o 3",
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
+    },
+    {
+      "added_at": "2024-07-26 14:21:03",
+      "album": {
+        "name": "HE KNOWS (feat. Lil Nas X)",
+        "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "HE KNOWS (feat. Lil Nas X)",
+      "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
     },
     {
       "added_at": "2024-07-26 14:21:03",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-26 14:21:03",
       "album": {
-        "name": "O Pr\u00f3prio",
-        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 204489,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy"
-    },
-    {
-      "added_at": "2024-07-26 14:21:03",
-      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
+    },
+    {
+      "added_at": "2024-07-26 14:21:03",
+      "album": {
+        "name": "O Pr\u00f3prio",
+        "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 204489,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy"
     },
     {
       "added_at": "2024-07-26 14:21:03",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2024-07-26 14:21:03",
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 165424,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/0ZEQ6vnAHTARAgpxFF8NLS"
+    },
+    {
+      "added_at": "2024-07-26 14:21:03",
+      "album": {
         "name": "Planeta",
         "url": "https://open.spotify.com/album/68WbQweOEDySKYhftpKfcE"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 167012,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW"
-    },
-    {
-      "added_at": "2024-07-26 14:21:03",
-      "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 165424,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/0ZEQ6vnAHTARAgpxFF8NLS"
     },
     {
       "added_at": "2024-07-26 14:21:03",

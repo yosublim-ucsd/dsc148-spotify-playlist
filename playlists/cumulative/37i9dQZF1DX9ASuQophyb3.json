@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Eriyorum G\u00fcnden G\u00fcne",
+        "url": "https://open.spotify.com/album/07ZzbfU1xkU9d9r90jKV5N"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Eriyorum G\u00fcnden G\u00fcne",
+      "url": "https://open.spotify.com/track/6Tv0qEIymHmFJT74WS52TO"
+    },
+    {
+      "album": {
         "name": "Geri D\u00f6nemedim",
         "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
       },

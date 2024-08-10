@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 281490,
       "name": "Cora\u00e7\u00e3o Errante",
       "url": "https://open.spotify.com/track/7akiuwbD81CXBK5NNTsPj0"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 504752,
       "name": "Esp\u00edrito Poderoso",
       "url": "https://open.spotify.com/track/3n1t1QGVGNtf0Pmglzddgp"
@@ -2100,6 +2100,24 @@
       "duration_ms": 200048,
       "name": "Minha Voz Te Louva",
       "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Vou Desistir",
+        "url": "https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Muito Mais pra Mim",
+      "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
     },
     {
       "album": {
@@ -3150,6 +3168,28 @@
       "duration_ms": 290552,
       "name": "Todo Amor do Mundo",
       "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
+    },
+    {
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/2PJRaGGWNHcfjb8cPQall9"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Todo Tempo do Mundo",
+      "url": "https://open.spotify.com/track/5enLDl3yrtx3L3aMIiXKFC"
     },
     {
       "album": {

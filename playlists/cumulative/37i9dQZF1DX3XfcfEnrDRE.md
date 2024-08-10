@@ -4,7 +4,7 @@
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: <a href="spotify:artist:6d9rhdwIVsqblUFXu7qEBp">Gable Price and Friends</a>
 
-213 songs - 13 hr 15 min
+215 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 | 2024-06-21 |  |
 | [Don't Know If I Believe It](https://open.spotify.com/track/66UdVUAmxmLFSkJQ5PF7Oe) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Don't Know If I Believe It](https://open.spotify.com/album/5gmMOFwX9TofF3zqYMs3Ur) | 4:51 | 2022-02-27 | 2022-03-12 |
 | [Epic](https://open.spotify.com/track/7BqLZYzL8gWa27PsUdqRvp) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Epic](https://open.spotify.com/album/1hoF5ONBHFFxNjOifxbJbz) | 3:37 | 2022-07-17 | 2022-12-17 |
+| [eternity](https://open.spotify.com/track/5bDyEhIt1gPXuaAxUvNUJr) | [aftrthght](https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY) | [conflictions of affliction: tears of the kingdom](https://open.spotify.com/album/0lw08BZOZTMwS4GhwX12eh) | 2:28 | 2024-08-09 |  |
 | [evergreen love](https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [evergreen love](https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS) | 2:57 | 2024-08-02 |  |
 | [Every Morning](https://open.spotify.com/track/17P6kojDstdaw65xDCOARU) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Every Morning](https://open.spotify.com/album/6re1dUsurh2IKlkZhL6tiy) | 3:43 | 2022-02-27 | 2024-06-22 |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2022-03-11 | 2022-12-17 |
@@ -85,7 +86,7 @@
 | [Greater is the Blood](https://open.spotify.com/track/4xUZrneYGiwwBEzFWhZiB9) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Greater is the Blood](https://open.spotify.com/album/0671ivK4q1hfduVDwEpSRs) | 3:51 | 2022-07-17 | 2024-06-22 |
 | [Have A Little Faith](https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Have A Little Faith](https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q) | 2:39 | 2022-12-16 |  |
 | [He Is Good](https://open.spotify.com/track/1dl11ALhlMcCPxJekWvQYk) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [He Is Good](https://open.spotify.com/album/57JFOyf7sOuYDK0zTpW6aj) | 2:52 | 2022-02-27 | 2022-07-18 |
-| [Heaven Closes Doors](https://open.spotify.com/track/3ZyhSQbjw3IJlOlxf6Eb01) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Heaven Closes Doors](https://open.spotify.com/album/1B2z0g0XSBU0sk602B8q6V) | 3:56 | 2024-08-02 |  |
+| [Heaven Closes Doors](https://open.spotify.com/track/3ZyhSQbjw3IJlOlxf6Eb01) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Heaven Closes Doors](https://open.spotify.com/album/1B2z0g0XSBU0sk602B8q6V) | 3:56 | 2024-08-02 | 2024-08-10 |
 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 | 2022-02-27 | 2024-06-22 |
 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 | 2022-03-11 | 2024-08-03 |
 | [Hey Jesus](https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts) | [Trey Pearson](https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF), [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Somebody You Knew](https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E) | 3:18 | 2022-07-17 | 2024-06-22 |
@@ -144,6 +145,7 @@
 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2022-12-16 |  |
 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 | 2022-07-17 | 2024-08-03 |
 | [NEVER FELT SO GOOD](https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [NEVER FELT SO GOOD](https://open.spotify.com/album/1EKGO8s7zRK7OG2xOMUOjN) | 2:19 | 2024-05-10 |  |
+| [Newspaper Boat](https://open.spotify.com/track/4Ji0qrNoExLxTlu0ezFKmR) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/3L0Uu4uPGQ7CaFFdbo5YdX) | 4:16 | 2024-08-09 |  |
 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 | 2022-02-27 | 2024-06-22 |
 | [No Regrets](https://open.spotify.com/track/3wMXq46Ik6pq4hwTHl0ngz) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK), [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [No Regrets](https://open.spotify.com/album/5nkoj4lWV405QbiPq4G0F8) | 3:30 | 2024-05-24 |  |
 | [Not Done Yet](https://open.spotify.com/track/6cAObGU0XLTa3HqJ6v9dAH) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not Done Yet](https://open.spotify.com/album/6hdf7tH7T4fww2FI9WhIpR) | 3:16 | 2024-08-02 |  |

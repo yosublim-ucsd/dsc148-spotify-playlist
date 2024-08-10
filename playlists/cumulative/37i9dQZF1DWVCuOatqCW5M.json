@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Rochak Kohli",
+  "description": "Latest music from your fav I-Pop artists. Cover- Shalmali Kholgade",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140312,
       "name": "5 saal",
       "url": "https://open.spotify.com/track/7zNVf1nO0eoFEgC3bUY5UL"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 185858,
       "name": "Anjaane",
       "url": "https://open.spotify.com/track/0T22EWhBIWwHi7VYQUaS3m"
@@ -2271,6 +2271,32 @@
     },
     {
       "album": {
+        "name": "Baawra",
+        "url": "https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Geet",
+          "url": "https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Baawra",
+      "url": "https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0"
+    },
+    {
+      "album": {
         "name": "Baawra Mann",
         "url": "https://open.spotify.com/album/75dVZo1ENZKeR3JDBQW8DR"
       },
@@ -2778,7 +2804,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169655,
       "name": "Barsaat Hai",
       "url": "https://open.spotify.com/track/7czJVEP5gdM8ZxHwH7AYiL"
@@ -5215,6 +5241,36 @@
     },
     {
       "album": {
+        "name": "Dhola",
+        "url": "https://open.spotify.com/album/3KXUKxGOLmpnyAzSav9Zy2"
+      },
+      "artists": [
+        {
+          "name": "Millind Gaba",
+          "url": "https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN"
+        },
+        {
+          "name": "Asli GOLD",
+          "url": "https://open.spotify.com/artist/0MDuneb2yM4vkubU0FwDKp"
+        },
+        {
+          "name": "Star Boy Loc",
+          "url": "https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv"
+        },
+        {
+          "name": "Dhrruv Yogi",
+          "url": "https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Dhola",
+      "url": "https://open.spotify.com/track/58vUbKQNsug6mi7v7ns0Vi"
+    },
+    {
+      "album": {
         "name": "Dhuaan",
         "url": "https://open.spotify.com/album/3TzWaLcyDRndLFSuIEvUK4"
       },
@@ -5962,7 +6018,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165641,
       "name": "DIN RAINA",
       "url": "https://open.spotify.com/track/4FlLhUMhtmtpeLQT9HdmfI"
@@ -8189,6 +8245,28 @@
     },
     {
       "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/3z6oeemh6zVAUoYao6FthF"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Pinky Medhi",
+          "url": "https://open.spotify.com/artist/4ao3P7vZTPyrK0oydJoHR0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/7BJrlNIxZ03j5dscRMIEi6"
+    },
+    {
+      "album": {
         "name": "Heer Hai Royi",
         "url": "https://open.spotify.com/album/08xK09ByGGefTVkesd7stX"
       },
@@ -8584,6 +8662,28 @@
       "duration_ms": 187800,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/3hJ5fEOXMPqxpU6mdHFQCY"
+    },
+    {
+      "album": {
+        "name": "Hoor",
+        "url": "https://open.spotify.com/album/2lgiKLYjDw1rGfIzCFb08k"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown",
+          "url": "https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134762,
+      "name": "Hoor",
+      "url": "https://open.spotify.com/track/3v4IktqhfdN6BbxOl7ff16"
     },
     {
       "album": {
@@ -13093,6 +13193,28 @@
     },
     {
       "album": {
+        "name": "Zaeden 02",
+        "url": "https://open.spotify.com/album/4mXRWwn7jg0WYFTFYFb3NM"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "kya hua?",
+      "url": "https://open.spotify.com/track/1nofF5Okx5JM71VQD7IecC"
+    },
+    {
+      "album": {
         "name": "Kya Karein",
         "url": "https://open.spotify.com/album/1mztpgbKJgEuuK3PPhg95g"
       },
@@ -15358,7 +15480,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 312631,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/7KunOacBzaPJitn25oWKYy"
@@ -15844,7 +15966,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 217226,
       "name": "Muskaan",
       "url": "https://open.spotify.com/track/7wdEJV1MweMXPuSOuVhdQQ"
@@ -20378,7 +20500,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164318,
       "name": "Shor-Gul",
       "url": "https://open.spotify.com/track/6XTc3oZCCFi8o9FzBx4QJm"
@@ -20592,6 +20714,32 @@
       "duration_ms": 155106,
       "name": "Soyi/Khoyi",
       "url": "https://open.spotify.com/track/0uBzSPXmrtTiusAq5ZuEKb"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn"
     },
     {
       "album": {
@@ -21494,7 +21642,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 204000,
       "name": "Tera Mera Viah",
       "url": "https://open.spotify.com/track/3TG0iwvXpzFbFck6d2Xlpw"
@@ -22860,6 +23008,28 @@
       "duration_ms": 163024,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/3l66ys6wEI5DPmvwgl0ak1"
+    },
+    {
+      "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/1CreKeXvqkaEErPmav94mX"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Nikhil D'Souza",
+          "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "Tu Hai",
+      "url": "https://open.spotify.com/track/3xjEczwj6D6xKgtnUBi2A6"
     },
     {
       "album": {
@@ -24802,6 +24972,32 @@
       "duration_ms": 289133,
       "name": "Yaar Zaahir (feat. Neha Sharma,Aashim Gulati)",
       "url": "https://open.spotify.com/track/5VJkEUAvmEelXkmKAE21U6"
+    },
+    {
+      "album": {
+        "name": "Yaara Ve",
+        "url": "https://open.spotify.com/album/7uK9M1tHaA3FZ0rlEDYHVx"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kimeraa",
+          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Yaara Ve",
+      "url": "https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5"
     },
     {
       "album": {

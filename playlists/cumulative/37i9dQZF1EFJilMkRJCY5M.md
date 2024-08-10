@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-126 songs - 6 hr 35 min
+127 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Break It](https://open.spotify.com/track/4XMbKS9GO46sPXoJOO1ffu) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Canaan Cox](https://open.spotify.com/album/3LzwdHRLsgho0NkmHIs0mA) | 3:05 | 2022-08-14 |  |
 | [Call Your Sister](https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:00 | 2022-05-29 |  |
 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 | 2023-05-15 |  |
+| [Closer To Heaven](https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB) | [Lucky Guess](https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0), [CharlieWonder](https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN), [Coppermines](https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07) | [Closer To Heaven](https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4) | 2:23 | 2024-08-09 |  |
 | [Could've Been Us](https://open.spotify.com/track/7v8PjAWXMS2ODBAoKwVUIE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Could've Been Us](https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA) | 3:19 | 2022-05-29 |  |
 | [Count Me Out](https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Count Me Out](https://open.spotify.com/album/2UUU9AMOEP4g21JA6WlPaA) | 3:13 | 2024-05-17 |  |
 | [Dandelion](https://open.spotify.com/track/0BoDLO2lrH1jh1RaCzmkYJ) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Mat Kearney](https://open.spotify.com/album/3DBFBwe5OkJzj1j992u0bG) | 3:23 | 2024-05-17 |  |

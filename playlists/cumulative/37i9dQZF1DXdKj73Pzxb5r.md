@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Refo dan Fauna
 
-156 songs - 10 hr 7 min
+157 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/track/6lKVc8qLoE1Xm6OtKc8IGI) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr) | [SKRD \(SAD KISSES, RECKLESS DREAMS\)](https://open.spotify.com/album/2RxGItaz6P4JVx900w0kh8) | 3:18 | 2024-07-19 |  |
 | [Slippery](https://open.spotify.com/track/3vRjjN0CkUdfREnSja3Q0i) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Slippery](https://open.spotify.com/album/420j8oB94KH2s8007O1NNU) | 3:24 | 2024-07-19 |  |
 | [Stay Asleep](https://open.spotify.com/track/5yHboJF2EN6Z3s1EPKOF1I) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Stay Asleep](https://open.spotify.com/album/2z5K2ZTbr1i20HaniQHp0S) | 3:20 | 2024-06-27 | 2024-07-12 |
+| [Sugarpills](https://open.spotify.com/track/7MpD2YZbkP21oZNOkmBfct) | [Cvndy](https://open.spotify.com/artist/74WzFWbliZQYYtp8Vft4vU) | [Sugarpills](https://open.spotify.com/album/5rAwTVkWbun9dHeyAq5gnX) | 3:42 | 2024-08-09 |  |
 | [Sugra](https://open.spotify.com/track/6256t92jyJ6K8YRecGz9TM) | [Munthe](https://open.spotify.com/artist/36WOLEwcKOGDXVtDc1atPv) | [Sugra](https://open.spotify.com/album/32hLoOV8fjlsJDLX0Hcgof) | 3:55 | 2024-06-27 | 2024-07-27 |
 | [Sunday](https://open.spotify.com/track/2rfmkK3tZz8XuSdEARWNsE) | [Sheaves](https://open.spotify.com/artist/1ukzwOak6jL1bFFb9OyY0O) | [Sunday](https://open.spotify.com/album/1TivvAlGmKdopFUnTvEUwO) | 4:15 | 2024-06-27 | 2024-07-05 |
 | [Sunyi Sepi](https://open.spotify.com/track/3MvWwT3UudBf4hE0ScyZ0L) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo) | [Sunyi Sepi](https://open.spotify.com/album/4dLOnpFp2eCcLZAObRKNce) | 4:20 | 2024-06-27 |  |

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=LfsVarsmSCK4pTkRPJbleQ">Linda Sikhakhane</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC?si=l9R0of3kQnmpGcQ\-5hrIdQ">Gabi Motuba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,165 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,173 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
-| 2 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
-| 3 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
-| 4 | [Indlela Ikhona](https://open.spotify.com/track/6t86xpHg2FbUA4kQbAxjnl) | [Thembi Dunjana](https://open.spotify.com/artist/6YTWqfsYjk52c4aO3Hsbud) | [God Bless iKapa\. God Bless Mzantsi.](https://open.spotify.com/album/5c3uu1hEvY29Q5kWsmwzSN) | 9:52 |
-| 5 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
-| 6 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
-| 7 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
-| 8 | [Order My Steps](https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Order My Steps](https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC) | 6:15 |
+| 1 | [Order My Steps](https://open.spotify.com/track/7yCyhdtftzMiWWzLb2us5w) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Order My Steps](https://open.spotify.com/album/3ZHh1lGS16LHqtaL9dNGTC) | 6:15 |
+| 2 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
+| 3 | [Africa](https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP) | [Lucas Senyatso](https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy) | [Africa](https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E) | 3:56 |
+| 4 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
+| 5 | [Indlela Ikhona](https://open.spotify.com/track/6t86xpHg2FbUA4kQbAxjnl) | [Thembi Dunjana](https://open.spotify.com/artist/6YTWqfsYjk52c4aO3Hsbud) | [God Bless iKapa\. God Bless Mzantsi.](https://open.spotify.com/album/5c3uu1hEvY29Q5kWsmwzSN) | 9:52 |
+| 6 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
+| 7 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
+| 8 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
 | 9 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 |
 | 10 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
 | 11 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 |
 | 50 | [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 |
 
-Snapshot ID: `ZqLY8AAAAABIlfM3lN2JkmLV+tmURuoA`
+Snapshot ID: `ZrWnbwAAAADE8/8nol4gfKLe4egWC6ZQ`

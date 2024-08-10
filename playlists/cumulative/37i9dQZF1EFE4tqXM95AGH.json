@@ -3419,6 +3419,28 @@
     },
     {
       "album": {
+        "name": "Stampede",
+        "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186284,
+      "name": "The Hurtin' Kind",
+      "url": "https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk"
+    },
+    {
+      "album": {
         "name": "Stampede: Vol. 1",
         "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
       },
@@ -3434,7 +3456,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186284,
       "name": "The Hurtin' Kind",
       "url": "https://open.spotify.com/track/1jGtrIhO85jGbmkR3gRvo5"

@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 183141,
+  "num_followers": 183212,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Cold, Cold Feeling",
-      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 134826,
       "name": "Buzz Me, Babe",
       "url": "https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Cold, Cold Feeling",
+      "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Reconsider Baby",
-        "url": "https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Savoy",
         "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Shadows and Ghosts",
-        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
+        "name": "Reconsider Baby",
+        "url": "https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL"
       },
       "artists": [
         {
-          "name": "Sean Stephen",
-          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
         }
       ],
-      "duration_ms": 230524,
-      "name": "Don't Deal With The Devil",
-      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
+      "duration_ms": 190185,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -975,18 +959,18 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+        "name": "Shadows and Ghosts",
+        "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "Sean Stephen",
+          "url": "https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
+      "duration_ms": 230524,
+      "name": "Don't Deal With The Devil",
+      "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2ygBH4zpXVlycVtYL5JqX9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0jXjGc3cD7aBihnOvXXN9A"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "One Day Closer To Home",
         "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Living Chicago Blues, Vol. 4",
-        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Brown",
-          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
-        }
-      ],
-      "duration_ms": 301440,
-      "name": "I Got News For You",
-      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Brown",
+          "url": "https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR"
+        }
+      ],
+      "duration_ms": 301440,
+      "name": "I Got News For You",
+      "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Everything I Need",
-        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
-      },
-      "artists": [
-        {
-          "name": "Aynsley Lister",
-          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
-        }
-      ],
-      "duration_ms": 420386,
-      "name": "Need Her So Bad",
-      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Born Under A Bad Sign (Mono)",
         "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182706,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Everything I Need",
+        "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Lister",
+          "url": "https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU"
+        }
+      ],
+      "duration_ms": 420386,
+      "name": "Need Her So Bad",
+      "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
+        "name": "The Beat Goes On",
+        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
+      },
+      "artists": [
+        {
+          "name": "Sean Taylor",
+          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
+        }
+      ],
+      "duration_ms": 153276,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 263893,
       "name": "Like a Ship",
       "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "The Beat Goes On",
-        "url": "https://open.spotify.com/album/1TdmKLX23FMtGlGSUHPNfZ"
-      },
-      "artists": [
-        {
-          "name": "Sean Taylor",
-          "url": "https://open.spotify.com/artist/5pFt8rEenDE1WplnmYzpqe"
-        }
-      ],
-      "duration_ms": 153276,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/1a9N4JApwl11TSBz5iBAKc"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "When It Suns It Shines",
         "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 270440,
       "name": "When It Suns It Shines",
       "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Porch Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        },
-        {
-          "name": "Ben Rice",
-          "url": "https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex"
-        }
-      ],
-      "duration_ms": 356426,
-      "name": "That's How I Learned (feat. Ben Rice)",
-      "url": "https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Something With Feel",
         "url": "https://open.spotify.com/album/5iuYE1T3bzro4dvnA3Z5ln"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 187447,
       "name": "Something With Feel",
       "url": "https://open.spotify.com/track/2BUhdEhT7D11OSPw38IxDG"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Porch Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        },
+        {
+          "name": "Ben Rice",
+          "url": "https://open.spotify.com/artist/4X0fLF6Ez0hMrc9EPmF7ex"
+        }
+      ],
+      "duration_ms": 356426,
+      "name": "That's How I Learned (feat. Ben Rice)",
+      "url": "https://open.spotify.com/track/0KeJ7vkPFLGLNOBjms9HYO"
     },
     {
       "added_at": "2024-05-28 18:29:55",

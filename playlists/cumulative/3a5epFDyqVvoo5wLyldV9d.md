@@ -4,7 +4,7 @@
 
 > 
 
-789 songs - 2 day 14 hr 5 min
+790 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Te Quiero \- Extended Mix](https://open.spotify.com/track/6NvYScCfPBtzja1z3FGRT9) | [KSM](https://open.spotify.com/artist/56i6O5HWdcpEYczHu18YDC), [Seydinah](https://open.spotify.com/artist/53Wv96pfZjVIPkMdUKn5eO) | [Te Quiero](https://open.spotify.com/album/24ESwWhazLt7HdRVs7WrD4) | 5:33 | 2022-01-24 |  |
 | [TECHNOVA](https://open.spotify.com/track/2quj0lAmQxytVLVR1LYQYV) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD) | [FUTURE LISTENING!](https://open.spotify.com/album/1ZU1pQUGSWMxmrMxWYbZXp) | 5:41 | 2021-01-19 |  |
 | [Tema di Barbara](https://open.spotify.com/track/3pz7qpUHb2aPhBhOHtWVy6) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 2:36 | 2022-12-28 |  |
+| [Tet Chajé](https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV) | [Kajou](https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS) | [Tet Chajé](https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT) | 6:10 | 2024-08-09 |  |
 | [Tez Alegn Yetintu](https://open.spotify.com/track/2c0nkmyzTaD0dT7pLOAwbJ) | [Admas](https://open.spotify.com/artist/6nX6QalHWzPMf7sBnaWNNU) | [Sons of Ethiopia](https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW) | 7:52 | 2022-12-19 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2021-10-30 |  |
 | [The Angels](https://open.spotify.com/track/70D6ZilGAHVtzqo44cUXpK) | [Dom Um Romao](https://open.spotify.com/artist/0Dl3XjPU1zPX1dYLCsZ742) | [Complete Muse Sessions](https://open.spotify.com/album/2BYzWKdNMJxODz2bdIBmd9) | 4:03 | 2021-05-11 |  |

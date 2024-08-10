@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
+  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Paloma Possi",
   "name": "Revela\u00e7\u00e3o Gospel",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268000,
       "name": "Deserto (Ao Vivo)",
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
@@ -874,6 +874,24 @@
       "duration_ms": 259500,
       "name": "Peda\u00e7os",
       "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "album": {
+        "name": "Plano Melhor",
+        "url": "https://open.spotify.com/album/7gER43gz93cUdZOiQe0gQY"
+      },
+      "artists": [
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "Plano Melhor",
+      "url": "https://open.spotify.com/track/6v0vYC1u0lWSrzNaRaSkYR"
     },
     {
       "album": {

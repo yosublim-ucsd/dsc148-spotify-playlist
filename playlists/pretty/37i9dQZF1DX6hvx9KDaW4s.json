@@ -1,6 +1,6 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 574991,
+  "num_followers": 574975,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
-        "name": "Permission to Land",
-        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
-      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/3wLMnrlPtVSADxalu9kIxK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/5UHHuxxYFnuE5KBbpl4Hzu"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
       "added_at": "2024-07-19 11:51:28",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
     },
     {
-      "added_at": "2024-07-19 11:51:28",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
       "added_at": "2024-02-06 14:45:41",
       "album": {
         "name": "The Atlas Underground Fire",
@@ -675,6 +659,22 @@
       "duration_ms": 212572,
       "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7"
+    },
+    {
+      "added_at": "2024-07-19 11:51:28",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2024-07-19 11:51:28",

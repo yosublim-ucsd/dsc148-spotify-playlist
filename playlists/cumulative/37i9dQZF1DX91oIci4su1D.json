@@ -7695,6 +7695,28 @@
     },
     {
       "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/5Rs1G3NWK3jq7NU4v8adsf"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Bo Bruce",
+          "url": "https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229622,
+      "name": "Half Light",
+      "url": "https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9"
+    },
+    {
+      "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH"
       },
@@ -12960,7 +12982,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 231304,
       "name": "Only Now I See - Mike Zaloxx Remix",
       "url": "https://open.spotify.com/track/61kUZ4u03R6SttbBpnm0oz"
@@ -17866,7 +17888,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179565,
       "name": "The Noise",
       "url": "https://open.spotify.com/track/4QnuA5FLmiMBcEYywQBurT"
@@ -19202,6 +19224,24 @@
       "duration_ms": 280615,
       "name": "Velvet Tread",
       "url": "https://open.spotify.com/track/1WnpxaruwWn6wKTgLitYO1"
+    },
+    {
+      "album": {
+        "name": "Venezia",
+        "url": "https://open.spotify.com/album/5ftpIVWM74qI2iKNdSa1ia"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/6pyRBGiHG88kccAFB2K0h7"
     },
     {
       "album": {

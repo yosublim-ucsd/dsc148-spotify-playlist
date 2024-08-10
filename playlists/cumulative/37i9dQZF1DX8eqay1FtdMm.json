@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Sohyang(\uc18c\ud5a5)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Jay Park(\ubc15\uc7ac\ubc94)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "album": {
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Jay Park Season 3: Dedicated 2 U",
+        "url": "https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194998,
+      "name": "Dedicated 2 U",
+      "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
+    },
+    {
+      "album": {
         "name": "My Liberation Notes OST Part 1",
         "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
       },
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 162586,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
@@ -3432,7 +3468,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194240,
       "name": "Holding hands or walking together.",
       "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
@@ -3632,7 +3668,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218546,
       "name": "I can't forget you",
       "url": "https://open.spotify.com/track/7K37ggTWKnAlZFVVmTIlzM"
@@ -7555,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
+    },
+    {
+      "album": {
         "name": "Still Yours",
         "url": "https://open.spotify.com/album/7t74Fo6KoIZcCxwfgB8pkf"
       },
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
@@ -8633,6 +8687,32 @@
     },
     {
       "album": {
+        "name": "VISTA",
+        "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239259,
+      "name": "VISTA (feat. gaeko, THAMA)",
+      "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
+    },
+    {
+      "album": {
         "name": "v o K a l Audio Liners",
         "url": "https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f"
       },
@@ -8698,7 +8778,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
@@ -8796,6 +8876,24 @@
       "duration_ms": 272026,
       "name": "What If",
       "url": "https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
+      },
+      "artists": [
+        {
+          "name": "L (INFINITE)",
+          "url": "https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "What's Not To Love",
+      "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
     },
     {
       "album": {

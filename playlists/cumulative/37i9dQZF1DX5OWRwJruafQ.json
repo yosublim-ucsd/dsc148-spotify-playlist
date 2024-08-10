@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "2 Laddu",
+        "url": "https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd"
+      },
+      "artists": [
+        {
+          "name": "Zafar",
+          "url": "https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP"
+        },
+        {
+          "name": "Guri Nimana",
+          "url": "https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195578,
+      "name": "2 Laddu",
+      "url": "https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU"
+    },
+    {
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw"
       },
@@ -286,6 +308,24 @@
       "duration_ms": 221193,
       "name": "4 Days",
       "url": "https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7"
+    },
+    {
+      "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt"
+      },
+      "artists": [
+        {
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146345,
+      "name": "45",
+      "url": "https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP"
     },
     {
       "album": {
@@ -756,7 +796,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165333,
       "name": "Att",
       "url": "https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN"
@@ -1020,7 +1060,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 177272,
       "name": "Balle Balle",
       "url": "https://open.spotify.com/track/3UcIhXO52F1ZFEf3WmAdTb"
@@ -2706,7 +2746,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 114193,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
@@ -5113,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Khush Hunde",
+        "url": "https://open.spotify.com/album/0Cdo8f8vMWAK7VRJHNvb6c"
+      },
+      "artists": [
+        {
+          "name": "Lakhi Ghuman",
+          "url": "https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "Khush Hunde",
+      "url": "https://open.spotify.com/track/7JmRnVC7CubViucGxiOBUh"
+    },
+    {
+      "album": {
         "name": "Khutti",
         "url": "https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z"
       },
@@ -5944,7 +6002,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183381,
       "name": "Mumble",
       "url": "https://open.spotify.com/track/54hKX4l7Ul9onSHbqjvDHv"
@@ -6787,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "Old Money",
+        "url": "https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128098,
+      "name": "Old Money",
+      "url": "https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK"
+    },
+    {
+      "album": {
         "name": "Old Sinner",
         "url": "https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT"
       },
@@ -7452,7 +7528,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140145,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/3paXvFiNplBnwvwzckYvmM"

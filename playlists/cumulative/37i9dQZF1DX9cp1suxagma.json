@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Duplat & Juan Pablo Vega",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Juliana",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Amo Que Respires",
+        "url": "https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143091,
+      "name": "Amo Que Respires",
+      "url": "https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY"
+    },
+    {
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 190186,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/7qdmZauyoana6fBNjcyj5O"
+    },
+    {
+      "album": {
+        "name": "Antes De Los 30 (En Sue\u00f1o Desde Madrid)",
+        "url": "https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207745,
+      "name": "Antes De Los 30 - En Sue\u00f1o Desde Madrid",
+      "url": "https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr"
     },
     {
       "album": {
@@ -762,7 +798,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179000,
       "name": "C\u00f3mo D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR"
@@ -1016,7 +1052,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 141968,
       "name": "D\u00edas de mierda (Arial 3)",
       "url": "https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD"
@@ -1404,7 +1440,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
@@ -2077,6 +2113,28 @@
     },
     {
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5"
+    },
+    {
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -2262,7 +2320,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188160,
       "name": "Mercurio (Carta No. 9)",
       "url": "https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2"
@@ -3494,6 +3552,24 @@
       "duration_ms": 201423,
       "name": "Solo Fue un Sue\u00f1o",
       "url": "https://open.spotify.com/track/3PZ2fwbFnoOH34CpjypLyL"
+    },
+    {
+      "album": {
+        "name": "Solo Tuyo",
+        "url": "https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Solo Tuyo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju"
     },
     {
       "album": {

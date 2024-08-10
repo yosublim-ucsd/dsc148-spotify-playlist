@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dance Machi Dance\nCover : Indian 2",
+  "description": "Dance Machi Dance\nCover : Brother",
   "name": "Latest Dance Tamil",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 249027,
       "name": "Adangaatha Asuran (From \"Raayan\")",
       "url": "https://open.spotify.com/track/6qtszUy5n1os6eLP337zZK"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 279677,
       "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
       "url": "https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv"
@@ -550,6 +550,32 @@
       "duration_ms": 247000,
       "name": "Bimbilikki Pilapi (From \"Prince \")(Tamil)",
       "url": "https://open.spotify.com/track/1Hdz67JES35Z4h3Yd4PXvV"
+    },
+    {
+      "album": {
+        "name": "Boombastic - From \"Kadaisi Ulaga Por\"",
+        "url": "https://open.spotify.com/album/7A5PybkVgLvWMyYYeGNmU0"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Rajan Chelliah",
+          "url": "https://open.spotify.com/artist/0jvnsvvEiOVRAFS0kgK3en"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203153,
+      "name": "Boombastic - From \"Kadaisi Ulaga Por\"",
+      "url": "https://open.spotify.com/track/0Og0stoQkK2Axw9UQ0bzQX"
     },
     {
       "album": {
@@ -3586,6 +3612,36 @@
       "duration_ms": 218823,
       "name": "Vikram - Title Track",
       "url": "https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1"
+    },
+    {
+      "album": {
+        "name": "Water Packet (From \"Raayan\")",
+        "url": "https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Gana Kadhar",
+          "url": "https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246002,
+      "name": "Water Packet (From \"Raayan\")",
+      "url": "https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Karol G",
-  "num_followers": 964907,
+  "num_followers": 964908,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "FICHAJE DEL A\u00d1O",
         "url": "https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q"
       },
@@ -299,6 +279,26 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Dios Te Cuide",
         "url": "https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 198947,
       "name": "Dios Te Cuide",
       "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
+        "name": "LA MARINA STA MORENA",
+        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
+      },
+      "artists": [
+        {
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
+        }
+      ],
+      "duration_ms": 131332,
+      "name": "LA MARINA STA MORENA",
+      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
     },
     {
       "added_at": "2024-08-05 15:25:51",
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "LA MARINA STA MORENA",
-        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
-      },
-      "artists": [
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 131332,
-      "name": "LA MARINA STA MORENA",
-      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "\u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
       },
@@ -403,6 +403,38 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "Dime Solo Si Has Pensao",
+        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 175715,
+      "name": "Dime Solo Si Has Pensao",
+      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 164599,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Tienes Que Saber",
         "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
       },
@@ -423,22 +455,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "Dime Solo Si Has Pensao",
-        "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 175715,
-      "name": "Dime Solo Si Has Pensao",
-      "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 205779,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
     },
     {
       "added_at": "2024-08-05 15:25:51",

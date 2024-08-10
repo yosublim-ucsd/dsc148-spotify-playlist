@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,050 likes - 449 songs - 17 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,069 likes - 449 songs - 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -400,7 +400,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 390 | [Remedy](https://open.spotify.com/track/1kXvmBrBtSTB1w0QyP4FpM) | [Matt Louda](https://open.spotify.com/artist/6xEvlu9Brgxw4oW1u6Vwxw) | [Remedy](https://open.spotify.com/album/7M64T08lQLoAZT4QqJYZeI) | 2:14 |
 | 391 | [urban souls](https://open.spotify.com/track/6AQUO1Nblsmz7BW0wvFCgt) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [urban souls](https://open.spotify.com/album/5YvHSBgHmflcRqJyBopsaK) | 2:46 |
 | 392 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 |
-| 393 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 |
+| 393 | [Haze](https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Haze](https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP) | 2:28 |
 | 394 | [New Again](https://open.spotify.com/track/3QIdkRPF1SuPuCM6PCoKMd) | [Lofty](https://open.spotify.com/artist/0WgGNGfn5nr4B1d5nhn4r0), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [New Again](https://open.spotify.com/album/4cryWEdu93RmzevCmVg8y0) | 1:24 |
 | 395 | [Space Groove](https://open.spotify.com/track/46j91A4lcxN44s7uLWHEws) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Space Groove](https://open.spotify.com/album/12LCdUNM2N1388vdb3GRuk) | 2:41 |
 | 396 | [Gelato](https://open.spotify.com/track/5zrkA0FILCS2dCSMkiQ5tH) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Gelato](https://open.spotify.com/album/4No4kZxSJrHpcJtSRZQvE4) | 1:48 |

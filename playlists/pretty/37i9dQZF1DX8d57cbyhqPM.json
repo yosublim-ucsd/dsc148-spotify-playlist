@@ -1,15 +1,35 @@
 {
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Fally Ipupa",
-  "num_followers": 43732,
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Koffi Olomide",
+  "num_followers": 43774,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrOnfwAAAAD8tKf+bck+rnp9rUrDawH9",
+  "snapshot_id": "ZrWUQAAAAAADgLSxtIqAxPmElrJyeR3c",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6gygGJ48ID1OVEsaGodiR8"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "duration_ms": 220342,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/7khwo2BvzzHgXHIqIcM8xa"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "207",
         "url": "https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Motorola",
         "url": "https://open.spotify.com/album/0bUh1Narkl3HWZ9h37wPkE"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/4jq8PMTOOihw7VKEKKn2cg"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Game Over 3 - Terminal 3",
         "url": "https://open.spotify.com/album/2mzGH2M2nXqCq15XL01P5z"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/1yXRvMTmXbgxy9p5CS63bc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "T.I.A - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Ndombopiano",
         "url": "https://open.spotify.com/album/0LZserd5bvgIUKt9JfCGpp"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/0aK0i6PWv3KHjMwAFf4SpM"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
@@ -145,7 +165,7 @@
       "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "PILON",
         "url": "https://open.spotify.com/album/2OmNSawCtKwg9S9RMG6KmC"
@@ -165,7 +185,63 @@
       "url": "https://open.spotify.com/track/50i2I2eHuKp75PfmrbFGqW"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Makila : Wabl\u00e9",
+        "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Makila : Wabl\u00e9",
+      "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Eza pasi",
+        "url": "https://open.spotify.com/album/6XrmF3AOmZzMPa1dTKwqM2"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "duration_ms": 341968,
+      "name": "Eza pasi",
+      "url": "https://open.spotify.com/track/1gBRdeta1oZasVAoxYYou1"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lela",
+        "url": "https://open.spotify.com/album/3Vs0tt1V2JAU4ViJoSK8Hy"
+      },
+      "artists": [
+        {
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
+        }
+      ],
+      "duration_ms": 235300,
+      "name": "Lela",
+      "url": "https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Chouchou des nanas",
         "url": "https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY"
@@ -181,23 +257,7 @@
       "url": "https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "EMBOMBO",
-        "url": "https://open.spotify.com/album/2qKZL9aY8l21zXkjIAVqPz"
-      },
-      "artists": [
-        {
-          "name": "Fabregas le M\u00e9tis Noir",
-          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
-        }
-      ],
-      "duration_ms": 295711,
-      "name": "EMBOMBO",
-      "url": "https://open.spotify.com/track/0Ew4d2rU87GFcGl11mYIam"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "TI TI TI",
         "url": "https://open.spotify.com/album/4xAALJ2WaDy2IhJUaXPPfP"
@@ -221,7 +281,7 @@
       "url": "https://open.spotify.com/track/6ob9uKyryapebruQXDzIlu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Steuplai",
         "url": "https://open.spotify.com/album/5qPvBDYIar68GyBJapxQoD"
@@ -237,7 +297,7 @@
       "url": "https://open.spotify.com/track/1HXVAAkcLMWEO8Pmu3esuX"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
@@ -253,7 +313,7 @@
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Boucan (feat. Franglish)",
         "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
@@ -273,7 +333,7 @@
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "AYA BB",
         "url": "https://open.spotify.com/album/2cd2ZnghZC0gCcm3TCkUQa"
@@ -289,7 +349,7 @@
       "url": "https://open.spotify.com/track/6K2y9U8wzNIddX3EpraCOx"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Je T'avais Dit, Non?",
         "url": "https://open.spotify.com/album/7gZpTGhY7OkBZNWKEs4Kxw"
@@ -309,7 +369,7 @@
       "url": "https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "\u00c0 TON AISE",
         "url": "https://open.spotify.com/album/5ydq8wIjsD1T07sfn9d6rw"
@@ -325,7 +385,7 @@
       "url": "https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Ghetto Youth",
         "url": "https://open.spotify.com/album/4mCTUvIMOI3u7XSUrjbomm"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/68Sv4hfeTd5adTfPIuA0lg"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Gaz Mawete",
         "url": "https://open.spotify.com/album/5nNbW8miUHzxli3fbPvNdG"
@@ -361,7 +421,7 @@
       "url": "https://open.spotify.com/track/2vDNbRJHDh3eALR8yml1WC"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MATALANA (Vendredi)",
         "url": "https://open.spotify.com/album/6pfRRYXmP6vJBNRHJa3WS1"
@@ -381,7 +441,7 @@
       "url": "https://open.spotify.com/track/6y88u23i4l9HuHEeHwCQqB"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "KISAKATA",
         "url": "https://open.spotify.com/album/4Pl8DaJ63mB0SPUerb3AGd"
@@ -401,23 +461,23 @@
       "url": "https://open.spotify.com/track/78Y53jzYNJ8nMU4dVCuapZ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "DJ",
-        "url": "https://open.spotify.com/album/7BTeErAhrTZyPQ5WjsdgZE"
+        "name": "EMBOMBO",
+        "url": "https://open.spotify.com/album/2qKZL9aY8l21zXkjIAVqPz"
       },
       "artists": [
         {
-          "name": "Hugo Kafumbi",
-          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
         }
       ],
-      "duration_ms": 154000,
-      "name": "DJ",
-      "url": "https://open.spotify.com/track/0yHh2v3P5dBSjSyV1uDBhQ"
+      "duration_ms": 295711,
+      "name": "EMBOMBO",
+      "url": "https://open.spotify.com/track/0Ew4d2rU87GFcGl11mYIam"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Nazaland",
         "url": "https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc"
@@ -437,7 +497,7 @@
       "url": "https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "47\u00b0",
         "url": "https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg"
@@ -457,27 +517,39 @@
       "url": "https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Makila : Wabl\u00e9",
-        "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
+        "name": "Fimbi",
+        "url": "https://open.spotify.com/album/7HpMqFZmpEpGUG8kFCakMe"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "\u00c9tranger en Service",
+          "url": "https://open.spotify.com/artist/5eHd731OgnDsr6SlkXtQjR"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Escobar Macson",
+          "url": "https://open.spotify.com/artist/20h51JHDHYdRcohZcpG31X"
+        },
+        {
+          "name": "KUPALA",
+          "url": "https://open.spotify.com/artist/6XECvN8hneUtMUAYDaVVny"
+        },
+        {
+          "name": "Kozi",
+          "url": "https://open.spotify.com/artist/0tr5tW17p4VHuAU2hKJWx8"
+        },
+        {
+          "name": "Poison Mobutu",
+          "url": "https://open.spotify.com/artist/4kCTmddOqyFnW4jVVqYmCi"
         }
       ],
-      "duration_ms": 225903,
-      "name": "Makila : Wabl\u00e9",
-      "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
+      "duration_ms": 185749,
+      "name": "Fimbi",
+      "url": "https://open.spotify.com/track/6RT2GwSLhCWdqVkT3dKUmH"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "El mayalove",
         "url": "https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy"
@@ -493,7 +565,7 @@
       "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Melinda",
         "url": "https://open.spotify.com/album/6EsMHDVOyyNAyix75MjIMv"
@@ -509,7 +581,27 @@
       "url": "https://open.spotify.com/track/3bOEo7bDwqpTZiNhfwi4IX"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Loin de toi",
+        "url": "https://open.spotify.com/album/7584QjZdTOHxOA7mQhJZ49"
+      },
+      "artists": [
+        {
+          "name": "Meydo",
+          "url": "https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u"
+        },
+        {
+          "name": "Osive",
+          "url": "https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc"
+        }
+      ],
+      "duration_ms": 129410,
+      "name": "Loin de toi",
+      "url": "https://open.spotify.com/track/4Wu2I5bG74sgqFhGhEQ6En"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
         "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
@@ -537,7 +629,7 @@
       "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Toi & Moi",
         "url": "https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU"
@@ -557,7 +649,7 @@
       "url": "https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Docteur",
         "url": "https://open.spotify.com/album/162nDhwiOcYx3pfOhupgi3"
@@ -577,7 +669,7 @@
       "url": "https://open.spotify.com/track/2r3XgBC5RTGwmbwpBgojZQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "T\u2019\u00e9tais o\u00f9 ?",
         "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
@@ -605,7 +697,23 @@
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Duniya",
+        "url": "https://open.spotify.com/album/7vYN9MSADChmcc0ciz8BRC"
+      },
+      "artists": [
+        {
+          "name": "Hugo Kafumbi",
+          "url": "https://open.spotify.com/artist/4vtmFniIoQeD5t7oNfu4Te"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/7hmZNboMTUn21rneXOOlG9"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Longue Vie",
         "url": "https://open.spotify.com/album/7dU2wGGbOoazZyCHYa8KQW"
@@ -625,7 +733,7 @@
       "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "J'ai plus le temps",
         "url": "https://open.spotify.com/album/5Tc45PbRAHkp6ZjhWqmsaD"
@@ -641,7 +749,7 @@
       "url": "https://open.spotify.com/track/146yTsdRcluEujxr6dh4Xm"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "App\u00e9tit",
         "url": "https://open.spotify.com/album/5IyRubKxgtcZFQcyR0zX52"
@@ -665,7 +773,7 @@
       "url": "https://open.spotify.com/track/4GlpPG7BAHnPIMsN1Lvs3E"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Biso Mibale (feat. Jungeli)",
         "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
@@ -685,7 +793,7 @@
       "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Nani",
         "url": "https://open.spotify.com/album/0UNtUQKkDVPwhFi6MbEq9Y"
@@ -701,7 +809,7 @@
       "url": "https://open.spotify.com/track/7hOpOQGiOrt5Ba2mwy5IU2"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Ne doute pas",
         "url": "https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO"
@@ -717,7 +825,7 @@
       "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Fondili",
         "url": "https://open.spotify.com/album/6nMH7VGRdE4HOSRRr2jdaQ"
@@ -733,7 +841,7 @@
       "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Bokoko (Extra Musica)",
         "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
@@ -753,7 +861,7 @@
       "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/4prx4daG1yxE8HzDRxcrMT"
@@ -769,7 +877,7 @@
       "url": "https://open.spotify.com/track/2wNDQHCnQARthNpnEtRmzr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Ne L\u00e2che Pas",
         "url": "https://open.spotify.com/album/7ewcJ3NHUXRswhRkSM4Rii"
@@ -785,7 +893,7 @@
       "url": "https://open.spotify.com/track/7II3KsKOkva33yctVTFf5F"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Lelo",
         "url": "https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX"
@@ -805,7 +913,7 @@
       "url": "https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Pour toi",
         "url": "https://open.spotify.com/album/1RpnjY9j3o95SeacSdYUQW"
@@ -821,7 +929,7 @@
       "url": "https://open.spotify.com/track/0cIsgvyQaA7rEowTrIQM5Z"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -841,27 +949,7 @@
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "MAMA EYENGA",
-        "url": "https://open.spotify.com/album/0bJwd2p0QfLjsHLHJSXjF3"
-      },
-      "artists": [
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        },
-        {
-          "name": "Cindy le C\u0153ur",
-          "url": "https://open.spotify.com/artist/79pJ6eff5enOPGahcr9PKL"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "MAMA EYENGA",
-      "url": "https://open.spotify.com/track/5XID8nM9UjxKmEzvsMk7MY"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MWA MBUYI",
         "url": "https://open.spotify.com/album/7nkfOiaZr6MA0eDnhC9wNN"
@@ -877,7 +965,7 @@
       "url": "https://open.spotify.com/track/7vsDFUAI6IIgMcjPhyQgDD"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
@@ -901,7 +989,7 @@
       "url": "https://open.spotify.com/track/5tFxDBCS5t0af9v9HiysLr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "On my Way",
         "url": "https://open.spotify.com/album/3pr75VCJPrN91NvPndyS3g"
@@ -917,7 +1005,7 @@
       "url": "https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
@@ -949,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
@@ -969,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
         "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
@@ -985,27 +1073,7 @@
       "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Legende",
-        "url": "https://open.spotify.com/album/5Fxc5sWsRgEJ66jIkRBYYg"
-      },
-      "artists": [
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 192051,
-      "name": "Legende",
-      "url": "https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
@@ -1025,7 +1093,7 @@
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
@@ -1045,7 +1113,7 @@
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -1065,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Fais \u00e7a bien",
         "url": "https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N"
@@ -1081,7 +1149,7 @@
       "url": "https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Garde Ta Position",
         "url": "https://open.spotify.com/album/3GJvUv0vAMbQV3tomgt7h8"
@@ -1097,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "LMDB",
         "url": "https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3"
@@ -1117,7 +1185,7 @@
       "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "MRTHN",
         "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
@@ -1141,7 +1209,7 @@
       "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Afro Mbokalisation",
         "url": "https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h"
@@ -1157,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Dendisa",
         "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
@@ -1177,27 +1245,7 @@
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Linga Nga",
-        "url": "https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD"
-      },
-      "artists": [
-        {
-          "name": "Singuila",
-          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Linga Nga",
-      "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Carr\u00e9 (feat. Fally Ipupa)",
         "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
@@ -1217,7 +1265,7 @@
       "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -1233,7 +1281,7 @@
       "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
@@ -1253,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
@@ -1269,23 +1317,7 @@
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Genkidama",
-        "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 184120,
-      "name": "Genkidama",
-      "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Nous deux",
         "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
@@ -1301,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Achour",
         "url": "https://open.spotify.com/album/6PwgM6SebKf7TRONUcGMc6"

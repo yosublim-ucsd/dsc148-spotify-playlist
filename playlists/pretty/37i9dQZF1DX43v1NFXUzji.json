@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! Milo J on cover",
-  "num_followers": 607958,
+  "num_followers": 607984,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "CEO",
-        "url": "https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "CEO",
-      "url": "https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/4Gd49c3h5KaOfCJ5pitwND"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/5ha7HmgsLaYNwCIA1TClnO"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/0ISa5lIjmXXaQ9bNQXJe6s"
       },
@@ -1507,22 +1491,6 @@
       "duration_ms": 153684,
       "name": "Antes",
       "url": "https://open.spotify.com/track/7bfFmlLJ1LKr2E3AUsvq5P"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -1547,6 +1515,58 @@
       "duration_ms": 202894,
       "name": "7 L\u00e1grimas - Remix",
       "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "Entre Nosotros",
+        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -1607,22 +1627,34 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "Entre Nosotros",
-        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+        "name": "No Fue (feat. Brray, Feid) [Remix]",
+        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Leebrian",
+          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
         },
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+      "duration_ms": 317789,
+      "name": "No Fue - Remix",
+      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -1659,54 +1691,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "No Fue (feat. Brray, Feid) [Remix]",
-        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
-      },
-      "artists": [
-        {
-          "name": "Leebrian",
-          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
-        },
-        {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 317789,
-      "name": "No Fue - Remix",
-      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "X SI VOLVEMOS",
         "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 203360,
       "name": "X SI VOLVEMOS",
       "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "Gimme A Second",
-        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173067,
-      "name": "Gimme A Second",
-      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "9x19/300BLK (with Pressure 9X19)",
         "url": "https://open.spotify.com/album/427d3CxZHdeioa6SYe8iP7"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 244957,
       "name": "9x19/300BLK (with Pressure 9X19)",
       "url": "https://open.spotify.com/track/3XbOduHVOK9fjsaPKmgzSV"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "Gimme A Second",
+        "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173067,
+      "name": "Gimme A Second",
+      "url": "https://open.spotify.com/track/1xcMA2bFuMseSFaJgpSeXx"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 189901,
-      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
-      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/5TWuIEEbRxkdyn9HgiV69n"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 107906,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/7icIDep1Jr3oJdgJSGsdnM"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -2583,6 +2583,22 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
+        "name": "Vida Gangster",
+        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "Vida Gangster",
+      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/1gnIIZdFJVklWscOqe1qTs"
       },
@@ -2603,22 +2619,6 @@
       "duration_ms": 187669,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
-        "name": "Vida Gangster",
-        "url": "https://open.spotify.com/album/0cWDantlEEkAwu9Z0gAiMX"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        }
-      ],
-      "duration_ms": 170058,
-      "name": "Vida Gangster",
-      "url": "https://open.spotify.com/track/4I4FFtKZLtyqw4he9pPtL7"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -2783,26 +2783,6 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
-        "name": "Eyes Closed (feat. J Balvin)",
-        "url": "https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
         "name": "Sikora",
         "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
       },
@@ -2843,6 +2823,26 @@
       "duration_ms": 177230,
       "name": "Una Ruedita",
       "url": "https://open.spotify.com/track/2D9WyuykuMo5MvU5grpXpI"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
+        "name": "Eyes Closed (feat. J Balvin)",
+        "url": "https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "Eyes Closed (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL"
     },
     {
       "added_at": "2024-07-19 19:33:14",
@@ -3027,6 +3027,26 @@
     {
       "added_at": "2024-07-19 19:33:14",
       "album": {
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
+    },
+    {
+      "added_at": "2024-07-19 19:33:14",
+      "album": {
         "name": "Trap Island",
         "url": "https://open.spotify.com/album/2YiziMql3dRV3ic0gkEDgv"
       },
@@ -3047,26 +3067,6 @@
       "duration_ms": 257221,
       "name": "100",
       "url": "https://open.spotify.com/track/4ttcZcRociSeJUYcCntWH9"
-    },
-    {
-      "added_at": "2024-07-19 19:33:14",
-      "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
       "added_at": "2024-07-19 19:33:14",

@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: Three Marloes",
-  "num_followers": 98504,
+  "num_followers": 98519,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "ok to be not ok",
+        "url": "https://open.spotify.com/album/4Op5st5g671g45uIqIunE0"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "duration_ms": 216542,
+      "name": "ok to be not ok",
+      "url": "https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "Museum of My Mess",
         "url": "https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "Raining In Manila",
-        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 291070,
-      "name": "Raining In Manila",
-      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Raining In Manila",
+        "url": "https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 291070,
+      "name": "Raining In Manila",
+      "url": "https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -715,6 +731,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "TOGETHER!",
+      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "WDYS",
         "url": "https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K"
       },
@@ -731,22 +763,6 @@
       "duration_ms": 144835,
       "name": "WDYS",
       "url": "https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "TOGETHER!",
-      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -787,6 +803,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -815,22 +847,6 @@
       "duration_ms": 257380,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "Sunny Days",
-        "url": "https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN"
-      },
-      "artists": [
-        {
-          "name": "Reality Club",
-          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -887,6 +903,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -903,22 +935,6 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "undo",
-        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 208854,
-      "name": "undo",
-      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -987,6 +1003,26 @@
       "duration_ms": 260430,
       "name": "Glue",
       "url": "https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1075,26 +1111,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "sad girl",
-        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u505a\u4e00\u534a\u7684\u5922",
         "url": "https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa"
       },
@@ -1107,6 +1123,26 @@
       "duration_ms": 204584,
       "name": "\u505a\u4e00\u534a\u7684\u5922",
       "url": "https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "sharp knife",
+        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "sharp knife",
+      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1143,6 +1179,26 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "Staying up All Night",
+        "url": "https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB"
+      },
+      "artists": [
+        {
+          "name": "\u58de\u7279 ?te",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        },
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        }
+      ],
+      "duration_ms": 202671,
+      "name": "Staying up All Night",
+      "url": "https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "Toast",
         "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
       },
@@ -1175,42 +1231,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "blame",
-        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "Staying up All Night",
-        "url": "https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB"
-      },
-      "artists": [
-        {
-          "name": "\u58de\u7279 ?te",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        },
-        {
-          "name": "babychair",
-          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
-        }
-      ],
-      "duration_ms": 202671,
-      "name": "Staying up All Night",
-      "url": "https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "favourite jeans",
         "url": "https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW"
       },
@@ -1223,6 +1243,22 @@
       "duration_ms": 208461,
       "name": "favourite jeans",
       "url": "https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "blame",
+        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1259,6 +1295,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "Love, Again",
+        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "Getaway (feat. Phum Viphurit)",
         "url": "https://open.spotify.com/album/3Bm2iB1HH5jHglICVBIbH7"
       },
@@ -1279,26 +1331,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "sharp knife",
-        "url": "https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 170204,
-      "name": "sharp knife",
-      "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "Sweet Hurting",
         "url": "https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 214622,
       "name": "Sweet Hurting",
       "url": "https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
-        "name": "Love, Again",
-        "url": "https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1403,6 +1419,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "SUPER CALIFORNIA GIRLS",
+        "url": "https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "SUPER CALIFORNIA GIRLS",
+      "url": "https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -1443,22 +1475,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "forever!",
-        "url": "https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 150291,
-      "name": "forever!",
-      "url": "https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "SUPER CALIFORNIA GIRLS",
-        "url": "https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z"
+        "name": "forever!",
+        "url": "https://open.spotify.com/album/6rKIpQpZGUJaqgo4ti2kXq"
       },
       "artists": [
         {
-          "name": "Thomas Ng",
-          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
         }
       ],
-      "duration_ms": 176703,
-      "name": "SUPER CALIFORNIA GIRLS",
-      "url": "https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK"
+      "duration_ms": 150291,
+      "name": "forever!",
+      "url": "https://open.spotify.com/track/68N5FkX77LVfDPHczx6wmy"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz"
-      },
-      "artists": [
-        {
-          "name": "Elephant Kind",
-          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "No Cares Era",
         "url": "https://open.spotify.com/album/5FZpZ3glnOilS48UA4C5aB"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 200425,
       "name": "No Cares Era",
       "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
-        "name": "i like that you like it",
-        "url": "https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "i like that you like it",
-      "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
-    },
-    {
-      "added_at": "2024-08-08 16:00:00",
-      "album": {
         "name": "\u566a\u97f3\u516c\u5bd3",
         "url": "https://open.spotify.com/album/3CRT9RpZhzxWi5lk8Uc0cz"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 202325,
       "name": "\u8e05\u795e\u5922",
       "url": "https://open.spotify.com/track/5gI6vgJNsI4pbQdwW8qh69"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "i like that you like it",
+        "url": "https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "i like that you like it",
+      "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
     },
     {
       "added_at": "2024-08-08 16:00:00",

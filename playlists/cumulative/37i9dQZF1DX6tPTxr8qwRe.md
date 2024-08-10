@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: McKenna Grace
+> Dark, hard hitting pop\. Cover: Cloudy June
 
-735 songs - 1 day 9 hr 51 min
+739 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-02-25 | 2022-03-18 |
 | [American Dream](https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [American Dream](https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ) | 3:03 | 2023-09-01 | 2024-01-05 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-06-30 | 2024-04-27 |
-| [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 |  |
+| [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 | 2024-06-07 | 2024-08-10 |
 | [Angry Woman](https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Angry Woman](https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ) | 2:33 | 2022-06-24 | 2022-10-22 |
 | [Antsy](https://open.spotify.com/track/2eDBWo7MfkdezN1FKxxQRb) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Antsy](https://open.spotify.com/album/0AcNlsXfyXwZcurMIbAlww) | 2:30 | 2022-09-16 | 2022-11-19 |
 | [aphrodite](https://open.spotify.com/track/4WcUzdI6EYFPzlYaNV2GkS) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [aphrodite](https://open.spotify.com/album/5skz2rgdXWvRLHs3VVgZpU) | 2:44 | 2024-04-26 | 2024-06-29 |
@@ -75,6 +75,7 @@
 | [Better On Mute](https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Better On Mute](https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09) | 2:37 | 2023-11-10 | 2024-01-05 |
 | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/album/0BqTnZD4dmxKVg7ZYgmmXY) | 2:39 | 2024-01-05 | 2024-04-24 |
 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 | 2023-07-14 | 2023-09-23 |
+| [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-09 |  |
 | [BIG GUNS](https://open.spotify.com/track/3NVrdvbonOD0DUETFnDFJL) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BIG GUNS](https://open.spotify.com/album/3eAg2MEEJxhI7pvRxjha3F) | 3:09 | 2022-12-09 | 2023-01-14 |
 | [BIG MOUTH](https://open.spotify.com/track/2u8s7wUFMg9YMUlaYa3m5q) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [BIG MOUTH](https://open.spotify.com/album/3ZhjGhWn23OI0BTLp5MqgO) | 2:06 | 2024-06-07 | 2024-06-29 |
 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 | 2022-08-05 | 2023-02-04 |
@@ -107,7 +108,7 @@
 | [break me](https://open.spotify.com/track/2mumSkODFJWLAX4p1RsGoZ) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [break me](https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu) | 2:50 | 2024-04-12 | 2024-06-08 |
 | [BREAKDOWN](https://open.spotify.com/track/5ab5TaUCeTXEyEopmq4pjM) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [BREAKDOWN](https://open.spotify.com/album/43TWpeulOdWVBsL8vpMdZi) | 3:38 | 2022-05-27 | 2022-07-23 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-10-29 |
-| [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-31 |  |
+| [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-31 | 2024-08-10 |
 | [Breakup Sex](https://open.spotify.com/track/5qy7Tp0aeBNEuAbV3mo3Xq) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Breakup Sex](https://open.spotify.com/album/2Tjdq0ZoX7pIoTbfsRxbyb) | 2:33 | 2022-07-22 | 2022-09-24 |
 | [Broken](https://open.spotify.com/track/6yFuexjIGUagtt3fyLgJgb) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Broken](https://open.spotify.com/album/7o1htT58cH7mxL1ow9QOB8) | 3:02 | 2022-02-11 | 2022-03-26 |
 | [BROKEN HEARTS](https://open.spotify.com/track/4bDVNFNYFVQFOglZIcmuAP) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [BROKEN HEARTS](https://open.spotify.com/album/2p0CrNn7iJNopOsJmAoSD7) | 3:06 | 2022-11-25 | 2023-04-01 |
@@ -305,6 +306,8 @@
 | [heartless](https://open.spotify.com/track/4tmcCFi4mCUlGFyeedR8vN) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [heartless](https://open.spotify.com/album/3ZrblKKFAH9jahmgdqMR1g) | 2:53 | 2023-06-30 | 2023-09-09 |
 | [Heaven](https://open.spotify.com/track/0GLEKwNRP5cW30x0WTNfoX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Heaven](https://open.spotify.com/album/6yeOGs3rN9il6xHVcERw59) | 2:25 | 2023-12-01 | 2024-03-23 |
 | [hell of a good time](https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [hell of a good time](https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT) | 2:41 | 2024-03-15 | 2024-06-29 |
+| [HELLO IT'S THE NEW ME](https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [HELLO IT'S THE NEW ME](https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA) | 2:34 | 2024-08-09 |  |
+| [HEXED](https://open.spotify.com/track/2YsjASle6ww8UK1rui5bEB) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [HEXED](https://open.spotify.com/album/4a7qonEl8Qvw1JwrywEixj) | 2:52 | 2024-08-09 |  |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-04-29 | 2024-06-29 |
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 | 2024-04-27 |
 | [HIGH BY THE BEACH \- SIRENCORE Version](https://open.spotify.com/track/1bLROPTSiepDvid3Q0CzH5) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [HIGH BY THE BEACH \(SIRENCORE Version\)](https://open.spotify.com/album/2KvPr9Ewd7RSC4r2fwd28Z) | 3:10 | 2024-02-02 | 2024-05-18 |
@@ -341,6 +344,7 @@
 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 | 2022-06-24 | 2022-09-17 |
 | [I Wish I Gave You Hell](https://open.spotify.com/track/7iNGrDHPTT8ZVEjPS8Lo13) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Wish I Gave You Hell](https://open.spotify.com/album/08s3DeMH86rfM9Nso6qqB3) | 3:39 | 2024-06-14 |  |
 | [I Woke Up](https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [I Woke Up](https://open.spotify.com/album/40s29e7Y7S6ZlaYyYf520J) | 2:38 | 2024-02-09 | 2024-05-18 |
+| [I'll Just Say It](https://open.spotify.com/track/3OaR8YS7CCELb4nzDcmxMw) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [I'll Just Say It](https://open.spotify.com/album/2rKjWKEvNheSppihIV5OWG) | 2:38 | 2024-08-09 |  |
 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-01 | 2022-10-22 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 | 2023-07-08 |
 | [I've Got A Bad Side](https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM) | [ADONA](https://open.spotify.com/artist/2O8CMGDnzYHpcZOSNVoLdQ) | [I've Got A Bad Side](https://open.spotify.com/album/5CY5RFnrmyGMHcp3EWhhFM) | 2:48 | 2022-05-27 | 2022-08-06 |
@@ -535,7 +539,7 @@
 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 | 2023-12-01 | 2024-03-23 |
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-24 | 2024-06-29 |
-| [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 |  |
+| [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 | 2024-08-10 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 |  |
 | [Romeo Dies](https://open.spotify.com/track/42SZ9WKuZ4EDblgvJc581c) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Romeo Dies](https://open.spotify.com/album/7f098aQqfKMnYS5YVjkT15) | 2:48 | 2022-05-20 | 2022-08-13 |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-10 | 2023-07-15 |
@@ -701,7 +705,7 @@
 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 | 2023-04-21 | 2023-08-19 |
 | [We're All Gonna Die](https://open.spotify.com/track/0vQ6sPAB5lR3VhiOUAhQ9n) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [We're All Gonna Die](https://open.spotify.com/album/0YKNaAwk4NPSqJ8vS2dwyy) | 2:48 | 2022-04-29 | 2022-05-20 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-14 | 2022-03-18 |
-| [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-05-10 |  |
+| [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-05-10 | 2024-08-10 |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-07 | 2023-08-19 |
 | [Weird World](https://open.spotify.com/track/5BsjtoILJWBRPVmY0TZUt0) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Weird World](https://open.spotify.com/album/37guijeueIx5aOEJzd2SZn) | 3:58 | 2024-02-23 | 2024-04-27 |
 | [WEIRDO](https://open.spotify.com/track/4q0l0eybNVn3ae13cj4OBw) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [WEIRDO](https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh) | 2:30 | 2023-10-13 | 2023-11-25 |

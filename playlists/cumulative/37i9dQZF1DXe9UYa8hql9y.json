@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 139800,
       "name": "BEIBY",
       "url": "https://open.spotify.com/track/2QGrlOTCxANQOfgKf7kTzH"
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175121,
       "name": "Electromorbo",
       "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
@@ -5495,6 +5495,28 @@
     },
     {
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "album": {
         "name": "Take Me Home: Yearbook Edition",
         "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
       },
@@ -5546,7 +5568,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196586,
       "name": "Lo Caro y Lo Bueno",
       "url": "https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW"
@@ -6604,7 +6626,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
@@ -10000,7 +10022,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190169,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
@@ -10092,6 +10114,32 @@
       "duration_ms": 149589,
       "name": "tqum (feat. Kim Petras) - Remix",
       "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "album": {
+        "name": "Tremenda",
+        "url": "https://open.spotify.com/album/5ITVpjGfYE3N2KuHeilDBt"
+      },
+      "artists": [
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213255,
+      "name": "Tremenda",
+      "url": "https://open.spotify.com/track/5Wxdk7jhKAgPIuUZ0CFjO6"
     },
     {
       "album": {

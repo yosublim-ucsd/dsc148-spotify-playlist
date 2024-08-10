@@ -1,6 +1,6 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 44396,
+  "num_followers": 44406,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185360,
       "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Diego En Los 70",
         "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 214003,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Distant Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/37fVxdmMKreIb0FnffxjRI"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
-      "url": "https://open.spotify.com/track/4OTw5splgMdlYklwHMHxLK"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 220626,
       "name": "Esta Cobard\u00eda",
       "url": "https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Distant Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/37fVxdmMKreIb0FnffxjRI"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
+      "url": "https://open.spotify.com/track/4OTw5splgMdlYklwHMHxLK"
     }
   ],
   "unique_name": "Mam\u00e1 70era",

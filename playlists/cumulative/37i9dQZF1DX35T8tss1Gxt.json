@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:1pQ5oAMGcFhkkuLqGJQUCd\">Ryan Ofei</a>",
+  "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:60CbU4u8dlhoHzRCNhTA1S\">Asha Elia</a>",
   "name": "Rhythm & Praise",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 172940,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
+    },
+    {
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/2sh5VqJzBNfQofLryZ6wXc"
+      },
+      "artists": [
+        {
+          "name": "V. Rose",
+          "url": "https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149395,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/2BaiIMe5rDnis4jsM9cv2T"
     },
     {
       "album": {
@@ -520,6 +538,24 @@
       "duration_ms": 164542,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6wU5FbAJrRcZUvDfpP0XxR"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/26m39Joc8VERjxtFVWvAtL"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/1wAK4bClW9Ef4oAWihqz3b"
     },
     {
       "album": {
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 238701,
       "name": "Blessed Assurance (When I Was Broken)",
       "url": "https://open.spotify.com/track/202DyNpDIFTc7W6NCYy07k"
@@ -1851,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Chillin'",
+        "url": "https://open.spotify.com/album/72YwNUGRhrnK7SBiAX2bTE"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Chillin'",
+      "url": "https://open.spotify.com/track/4biSifPwkcHb0TC5qKPby1"
+    },
+    {
+      "album": {
         "name": "Choose You",
         "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
@@ -2322,7 +2376,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 244000,
       "name": "distracted",
       "url": "https://open.spotify.com/track/0NC76K7AdwvZC4gm7dYjWI"
@@ -2452,7 +2506,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132500,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/0rAosriHddHbMQ1TCF2SjA"
@@ -3097,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/02wlBeDaX39Q8htZkayb2I"
+      },
+      "artists": [
+        {
+          "name": "Paul the Messenger",
+          "url": "https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/5E66bGkXNan4ucIVjoMFJA"
+    },
+    {
+      "album": {
         "name": "For Your Grace",
         "url": "https://open.spotify.com/album/7D8B8My0dXsIoviSbw4Ej2"
       },
@@ -3546,7 +3618,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181710,
       "name": "Good God II",
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
@@ -3830,7 +3902,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143466,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/6D1RMZkJQvwb66Y413ykQN"
@@ -5525,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Look At Me + I Won't Complain",
+        "url": "https://open.spotify.com/album/2Fk8GOL5IvcpYlOZATRqEW"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216281,
+      "name": "Look At Me",
+      "url": "https://open.spotify.com/track/0gTLcDbRI3wJcjnW9LfpFS"
+    },
+    {
+      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -5968,7 +6058,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161250,
       "name": "Matthew 4:19",
       "url": "https://open.spotify.com/track/1n5JkQWRyTdMLoJnL2k10Z"
@@ -6332,7 +6422,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201938,
       "name": "My Worship",
       "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
@@ -6893,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "Obinator",
+        "url": "https://open.spotify.com/album/4OXaCPlWVcyEYUPpvN6y44"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248790,
+      "name": "Obinator",
+      "url": "https://open.spotify.com/track/1B2R8mw41w37KbtozJ8CnS"
+    },
+    {
+      "album": {
         "name": "Oil & Water (feat. Anthony Hamilton)",
         "url": "https://open.spotify.com/album/28MXle4STHNFbcx9qwreVY"
       },
@@ -7284,7 +7392,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237000,
       "name": "Praise Break",
       "url": "https://open.spotify.com/track/1ICFfjarHKDkxzmChbuKVw"
@@ -7835,6 +7943,24 @@
     },
     {
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/4U57xZd0JbUfKYAzO36EED"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/4jqy2Ocr88ntXN487VRx30"
+    },
+    {
+      "album": {
         "name": "no collabs",
         "url": "https://open.spotify.com/album/4QjfPwegbK8zoQTlybqPGl"
       },
@@ -8374,7 +8500,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 233360,
       "name": "Soft Maverick",
       "url": "https://open.spotify.com/track/3IujgFD9na2pChd07kbr3e"
@@ -8724,7 +8850,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 174409,
       "name": "SURREAL",
       "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
@@ -8990,7 +9116,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 207935,
       "name": "That\u2019s God LaLaLa",
       "url": "https://open.spotify.com/track/55SlLuKvq7Tye3ggxxWAFH"
@@ -10029,6 +10155,24 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/1q6IjlkFNvBjO81aY2ZqRK"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Who Woulda Known",
+      "url": "https://open.spotify.com/track/3Kuj8MAYGHTihXbVsVHr49"
+    },
+    {
+      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -10384,7 +10528,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 301166,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7tT3kZyaweAcc7pf7uhd2m"
@@ -10786,7 +10930,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149538,
       "name": "Your Will",
       "url": "https://open.spotify.com/track/3c06N48ZgdY9eCHQ1HBJde"

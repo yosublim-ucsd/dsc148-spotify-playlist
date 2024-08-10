@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Central Cee & Lil Baby
 
-846 songs - 1 day 16 hr 53 min
+848 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:10 | 2023-04-08 | 2023-04-22 |
 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 | 2023-05-12 | 2023-07-29 |
 | [Bad Bitty](https://open.spotify.com/track/3hDGP1FyivTChULeeVWkH6) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Bad Bitty](https://open.spotify.com/album/2ACyT17aP97swSJO9wDjvd) | 1:42 | 2024-05-03 |  |
+| [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 | 2024-08-09 |  |
 | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/track/2CDVqsGGkf2v1tMETt3fq5) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Baddest \(feat\. Chris Brown & 2 Chainz\)](https://open.spotify.com/album/3ERp6sI91Flu5Onq9me2pV) | 3:22 | 2021-11-03\* | 2021-11-20 |
 | [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-02-05 |
 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 | 2022-10-28 | 2023-04-29 |
@@ -328,6 +329,7 @@
 | [Guess What \(feat\. SSGKobe\)](https://open.spotify.com/track/0X1FYduyRRSstP6CEm3PzI) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Guess What \(feat\. SSGKobe\)](https://open.spotify.com/album/17BfdZb9jdirLQSiG4lb7i) | 3:26 | 2022-04-22 | 2022-04-29 |
 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 | 2023-10-20 | 2024-02-24 |
 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 | 2021-09-03 | 2022-01-15 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 |  |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-05 |  |
 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 | 2024-05-31 |  |
 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 | 2022-07-29 | 2023-01-14 |

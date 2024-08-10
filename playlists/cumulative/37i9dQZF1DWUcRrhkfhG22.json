@@ -1465,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/225DEm4UQydHlN3xIhmiBU"
+      },
+      "artists": [
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166979,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/6SJE4fUu2kzFYedVrBYYDE"
+    },
+    {
+      "album": {
         "name": "This Day EP",
         "url": "https://open.spotify.com/album/1DNHoVmaDggZwxNWxTpBpA"
       },

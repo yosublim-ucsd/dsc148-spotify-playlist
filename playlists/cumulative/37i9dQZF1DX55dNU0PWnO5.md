@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-411 songs - 1 day 0 hr 53 min
+412 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Doppelganger](https://open.spotify.com/track/1Zj4AHgqSCwkk0eSV6urkI) | [Freddie Joachim](https://open.spotify.com/artist/0GgkfnO3Bu2CFn65ZH31TF), [QSTN](https://open.spotify.com/artist/4064K2hGMavsOltwUzVRjG) | [Trouvaille](https://open.spotify.com/album/0UQwQHWci0xsj4jeoQOsmv) | 4:00 | 2021-01-29 | 2021-12-28 |
 | [Dr\. Disclosure](https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 3:43 | 2022-09-02 |  |
 | [Dr\. T](https://open.spotify.com/track/5x53ccMRbSrLsmdMhkZAHF) | [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F) | [Dr\. T](https://open.spotify.com/album/3VyBpt3BJXx5GiuVAcBz1f) | 2:33 | 2022-08-26 | 2022-11-05 |
-| [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 | 2024-02-09 |  |
+| [Dreaded Truth](https://open.spotify.com/track/4IhCYRCAwGSc2l5q0fXiZo) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Dreaded Truth](https://open.spotify.com/album/6fMb8MTAJz13YRzwgc39h5) | 3:49 | 2024-02-09 | 2024-08-10 |
 | [Dream Drone](https://open.spotify.com/track/6vCBak8jhaFOhvjaLRrVuw) | [Soundscape Orchestra](https://open.spotify.com/artist/3YnBDgy1QEbGQhYAbwjvsg) | [Dream Drone](https://open.spotify.com/album/7tFujmdb2OsP05AVQaTR7q) | 4:28 | 2021-07-30 |  |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-10 | 2023-05-13 |
 | [DRILLTRONICA](https://open.spotify.com/track/1WdBJ4uehsp1O7GfdZiHq7) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [DRILLTRONICA](https://open.spotify.com/album/3yYKfRTzyRQsUWJvBLe85Y) | 2:52 | 2023-09-29 |  |
@@ -319,6 +319,7 @@
 | [SKJ \- NerdStar Remix](https://open.spotify.com/track/4elSYrOgGwztOfcAGoBwUX) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [NerdStar](https://open.spotify.com/artist/33ogCwkYhG2zUzynyFzKGw) | [SKJ \(NerdStar Remix\)](https://open.spotify.com/album/12X95sbWc5P3EZWDr5XHtY) | 3:11 | 2022-06-03 |  |
 | [Skybox](https://open.spotify.com/track/3D1z6wtEXWMtL4sNjE6G34) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Skybox](https://open.spotify.com/album/0JlqVp5ZHaopgDAK3YnW8y) | 3:01 | 2022-03-18 | 2024-05-25 |
 | [Skybox](https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Close Distance](https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1) | 3:01 | 2022-03-18 | 2024-04-19 |
+| [Smile Back](https://open.spotify.com/track/2VRKth87FcwoY3WZPO2uGI) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Smile Back](https://open.spotify.com/album/1R1i6dSdVIAaxoYnWa0XNq) | 3:20 | 2024-08-09 |  |
 | [SMOOTHMAN](https://open.spotify.com/track/11hGsS7TQItVKS4eue6b4C) | [ScrewStache](https://open.spotify.com/artist/07a5aC3ZBAnsySXGEMhXe1) | [NEXUS Z](https://open.spotify.com/album/5RkhLrRWnYGK6ZZ5JF6Ric) | 2:03 | 2021-07-23 | 2024-04-19 |
 | [Smoothman](https://open.spotify.com/track/4TNryKx5swcMlRv6wfdyCk) | [ScrewStache](https://open.spotify.com/artist/07a5aC3ZBAnsySXGEMhXe1) | [Smoothman](https://open.spotify.com/album/1AO9kGFt0AmFjz1kGXkoOg) | 2:03 | 2021-07-19 |  |
 | [Sombra Bajo El Limero](https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Sombra Bajo El Limero](https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX) | 3:02 | 2022-09-02 |  |

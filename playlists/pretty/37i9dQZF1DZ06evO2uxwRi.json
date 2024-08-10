@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 40202,
+  "num_followers": 40209,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACUA6nNSsfnYzYakxVW0VGG",
+  "snapshot_id": "ZrQKgAAAAADbrtTNG4sgLesnnNtL2DXR",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 188253,
-      "name": "This Disaster",
-      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+      "duration_ms": 210040,
+      "name": "At Least I'm Known For Something",
+      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 210040,
-      "name": "At Least I'm Known For Something",
-      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
+      "duration_ms": 188253,
+      "name": "This Disaster",
+      "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 174040,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1KoQHGlqulrXXSoYRJv98N"
     }
   ],
   "unique_name": "This Is New Found Glory",

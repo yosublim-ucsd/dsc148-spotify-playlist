@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-507 songs - 1 day 8 hr 2 min
+508 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Crocodile](https://open.spotify.com/track/27NPOgyYpnRjfVRWgNRTG9) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:45 | 2024-02-16 |  |
 | [Cruel World \- Jim\-E Stack Remix](https://open.spotify.com/track/1xKNnjZkSyj2QbkqruJyCr) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Cruel World \(Jim\-E Stack Remix\)](https://open.spotify.com/album/5Dh7p39Uf8JUkT8P74LfgS) | 3:12 | 2020-12-22 | 2022-11-13 |
 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 | 2024-08-02 |  |
-| [Dancing](https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic) | [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Dancing](https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an) | 3:50 | 2024-08-02 |  |
+| [Dancing](https://open.spotify.com/track/7igoCizq9AA9dtbjUMx0ic) | [Betsy](https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp), [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Dancing](https://open.spotify.com/album/73tRDpQ3wEf82ohFjRC8an) | 3:50 | 2024-08-02 | 2024-08-10 |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-12 | 2024-07-13 |
 | [Dawntown](https://open.spotify.com/track/1CaOMLZXTQxif7TVD9ieSd) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:08 | 2020-12-22 | 2022-07-29 |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-11-10 |  |
@@ -314,6 +314,7 @@
 | [Never Come Back](https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 5:05 | 2020-12-22 | 2023-01-04 |
 | [Never Come Back](https://open.spotify.com/track/6A10Rn20ulDup3uNuOohUF) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/4wSb7OhVUzw3u76lta9fJw) | 5:05 | 2020-12-22 | 2022-04-17 |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-01-26 |  |
+| [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 | 2024-08-09 |  |
 | [Next Escape \- Original Mix](https://open.spotify.com/track/2V2PN8PL5ts4guvuF44EsW) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Next Escape](https://open.spotify.com/album/4di7oidZ5DG3TIZ39okYMy) | 3:26 | 2020-12-22 | 2022-04-12 |
 | [No More \- Durante Remix](https://open.spotify.com/track/1BaK2qtH59Sxo23HFJvugG) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [No More \- Extended Flavour Pack](https://open.spotify.com/album/1GwxbLhIo0cLVk53pOR7x6) | 5:12 | 2021-04-02 | 2022-07-28 |
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-04-02 | 2022-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras powered by  <a href=\"spotify:genre:0JQ5DAqbMKFJ1bGfuFbFuR\">La Tierra de M\u00fasica Mexicana</a> . Cover: Tito Double P & Neton Vega",
+  "description": "The playlist sin fronteras powered by  <a href=\"spotify:genre:0JQ5DAqbMKFJ1bGfuFbFuR\">La Tierra de M\u00fasica Mexicana</a> . Cover: Grupo Marca Registrada & JPL        ",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
@@ -1332,6 +1332,24 @@
       "duration_ms": 210398,
       "name": "Belicotas",
       "url": "https://open.spotify.com/track/0jILXu7DxbxTy1HqlbEyuA"
+    },
+    {
+      "album": {
+        "name": "Bien High",
+        "url": "https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207671,
+      "name": "Bien High",
+      "url": "https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q"
     },
     {
       "album": {
@@ -4868,7 +4886,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 126300,
       "name": "Flore$",
       "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
@@ -6390,7 +6408,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195608,
       "name": "La Sand\u00eda",
       "url": "https://open.spotify.com/track/4qIa4rPS4QCFJPcyumlSv1"
@@ -7009,6 +7027,28 @@
     },
     {
       "album": {
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+    },
+    {
+      "album": {
         "name": "Los Envidiosos",
         "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
       },
@@ -7090,6 +7130,28 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+    },
+    {
+      "album": {
+        "name": "Luceros",
+        "url": "https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "Luceros",
+      "url": "https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh"
     },
     {
       "album": {
@@ -7262,7 +7324,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158306,
       "name": "Made In Paris",
       "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
@@ -11454,7 +11516,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190500,
       "name": "Sin Yolanda",
       "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
@@ -12813,6 +12875,24 @@
     },
     {
       "album": {
+        "name": "Una Semana",
+        "url": "https://open.spotify.com/album/4QuVImSzXeKG40qXi9PzuL"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Una Semana",
+      "url": "https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA"
+    },
+    {
+      "album": {
         "name": "Uno Mas Uno Igual A Zero",
         "url": "https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL"
       },
@@ -12912,6 +12992,28 @@
       "duration_ms": 177654,
       "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
       "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
+    },
+    {
+      "album": {
+        "name": "Vice City",
+        "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 224736,
+  "num_followers": 224775,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrUgpwAAAABeLMRzqApJ96MKmWeNzOia",
+  "snapshot_id": "ZrXl3gAAAACDdlbOrqC7HzqzmcEqqu0h",
   "tracks": [
     {
       "added_at": "2024-02-21 11:44:23",
@@ -27,6 +27,22 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
+      "added_at": "2024-08-09 09:48:14",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1xNG0WCsLGXot9HjhQcNCs"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4Abqrfm6dPj2rIa9X1EXb2"
     },
     {
       "added_at": "2024-02-21 11:44:23",
@@ -409,22 +425,6 @@
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
     },
     {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
       "added_at": "2023-03-08 12:04:06",
       "album": {
         "name": "Petals on the Moon",
@@ -439,6 +439,22 @@
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -489,22 +505,6 @@
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
-      "added_at": "2024-05-10 16:04:45",
-      "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
       "added_at": "2024-07-12 12:27:26",
       "album": {
         "name": "Golden Hour",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC"
     },
     {
+      "added_at": "2024-05-10 16:04:45",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Is This What Love Is?",
@@ -567,6 +583,22 @@
       "duration_ms": 217002,
       "name": "Is This What Love Is?",
       "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
+      "added_at": "2024-05-31 19:59:04",
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "added_at": "2023-07-04 22:20:24",
@@ -589,20 +621,20 @@
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
-      "added_at": "2024-05-31 19:59:04",
+      "added_at": "2023-09-29 10:53:41",
       "album": {
-        "name": "You (Show Me Where My Days Went)",
-        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -619,22 +651,6 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -765,22 +781,6 @@
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Coming of Age",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
       "added_at": "2024-08-08 19:46:47",
       "album": {
         "name": "The Hit",
@@ -847,6 +831,38 @@
       "duration_ms": 210826,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -929,20 +945,20 @@
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -961,20 +977,20 @@
       "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1105,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb"
     },
     {
-      "added_at": "2023-01-20 16:59:50",
-      "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
       "added_at": "2024-08-08 19:46:47",
       "album": {
         "name": "Meet Cute",
@@ -1135,6 +1135,22 @@
       "duration_ms": 166027,
       "name": "Meet Cute",
       "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
+    },
+    {
+      "added_at": "2023-01-20 16:59:50",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1217,6 +1233,22 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
+    },
+    {
       "added_at": "2024-07-12 12:27:26",
       "album": {
         "name": "2much2soon",
@@ -1235,22 +1267,6 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
-    },
-    {
-      "added_at": "2023-07-04 22:20:24",
-      "album": {
-        "name": "Headlands",
-        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "Headlands",
-      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Are You OK?",
         "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "My House",
         "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
       },
@@ -1379,6 +1395,22 @@
       "duration_ms": 256639,
       "name": "My House",
       "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
+    },
+    {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "What's Dead and Gone",
+        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -1401,20 +1433,20 @@
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
     },
     {
-      "added_at": "2024-08-08 19:46:47",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "What's Dead and Gone",
-        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
       "artists": [
         {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1435,22 +1467,6 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1501,22 +1517,6 @@
       "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
     },
     {
-      "added_at": "2023-03-08 12:04:06",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
       "added_at": "2023-09-29 10:53:41",
       "album": {
         "name": "unposted letters",
@@ -1531,6 +1531,22 @@
       "duration_ms": 205230,
       "name": "unposted letters",
       "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
+    },
+    {
+      "added_at": "2023-03-08 12:04:06",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1627,26 +1643,6 @@
       "duration_ms": 145324,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "leave a light on",
-        "url": "https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU"
-      },
-      "artists": [
-        {
-          "name": "Keir",
-          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
-        },
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 230568,
-      "name": "leave a light on",
-      "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

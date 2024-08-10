@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 791 songs - 2 day 14 hr 3 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 792 songs - 2 day 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -799,5 +799,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 789 | [La Carta \(Mi Carta Final\)](https://open.spotify.com/track/0zNmzLkD8WLUvQDzL115I6) | [Tierra Canela](https://open.spotify.com/artist/4UJR3YhhFBlHwUrav8WzPB) | [Tu Recuerdo](https://open.spotify.com/album/2eXcyFcMRLfCwJzUZXEW0W) | 3:42 |
 | 790 | [Vallja E Rugoves Shota](https://open.spotify.com/track/7I2D4I5fLN6CLy2tUJ79xK) | [Valle](https://open.spotify.com/artist/1NcAnVLuHv4OMDa9U87EQt) | [Vallja E Rugoves Shota](https://open.spotify.com/album/1UyahuFsSl0qEb8lCSOLEo) | 3:54 |
 | 791 | [Fshatarja Ime](https://open.spotify.com/track/6wDhH6ItVhgtrI2SMtscI4) | [Sabri Fejzullahu](https://open.spotify.com/artist/01kw1JZlojs7jcsMHnfyVr) | [Merrma Shiun E Prishtinës](https://open.spotify.com/album/279nOOpIU7dSF3pXCudidz) | 4:20 |
+| 792 | [Tet Chajé](https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV) | [Kajou](https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS) | [Tet Chajé](https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT) | 6:10 |
 
-Snapshot ID: `AAADet7ybhgrfg/TR1Byn6aXOwSLSEvM`
+Snapshot ID: `AAADewOv+8F0NFyyptNSizbO9TTicW6h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,799 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,806 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 45 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 |
 | 46 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(8 Seasons: Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
 | 47 | [Celebrated Air](https://open.spotify.com/track/7gGiE9UeVzdyWBG27wBkHq) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Clara Rockmore's Lost Theremin Album](https://open.spotify.com/album/7FUnGjGbZPbAPAr5DhkalS) | 5:35 |
-| 48 | [Cantilena No\. 3 \(Arr\. for Theremin, Cello Quartet and Double Bass\)](https://open.spotify.com/track/1jirBkHYGkmiZVjGJvHYl4) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc), [Roman Eyck](https://open.spotify.com/artist/7rZPR5skCsBsl5FaKqdX5s) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 3:10 |
+| 48 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 | 49 | [Once Upon a Time in the West](https://open.spotify.com/track/6G7gbxHidYJCgWg2mxDU8j) | [Katica Illényi](https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7) | [Around the World in 80 Days](https://open.spotify.com/album/0FcE5hJVgG3PxtihdCMKz1) | 3:33 |
 | 50 | [Spellbound Concerto \(Arr\. for Theremin & Orchestra\)](https://open.spotify.com/track/5xnZTh1sJjvZsbgx6EJH60) | [Miklós Rózsa](https://open.spotify.com/artist/3ulUkIj0owxd4Qedpfock2), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Ensemble Sospeso](https://open.spotify.com/artist/0EGphcdhaoNI9gvvT2sSLj), [Charles Peltz](https://open.spotify.com/artist/3ykGBbDiOkMTfkYQs97sph) | [Spellbound!: Theremin Works by Grainger, Neuwirth, Rosza & Others](https://open.spotify.com/album/4QE9aHkHkFJwxPnTywwHKp) | 6:02 |
 

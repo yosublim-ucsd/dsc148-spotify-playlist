@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132729,
+  "num_followers": 132737,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABB9iW/CRA0uO2rWacDcQfQ",
+  "snapshot_id": "ZrQKgAAAAAACeZ+rmvKOkY4nx7sYGumi",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ao Final",
+      "url": "https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 483485,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ao Final",
-      "url": "https://open.spotify.com/track/7sFeGZBlqXSN3lN02lirMh"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 308964,
-      "name": "Deus Tremendo",
-      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
         "url": "https://open.spotify.com/album/7Koc2gllVK7SbTtBymCFjz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 268887,
       "name": "Deus Est\u00e1 Cuidando de Voc\u00ea",
       "url": "https://open.spotify.com/track/3BXYxSllo4ZsW2yeeSi8pQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 308964,
+      "name": "Deus Tremendo",
+      "url": "https://open.spotify.com/track/7JNDE2MxMjsBq1Bsy4M4EK"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Shaday (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 323832,
-      "name": "El Shaday (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Shaday (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 323832,
+      "name": "El Shaday (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
     },
     {
       "added_at": null,

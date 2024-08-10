@@ -3357,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Memo Papinho",
+        "url": "https://open.spotify.com/album/6L9vIxZkJBtkhQ5fjNpD1g"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Memo Papinho",
+      "url": "https://open.spotify.com/track/7r3UTCauWELpPXbgG22yzs"
+    },
+    {
+      "album": {
         "name": "Menos \u00c9 Mais",
         "url": "https://open.spotify.com/album/3syOdBgrqsVkFfeixLus7X"
       },

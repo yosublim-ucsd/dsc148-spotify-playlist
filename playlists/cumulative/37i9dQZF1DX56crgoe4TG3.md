@@ -2,9 +2,9 @@
 
 ### [Bluegrass Covers](https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3)
 
-> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Wyatt Flores
+> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Rhonda Vincent
 
-282 songs - 18 hr 17 min
+284 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/track/7mrdHjkfEFTXCniqDTOYHM) | [Chessboxer](https://open.spotify.com/artist/7M6RbP2krwdFSjgzXnHp3b), [Carl Miner](https://open.spotify.com/artist/6EG8uorDPhIW5CA471W5Di), [Jamie Dick](https://open.spotify.com/artist/7xzCJRaY7nlG6rG0vAVK9s) | [Cotton Eyed Joe \(feat\. Carl Miner & Jamie Dick\)](https://open.spotify.com/album/0trHLApfMaHMLxqw5771wT) | 2:04 | 2021-08-20 | 2022-12-03 |
 | [Counting Stars](https://open.spotify.com/track/0QRywzlUdSlC8qtayAEpkD) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/6jn2ods9b838kQ5oQh7WtF) | 1:36 | 2022-05-27 | 2024-04-19 |
 | [Counting Stars](https://open.spotify.com/track/4TdQmsHwJQbCaVSen5W9Zv) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/74f1fnKDMj0JGuD1eliXQ9) | 1:36 | 2021-08-20 |  |
+| [Cowboy Take Me Away](https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Cowboy Take Me Away](https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm) | 4:29 | 2024-08-09 |  |
 | [Creep](https://open.spotify.com/track/0Qbw6nRllQwItyP2Lv6ixK) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Solid Butter](https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id) | 4:41 | 2023-07-28 |  |
 | [Crocodile Man](https://open.spotify.com/track/59Jutc9omKOR5lrlA4eScj) | [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Crocodile Man](https://open.spotify.com/album/0vBMq00TPJsHCFeXxlffPj) | 3:01 | 2022-03-04 | 2023-07-15 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters](https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz) | 3:48 | 2022-01-21 |  |
@@ -238,6 +239,7 @@
 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 | 2022-05-27 | 2024-04-19 |
 | [Suspicious Minds](https://open.spotify.com/track/0ks96Oeyp8o04EiFTVoVEU) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Suspicious Minds](https://open.spotify.com/album/55kX8kOCW1nE7Cs1ofkgNb) | 3:26 | 2023-04-28 | 2024-08-03 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Guns n' Roses](https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN) | 4:01 | 2021-08-20 |  |
+| [Take Me Home Country Roads](https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Destinations and Fun Places](https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl) | 4:16 | 2024-08-09 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Take Me Home, Country Roads](https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4) | 3:39 | 2022-05-27 |  |
 | [Take On Me](https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 3:44 | 2021-08-20 | 2024-01-20 |
 | [Tangled up in Blue](https://open.spotify.com/track/1ijN5R7ZoAntTo2TgbKZbV) | [Grain Thief](https://open.spotify.com/artist/1s72KWoPysNDIrYfiysfxv) | [Ain't Hungover Yet](https://open.spotify.com/album/366ssa5QnTPViLln8TFILV) | 6:15 | 2022-12-02 | 2024-05-11 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=NjKdf\-zpT96sXoM\_EXjuZw">Elsy Wameyo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,565 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,568 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SET IT \)](https://open.spotify.com/track/6FMhJb6kv0IivuDSEkupp7) | [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy) | [SET IT \)](https://open.spotify.com/album/270daYV4IA33EjEGZ6yxUL) | 2:45 |
+| 1 | [Set It \)](https://open.spotify.com/track/6FMhJb6kv0IivuDSEkupp7) | [DYANA CODS](https://open.spotify.com/artist/0vNOhr6lkX80JZj5eYfT9U), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy) | [Set It \)](https://open.spotify.com/album/270daYV4IA33EjEGZ6yxUL) | 2:45 |
 | 2 | [Kuna Siku Youths Wataungana](https://open.spotify.com/track/3btdpyVBUk4rcTFZ0t2HpT) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Scar Mkadinali](https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T), [SirBwoy](https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC) | [Haitaki Hasira](https://open.spotify.com/album/4XYUisoUrAzj5prx4rtIso) | 3:56 |
 | 3 | [Quagmire](https://open.spotify.com/track/4vma7XUXJRiXjyKRaxDzvW) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Saint Sinner](https://open.spotify.com/album/6S32d9VMvOGlV9pjk7m300) | 3:19 |
 | 4 | [GEN Z KUWALEMEA](https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT) | [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw), [MUNGA MKADINALI](https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm), [SOSATHEPRODIGY](https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm) | [GEN Z KUWALEMEA](https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr) | 2:43 |

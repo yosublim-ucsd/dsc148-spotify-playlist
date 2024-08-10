@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Les Hay Babies",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Avec pas d'casque",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 172908,
       "name": "Ayoye",
       "url": "https://open.spotify.com/track/1U4RnGwHttw1bAKi4zqwgz"
@@ -10462,7 +10462,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182002,
       "name": "Curry",
       "url": "https://open.spotify.com/track/5hgiBYV0STcQ0m341EZLmc"
@@ -11276,6 +11276,24 @@
       "duration_ms": 200640,
       "name": "Dans ma t\u00eate",
       "url": "https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB"
+    },
+    {
+      "album": {
+        "name": "IDENTIT\u00c9",
+        "url": "https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171236,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
     },
     {
       "album": {
@@ -12110,7 +12128,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156653,
       "name": "Deux jours et deux nuits",
       "url": "https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8"
@@ -12762,6 +12780,24 @@
       "duration_ms": 223423,
       "name": "Dormir sur ton couch - Live",
       "url": "https://open.spotify.com/track/5BNlRMITpOxM4FJlthEc0f"
+    },
+    {
+      "album": {
+        "name": "Dor\u00e9",
+        "url": "https://open.spotify.com/album/5C0iGpg2sf7GezGqKqXs2n"
+      },
+      "artists": [
+        {
+          "name": "Lova",
+          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223808,
+      "name": "Dor\u00e9",
+      "url": "https://open.spotify.com/track/0k6YJAmPbVytu1kUGbvmME"
     },
     {
       "album": {
@@ -20531,6 +20567,28 @@
     },
     {
       "album": {
+        "name": "47\u00b0",
+        "url": "https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg"
+      },
+      "artists": [
+        {
+          "name": "BOLEMVN",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174945,
+      "name": "J'ach\u00e8te",
+      "url": "https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ"
+    },
+    {
+      "album": {
         "name": "J'ai beau essayer mais \u00e7a s'passe moyen",
         "url": "https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT"
       },
@@ -20618,6 +20676,24 @@
       "duration_ms": 106822,
       "name": "J'ai dessin\u00e9 un c\u0153ur dans la neige",
       "url": "https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ"
+    },
+    {
+      "album": {
+        "name": "J'ai l'impression",
+        "url": "https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167563,
+      "name": "J'ai l'impression",
+      "url": "https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz"
     },
     {
       "album": {
@@ -20914,7 +20990,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 182984,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
@@ -22565,6 +22641,24 @@
     },
     {
       "album": {
+        "name": "De l'autre c\u00f4t\u00e9",
+        "url": "https://open.spotify.com/album/4BDpKPjs4tVrdIYiUX0KEt"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "Jolie b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/5rsBs4jsJRkpNMziVn4xw0"
+    },
+    {
+      "album": {
         "name": "Jolie Go",
         "url": "https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF"
       },
@@ -23204,7 +23298,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 141897,
       "name": "killa",
       "url": "https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV"
@@ -23738,6 +23832,24 @@
       "duration_ms": 188973,
       "name": "L'Autre",
       "url": "https://open.spotify.com/track/1cQW86qR0xDFbGjh6sn2dl"
+    },
+    {
+      "album": {
+        "name": "L'autre h\u00e9misph\u00e8re",
+        "url": "https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221851,
+      "name": "L'autre h\u00e9misph\u00e8re",
+      "url": "https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q"
     },
     {
       "album": {
@@ -28997,6 +29109,28 @@
     },
     {
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180827,
+      "name": "LORO PIANA",
+      "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"
+    },
+    {
+      "album": {
         "name": "Lose It All",
         "url": "https://open.spotify.com/album/7My868BCSFXFo0JpoyJ6MM"
       },
@@ -32943,6 +33077,24 @@
     },
     {
       "album": {
+        "name": "M\u00e2cher tes bottes",
+        "url": "https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz"
+      },
+      "artists": [
+        {
+          "name": "Avec pas d'casque",
+          "url": "https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207877,
+      "name": "M\u00e2cher tes bottes",
+      "url": "https://open.spotify.com/track/6m10tqV7JardUKNPItH94C"
+    },
+    {
+      "album": {
         "name": "M\u00e8re guerri\u00e8re",
         "url": "https://open.spotify.com/album/7gn3lSDEYn3ANskW9ZP1mZ"
       },
@@ -33964,7 +34116,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176751,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/7DONKh2JpIudlg54DjthFu"
@@ -34174,6 +34326,24 @@
       "duration_ms": 157800,
       "name": "nouvelle vie",
       "url": "https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H"
+    },
+    {
+      "album": {
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
     },
     {
       "album": {
@@ -34424,7 +34594,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208500,
       "name": "Oblije Blockem - Baby Gyal",
       "url": "https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy"
@@ -35316,7 +35486,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
@@ -43768,7 +43938,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199980,
       "name": "Silence",
       "url": "https://open.spotify.com/track/17seVH4ixZN7PZaTLEyO8c"
@@ -44624,7 +44794,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 245479,
       "name": "Soyez fiers",
       "url": "https://open.spotify.com/track/7Gilwjw9waxLbQjMxVDJYG"
@@ -47088,7 +47258,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 153266,
       "name": "Ton regard",
       "url": "https://open.spotify.com/track/4FrlgpyAzw4a3gErecQqUO"
@@ -47128,7 +47298,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 107145,
       "name": "Top Dogs",
       "url": "https://open.spotify.com/track/0I0s3opJhCWhvm8MAUzfDF"
@@ -47512,7 +47682,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150029,
       "name": "Tout g\u00e2ch\u00e9",
       "url": "https://open.spotify.com/track/2U8Rdlgi2r3KDp7Bc4e33s"
@@ -50372,7 +50542,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158328,
       "name": "villa$",
       "url": "https://open.spotify.com/track/7Knn6uzxXbyaZnnbcKS06y"
@@ -51590,7 +51760,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170946,
       "name": "YOMB",
       "url": "https://open.spotify.com/track/6NLolWRVPfmvKKmDpTgPZT"

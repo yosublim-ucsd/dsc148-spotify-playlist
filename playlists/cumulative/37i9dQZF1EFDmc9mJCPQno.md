@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [20 Something](https://open.spotify.com/track/0c6T7ZbbfnYBLopCAYDW63) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 3:33 | 2024-07-03 |  |
+| [20 Something](https://open.spotify.com/track/0c6T7ZbbfnYBLopCAYDW63) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams \- Deluxe](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 3:33 | 2024-07-03 |  |
 | [Addicted to Blue](https://open.spotify.com/track/1RwSUSDtHYNqqyeUWniOyk) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Addicted to Blue](https://open.spotify.com/album/0CVWqS4fqnRVCwLshg2srt) | 3:25 | 2024-07-03 |  |
 | [Anyway](https://open.spotify.com/track/4BJQYSYHW2DWJ0DVFKBbQ1) | [Jack Vallier](https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN) | [Anyway](https://open.spotify.com/album/0UMuE9NyLHNs64AHsnvNgF) | 2:41 | 2024-07-03 |  |
 | [Backwards](https://open.spotify.com/track/1pgKXLlRX9hnQGpIEdJbrW) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [ColoRise](https://open.spotify.com/album/1VJ62OC6tQN9n5ss3uEQyr) | 2:41 | 2024-07-03 |  |

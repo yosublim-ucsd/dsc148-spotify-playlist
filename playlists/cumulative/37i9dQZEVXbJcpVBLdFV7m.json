@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -5334,7 +5334,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218468,
       "name": "Losha",
       "url": "https://open.spotify.com/track/0Ksj1ehwR3eJl6L3bB9VZk"
@@ -5554,7 +5554,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 137158,
       "name": "Magic Johnson",
       "url": "https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn"
@@ -6424,6 +6424,24 @@
       "duration_ms": 125901,
       "name": "Never Lose Me",
       "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
+    },
+    {
+      "album": {
+        "name": "NEXT!",
+        "url": "https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5"
+      },
+      "artists": [
+        {
+          "name": "NCTS",
+          "url": "https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99692,
+      "name": "NEXT!",
+      "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
     },
     {
       "album": {
@@ -9890,7 +9908,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 220046,
       "name": "TOO COOL TO BE CARELESS",
       "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
@@ -11856,6 +11874,24 @@
       "duration_ms": 168800,
       "name": "\u0417\u0438\u0433-\u0437\u0430\u0433",
       "url": "https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC"
+    },
+    {
+      "album": {
+        "name": "\u0418 \u0431\u0435\u0437 \u0442\u0435\u0431 \u0449\u0435 \u043c\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/2ZUGz0OOk5npMJpWMiTKOo"
+      },
+      "artists": [
+        {
+          "name": "Andzhelina",
+          "url": "https://open.spotify.com/artist/3y69znKiIH8C73tUYLcki8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233377,
+      "name": "\u0418 \u0431\u0435\u0437 \u0442\u0435\u0431 \u0449\u0435 \u043c\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/4Gq7sL2LeG75zvfxk1O2zp"
     },
     {
       "album": {

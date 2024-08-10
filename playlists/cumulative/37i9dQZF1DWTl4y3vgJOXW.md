@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Steph Curry
+> Fourth quarter, two minutes left .\. get locked in\. Cover:  LeBron James and Steph Curry
 
-665 songs - 1 day 9 hr 43 min
+667 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-29 | 2023-03-14 |
 | [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 | 2022-09-02 | 2022-11-13 |
 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 | 2023-02-17 | 2023-02-22 |
+| [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 | 2024-08-09 |  |
 | [Blind](https://open.spotify.com/track/2CSRrnOEELmhpq8iaAi9cd) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:30 | 2023-08-25 | 2023-09-02 |
 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 | 2021-09-02 | 2023-06-10 |
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blues](https://open.spotify.com/album/7yf3T5Ga0DpWFjqzoMkXK2) | 2:25 | 2022-09-16 | 2022-12-31 |
@@ -246,6 +247,7 @@
 | [h4rt&soul](https://open.spotify.com/track/5pMeCtPRcV9ORs7CeUDEE7) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh), [Fubu Banks](https://open.spotify.com/artist/6XruQ4mSyrdUm6ABc7hWZA) | [From Now On](https://open.spotify.com/album/5ndDCskK44Y2nHg39zYnUG) | 3:36 | 2023-02-17 | 2023-02-22 |
 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 | 2024-05-10 |  |
 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2021-09-02 | 2023-03-14 |
+| [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-09 |  |
 | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/track/0RV9wVTrrX9OadfiEqKGdF) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/album/1Im2OU9CCCVNkvBk9CRcws) | 3:22 | 2022-06-24 | 2022-12-31 |
 | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/track/32lECHmQimK363xwXhRUJq) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Headlocc \(feat\. Young Thug\)](https://open.spotify.com/album/7g1YZSjv5vqaxSIhpNfUlG) | 3:22 | 2021-09-02 | 2022-07-29 |
 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/05bcw8n2kOlB7jpaXC41zo) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3mseemmNsNvbafLKJIhjbk) | 2:24 | 2022-09-02 | 2022-11-13 |
@@ -417,7 +419,7 @@
 | [On Dat Money \(with Cardi B\)](https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [On Dat Money \(with Cardi B\) \(Alternate Versions\)](https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK) | 2:31 | 2024-07-19 |  |
 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 | 2022-07-29 | 2023-02-18 |
 | [On Fleek \(feat\. Gunna\)](https://open.spotify.com/track/1XzFvEZf1zcDPhiXm017wf) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [On Fleek \(feat\. Gunna\)](https://open.spotify.com/album/0cS7jqIErQP2qTK8OV64dS) | 4:20 | 2021-09-02 | 2022-12-27 |
-| [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 | 2022-06-24 |  |
+| [On Me](https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Me](https://open.spotify.com/album/25gJpQKgXxT5CrMitr0DQO) | 2:15 | 2022-06-24 | 2024-08-10 |
 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 | 2021-09-02 | 2022-06-25 |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-08-25 | 2023-09-02 |
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-13 | 2023-02-18 |

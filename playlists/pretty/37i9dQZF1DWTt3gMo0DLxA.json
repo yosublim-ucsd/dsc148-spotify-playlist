@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Kalki 2898 Ad",
-  "num_followers": 125848,
+  "num_followers": 126139,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrDAfgAAAAAbMBOZCWc4P8KSMFuRyGb5",
+  "snapshot_id": "ZrYVbAAAAACdJopx3t8T9zk1bLaKt0WU",
   "tracks": [
     {
       "added_at": "2024-06-16 12:40:05",
@@ -31,6 +31,54 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
+    },
+    {
+      "added_at": "2024-08-09 13:09:28",
+      "album": {
+        "name": "Murari",
+        "url": "https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr"
+      },
+      "artists": [
+        {
+          "name": "Jikki",
+          "url": "https://open.spotify.com/artist/1cXMzsmYVsprIfgnqOmgRg"
+        },
+        {
+          "name": "Sunitha",
+          "url": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
+        },
+        {
+          "name": "Sandhya",
+          "url": "https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN"
+        }
+      ],
+      "duration_ms": 321619,
+      "name": "Alanati Ramachandrudu",
+      "url": "https://open.spotify.com/track/2SyVdOenmbDSjUGoFprS2x"
+    },
+    {
+      "added_at": "2024-08-09 13:11:08",
+      "album": {
+        "name": "Aa Rojulu Malli Raavu (From \"Committee Kurrollu\")",
+        "url": "https://open.spotify.com/album/5GYpy0N0p9KjSy4VRenZeO"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Anudeep Dev",
+          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 253271,
+      "name": "Aa Rojulu Malli Raavu (From \"Committee Kurrollu\")",
+      "url": "https://open.spotify.com/track/4WLb2gV1NHlCC6KMjsWVp6"
     },
     {
       "added_at": "2024-07-30 09:22:06",
@@ -317,22 +365,6 @@
       "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
     },
     {
-      "added_at": "2024-07-16 10:25:16",
-      "album": {
-        "name": "Kalki 2898 Ad (Telugu)",
-        "url": "https://open.spotify.com/album/7FVfeI4Xa5CgRYKv82goj7"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Veera Dheera",
-      "url": "https://open.spotify.com/track/1oyA1gaiHOj7HtDWo35K25"
-    },
-    {
       "added_at": "2023-12-11 04:40:35",
       "album": {
         "name": "Odiyamma (From \"Hi Nanna\") [TELUGU]",
@@ -535,26 +567,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Sammohanuda (From \"Rules Ranjann\")",
-        "url": "https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Amrish",
-          "url": "https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Sammohanuda (From \"Rules Ranjann\")",
-      "url": "https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35"
     },
     {
       "added_at": "2023-08-30 10:44:11",

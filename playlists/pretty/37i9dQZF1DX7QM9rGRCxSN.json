@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Silver Rose en portada.",
-  "num_followers": 31729,
+  "num_followers": 31739,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2024-06-28 06:00:00",

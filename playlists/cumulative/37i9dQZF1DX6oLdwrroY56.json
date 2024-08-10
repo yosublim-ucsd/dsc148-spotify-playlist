@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8"
+      },
+      "artists": [
+        {
+          "name": "Zild",
+          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148190,
+      "name": "I.N.A.S.",
+      "url": "https://open.spotify.com/track/7BbfSKMsq6NTQqeNtGs9lt"
+    },
+    {
+      "album": {
         "name": "Isip",
         "url": "https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV"
       },
@@ -1012,6 +1030,24 @@
       "duration_ms": 243506,
       "name": "Lumang Gunita",
       "url": "https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD"
+    },
+    {
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4"
+      },
+      "artists": [
+        {
+          "name": "aunt robert",
+          "url": "https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154127,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6"
     },
     {
       "album": {

@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -4209,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "tiny but scary",
+        "url": "https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "girl talk",
+      "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
+    },
+    {
+      "album": {
         "name": "give you away",
         "url": "https://open.spotify.com/album/5qjdIGQ8285nHIhUwbpJfl"
       },
@@ -5236,7 +5272,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 238246,
       "name": "HOW DARE YOU",
       "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
@@ -5542,7 +5578,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161991,
       "name": "Hypothetically",
       "url": "https://open.spotify.com/track/0GW4U3AyJNm25YAWjlL4Ww"
@@ -7326,7 +7362,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
@@ -11433,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/1DWudTaW5joeHaG6wgSNSS"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/28jtlpjqjubsGlly6caVwL"
+    },
+    {
+      "album": {
         "name": "take it back",
         "url": "https://open.spotify.com/album/0e3xxcBQGOu7p9VeIoTDqQ"
       },
@@ -11820,6 +11874,24 @@
       "duration_ms": 159808,
       "name": "The Night You Left",
       "url": "https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k"
+    },
+    {
+      "album": {
+        "name": "The Older You Get",
+        "url": "https://open.spotify.com/album/71omgibBrjAY4OhP5pGnfZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216611,
+      "name": "The Older You Get",
+      "url": "https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3"
     },
     {
       "album": {
@@ -12642,7 +12714,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168461,
       "name": "Unlearn You",
       "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"

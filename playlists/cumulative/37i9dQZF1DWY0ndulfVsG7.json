@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Yovie Widianto, Lyodra",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Rossa, Ariel NOAH",
   "name": "Berjiran",
   "tracks": [
     {
@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Nada - Nada Cinta",
+        "url": "https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        },
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271800,
+      "name": "Nada Nada Cinta",
+      "url": "https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP"
+    },
+    {
+      "album": {
         "name": "DEKADE",
         "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
@@ -1440,7 +1462,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 258331,
       "name": "Sudah Ku Tahu",
       "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"

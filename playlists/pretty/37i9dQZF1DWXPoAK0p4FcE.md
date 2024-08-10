@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: CORNBOI
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,706 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,703 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 |
+| 1 | [อีกสักครั้ง](https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [อีกสักครั้ง](https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN) | 4:10 |
 | 2 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 |
-| 3 | [อีกสักครั้ง](https://open.spotify.com/track/1u8t3ijcMISRh2N87qZMS4) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [อีกสักครั้ง](https://open.spotify.com/album/4lZ4coRqcqMKvMrlG0ReGN) | 4:10 |
-| 4 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
+| 3 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
+| 4 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 |
 | 5 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 |
 | 6 | [Destiny](https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [BLACKBEANS](https://open.spotify.com/album/7zwzgZ4Z81rXLAbR24aJSZ) | 4:02 |
 | 7 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 |
 | 50 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 |
 
-Snapshot ID: `ZqNQIwAAAAC8YpglfVPJdyEMGHRhrllU`
+Snapshot ID: `ZrXw1QAAAAArmKpUcxsxAwcaLjVO2zul`

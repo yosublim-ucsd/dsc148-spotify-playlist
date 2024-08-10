@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from MJ Lenderman",
+  "description": "The best in folk & acoustic today featuring music from Amos Lee",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209770,
+      "name": "Carry You On",
+      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
+    },
+    {
+      "album": {
         "name": "Cast Iron Skillet",
         "url": "https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ"
       },
@@ -3251,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "Evergreen (feat. Caamp)",
+        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177512,
+      "name": "Evergreen (feat. Caamp)",
+      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+    },
+    {
+      "album": {
         "name": "Mipso (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5xWV1OMbab5FjXNnlshacS"
       },
@@ -4292,7 +4332,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193460,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/0sRBcoVl0ATZXLXh8XgTav"
@@ -6712,7 +6752,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"

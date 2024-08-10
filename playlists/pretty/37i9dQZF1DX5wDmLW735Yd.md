@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wDmLW735Yd.md) - [plain]
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Stormzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,368 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430,680 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

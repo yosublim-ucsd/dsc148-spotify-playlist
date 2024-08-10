@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19383,
+  "num_followers": 19385,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        }
-      ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "El Amor Ese Loco Berretin",
         "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Martingala",
         "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
       },
       "artists": [
         {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Coraz\u00f3n Maldito",
+        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 204889,
+      "name": "Coraz\u00f3n Maldito",
+      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Coraz\u00f3n Maldito",
-        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 204889,
-      "name": "Coraz\u00f3n Maldito",
-      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
     },
     {
       "added_at": "2024-08-02 17:18:29",

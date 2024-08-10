@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 129075,
       "name": "GPT",
       "url": "https://open.spotify.com/track/0K52RO4kglf44kTKRIOnN2"
@@ -4940,6 +4940,36 @@
       "duration_ms": 147740,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/3wKfelws5Mak6BpV8HG0dc"
+    },
+    {
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173114,
+      "name": "Lado Negro",
+      "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
     },
     {
       "album": {

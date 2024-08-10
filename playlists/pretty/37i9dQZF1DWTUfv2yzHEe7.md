@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 
 > Groove it to the biggest bangers of the decade\. Cover \- Tashan
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,435 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,670 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUfv2yzHEe7.md) - [plain]
 | 36 | [Nagada Nagada](https://open.spotify.com/track/2W6bC4K4e6y42HnYTA5yHO) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Jab We Met](https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO) | 3:48 |
 | 37 | [Kajra Re](https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Bunty Aur Babli](https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9) | 8:02 |
 | 38 | [Aaj Ki Raat](https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc), [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 6:08 |
-| 39 | [Badi Mushkil](https://open.spotify.com/track/1SQqbwndpSEiEULMV1CPDr) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Lajja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wuB00Hc6MaDJSc6QwzQ7n) | 6:03 |
+| 39 | [Badi Mushkil](https://open.spotify.com/track/1SQqbwndpSEiEULMV1CPDr) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Lajja \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4wuB00Hc6MaDJSc6QwzQ7n) | 6:03 |
 | 40 | [Kiss Me Baby](https://open.spotify.com/track/4gNGi2Mr26me7wGKd8TQSF) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz) | [Garam Masala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4HaPtlICUuRXPUNoQ9m1lq) | 3:43 |
 | 41 | [Dhoom Machale](https://open.spotify.com/track/2cYVtBHkrkk7F2qU2Y7Fn0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sameer](https://open.spotify.com/artist/77FVRdtArPbwxygmW5dTsa) | [Dhoom](https://open.spotify.com/album/6Z49LnmV2rjlk9sDVFgPHT) | 6:15 |
 | 42 | [Aisa Jadoo](https://open.spotify.com/track/3NEW0n3CQRFsmsIOPHcOOK) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 3:23 |

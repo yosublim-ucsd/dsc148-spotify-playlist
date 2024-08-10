@@ -1,13 +1,69 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 57891,
+  "num_followers": 57913,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAADzKzmKJeaFRmbpKgvF9pUM",
+  "snapshot_id": "ZrWUQAAAAAAA9+kEhqFdPQqFUTph793Q",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Blues In My DNA",
+        "url": "https://open.spotify.com/album/2bQZbzMmuLDr6B6UPJhU7Y"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "duration_ms": 288448,
+      "name": "Blues In My DNA",
+      "url": "https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+        "url": "https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 194236,
+      "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Undefeated Eyes (Radio Edit)",
+        "url": "https://open.spotify.com/album/5hA9rwzWYLOkCj3oNyHTe6"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Undefeated Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -1615,22 +1671,6 @@
     {
       "added_at": "2022-06-03 04:02:00",
       "album": {
-        "name": "White Jesus Black Problems",
-        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 190436,
-      "name": "Virginia Soil",
-      "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
         "name": "Mississippi Son",
         "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
@@ -1711,42 +1751,6 @@
       "duration_ms": 261946,
       "name": "I Like Games - Single Version",
       "url": "https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Straight from the Heart",
-        "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "Mount up on the Wings of the King",
-      "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Bitches Blues",
-        "url": "https://open.spotify.com/album/1Dm1iro6Z5Hjv6USdF2NXY"
-      },
-      "artists": [
-        {
-          "name": "Sass Jordan",
-          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "Still The World Goes Round",
-      "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
     },
     {
       "added_at": "2022-06-24 04:02:00",

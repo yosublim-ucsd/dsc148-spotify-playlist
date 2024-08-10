@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Bops and LGBTQIA+ artists only. Cover: Tayla Parx",
+  "description": "Bops and LGBTQIA+ artists only. Cover: Maren Morris",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 214500,
       "name": "25",
       "url": "https://open.spotify.com/track/3WRE7lOnBz5JSV4zrESKX1"
@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "serious person (part 2)",
         "url": "https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q"
       },
@@ -52,7 +78,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198631,
       "name": "alien",
       "url": "https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I"
@@ -200,6 +226,24 @@
       "duration_ms": 192000,
       "name": "Back Pew",
       "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
+    },
+    {
+      "album": {
+        "name": "Back Then",
+        "url": "https://open.spotify.com/album/2fxodqFUNzJTi7AMMJC6JZ"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/5nlpPjxnAz3m8vSYdaBbRS"
     },
     {
       "album": {
@@ -384,6 +428,24 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "album": {
+        "name": "bloodshot",
+        "url": "https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194001,
+      "name": "bloodshot",
+      "url": "https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8"
     },
     {
       "album": {
@@ -654,7 +716,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 304146,
       "name": "Conwayroad",
       "url": "https://open.spotify.com/track/7E1Lv1GatC0YDiOtFTcTqF"
@@ -1001,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+    },
+    {
+      "album": {
         "name": "Fire Excape",
         "url": "https://open.spotify.com/album/7nU97h6a16WCM6AJlrYIry"
       },
@@ -1066,7 +1146,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 211266,
       "name": "FREAK / PINTEREST",
       "url": "https://open.spotify.com/track/0p4WCgPfEomL1pEe9HXzCG"
@@ -1200,7 +1280,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -1330,6 +1410,28 @@
       "duration_ms": 167663,
       "name": "Hard Headed",
       "url": "https://open.spotify.com/track/2mQDrIJA2oN5AKaMZxw1Fe"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217529,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
     },
     {
       "album": {
@@ -1724,7 +1826,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 191696,
       "name": "Jenna",
       "url": "https://open.spotify.com/track/4OuS6CcTr3kofsSYpDyrTB"
@@ -1786,6 +1888,24 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "album": {
+        "name": "Late Start",
+        "url": "https://open.spotify.com/album/7EQVP2eiEoRepNkjkUjxjc"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248437,
+      "name": "Late Start",
+      "url": "https://open.spotify.com/track/0VGa2uUcAc7YkNiL1x9BOL"
     },
     {
       "album": {
@@ -2408,7 +2528,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198783,
       "name": "Peppermint",
       "url": "https://open.spotify.com/track/61tq7exFoWDrsBsmPWehFg"
@@ -2426,10 +2546,46 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151497,
       "name": "perky",
       "url": "https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV"
+    },
+    {
+      "album": {
+        "name": "Pink Cheetah Print Slip",
+        "url": "https://open.spotify.com/album/4gqxim6w1bqZSNOjIJPP6s"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107337,
+      "name": "Pink Cheetah Print Slip",
+      "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
+    },
+    {
+      "album": {
+        "name": "Play A Part",
+        "url": "https://open.spotify.com/album/3msKu3UeQoQGu2jjvUaP0S"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "Play A Part",
+      "url": "https://open.spotify.com/track/6QleDIe4FB5CbgL2ytcTjH"
     },
     {
       "album": {
@@ -2592,6 +2748,24 @@
       "duration_ms": 166406,
       "name": "princess peach",
       "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "album": {
@@ -2869,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Skin On Skin",
+        "url": "https://open.spotify.com/album/6fdKohnIlpVFtyqC9TbSq4"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Skin On Skin",
+      "url": "https://open.spotify.com/track/122FrmjHy0x5IJtvo2KiVB"
+    },
+    {
+      "album": {
         "name": "SLAP ME IN THE FACE",
         "url": "https://open.spotify.com/album/6zv7tsfgptS8LPQySUgyyl"
       },
@@ -2898,7 +3090,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156757,
       "name": "SLIME!",
       "url": "https://open.spotify.com/track/4DrUyJa0hYPyQDRmBILNud"
@@ -3126,7 +3318,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 231235,
       "name": "Tether",
       "url": "https://open.spotify.com/track/6jnrxHB6CbK89NmFF9Yqa6"
@@ -3289,6 +3481,28 @@
     },
     {
       "album": {
+        "name": "time & time again",
+        "url": "https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166650,
+      "name": "time & time again",
+      "url": "https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk"
+    },
+    {
+      "album": {
         "name": "i used to be funny.",
         "url": "https://open.spotify.com/album/7da2islBlr2IUA2dJeLyg9"
       },
@@ -3398,7 +3612,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144446,
       "name": "unruly",
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
@@ -3470,7 +3684,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168973,
       "name": "Watercolor Flowers",
       "url": "https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt"
@@ -3575,6 +3789,50 @@
     },
     {
       "album": {
+        "name": "You Could Hate Me",
+        "url": "https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "You Could Hate Me",
+      "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"
+    },
+    {
+      "album": {
+        "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+        "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        },
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163934,
+      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+      "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
+    },
+    {
+      "album": {
         "name": "You're So F***in' Perfect (Harve Remix)",
         "url": "https://open.spotify.com/album/38aBIeDUgBchh2wGbM2RSn"
       },
@@ -3594,7 +3852,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218875,
       "name": "You're So F***in' Perfect - Harve Remix",
       "url": "https://open.spotify.com/track/0bW1ytZf6pymacFsAtz97w"

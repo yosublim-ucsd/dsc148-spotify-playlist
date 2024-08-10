@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Anberlin",
+  "description": "For full-volume lovers. Cover: Pop Evil",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216287,
       "name": "A Banger A Day Keeps The Doctor Away",
       "url": "https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146746,
       "name": "aftermath/afterthought",
       "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237800,
       "name": "ASTRAL GALLERY [feat. Michael Skaggs]",
       "url": "https://open.spotify.com/track/4cT96N5SNOpbDH3FTGXss1"
@@ -3481,6 +3481,28 @@
     },
     {
       "album": {
+        "name": "Demon or Ghost (feat. Underoath)",
+        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Demon or Ghost (feat. Underoath)",
+      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
+    },
+    {
+      "album": {
         "name": "Depression Season",
         "url": "https://open.spotify.com/album/7DuxU5W6e3w5wCBsD3pKZr"
       },
@@ -5190,7 +5212,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 254906,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1Z1HcQkT4nwp5A5FVircal"
@@ -5288,6 +5310,24 @@
       "duration_ms": 177600,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "album": {
+        "name": "Full Of Emptiness",
+        "url": "https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174952,
+      "name": "Full Of Emptiness",
+      "url": "https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo"
     },
     {
       "album": {
@@ -5432,7 +5472,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226956,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2kMLum5ivVsAtMCTN3o6y9"
@@ -7499,6 +7539,24 @@
     },
     {
       "album": {
+        "name": "Just Too Much",
+        "url": "https://open.spotify.com/album/1XtvMNpkxT9bfImjXVawnu"
+      },
+      "artists": [
+        {
+          "name": "Tremonti",
+          "url": "https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226846,
+      "name": "Just Too Much",
+      "url": "https://open.spotify.com/track/50jAagbs3gaicU3gxWbkkU"
+    },
+    {
+      "album": {
         "name": "Justice Will Shine On",
         "url": "https://open.spotify.com/album/7JlX2Ju7lEiIzjXK8ew72O"
       },
@@ -7842,7 +7900,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181466,
       "name": "Learn To Forget",
       "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
@@ -8702,6 +8760,24 @@
       "duration_ms": 214069,
       "name": "Maverick",
       "url": "https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK"
+    },
+    {
+      "album": {
+        "name": "analysis paralysis",
+        "url": "https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "maybe it's me",
+      "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
     },
     {
       "album": {
@@ -9987,6 +10063,24 @@
     },
     {
       "album": {
+        "name": "Nothing Left (The Fool)",
+        "url": "https://open.spotify.com/album/05Qzc6uMHkgv6radOWGsPr"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223724,
+      "name": "Nothing Left (The Fool)",
+      "url": "https://open.spotify.com/track/6Re9ybEa3yRtEOXCyrkkv1"
+    },
+    {
+      "album": {
         "name": "Silverline",
         "url": "https://open.spotify.com/album/4LjeOTuZWmXuFbIfbOK6pb"
       },
@@ -10158,7 +10252,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 258857,
       "name": "Okapi",
       "url": "https://open.spotify.com/track/50KjEgqnSXYfNGSbtV4zjq"
@@ -11096,6 +11190,24 @@
       "duration_ms": 197480,
       "name": "Psycho In My Head",
       "url": "https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J"
+    },
+    {
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
     },
     {
       "album": {
@@ -14299,6 +14411,24 @@
     },
     {
       "album": {
+        "name": "THE RECKONING",
+        "url": "https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179786,
+      "name": "THE RECKONING",
+      "url": "https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y"
+    },
+    {
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/10aLPuLNKn9L4oWUD42m5v"
       },
@@ -14492,7 +14622,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210880,
       "name": "The Welcome Party",
       "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
@@ -14510,7 +14640,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226329,
       "name": "The World I Wanted - Vol.1",
       "url": "https://open.spotify.com/track/1gtu7qxYNN48tQkscmcuug"
@@ -15374,6 +15504,24 @@
       "duration_ms": 184287,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V"
+    },
+    {
+      "album": {
+        "name": "Unpopular",
+        "url": "https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185553,
+      "name": "Unpopular",
+      "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
     },
     {
       "album": {
@@ -16322,6 +16470,24 @@
       "duration_ms": 287250,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/3FV3v7gQSKYrvAm8HsGapX"
+    },
+    {
+      "album": {
+        "name": "What Remains",
+        "url": "https://open.spotify.com/album/2NECnxiVMw84QBLNlm6x42"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217081,
+      "name": "What Remains",
+      "url": "https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0"
     },
     {
       "album": {

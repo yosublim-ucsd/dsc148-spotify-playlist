@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: the small town kids, Wiktoria Zwoli\u0144ska",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ania Leon, Arek Kopera",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166200,
       "name": "$hrek 2",
       "url": "https://open.spotify.com/track/388rO5FRKO8rM2rpUTtrIq"
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 332816,
       "name": "Beze Mnie",
       "url": "https://open.spotify.com/track/0ZeQbTqUFBUYrg6B3qYOv9"
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "D\u0142ugie Spacery",
+        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276095,
+      "name": "D\u0142ugie Spacery",
+      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
+    },
+    {
+      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -1073,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Lato / Gdybym",
+        "url": "https://open.spotify.com/album/4izU9RNRRiCghMNMIp73zl"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145909,
+      "name": "Lato",
+      "url": "https://open.spotify.com/track/0tFTwVlfktPgqjNDWxRR57"
+    },
+    {
+      "album": {
         "name": "lato",
         "url": "https://open.spotify.com/album/41CIIKeSyHbrCcUJOTgtkl"
       },
@@ -1110,6 +1146,28 @@
       "duration_ms": 173700,
       "name": "Lato przyp\u0142ywa",
       "url": "https://open.spotify.com/track/1pCLzNOQqELGpJggA6p9BT"
+    },
+    {
+      "album": {
+        "name": "Czas si\u0119 ba\u0107! (Akt I)",
+        "url": "https://open.spotify.com/album/1fZkcFSuwDEe8cTjwkvLqT"
+      },
+      "artists": [
+        {
+          "name": "Ania Leon",
+          "url": "https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu"
+        },
+        {
+          "name": "Arek Kopera",
+          "url": "https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186887,
+      "name": "Lawa",
+      "url": "https://open.spotify.com/track/5ISbU3pNa6EHXGSj7qek7g"
     },
     {
       "album": {
@@ -1737,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "NIE DA\u0141OBY NIC",
+        "url": "https://open.spotify.com/album/1VsNqqr93aam4f6uHqHO7F"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200270,
+      "name": "NIE DA\u0141OBY NIC",
+      "url": "https://open.spotify.com/track/3flBw4Ro5F6h093FoHFEHR"
+    },
+    {
+      "album": {
         "name": "Nie ma szans",
         "url": "https://open.spotify.com/album/0gkHfzqnX6zc3eTEHAOhBN"
       },
@@ -2280,7 +2356,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166006,
       "name": "Peron",
       "url": "https://open.spotify.com/track/4nDKB41PC9p4atL5KD8wLI"
@@ -2320,7 +2396,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 227800,
       "name": "Po ko\u015bciach",
       "url": "https://open.spotify.com/track/6U9m9iSlQrTkS95HOx9jJk"
@@ -2392,7 +2468,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178846,
       "name": "Pop I Disco",
       "url": "https://open.spotify.com/track/7I7Rpx0M88Vz1oWwYGIE9y"
@@ -2511,6 +2587,32 @@
     },
     {
       "album": {
+        "name": "Rdza",
+        "url": "https://open.spotify.com/album/4DUBDIc7OrLEdSi6OcdJ2T"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        },
+        {
+          "name": "Zesp\u00f3\u0142 Pie\u015bni i Ta\u0144ca \u015al\u0105sk",
+          "url": "https://open.spotify.com/artist/73L5GZ2KVgguSth6DnNNpU"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321480,
+      "name": "Rdza",
+      "url": "https://open.spotify.com/track/2BMzX2WrAvltatKAwojiER"
+    },
+    {
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -2544,6 +2646,42 @@
       "duration_ms": 178666,
       "name": "Roboty",
       "url": "https://open.spotify.com/track/5dI9OMRn37zPKmspyvY5CR"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/3oDB9OjKvAeMa7ndRAVY05"
+      },
+      "artists": [
+        {
+          "name": "Gypsy and the Acid Queen",
+          "url": "https://open.spotify.com/artist/2yUrmSd5W9lNHIIEFauKlw"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222680,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/5hiVAx1on8cg6SlfzRYVld"
+    },
+    {
+      "album": {
+        "name": "s k o c z w s z u w a r y",
+        "url": "https://open.spotify.com/album/6GhyEb20ArqlWDu2jvP5bm"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "s k o c z w s z u w a r y",
+      "url": "https://open.spotify.com/track/3apAH6ywhMzKvCTgvbGsQJ"
     },
     {
       "album": {
@@ -3276,7 +3414,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157098,
       "name": "Wspania\u0142y \u015bwiat",
       "url": "https://open.spotify.com/track/6Lk1PBaUq82Uu4iYhGQd0J"
@@ -3534,7 +3672,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 228655,
       "name": "ZG\u0141OWY",
       "url": "https://open.spotify.com/track/6CWii0CIs9kpaFIRODLaaY"

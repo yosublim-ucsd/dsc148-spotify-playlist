@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > torya e mil fitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,332 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,388 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 42 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
 | 43 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
-| 44 | [Rosa \- Faixa bônus](https://open.spotify.com/track/2rQbSUnzcZE5MZALYP36og) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 3:02 |
-| 45 | [Trik Trik](https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Trik Trik](https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw) | 3:03 |
-| 46 | [ATL Freestyle](https://open.spotify.com/track/5JU5JyRvxarASKxiieyO1R) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Artilheira](https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn) | 2:16 |
-| 47 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
+| 44 | [Trik Trik](https://open.spotify.com/track/0RrCvxhHeL45xX9VZqzZbn) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Trik Trik](https://open.spotify.com/album/06vB960YqXyLlWcR8xZmpw) | 3:03 |
+| 45 | [Big Mama](https://open.spotify.com/track/3WndchwzPevLyg4HY5gTeX) | [Áurea Semiseria](https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg) | [Big Mama](https://open.spotify.com/album/5OZVZqaQbOIZdu04W9DN62) | 2:53 |
+| 46 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
+| 47 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 |
 | 48 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 49 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 50 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
 
-Snapshot ID: `ZpV46gAAAADBv3wGX7I+vRBsVFqTjAaO`
+Snapshot ID: `ZrZrtAAAAACaknWXvAj3FiRCwpLQVa6m`

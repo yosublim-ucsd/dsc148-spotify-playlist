@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2704973,
+  "num_followers": 2705359,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACEVpvy2CEQMd93zSRtebJP",
+  "snapshot_id": "ZrQKgAAAAAANqdWL9/dKBS4yZAPIuITW",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204952,
+      "name": "Too Cool To Die",
+      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
       },
@@ -603,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204952,
-      "name": "Too Cool To Die",
-      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twelve Carat Toothache (Deluxe)",
-        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Waiting For Never",
-      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+        "name": "Twelve Carat Toothache (Deluxe)",
+        "url": "https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 179826,
-      "name": "No Option",
-      "url": "https://open.spotify.com/track/6M0IsaUX4GNyto4niSegfI"
+      "duration_ms": 196986,
+      "name": "Waiting For Never",
+      "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 205287,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/444vevlQjTnKioLLncteGv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/6M0IsaUX4GNyto4niSegfI"
     },
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
-        "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 216194,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
+        "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 216194,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
     },
     {
       "added_at": null,

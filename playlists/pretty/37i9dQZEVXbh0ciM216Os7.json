@@ -6,10 +6,262 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABICS2cm3+g0yg7J+J71wzg",
+  "snapshot_id": "AAAAAAAAAAClTbHX6tHFoiuhpPc4vr4o",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 167228,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Yo Gabba GabbaLand!",
+        "url": "https://open.spotify.com/album/66LTCZb9PLOyW5usX4cCq4"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 96920,
+      "name": "The Orange Cat's Special Time Outdoors",
+      "url": "https://open.spotify.com/track/7dFv3bot0kaUgcfrogHMKi"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lifa Iotungard (Live)",
+        "url": "https://open.spotify.com/album/34JvgVfOKw3nIpsDaAXZXV"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "duration_ms": 342352,
+      "name": "Norupo - Live",
+      "url": "https://open.spotify.com/track/3v2yP0sgEBXGE7dCH025dK"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Day Of...",
+        "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "The Day Of...",
+      "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "American Idiot - 20th Anniversary - On Holiday",
+        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 503138,
+      "name": "Holiday/Blvd. of Broken Dreams - Demo",
+      "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/63gSt4lQ8pzArSwaR56ZdT"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "duration_ms": 202752,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "We're All Connected (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/6w6FNe09Z0EYZivFpneqb9"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 120293,
+      "name": "We're All Connected (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3KqiWn5vvFf431S88SYMlA"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Colorful Cutlery",
+        "url": "https://open.spotify.com/album/093ezhBgkDlXiYoSvIItQe"
+      },
+      "artists": [
+        {
+          "name": "SARKASTIKJ",
+          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 142522,
+      "name": "Colorful Cutlery",
+      "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
+      },
+      "artists": [
+        {
+          "name": "Rigz",
+          "url": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 278260,
+      "name": "No limit to the sky",
+      "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Embrace, Vol. 1",
+        "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
+      },
+      "artists": [
+        {
+          "name": "Noah Halpern",
+          "url": "https://open.spotify.com/artist/4nOk7W3A282Jh3bVeLZxSm"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 223862,
+      "name": "Lost in Your Eyes (Solo Piano)",
+      "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Speshal Methods",
+        "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Ti-Lar Bee",
+          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
+        }
+      ],
+      "duration_ms": 156450,
+      "name": "Speshal Methods",
+      "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "\u0421\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044f",
         "url": "https://open.spotify.com/album/6WqctQprhRaaqM20ZWkK3b"
@@ -29,7 +281,7 @@
       "url": "https://open.spotify.com/track/1ZYMRL9hRQB8Aupo0qgwC6"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Don't Stop (Live at The Forum, Inglewood, CA, 10/21/82)",
         "url": "https://open.spotify.com/album/6Q9nmIK5tnvhxBHICrxmvV"
@@ -45,27 +297,7 @@
       "url": "https://open.spotify.com/track/3o5utgLYLRp7AqeFEK3l4W"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
@@ -85,7 +317,7 @@
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Punishment (Lockdown)",
         "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
@@ -101,7 +333,7 @@
       "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
@@ -121,7 +353,7 @@
       "url": "https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "U.S. Blues (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/0iX61Dfmg6WoimYQuohiCD"
@@ -137,51 +369,23 @@
       "url": "https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Rock Star Shit",
-        "url": "https://open.spotify.com/album/1Ufh7fFQk2PcQcTskAwWCA"
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
       },
       "artists": [
         {
-          "name": "Destropues",
-          "url": "https://open.spotify.com/artist/70tdVd2KaiiuMYCBDW1IyT"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 186480,
-      "name": "Rock Star Shit",
-      "url": "https://open.spotify.com/track/6wnlnnv53tkrdCZmp5i7il"
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Born Wit It",
-        "url": "https://open.spotify.com/album/7LSGSmDXOkbLBM6ZLpc5Ec"
-      },
-      "artists": [
-        {
-          "name": "Senor Draz",
-          "url": "https://open.spotify.com/artist/3tJ8nCkB8rNtID1RSXWNKK"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        }
-      ],
-      "duration_ms": 158023,
-      "name": "Born Wit It",
-      "url": "https://open.spotify.com/track/1QFvBVYj8MV36GKIqXlg6R"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
@@ -201,23 +405,7 @@
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Mid Spiral",
-        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Best Left Unsolved - Bonus Track",
-      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "One Cry (feat. Rosa Linn) [me n \u00fc Remix]",
         "url": "https://open.spotify.com/album/2n1ahDBng37O629PMLmrHQ"
@@ -241,7 +429,7 @@
       "url": "https://open.spotify.com/track/2GhRCiI0E5cbUdnhqr9SFx"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
@@ -257,7 +445,7 @@
       "url": "https://open.spotify.com/track/130a5toWPujkHGuMFYr0IX"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Flic ou voyou / Le Guignolo (Bandes originales des films)",
         "url": "https://open.spotify.com/album/6wiXIJRncNaAonhEBFi6Bb"
@@ -273,7 +461,7 @@
       "url": "https://open.spotify.com/track/2xieSVze8QaFJ1Ghb1GQWP"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Angel (Take 7)",
         "url": "https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq"
@@ -289,27 +477,7 @@
       "url": "https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Hello World (Song of the Olympics\u2122)",
-        "url": "https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 151392,
-      "name": "Hello World - Song of the Olympics\u2122",
-      "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
@@ -329,7 +497,7 @@
       "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/5KJJZvlrr5hPughyJ5JQrs"
@@ -353,39 +521,7 @@
       "url": "https://open.spotify.com/track/10b4GRCiXIOjEk0yTytCkR"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "G.O.Ds NETWORK - REB7RTH",
-        "url": "https://open.spotify.com/album/277iuIKEMqmfe2iXMUui9d"
-      },
-      "artists": [
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Prodigy",
-          "url": "https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs"
-        },
-        {
-          "name": "X-Raided",
-          "url": "https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Big Twins",
-          "url": "https://open.spotify.com/artist/1RJ0urzZaKveppsxzSj5X4"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "SIGN OF SE7EN",
-      "url": "https://open.spotify.com/track/14X6iwIgWHSdsEdkVOP7jZ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Chapter 26",
         "url": "https://open.spotify.com/album/5Frv9ufjLHwQOuUPz6WgWY"
@@ -405,9 +541,9 @@
       "url": "https://open.spotify.com/track/1OZfKjBSaWEghXvbc5bLtG"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "PARIS IN LOVE (Live)",
+        "name": "PARIS IN LOVE - Live",
         "url": "https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ"
       },
       "artists": [
@@ -420,16 +556,16 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         },
         {
-          "name": "Oxmo Puccino",
-          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
-        },
-        {
           "name": "Benjamin Epps",
           "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
         },
         {
           "name": "Sly Johnson",
           "url": "https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7"
+        },
+        {
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
         }
       ],
       "duration_ms": 338018,
@@ -437,47 +573,7 @@
       "url": "https://open.spotify.com/track/06ocEas9zMiYgU6gY3n2x7"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Life's A Gamble",
-        "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
-      },
-      "artists": [
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 136404,
-      "name": "Plain Jane",
-      "url": "https://open.spotify.com/track/1zfJDw2SQQxAomLWtBgdOO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "3:AM (feat. Erykah Badu) [Live]",
-        "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 330500,
-      "name": "3:AM (feat. Erykah Badu) - Live",
-      "url": "https://open.spotify.com/track/6WhQTc9EZzLcWMNHetNSjj"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Survival (Version)",
         "url": "https://open.spotify.com/album/4JoNOt6JilkkOThzeCD5EA"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/0sEPFptPf88s08tCIIXEwj"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "the boy is mine",
         "url": "https://open.spotify.com/album/2isY5pnJX1gyNzqVg7EECt"
@@ -521,7 +617,7 @@
       "url": "https://open.spotify.com/track/3IkYXPbjFyDRthPSEFApMr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
@@ -537,7 +633,27 @@
       "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "3:AM (feat. Erykah Badu) [Live]",
+        "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "3:AM (feat. Erykah Badu) - Live",
+      "url": "https://open.spotify.com/track/6WhQTc9EZzLcWMNHetNSjj"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
@@ -557,7 +673,7 @@
       "url": "https://open.spotify.com/track/2hVQloocwFpCC5SSstLVJQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "GARDEN",
         "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
@@ -573,7 +689,27 @@
       "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 574634,
+      "name": "One (feat. Robert Trujillo) - Instrumental",
+      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R"
@@ -597,27 +733,7 @@
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "COSM",
         "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
@@ -645,7 +761,7 @@
       "url": "https://open.spotify.com/track/4uaaWQL4XikhR7IXyLEXmB"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "War (feat. Ari Lennox & Jeremih)",
         "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
@@ -669,7 +785,7 @@
       "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Too Shy to Say (Cover)",
         "url": "https://open.spotify.com/album/0wruphfbmn62MPOK8jjljf"

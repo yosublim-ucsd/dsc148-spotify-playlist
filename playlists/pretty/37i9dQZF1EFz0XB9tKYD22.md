@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312 likes - 312 songs - 18 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 312 songs - 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 189 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
 | 190 | [I'm Not Sad Anymore](https://open.spotify.com/track/0Jb6tCbyYQl3WF4wBcfafj) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
 | 191 | [Three Mississippi](https://open.spotify.com/track/4TgXc5k4jAEgtvczElBqqv) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Pain To Kill](https://open.spotify.com/album/49axBJyEks5UCGHHTwDwp3) | 3:59 |
-| 192 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
-| 193 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 192 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 193 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
 | 194 | [Baby Don't](https://open.spotify.com/track/6KoQOHQDZrpYUb0l8yMTP6) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Rope the Wind](https://open.spotify.com/album/7p7wXeb04T2GreanVqeoQo) | 3:03 |
 | 195 | [Dein Blick](https://open.spotify.com/track/5UuXVnVkHtezDwP8UZRwaV) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:17 |
 | 196 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
@@ -224,14 +224,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 214 | [That's Why God Made Guitars](https://open.spotify.com/track/0PLDRD7EXSVkFcR2Xy3eAo) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:19 |
 | 215 | [Snow Angels](https://open.spotify.com/track/21njih53CXaONbPGPk3bV0) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Snow Angels](https://open.spotify.com/album/5kdonEbtYbMZygqep7rECA) | 3:46 |
 | 216 | [North Pole](https://open.spotify.com/track/0dQE4CFjAG204JLAML95Cm) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:35 |
-| 217 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
-| 218 | [Wait For The Rain To Die Down](https://open.spotify.com/track/7bFIvCLeqahWr0G4wyyMwp) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 3:24 |
+| 217 | [Wait For The Rain To Die Down](https://open.spotify.com/track/7bFIvCLeqahWr0G4wyyMwp) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 3:24 |
+| 218 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
 | 219 | [That Girl](https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:06 |
 | 220 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
 | 221 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
 | 222 | [So Magical](https://open.spotify.com/track/01JLUwhRyHMOqjteJFYhct) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:51 |
-| 223 | [When You Love Me](https://open.spotify.com/track/2zxYSJr8384Vtyjr46Lstz) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:30 |
-| 224 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 223 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 224 | [When You Love Me](https://open.spotify.com/track/2zxYSJr8384Vtyjr46Lstz) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:30 |
 | 225 | [Church](https://open.spotify.com/track/0QE20mK0CaoBOw5WebQY7M) | [Don Amero](https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs) | [Evolution](https://open.spotify.com/album/3scMKfMlTX9zRDAyPKw6ei) | 3:15 |
 | 226 | [The Moon \(feat\. Hillary Lindsey & Lori McKenna\)](https://open.spotify.com/track/505B8PAcsjCpntbYFp3Mrb) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [History of Heartbreak](https://open.spotify.com/album/1xYOjjl7ahWGn65D9j9uGe) | 4:18 |
 | 227 | [Liar](https://open.spotify.com/track/6qsc0dVy76PRWI0hkcLbz4) | [Walker County](https://open.spotify.com/artist/54sAFNFpWz9HcPVTOSa6Ag) | [Liar](https://open.spotify.com/album/4UD1ACjCmwnCcTdQwvtwj3) | 3:29 |
@@ -305,7 +305,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 295 | [When I'm Old](https://open.spotify.com/track/4NbuZv0SMiYjeURYVQ8jLI) | [The Wilkinsons](https://open.spotify.com/artist/17VaTNp7RfgYr5JAJKTqAv) | [Greatest Hits ..\. And Then Some](https://open.spotify.com/album/3rFzgfqAWm4Foov6RMvkOF) | 3:58 |
 | 296 | [Haunted House](https://open.spotify.com/track/6uuMws9HQArZKIR9X7paAe) | [Kidzone](https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn), [Steve Allan Jones](https://open.spotify.com/artist/7Fy4zmCbWgE4wr3XAfkSwf) | [Halloween Party! Vol\. 2](https://open.spotify.com/album/0IJ2xAGR54hUrUOMoOqThh) | 3:32 |
 | 297 | [I Wanna Know](https://open.spotify.com/track/25wes5Fd1oD4PDWHR5g55W) | [One More Girl](https://open.spotify.com/artist/5BHjTVVYoOiCzZ30RRSb8N) | [Big Sky](https://open.spotify.com/album/5njrDf1jr04qMzVlamQB5u) | 2:56 |
-| 298 | [Cover](https://open.spotify.com/track/2LPVCLI3gBSxkGh6ObkEin) | [Eric Durrance](https://open.spotify.com/artist/6DGuIreufOuXxGgqceZsFc) | [Angels Fly Away \(Bonus Track Version\)](https://open.spotify.com/album/6cwXF6qzvNbdKw9eQEL8kD) | 3:36 |
+| 298 | [Cover](https://open.spotify.com/track/2LPVCLI3gBSxkGh6ObkEin) | [Eric Durrance](https://open.spotify.com/artist/6DGuIreufOuXxGgqceZsFc) | [Angels Fly Away \- Bonus Track Version](https://open.spotify.com/album/6cwXF6qzvNbdKw9eQEL8kD) | 3:36 |
 | 299 | [Revolving Door](https://open.spotify.com/track/6KghbEFkDCgs4UfVHEiHIb) | [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB) | [For The Few And Far Between](https://open.spotify.com/album/0GKRb1RRCEVIYfg87WShL7) | 3:37 |
 | 300 | [Way Too Pretty For Prison](https://open.spotify.com/track/4GxjV1ARdF4ciOPHJ4CoUa) | [Jamie Hunt](https://open.spotify.com/artist/2PoY7kR1rpf3oZowoBMBR6) | [Mix It Lit](https://open.spotify.com/album/0Y6a5jZ10bDnIq837S4B68) | 3:14 |
 | 301 | [Hot Concrete](https://open.spotify.com/track/7IouEbgLhlP7tWw3eED4UT) | [Drunken Immortals](https://open.spotify.com/artist/2sQNxKrfy0k3fjHLJLJLbH) | [Hot Concrete](https://open.spotify.com/album/26vKfIBehbY1N3s57ouyRD) | 4:14 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 311 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
 | 312 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 
-Snapshot ID: `AbY5ygAAAAA9nys1RtrxA9z5r7/2K5Yo`
+Snapshot ID: `AbY/agAAAAChJDeUAe0/OuCqtwrsmp6s`

@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 242639,
+  "num_followers": 242655,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
+        "name": "Luv 4 U",
+        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+    },
+    {
+      "added_at": "2024-08-02 06:34:58",
+      "album": {
         "name": "Hennessy (feat. Blxst)",
         "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
       },
@@ -823,22 +843,18 @@
     {
       "added_at": "2024-08-02 06:34:58",
       "album": {
-        "name": "Luv 4 U",
-        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+      "duration_ms": 150799,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2024-08-02 06:34:58",
@@ -859,22 +875,6 @@
       "duration_ms": 161281,
       "name": "Why (Remix)",
       "url": "https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf"
-    },
-    {
-      "added_at": "2024-08-02 06:34:58",
-      "album": {
-        "name": "Tasty",
-        "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        }
-      ],
-      "duration_ms": 150799,
-      "name": "Tasty",
-      "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
     },
     {
       "added_at": "2024-08-02 06:34:58",

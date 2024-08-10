@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Get to know our 2024 Artists to Watch! Cover: Mochakk",
+  "description": "Get to know our 2024 Artists to Watch! Cover: Destroy Boys",
   "name": "Artists To Watch 2024",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149483,
       "name": "Boyfeel",
       "url": "https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13"
@@ -1788,6 +1788,32 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
+    },
+    {
+      "album": {
+        "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+        "url": "https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        },
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        },
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163934,
+      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)",
+      "url": "https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv"
     },
     {
       "album": {

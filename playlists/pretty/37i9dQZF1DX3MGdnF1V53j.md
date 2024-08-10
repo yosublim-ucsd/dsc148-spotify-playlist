@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > L'Algérino & Soolking on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,605 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,663 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 70 | [Harami](https://open.spotify.com/track/6y7TE1grW4UhMzpsHF5wCp) | [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t) | [Harami](https://open.spotify.com/album/0EW4O5QQF1bsd7hN4Pc6SJ) | 2:24 |
 | 71 | [Ykoun Li Ykoun](https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Ykoun Li Ykoun](https://open.spotify.com/album/6ddXQnvwLEAM06VJI51TJ8) | 2:42 |
 | 72 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
-| 73 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 |
-| 74 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
+| 73 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
+| 74 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 |
 | 75 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
 | 76 | [Lalat Nsa](https://open.spotify.com/track/176uJPdW7U9OHgnoWNDIft) | [Ayoub Maach](https://open.spotify.com/artist/6lNP6HiSpWcr1NpO3MLcXj) | [Lalat Nsa](https://open.spotify.com/album/5QonXzvLWWtCSNv6AMHYkl) | 2:40 |
-| 77 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |
-| 78 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
-| 79 | [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 |
-| 80 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
+| 77 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
+| 78 | [L'Étranger](https://open.spotify.com/track/0o5qyh1mrp1elvYeEuWFbL) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [L'Étranger](https://open.spotify.com/album/6rieTT1tEp2qZPqgNt5hDO) | 3:29 |
+| 79 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
+| 80 | [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 |
 
 Snapshot ID: `ZqyIogAAAADPZGFmidYJKFGUAh1MzJg5`

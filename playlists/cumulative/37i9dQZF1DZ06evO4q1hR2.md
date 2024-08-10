@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 56 min
+111 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 | 2022-06-01 |  |
 | [La Manuelita](https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Porque Te Amé \(Vol\. 1\)](https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8) | 3:36 | 2022-06-01 | 2022-10-13 |
 | [La Prieta Linda](https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:27 | 2023-06-27 |  |
-| [Lamberto Quintero](https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 2:37 | 2022-06-17 |  |
+| [Lamberto Quintero](https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Polo Norte](https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy) | 2:37 | 2022-06-17 | 2024-08-10 |
 | [Las Culebras](https://open.spotify.com/track/1TyylTtAQXE6iYtAkaXTK9) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Culebras](https://open.spotify.com/album/2Vvf4lURmmpC9QLeP28Kte) | 2:41 | 2024-05-25 | 2024-08-01 |
 | [Las Morenas](https://open.spotify.com/track/5JmEjPobY0W4JN8F20yeeh) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:30 | 2022-06-01 | 2023-09-26 |
 | [Los Consejos](https://open.spotify.com/track/1oWeSp5UUClAqi6BChxsBY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Los Consejos](https://open.spotify.com/album/69HmXefQRcw2rI58c7FJpe) | 2:59 | 2024-07-10 |  |
@@ -103,6 +103,7 @@
 | [Suspiros](https://open.spotify.com/track/22m49TfP4vYbd4PPERALGG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección](https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH) | 2:59 | 2022-06-01 | 2022-08-28 |
 | [Suspiros](https://open.spotify.com/track/3V1n28L1PzXZVjOA4FcVng) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 2\)](https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV) | 2:59 | 2023-06-15 | 2023-12-30 |
 | [Suspiros \(En Vivo\)](https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(En Vivo\)](https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj) | 3:05 | 2024-03-16 |  |
+| [Suspiros \- Versión con Acordeón](https://open.spotify.com/track/54CyQC5Tqb6woOCpMctHN2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros \(Versión con Acordeón\)](https://open.spotify.com/album/4V1N70Rc4mTyqvpgHirtyo) | 2:55 | 2024-08-10 |  |
 | [Te Soñé](https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 3:45 | 2022-06-01 |  |
 | [Te Vas Amor](https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia](https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU) | 2:23 | 2022-06-02 |  |
 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 | 2024-03-17 |  |

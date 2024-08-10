@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-24",
-  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "name": "This Is Yuki Hayashi",
+  "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
+  "name": "This Is \u6797\u3086\u3046\u304d",
   "tracks": [
     {
       "album": {
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 87973,
       "name": "\u304a\u308c\u306e\u52dd\u3061",
       "url": "https://open.spotify.com/track/6jYTvoQYz6L3qNBoB2gNQI"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 131920,
       "name": "\u7121\u500b\u6027\u306e\u82e6\u60a9",
       "url": "https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b"

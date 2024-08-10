@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is Marco Polo. The essential tracks, all in one playlist.",
+  "description": "This is: Marco Polo. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Marco Polo",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 203716,
       "name": "Corporal Punishment",
       "url": "https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 227498,
       "name": "E.A.T.",
       "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210867,
       "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
       "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 238538,
       "name": "Przyjaciel Diab\u0142a",
       "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"

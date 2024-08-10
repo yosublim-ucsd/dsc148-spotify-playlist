@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3630605,
+  "num_followers": 3630709,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zow3pAAAAACAP/5oXjpqFu+162YDZaRR",
   "tracks": [
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Dock of the Bay (Mono)",
-        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
-    },
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Dock of the Bay (Mono)",
+        "url": "https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -443,18 +443,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
       "artists": [
         {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -475,18 +475,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
       },
       "artists": [
         {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
         }
       ],
-      "duration_ms": 495400,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Texas Moon",
@@ -655,6 +639,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "What'd I Say",
         "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 307053,
       "name": "What'd I Say, Pt. 1 & 2",
       "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Shaft (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Carla",
         "url": "https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Face Your Fear",
         "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 177200,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Essential Collection: Four Tops",
-        "url": "https://open.spotify.com/album/6f0YDFC5WfPHvqhLdJyZm8"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Reach Out I'll Be There - Single Version / Mono",
-      "url": "https://open.spotify.com/track/0PpamSdfQzIAvj5OB9Bz54"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Healing Tide",
         "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 214187,
       "name": "Are You Ready to Love Me?",
       "url": "https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Essential Collection: Four Tops",
+        "url": "https://open.spotify.com/album/6f0YDFC5WfPHvqhLdJyZm8"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Reach Out I'll Be There - Single Version / Mono",
+      "url": "https://open.spotify.com/track/0PpamSdfQzIAvj5OB9Bz54"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/5N7s7nhywtONPI5FJhabAP"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Black Heart (feat. The Dap-Kings)",
-        "url": "https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb"
-      },
-      "artists": [
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
-        },
-        {
-          "name": "The Dap-Kings",
-          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "Black Heart (feat. The Dap-Kings)",
-      "url": "https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ"
-    },
-    {
       "added_at": "2024-02-29 20:11:01",
       "album": {
         "name": "Takin' All My Lovin'",
@@ -1971,6 +1951,26 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Black Heart (feat. The Dap-Kings)",
+        "url": "https://open.spotify.com/album/1EctmhyIb6003mVg77wgUb"
+      },
+      "artists": [
+        {
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
+        },
+        {
+          "name": "The Dap-Kings",
+          "url": "https://open.spotify.com/artist/2HEQPwrF1aP28bTk1GCONU"
+        }
+      ],
+      "duration_ms": 174688,
+      "name": "Black Heart (feat. The Dap-Kings)",
+      "url": "https://open.spotify.com/track/5joZkgTCteYR5SWvSesUSQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Build Me Up Buttercup",
         "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     },
     {
       "added_at": "2021-10-19 21:36:21",

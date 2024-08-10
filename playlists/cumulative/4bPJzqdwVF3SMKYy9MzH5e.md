@@ -4,7 +4,7 @@
 
 > 
 
-1,944 songs - 4 day 8 hr 49 min
+1,947 songs - 4 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/5eIDxmWYxRA0HJBYM9bIIS) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 5:54 | 2021-08-05 |  |
 | [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 | 2021-08-05 |  |
 | [Boomerang](https://open.spotify.com/track/0abraIFcoZc56LWrCQl4EW) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Invitation](https://open.spotify.com/album/4tvURFzWBbtEs50K8Q4u92) | 2:45 | 2021-08-05 |  |
+| [bootleg\_mov](https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [bootleg\_mov](https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn) | 1:56 | 2024-08-09 |  |
 | [Booty Getting Fatter!](https://open.spotify.com/track/11HVJXNgiIv5LAExfC6GRP) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Booty Getting Fatter!](https://open.spotify.com/album/6kq7QpGS6ge3BWTMerbm4U) | 1:20 | 2021-08-05 |  |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2021-08-05 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2021-08-05 |  |
@@ -932,6 +933,8 @@
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2021-08-05 |  |
 | [July](https://open.spotify.com/track/30cRWMiTcYCezJEZ7nsUAo) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:08 | 2021-08-05 |  |
 | [Jumpin'](https://open.spotify.com/track/3CjqPzG6sUMTzVAcA2bdKS) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Jumpin'](https://open.spotify.com/album/2KGsOHUVxwWMfJ8g3WtTER) | 5:25 | 2022-04-03 |  |
+| [JUMPSTYLE BOOTLEG](https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [JUMPSTYLE BOOTLEG](https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK) | 3:39 | 2024-08-09 |  |
+| [JUMPSTYLE PARTY](https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE) | [JUMPSTYLE PARTY](https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ) | 1:44 | 2024-08-09 |  |
 | [Jupiter](https://open.spotify.com/track/2EPuv7zyLpFqReJoYrIFzm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Jupiter](https://open.spotify.com/album/3U7jdirSqKYriJCSIucl10) | 3:11 | 2021-08-05 |  |
 | [Just a waste](https://open.spotify.com/track/0R4uAhlkr1I8EgPxqBwzBs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just a waste](https://open.spotify.com/album/61gXjK2WtQcGoM7rsErAQK) | 2:07 | 2021-08-05 |  |
 | [Just for Me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-08-24 |  |

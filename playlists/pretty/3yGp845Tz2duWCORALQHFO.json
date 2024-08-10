@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25765,
+  "num_followers": 25764,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgZJz3Vbp3w10ArazPdNoVsZ67EtJG",
+  "snapshot_id": "AABgbDbtl66VhvNg8nTXZSFVKU2GwK2b",
   "tracks": [
     {
       "added_at": "2024-08-08 15:47:32",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
     },
     {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/3JveJFifTrUnPjxARoZUgW"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        }
+      ],
+      "duration_ms": 202714,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/4fGYcqTM8aBhtXU7yIxtcO"
+    },
+    {
       "added_at": "2024-08-08 15:47:32",
       "album": {
         "name": "I Want It All (Euphoria)",
@@ -271,6 +287,26 @@
       "duration_ms": 240000,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/3w0oEhonOeSs9dGH8HKGjf"
+    },
+    {
+      "added_at": "2024-08-09 14:15:40",
+      "album": {
+        "name": "WILD ELECTRIC (Monika Kruse Remix)",
+        "url": "https://open.spotify.com/album/5M4GaG2mgSvMZr6Wvs8Yko"
+      },
+      "artists": [
+        {
+          "name": "ADRIANNA",
+          "url": "https://open.spotify.com/artist/2MbVbvDiFOL7jkbrrbev2e"
+        },
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "WILD ELECTRIC - Monika Kruse Remix",
+      "url": "https://open.spotify.com/track/3vCpp2lT4OYmZtl9TwqNTf"
     },
     {
       "added_at": "2024-08-08 15:47:32",
@@ -369,6 +405,38 @@
       "url": "https://open.spotify.com/track/4w6e2YfQXS2oRfsO43YY3o"
     },
     {
+      "added_at": "2024-08-09 18:20:50",
+      "album": {
+        "name": "Feel Myself",
+        "url": "https://open.spotify.com/album/6YD50bJ1GlvL3bIxzpIODM"
+      },
+      "artists": [
+        {
+          "name": "ICY ERICC",
+          "url": "https://open.spotify.com/artist/74JF8xYwOYFsH98FxL2ljI"
+        }
+      ],
+      "duration_ms": 193335,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/4APywmBQejv67AxjGafePG"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Darwin Falls",
+        "url": "https://open.spotify.com/album/5r11NZrelXZXkHYOuCLCjD"
+      },
+      "artists": [
+        {
+          "name": "St.Laurent",
+          "url": "https://open.spotify.com/artist/0A73QeqBxrglNUEnOSToN9"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Darwin Falls",
+      "url": "https://open.spotify.com/track/0yjL09GgRzFelbzQyzIZ4F"
+    },
+    {
       "added_at": "2024-08-08 15:47:32",
       "album": {
         "name": "Won't Let Go",
@@ -443,6 +511,134 @@
       "duration_ms": 229622,
       "name": "Half Light",
       "url": "https://open.spotify.com/track/4SFnsEwWLkBS44EJdNOkj9"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Can't Let You Go",
+        "url": "https://open.spotify.com/album/4jAbNZ4ZDQE4RueceSFgMz"
+      },
+      "artists": [
+        {
+          "name": "JYH",
+          "url": "https://open.spotify.com/artist/36R62sqgB3eyqLawx6Qqgc"
+        }
+      ],
+      "duration_ms": 193427,
+      "name": "Can't Let You Go",
+      "url": "https://open.spotify.com/track/3AQsOVkdBgPMODxH1exZMR"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-08-09 14:15:40",
+      "album": {
+        "name": "Bring Me Your Fire (Radio Edit)",
+        "url": "https://open.spotify.com/album/1goYtKYKCbtMt1ubEgBE4l"
+      },
+      "artists": [
+        {
+          "name": "MentalBass",
+          "url": "https://open.spotify.com/artist/5E7Ie4cln6iVbXPi6gaD05"
+        },
+        {
+          "name": "HIGHER RECORDINGS",
+          "url": "https://open.spotify.com/artist/6EgxosqZ1catzkFs46gpHB"
+        }
+      ],
+      "duration_ms": 158673,
+      "name": "Bring Me Your Fire - Radio Edit",
+      "url": "https://open.spotify.com/track/02NMBle2RDkEJyUIhjFxs2"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Soft Bliss",
+        "url": "https://open.spotify.com/album/15tJiExMx4gTcG9pGjww2z"
+      },
+      "artists": [
+        {
+          "name": "Vanillaz",
+          "url": "https://open.spotify.com/artist/24gnQWn25ndZMSOoE1p0yL"
+        }
+      ],
+      "duration_ms": 168290,
+      "name": "Soft Bliss",
+      "url": "https://open.spotify.com/track/25smhIrrsESf2Xt0fNbeJU"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "So I Can Rave",
+        "url": "https://open.spotify.com/album/5iAqft26y9y4EVuli3ShkE"
+      },
+      "artists": [
+        {
+          "name": "Apollo George",
+          "url": "https://open.spotify.com/artist/50AvTBK750fC6fQdoAP0a2"
+        }
+      ],
+      "duration_ms": 139523,
+      "name": "So I Can Rave",
+      "url": "https://open.spotify.com/track/4ONt5EZQAPz1RxKcFntole"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
+    },
+    {
+      "added_at": "2024-08-09 12:27:40",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/2z9eBmlXDPSSsDOD3lS7HT"
+      },
+      "artists": [
+        {
+          "name": "Dirkie Coetzee",
+          "url": "https://open.spotify.com/artist/1G6hy4yx81GzlxdEURE6JM"
+        },
+        {
+          "name": "Deeper Calling",
+          "url": "https://open.spotify.com/artist/19Ygz9CA2g38VpJVxrUvE3"
+        }
+      ],
+      "duration_ms": 212056,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6mhqqvucHvaBaE4VEtM0QO"
     },
     {
       "added_at": "2024-08-08 15:47:32",

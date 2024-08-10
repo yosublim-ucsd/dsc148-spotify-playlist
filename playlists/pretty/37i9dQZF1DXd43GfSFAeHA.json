@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: Synaptik ",
-  "num_followers": 132115,
+  "num_followers": 132120,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-08 04:00:00",
       "album": {
-        "name": "YAKINE",
-        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 200909,
-      "name": "We9tna",
-      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
-    },
-    {
-      "added_at": "2024-08-08 04:00:00",
-      "album": {
         "name": "CHIRON",
         "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 210000,
       "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
       "url": "https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf"
+    },
+    {
+      "added_at": "2024-08-08 04:00:00",
+      "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 200909,
+      "name": "We9tna",
+      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
     },
     {
       "added_at": "2024-08-08 04:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2024-08-08 04:00:00",
       "album": {
-        "name": "Yemken",
-        "url": "https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri"
-      },
-      "artists": [
-        {
-          "name": "Ramez Naguib",
-          "url": "https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2"
-        },
-        {
-          "name": "Arsenik",
-          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
-        }
-      ],
-      "duration_ms": 147677,
-      "name": "Matghebsh",
-      "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
-    },
-    {
-      "added_at": "2024-08-08 04:00:00",
-      "album": {
         "name": "BERKA (feat. TUL8TE, R3 \u0631\u0639 & Tayeb Santo)",
         "url": "https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2024-08-08 04:00:00",
       "album": {
-        "name": "HEPTA",
-        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
+        "name": "Yemken",
+        "url": "https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri"
       },
       "artists": [
         {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+          "name": "Ramez Naguib",
+          "url": "https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV"
+      "duration_ms": 147677,
+      "name": "Matghebsh",
+      "url": "https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5"
     },
     {
       "added_at": "2024-08-08 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 146431,
       "name": "Lang",
       "url": "https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF"
+    },
+    {
+      "added_at": "2024-08-08 04:00:00",
+      "album": {
+        "name": "HEPTA",
+        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV"
     },
     {
       "added_at": "2024-08-08 04:00:00",
@@ -755,22 +755,6 @@
       "duration_ms": 159845,
       "name": "EL Moled - Red Bull Sada sot",
       "url": "https://open.spotify.com/track/2AwcETrfQJe4PgC8SyO1tZ"
-    },
-    {
-      "added_at": "2024-08-08 04:00:00",
-      "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "VIII",
-      "url": "https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k"
     },
     {
       "added_at": "2024-08-08 04:00:00",
@@ -851,6 +835,22 @@
     {
       "added_at": "2024-08-08 04:00:00",
       "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai"
+      },
+      "artists": [
+        {
+          "name": "Hleem Taj Alser",
+          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k"
+    },
+    {
+      "added_at": "2024-08-08 04:00:00",
+      "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 240000,
       "name": "Hajes",
       "url": "https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1"
-    },
-    {
-      "added_at": "2024-08-08 04:00:00",
-      "album": {
-        "name": "HEPTA",
-        "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
-      },
-      "artists": [
-        {
-          "name": "Hleem Taj Alser",
-          "url": "https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN"
-        }
-      ],
-      "duration_ms": 193604,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7"
     },
     {
       "added_at": "2024-08-08 04:00:00",
@@ -939,6 +923,22 @@
       "duration_ms": 194634,
       "name": "Barcelona (Freedom Music)",
       "url": "https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES"
+    },
+    {
+      "added_at": "2024-08-08 04:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        }
+      ],
+      "duration_ms": 137443,
+      "name": "Jabra Vu",
+      "url": "https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ"
     }
   ],
   "unique_name": "Arab Hip Hop",

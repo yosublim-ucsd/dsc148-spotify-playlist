@@ -2,7 +2,7 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on?si=LfsVarsmSCK4pTkRPJbleQ">Linda Sikhakhane</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC?si=l9R0of3kQnmpGcQ\-5hrIdQ">Gabi Motuba</a>
 
 227 songs - 1 day 0 hr 10 min
 

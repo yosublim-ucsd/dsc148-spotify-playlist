@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 723777,
+  "num_followers": 723805,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Far from Home",
-        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Pack My Hometown",
         "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "hookup scene",
-      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
-    },
-    {
-      "added_at": "2024-07-05 20:46:22",
-      "album": {
         "name": "Blood Brothers",
         "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 140493,
       "name": "Pretty Hands",
       "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+    },
+    {
+      "added_at": "2024-07-05 20:46:22",
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "hookup scene",
+      "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
       },
       "artists": [
         {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
     },
     {
       "added_at": "2024-07-05 20:46:22",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-05 20:46:22",
       "album": {
-        "name": "Beast Epic",
-        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
         }
       ],
-      "duration_ms": 231754,
-      "name": "Call It Dreaming",
-      "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     },
     {
       "added_at": "2024-07-05 20:46:22",

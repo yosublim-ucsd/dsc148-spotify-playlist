@@ -91,22 +91,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 203866,
       "name": "All My Love - Korean Ver.",
       "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "To My Friend",
+      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "Call me now",
-        "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
-      },
-      "artists": [
-        {
-          "name": "JI JIN SEOK",
-          "url": "https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Call me now",
-      "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "OceanooM\u2218\u263d",
         "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "Call me now",
+        "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
+      },
+      "artists": [
+        {
+          "name": "JI JIN SEOK",
+          "url": "https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Call me now",
+      "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
     },
     {
       "added_at": "2024-06-05 03:49:36",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-05 03:49:36",
       "album": {
-        "name": "My Little Thought",
-        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Smile Box",
-      "url": "https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW"
-    },
-    {
-      "added_at": "2024-06-05 03:49:36",
-      "album": {
         "name": "Our little island",
         "url": "https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 222727,
       "name": "Our little island",
       "url": "https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z"
+    },
+    {
+      "added_at": "2024-06-05 03:49:36",
+      "album": {
+        "name": "My Little Thought",
+        "url": "https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Smile Box",
+      "url": "https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

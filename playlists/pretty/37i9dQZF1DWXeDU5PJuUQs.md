@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,341 likes - 64 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,590 likes - 64 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 25 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
 | 26 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
 | 27 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
-| 28 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 28 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 |
 | 29 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 |
-| 30 | [Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/4VGpzNCteGSN08HvBE1jkf) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:44 |
+| 30 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
 | 31 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 |
 | 32 | [El Campanero \(En Vivo En El Luna Park\)](https://open.spotify.com/track/0pGoCLgrzTFc7QjhodQEv0) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Sabor Colombiano](https://open.spotify.com/artist/3STzZtLOqavgxKWD6Ea1xV) | [El Campanero \(En Vivo En El Luna Park\)](https://open.spotify.com/album/0VfGlIBiaHVSjWqlhVaGm5) | 4:30 |
 | 33 | [Tu Falta de Querer \- En Vivo](https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Tu Falta de Querer \(En Vivo\)](https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF) | 3:16 |

@@ -2,7 +2,7 @@
 
 ### [This Is Lainey Wilson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Pjfzk)
 
-> This is: Lainey Wilson\. Alle wichtigen Tracks in einer Playlist.
+> This is Lainey Wilson\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 71 songs - 4 hr 6 min
 

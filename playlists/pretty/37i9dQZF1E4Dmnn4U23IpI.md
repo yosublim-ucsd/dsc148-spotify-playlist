@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight الراديو](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Timecop1983, Kalax and more
+> مع FM\-84, Timecop1983, Kalax والمزيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,104 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,112 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [The Danger](https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 3:40 |
 | 50 | ['85 Again \(feat\. Miss K\)](https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw) | [Robert Parker](https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD), [Miss K](https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c) | [Crystal City](https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m) | 3:29 |
 
-Snapshot ID: `ZrWDFwAAAACnQAOyqpZFNZ7rh6dp4V7i`
+Snapshot ID: `ZrbbDAAAAADDrSLwKIbBQBi6Vq6/gT6D`

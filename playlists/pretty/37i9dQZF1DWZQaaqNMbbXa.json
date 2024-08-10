@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 511056,
+  "num_followers": 511245,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -1327,22 +1307,22 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1367,6 +1347,26 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1399,18 +1399,22 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
         }
       ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "My Heart Goes (La Di Da)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
+        "name": "My Heart Goes (La Di Da)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "UP",
-        "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 148944,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
         "name": "Clarity (Deluxe)",
         "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
       },
@@ -2267,6 +2247,26 @@
       "duration_ms": 217346,
       "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
       "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 148944,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -2455,30 +2455,22 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W"
+        "name": "if we never met (remix)",
+        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
       },
       "artists": [
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
         },
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "ALISA UENO",
-          "url": "https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         }
       ],
-      "duration_ms": 184880,
-      "name": "Best Friend (feat. NERVO, The Knocks & ALISA UENO)",
-      "url": "https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E"
+      "duration_ms": 186594,
+      "name": "if we never met - remix",
+      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -2503,22 +2495,30 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "if we never met (remix)",
-        "url": "https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE"
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W"
       },
       "artists": [
         {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         },
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "ALISA UENO",
+          "url": "https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb"
         }
       ],
-      "duration_ms": 186594,
-      "name": "if we never met - remix",
-      "url": "https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd"
+      "duration_ms": 184880,
+      "name": "Best Friend (feat. NERVO, The Knocks & ALISA UENO)",
+      "url": "https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -2711,6 +2711,30 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
+    },
+    {
+      "added_at": "2024-07-12 19:21:50",
+      "album": {
         "name": "Headphones",
         "url": "https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F"
       },
@@ -2747,30 +2771,6 @@
       "duration_ms": 127766,
       "name": "Shivers (Dillon Francis Remix) [Main Mix]",
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2024-07-12 19:21:50",
-      "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2024-07-12 19:21:50",
@@ -3087,26 +3087,26 @@
     {
       "added_at": "2024-07-12 19:21:50",
       "album": {
-        "name": "Peace Is The Mission",
-        "url": "https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych"
+        "name": "World War Joy...Takeaway",
+        "url": "https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
         }
       ],
-      "duration_ms": 176561,
-      "name": "Lean On (feat. M\u00d8 & DJ Snake)",
-      "url": "https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4"
+      "duration_ms": 209893,
+      "name": "Takeaway (feat. Lennon Stella)",
+      "url": "https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe"
     }
   ],
   "unique_name": "Dance Pop Hits",

@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73178,
+  "num_followers": 73171,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-07-02 01:10:01",
       "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2024-07-02 01:10:01",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
-    },
-    {
-      "added_at": "2024-07-02 01:10:01",
-      "album": {
-        "name": "Passion Collection",
-        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "One Thing Remains - Radio Version",
-      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
     },
     {
       "added_at": "2024-07-02 01:10:01",

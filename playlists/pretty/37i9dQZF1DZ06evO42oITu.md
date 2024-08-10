@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,997 likes - 51 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,065 likes - 51 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Come Rain or Come Shine](https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:11 |
 | 51 | [Hideaway \- Mono](https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s), [Sonny Thompson](https://open.spotify.com/artist/5zJQc0NgR7QSDOxA6EYZkR), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:13 |
 
-Snapshot ID: `ZrK5AAAAAACnvL+7zaSpn6HNpy5slacp`
+Snapshot ID: `ZrQKgAAAAACC3Wqc8fo+PV7s3XjR3Bpc`

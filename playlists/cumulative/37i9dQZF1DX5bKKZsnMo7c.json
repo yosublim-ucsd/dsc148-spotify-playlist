@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183014,
       "name": "Afraid of Quiet",
       "url": "https://open.spotify.com/track/2hETlIC41ua0yYcPyE5WLI"
@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 153620,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1"
@@ -1800,6 +1800,24 @@
       "duration_ms": 196440,
       "name": "doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/2iNNtNfAGVjO3woehIxvFa"
+    },
+    {
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/40h6x6z8gWqDVRkV7I8w5r"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145496,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/2JMPgo58zfWTdK7G69xK9R"
     },
     {
       "album": {
@@ -3421,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+    },
+    {
+      "album": {
         "name": "stuck in a bad place",
         "url": "https://open.spotify.com/album/5ZaLbGUiBmH6ru5JYzr6vL"
       },
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151760,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD"
@@ -4388,7 +4424,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -4722,6 +4758,24 @@
       "duration_ms": 285746,
       "name": "Ooh! Sumthin' New",
       "url": "https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU"
+    },
+    {
+      "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100149,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv"
     },
     {
       "album": {
@@ -5226,6 +5280,24 @@
       "duration_ms": 194165,
       "name": "R\u00e4t",
       "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "album": {

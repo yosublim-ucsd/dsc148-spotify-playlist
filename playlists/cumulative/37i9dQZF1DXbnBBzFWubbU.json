@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Dance on the Moon",
+        "url": "https://open.spotify.com/album/1VNqe03LcjJbuIYDq3hH9U"
+      },
+      "artists": [
+        {
+          "name": "Haider Uppal",
+          "url": "https://open.spotify.com/artist/3J20n2omS4gaBwJXzxZkDk"
+        },
+        {
+          "name": "Saqib",
+          "url": "https://open.spotify.com/artist/7CTBM6iKzwhDMswUHw10n9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372217,
+      "name": "Dance on the Moon",
+      "url": "https://open.spotify.com/track/7k3h14QsPx3PqxkLXRleQw"
+    },
+    {
+      "album": {
         "name": "Dara",
         "url": "https://open.spotify.com/album/2Q4gWVsEnUUl8GucuInL30"
       },
@@ -764,6 +786,32 @@
       "duration_ms": 273995,
       "name": "Hai Hai (Original Mix)",
       "url": "https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q"
+    },
+    {
+      "album": {
+        "name": "Harkalay (ZOH Remix)",
+        "url": "https://open.spotify.com/album/226vTBjEMGfbVbGIsf3KTT"
+      },
+      "artists": [
+        {
+          "name": "Zahoor",
+          "url": "https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        },
+        {
+          "name": "ZOH",
+          "url": "https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205277,
+      "name": "Harkalay - ZOH Remix",
+      "url": "https://open.spotify.com/track/1x3hsLBTGYKXrGvZTMppOX"
     },
     {
       "album": {
@@ -2125,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/56GQCSpCHyPjFk05cl8SFN"
+      },
+      "artists": [
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126829,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/6CQQ4ZqjcTsGFSEWXiN8PP"
+    },
+    {
+      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/2bTuf7BGAPAaUZRmX6D0zc"
       },
@@ -2848,6 +2914,32 @@
       "duration_ms": 174545,
       "name": "Yaar Daadhi",
       "url": "https://open.spotify.com/track/79aKn6laRblyFXS5UhL6h7"
+    },
+    {
+      "album": {
+        "name": "Yaara Ve",
+        "url": "https://open.spotify.com/album/7uK9M1tHaA3FZ0rlEDYHVx"
+      },
+      "artists": [
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        },
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kimeraa",
+          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Yaara Ve",
+      "url": "https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbnBBzFWubbU"

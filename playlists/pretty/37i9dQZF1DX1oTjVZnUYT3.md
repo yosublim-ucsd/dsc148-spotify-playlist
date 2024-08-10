@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,823 likes - 57 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,841 likes - 57 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 29 | [Bola de Cristal](https://open.spotify.com/track/2CBCFIzmumJ8pHEv2bcQZt) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 4:12 |
 | 30 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 31 | [Jorge Maravilha](https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Umas E Outras](https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG) | 3:40 |
-| 32 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
-| 33 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
+| 32 | [Maracatu Atômico](https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T) | [Chico Science](https://open.spotify.com/artist/7HnkRhoGqYLTasI52iJoE7), [Nação Zumbi](https://open.spotify.com/artist/4Va55p3P2P96lIgzntievo) | [Afrociberdelia](https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6) | 4:44 |
+| 33 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
 | 34 | [Você Não Entende Nada](https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Divino Maravilhoso \- Gal Costa Interpreta Caetano Veloso](https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ) | 3:50 |
 | 35 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
 | 36 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |

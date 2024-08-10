@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 262508,
+  "num_followers": 262518,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA/3RhLdsA0Mw1o/9UEYJLx",
+  "snapshot_id": "ZrQKgAAAAAApZ+3OSlZHh28h8WaA9REi",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+        "name": "Eterno Presente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
       },
       "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 469026,
-      "name": "Eu Navegarei",
-      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
+      "duration_ms": 518880,
+      "name": "Ele Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno Presente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf"
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
       "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 518880,
-      "name": "Ele Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
+      "duration_ms": 469026,
+      "name": "Eu Navegarei",
+      "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lembro (feat. Gabriela Rocha) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 535931,
-      "name": "Me Lembro (feat. Gabriela Rocha) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 338218,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Lembro (feat. Gabriela Rocha) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 535931,
+      "name": "Me Lembro (feat. Gabriela Rocha) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1"
     },
     {
       "added_at": null,

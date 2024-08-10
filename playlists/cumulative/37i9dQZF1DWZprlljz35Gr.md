@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-85 songs - 5 hr 51 min
+86 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Daddy Was a Wolfman](https://open.spotify.com/track/7i10VbOnkG09EuZuOkz3gO) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Music for Cop Shows](https://open.spotify.com/album/5BXskRJFE9uS1C0K1hZtqE) | 2:34 | 2020-12-01 |  |
 | [Dirty Blues](https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Dirty Blues](https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb) | 2:46 | 2022-05-06 |  |
 | [Electrified](https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 6:38 | 2020-12-01 |  |
+| [Everywhere you look is life](https://open.spotify.com/track/2LV0URMkqD3AuhUdZjP3CK) | [Takada Fu](https://open.spotify.com/artist/52FdX9LTwXtj1KCJf5fJJg) | [Everywhere you look is life](https://open.spotify.com/album/6K4E7xJ5BfKkYwBFW5lpv2) | 2:10 | 2024-08-09 |  |
 | [FaiBless](https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [Left Behind](https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF) | 3:19 | 2020-12-01 |  |
 | [Fatboy](https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 3:27 | 2020-12-01 |  |
 | [Fatboy](https://open.spotify.com/track/5baarVtoUjoffq6RPKGEES) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 3:27 | 2020-12-01 | 2024-04-19 |

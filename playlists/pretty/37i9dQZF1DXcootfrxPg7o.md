@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,741 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,781 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 25 | [The Final Frame](https://open.spotify.com/track/1K7Au8g0mdUzD4ve0hXUg2) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:59 |
 | 26 | [One Mo'Gin](https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:13 |
 | 27 | [After Laughter \(Comes Tears\)](https://open.spotify.com/track/3sMTpU1SNIeMCWu7sQKXMN) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter Comes Tears](https://open.spotify.com/album/3p7Dha66qIdeuBuFfEtvz2) | 3:02 |
-| 28 | [One Day](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 |
+| 28 | [One Day \(feat\. Mr\. 3\-2 & Ronnie Spencer\)](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Mr\. 3\-2](https://open.spotify.com/artist/5xu3KF4ZTFjNncNRIVaJnt), [Ronnie Spencer](https://open.spotify.com/artist/0SbFHrkqd2aTNDj6iX6ZC4) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 |
 | 29 | [Liberation \(with Cee\-Lo\)](https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 8:46 |
 | 30 | [Selfish](https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:46 |
 | 31 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Sevdaliza, Pabllo Vittar, Yseult",
+  "description": "Voici les hits du moment. Photo: Hozier",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -4808,7 +4808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -5734,7 +5734,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 144970,
       "name": "On & Off - Spotify Singles",
       "url": "https://open.spotify.com/track/7KbyfpPzUHKEHSivbpk0VJ"
@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182426,
       "name": "On s'fait du mal (feat. Dadju)",
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
@@ -6915,6 +6915,32 @@
     },
     {
       "album": {
+        "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+        "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "The Jammin Kid",
+          "url": "https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
+    },
+    {
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR"
       },
@@ -7710,7 +7736,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
@@ -8432,6 +8458,24 @@
       "duration_ms": 169250,
       "name": "Who You Love",
       "url": "https://open.spotify.com/track/0hnuXO1RDcoIIZux7WSeol"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

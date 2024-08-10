@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: jeebanoff\(지바노프\)\)
 
-375 songs - 20 hr 44 min
+378 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
+| [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-09 |  |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 |  |
 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 | 2023-07-07 | 2023-10-28 |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2023-03-28 |
@@ -92,6 +93,7 @@
 | [day off](https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [mis](https://open.spotify.com/album/0465P7QwKvua7zSGNoH3NO) | 2:46 | 2022-05-28 | 2022-08-03 |
 | [dear goodbye](https://open.spotify.com/track/1uwVqKjMf2wVVwRkDe2Xt6) | [Jang Ye Jin](https://open.spotify.com/artist/7Dt4RaCuOERTklhHbZcrCU) | [dear goodbye](https://open.spotify.com/album/3FLSiFdNlZl8MgsDHhydO0) | 3:33 | 2024-04-17 | 2024-08-07 |
 | [Dear My Sorrow \(Doop\)](https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu) | [Add All Ears](https://open.spotify.com/artist/6uZ4zg2t2yCRACJJAHetgs) | [Dear My Sorrow](https://open.spotify.com/album/46R8yonAYUnizLWonwG1Vx) | 4:02 | 2024-07-25 |  |
+| [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-09 |  |
 | [Deeper](https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Deeper](https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD) | 2:57 | 2023-10-05 | 2024-02-07 |
 | [Delicate dawn \(feat\. 1ho & mabinc\)](https://open.spotify.com/track/3y1rYTVWOOVS5HD12LG09x) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#9](https://open.spotify.com/album/18tlQUqxvDN51zGcesMFgs) | 3:28 | 2024-02-22 | 2024-06-18 |
 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 | 2024-01-08 | 2024-05-24 |
@@ -303,6 +305,7 @@
 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 | 2023-11-06 | 2024-04-05 |
 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 | 2024-06-18 |
 | [Step](https://open.spotify.com/track/0nQGxsU4YRp30FEVCaugdq) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Step](https://open.spotify.com/album/2J0icYKdk19idztc0KgvHO) | 3:17 | 2024-04-26 | 2024-08-04 |
+| [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 | 2024-08-09 |  |
 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 | 2022-12-13 | 2023-04-28 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-18 | 2023-08-18 |
 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 | 2023-10-27 | 2024-03-16 |

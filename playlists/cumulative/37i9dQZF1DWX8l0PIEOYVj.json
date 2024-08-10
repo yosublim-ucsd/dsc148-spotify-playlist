@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 245234,
       "name": "22",
       "url": "https://open.spotify.com/track/5E0aFvTnbphYsrMezpj96G"
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Brand New Funk",
+        "url": "https://open.spotify.com/album/0pllHpliPouNfbcLYJW5qd"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Brand New Funk",
+      "url": "https://open.spotify.com/track/2zSVXz9fevABKCEnc2epnf"
+    },
+    {
+      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/3wDZeVyPFa6gindhyvg6bT"
       },
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205161,
       "name": "Could It Be",
       "url": "https://open.spotify.com/track/5mrF9i0h4DUmaWBkHWkEkX"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 248275,
       "name": "Drift",
       "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
@@ -3278,6 +3296,28 @@
       "duration_ms": 217808,
       "name": "Edge Of Your Heart",
       "url": "https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe"
+    },
+    {
+      "album": {
+        "name": "Elysian Fields",
+        "url": "https://open.spotify.com/album/5ttdnzEUkTLtSLkIaE0jZ1"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "A Hundred Drums",
+          "url": "https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207887,
+      "name": "Elysian Fields",
+      "url": "https://open.spotify.com/track/3MyUhaoPmjq0vNRP53qtNz"
     },
     {
       "album": {
@@ -4738,7 +4778,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 242200,
       "name": "Give Out",
       "url": "https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o"
@@ -5384,7 +5424,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196838,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/5gcONAsj07GWfYmLUai2Wc"
@@ -6148,6 +6188,28 @@
       "duration_ms": 218482,
       "name": "Hurting Too",
       "url": "https://open.spotify.com/track/3CzT2BHL7mdohRzSvyeJuL"
+    },
+    {
+      "album": {
+        "name": "Hurts Me Too",
+        "url": "https://open.spotify.com/album/5tOZ5X8lrtIRmJt4Ur4g9T"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "niko rain",
+          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Hurts Me Too",
+      "url": "https://open.spotify.com/track/17IFTfD85UPJH968QjEHMq"
     },
     {
       "album": {
@@ -8165,6 +8227,24 @@
     },
     {
       "album": {
+        "name": "Memory Of You",
+        "url": "https://open.spotify.com/album/54iBFIo0ss0xG3apncweln"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Memory Of You",
+      "url": "https://open.spotify.com/track/5yKmlKc4W8BH8JD0Hsx0EP"
+    },
+    {
+      "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA"
       },
@@ -10101,6 +10181,28 @@
     },
     {
       "album": {
+        "name": "Ready Now",
+        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "ary kemler",
+          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
+    },
+    {
+      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3mMcU2aGRcEgXqCtYDovzA"
       },
@@ -10120,6 +10222,28 @@
       "duration_ms": 214400,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/3IMxBkCxIa44z7qUTdZKWV"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/4TQQgKYB9IfyQbiVmUXyZW"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/14aiPENrYe9Ix6ghXRodOw"
     },
     {
       "album": {
@@ -13512,7 +13636,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 248000,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/3Xan57kXn4YNZCK91l8qZe"

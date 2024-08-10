@@ -4,7 +4,7 @@
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-79 songs - 4 hr 6 min
+80 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 | 2024-06-27 |  |
 | [ACHTZEHN](https://open.spotify.com/track/1uJCVzTykSdfzHdMPv9A45) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [ACHTZEHN](https://open.spotify.com/album/3zwaxGqEETqmBNB9EesAQp) | 4:27 | 2024-07-18 | 2024-07-27 |
 | [aliens in paris](https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [aliens in paris](https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4) | 3:33 | 2024-07-25 |  |
-| [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 | 2024-07-18 | 2024-08-09 |
+| [All meine Angst](https://open.spotify.com/track/0rE6YPbzad41mlswdKI43l) | [vian](https://open.spotify.com/artist/6vlxMZpldVeDOT6RtD5Y0N) | [All meine Angst](https://open.spotify.com/album/2QDzccyAFESmxf8ZdWPHfk) | 2:17 | 2024-07-18 |  |
 | [am erdbeerstrand](https://open.spotify.com/track/5BIIpsBXnIQmrVa66nnUmI) | [Das Paradies](https://open.spotify.com/artist/5wYcbpyGZGlUOiNpbLWZTo) | [sammlung 2 / soft floor](https://open.spotify.com/album/0Z1ngCwNQz24Sj03nuxHPi) | 3:07 | 2024-07-11 | 2024-07-19 |
 | [Am Ufer der Zeit](https://open.spotify.com/track/2ojvf5fHFXQfwhuwLx9ycY) | [Die Mausis](https://open.spotify.com/artist/5L1xqF2WFjmYokIBVpnBPD) | [Am Ufer der Zeit](https://open.spotify.com/album/1fbuq5eh3vU7rpABIZAYeq) | 3:22 | 2024-06-27 | 2024-07-05 |
 | [An das Publikum](https://open.spotify.com/track/03h2MUlvSj5dwgI0yCvnBT) | [Robert Stadlober](https://open.spotify.com/artist/2LDPDcEuCo0Zy9TYo2t2BL) | [An das Publikum](https://open.spotify.com/album/1HRrOM0JZH8PthUoLyCnFk) | 3:39 | 2024-06-27 | 2024-07-05 |
@@ -42,6 +42,7 @@
 | [Ich leg mein Geld in Käse an](https://open.spotify.com/track/3XauNjFjRs6NxTJdt6Ebw6) | [Die Mausis](https://open.spotify.com/artist/5L1xqF2WFjmYokIBVpnBPD), [Dirk von Lowtzow](https://open.spotify.com/artist/4iThdARg7lrGGuvBkWhVLm) | [Ich leg mein Geld in Käse an](https://open.spotify.com/album/6MLZWSu04u7iLHT7LHDVXk) | 3:12 | 2024-08-01 |  |
 | [Ich seh den Horizont](https://open.spotify.com/track/6tmUcR5KSO26u2DFVsMx5y) | [PeterLicht](https://open.spotify.com/artist/0vr6IcFPFgjLKLUNPDlWmS) | [Ich seh den Horizont](https://open.spotify.com/album/0yNkacrVgCMa8FsU5nlXWD) | 4:34 | 2024-07-11 | 2024-07-19 |
 | [ICH WEISS ES NICHT](https://open.spotify.com/track/7L2c0Gy88eOncmLPQ2PF9V) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [ICH WEISS ES NICHT](https://open.spotify.com/album/0DgFYFrptZIulH79F3zGe9) | 2:35 | 2024-06-27 | 2024-08-04 |
+| [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/track/6haEpILX93bOam4nbLiQe0) | [Die Nerven](https://open.spotify.com/artist/7rdm7IB4LaHSy1PvRzXnmc) | [ICH WILL NICHT MEHR FUNKTIONIEREN](https://open.spotify.com/album/6USSNaAFuVBJ7UfBs5NIyI) | 3:12 | 2024-08-09 |  |
 | [Im Sommer bin ich dein König](https://open.spotify.com/track/2zDJvwe3c5tfsZTk5G3UVZ) | [International Music](https://open.spotify.com/artist/48dnHBivHwkMNSeKlNY6F4) | [Im Sommer bin ich dein König](https://open.spotify.com/album/7aobf0NvWiY6ixicNbOmsF) | 4:14 | 2024-07-25 | 2024-08-02 |
 | [Joel](https://open.spotify.com/track/7A2MVRdwPy1PKiF5euhNK6) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Joel](https://open.spotify.com/album/4ijnyXRvTabRu66G5srgev) | 3:13 | 2024-06-27 |  |
 | [Kannst du bei mir bleiben?](https://open.spotify.com/track/6P2p63GZxlsvoegju9iH1Z) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Kannst du bei mir bleiben?](https://open.spotify.com/album/4HfWSo2GOcajhwKOetWw4x) | 2:12 | 2024-06-27 |  |
@@ -68,7 +69,7 @@
 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 | 2024-07-25 |  |
 | [Panik](https://open.spotify.com/track/3TO48iUyVSruxeUotD1NyK) | [Graustufe West](https://open.spotify.com/artist/74MTnOR9ipJaUNf31xWPLF) | [Panik](https://open.spotify.com/album/1cgt9r3pmssq7iwJ1WoDux) | 3:32 | 2024-06-27 | 2024-08-09 |
 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 | 2024-06-27 | 2024-07-07 |
-| [Rauschen](https://open.spotify.com/track/64VIlUSEMejKt2LUpxA06y) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Rauschen](https://open.spotify.com/album/0Sx5N6NuOe2ppew7q44JH1) | 3:09 | 2024-07-25 |  |
+| [Rauschen](https://open.spotify.com/track/64VIlUSEMejKt2LUpxA06y) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Rauschen](https://open.spotify.com/album/0Sx5N6NuOe2ppew7q44JH1) | 3:09 | 2024-07-25 | 2024-08-10 |
 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 | 2024-08-01 |  |
 | [Römerweg](https://open.spotify.com/track/4272Pj5VmTVbPMTMwDd0zo) | [SIND](https://open.spotify.com/artist/7vTMiWoEUt3NEcGUtghAMi) | [Römerweg](https://open.spotify.com/album/7htDhSYgy6jVR2mIzOgpVm) | 3:36 | 2024-07-18 | 2024-07-27 |
 | [Sag Mir Was Stille Heißt](https://open.spotify.com/track/1jSLJjXA2Pu7IL2foYZcHY) | [Lyschko](https://open.spotify.com/artist/62v9ccNoIxNoPmosqCWpq6) | [Sag Mir Was Stille Heißt](https://open.spotify.com/album/7mEjXxk0X4uT07LVOhsvi7) | 3:46 | 2024-07-25 | 2024-08-02 |

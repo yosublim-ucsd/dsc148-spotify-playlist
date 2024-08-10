@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Alicia Creti
 
-490 songs - 1 day 4 hr 18 min
+491 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/track/4bBjJXHNQPiUdY0L90dO4D) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry \- A COLORS SHOW](https://open.spotify.com/album/0tT4aJMUh0ToD5vEFhhPnh) | 3:33 | 2024-03-22 |  |
 | [Bleu électrique](https://open.spotify.com/track/7G1133z0aujk905wPE7dOo) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Bleu électrique](https://open.spotify.com/album/6Jc3phQF0UrVpDc4VdC9mn) | 2:48 | 2024-05-03 |  |
 | [Blind Eyes](https://open.spotify.com/track/3X5eIiJr9eciTzWfFcgO7r) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Another Self](https://open.spotify.com/album/4sLpFVoB0AxlKo5W1O60l0) | 3:49 | 2022-04-15 | 2022-09-03 |
+| [Blink Twice](https://open.spotify.com/track/1UGWWNp4C37Cte2VPG8TUs) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Tender the Spark](https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr) | 3:02 | 2024-08-09 |  |
 | [Block Of Wood](https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Block Of Wood](https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c) | 3:19 | 2023-05-19 | 2024-06-15 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 | 2023-08-26 |
 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 | 2022-03-25 | 2022-04-23 |
@@ -320,7 +321,7 @@
 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 | 2022-07-22 | 2022-12-03 |
 | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/track/0ZO6pL1cZgaOSIGQZi1OxW) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Oh Really? \(feat\. Kiefer\)](https://open.spotify.com/album/34By43vyYsxtfgLyDRoMnI) | 3:54 | 2022-04-22 | 2023-05-13 |
 | [On s'aime jusqu'à quand ?](https://open.spotify.com/track/4ueRX7t3Sa860JWwrbIJyJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [On s'aime jusqu'à quand ?](https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF) | 3:21 | 2024-05-03 |  |
-| [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 |  |
+| [on s'en fou](https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [swirly](https://open.spotify.com/album/6xxKNduR65aGZkDTuNZ6Be) | 3:25 | 2023-05-26 | 2024-08-10 |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 | 2024-06-29 |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-08 | 2023-10-21 |
 | [Oumamie](https://open.spotify.com/track/2iauwPwdi7tZPyFPfLUotw) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Oumamie](https://open.spotify.com/album/4JH7mG8IRdK3oGh2m0nT4L) | 2:21 | 2024-05-03 |  |

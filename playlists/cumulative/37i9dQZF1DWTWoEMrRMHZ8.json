@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 227000,
       "name": "A Viagem",
       "url": "https://open.spotify.com/track/1G7FhqttY6lVQ7JHg70hGF"
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155100,
       "name": "Apressa",
       "url": "https://open.spotify.com/track/3aYFwiz4kl26oTRg8Cq4Im"
@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
+    },
+    {
+      "album": {
         "name": "Cais",
         "url": "https://open.spotify.com/album/2X55OfvXSptynsrQWYq9Oz"
       },
@@ -2934,7 +2956,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163800,
       "name": "ciranda",
       "url": "https://open.spotify.com/track/1yLGE1ymAIXlOa6zwbUFIA"
@@ -4199,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
+    },
+    {
+      "album": {
         "name": "Dorme Pretinho",
         "url": "https://open.spotify.com/album/4Jfn7SRYovF2ETQ6Xkqb4B"
       },
@@ -5377,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
+        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244150,
+      "name": "Flecha do Dedo",
+      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
+    },
+    {
+      "album": {
         "name": "Foge de Casa",
         "url": "https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T"
       },
@@ -6093,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6lkbBmltVpJRgWwiEFa2QD"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0dSvKFk6NR0ZFUZFJWs96C"
+    },
+    {
+      "album": {
         "name": "Isso Me Far\u00e1",
         "url": "https://open.spotify.com/album/7pgfecDRWnyggCX4LZ19AA"
       },
@@ -6763,6 +6839,24 @@
     },
     {
       "album": {
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+    },
+    {
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO"
       },
@@ -7120,7 +7214,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201640,
       "name": "Marra de Feroz",
       "url": "https://open.spotify.com/track/4yNYcr61tbwwkycSq9t3qx"
@@ -7193,6 +7287,28 @@
     },
     {
       "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
+    },
+    {
+      "album": {
         "name": "Estado Febril",
         "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
       },
@@ -7244,7 +7360,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 133212,
       "name": "ME LIGA",
       "url": "https://open.spotify.com/track/54RUeOrfNtx0Kh1Rep3vpH"
@@ -8516,6 +8632,24 @@
       "duration_ms": 202638,
       "name": "N\u00e3o Identificado",
       "url": "https://open.spotify.com/track/53ji1uDQVCxod5wYjdjuMf"
+    },
+    {
+      "album": {
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "album": {
@@ -11846,7 +11980,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
@@ -13237,6 +13371,24 @@
     },
     {
       "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -14158,7 +14310,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 138473,
       "name": "Ui Ui Ui...",
       "url": "https://open.spotify.com/track/66OYEKjSmeVqSqqjjev1mS"
@@ -14972,7 +15124,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164000,
       "name": "Voa",
       "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"

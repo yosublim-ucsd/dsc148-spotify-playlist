@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Kendrick Lamar",
+  "description": "Holdin' it down for the westside. Cover: YG",
   "name": "Westside Story",
   "tracks": [
     {
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 137003,
       "name": "back it up",
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
@@ -6691,6 +6691,36 @@
     },
     {
       "album": {
+        "name": "Tha Clicc House RELOADED",
+        "url": "https://open.spotify.com/album/1AX2bNIZ4bFjku1WuI0Jih"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/0YqTedM0Efqbbqmo9qic9D"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186093,
+      "name": "Ghetto Clicc - Remix",
+      "url": "https://open.spotify.com/track/2v3jI3G3HyP3xYzZ60bD2m"
+    },
+    {
+      "album": {
         "name": "Ghetto Lullaby (feat. Jehkai)",
         "url": "https://open.spotify.com/album/2igr9F4M6J6hbfOSVuWop1"
       },
@@ -8073,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136134,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/0Inc7mrSkyeZGe3V4pjVDr"
+    },
+    {
+      "album": {
         "name": "How's Life?",
         "url": "https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB"
       },
@@ -8562,7 +8610,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 130000,
       "name": "In The Field",
       "url": "https://open.spotify.com/track/7GAP94zr3pzFIapGw5ff4L"
@@ -10148,7 +10196,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 214228,
       "name": "LOVE MAKE",
       "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
@@ -10444,6 +10492,24 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "album": {
+        "name": "Love U Forever",
+        "url": "https://open.spotify.com/album/1CSxde2uAh0CayI1qgtNWF"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151405,
+      "name": "Me vs Me",
+      "url": "https://open.spotify.com/track/1RYGmk90yiUdsJn7eZeG6W"
     },
     {
       "album": {
@@ -12407,6 +12473,28 @@
     },
     {
       "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/0grtHFWzNqvB28CV0PsvX4"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156503,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/05rqovaF53w9op4snRPaK7"
+    },
+    {
+      "album": {
         "name": "On Top",
         "url": "https://open.spotify.com/album/26G0JHQMYemChP8VZG8Xr9"
       },
@@ -13856,6 +13944,24 @@
       "duration_ms": 107389,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV"
+    },
+    {
+      "album": {
+        "name": "Ray Wop",
+        "url": "https://open.spotify.com/album/6ScHujaAPkA56DUqTQVWDD"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147326,
+      "name": "Ray Wop",
+      "url": "https://open.spotify.com/track/2HY9pQpLmRSa03JtM1n2we"
     },
     {
       "album": {
@@ -16588,7 +16694,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200000,
       "name": "Tell Me That I'm Not",
       "url": "https://open.spotify.com/track/1LEJOG7vWgjwWNESHC7C4V"
@@ -17177,6 +17283,24 @@
     },
     {
       "album": {
+        "name": "Doing It For Me",
+        "url": "https://open.spotify.com/album/0dC5i4Es5TvsDuUHyQ33nA"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161781,
+      "name": "Three Piece",
+      "url": "https://open.spotify.com/track/5UAbt1NsHfYFIhvGaFenRM"
+    },
+    {
+      "album": {
         "name": "Thru The Week",
         "url": "https://open.spotify.com/album/2gUrIbJA00fdERuqhLEKit"
       },
@@ -17724,7 +17848,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 265135,
       "name": "Up Now (feat. Lil Yachty, BlueBucksClan & 42 Dugg)",
       "url": "https://open.spotify.com/track/3hHDLYScNXL4qBD9T5hhbU"
@@ -17906,6 +18030,24 @@
       "duration_ms": 83715,
       "name": "Veeze Flow",
       "url": "https://open.spotify.com/track/6JiawCkTEY2Ty7f2Jjn83j"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4lRKsgn0mjjLA8lk7jfBuD"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135876,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/6bsNytmRwLJBw0S1ec3BBY"
     },
     {
       "album": {

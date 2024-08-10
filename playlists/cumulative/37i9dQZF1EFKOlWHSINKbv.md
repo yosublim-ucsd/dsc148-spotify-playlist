@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 9 hr 18 min
+151 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 | 2024-06-11 |  |
 | [SUPERFINE](https://open.spotify.com/track/7BBdodDRaP6waS34503kCd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 4:22 | 2024-06-11 |  |
 | [The 1st Lady](https://open.spotify.com/track/6Jb3ulaGgpHEfNGCGLuGWq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 2:44 | 2024-06-11 |  |
-| [The Beginning](https://open.spotify.com/track/46BEdbS8fN3xTRxGtiLiZ6) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 2:14 | 2024-06-11 |  |
+| [The Beginning](https://open.spotify.com/track/46BEdbS8fN3xTRxGtiLiZ6) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 2:14 | 2024-06-11 | 2024-08-10 |
+| [The Beginning](https://open.spotify.com/track/5BK6zXTrbgPKkBGv5rGOy7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:14 | 2024-08-09 |  |
 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 | 2024-06-11 |  |
 | [This Is Us](https://open.spotify.com/track/0Ntau8cz6Cp2HDZOt7yORF) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:25 | 2024-06-11 |  |
 | [This Is What It Looks Like](https://open.spotify.com/track/4T56v5HtcI2xlxgDBTc9GC) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 5:01 | 2024-06-11 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Marco Polo. The essential tracks, all in one playlist.",
+  "description": "This is: Marco Polo. Alle wichtigen Tracks in einer Playlist.",
   "num_followers": 424,
   "original_name": "This Is Marco Polo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACpGR5UtqI55YcyhnoUiIjv",
+  "snapshot_id": "ZrQKgAAAAAD4oPsS/3HzWG+70ONlx8qI",
   "tracks": [
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Reggie B.",
-          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "Cur$ed (What's Wrong Remix)",
-      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 282509,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Reggie B.",
+          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "Cur$ed (What's Wrong Remix)",
+      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
     },
     {
       "added_at": null,
@@ -742,15 +742,11 @@
         {
           "name": "Masta Ace & Marco Polo",
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Lil Fame",
-          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 229230,
-      "name": "Count Em Up",
-      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
+      "duration_ms": 190160,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
     },
     {
       "added_at": null,
@@ -842,11 +838,15 @@
         {
           "name": "Masta Ace & Marco Polo",
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 190160,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
+      "duration_ms": 229230,
+      "name": "Count Em Up",
+      "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
     },
     {
       "added_at": null,
@@ -1020,13 +1020,17 @@
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         },
         {
-          "name": "Elzhi",
-          "url": "https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT"
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 203716,
-      "name": "Corporal Punishment",
-      "url": "https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl"
+      "duration_ms": 227498,
+      "name": "E.A.T.",
+      "url": "https://open.spotify.com/track/5wf4rbeLC7w5vh5mRGuPWN"
     },
     {
       "added_at": null,
@@ -1044,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 210867,
-      "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
-      "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -1067,26 +1071,6 @@
       "duration_ms": 236626,
       "name": "War",
       "url": "https://open.spotify.com/track/6V6M93Ape70kdvUl28xGW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
-        }
-      ],
-      "duration_ms": 214601,
-      "name": "Nite & Day",
-      "url": "https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1"
     },
     {
       "added_at": null,
@@ -1115,6 +1099,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        }
+      ],
+      "duration_ms": 214601,
+      "name": "Nite & Day",
+      "url": "https://open.spotify.com/track/0m3osdhVkpzPUNojzC7xo1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -1128,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
+      "duration_ms": 238538,
+      "name": "Przyjaciel Diab\u0142a",
+      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
     },
     {
       "added_at": null,

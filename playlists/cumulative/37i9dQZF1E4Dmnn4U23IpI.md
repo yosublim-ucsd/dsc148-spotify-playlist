@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight الراديو](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With FM\-84, Timecop1983, Kalax and more
+> مع FM\-84, Timecop1983, Kalax والمزيد
 
 1,548 songs - 4 day 10 hr 49 min
 

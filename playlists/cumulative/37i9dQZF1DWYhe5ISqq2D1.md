@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: Nulbarich
 
-165 songs - 10 hr 34 min
+166 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [あたしの全部を愛せない](https://open.spotify.com/track/40BWfinCBSQnaCBRuVqBfh) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 3:17 | 2024-07-26 |  |
 | [あなたへの手紙](https://open.spotify.com/track/1G92sVs0msvKBeGmynMpm1) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [あなたへの手紙](https://open.spotify.com/album/2v6ieW1mkO7XeTZ6VmzKWz) | 3:46 | 2024-07-02 | 2024-07-17 |
 | [あのね](https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm) | 6:49 | 2024-07-02 | 2024-07-10 |
-| [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-07-02 |  |
+| [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-07-02 | 2024-08-10 |
 | [おぼろげ](https://open.spotify.com/track/4ApkPCqOx1qQBp4l3p1c1p) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [おぼろげ](https://open.spotify.com/album/1Yksmlxl2WLZzmEGBnb2fs) | 4:40 | 2024-07-16 | 2024-07-27 |
 | [かえりみち](https://open.spotify.com/track/2rF7Tk0fx5zWx5TDKFfRx4) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [かえりみち](https://open.spotify.com/album/7IJ0P9CWWmbDpuh3PcpFMj) | 2:32 | 2024-07-30 | 2024-08-07 |
 | [かぜ薫る](https://open.spotify.com/track/0W0beAnzs1zMt82GfSBKHJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [かぜ薫る](https://open.spotify.com/album/1yuEpahsy5IPJIPjeCRucE) | 3:39 | 2024-07-30 |  |
@@ -133,6 +133,7 @@
 | [少しだけ](https://open.spotify.com/track/0WLDdeAg7wipOvlNByiMhD) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [少しだけ](https://open.spotify.com/album/2AR2Ep7BpnwSEtbGoC5pmc) | 3:35 | 2024-07-02 |  |
 | [常緑](https://open.spotify.com/track/42dM8WcW6SUxueqABK1LmQ) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [常緑](https://open.spotify.com/album/36Wwao113URCTIu6PoR9sH) | 2:51 | 2024-07-02 |  |
 | [幸せ](https://open.spotify.com/track/2j2UcUqQtQU4egBQtlb9Ku) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [幸せ](https://open.spotify.com/album/5YGS9k8ai8uymJklq9mR0o) | 5:13 | 2024-07-02 |  |
+| [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-08-06 |  |
 | [快晴浪漫](https://open.spotify.com/track/19nqy9tmxZ7GvqesKym1PR) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [快晴浪漫](https://open.spotify.com/album/2ROR9v4EDlZOLiZKRPA5py) | 4:39 | 2024-07-09 | 2024-07-17 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2024-07-02 |  |
 | [想望](https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [想望](https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ) | 4:24 | 2024-07-02 |  |

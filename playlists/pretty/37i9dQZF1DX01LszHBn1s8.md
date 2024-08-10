@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i think the apple's rotten right to the core 🍏
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,488 likes - 962 songs - 2 day 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,544 likes - 962 songs - 2 day 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -822,7 +822,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 812 | [Love You So](https://open.spotify.com/track/4msYRkezQgynuZNubvVbHk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & BBQ Show](https://open.spotify.com/album/7kHrwYwLS5HUng16CHd5rF) | 3:45 |
 | 813 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 |
 | 814 | [Sorry to Your Next Ex](https://open.spotify.com/track/3MmSF1hLnAHBrpF4A0fY9d) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Sorry to Your Next Ex](https://open.spotify.com/album/2lvlrdFQRBNcgok4O4QKGK) | 2:49 |
-| 815 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [LEW](https://open.spotify.com/artist/5lAx57Iv5lQLzOpkdVMiTC) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
+| 815 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
 | 816 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 |
 | 817 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 |
 | 818 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
@@ -963,7 +963,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 953 | [Toxic](https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Faded](https://open.spotify.com/album/1C9KIpgrisvGtCxTfNBBaJ) | 2:48 |
 | 954 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 |
 | 955 | [Mama Said](https://open.spotify.com/track/49oXJHnnxiWIdV5E6Btgf5) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\) \[International Version\]](https://open.spotify.com/album/0o2W2d2Zl7Bur5jph6phkm) | 3:26 |
-| 956 | [Ghost](https://open.spotify.com/track/7ya7Jv4hJ9W0Baz7h9nL7E) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 2:33 |
+| 956 | [Ghost](https://open.spotify.com/track/7ya7Jv4hJ9W0Baz7h9nL7E) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \- The Complete Edition](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 2:33 |
 | 957 | [Like I Can](https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:47 |
 | 958 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 | 959 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 |

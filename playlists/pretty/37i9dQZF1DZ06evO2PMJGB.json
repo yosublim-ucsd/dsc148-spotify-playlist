@@ -1,12 +1,12 @@
 {
-  "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 243574,
+  "description": "This is Lu\u00edsa Sonza. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 243697,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABtI1vD1nBwrgH/WY2pt9W/",
+  "snapshot_id": "ZrQKgAAAAADfuWXNc+y2o+hs1GrBH/cr",
   "tracks": [
     {
       "added_at": null,
@@ -555,50 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Posi\u00e7\u00e3o de Ataque",
-        "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        }
-      ],
-      "duration_ms": 149090,
-      "name": "Posi\u00e7\u00e3o de Ataque",
-      "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combatchy (feat. MC Rebecca)",
         "url": "https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq"
       },
@@ -627,22 +583,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posi\u00e7\u00e3o de Ataque",
+        "url": "https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        }
+      ],
+      "duration_ms": 149090,
+      "name": "Posi\u00e7\u00e3o de Ataque",
+      "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
+      "duration_ms": 155798,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
     },
     {
       "added_at": null,
@@ -683,22 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
       },
       "artists": [
         {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 155798,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "tsubi club is back",
-  "num_followers": 461901,
+  "num_followers": 461955,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrPEXwAAAAAn/XZ+nh41oJZam/5rpKaO",
+  "snapshot_id": "ZrWUQAAAAADRYdMuaKsvtN39pFkxzhvh",
   "tracks": [
     {
       "added_at": "2024-08-03 15:58:38",
@@ -137,6 +137,26 @@
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "keepsakeFM",
+        "url": "https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH"
+      },
+      "artists": [
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        },
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "aare",
+      "url": "https://open.spotify.com/track/18DympU8DkoXjNNraGQy9y"
+    },
+    {
       "added_at": "2024-06-07 05:00:00",
       "album": {
         "name": "PINK LIKE SUKI",
@@ -193,6 +213,26 @@
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Underground (Doss Remix)",
+        "url": "https://open.spotify.com/album/5lwgvD3TYEHGuR2t5K6vI5"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 172431,
+      "name": "Underground (Doss Remix)",
+      "url": "https://open.spotify.com/track/0zKyugbUEOGjN9JxEuzGYe"
+    },
+    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "Block",
@@ -207,6 +247,22 @@
       "duration_ms": 130817,
       "name": "Block",
       "url": "https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "drained to my core",
+        "url": "https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "drained to my core",
+      "url": "https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP"
     },
     {
       "added_at": "2024-08-03 16:20:59",
@@ -259,6 +315,26 @@
       "duration_ms": 158942,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Dr\u00efpsody",
+        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
+      },
+      "artists": [
+        {
+          "name": "WTRGRL",
+          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
+        },
+        {
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+        }
+      ],
+      "duration_ms": 161769,
+      "name": "Cash My Style",
+      "url": "https://open.spotify.com/track/52D9GyW7TpYCLd3dyK4mjV"
     },
     {
       "added_at": "2024-05-30 21:41:29",
@@ -1211,6 +1287,22 @@
       "duration_ms": 164210,
       "name": "@location",
       "url": "https://open.spotify.com/track/0LZfOTFwtgIdWr7n2ngOty"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/2nm47sRDJ27ZxOnMk27GP1"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 182357,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI"
     },
     {
       "added_at": "2024-04-26 05:00:00",

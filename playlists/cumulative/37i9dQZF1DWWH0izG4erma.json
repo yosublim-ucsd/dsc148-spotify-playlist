@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country music that rocks. Cover: A Thousand Horses",
+  "description": "Country music that rocks. Cover: Mitchell Tenpenny and Underoath",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -1460,6 +1460,28 @@
       "duration_ms": 201373,
       "name": "Days of Gold",
       "url": "https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4"
+    },
+    {
+      "album": {
+        "name": "Demon or Ghost (feat. Underoath)",
+        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Demon or Ghost (feat. Underoath)",
+      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
     },
     {
       "album": {
@@ -5776,7 +5798,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 337239,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv"

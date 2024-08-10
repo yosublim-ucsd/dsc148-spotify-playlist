@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Meet the future. New artists on the horizon. Cover: Annural Khalid.",
+  "description": "Meet the future. New artists on the horizon. Cover: Bayaan.",
   "name": "RADAR Global ",
   "tracks": [
     {
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 122000,
       "name": "Ain't Like Me",
       "url": "https://open.spotify.com/track/11Ecuz9pbeML5CuluIw088"
@@ -3940,7 +3940,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 286107,
       "name": "California",
       "url": "https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9"
@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168517,
       "name": "Crazy Woman",
       "url": "https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX"
@@ -7336,6 +7336,24 @@
       "duration_ms": 210000,
       "name": "Encr\u00e9",
       "url": "https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn"
+    },
+    {
+      "album": {
+        "name": "Enemy Lines",
+        "url": "https://open.spotify.com/album/5BYGUR2GksMT6OpHAFOXvk"
+      },
+      "artists": [
+        {
+          "name": "Victor",
+          "url": "https://open.spotify.com/artist/3w03DTyLLXIUFyuKgOEJOQ"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136044,
+      "name": "Enemy Lines",
+      "url": "https://open.spotify.com/track/46ZnIPWHLgUGYyHiXQNVMf"
     },
     {
       "album": {
@@ -12902,7 +12920,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 232440,
       "name": "KISINAN 2",
       "url": "https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ"
@@ -13784,7 +13802,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143233,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
@@ -14466,7 +14484,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 218386,
       "name": "Makeweight",
       "url": "https://open.spotify.com/track/16AmxoT1jXMLhjTSLzTEus"
@@ -16784,7 +16802,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 561187,
       "name": "No Hables - Asi no te Amara Jamas - Si Esta Casa Hablara - Herida",
       "url": "https://open.spotify.com/track/7lQsh3MZhIGOqrberOsrs0"
@@ -20167,6 +20185,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1FajFZ6AJFRaN6itdQ4vhL"
+      },
+      "artists": [
+        {
+          "name": "Felicia Lu",
+          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140331,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/31EQWjQaZlrcOs79RaevI9"
+    },
+    {
+      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -20408,7 +20444,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 229450,
       "name": "SAH - Acoustic Version",
       "url": "https://open.spotify.com/track/15E37jzTXmjIrF2r3eNYDD"
@@ -20856,7 +20892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 212451,
       "name": "Semesta - From \"X-Change\"",
       "url": "https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX"
@@ -23094,7 +23130,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl"
@@ -25908,7 +25944,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 209054,
       "name": "Ya Hayati",
       "url": "https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA"
@@ -27530,7 +27566,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 145352,
       "name": "\u30d0\u30fc\u30b2\u30f3\u30bb\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1s2zRN7iZsHAfAFVAp3yt5"

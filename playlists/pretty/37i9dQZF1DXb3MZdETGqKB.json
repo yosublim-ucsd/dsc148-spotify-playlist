@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 149080,
+  "num_followers": 149098,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAD1e4ERldpOMQSHXlMD/fiL",
+  "snapshot_id": "ZrWUQAAAAACQy7BtwP9NC4lnWfvm81AT",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Hold Of My Heart",
+        "url": "https://open.spotify.com/album/3DsYPxlBNxZVB1bVdqnyPM"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Hold Of My Heart",
+      "url": "https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 172420,
       "name": "The Devil Wears Lace Pt. 2",
       "url": "https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+        "url": "https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 194236,
+      "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -223,22 +259,6 @@
       "duration_ms": 256941,
       "name": "Stuttering On",
       "url": "https://open.spotify.com/track/7cQ8RzcVQQ6fawdR8MckRP"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Heavy Soul",
-        "url": "https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "Drowning In A Sea Of Love",
-      "url": "https://open.spotify.com/track/6dPOyhHhA1riKYN1Jh6b8j"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1659,22 +1679,6 @@
       "duration_ms": 334893,
       "name": "She Ought to Be King",
       "url": "https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "What's Real",
-        "url": "https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF"
-      },
-      "artists": [
-        {
-          "name": "Drew Foust",
-          "url": "https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "What's Real",
-      "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
     },
     {
       "added_at": "2022-08-05 04:02:00",

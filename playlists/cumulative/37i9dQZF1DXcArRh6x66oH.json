@@ -2009,6 +2009,28 @@
     },
     {
       "album": {
+        "name": "Good Horses (feat. Miranda Lambert)",
+        "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237773,
+      "name": "Good Horses (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+    },
+    {
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2A9iLSQg4UvUDFBOMxWaoo"
       },
@@ -3815,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+    },
+    {
+      "album": {
         "name": "Ramblin Man",
         "url": "https://open.spotify.com/album/0PXuJaAC2SrNE3RUdjtNn3"
       },
@@ -3848,6 +3888,24 @@
       "duration_ms": 206945,
       "name": "Ranch Hand - Me and a Fiddle",
       "url": "https://open.spotify.com/track/51qkvWdztu2I4vBVgnfNAf"
+    },
+    {
+      "album": {
+        "name": "Rhinestoned",
+        "url": "https://open.spotify.com/album/015aLOeduG4JZrxNAEWybt"
+      },
+      "artists": [
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Rhinestoned",
+      "url": "https://open.spotify.com/track/0DXumAtUGB8SWV2C9OG410"
     },
     {
       "album": {
@@ -4090,6 +4148,24 @@
       "duration_ms": 233592,
       "name": "Seein' Straight",
       "url": "https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t"
+    },
+    {
+      "album": {
+        "name": "Live on Red Barn Radio I & II",
+        "url": "https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175120,
+      "name": "Shake the Frost (Live)",
+      "url": "https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o"
     },
     {
       "album": {
@@ -4414,7 +4490,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 300800,
       "name": "Song While You're Away (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
@@ -4576,7 +4652,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 296000,
       "name": "Suburban Outlaw",
       "url": "https://open.spotify.com/track/1guH0XpqZzQmRkpKCY3sdb"
@@ -4872,7 +4948,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222362,
       "name": "Thinkin Bout Cheatin",
       "url": "https://open.spotify.com/track/35GoYj5urnSOCabDAKphBF"
@@ -5490,7 +5566,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 250880,
       "name": "Wildflowers and Wild Horses",
       "url": "https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0"

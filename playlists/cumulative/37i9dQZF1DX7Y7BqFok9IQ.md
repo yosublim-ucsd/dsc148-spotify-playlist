@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Larkin Poe
 
-333 songs - 21 hr 28 min
+334 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [The Call](https://open.spotify.com/track/7jC3g7Zt4hTsuOOMOBc75b) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [The Call](https://open.spotify.com/album/7JO8hvc7MmKxvM217csaMz) | 3:29 | 2022-04-08 |  |
 | [The Deep and the Dirty](https://open.spotify.com/track/3nQpyaOEql2BECg4QmaCrF) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep and the Dirty](https://open.spotify.com/album/67KkHhNmrpt1NkoiRW1cXc) | 3:47 | 2023-06-23 | 2024-04-13 |
 | [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 |  |
+| [The Devil's Wrong, but Not to Blame](https://open.spotify.com/track/6U7nODmDU0GD1fyVrnXFLo) | [Eddie & The Wolves](https://open.spotify.com/artist/0LLPFS3w5aAnQ8DyOGV7of) | [The Devil's Wrong, but Not to Blame](https://open.spotify.com/album/5aoIg1oGowkstefojC9X11) | 3:40 | 2024-08-09 |  |
 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 | 2023-12-23 |
 | [The Drop](https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T) | 3:39 | 2020-10-16 | 2024-07-06 |
 | [The Drop](https://open.spotify.com/track/7v2sAn8Epk75eyuN7V1Xol) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:39 | 2020-10-16 | 2024-04-19 |

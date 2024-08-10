@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Jimmy D Psalmist
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 90 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,926 likes - 90 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

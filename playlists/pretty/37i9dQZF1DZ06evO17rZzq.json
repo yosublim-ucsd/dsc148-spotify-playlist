@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kaliii. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 3702,
+  "description": "This is Kaliii. The essential tracks, all in one playlist.",
+  "num_followers": 3705,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADeFYZodtOFVz5gY6uS0lox",
+  "snapshot_id": "ZrQKgAAAAAAk3S5Tol71PDEP4o0UQQnC",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MMM MMM (feat. ATL Jacob)",
+        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "duration_ms": 137341,
+      "name": "MMM MMM (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHAKE (feat. Kaliii and Stunna Girl)",
         "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 191538,
       "name": "SHAKE (feat. Kaliii and Stunna Girl)",
       "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MMM MMM (feat. ATL Jacob)",
-        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
-        }
-      ],
-      "duration_ms": 137341,
-      "name": "MMM MMM (feat. ATL Jacob)",
-      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gas You Up (feat. Hunxho)",
         "url": "https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 171391,
       "name": "Gas You Up (feat. Hunxho)",
       "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOZO",
-        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BOZO",
-      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
         "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+        "name": "Back To 304'n",
+        "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
       },
       "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 116506,
-      "name": "Stand On It",
-      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+      "duration_ms": 176686,
+      "name": "Kickin In (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To 304'n",
-        "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
       "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 176686,
-      "name": "Kickin In (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH"
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And\u011bl\u00e9 A D\u00e9moni",
-        "url": "https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1"
-      },
-      "artists": [
-        {
-          "name": "DeFuckTo",
-          "url": "https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "And\u011bl\u00e9 A D\u00e9moni",
-      "url": "https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 191976,
       "name": "12",
       "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And\u011bl\u00e9 A D\u00e9moni",
+        "url": "https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1"
+      },
+      "artists": [
+        {
+          "name": "DeFuckTo",
+          "url": "https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "And\u011bl\u00e9 A D\u00e9moni",
+      "url": "https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4"
     }
   ],
   "unique_name": "This Is Kaliii",

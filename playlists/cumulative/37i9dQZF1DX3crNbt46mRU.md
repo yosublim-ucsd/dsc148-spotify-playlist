@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Joya Marleen
 
-13,397 songs - 27 day 21 hr 16 min
+13,400 songs - 27 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4482,6 +4482,7 @@
 | [Genauso](https://open.spotify.com/track/2qtOiHsh9FYFStwBf5GJVU) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd) | [Genauso](https://open.spotify.com/album/34Ava7glubUON4KbLM8EOh) | 3:21 | 2023-06-29 | 2023-07-07 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 | 2024-06-14 |
 | [GENGAR](https://open.spotify.com/track/67aZ6BmM33bI7yEcleZOgg) | [Sad Frosty](https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GENGAR](https://open.spotify.com/album/52E64Z2VwodPp5HXWiAp12) | 3:24 | 2022-06-30 | 2022-07-08 |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 |  |
 | [gensehaut](https://open.spotify.com/track/4hcuqPKZS9s8P9jyOamH0M) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [gensehaut](https://open.spotify.com/album/1JAdrZuesXk1mY6KVOEYyq) | 2:15 | 2023-08-31 | 2023-09-08 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-26 | 2022-06-03 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-10-13 |
@@ -4868,6 +4869,7 @@
 | [Görlitzer Park](https://open.spotify.com/track/1vmtFH7dyIFtZ9mJORUoJD) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Görlitzer Park](https://open.spotify.com/album/7rzYTVzmEvhH8OulBqNfxG) | 4:12 | 2023-09-21 | 2023-09-29 |
 | [Günah](https://open.spotify.com/track/0gg6um497HMniygW3lmYmB) | [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Günah](https://open.spotify.com/album/1T0QTKXP4tdpb7M4B1xblc) | 3:39 | 2023-08-24 | 2023-09-01 |
 | [H Spot \(with Yo Gotti\)](https://open.spotify.com/track/5Fo6k4jpGzg9540H26Ihjx) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [H Spot \(with Yo Gotti\)](https://open.spotify.com/album/54l2xBRFjR3A3xFeWJhrej) | 3:36 | 2022-04-21 | 2022-04-29 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 |  |
 | [H\-A\-P\-P\-Y](https://open.spotify.com/track/7jseeQmEFs7vp8pIQcXkaO) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Acting Funny](https://open.spotify.com/album/2kR4SRc4Fi7SpfmbNxEvFk) | 3:11 | 2023-03-24 | 2023-03-31 |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-28 | 2024-04-05 |
 | [Ha ha ha](https://open.spotify.com/track/7zOy88Gz28RDcmjuvYvpww) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Ha ha ha](https://open.spotify.com/album/4n0JjeU4YVH3jAKXHEOh8K) | 4:17 | 2023-08-03 | 2023-08-11 |
@@ -8376,6 +8378,7 @@
 | [Nightmares](https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nightmares](https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN) | 3:21 | 2023-09-28 | 2023-10-06 |
 | [Nightmares](https://open.spotify.com/track/6tXSj6MWL76ebA1vy4VfsN) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Nightmares](https://open.spotify.com/album/4A2vXbpOdWw7EiMUCDGHt1) | 2:29 | 2023-03-30 | 2023-04-07 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 | 2022-08-05 |
+| [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 | 2024-08-09 |  |
 | [Nightshapes](https://open.spotify.com/track/20Mb3OEO2GYuhvQ7mDmTXe) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [MotherEarth](https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x), [Tyoz](https://open.spotify.com/artist/5KR5DO4Ezn0QPcM5N9Ioms) | [Nightshapes](https://open.spotify.com/album/5pRg1T6q3JHehMmVAP8afy) | 3:25 | 2024-02-01 | 2024-02-09 |
 | [NIGHTSKY](https://open.spotify.com/track/2klQe8endxDimVdJs2qOQz) | [YUNG RVIDER](https://open.spotify.com/artist/0DbWokNZhtYlVBzXPqiMCw), [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [NIGHTSKY](https://open.spotify.com/album/7nP0rgLtZ4F7PwRyjf3zD5) | 2:55 | 2022-11-17 | 2022-11-25 |
 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 | 2022-09-01 | 2022-09-09 |

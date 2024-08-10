@@ -2,7 +2,7 @@
 
 ### [This Is Pabllo Vittar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3P9CWt)
 
-> This Is Pabllo Vittar\. Los temas esenciales, todos en una lista.
+> This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
 81 songs - 3 hr 51 min
 
@@ -11,7 +11,7 @@
 | [10/10](https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [PRISCILLA](https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik) | 2:16 | 2024-05-12 |  |
 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 | 2023-10-10 |  |
 | [AEIOU](https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [AEIOU](https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP) | 2:46 | 2023-10-10 | 2024-03-15 |
-| [After \- Filipe Guerra Remix](https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:28 | 2023-12-13 |  |
+| [After \- Filipe Guerra Remix](https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:28 | 2023-12-13 | 2024-08-10 |
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/2T87baR51cs7KbpppR7I1M) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:03 | 2024-08-06 |  |
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 | 2024-03-07 | 2024-04-25 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-06-30 |  |

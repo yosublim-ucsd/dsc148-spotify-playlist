@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover: Morgan Wallen",
+  "description": "The biggest hits in country music. Cover: Jelly Roll",
   "name": "All About Country",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 246398,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "better be tough",
+      "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+    },
+    {
+      "album": {
         "name": "Spillin' My Truth",
         "url": "https://open.spotify.com/album/3CIrUk11uNlcOVTX6e2t1r"
       },
@@ -1262,6 +1280,28 @@
       "duration_ms": 205578,
       "name": "Bone Dry",
       "url": "https://open.spotify.com/track/1FVmGsxJIOw1S3IhxuAfU3"
+    },
+    {
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148274,
+      "name": "Boots Don't",
+      "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
     },
     {
       "album": {
@@ -8983,6 +9023,24 @@
     },
     {
       "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+    },
+    {
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -9952,7 +10010,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152253,
       "name": "Small Town Somethin'",
       "url": "https://open.spotify.com/track/2PYiiO6tPLmuCqNH2sV7J6"
@@ -9992,6 +10050,28 @@
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
       "url": "https://open.spotify.com/track/4KxfeI9XB1BdKn4zlomB3R"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5dLEg3MZITafGfwzp65Qev"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147244,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
     },
     {
       "album": {
@@ -10260,7 +10340,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 300800,
       "name": "Song While You're Away (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
@@ -12896,7 +12976,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 206321,
       "name": "White Claw",
       "url": "https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg"

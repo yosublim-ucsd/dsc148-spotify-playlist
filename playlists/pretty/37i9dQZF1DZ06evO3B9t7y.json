@@ -1,12 +1,12 @@
 {
-  "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 936129,
+  "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
+  "num_followers": 936776,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA0oU3EbbaZ/BAEJhwzqnWN",
+  "snapshot_id": "ZrQKgAAAAADWtZ635s8LjliZzfOCFnRo",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 153785,
       "name": "Indispensable",
       "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "Nos Extra\u00f1o (En Vivo)",
-      "url": "https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -571,22 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Correcto",
-        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 168124,
-      "name": "El Correcto",
-      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
+      "duration_ms": 180857,
+      "name": "Nos Extra\u00f1o (En Vivo)",
+      "url": "https://open.spotify.com/track/0mCdGgntnPIE6RWueVSwyV"
     },
     {
       "added_at": null,
@@ -607,6 +587,26 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 174262,
-      "name": "Si una Vez - En Vivo",
-      "url": "https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 179200,
       "name": "Deja De Chingarme",
       "url": "https://open.spotify.com/track/6j8uzLF1cyZbfpg6HX10xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 174262,
+      "name": "Si una Vez - En Vivo",
+      "url": "https://open.spotify.com/track/1ZYPtJnVttoAT4O5rbTdCm"
     },
     {
       "added_at": null,

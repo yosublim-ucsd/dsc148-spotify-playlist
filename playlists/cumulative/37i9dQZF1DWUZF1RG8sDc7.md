@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-149 songs - 11 hr 31 min
+150 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Despues del Adios](https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Con Altura](https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM) | 5:09 | 2024-03-28 | 2024-07-03 |
 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 | 2024-03-28 |  |
 | [Dime Cómo Te Olvido](https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Sólo Clasicos](https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm) | 4:47 | 2024-03-28 | 2024-06-11 |
+| [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 | 2024-03-28 |  |
 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 | 2022-12-16 | 2024-04-19 |
 | [Dime que me quieres](https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 5:16 | 2022-12-16 | 2023-04-15 |
 | [Distintos Destinos](https://open.spotify.com/track/1jhTiq4t1DTQw2aK20EsL0) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto!](https://open.spotify.com/album/6hZqGtGURHXH1PBdZrwU4Z) | 3:39 | 2024-03-28 | 2024-07-29 |
@@ -108,7 +109,7 @@
 | [Olvídala](https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:04 | 2022-12-16 | 2024-04-19 |
 | [Olvídala](https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:04 | 2024-03-28 |  |
 | [Paro de Mi Corazon](https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD) | [Rudigo Vallenato](https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q) | [40 Vallenatos Poderosos](https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ) | 4:54 | 2024-03-28 |  |
-| [que bonito](https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [binomio de oro](https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8) | 4:54 | 2024-03-28 |  |
+| [que bonito](https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [binomio de oro](https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8) | 4:54 | 2024-03-28 | 2024-08-10 |
 | [Que Me Perdone](https://open.spotify.com/track/0W9BmcGUqOAjxwmNYq3Orp) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Víctor Reyes](https://open.spotify.com/artist/2SAOJkscpt6lG9tjWdrauo) | [La Combinacion Vallenata Vol\. 2](https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl) | 5:06 | 2022-12-16 | 2024-04-19 |
 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 | 2022-12-16 | 2024-04-19 |
 | [Que No Se enteren](https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Original](https://open.spotify.com/album/5mAgr3vB1Ma8mmpUDKRo4P) | 4:30 | 2022-12-16 |  |

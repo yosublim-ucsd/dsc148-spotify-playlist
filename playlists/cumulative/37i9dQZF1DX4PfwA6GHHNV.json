@@ -909,6 +909,32 @@
     },
     {
       "album": {
+        "name": "Elite",
+        "url": "https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202214,
+      "name": "Elite",
+      "url": "https://open.spotify.com/track/1ZkSqrikGhRosF1krrlRd3"
+    },
+    {
+      "album": {
         "name": "Em Mim",
         "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
@@ -1434,6 +1460,32 @@
       "duration_ms": 175922,
       "name": "Levado - Spotify Singles",
       "url": "https://open.spotify.com/track/15psePad9IL6X85xlyjzRh"
+    },
+    {
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219294,
+      "name": "Levante",
+      "url": "https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d"
     },
     {
       "album": {
@@ -2728,7 +2780,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 227655,
       "name": "SENEGIRL",
       "url": "https://open.spotify.com/track/2qJVnPeMcfxM3ZlgaBsLiQ"
@@ -3282,7 +3334,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200000,
       "name": "Wifi",
       "url": "https://open.spotify.com/track/2TFk8hcQ7aLErud6AbhKLo"

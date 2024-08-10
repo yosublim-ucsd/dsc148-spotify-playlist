@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Home to the best of South Asian Indie scene. Cover: Utsavi Jha",
+  "description": "Home to the best of South Asian Indie scene. Cover: Dhee",
   "name": "Desi Indie",
   "tracks": [
     {
@@ -2326,6 +2326,24 @@
       "duration_ms": 167202,
       "name": "I Could Save You",
       "url": "https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q"
+    },
+    {
+      "album": {
+        "name": "I Wear My Roots Like a Medal",
+        "url": "https://open.spotify.com/album/0KdlZrJbcxSlCYGpck5BDL"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210041,
+      "name": "I Wear My Roots Like a Medal",
+      "url": "https://open.spotify.com/track/4jNBqvDq5wPhE93fqYMuj0"
     },
     {
       "album": {

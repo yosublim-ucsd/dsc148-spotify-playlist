@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 572389,
+  "num_followers": 573195,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Blue Berries",
-        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        },
-        {
-          "name": "Tagmann",
-          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
-        }
-      ],
-      "duration_ms": 170008,
-      "name": "Blue Berries",
-      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Gimme That Bounce",
         "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 201500,
       "name": "Sierra",
       "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Es Vedr\u00e0",
+        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 197593,
+      "name": "Es Vedr\u00e0",
+      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "Lobster Telephone (Edit)",
         "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 234525,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "Es Vedr\u00e0",
-        "url": "https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 197593,
-      "name": "Es Vedr\u00e0",
-      "url": "https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Sunday Shoutin' (TSHA Remix)",
-        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Corporate",
-          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 216622,
-      "name": "Sunday Shoutin' - TSHA Remix",
-      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Bitch, Don't Kill My Vibe",
         "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 157558,
       "name": "Bitch, Don't Kill My Vibe",
       "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Sunday Shoutin' (TSHA Remix)",
+        "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Corporate",
+          "url": "https://open.spotify.com/artist/6A0j8wMkDZSYmChVs9m9e2"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 216622,
+      "name": "Sunday Shoutin' - TSHA Remix",
+      "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Love You Got",
         "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "She's In The Club (feat. Asal)",
-        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
-        }
-      ],
-      "duration_ms": 188011,
-      "name": "She's In The Club (feat. Asal)",
-      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "She's In The Club (feat. Asal)",
+        "url": "https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "duration_ms": 188011,
+      "name": "She's In The Club (feat. Asal)",
+      "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Talamanca (Carl Cox Remix)",
-        "url": "https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        }
-      ],
-      "duration_ms": 275076,
-      "name": "Talamanca - Carl Cox Remix",
-      "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Ballo",
         "url": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK"
       },
@@ -1943,30 +1923,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Sex & The City (MK Remix)",
-        "url": "https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e"
+        "name": "Talamanca (Carl Cox Remix)",
+        "url": "https://open.spotify.com/album/4UWvyZcVY2xOzXoWOetaSA"
       },
       "artists": [
         {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
         },
         {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Paul Johnson",
-          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
         }
       ],
-      "duration_ms": 187142,
-      "name": "Sex & The City - MK Remix",
-      "url": "https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt"
+      "duration_ms": 275076,
+      "name": "Talamanca - Carl Cox Remix",
+      "url": "https://open.spotify.com/track/4aFUd8Kilk401OLNMugJDg"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -2007,6 +1979,34 @@
       "duration_ms": 241768,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Sex & The City (MK Remix)",
+        "url": "https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Paul Johnson",
+          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 187142,
+      "name": "Sex & The City - MK Remix",
+      "url": "https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt"
     }
   ],
   "unique_name": "Ibiza 2024",

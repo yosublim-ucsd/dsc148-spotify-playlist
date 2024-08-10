@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,595 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,623 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 34 | [Metrosexual](https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Amandititita](https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7) | 3:16 |
 | 35 | [No Te Creas Tan Importante](https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Viru Kumbieron](https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3) | 4:10 |
 | 36 | [Bien Warrior \(feat\. DJ Krass\)](https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [DJ Krass](https://open.spotify.com/artist/0Ft52aTdmeD5N2ncuniI0d) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:42 |
-| 37 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
-| 38 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
+| 37 | [Castigo](https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Castigo](https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y) | 2:46 |
+| 38 | [No Te das Cuenta](https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [No Te das Cuenta](https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC) | 4:04 |
 | 39 | [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 |
 | 40 | [Nadie Me Verá Llorar](https://open.spotify.com/track/701OVMWIDtZl8dOOPFIxxR) | [Deborah Chauque](https://open.spotify.com/artist/3s6HY0BAcnK8OjIXQnfTle) | [Nadie Me Verá Llorar](https://open.spotify.com/album/3KlayH2RAAqKRB0s3gYrXS) | 3:10 |
 | 41 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 |
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 51 | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [ROMEA](https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1) | [Ke Ganas de No Verte Nunca Más](https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52) | 2:22 |
 | 52 | [Llévame](https://open.spotify.com/track/0cDY6YWjTuodhVZbMce478) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:53 |
 | 53 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
-| 54 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
+| 54 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
 | 55 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 56 | [No Te Irás](https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:42 |
-| 57 | [Si se fue, se fue](https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Pobre perro](https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc) | 4:22 |
+| 57 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
 | 58 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
 | 59 | [Lo Que Me Hizo Usted](https://open.spotify.com/track/7gKptykHNsZC1MHIF7wOJv) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Lo Que Me Hizo Usted](https://open.spotify.com/album/2sxMuWDDyA00O2X2HJ2HT5) | 3:58 |
 | 60 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
-| 61 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
-| 62 | [Quiero Que Escuches](https://open.spotify.com/track/1MVxhslgnnGWUt3pWaQM2O) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Quiero Que Escuches](https://open.spotify.com/album/3qUrYi8m4uIyuYZOvIvJu7) | 2:51 |
-| 63 | [Amor Tóxico](https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor Tóxico](https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF) | 4:07 |
+| 61 | [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 |
+| 62 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
+| 63 | [Quiero Que Escuches](https://open.spotify.com/track/1MVxhslgnnGWUt3pWaQM2O) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Quiero Que Escuches](https://open.spotify.com/album/3qUrYi8m4uIyuYZOvIvJu7) | 2:51 |
 | 64 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
 | 65 | [Vas a Llorar](https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Vas a Llorar](https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK) | 3:24 |
 

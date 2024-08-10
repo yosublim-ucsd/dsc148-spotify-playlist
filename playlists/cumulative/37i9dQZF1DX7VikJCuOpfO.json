@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar, Alex Fern\u00e1ndez",
   "name": "Mariachi 2024",
   "tracks": [
     {
@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2EJtZFG7Wge8koHgxGvJPk"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Le Hago Pa Olvidar",
         "url": "https://open.spotify.com/album/0E6407TBrhZTHyx6EgX6kO"
       },
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
@@ -2614,6 +2636,24 @@
       "duration_ms": 335666,
       "name": "Hoy Te Manifiesto - En Vivo",
       "url": "https://open.spotify.com/track/2UQ5SfMKJHuSTc3lKu5PnD"
+    },
+    {
+      "album": {
+        "name": "H\u00e1gale",
+        "url": "https://open.spotify.com/album/4qGfy9AOX8JYVbc8S3FoVC"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167916,
+      "name": "H\u00e1gale",
+      "url": "https://open.spotify.com/track/1QLqw6Qet3NaNJK4r2ZWOe"
     },
     {
       "album": {
@@ -3978,7 +4018,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226160,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/0d0dsknspK8uxPWTGXuOBH"
@@ -4140,7 +4180,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 124426,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/0c25Xv2LEYmRoAqmKUB9VA"
@@ -6380,6 +6420,24 @@
       "duration_ms": 229343,
       "name": "Soy de Parral - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6hG3rVEhKz5R9jnM49ksWl"
+    },
+    {
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF"
+      },
+      "artists": [
+        {
+          "name": "Edgar Alejandro",
+          "url": "https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL"
     },
     {
       "album": {

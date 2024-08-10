@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 2Ectasy",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LIL X",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 240000,
       "name": "CLOSE YOUR EYES",
       "url": "https://open.spotify.com/track/4fQqqRnfKYy3sbXu0CjfP2"
@@ -858,6 +858,28 @@
       "duration_ms": 237000,
       "name": "Designer",
       "url": "https://open.spotify.com/track/1gvVMxPKjNVnUQ4Oc9uKOU"
+    },
+    {
+      "album": {
+        "name": "DGAF (Don't give a f*ck)",
+        "url": "https://open.spotify.com/album/3KPfp2noxS3DjY2kPerC2K"
+      },
+      "artists": [
+        {
+          "name": "LAZYHOLIC",
+          "url": "https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA"
+        },
+        {
+          "name": "BILLYLOBBY",
+          "url": "https://open.spotify.com/artist/6LamLZk3Nx0YhDteGcP4U0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "DGAF (Don't give a f*ck)",
+      "url": "https://open.spotify.com/track/6PICq9cKhrSxoXkGZbe6JP"
     },
     {
       "album": {
@@ -2646,7 +2668,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180837,
       "name": "NOBODY CARES",
       "url": "https://open.spotify.com/track/03mv4FBSZ2o3uhwtv9I7c0"
@@ -3355,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "So Proud of You",
+        "url": "https://open.spotify.com/album/0lNjorOlg21AoFUNtcIWFW"
+      },
+      "artists": [
+        {
+          "name": "LIL X",
+          "url": "https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166158,
+      "name": "So Proud of You",
+      "url": "https://open.spotify.com/track/1rmyCxU7a3MxBFs6e0UDFL"
+    },
+    {
+      "album": {
         "name": "DREAMGALS",
         "url": "https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB"
       },
@@ -3570,6 +3610,32 @@
       "duration_ms": 146795,
       "name": "Super Sonic",
       "url": "https://open.spotify.com/track/0Qk7ci883lIctKtFKtyIb3"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2NpWD0AzrjTUuK6qWFdcWa"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9jizz",
+          "url": "https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY"
+        },
+        {
+          "name": "Subnet",
+          "url": "https://open.spotify.com/artist/0BXtjAzsXGrxBEJiFkOuFj"
+        },
+        {
+          "name": "SELBY MG",
+          "url": "https://open.spotify.com/artist/6uJSnhhDeqy1XxtaOE246A"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5t76ZbsYMOgCTX4iTSPHSq"
     },
     {
       "album": {
@@ -3854,7 +3920,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158848,
       "name": "WAT U WANT",
       "url": "https://open.spotify.com/track/55fd8tvjN8u4uYqxA9yuAR"
@@ -5886,7 +5952,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 193695,
       "name": "\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e21\u0e2d\u0e07\u0e40\u0e2b\u0e47\u0e19 ( mute )",
       "url": "https://open.spotify.com/track/3Hm4US0LWWPha36RSMMxDO"
@@ -6772,7 +6838,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 210461,
       "name": "\u0e25\u0e1a",
       "url": "https://open.spotify.com/track/1Ir5kQNPvA5FS7LMJdTeuE"
@@ -7658,6 +7724,24 @@
       "duration_ms": 169000,
       "name": "\u0e40\u0e0a\u0e49\u0e32 5 \u0e40\u0e22\u0e47\u0e19 5",
       "url": "https://open.spotify.com/track/08WcvPwFMCEV15XtLwTIb2"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/0Avg9qQ7xTwX4u8vVa53W3"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/6I3uW7nIPFAnx5NImWRYtz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Opeth on top of today's best Metal playlist.",
+  "description": "Make Them Suffer on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 192092,
       "name": "A Shot in the Dark",
       "url": "https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N"
+    },
+    {
+      "album": {
+        "name": "A White Horse Covered In Blood",
+        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "A White Horse Covered In Blood",
+      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
     },
     {
       "album": {
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 215169,
       "name": "Caught in the Treads",
       "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169553,
       "name": "Cut Me Open",
       "url": "https://open.spotify.com/track/0XrjH7Y2BBPCV58EnrcUPS"
@@ -3604,10 +3622,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 330941,
       "name": "Dreadbringer",
       "url": "https://open.spotify.com/track/4IjuJAVn8Hd71r2Ja2371A"
+    },
+    {
+      "album": {
+        "name": "Dream Stealer",
+        "url": "https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
     },
     {
       "album": {
@@ -3908,7 +3944,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 217026,
       "name": "Epitaph",
       "url": "https://open.spotify.com/track/3zABOvRWEmMhtoyRqUawVS"
@@ -5453,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "Hosting the Shadow (feat. Randy Blythe)",
+        "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261213,
+      "name": "Hosting the Shadow (feat. Randy Blythe)",
+      "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
+    },
+    {
+      "album": {
         "name": "House of Mirrors",
         "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
       },
@@ -5932,7 +5990,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 213000,
       "name": "In The Mean Time (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
@@ -7893,6 +7951,24 @@
     },
     {
       "album": {
+        "name": "Dark Superstition",
+        "url": "https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191180,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6Bs4bgfIsNZOuREbHdjmyW"
+    },
+    {
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY"
       },
@@ -8110,6 +8186,42 @@
       "duration_ms": 280701,
       "name": "Orphan",
       "url": "https://open.spotify.com/track/0P9Qos8So9CvtFPjgQq3Ns"
+    },
+    {
+      "album": {
+        "name": "Incarnation",
+        "url": "https://open.spotify.com/album/7tbIYPZtSjE02oMgCiJuoK"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221948,
+      "name": "Orphan (l\u1d09\u028c\u01ddp \u01dd\u0265\u0287)",
+      "url": "https://open.spotify.com/track/2d4rcmxMzHFQVXqScV3OzK"
+    },
+    {
+      "album": {
+        "name": "Oscillator",
+        "url": "https://open.spotify.com/album/4T7ufJRwjYShYW2jhf22qW"
+      },
+      "artists": [
+        {
+          "name": "Make Them Suffer",
+          "url": "https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240786,
+      "name": "Oscillator",
+      "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
     },
     {
       "album": {
@@ -10057,6 +10169,24 @@
     },
     {
       "album": {
+        "name": "Someone's Daughter",
+        "url": "https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257396,
+      "name": "Someone's Daughter",
+      "url": "https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO"
+    },
+    {
+      "album": {
         "name": "Who Are You When No One Is Watching?",
         "url": "https://open.spotify.com/album/5wrkIue3cXCux4doh1vEwM"
       },
@@ -11009,6 +11139,24 @@
     },
     {
       "album": {
+        "name": "The Day Of...",
+        "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "The Day Of...",
+      "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -11204,7 +11352,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190487,
       "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
       "url": "https://open.spotify.com/track/2KKH6FyUo1h6Cj2AEtukjR"

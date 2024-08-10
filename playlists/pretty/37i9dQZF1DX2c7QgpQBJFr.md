@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 MATILDE e Germo67 in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,731 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,735 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

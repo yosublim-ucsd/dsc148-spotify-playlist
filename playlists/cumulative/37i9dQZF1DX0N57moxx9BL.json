@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:4uOFEWy9mIcvQbr03IbPcL\">Manafest</a> ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:49bzE5vRBRIota4qeHtQM8\">Skillet</a> ",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 260160,
       "name": "End of Days",
       "url": "https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU"
@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/4yDwvBvyGwL7skNIn2Lu4S"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241716,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/6eNbYuESSfERAqrOYLeI8y"
+    },
+    {
+      "album": {
         "name": "Death By Admiration",
         "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
@@ -1669,6 +1687,28 @@
     },
     {
       "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/3biVnabt12iMMpVIQXh6jG"
+      },
+      "artists": [
+        {
+          "name": "The Rock Music",
+          "url": "https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk"
+        },
+        {
+          "name": "Skyler Murray",
+          "url": "https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261965,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/0nAN6wiyy71swNbb0ece0j"
+    },
+    {
+      "album": {
         "name": "In Defiance",
         "url": "https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5"
       },
@@ -1764,7 +1804,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 234342,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs"
@@ -2374,7 +2414,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224388,
       "name": "Radio Gaga",
       "url": "https://open.spotify.com/track/5iU2UE9Z4GXVczPymFbT6A"
@@ -2782,7 +2822,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 238870,
       "name": "Surviving The Game",
       "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
@@ -2822,6 +2862,28 @@
       "duration_ms": 214315,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+    },
+    {
+      "album": {
+        "name": "Territory (Live)",
+        "url": "https://open.spotify.com/album/0Oad5xd6MTpOFtnGaMfT7N"
+      },
+      "artists": [
+        {
+          "name": "NewSpring Worship",
+          "url": "https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM"
+        },
+        {
+          "name": "Bridget Vogel",
+          "url": "https://open.spotify.com/artist/49HMsq4DjUJjOX7NsSI72L"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215862,
+      "name": "Territory (Live)",
+      "url": "https://open.spotify.com/track/131WRsWLJNbTVkzTt4UYvH"
     },
     {
       "album": {
@@ -3103,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Unpopular",
+        "url": "https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185553,
+      "name": "Unpopular",
+      "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
+    },
+    {
+      "album": {
         "name": "Vice",
         "url": "https://open.spotify.com/album/0FjbxhgXFOBqrHxPXTjFYu"
       },
@@ -3370,7 +3450,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182068,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2"

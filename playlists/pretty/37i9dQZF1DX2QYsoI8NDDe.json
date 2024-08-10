@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
-  "num_followers": 488297,
+  "num_followers": 488308,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
         "name": "Tengo Mal Gusto",
         "url": "https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK"
       },
@@ -1103,6 +1103,38 @@
       "duration_ms": 148578,
       "name": "Tengo Mal Gusto",
       "url": "https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
+        "name": "Fumar Beber",
+        "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        },
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "Fumar Beber",
+      "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -1123,22 +1155,6 @@
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     }
   ],
   "unique_name": "Las Chacalosas",

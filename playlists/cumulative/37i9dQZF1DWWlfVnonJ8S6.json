@@ -588,7 +588,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135262,
       "name": "Chand Si Mehbooba Ho Meri - LoFi",
       "url": "https://open.spotify.com/track/7eptB77tgnyUA93woRdFMo"
@@ -818,6 +818,24 @@
       "duration_ms": 198857,
       "name": "Dil Ibaadat - Lofi Flip",
       "url": "https://open.spotify.com/track/16cuM5q46CqebnhdRB1nQG"
+    },
+    {
+      "album": {
+        "name": "Dil Lagi (Lo-Fi)",
+        "url": "https://open.spotify.com/album/0Ts6ikT08JWhNgIAQq70w2"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277443,
+      "name": "Dil Lagi (Lo-Fi)",
+      "url": "https://open.spotify.com/track/4dXnzRZ5ii99ZYaw8gUiu6"
     },
     {
       "album": {
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 141955,
       "name": "Woh Lamhe Woh Baatein - LoFi",
       "url": "https://open.spotify.com/track/5nm8oiPHEZTdFjFPiZakje"
@@ -4516,6 +4534,32 @@
       "duration_ms": 141955,
       "name": "Woh Lamhe Woh Baatein - LoFi",
       "url": "https://open.spotify.com/track/4YcGrrbJ5of8MHzLFRPNRb"
+    },
+    {
+      "album": {
+        "name": "Woh Lamhe Woh Baatein (Lofi Flip \\ From \"Zeher\")",
+        "url": "https://open.spotify.com/album/2rBpNK23IE9BRriNr8IMz4"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "VIBIE",
+          "url": "https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217150,
+      "name": "Woh Lamhe Woh Baatein - Lofi Flip \\ From \"Zeher\"",
+      "url": "https://open.spotify.com/track/59MXlcHNtAftyqI39eAvqi"
     },
     {
       "album": {

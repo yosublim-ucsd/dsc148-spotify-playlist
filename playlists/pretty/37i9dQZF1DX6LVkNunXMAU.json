@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 58101,
+  "num_followers": 58107,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 215931,
-      "name": "Dos Hemisferios",
-      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Me Gustas Tanto (Remix)",
         "url": "https://open.spotify.com/album/76AkbUyhoc5LgqeroxLXw4"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 208213,
       "name": "Me Gustas Tanto - Remix",
       "url": "https://open.spotify.com/track/6cJfur2fUVukLfgZdDJbAC"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 215931,
+      "name": "Dos Hemisferios",
+      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Metal",
-        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Jorcin",
-          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         }
       ],
-      "duration_ms": 175408,
-      "name": "Coraz\u00f3n de Metal",
-      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -723,6 +727,42 @@
       "duration_ms": 204241,
       "name": "Track Track",
       "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Metal",
+        "url": "https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Jorcin",
+          "url": "https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "Coraz\u00f3n de Metal",
+      "url": "https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -763,26 +803,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
-      },
-      "artists": [
-        {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        },
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "el gil",
         "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
-      },
-      "artists": [
-        {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
-      },
-      "artists": [
-        {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
-        }
-      ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Fin De Los Tiempos",
         "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 234625,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+      },
+      "artists": [
+        {
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Tampoco Poco",
         "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 214736,
       "name": "Un Espejismo",
       "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "En una",
-        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 219647,
-      "name": "En una",
-      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Lo Que Hicimos",
         "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "En una",
+        "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 219647,
+      "name": "En una",
+      "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Un Nuevo Ritmo",
         "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 213164,
       "name": "Un Nuevo Ritmo",
       "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 170353,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2024-04-12 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > enciende la llama de la pasión con El Mali 😈🥂🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,801 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,870 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 | 74 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 75 | [Sobredosis](https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:09 |
 | 76 | [Perro](https://open.spotify.com/track/1nCaAzzJF2ah2AnBwD1qIx) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Sir Speedy](https://open.spotify.com/artist/3gkGhLkCTEmfGy095Wum3s), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Perro](https://open.spotify.com/album/2MyAcxF2NMKaz6YEpgZ5oB) | 4:48 |
-| 77 | [La Bebe \- Remix](https://open.spotify.com/track/5Sb0EXDlZGms2pi7iN1Pme) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Diviértete](https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf) | 3:54 |
+| 77 | [La Bebe \- Remix](https://open.spotify.com/track/5Sb0EXDlZGms2pi7iN1Pme) | [Yng Lvcas](https://open.spotify.com/artist/4TIFgXNXb9MATCs3fGZqVX), [Peso Pluma](https://open.spotify.com/artist/6PgXQpgN2FWTON10WE4jCa) | [Diviértete](https://open.spotify.com/album/39z6PNTj66HNLXdJyN0Iwf) | 3:54 |
 | 78 | [Mi Religión](https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:57 |
 | 79 | [Tentación](https://open.spotify.com/track/5oBHAOpcBlYEgqiJk5brmW) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [Tentación](https://open.spotify.com/album/7GX4Co9D39IqrAbW86BGgH) | 3:46 |
 | 80 | [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 |

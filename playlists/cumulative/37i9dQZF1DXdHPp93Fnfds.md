@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Girl Ultra.
 
-581 songs - 1 day 9 hr 1 min
+582 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Mercurio](https://open.spotify.com/track/4A6Xvi8gu5xBDw8oKrintA) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Mercurio](https://open.spotify.com/album/11o8WvVx0QdodULqx6bmYY) | 2:03 | 2023-08-18 | 2023-09-26 |
 | [Mi Barrio](https://open.spotify.com/track/5akQjeg228NBrfq61qHnmK) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Mi Barrio](https://open.spotify.com/album/6nUeKwD9qcF2Xe0ISUB6ys) | 2:42 | 2022-05-20 | 2022-07-28 |
 | [Mi Casa](https://open.spotify.com/track/4JwYIRa4hdXJfXhmzzST5E) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [Mi Casa](https://open.spotify.com/album/6iFtUllX7WuymOx05Kmlg3) | 4:01 | 2022-02-11 | 2022-07-26 |
-| [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 | 2022-01-21 |  |
+| [Mi Corazón y Yo](https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Mi Corazón y Yo](https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5) | 2:58 | 2022-01-21 | 2024-08-10 |
 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 | 2022-07-08 | 2022-07-15 |
 | [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 | 2022-01-21 | 2022-07-20 |
 | [Miedo](https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Miedo](https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF) | 3:00 | 2022-04-01 | 2022-06-29 |
@@ -473,6 +473,7 @@
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 | 2022-11-06 |
 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 | 2023-10-05 | 2023-12-11 |
 | [San Camilo](https://open.spotify.com/track/311A2rODtSCuXld6Uyj4TQ) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Recordar/ Volver a pasar](https://open.spotify.com/album/1QLUvdWhyHNrIN2I3Jc9ZR) | 4:22 | 2023-07-07 | 2023-09-02 |
+| [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 | 2024-08-02 |  |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-01 | 2022-04-28 |
 | [Se Veía Venir](https://open.spotify.com/track/66beGFF4xXL7U8cwJASEj0) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Se Veía Venir](https://open.spotify.com/album/7hWv3HzsI7iGsCnDjo9Ovb) | 3:00 | 2022-01-21 | 2022-07-26 |
 | [Secretos](https://open.spotify.com/track/1NdnraK92SRP3xp54zJbum) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Amala](https://open.spotify.com/album/3yiIXKQwT5SN7RmOP2Xnkn) | 6:43 | 2022-04-01 | 2022-07-05 |

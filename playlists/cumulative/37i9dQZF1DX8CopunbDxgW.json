@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: TOKiMONSTA",
+  "description": "The best indie dance tracks of the moment. Cover: The Dare",
   "name": "metropolis",
   "tracks": [
     {
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219537,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
@@ -1854,6 +1854,24 @@
       "duration_ms": 188000,
       "name": "Awesome Ways",
       "url": "https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m"
+    },
+    {
+      "album": {
+        "name": "Baby Dragon",
+        "url": "https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207217,
+      "name": "Baby Dragon",
+      "url": "https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B"
     },
     {
       "album": {
@@ -2880,7 +2898,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 298425,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX"
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 252266,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh"
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 301000,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/3fll9dlWXC29WZU5deUIKs"
@@ -8488,6 +8506,24 @@
       "duration_ms": 244200,
       "name": "Fifty Dollar Bills - Radio Edit",
       "url": "https://open.spotify.com/track/4eq4VBEwadzlg03vA0JI6m"
+    },
+    {
+      "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/2NUAVm5hnaZN42fPjQcin8"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313750,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/0FQu568m5iyA0hmF9NMjLq"
     },
     {
       "album": {
@@ -11629,6 +11665,28 @@
     },
     {
       "album": {
+        "name": "How You Mad at Me?",
+        "url": "https://open.spotify.com/album/7G5Bsx0hQ9ydpv8EO7m8kN"
+      },
+      "artists": [
+        {
+          "name": "Love Language",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "How You Mad At Me?",
+      "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
+    },
+    {
+      "album": {
         "name": "Girl In The Half Pearl",
         "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
       },
@@ -12504,6 +12562,32 @@
       "duration_ms": 180828,
       "name": "If You Love Her - Fellini F\u00e9lin Remix",
       "url": "https://open.spotify.com/track/4ayhn2zWzj5U0rExzktQgY"
+    },
+    {
+      "album": {
+        "name": "If You Need Me",
+        "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166341,
+      "name": "If You Need Me",
+      "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
     },
     {
       "album": {
@@ -21919,6 +22003,28 @@
     },
     {
       "album": {
+        "name": "shine",
+        "url": "https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144304,
+      "name": "shine",
+      "url": "https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc"
+    },
+    {
+      "album": {
         "name": "Shine Love In",
         "url": "https://open.spotify.com/album/5cITFIW9CxttK24F0wyWXn"
       },
@@ -21934,7 +22040,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189293,
       "name": "Shine Love In",
       "url": "https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0"
@@ -23529,6 +23635,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/1ERvxD2WEsZKdDoDgHhmFB"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266793,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/0Yi6JO54MOb65Gerl4b22J"
+    },
+    {
+      "album": {
         "name": "Studio 54",
         "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
       },
@@ -24448,7 +24572,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 214500,
       "name": "The Afterparty - Disco Version",
       "url": "https://open.spotify.com/track/7zA31bgrzPaDXbmrKViL9b"
@@ -27298,7 +27422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195812,
       "name": "WE COULD BE",
       "url": "https://open.spotify.com/track/5GkPPp1nBA28G4LSrj1DVe"
@@ -28354,6 +28478,24 @@
       "duration_ms": 199866,
       "name": "You're Gone",
       "url": "https://open.spotify.com/track/21IKKtBdq0Pr0awJRFlLJ6"
+    },
+    {
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152348,
+      "name": "You're Invited",
+      "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"
     },
     {
       "album": {

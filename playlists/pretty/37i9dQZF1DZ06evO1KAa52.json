@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 632243,
+  "num_followers": 632404,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA3ZJRWz0zLNNoI6rc0Dfa+",
+  "snapshot_id": "ZrQKgAAAAADXJ3TVI4YZIZ3xm/zJgyLf",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man of the Woods",
-        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 278893,
-      "name": "Say Something (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3D (Justin Timberlake Remix)",
         "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man of the Woods",
+        "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 278893,
+      "name": "Say Something (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FutureSex/LoveSounds",
         "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 252973,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "LoveStoned / I Think She Knows (Interlude)",
+      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turtleneck & Chain (Explicit Version)",
         "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 169506,
       "name": "Motherlover",
       "url": "https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "LoveStoned / I Think She Knows (Interlude)",
-      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
     },
     {
       "added_at": null,

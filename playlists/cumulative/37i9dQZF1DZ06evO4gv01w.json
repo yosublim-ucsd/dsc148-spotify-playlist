@@ -614,10 +614,28 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 272399,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
+    },
+    {
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "album": {
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/604I2KSZvAA3fjbZpAbJ5v"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/7MUvUiKIp9eAJ8C9QZxpsq"

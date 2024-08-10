@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
-  "num_followers": 39370,
+  "num_followers": 39383,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Gabinete De Curiosidades",
         "url": "https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 195758,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Andrea Echeverri",
         "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 193000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Fin del Mundo",
+      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 169398,
-      "name": "Clav\u00edcula",
-      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "De Facto",
         "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Clav\u00edcula",
+      "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
         "name": "Tigre Ulli",
         "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 127600,
       "name": "Postales Blancas",
       "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 236890,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 236890,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Igual",
         "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
-        "name": "Lucy Patan\u00e9",
-        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 246594,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -867,6 +851,38 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
         "name": "EL MUNDO PEQUE\u00d1O",
         "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 147772,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Cosa M\u00eda",
-        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Cosa M\u00eda",
-      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Volar despierto",
         "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 246357,
       "name": "Volar despierto",
       "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Cosa M\u00eda",
+        "url": "https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Cosa M\u00eda",
+      "url": "https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Batalla Naval",
         "url": "https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 230988,
       "name": "Cuando el sol est\u00e1 as\u00ed",
       "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
+        }
+      ],
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Hora de No Ver",
         "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 191559,
       "name": "Morir\u00edan",
       "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Mi Voz",
-        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
+        "name": "Rompe Paga",
+        "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Blanco Teta",
+          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
         }
       ],
-      "duration_ms": 192286,
-      "name": "Mi Voz",
-      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+      "duration_ms": 182400,
+      "name": "Perro",
+      "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Rompe Paga",
-        "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
+        "name": "Mi Voz",
+        "url": "https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG"
       },
       "artists": [
         {
-          "name": "Blanco Teta",
-          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Perro",
-      "url": "https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P"
+      "duration_ms": 192286,
+      "name": "Mi Voz",
+      "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
-        "name": "Juego",
-        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Juego",
-      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
         "name": "Primera Temporada",
         "url": "https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2024-08-02 20:42:26",
       "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
         "name": "Arder",
         "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
@@ -1591,22 +1591,6 @@
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
-    },
-    {
-      "added_at": "2024-08-02 20:42:26",
-      "album": {
-        "name": "Dentro",
-        "url": "https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/4597p3R2HZ24bvpussazH9"
     },
     {
       "added_at": "2024-08-02 20:42:26",
@@ -1639,6 +1623,22 @@
       "duration_ms": 293160,
       "name": "Voy a Dejar Esta Casa Pap\u00e1",
       "url": "https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel"
+    },
+    {
+      "added_at": "2024-08-02 20:42:26",
+      "album": {
+        "name": "La Piel Dura",
+        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
+      },
+      "artists": [
+        {
+          "name": "She Devils",
+          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "No Importa",
+      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
     }
   ],
   "unique_name": "Rockeras",

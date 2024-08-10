@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > ESHYAY CUZ!!! It's the spot for AUS & NZ Rap\. Cover: Hooligan Hefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,330 likes - 95 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,336 likes - 95 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

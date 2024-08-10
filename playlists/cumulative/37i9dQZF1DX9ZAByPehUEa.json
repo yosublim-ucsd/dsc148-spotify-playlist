@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "AIN'T NOBODY",
       "url": "https://open.spotify.com/track/5WikCHR54A4ZJBkUOwgiMm"
@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "Baciami",
+        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Produkkt",
+          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
+        },
+        {
+          "name": "Giorgi",
+          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176063,
+      "name": "Baciami",
+      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+    },
+    {
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -894,7 +920,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "BONKERS",
       "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
@@ -1058,7 +1084,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159072,
       "name": "Celebration",
       "url": "https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4"
@@ -1514,7 +1540,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 221397,
       "name": "Det l\u00e4cker - Sebastian Furrer Edit",
       "url": "https://open.spotify.com/track/1ixA4PqNk3745oLPMiqmVW"
@@ -1646,7 +1672,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 170078,
       "name": "Disco Slammer",
       "url": "https://open.spotify.com/track/6xYXGRLxgs0yFJIGVDT9gj"
@@ -1880,6 +1906,24 @@
       "duration_ms": 220297,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/2tOBWr8LizDOl2pPDOdzyY"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Be Alone",
+        "url": "https://open.spotify.com/album/5i3swkwSfi3mhTDbTMdHsz"
+      },
+      "artists": [
+        {
+          "name": "Skogsberg & Akdogan",
+          "url": "https://open.spotify.com/artist/3rqYcASBrt3Ss8sQqpQf4a"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Don't Wanna Be Alone",
+      "url": "https://open.spotify.com/track/6P68mrx6JfMUsLeeBwKnAe"
     },
     {
       "album": {
@@ -2650,7 +2694,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
@@ -2788,7 +2832,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 213815,
       "name": "Glitter Fonk",
       "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
@@ -3578,7 +3622,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
@@ -3680,10 +3724,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 147086,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
+    },
+    {
+      "album": {
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/4sAazfQLbUNFcq3e5hAKwU"
+      },
+      "artists": [
+        {
+          "name": "Stretch & Vern",
+          "url": "https://open.spotify.com/artist/5lekDOvlVK844FamyTlPgl"
+        },
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/5F9rZa65ePNd3HZFkavre7"
     },
     {
       "album": {
@@ -3888,7 +3954,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 296266,
       "name": "IOU",
       "url": "https://open.spotify.com/track/3OEWZY77qDUspVdfYGxjDT"
@@ -3960,7 +4026,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 288280,
       "name": "Je Vulesse",
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
@@ -4018,6 +4084,24 @@
       "duration_ms": 445728,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4xZiMHRjnkQJM71MJ8qHlx"
+    },
+    {
+      "album": {
+        "name": "Just Try It",
+        "url": "https://open.spotify.com/album/5E2gTX99i8y5GSrUtj5QGi"
+      },
+      "artists": [
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "Just Try It",
+      "url": "https://open.spotify.com/track/6PMQSn5rYo1wc0vk8b6cPR"
     },
     {
       "album": {
@@ -4094,7 +4178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179545,
       "name": "Keep on Dancing",
       "url": "https://open.spotify.com/track/4V2VQw0BmvWCXv4WxrT7rC"
@@ -4258,7 +4342,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 273296,
       "name": "La La Tune",
       "url": "https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy"
@@ -4589,6 +4673,32 @@
     },
     {
       "album": {
+        "name": "Lights Out (The Reflex Revision)",
+        "url": "https://open.spotify.com/album/4AiroA1jURpwNI0OF683Ar"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "The Reflex",
+          "url": "https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210086,
+      "name": "Lights Out - The Reflex Revision",
+      "url": "https://open.spotify.com/track/6qbwgXEWAa5d3eNQQpYTha"
+    },
+    {
+      "album": {
         "name": "Walk Dance Talk Sing",
         "url": "https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J"
       },
@@ -4749,6 +4859,28 @@
     },
     {
       "album": {
+        "name": "Lost (Gerd Janson Edit)",
+        "url": "https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ"
+      },
+      "artists": [
+        {
+          "name": "Mute",
+          "url": "https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210700,
+      "name": "Lost - Gerd Janson Edit",
+      "url": "https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g"
+    },
+    {
+      "album": {
         "name": "Lost In Space (feat. SG Lewis)",
         "url": "https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC"
       },
@@ -4764,7 +4896,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143946,
       "name": "Lost In Space (feat. SG Lewis)",
       "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
@@ -5036,7 +5168,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Loving You So Bad",
       "url": "https://open.spotify.com/track/0dOgI06dl4clN7SNUJgvqF"
@@ -6630,7 +6762,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -6702,7 +6834,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224865,
       "name": "Pretty Girl Era - Super Disco Mix",
       "url": "https://open.spotify.com/track/6AXNXza0OnkcpL1eZRDRFB"
@@ -7464,7 +7596,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163294,
       "name": "Sky's the Limit - Edit",
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
@@ -8524,7 +8656,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"
@@ -8542,7 +8674,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"

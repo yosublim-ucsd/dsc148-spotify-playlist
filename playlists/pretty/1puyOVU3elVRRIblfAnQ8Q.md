@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,796 likes - 61 songs - 3 hr 22 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,800 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,9 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 59 | [Erotica](https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Erotica](https://open.spotify.com/album/7HDr5VKcImOdCCENS9WatP) | 2:55 |
 | 60 | [Scared](https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Scared](https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0) | 4:03 |
 | 61 | [The Blade](https://open.spotify.com/track/2ZeV6RMdHIdNIqermL9IcU) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Paradise](https://open.spotify.com/album/1Bmtl3EGSjm4ymczWv88PX) | 3:36 |
+| 62 | [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 |
+| 63 | [Scarlets](https://open.spotify.com/track/6TmO7QenMDNG6jTTaXxEY0) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 3:46 |
+| 64 | [Endeavors](https://open.spotify.com/track/4csuDCOgWqTL7YznSqKEsK) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:16 |
+| 65 | [Coldburst](https://open.spotify.com/track/6nkMdVcY08yNjPhgCXWGJz) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 3:15 |
 
-Snapshot ID: `AAAXESq3SSAMNaWec20h09c1TwJUBn+T`
+Snapshot ID: `AAAXFWjcfp158r5jTJss5RbzuJjibnVQ`

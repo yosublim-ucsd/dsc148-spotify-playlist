@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,621 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,494 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 8 | [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 |
 | 9 | [to bem](https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Ontem Eu Tinha Certeza \(Hoje Eu Tenho Mais\)](https://open.spotify.com/album/20tdkGDqEJFZJs6TYEqifo) | 2:35 |
 | 10 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 |
-| 11 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 |
-| 12 | [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 |
+| 11 | [pausa da sua tristeza](https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [FETICHE](https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol) | 3:13 |
+| 12 | [Praia do Rosa](https://open.spotify.com/track/3I3i2hPuJfsRLjlNpMB3Hf) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Dentro de Um Pra Sempre](https://open.spotify.com/album/08iFkrBPToLgMmI78o7W5M) | 2:35 |
 | 13 | [No Particular](https://open.spotify.com/track/1ZfWqYG2avyXoJhhr8nn80) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [No Particular](https://open.spotify.com/album/4oKi1WuKiJ6JhwIvsQW8Nt) | 2:51 |
 | 14 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 |
 | 15 | [Vira E Mexe](https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Vira E Mexe](https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `ZqzLwAAAAABSLHN1YqbMVAgRyDGrOM1T`
+Snapshot ID: `ZrYo/gAAAADWA/aWyqObosPF0Q579D7H`

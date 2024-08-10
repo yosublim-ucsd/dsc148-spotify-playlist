@@ -4,7 +4,7 @@
 
 > did your boots start working?
 
-58 songs - 3 hr 24 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Cha Cha Slide](https://open.spotify.com/track/2qYBZY6bR7l52BGhkBSk9O) | [Mr\. C](https://open.spotify.com/artist/4KKEvADkhfVx3BpYJyezZr) | [Mr\. C Presents The Cha\-cha Slide Greatest Hits](https://open.spotify.com/album/4ZyYh0YDaUHwD8fAEcw0dM) | 3:42 | 2024-04-02 |  |
 | [Country Girl \(Shake It For Me\)](https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:45 | 2024-04-02 |  |
 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 | 2024-04-02 |  |
-| [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 | 2024-04-02 |  |
+| [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 | 2024-04-02 | 2024-08-10 |
 | [Dirrty \(feat\. Redman\)](https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:58 | 2024-04-02 |  |
 | [Don't Tell Me](https://open.spotify.com/track/7DOtIhTTpPZyjvbO509hSC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 4:40 | 2024-04-02 |  |
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2024-04-02 |  |
@@ -64,6 +64,7 @@
 | [Whose Bed Have Your Boots Been Under? \- Radio Edit / Remastered 2023](https://open.spotify.com/track/5mf2zOGnK1fr54nezMPYnU) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered 2023\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 4:01 | 2024-04-02 |  |
 | [Why'd You Come in Here Lookin' Like That](https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [White Limozeen](https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY) | 2:32 | 2024-04-02 |  |
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2024-04-02 |  |
+| [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Yodelayheewho \(feat\. Maggie Antone\)](https://open.spotify.com/album/3Nfd8Qm3oYcFqMsa527Lvc) | 2:45 | 2024-08-09 |  |
 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 | 2024-04-02 |  |
 | [You're Easy On The Eyes](https://open.spotify.com/track/4av5wg7WAM6Bofc0Almsh0) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [How I Feel](https://open.spotify.com/album/19vSZScLNvBVcuARwA5CEO) | 3:33 | 2024-04-02 |  |
 

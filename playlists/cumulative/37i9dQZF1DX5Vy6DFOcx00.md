@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,415 songs - 3 day 3 hr 38 min
+1,416 songs - 3 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-03-03 | 2022-04-08 |
 | [Homixide \(feat\. Playboi Carti\)](https://open.spotify.com/track/4uu4CC1L13Q8ndvnXpud1J) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil 1 DTE](https://open.spotify.com/album/5evN4fZuIY8KvbyufENWCh) | 2:37 | 2022-03-31 | 2022-04-12 |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-21 | 2022-11-18 |
-| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-10 |  |
+| [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-10 | 2024-08-10 |
 | [Hotel](https://open.spotify.com/track/01JudCVH6imG6Zh4aHBTAq) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/62HTjoHrWJW0CQ7ubx3Px7) | 2:35 | 2022-07-08 | 2022-07-24 |
 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 | 2022-08-12 | 2022-11-11 |
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2022-11-18 |
@@ -1067,6 +1067,7 @@
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-09-27 |
 | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/track/54cV7pqcoIUDftaczXuGKt) | [Davi Richie](https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI), [Anymorph](https://open.spotify.com/artist/4WBEDrp1bZE719F3a9Wz7R) | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/album/5M2IeqXTl3cDizfj0pWj3h) | 1:18 | 2022-04-25 | 2022-05-04 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2022-03-19 | 2022-04-01 |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-09 |  |
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2022-11-13 | 2022-11-29 |
 | [Sara](https://open.spotify.com/track/0zSemnpoUFdtesuHTZ3ifv) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [We're All Messed up \- but It's Ok](https://open.spotify.com/album/19alMxDC8EKcZjwCVVBqmD) | 3:31 | 2022-03-09 | 2022-03-27 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-02-15 | 2022-03-25 |

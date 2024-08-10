@@ -6,8 +6,52 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZlA4cQUr9hYttM+oaodCxy98VXpGO",
+  "snapshot_id": "AAAZlr+KWWMOV2O92pgDt/Ob0gfOjozO",
   "tracks": [
+    {
+      "added_at": "2024-08-09 15:34:06",
+      "album": {
+        "name": "One On One (feat. marlonbeats)",
+        "url": "https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "marlonbeats",
+          "url": "https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx"
+        },
+        {
+          "name": "Diede",
+          "url": "https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ"
+        }
+      ],
+      "duration_ms": 138281,
+      "name": "One On One (feat. marlonbeats)",
+      "url": "https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8"
+    },
+    {
+      "added_at": "2024-08-09 15:34:47",
+      "album": {
+        "name": "Barcelona (feat. Cody Bolan)",
+        "url": "https://open.spotify.com/album/42hXBz46sMvJst0z5qy1nO"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Cody Bolan",
+          "url": "https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT"
+        }
+      ],
+      "duration_ms": 146484,
+      "name": "Barcelona (feat. Cody Bolan)",
+      "url": "https://open.spotify.com/track/712Gj0cFeFX7tLEnmmAmDU"
+    },
     {
       "added_at": "2024-08-02 16:46:39",
       "album": {

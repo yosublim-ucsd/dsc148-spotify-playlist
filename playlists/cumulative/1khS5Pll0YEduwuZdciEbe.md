@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Dan Mangan
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: beabadoobee
 
-174 songs - 10 hr 35 min
+177 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-11-03 | 2023-11-18 |
 | [Bathroom Light](https://open.spotify.com/track/71glNHT4FultOqlau4zrFf) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Bathroom Light](https://open.spotify.com/album/2lwaQXJpfIPNduWAN7w0vu) | 3:08 | 2023-11-03 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-11-03 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 |  |
 | [Belinda Says](https://open.spotify.com/track/1oMiIvhg2KqD3sPlm3GUnm) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/2LADe3Vx2e0BBmQDV4yWuW) | 2:45 | 2023-11-03 | 2024-06-02 |
 | [Bending Over Backwards](https://open.spotify.com/track/15b6Lj8WHpGmj2QWwMvoav) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Bending Over Backwards](https://open.spotify.com/album/4fFvXLYwcGfHnnwf6gCZGY) | 3:55 | 2024-07-27 |  |
 | [beside you](https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [beside you](https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD) | 2:46 | 2023-11-03 | 2024-04-20 |
@@ -46,6 +47,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-17 |  |
 | [Black Dress](https://open.spotify.com/track/4pchG0mOBAJoXXu1vmwyTY) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Black Dress](https://open.spotify.com/album/54F5KAYtmSL3ebnKAULsg9) | 3:57 | 2023-11-03 |  |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-11-03 |  |
+| [bloodshot](https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [bloodshot](https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj) | 3:14 | 2024-08-09 |  |
 | [Bobtail Road](https://open.spotify.com/track/5kPu5GCBKldjAy2sMgU2bU) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Bobtail Road](https://open.spotify.com/album/37pFeBTwztjSqMzYqTcEqV) | 3:32 | 2023-11-03 | 2024-01-27 |
 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 | 2023-11-03 | 2024-04-06 |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2023-11-03 | 2024-05-04 |
@@ -104,9 +106,10 @@
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-21 |  |
 | [Life Of The Party](https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Life Of The Party](https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt) | 2:10 | 2023-11-03 | 2023-11-18 |
 | [LIMBO](https://open.spotify.com/track/2bdVgAQgosGUJoViVDNeOV) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:32 | 2023-11-03 | 2024-06-29 |
-| [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-03 |  |
+| [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-03 | 2024-08-10 |
 | [Lost](https://open.spotify.com/track/1mGdHXCqhbV8oXCPkY1dZk) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lost](https://open.spotify.com/album/4V5bqbPeDTAd2uzQ3YhRmp) | 3:20 | 2024-06-07 |  |
 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 | 2024-06-01 |  |
+| [Lucky Streak](https://open.spotify.com/track/4KiC4QZ6cc8XKv0e3Obw5F) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Lucky Streak](https://open.spotify.com/album/44H92aSgzMMmtlWIFwsDmP) | 3:10 | 2024-08-09 |  |
 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 | 2024-08-02 |  |
 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 | 2024-03-29 |  |
 | [Meant](https://open.spotify.com/track/0PbXhejxq3Ih2ObOGfundH) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Meant](https://open.spotify.com/album/6AwFbp01un82gwxyAvipCi) | 3:27 | 2024-03-01 | 2024-04-27 |
@@ -143,7 +146,7 @@
 | [Roadkill](https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Roadkill](https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs) | 2:15 | 2023-12-15 | 2024-01-20 |
 | [Run It Back](https://open.spotify.com/track/2gSVKq4fs4rYE6ukeKnVWi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A) | 2:27 | 2024-06-28 |  |
 | [Running](https://open.spotify.com/track/2yg33GUVcKi3b6A8SxtCU3) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Running](https://open.spotify.com/album/2Z9njMZGVcXYxjmKDEujzW) | 3:09 | 2024-02-23 |  |
-| [Saturnine](https://open.spotify.com/track/2oEzHtai43VJ8KMrWjb8ft) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/5KACYEEsH7cZAaBOr2eiKo) | 3:21 | 2024-03-22 |  |
+| [Saturnine](https://open.spotify.com/track/2oEzHtai43VJ8KMrWjb8ft) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/5KACYEEsH7cZAaBOr2eiKo) | 3:21 | 2024-03-22 | 2024-08-10 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-11-03 |  |
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-27 |  |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 |  |
@@ -167,7 +170,7 @@
 | [The River](https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The River](https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE) | 4:44 | 2024-05-03 |  |
 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-11-03 | 2024-01-20 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-19 |  |
-| [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 | 2024-06-01 |  |
+| [Time Slipping Away](https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Time Slipping Away](https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP) | 3:00 | 2024-06-01 | 2024-08-10 |
 | [tired](https://open.spotify.com/track/2wXNt7dpcMNhDnEyWxtHI6) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [tired](https://open.spotify.com/album/117vSo7CTEOxKsUeFk1vwl) | 3:22 | 2023-11-03 | 2024-03-23 |
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-10 | 2024-07-13 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-11-03 | 2024-02-17 |

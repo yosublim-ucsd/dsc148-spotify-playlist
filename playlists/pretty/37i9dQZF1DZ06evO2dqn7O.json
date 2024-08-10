@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54434,
+  "num_followers": 54441,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAAPkWTylH7XNEtC0ttAqzjK",
+  "snapshot_id": "ZrQKgAAAAABMt1zd0HOb1rkv3pSxwiBq",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alcohol (with BRELAND)",
         "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 218266,
       "name": "Alcohol (with BRELAND)",
       "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,
@@ -791,6 +791,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 242213,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "could've been you",
         "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
       },
@@ -807,6 +831,22 @@
       "duration_ms": 187826,
       "name": "could've been you",
       "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
     },
     {
       "added_at": null,
@@ -831,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 216706,
       "name": "Unconsolable",
       "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 242213,
-      "name": "Transmission",
-      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
     },
     {
       "added_at": null,

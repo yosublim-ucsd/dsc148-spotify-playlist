@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "did you guess billie x charli x the dare x dylan brady?  cover: Charli xcx & Billie Eilish",
+  "description": "\ud83d\udea8 someone tell rob the new beabadoobee album is here \ud83d\udea8",
   "name": "Lorem",
   "tracks": [
     {
@@ -10410,7 +10410,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 161661,
       "name": "Confusion Song",
       "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
@@ -16047,6 +16047,24 @@
     },
     {
       "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "feel your love <3",
+      "url": "https://open.spotify.com/track/6f4zOGeP0rbjxpP3aeLCRB"
+    },
+    {
+      "album": {
         "name": "Feeling Good Today",
         "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
       },
@@ -18042,6 +18060,24 @@
       "duration_ms": 178447,
       "name": "girl like me",
       "url": "https://open.spotify.com/track/1LPShUnyqnLbAO7WeNywsF"
+    },
+    {
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Girl Song",
+      "url": "https://open.spotify.com/track/37G7NBSwMiZfi3Swzgh4rW"
     },
     {
       "album": {
@@ -33190,7 +33226,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225572,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK"
@@ -44243,6 +44279,24 @@
     },
     {
       "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
+    },
+    {
+      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -51888,7 +51942,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159781,
       "name": "When I Thought Of You",
       "url": "https://open.spotify.com/track/7MV5HS9PmUd4roU4BHlWoH"
@@ -53596,7 +53650,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 281178,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"

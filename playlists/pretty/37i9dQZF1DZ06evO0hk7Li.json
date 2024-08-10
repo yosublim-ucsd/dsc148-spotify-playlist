@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37855,
+  "num_followers": 37868,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAAjNfyiPy/HKVOxbNX9YQeC",
+  "snapshot_id": "ZrQKgAAAAABLq0dy4wlCsFbwHN0OliFh",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "WiDE AWAKE",
+          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
         },
         {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Take My Hand Precious Lord - Intro",
-      "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
+      "duration_ms": 195000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
     },
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
       },
       "artists": [
         {
-          "name": "WiDE AWAKE",
-          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
-        },
-        {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+      "duration_ms": 84800,
+      "name": "Take My Hand Precious Lord - Intro",
+      "url": "https://open.spotify.com/track/3hDhZ0Z0b9FxxaoaQfGQXy"
     },
     {
       "added_at": null,
@@ -515,6 +515,38 @@
       "duration_ms": 217440,
       "name": "Monster 2.0",
       "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -583,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
         {
@@ -592,25 +624,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+      "duration_ms": 191613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 251626,
       "name": "Aim For My Head",
       "url": "https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 51880,
-      "name": "Lovely Nanna",
-      "url": "https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 51880,
+      "name": "Lovely Nanna",
+      "url": "https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 53853,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 241573,
       "name": "Kumbaya (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 53853,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS"
     },
     {
       "added_at": null,

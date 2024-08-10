@@ -1,13 +1,49 @@
 {
-  "description": "salt air and the rust on your door \ud83c\udf43 cover: Kacey Musgraves",
-  "num_followers": 113050,
+  "description": "where folk flowers bloom \ud83c\udf43 cover: Shawn Mendes",
+  "num_followers": 113124,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAABMO5DC4KGAep5efQWg+nt8",
+  "snapshot_id": "ZrWV4QAAAACtda+73lcx1j9zpofnppI3",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Evergreen (feat. Caamp)",
+        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 177512,
+      "name": "Evergreen (feat. Caamp)",
+      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
     {
       "added_at": "2024-08-01 04:00:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -45,20 +97,20 @@
       "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
       },
       "artists": [
         {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+      "duration_ms": 232360,
+      "name": "Frances",
+      "url": "https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -75,6 +127,22 @@
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Is What It Is",
+        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Is What It Is",
+      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -145,6 +213,22 @@
       "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Sorry Mom",
+        "url": "https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Sorry Mom",
+      "url": "https://open.spotify.com/track/3zftDSl1HdBPJek75cQwDE"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "I Wanna Love You (But I Don't) / I hope you die first",
@@ -191,22 +275,6 @@
       "duration_ms": 172031,
       "name": "Already (On My Mind)",
       "url": "https://open.spotify.com/track/4cyBtKUXd8wWVqgus5k0Mb"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Look At That Woman",
-        "url": "https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 163458,
-      "name": "Look At That Woman",
-      "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -387,22 +455,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "The Mountain Is You",
-        "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 196210,
-      "name": "The Mountain Is You",
-      "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
       },
@@ -463,22 +515,6 @@
       "duration_ms": 222708,
       "name": "Bumper Sticker",
       "url": "https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "4 foot 2",
-        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 154936,
-      "name": "4 foot 2",
-      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -967,22 +1003,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "One Million Love Songs",
-        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Nothing Lasts",
-      "url": "https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr"
       },
@@ -1063,22 +1083,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 358850,
-      "name": "Real House",
-      "url": "https://open.spotify.com/track/62R903SYfJm79xxLhjEhyW"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
       },
@@ -1091,26 +1095,6 @@
       "duration_ms": 252986,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/1B6EfeMzx4lgAFHSdlg3qf"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/7dD6azbod3vyOmLaIo41N5"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        },
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 184591,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/5cUbosneCQpRAxRWaNi7t2"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1239,22 +1223,6 @@
       "duration_ms": 188599,
       "name": "Turned Into Missing You",
       "url": "https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1407,22 +1375,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Leave",
-        "url": "https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/33iKj6Xl5IQOYOfwbCNNe8"
       },
@@ -1531,22 +1483,6 @@
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Shove",
-        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
-      },
-      "artists": [
-        {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
-        }
-      ],
-      "duration_ms": 159852,
-      "name": "Shove",
-      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
     },
     {
       "added_at": "2024-07-12 04:00:00",

@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 33 min
+99 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Beauty Turns Men to Beasts](https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:06 | 2023-08-04 |  |
 | [Coastal Seas](https://open.spotify.com/track/3kTSnrtFNGbkxfhToP3OIV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 2:34 | 2023-08-09 | 2023-09-16 |
 | [Corals \- From "Our Planet"](https://open.spotify.com/track/25WytQLX7n22PRsVxSewvg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:17 | 2023-08-04 |  |
-| [Did It Feel Wrong](https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 2:16 | 2023-09-09 |  |
+| [Did It Feel Wrong](https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 2:16 | 2023-09-09 | 2024-08-10 |
 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 | 2023-08-04 |  |
 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 | 2023-08-04 |  |
 | [Family Invasion](https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:46 | 2023-09-21 |  |
@@ -43,6 +43,7 @@
 | [Italian Marble](https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:28 | 2023-09-25 | 2024-02-29 |
 | [Jungles](https://open.spotify.com/track/1NaKI3qpnedSMNEMGRFggD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Jungles \(Episode 3 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/6mo0cOVfG6KHW1KgGmT2es) | 1:36 | 2023-08-04 | 2023-09-13 |
 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 | 2023-08-09 |  |
+| [Life's Talent For Change](https://open.spotify.com/track/27Q2SjswXjzfZVWlBR5Z4e) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 5:03 | 2024-08-10 |  |
 | [Lifeless Again](https://open.spotify.com/track/7dOrs9015T264sTjQj09E8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 1:57 | 2023-08-04 | 2023-08-14 |
 | [Like the Sea Is Breathing](https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:25 | 2023-08-04 | 2023-09-03 |
 | [Machine](https://open.spotify.com/track/0do2y0LcH11sW4DECngxcv) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:21 | 2024-04-19 |  |

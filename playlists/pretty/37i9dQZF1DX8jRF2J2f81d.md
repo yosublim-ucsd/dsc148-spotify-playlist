@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jRF2J2f81d.md) - [plain]
 
 > The playlist for students, by students\. Powered by Student Music Network and Radar Media at Robert Gordon University ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,511 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,510 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "album": {
         "name": "All I Know About Girls",
         "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
@@ -439,7 +457,7 @@
     },
     {
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
+        "name": "Girl Of My Dreams - Deluxe",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
       "artists": [
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181483,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/421Y1KnVaq15mux4QmLJTU"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166032,
       "name": "Heartbreak & Alcohol",
       "url": "https://open.spotify.com/track/5GXhlMF4fbI0aJaxtR4ilc"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 187016,
       "name": "HEARTFIRST",
       "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 157213,
       "name": "Lost My Heartbreak",
       "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
@@ -4956,7 +4974,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 202106,
       "name": "This Ain't a Breakup (feat. Nightly)",
       "url": "https://open.spotify.com/track/0sQRKuQMd4p6nKa836VUIA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,444 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,464 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,24 +23,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Loja](https://open.spotify.com/track/7vuYpCUEnhtwwPAxthzQKl) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [Loja](https://open.spotify.com/album/6y0EGMa17xqqfas3HXqWzw) | 2:07 |
 | 14 | [blackout in der gegend](https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blackout in der gegend](https://open.spotify.com/album/5IFoofVHSlPBwUEgHGMqKu) | 2:32 |
 | 15 | [My Mum's Birthday](https://open.spotify.com/track/6Kt6zpFaDTIGmzhOix6Ofh) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [My Mum's Birthday](https://open.spotify.com/album/1hTqbUSp4WufYwNm5q7FqU) | 2:55 |
-| 16 | [Mellifluous](https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Mellifluous](https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT) | 6:03 |
-| 17 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 |
+| 16 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 |
+| 17 | [Mellifluous](https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Mellifluous](https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT) | 6:03 |
 | 18 | [Extra](https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/64Fi0s4pMS4SkHx9Ok7Yfd) | 2:53 |
 | 19 | [Letztes Wort](https://open.spotify.com/track/0oiOfjmxlw8A6ooGkH35sd) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Letztes Wort](https://open.spotify.com/album/5sy1c14wii7KQWDxRL4Jqt) | 2:34 |
 | 20 | [Liebe meines Lebens](https://open.spotify.com/track/02wGqqhWvrJ2fZGyLy9wTW) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Liebe meines Lebens](https://open.spotify.com/album/64wrz2zT9UwgNdQfKlYUzN) | 2:03 |
-| 21 | [wir gehen rein](https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [wir gehen rein](https://open.spotify.com/album/70DzYvnurmsMhVt8z4w2UL) | 2:41 |
+| 21 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
 | 22 | [Virtual For You](https://open.spotify.com/track/6NmiRfv2MB9rFnhVgvMA6t) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Virtual For You](https://open.spotify.com/album/4Bwa9QUG1CWHE44w4RwTvm) | 3:06 |
-| 23 | [Schüttelfrost](https://open.spotify.com/track/2tMtlbiICtH6khyJz0VMlm) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Schüttelfrost](https://open.spotify.com/album/1uO8hzt9X7XfBt2e7IZgeU) | 2:52 |
-| 24 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
-| 25 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 |
-| 26 | [Wie viel kostet eine Träne 💧](https://open.spotify.com/track/7imzSIOY954XHmkCVNQGbz) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Wie viel kostet eine Träne 💧](https://open.spotify.com/album/365QPJNTJU5FCJmsVFFQuw) | 2:08 |
+| 23 | [wir gehen rein](https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [wir gehen rein](https://open.spotify.com/album/70DzYvnurmsMhVt8z4w2UL) | 2:41 |
+| 24 | [Schüttelfrost](https://open.spotify.com/track/2tMtlbiICtH6khyJz0VMlm) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Schüttelfrost](https://open.spotify.com/album/1uO8hzt9X7XfBt2e7IZgeU) | 2:52 |
+| 25 | [Wie viel kostet eine Träne 💧](https://open.spotify.com/track/7imzSIOY954XHmkCVNQGbz) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Wie viel kostet eine Träne 💧](https://open.spotify.com/album/365QPJNTJU5FCJmsVFFQuw) | 2:08 |
+| 26 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 |
 | 27 | [8 stufen](https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen](https://open.spotify.com/album/6rZMZ81XtYHcEQF6FhWmYs) | 3:01 |
 | 28 | [Postpone](https://open.spotify.com/track/1TsmlEazm8uP7pTxAmTt4G) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Postpone EP](https://open.spotify.com/album/1AVfoYTZ0aWp8CXmVbdCoo) | 3:12 |
 | 29 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
 | 30 | [diagnose 41.2](https://open.spotify.com/track/0e5MlmjzbjQbGuymTBeR7d) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [diagnose 41.2](https://open.spotify.com/album/1ScUhnEizBddF3utx61fdg) | 2:42 |
-| 31 | [Juli](https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Hörst du mich](https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX) | 3:00 |
-| 32 | [Big Simpin](https://open.spotify.com/track/27umPTeKgY6L1rTe4H5J1B) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Big Simpin](https://open.spotify.com/album/4inMv4RVqHdploekzFhNoH) | 2:55 |
-| 33 | [Wie er](https://open.spotify.com/track/5fltUGExvrsG78zPSZ4Jek) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [Wie er](https://open.spotify.com/album/4fiM1xnVw0yEq5bDzXK3SF) | 2:05 |
+| 31 | [Wie er](https://open.spotify.com/track/5fltUGExvrsG78zPSZ4Jek) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [Wie er](https://open.spotify.com/album/4fiM1xnVw0yEq5bDzXK3SF) | 2:05 |
+| 32 | [Juli](https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Hörst du mich](https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX) | 3:00 |
+| 33 | [Big Simpin](https://open.spotify.com/track/27umPTeKgY6L1rTe4H5J1B) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Big Simpin](https://open.spotify.com/album/4inMv4RVqHdploekzFhNoH) | 2:55 |
 | 34 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
 | 35 | [Drop of Rain](https://open.spotify.com/track/23wgcVvNOrZlFQwCTRNlnA) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Drop of Rain](https://open.spotify.com/album/1EOLhPpB4RABxD5C8tN8s2) | 2:54 |
 | 36 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 |

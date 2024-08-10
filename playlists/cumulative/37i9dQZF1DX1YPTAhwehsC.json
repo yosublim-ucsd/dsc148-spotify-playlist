@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: A$AP Rocky",
+  "description": "Up and down I-95. Cover: Lil Tjay",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 147529,
       "name": "Baby Wait (feat. SugarHill Ddot)",
       "url": "https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 253760,
       "name": "Big Dog (with Lil Wayne)",
       "url": "https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6"
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136161,
       "name": "Cash Academy",
       "url": "https://open.spotify.com/track/0b72YUbtczdBna3ozyfG0W"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 223750,
       "name": "Cory Gunz \"On The Radar\" Freestyle",
       "url": "https://open.spotify.com/track/3ePmw29u090unEfYVsSdcK"
@@ -7266,6 +7266,28 @@
       "duration_ms": 112920,
       "name": "FIESTA",
       "url": "https://open.spotify.com/track/3etouJKdaLH1CcXKiKo6zx"
+    },
+    {
+      "album": {
+        "name": "FIJI (feat. Cruza)",
+        "url": "https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174182,
+      "name": "FIJI (feat. Cruza)",
+      "url": "https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB"
     },
     {
       "album": {
@@ -10486,7 +10508,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189147,
       "name": "I LIKE TO PARTY",
       "url": "https://open.spotify.com/track/2okQx65AOJkPYUe0GOdc1o"
@@ -10642,6 +10664,24 @@
       "duration_ms": 115725,
       "name": "Ick",
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+    },
+    {
+      "album": {
+        "name": "ICONIC.",
+        "url": "https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171104,
+      "name": "ICONIC.",
+      "url": "https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl"
     },
     {
       "album": {
@@ -11341,6 +11381,24 @@
     },
     {
       "album": {
+        "name": "Just Bounce",
+        "url": "https://open.spotify.com/album/0yW6KMKrmIAGlsNxXuDAJ3"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132504,
+      "name": "Just Bounce",
+      "url": "https://open.spotify.com/track/1AvdtxUbTwziPJfU0FMrj3"
+    },
+    {
+      "album": {
         "name": "JUST FRIENDS ?",
         "url": "https://open.spotify.com/album/7Mr6MY1YddBuV6C8ULWFax"
       },
@@ -11604,6 +11662,32 @@
       "duration_ms": 218261,
       "name": "Kiss Ya Neck (feat. Fivio Foreign & Rowdy Rebel)",
       "url": "https://open.spotify.com/track/34N03j4WSj0rqK4VuL3k58"
+    },
+    {
+      "album": {
+        "name": "Summertime Butch",
+        "url": "https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
     },
     {
       "album": {
@@ -12168,7 +12252,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "LGLG",
       "url": "https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY"
@@ -14531,6 +14615,28 @@
     },
     {
       "album": {
+        "name": "No Apologies",
+        "url": "https://open.spotify.com/album/3I8hgQCTMySiCXmDP65xhL"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157936,
+      "name": "No Apologies",
+      "url": "https://open.spotify.com/track/1nHzbEDVrohk7fbVsEyfkF"
+    },
+    {
+      "album": {
         "name": "HDIGH",
         "url": "https://open.spotify.com/album/4Rs6ULV8vvXLigedAE6FUm"
       },
@@ -16051,6 +16157,24 @@
     },
     {
       "album": {
+        "name": "Own Lane",
+        "url": "https://open.spotify.com/album/2BnHWc2Qd2bCRfBHASeZUv"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "Own Lane",
+      "url": "https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d"
+    },
+    {
+      "album": {
         "name": "Pain Talk (feat. Lil Tjay)",
         "url": "https://open.spotify.com/album/5Adus949FUrddWzqZ5SFxZ"
       },
@@ -16932,6 +17056,28 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "album": {
+        "name": "Proclivities (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/0N13HBBuSoxEauKqk90tqe"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219715,
+      "name": "Proclivities (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh"
     },
     {
       "album": {
@@ -18328,6 +18474,32 @@
       "duration_ms": 121836,
       "name": "ROLLIN N CONTROLLIN, Pt.2 (PICTURE ME)",
       "url": "https://open.spotify.com/track/5phjnA00QqNdF7oo8a6yu0"
+    },
+    {
+      "album": {
+        "name": "Rollin' Hounds",
+        "url": "https://open.spotify.com/album/72v3DSjERUkz1rTPHREeGi"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "SweepersENT",
+          "url": "https://open.spotify.com/artist/3gQoRf2OOQucNCzox0TI9l"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135563,
+      "name": "Rollin' Hounds",
+      "url": "https://open.spotify.com/track/2vEstt1tTaVypBNqy4xzGp"
     },
     {
       "album": {
@@ -20017,6 +20189,32 @@
     },
     {
       "album": {
+        "name": "Special (feat. Skilla Baby & Flo Milli)",
+        "url": "https://open.spotify.com/album/4dmYcRXZCVL4W98DoRTbJe"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165645,
+      "name": "Special (feat. Skilla Baby & Flo Milli)",
+      "url": "https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr"
+    },
+    {
+      "album": {
         "name": "Speshal (feat. Stove God Cooks)",
         "url": "https://open.spotify.com/album/311AVHrevLtAs3OQwCYfEp"
       },
@@ -20992,6 +21190,24 @@
       "duration_ms": 111840,
       "name": "Talk Nice",
       "url": "https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl"
+    },
+    {
+      "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
     },
     {
       "album": {
@@ -22841,6 +23057,28 @@
     },
     {
       "album": {
+        "name": "Wanna Get Sexy (with Bay Swag)",
+        "url": "https://open.spotify.com/album/3slaZYw4Ni4XtrxIjX1VWy"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Wanna Get Sexy (with Bay Swag)",
+      "url": "https://open.spotify.com/track/1yy3k7t0HzRFD3KW4UVLcT"
+    },
+    {
+      "album": {
         "name": "Warzone (feat. A Boogie Wit Da Hoodie)",
         "url": "https://open.spotify.com/album/3pnZdrOF3JXq5ZTXsT09AW"
       },
@@ -23016,7 +23254,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143120,
       "name": "Waterproof",
       "url": "https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk"
@@ -23482,7 +23720,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 154455,
       "name": "What's Your Name?",
       "url": "https://open.spotify.com/track/4jdgsqGqImatlV1C5xahOd"
@@ -23578,6 +23816,32 @@
       "duration_ms": 188386,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O"
+    },
+    {
+      "album": {
+        "name": "Where Them Shooters At",
+        "url": "https://open.spotify.com/album/27ME7QAZ1asnVJYVNQdqcx"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Perfect Timing",
+          "url": "https://open.spotify.com/artist/65HlwOj7iB8ndiXjGUEFdX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183738,
+      "name": "Where Them Shooters At",
+      "url": "https://open.spotify.com/track/1JQGmuEeJX65ERASDadSZ6"
     },
     {
       "album": {
@@ -24026,7 +24290,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 119786,
       "name": "Worda Bro",
       "url": "https://open.spotify.com/track/6SfdiJE1Ls5ItYUCvZ7B2O"

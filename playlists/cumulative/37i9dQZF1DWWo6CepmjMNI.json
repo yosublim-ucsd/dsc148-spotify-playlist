@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: lnwza0072535",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Plantpot",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 232071,
       "name": "0",
       "url": "https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 230994,
       "name": "River",
       "url": "https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 256000,
       "name": "\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf"
@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT"
+      },
+      "artists": [
+        {
+          "name": "Planfor?",
+          "url": "https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278044,
+      "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e08",
         "url": "https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 271500,
       "name": "\u0e20\u0e32\u0e1e\u0e41\u0e17\u0e19\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID"
@@ -900,7 +918,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 228000,
       "name": "\u0e27\u0e48\u0e32\u0e07\u0e40\u0e1b\u0e25\u0e48\u0e32 (Me On The Road)",
       "url": "https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 258071,
       "name": "\u0e40\u0e04\u0e22",
       "url": "https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET"
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e2d\u0e1a\u0e01\u0e2d\u0e14",
+        "url": "https://open.spotify.com/album/1yWcrnPdkDe2yUa04VcVUc"
+      },
+      "artists": [
+        {
+          "name": "Plantpot",
+          "url": "https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291818,
+      "name": "\u0e42\u0e2d\u0e1a\u0e01\u0e2d\u0e14",
+      "url": "https://open.spotify.com/track/64ftqC2EIsiQ2ALvWIF3wo"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e04\u0e23\u0e01\u0e31\u0e19\u0e17\u0e35\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08",
         "url": "https://open.spotify.com/album/6maqJVtTw6gzh8Vp38sSj5"
       },
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 316506,
       "name": "\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e1b\u0e25\u0e2d\u0e1a\u0e40\u0e18\u0e2d (Kindness)",
       "url": "https://open.spotify.com/track/3eenD2b7MtpKqOJjmyy10X"

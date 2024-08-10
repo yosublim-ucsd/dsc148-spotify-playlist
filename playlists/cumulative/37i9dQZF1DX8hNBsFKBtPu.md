@@ -4,7 +4,7 @@
 
 > Det bedste nye pop 🧡
 
-145 songs - 7 hr 25 min
+146 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 | 2024-07-30 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 |  |
 | [Blåregn](https://open.spotify.com/track/3CDYrDINLxRhjvvqbSaryC) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 3:07 | 2024-06-27 | 2024-07-06 |
+| [Call Me A Dreamer](https://open.spotify.com/track/40REbNWViDmfb9b3DxbfpQ) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Call Me A Dreamer](https://open.spotify.com/album/2VfsX7bUKuRSuArqNTXQd9) | 2:34 | 2024-08-09 |  |
 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 | 2024-06-27 | 2024-07-06 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 |  |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-06-27 | 2024-07-30 |
@@ -77,7 +78,7 @@
 | [Ingens Pige](https://open.spotify.com/track/7sLlSjR6so9CDPzsgXFXnw) | [Tina Dickow](https://open.spotify.com/artist/5FwWkrkqRy9Qmny3vqxYUe), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Ingens Pige](https://open.spotify.com/album/6PM22xbws0VlndnoY4LBjB) | 3:18 | 2024-07-11 |  |
 | [Intercitylyn](https://open.spotify.com/track/3sMwlRO9zztcBVIXnhndVL) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Intercitylyn](https://open.spotify.com/album/6Xrf1jDUeH6va4SZOyj0RA) | 3:17 | 2024-06-27 | 2024-07-30 |
 | [Italy](https://open.spotify.com/track/2Kfcu10v24FQl5YymIi9i4) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Italy](https://open.spotify.com/album/0Fh3tnEmAaH0VkpEEJVxjH) | 2:48 | 2024-06-27 |  |
-| [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \(10th Anniversary Edition\)](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-01 |  |
+| [I’m Not The Only One \(feat\. Alicia Keys\)](https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [In The Lonely Hour \- 10th Anniversary Edition](https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d) | 3:40 | 2024-08-01 |  |
 | [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-06-27 | 2024-07-30 |
 | [Kongen Af Danmark](https://open.spotify.com/track/5uIy18j51mPvUhDcrGuj1p) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Kongen Af Danmark](https://open.spotify.com/album/6D5w04x7LcIocDSvBcSrPi) | 3:57 | 2024-06-27 |  |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,185 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,277 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 38 | [Heart of Mine](https://open.spotify.com/track/3GGLM9N7B18Hww26bScGDq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Other Roads \(Expanded\)](https://open.spotify.com/album/6yesaWRPjBvzztTpFrktQm) | 4:11 |
 | 39 | [More Than I Can Say \- Remastered](https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Living In A Fantasy](https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW) | 3:40 |
 | 40 | [I Gotta Try](https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:55 |
-| 41 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
-| 42 | [Casablanca](https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [Just Another Day in Paradise](https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN) | 4:34 |
+| 41 | [Casablanca](https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [Just Another Day in Paradise](https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN) | 4:34 |
+| 42 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
 | 43 | [Missing You](https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [The Very Best Of Dan Fogelberg](https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm) | 4:05 |
 | 44 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 |
 | 45 | [The Last Worthless Evening](https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:02 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 57 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
 | 58 | [So Much In Love](https://open.spotify.com/track/0shzwsbUpKgI8kQhFsOl0w) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:04 |
 | 59 | [Really Want to Know You \- Remastered Version](https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Right Place](https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv) | 4:22 |
-| 60 | [Our Love](https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [No Lookin' Back](https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW) | 4:30 |
-| 61 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
-| 62 | [Desert Moon](https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN) | [Dennis DeYoung](https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68) | [Desert Moon](https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8) | 6:08 |
-| 63 | [Love Is A Bridge](https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Monsoon](https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7) | 4:06 |
+| 60 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
+| 61 | [Our Love](https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [No Lookin' Back](https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW) | 4:30 |
+| 62 | [Love Is A Bridge](https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Monsoon](https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7) | 4:06 |
+| 63 | [Desert Moon](https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN) | [Dennis DeYoung](https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68) | [Desert Moon](https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8) | 6:08 |
 | 64 | [Sweetheart](https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2) | [Franke & The Knockouts](https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0) | [Franke & The Knockouts \(Original Recording Remastered\)](https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t) | 4:11 |
 | 65 | [Parked Cars](https://open.spotify.com/track/065U4wb8kPKuY3XqpIk5zg) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bowling In Paris](https://open.spotify.com/album/6jMjThGNjDvWlYKDYQVYqB) | 4:45 |
 | 66 | [I Found Somebody](https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:05 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 71 | [Anywhere You Run To](https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 3:50 |
 | 72 | [Hometown](https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:32 |
 | 73 | [All Right \- 2019 Remaster](https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV) | 4:18 |
-| 74 | [Free Fallin' \- Remastered](https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 5:00 |
+| 74 | [Brooklyn Girls \- Remastered](https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 3:25 |
 | 75 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 
 Snapshot ID: `Zow4+QAAAAC+88dFO6vmzsx7buTV7H5j`

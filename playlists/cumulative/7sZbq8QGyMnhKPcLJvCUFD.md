@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-579 songs - 1 day 5 hr 27 min
+580 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Falling For You](https://open.spotify.com/track/4F4c8WTkidlCN0k0bL52I7) | [Justmylørd](https://open.spotify.com/artist/58sypdKE0jQGon7SqrHyTo), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Falling For You](https://open.spotify.com/album/6Q4MlcHZEGEHOcZgi1keKe) | 2:37 | 2023-06-09 | 2023-08-10 |
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 | 2023-04-28 |
 | [Faster](https://open.spotify.com/track/1jw3vByyGzHaeKkhl6W5vo) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Faster](https://open.spotify.com/album/49W9j2gUsprNUqp3r6hmft) | 2:06 | 2022-07-01 | 2023-08-10 |
+| [Faster](https://open.spotify.com/track/14IblDOnC45Iu0Ad9Qc5M7) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Faster](https://open.spotify.com/album/69o16Vym82Dy5YREmeht1U) | 3:13 | 2024-08-09 |  |
 | [Fata Morgana](https://open.spotify.com/track/6n6g8x3L94VKeaTwXdERjG) | [Lennart Schroot](https://open.spotify.com/artist/2X0ndI9nIkbMvJE9YlLQr4) | [Fata Morgana](https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5) | 2:14 | 2022-12-20 | 2023-04-28 |
 | [FAVHELLA](https://open.spotify.com/track/1ID0QGxyQawriHiwXXXVOG) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo), [Mc Guidanny](https://open.spotify.com/artist/10pnQsUxlu3UeI2ehjeMps), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [FAVHELLA](https://open.spotify.com/album/5radygLIGNBVXKju3PnnKI) | 1:56 | 2023-12-29 | 2024-07-19 |
 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 | 2023-08-08 | 2024-03-23 |

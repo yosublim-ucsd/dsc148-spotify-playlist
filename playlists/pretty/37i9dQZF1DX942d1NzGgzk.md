@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Nippa & Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,326 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,380 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 42 | [Good Riddance](https://open.spotify.com/track/6Uq3K7OEbCs9t7H1beQEnt) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Good Riddance](https://open.spotify.com/album/6qZVF2D19JP9f5C1ElS5lz) | 2:09 |
 | 43 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 44 | [MET YOU AT A BAR](https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [MET YOU AT A BAR](https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP) | 2:40 |
-| 45 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
-| 46 | [Dive \- Acoustic](https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive \(Acoustic\)](https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4) | 3:06 |
-| 47 | [Heat of the Moon](https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:25 |
-| 48 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 45 | [Dive \- Acoustic](https://open.spotify.com/track/5jC2oXJu7BWpVw9pTBIyRb) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive \(Acoustic\)](https://open.spotify.com/album/09x7U9AfNCDOjY0GgB1fr4) | 3:06 |
+| 46 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
+| 47 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
+| 48 | [Heat of the Moon](https://open.spotify.com/track/29x8z6fxeHdVTc0P3rhv10) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:25 |
 | 49 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
 | 50 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 51 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 52 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
 | 53 | [Best Interest](https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Best Interest](https://open.spotify.com/album/2DIGbvisJJIIf2xYU9xrW2) | 3:18 |
-| 54 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 55 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 |
-| 56 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
+| 54 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 55 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [emil](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 56 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 |
 | 57 | [TEQUILA](https://open.spotify.com/track/3meLEmr860diy8furP4Bff) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [TEQUILA](https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX) | 3:25 |
-| 58 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
-| 59 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
+| 58 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
+| 59 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
 | 60 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
 
 Snapshot ID: `ZrFqMAAAAABYcKhkJdukP7PRalQFzkG1`

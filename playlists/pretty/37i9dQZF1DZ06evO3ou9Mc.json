@@ -1,12 +1,12 @@
 {
-  "description": "This is The Offspring. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 395053,
+  "description": "This is The Offspring. The essential tracks, all in one playlist.",
+  "num_followers": 395173,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAAGfJwPRgT12qZ+czawTCSu",
+  "snapshot_id": "ZrQKgAAAAACpRCUR+sjsWGVj3gRS4Q25",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
           "name": "The Offspring",
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 220946,
-      "name": "Original Prankster",
-      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+      "duration_ms": 205946,
+      "name": "Half-Truism",
+      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
       "added_at": null,
@@ -239,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Original Prankster",
+      "url": "https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Go By",
         "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 156000,
       "name": "Slim Pickens Does The Right Thing And Rides The Bomb To Hell",
       "url": "https://open.spotify.com/track/1feH81BVs89SplmcJzuh1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Half-Truism",
-      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-234 songs - 12 hr 2 min
+235 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Didn't Know](https://open.spotify.com/track/6t8XoDG0YGFGBqUsgj9Ih9) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [Didn't Know](https://open.spotify.com/album/3qpEkXRsDiail2jK8DS6Ml) | 2:48 | 2022-05-10 | 2022-07-04 |
 | [Didn't Know \- Tobtok Remix](https://open.spotify.com/track/0TgAsV5VoewfCIT9y6KQYR) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Didn't Know \(Tobtok Remix\)](https://open.spotify.com/album/03G4hEf2EjJh6UY9ilPUF9) | 3:02 | 2022-04-15 | 2022-07-29 |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-08-11 |  |
-| [Disconnect \- Ben Nicky Remix](https://open.spotify.com/track/5JqdCWMl6ZoMwVT6RW7n1x) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [Disconnect \(Ben Nicky Remix\)](https://open.spotify.com/album/3CMCNk2WQaBGbmxUF0eCX3) | 2:32 | 2023-09-22 |  |
+| [Disconnect \- Ben Nicky Remix](https://open.spotify.com/track/5JqdCWMl6ZoMwVT6RW7n1x) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [Disconnect \(Ben Nicky Remix\)](https://open.spotify.com/album/3CMCNk2WQaBGbmxUF0eCX3) | 2:32 | 2023-09-22 | 2024-08-10 |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2022-07-05 | 2023-02-15 |
 | [Discotheque](https://open.spotify.com/track/2w49us5pBD5DfYZ9i31Q82) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Discotheque](https://open.spotify.com/album/38IFA0HMi4UoBzcic1d1iy) | 4:29 | 2022-04-15 | 2022-07-04 |
 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 | 2023-08-11 |  |
@@ -93,6 +93,7 @@
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-02-14 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-08-11 |  |
 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 | 2022-07-29 | 2023-06-17 |
+| [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2024-08-09 |  |
 | [Good](https://open.spotify.com/track/0LEEtJg8hHOyytcotgnaKq) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Good](https://open.spotify.com/album/4FgSB1DDC5bKynrjVs68Uv) | 2:58 | 2022-04-15 | 2022-07-29 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-08-11 |  |
 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 | 2022-04-15 | 2022-07-30 |

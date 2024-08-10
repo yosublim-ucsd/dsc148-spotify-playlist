@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-385 songs - 21 hr 48 min
+386 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Perfume](https://open.spotify.com/track/4lMME61VxiWD189Hs2oRTM) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Perfume](https://open.spotify.com/album/4HMagicni8MA9ifFgQH2Nj) | 3:12 | 2020-10-30 | 2023-03-11 |
 | [Peter Lumberjack](https://open.spotify.com/track/4DLuLxAJGlx7eXzq1P6bIU) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Peter Lumberjack](https://open.spotify.com/album/4XD1JsRRyOaCKYAhL188Yh) | 4:40 | 2020-10-30 | 2022-05-15 |
 | [Pingu \(Game Sessions\)](https://open.spotify.com/track/0b0KLvIue75k7HzPb2n59G) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs), [Arnau Altimir](https://open.spotify.com/artist/147urXJ1DAPRW1TRtVGWar), [Magalí Sare](https://open.spotify.com/artist/4yU06ZMQgomPONCGeO0HgE) | [Pingu \(Game Sessions\)](https://open.spotify.com/album/1FSdi1V08eZUBrt3EpRI6X) | 3:45 | 2021-06-25 |  |
-| [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 | 2022-07-15 |  |
+| [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 | 2022-07-15 | 2024-08-10 |
 | [POP SONG](https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [POP SONG](https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX) | 3:19 | 2022-02-11 |  |
 | [Posture \- Wolfgang Lohr Remix](https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv) | [LMZG](https://open.spotify.com/artist/41kO57U2yrvAWlng1p5g6g), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Posture \(Wolfgang Lohr Remix\)](https://open.spotify.com/album/33cm8hJKxHtcFELOZB2eJy) | 3:56 | 2022-08-12 | 2024-01-20 |
 | [Pressure \- Klischée Remix](https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB), [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg) | [Pressure \(Klischée Remix\)](https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK) | 3:23 | 2022-03-11 | 2023-07-22 |
@@ -374,6 +374,7 @@
 | [Walk \- Instrumental](https://open.spotify.com/track/6sExpRKIy0WihY6eIQzhOU) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv) | [Electro Swing Instrumentals](https://open.spotify.com/album/4FZ9TDT5dlNP4enbhNYOAT) | 2:30 | 2022-07-22 | 2022-07-29 |
 | [Watch Your Tongue](https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Watch Your Tongue](https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4) | 2:58 | 2022-11-07 |  |
 | [We Are What We Are \(feat\. Billy Bros Orchestra\) \[Radio Edit\]](https://open.spotify.com/track/00cWy7HXgoJlXWR718s70W) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Billy Bros Orchestra](https://open.spotify.com/artist/249vSnPVFVeecMiyViHaWd) | [We Are What We Are \(feat\. Billy Bros Orchestra\)](https://open.spotify.com/album/1QRhDmgK95ihrDGL9N2GNw) | 3:56 | 2020-10-30 | 2022-07-29 |
+| [We No Speak Americano](https://open.spotify.com/track/0keGXgSlCZfT0MOfJlka55) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [We No Speak Americano](https://open.spotify.com/album/5nmUGxAnJry6Zz7A0R4QJu) | 2:25 | 2024-08-09 |  |
 | [We Showed 'Em](https://open.spotify.com/track/2uUEYXdfA8akIL3J1vpBb3) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [We Showed 'Em](https://open.spotify.com/album/2WfHHCun1y2Z7nOuTik7H9) | 2:29 | 2024-01-12 | 2024-05-18 |
 | [We're On Our Way](https://open.spotify.com/track/6AjMgHgz55SectjDOKzO6o) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Daphne Willis](https://open.spotify.com/artist/40Qm9cpj6FlrkoL1sziJ2S) | [We're On Our Way](https://open.spotify.com/album/1oEmpddO5gWhaJRu4OzKrI) | 2:42 | 2024-02-23 |  |
 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/55PsgqZ0zgrP0xJmKx8ZrR) | 2:18 | 2022-11-07 | 2024-02-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3328361,
+  "num_followers": 3328266,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -567,22 +567,6 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -651,6 +635,22 @@
       "duration_ms": 207904,
       "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
       "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Goodbye My Lover",
-      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Goodbye My Lover",
+      "url": "https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 303653,
-      "name": "If By Chance",
-      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 303653,
+      "name": "If By Chance",
+      "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 212773,
       "name": "Perfectly Wrong",
       "url": "https://open.spotify.com/track/6nat4Z7iRKWVk1qngQqI0Q"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Good Stuff",
-        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "Good Stuff",
-      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Good Stuff",
+        "url": "https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Good Stuff",
+      "url": "https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Talia",
-        "url": "https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "Talia",
-      "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 209333,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Talia",
+        "url": "https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "Talia",
+      "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Favourite Ex",
         "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 201694,
       "name": "Favourite Ex",
       "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 257483,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Pilot EP",
         "url": "https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 259480,
       "name": "I Found - Acoustic",
       "url": "https://open.spotify.com/track/3i7Iyc932rv1AZz7gl7dj8"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 257483,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 261653,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Crying My Eyes Out",
         "url": "https://open.spotify.com/album/0sldlbNtOFnq3BkSyfTpt2"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 175843,
       "name": "Crying My Eyes Out",
       "url": "https://open.spotify.com/track/1FXS09ZtlsCHvDBWWuqsnp"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 261653,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh"
     },
     {
       "added_at": "2024-07-15 19:40:57",

@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
+      },
+      "artists": [
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161486,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
+    },
+    {
+      "album": {
         "name": "Ashira No Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea"
       },
@@ -482,7 +504,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136615,
       "name": "ATL Freestyle",
       "url": "https://open.spotify.com/track/5JU5JyRvxarASKxiieyO1R"
@@ -688,6 +710,24 @@
       "duration_ms": 140208,
       "name": "Big D!!!!! Pt. 2",
       "url": "https://open.spotify.com/track/2Sb6RKbJkOKJcC4JAoeAaB"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/5OZVZqaQbOIZdu04W9DN62"
+      },
+      "artists": [
+        {
+          "name": "\u00c1urea Semiseria",
+          "url": "https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/3WndchwzPevLyg4HY5gTeX"
     },
     {
       "album": {
@@ -4578,7 +4618,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182709,
       "name": "Rosa - Faixa b\u00f4nus",
       "url": "https://open.spotify.com/track/2rQbSUnzcZE5MZALYP36og"

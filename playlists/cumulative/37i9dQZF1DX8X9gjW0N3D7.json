@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "L'autre h\u00e9misph\u00e8re",
+        "url": "https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221851,
+      "name": "L'autre h\u00e9misph\u00e8re",
+      "url": "https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225906,
       "name": "LAISSE LES BONS TEMPS ROULER",
       "url": "https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3"
@@ -953,6 +971,24 @@
     },
     {
       "album": {
+        "name": "M\u00e2cher tes bottes",
+        "url": "https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz"
+      },
+      "artists": [
+        {
+          "name": "Avec pas d'casque",
+          "url": "https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207877,
+      "name": "M\u00e2cher tes bottes",
+      "url": "https://open.spotify.com/track/6m10tqV7JardUKNPItH94C"
+    },
+    {
+      "album": {
         "name": "n'as-tu jamais vu d'oiseaux",
         "url": "https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK"
       },
@@ -1036,7 +1072,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 167066,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW"

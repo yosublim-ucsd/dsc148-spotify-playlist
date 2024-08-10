@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,711 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,904 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 4 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
 | 5 | [دوارة](https://open.spotify.com/track/5OXhTWBpG2CKbPjORQXmCf) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [دوارة](https://open.spotify.com/album/0Gnt7VNxg6SGCpeGlbPSvP) | 3:17 |
 | 6 | [آخرة طريقى دا إيه ؟ \- من مسلسل كوبرا](https://open.spotify.com/track/4k3ygO9jqERGUnHB5UnOtG) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [آخرة طريقى دا إيه ؟ \(من مسلسل كوبرا\)](https://open.spotify.com/album/3Qgdwj8TYUrv0ksxVsn6KN) | 2:29 |
-| 7 | [الاسود](https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [الاسود](https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv) | 3:30 |
+| 7 | [الثبات الثبات](https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [الثبات الثبات](https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv) | 3:30 |
 | 8 | [Yoom El Ghorba](https://open.spotify.com/track/2oXlQeY8OSZcbPSaIzL1rC) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ahmed Hamama](https://open.spotify.com/artist/6tBsU69wBs1rLXpHtX1NB1) | [Yoom El Ghorba](https://open.spotify.com/album/6efDLOYNt1jx38q1WBfVef) | 3:20 |
 | 9 | [Alby Ma3ak](https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alby Ma3ak](https://open.spotify.com/album/5MoX8FjhsUEt9AxbZ5RIki) | 3:35 |
 | 10 | [El Mal3ab Wase3](https://open.spotify.com/track/6aXn3QBR6fm087bEIqm85z) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Mal3ab Wase3](https://open.spotify.com/album/587Jslmgif2pEcpKCSkULK) | 3:41 |

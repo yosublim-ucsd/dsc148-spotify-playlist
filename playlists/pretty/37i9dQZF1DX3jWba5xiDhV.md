@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > Pino D'Angiò, italo disco king, you will always be missed 💔 1952\-2024
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,807 likes - 75 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,119 likes - 75 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 64 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 65 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
 | 66 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 |
-| 67 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 |
-| 68 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
+| 67 | [Danza Organica \- Musumeci Remix Hot Version](https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Danza Organica \(Musumeci Remix Hot Version\)](https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE) | 3:16 |
+| 68 | [BUBBLEGUM \- Jürgen Paape "Frutti Di Mare" Remix](https://open.spotify.com/track/4A1PYa1gZxIeRdF2iOHEYO) | [ISABELLA](https://open.spotify.com/artist/2mm9hPa6bzyiKaCeKBb55l), [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk) | [BUBBLEGUM \(Jürgen Paape "Frutti Di Mare" Remix\)](https://open.spotify.com/album/3eQABYZMjZ0ZPFlPdxcO5C) | 5:15 |
 | 69 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
 | 70 | [Under the Ice \- Original 12 Inch Version](https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC) | [Topo](https://open.spotify.com/artist/3atWGSgG787Lwz2HRvOsc3), [Roby](https://open.spotify.com/artist/6GuBfLWCyZnUatyVaOQLX2) | [Under the Ice \- Single](https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk) | 7:12 |
 | 71 | [Sciura Milanese](https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2) | 3:10 |

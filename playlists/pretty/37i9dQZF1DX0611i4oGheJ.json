@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 450484,
+  "num_followers": 450581,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
+        "name": "Falling In",
+        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 315491,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
-        "name": "Falling In",
-        "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 315491,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
+        "name": "The Trek",
+        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 282253,
+      "name": "The Trek",
+      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
         "name": "A Running Start",
         "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "The Trek",
-        "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "The Trek",
-      "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 247253,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1431,6 +1415,22 @@
       "duration_ms": 274733,
       "name": "Let No Grief",
       "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
         }
       ],
-      "duration_ms": 187211,
-      "name": "Fixed",
-      "url": "https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9"
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
+      "duration_ms": 187211,
+      "name": "Fixed",
+      "url": "https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Bug Like an Angel",
         "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 212333,
       "name": "Bug Like an Angel",
       "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2024-07-05 18:59:00",

@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 111374,
       "name": "As Sweet As Can Be",
       "url": "https://open.spotify.com/track/0H4l3pTfyVhyDOXHtqpZyT"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 104627,
       "name": "Because You're You",
       "url": "https://open.spotify.com/track/6pHATH756uiHZzvPnUx9Q3"
@@ -1514,6 +1514,24 @@
       "duration_ms": 143877,
       "name": "Believe in the Moon",
       "url": "https://open.spotify.com/track/2tzG4LsT6mfDgkcQ3QWpQk"
+    },
+    {
+      "album": {
+        "name": "Bella Luna",
+        "url": "https://open.spotify.com/album/2rjowiMUNfXIzZfWUKjgt7"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108481,
+      "name": "Bella Luna",
+      "url": "https://open.spotify.com/track/5k1QeMxPVq6pbegRC5fH5N"
     },
     {
       "album": {
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 98624,
       "name": "Happy Times",
       "url": "https://open.spotify.com/track/5ktISNmss2NX5pPIZp3tDf"
@@ -8840,7 +8858,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 117500,
       "name": "My Secret Hope",
       "url": "https://open.spotify.com/track/0OKJn9RZqmsjkAGnDo5YJL"
@@ -9348,6 +9366,24 @@
       "duration_ms": 98608,
       "name": "Old Macdonald Had A Farm",
       "url": "https://open.spotify.com/track/75apuD4FSexqsVIVE6czFc"
+    },
+    {
+      "album": {
+        "name": "Old Man Noah",
+        "url": "https://open.spotify.com/album/28sCXiNr7RPhKDAmBrA51n"
+      },
+      "artists": [
+        {
+          "name": "Elia McWey",
+          "url": "https://open.spotify.com/artist/0po0EvPeTYz8RX8UgYl7ZV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Old Man Noah",
+      "url": "https://open.spotify.com/track/7HOloYI5cDOpgFMKt3rpPC"
     },
     {
       "album": {
@@ -10648,7 +10684,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170686,
       "name": "R\u00f8mmegr\u00f8",
       "url": "https://open.spotify.com/track/4Zppripz26szoyhJ7Z76GI"
@@ -10907,6 +10943,24 @@
     },
     {
       "album": {
+        "name": "Sirene",
+        "url": "https://open.spotify.com/album/4A9wLQzZwLKziFX9G8Crcw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5nljus",
+          "url": "https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93500,
+      "name": "Sirene",
+      "url": "https://open.spotify.com/track/3iAVV3uznI2zqJ6IXv1GUz"
+    },
+    {
+      "album": {
         "name": "Six Little Ducks",
         "url": "https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf"
       },
@@ -11138,6 +11192,24 @@
       "duration_ms": 112409,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/75VbqJE4wpR7upFz5lCgP4"
+    },
+    {
+      "album": {
+        "name": "Sleep Tight Little Friend",
+        "url": "https://open.spotify.com/album/3pH2vq52FNWrXooyyY5u5L"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tira",
+          "url": "https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113267,
+      "name": "Sleep Tight Little Friend",
+      "url": "https://open.spotify.com/track/7AKWpfDjaLU8gfO8d548Jg"
     },
     {
       "album": {
@@ -13337,6 +13409,24 @@
     },
     {
       "album": {
+        "name": "The Swan In The Lake",
+        "url": "https://open.spotify.com/album/1HDlp8HSgaPInae7UZOBUm"
+      },
+      "artists": [
+        {
+          "name": "Julius Nilsson",
+          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119512,
+      "name": "The Swan In The Lake",
+      "url": "https://open.spotify.com/track/1P2owVvqc0HB40gKhVgKe0"
+    },
+    {
+      "album": {
         "name": "The Sweetest Dream",
         "url": "https://open.spotify.com/album/2HW02tpcHyD9OoNoG3Up1t"
       },
@@ -14716,7 +14806,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 139442,
       "name": "Weightless Sleep",
       "url": "https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG"
@@ -15404,6 +15494,24 @@
       "duration_ms": 83478,
       "name": "Your Dreams",
       "url": "https://open.spotify.com/track/4ofrtW6Nkb7qUxyhwp67kq"
+    },
+    {
+      "album": {
+        "name": "Your Journey",
+        "url": "https://open.spotify.com/album/3ivJS48LAdElc86omrimCg"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Your Journey",
+      "url": "https://open.spotify.com/track/7yRQQWrzpdkb7kMabcngyt"
     },
     {
       "album": {

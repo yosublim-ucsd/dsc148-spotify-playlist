@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-317 songs - 18 hr 22 min
+318 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [No me llames más](https://open.spotify.com/track/1P6GdZP0fBY4CRoYXG3r7b) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [No me llames más](https://open.spotify.com/album/1sj3t4g3wAxDe0dNWHqwyZ) | 3:16 | 2024-03-29 | 2024-05-11 |
 | [No Me Obligues](https://open.spotify.com/track/3zt2sKW3baol4P64yRnmTp) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [No Me Obligues](https://open.spotify.com/album/1S6BDGo0jDjlODItAMfEeV) | 3:27 | 2022-09-02 | 2022-09-17 |
 | [No Puedo Más](https://open.spotify.com/track/5nTMWn5tDrRJuWyObIS2nM) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [No Puedo Más](https://open.spotify.com/album/28r8Cg03NewVnUrW8nFjzk) | 3:45 | 2022-09-02 | 2022-12-03 |
-| [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 | 2024-07-19 |  |
+| [No Sabes La Que Te Espera](https://open.spotify.com/track/0ueX8kma8wlUPPDfNnTLzL) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [No Sabes La Que Te Espera](https://open.spotify.com/album/7EHtKlwFa7ps7OTCR2ZqCA) | 2:41 | 2024-07-19 | 2024-08-10 |
 | [No se va](https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [No se va](https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0) | 4:18 | 2023-03-09 | 2023-04-04 |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2021-12-24 |  |
 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 | 2023-12-30 |  |
@@ -198,6 +198,7 @@
 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-21 |  |
 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2022-04-15 | 2022-09-03 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-24 |  |
+| [Otra Oportunidad](https://open.spotify.com/track/4wWSU0upTTcJ3zfFx37Cun) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Otra Oportunidad](https://open.spotify.com/album/02XPfacvzjTIhbYV2mMolk) | 2:57 | 2024-08-09 |  |
 | [Pa La Playita](https://open.spotify.com/track/4kAL6Cp1rKIQjZ6iGUpanE) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Pa La Playita](https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP) | 3:16 | 2023-12-15 | 2024-01-25 |
 | [Pa' que Tenga Swing](https://open.spotify.com/track/4eQuOFEmj4lQkIGq2oBCOq) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Pa' que Tenga Swing](https://open.spotify.com/album/13cJhpNH3hzsKOXj3Whl2F) | 2:55 | 2022-07-22 | 2023-06-06 |
 | [Paisaje](https://open.spotify.com/track/42p8jn5G8jYu3QO2FtuGb2) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Paisaje](https://open.spotify.com/album/6oZd67xjI9Y4Hs389kVVvt) | 4:22 | 2021-12-24 | 2022-01-08 |

@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158391,
       "name": "Family Affair (Dance For Me)",
       "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
@@ -3150,6 +3150,28 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Edicti ja Ville Veikka.
 
-1,754 songs - 3 day 18 hr 59 min
+1,758 songs - 3 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Freedom Flag](https://open.spotify.com/track/6MGyfIlmjLogEheg8Bwga0) | [Pepe Deluxe](https://open.spotify.com/artist/6UT3rmNEV2e4RVRoeSElgN) | [Freedom Flag](https://open.spotify.com/album/1lrheXDTbWeuuuD7Hoam3F) | 3:35 | 2024-04-26 | 2024-05-03 |
 | [FRESH](https://open.spotify.com/track/1CLuvdKwKaVg3bUBmJIAOm) | [Hukas](https://open.spotify.com/artist/6GZOU62NpJtjGWv7A8Gouf), [Moora](https://open.spotify.com/artist/3Z44f9r9XTbvproDdeCKHJ) | [FRESH](https://open.spotify.com/album/1LkFonFsVLJe6wigoVymEm) | 2:57 | 2024-07-25 | 2024-08-02 |
 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 | 2024-04-26 | 2024-05-03 |
+| [Fuk You Mean](https://open.spotify.com/track/7LORHC77uHgfpmCTzlP3Hw) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Fuk You Mean](https://open.spotify.com/album/7Jid01RSLUg5VscJB2nGd8) | 2:56 | 2024-08-08 |  |
 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 | 2024-05-09 | 2024-05-17 |
 | [Fun!](https://open.spotify.com/track/4fYn1czdTYCUghXdvIeHg3) | [Gracie Moller](https://open.spotify.com/artist/4ZjWH3iesGTCHe6WB2EMbs) | [Fun!](https://open.spotify.com/album/52KdryPEyIJlfevaosEbu1) | 2:54 | 2024-07-11 | 2024-07-19 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-11 | 2024-07-19 |
@@ -479,6 +480,7 @@
 | [Gave It Back](https://open.spotify.com/track/2wC6FQLrocd9yjipgAUBNa) | [Cvshbaby](https://open.spotify.com/artist/5w3X0e0ojqgH0FZJ6rhuZr) | [GAVE IT BACK](https://open.spotify.com/album/1IND6KqSH2dgnnIIyuwQt2) | 1:55 | 2024-05-16 | 2024-05-24 |
 | [Gaza is Calling](https://open.spotify.com/track/3ChIzdLUmq1sB9I556xwgC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb) | 4:30 | 2024-06-13 | 2024-06-21 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-06 | 2024-06-14 |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-08 |  |
 | [Getting No Sleep](https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Getting No Sleep](https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Ghost](https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Ghost](https://open.spotify.com/album/7tfEOusLSTsiDwKQADFBjQ) | 3:58 | 2024-08-01 | 2024-08-09 |
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-09 | 2024-05-17 |
@@ -519,6 +521,7 @@
 | [Guilt](https://open.spotify.com/track/3a4Qg1DhMFufhBkUfCGOGX) | [Split Iris](https://open.spotify.com/artist/08QfTWpB2d2tGtVA8Ldhru) | [Bloodred Dusk](https://open.spotify.com/album/2aYUbmeLgtPcXfST73kXX1) | 4:38 | 2024-06-27 | 2024-07-05 |
 | [Guilty Pleasure](https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Guilty Pleasure](https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI) | 2:35 | 2024-07-11 | 2024-07-19 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-08-02 |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 |  |
 | [Haistakaa persettä](https://open.spotify.com/track/5zpa21Al4myNygnSbuWsUQ) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Haistakaa persettä](https://open.spotify.com/album/5BRDSxky3vdoEFdx4kDyWL) | 2:41 | 2024-04-26 | 2024-05-03 |
 | [hall of shame](https://open.spotify.com/track/4ltHLPJ478owSTab5NpDVm) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [hall of shame](https://open.spotify.com/album/7qtPZv7fv8kBVGWPMBjvft) | 2:56 | 2024-06-20 | 2024-06-28 |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-04-26 | 2024-05-03 |
@@ -1037,6 +1040,7 @@
 | [MUST KII](https://open.spotify.com/track/6oWMG9eS3pU4SqjoS4a3jr) | [internet soulja](https://open.spotify.com/artist/0TqMPPXrgPRlyk2wEXdqLj) | [MUST KII](https://open.spotify.com/album/0DOSh9yXbq8UH50aOzYHfM) | 2:34 | 2024-06-27 | 2024-07-05 |
 | [Musta Rolls Royce](https://open.spotify.com/track/3LFouhy6jUUGqQ4mNsIECd) | [Laineen Kasperi](https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA) | [DOPE](https://open.spotify.com/album/0bc8zDE6rjjd66zIHSsYAF) | 3:33 | 2024-05-30 | 2024-06-07 |
 | [Mutsis kaa](https://open.spotify.com/track/0kH0dbuiJaA7fIEw38VXDR) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Mutsis kaa](https://open.spotify.com/album/7s1EKlQ9ai0yjJtzbg9CIE) | 2:32 | 2024-06-06 | 2024-06-14 |
+| [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 | 2024-08-08 |  |
 | [Muutamat](https://open.spotify.com/track/6JZ5U8yMKyFjtAT2uLhZKf) | [Juhani & Joonatan](https://open.spotify.com/artist/1RY0uzJo0lUlShCydyDXCP) | [Muutamat](https://open.spotify.com/album/4lSBFDx6zjQ91qIvcuL074) | 3:30 | 2024-05-16 | 2024-05-24 |
 | [Muuttolinnut](https://open.spotify.com/track/6wzFTKud0ecx8z10d8qwzv) | [Antti Karsee](https://open.spotify.com/artist/6YijeCCZDuweMA7lm55yhS), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [Muuttolinnut](https://open.spotify.com/album/55rSh5B9xLQxcZWHocTCfm) | 2:42 | 2024-07-11 | 2024-07-19 |
 | [Muuttolintu](https://open.spotify.com/track/2eMyC0SxsZRIGh3p81tcJ8) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Muuttolintu](https://open.spotify.com/album/6B14cmVkJAaEXnBGUQ3TS2) | 3:41 | 2024-05-02 | 2024-05-10 |

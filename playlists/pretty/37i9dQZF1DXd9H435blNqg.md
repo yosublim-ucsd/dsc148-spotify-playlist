@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,442 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,467 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 31 | [Tell Your Mother](https://open.spotify.com/track/4NrOX0curF1iOa5SUPdN6m) | [Dr JOE](https://open.spotify.com/artist/2hQXLKSqrDLgj3r6LtUU0Y) | [Tell Your Mother](https://open.spotify.com/album/0KyLimkIfVmiJOFGZQ1VWu) | 3:34 |
 | 32 | [Dog Days](https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY) | 4:08 |
 | 33 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 |
-| 34 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
+| 34 | [The Ballad of Johnny Steel](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 |
 | 35 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 |
 | 36 | [Shot Down](https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/3GSGs4142RQMnWYEmGGHBd) | 3:13 |
 | 37 | [Switchup](https://open.spotify.com/track/4Pt6kY4Q9wxiFj9QJspC1g) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 2:27 |

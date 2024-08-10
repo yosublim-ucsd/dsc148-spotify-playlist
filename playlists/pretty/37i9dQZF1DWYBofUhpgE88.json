@@ -1,6 +1,6 @@
 {
   "description": "Musica per non smettere mai di crederci \ud83c\udfc6 \ud83d\udcaa\ud83c\udfcb\ufe0f Alice D'Amato in cover, oro olimpico \ud83e\udd47",
-  "num_followers": 346650,
+  "num_followers": 346819,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2024-08-07 16:35:22",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0v9QGZDE2msGl8zAlXKP93"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/4OssqCixV2Xsxd43wMIQyS"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
     },
     {
       "added_at": "2024-08-07 16:35:22",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -823,6 +803,26 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "Never Lose Me",
-        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
+        "name": "Never Lose Me",
+        "url": "https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU"
     },
     {
       "added_at": "2024-08-07 16:35:22",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
-      },
-      "artists": [
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 137098,
-      "name": "Hoe (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 137098,
+      "name": "Hoe (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
     },
     {
       "added_at": "2024-08-07 16:35:22",
@@ -1919,6 +1919,30 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
+        "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
+        "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
+      "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
+    },
+    {
+      "added_at": "2024-08-07 16:35:22",
+      "album": {
         "name": "Better Off (Alone, Pt. III)",
         "url": "https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS"
       },
@@ -1939,30 +1963,6 @@
       "duration_ms": 151702,
       "name": "Better Off (Alone, Pt. III)",
       "url": "https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s"
-    },
-    {
-      "added_at": "2024-08-07 16:35:22",
-      "album": {
-        "name": "Low (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
-      },
-      "artists": [
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Low (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57"
     },
     {
       "added_at": "2024-08-07 16:35:22",
@@ -1991,26 +1991,26 @@
     {
       "added_at": "2024-08-07 16:35:22",
       "album": {
-        "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
-        "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
+        "name": "Low (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
         },
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         },
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 139285,
-      "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
-      "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
+      "duration_ms": 160000,
+      "name": "Low (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57"
     }
   ],
   "unique_name": "ADRENALINA",

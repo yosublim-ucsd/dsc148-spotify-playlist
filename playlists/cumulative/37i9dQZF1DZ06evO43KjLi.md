@@ -2,7 +2,7 @@
 
 ### [This Is Esteban Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43KjLi)
 
-> This is Esteban Gabriel\. The essential tracks, all in one playlist.
+> This Is Esteban Gabriel\. Los temas esenciales, todos en una lista.
 
 44 songs - 2 hr 10 min
 
@@ -15,7 +15,7 @@
 | [Besos](https://open.spotify.com/track/5idUAsCHVRbEOYi9iiea7U) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:41 | 2024-05-26 |  |
 | [Buen Ejemplo](https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Buen Ejemplo](https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW) | 3:25 | 2023-03-10 |  |
 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 | 2023-03-10 |  |
-| [Con Un Presidente](https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:36 | 2023-03-10 |  |
+| [Con Un Presidente](https://open.spotify.com/track/2n953vWBOzx3m40zPBxjVQ) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:36 | 2023-03-10 | 2024-08-10 |
 | [Damas y Placeres](https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:49 | 2023-03-10 |  |
 | [Diablitos](https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:15 | 2023-03-10 |  |
 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 | 2023-03-10 |  |

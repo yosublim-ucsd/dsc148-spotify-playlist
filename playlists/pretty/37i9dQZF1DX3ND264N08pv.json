@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 74446,
+  "num_followers": 74474,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "So Druff (D-Fence Remix)",
         "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 166950,
       "name": "So Druff - D-Fence Remix",
       "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Meteor",
-        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Thunder In Paradise",
         "url": "https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF"
       },
@@ -799,6 +779,22 @@
       "duration_ms": 159600,
       "name": "Shark Attack",
       "url": "https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -823,18 +819,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "CocoNUTS",
-        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+        "name": "Meteor",
+        "url": "https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 202880,
-      "name": "CocoNUTS",
-      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
+      "duration_ms": 220800,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -875,26 +875,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Coco's Revenge (Mind Compressor Remix)",
-        "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
       },
       "artists": [
         {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         },
         {
-          "name": "Bulletproof",
-          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
-        },
-        {
-          "name": "Mind Compressor",
-          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         }
       ],
-      "duration_ms": 196571,
-      "name": "Coco's Revenge - Mind Compressor Remix",
-      "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -915,6 +911,30 @@
       "duration_ms": 201600,
       "name": "Deep In The Underground",
       "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Coco's Revenge (Mind Compressor Remix)",
+        "url": "https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD"
+      },
+      "artists": [
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        },
+        {
+          "name": "Bulletproof",
+          "url": "https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6"
+        },
+        {
+          "name": "Mind Compressor",
+          "url": "https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Coco's Revenge - Mind Compressor Remix",
+      "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1007,26 +1027,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Adrenaline Kicks",
         "url": "https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN"
       },
@@ -1059,6 +1059,26 @@
       "duration_ms": 196800,
       "name": "Bounce To This - Official Bounce Anthem 2024",
       "url": "https://open.spotify.com/track/67sXGYP0pSj9CM8cb3BFeX"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Make It Blow",
-        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Make It Blow",
-      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Weltschmerz",
         "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
       },
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "Uit M'n Naad!",
+        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Uit M'n Naad!",
+      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "Furious Anger",
         "url": "https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 205647,
       "name": "Furious Anger",
       "url": "https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "Mutilate",
-        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
-      },
-      "artists": [
-        {
-          "name": "Chapter V",
-          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
-        },
-        {
-          "name": "Amduscias",
-          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
-        }
-      ],
-      "duration_ms": 230281,
-      "name": "Mutilate",
-      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "Uit M'n Naad!",
-        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
+        "name": "Mutilate",
+        "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Chapter V",
+          "url": "https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab"
         },
         {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+          "name": "Amduscias",
+          "url": "https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Uit M'n Naad!",
-      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+      "duration_ms": 230281,
+      "name": "Mutilate",
+      "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
-      },
-      "artists": [
-        {
-          "name": "Alpha Lion",
-          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
-        },
-        {
-          "name": "Desolate One",
-          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
@@ -1467,6 +1447,42 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+      },
+      "artists": [
+        {
+          "name": "Alpha Lion",
+          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+        },
+        {
+          "name": "Desolate One",
+          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 204439,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-08-02 06:50:39",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-02 06:50:39",
       "album": {
-        "name": "THE 4TH DIMENSION",
-        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Oldschool The School",
-      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
-    },
-    {
-      "added_at": "2024-08-02 06:50:39",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 265900,
       "name": "The Oni Retribution",
       "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+    },
+    {
+      "added_at": "2024-08-02 06:50:39",
+      "album": {
+        "name": "THE 4TH DIMENSION",
+        "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Oldschool The School",
+      "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
     },
     {
       "added_at": "2024-08-02 06:50:39",

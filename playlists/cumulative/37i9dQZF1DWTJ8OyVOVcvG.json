@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
         "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
       },
@@ -234,10 +252,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 204111,
       "name": "Chasing Low Vibrations",
       "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
+    },
+    {
+      "album": {
+        "name": "CHIQUITINHA",
+        "url": "https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        },
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CHIQUITINHA",
+      "url": "https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK"
     },
     {
       "album": {
@@ -401,6 +441,24 @@
     },
     {
       "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "album": {
         "name": "The Alexander Technique",
         "url": "https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8"
       },
@@ -412,7 +470,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
@@ -560,7 +618,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155213,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
@@ -690,7 +748,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173200,
       "name": "L\u00e2ng\u0103 tine",
       "url": "https://open.spotify.com/track/0mSWgUPuFoEI0Exf6BKvzS"
@@ -726,7 +784,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 299613,
       "name": "Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6"
@@ -802,7 +860,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
@@ -1058,6 +1116,24 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "album": {
+        "name": "TE IUBESC CUM POT",
+        "url": "https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136125,
+      "name": "TE IUBESC CUM POT",
+      "url": "https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo"
     },
     {
       "album": {

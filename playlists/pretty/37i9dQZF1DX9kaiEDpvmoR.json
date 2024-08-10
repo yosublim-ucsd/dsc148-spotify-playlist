@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92166,
+  "num_followers": 92163,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
       "duration_ms": 285791,
       "name": "I Figured We'd Go Dancin'",
       "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -543,6 +559,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Bar Thinking",
         "url": "https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c"
       },
@@ -611,6 +643,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Viker inte ner mig \u00e4n",
         "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
       },
@@ -627,22 +675,6 @@
       "duration_ms": 227400,
       "name": "Viker inte ner mig \u00e4n",
       "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -683,6 +715,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Midsommardansen",
+        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 124601,
+      "name": "Midsommardansen",
+      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Walk With Me - Chod\u017a ze mn\u0105",
         "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
       },
@@ -699,22 +747,6 @@
       "duration_ms": 168457,
       "name": "Walk With Me - Chod\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Midsommardansen",
-        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 124601,
-      "name": "Midsommardansen",
-      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -787,22 +819,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
-      },
-      "artists": [
-        {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -819,6 +835,22 @@
       "duration_ms": 195187,
       "name": "Presence",
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -955,6 +987,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Regnbl\u00f6ta skor",
+        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Regnbl\u00f6ta skor",
+      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Out Of Love",
         "url": "https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW"
       },
@@ -1007,6 +1055,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Hey Little Love",
         "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
       },
@@ -1055,22 +1119,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Sommartider",
         "url": "https://open.spotify.com/album/4WEMP3mTVAWogpn0Dfpnll"
       },
@@ -1107,6 +1155,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1139,22 +1203,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Dom Sa \u2013 Ett glas till",
-        "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
-      },
-      "artists": [
-        {
-          "name": "Avantgardet",
-          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Ett Glas Till",
-      "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Draw Me Closer 2.0",
         "url": "https://open.spotify.com/album/4Q9n0l1o6u76glGTDQBPfN"
       },
@@ -1171,6 +1219,22 @@
       "duration_ms": 309166,
       "name": "Draw Me Closer 2.0",
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Dom Sa \u2013 Ett glas till",
+        "url": "https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74"
+      },
+      "artists": [
+        {
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Ett Glas Till",
+      "url": "https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1331,22 +1395,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Se mig bara f\u00f6r den jag \u00e4r",
-        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
-      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Jag g\u00f6r allt som man inte f\u00e5r",
         "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
       },
@@ -1415,6 +1463,38 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Se mig bara f\u00f6r den jag \u00e4r",
+        "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "M\u00f6t mig i Gamla Stan (Swing Version)",
+      "url": "https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Endless Road",
         "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
       },
@@ -1451,22 +1531,6 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Don't Blame It On Me",
-        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Don't Blame It On Me",
-      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
         "name": "Vill ha mer (2024 Version)",
         "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
       },
@@ -1479,126 +1543,6 @@
       "duration_ms": 164880,
       "name": "Vill ha mer - 2024 Version",
       "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Sk\u00e5pmat 71-05",
-        "url": "https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d"
-      },
-      "artists": [
-        {
-          "name": "Rolf Wikstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
-        },
-        {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
-        }
-      ],
-      "duration_ms": 248319,
-      "name": "En \u00f6kenblomma",
-      "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
-      },
-      "artists": [
-        {
-          "name": "The Boppers",
-          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Flamma",
-        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
-      },
-      "artists": [
-        {
-          "name": "Kayo",
-          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
-        }
-      ],
-      "duration_ms": 195414,
-      "name": "Flamma",
-      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Regnbl\u00f6ta skor",
-        "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Regnbl\u00f6ta skor",
-      "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Doftade Dior",
-        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
-      },
-      "artists": [
-        {
-          "name": "Max Niclasson",
-          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Doftade Dior",
-      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "Are You Ok",
-        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "Are You Ok",
-      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1627,6 +1571,74 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Sk\u00e5pmat 71-05",
+        "url": "https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d"
+      },
+      "artists": [
+        {
+          "name": "Rolf Wikstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
+        },
+        {
+          "name": "Daniel Lemma",
+          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
+        }
+      ],
+      "duration_ms": 248319,
+      "name": "En \u00f6kenblomma",
+      "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Doftade Dior",
+        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
+      },
+      "artists": [
+        {
+          "name": "Max Niclasson",
+          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Doftade Dior",
+      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+      },
+      "artists": [
+        {
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Are You Ok",
+        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "Are You Ok",
+      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "En k\u00e4rlek sj\u00e4lv",
         "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
       },
@@ -1643,34 +1655,38 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
         }
       ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
     },
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
-        "name": "Afloat",
-        "url": "https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe"
+        "name": "Flamma",
+        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+          "name": "Kayo",
+          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
         }
       ],
-      "duration_ms": 194760,
-      "name": "Afloat",
-      "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
+      "duration_ms": 195414,
+      "name": "Flamma",
+      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 164700,
       "name": "Isn\u2019t That Enough",
       "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
-    },
-    {
-      "added_at": "2024-08-08 22:00:00",
-      "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     }
   ],
   "unique_name": "Aktuellt",

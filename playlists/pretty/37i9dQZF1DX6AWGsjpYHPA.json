@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 151828,
+  "num_followers": 151883,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 275719,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Afro-Harping",
         "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221053,
       "name": "Action Line",
       "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 275719,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/1Wrmm4XppIEegxMsU8utlv"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Along the Lethe",
-        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
-      },
-      "artists": [
-        {
-          "name": "Beacon",
-          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Harm",
-      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "DREAM SOUP",
         "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Along the Lethe",
+        "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
+      },
+      "artists": [
+        {
+          "name": "Beacon",
+          "url": "https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/3k29pw2omntASGkzIqYMnC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Age Of Ascent",
-        "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Diego",
         "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 168346,
       "name": "Diego",
       "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Age Of Ascent",
+        "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
     },
     {
       "added_at": "2024-07-26 04:00:00",

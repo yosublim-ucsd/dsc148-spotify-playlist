@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: WhoMadeWho
 
-842 songs - 2 day 9 hr 23 min
+843 songs - 2 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [between the lines](https://open.spotify.com/track/1p7VCiXSxNKtC9sQes5GJE) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [between the lines](https://open.spotify.com/album/0Sf0BYcCWauVgX17FTN7B6) | 2:58 | 2023-12-28 | 2024-01-02 |
 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 | 2023-06-30 | 2023-07-21 |
 | [Big Love \- Eat Me Edit](https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS) | [Pete Heller](https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf) | [Big Love \(Eat Me Edit\)](https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa) | 4:01 | 2022-12-30 | 2023-01-02 |
+| [Bittersweet](https://open.spotify.com/track/3FgyKKkDTIxkiiDYBl0es7) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 4:58 | 2024-08-09 |  |
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-06-27 | 2024-08-02 |
 | [Black Pegasus](https://open.spotify.com/track/0Zx8UHVhUqjuDHoW9khZla) | [DJ Swagger](https://open.spotify.com/artist/3l8A3VM3N2E4lx3afyMd9C), [Henry Greenleaf](https://open.spotify.com/artist/4Vb86N91tE4WcS36QNalLg) | [Black Pegasus](https://open.spotify.com/album/33qUFwA770Xqi6eSnwctgV) | 2:33 | 2023-09-21 | 2023-10-06 |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-08-03 | 2024-02-09 |

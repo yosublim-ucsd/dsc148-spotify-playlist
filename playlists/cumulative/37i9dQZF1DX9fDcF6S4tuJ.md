@@ -4,7 +4,7 @@
 
 > Listen to all your favorite Disney Princess songs.
 
-60 songs - 2 hr 51 min
+61 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Dream is a Wish Your Heart Makes/So This is Love](https://open.spotify.com/track/3WlCLuC6emWu8kbpaEb0KT) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Dream Is a Wish Your Heart Makes/So This Is Love](https://open.spotify.com/album/3Es44cvPertgyqLdX7Shob) | 2:29 | 2022-10-07 |  |
 | [A Whole New World](https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Brad Kane](https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin Special Edition](https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz) | 2:40 | 2022-10-07 |  |
 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 | 2022-10-07 |  |
+| [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 | 2024-08-09 |  |
 | [Almost There \- Disney Princess Remixed](https://open.spotify.com/track/3WNAQpfXKCIlEhp7hWNriv) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Ruth Righi](https://open.spotify.com/artist/7wXmoaPGvuUUGedB6D52ku), [Izabela Rose](https://open.spotify.com/artist/15nXNwsFpoLMltGMBY2gnK) | [Almost There \(Disney Princess Remixed\)](https://open.spotify.com/album/01MQB6XR5oJwRdAeWw3nug) | 2:49 | 2022-10-07 |  |
 | [Almost There \- From "The Princess and the Frog" / Soundtrack Version](https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog: Tiana and Her Princess Friends](https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg) | 2:24 | 2022-10-07 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/2rJFFUEl1LURkV0b0OARXx) | [Angela Lansbury](https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty and the Beast](https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5) | 2:46 | 2022-10-07 |  |

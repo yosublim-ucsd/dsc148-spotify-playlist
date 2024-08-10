@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Gigi Perez
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Jenna Raine
 
-443 songs - 1 day 1 hr 11 min
+445 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-03-12 | 2024-03-30 |
 | [Misnomer](https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Misnomer](https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m) | 3:42 | 2021-11-12 |  |
 | [Misnomer](https://open.spotify.com/track/0AXHqychsqAuL0ZNXI3kWq) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Yard Sale](https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC) | 3:43 | 2023-10-27 | 2024-04-19 |
-| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-12 |  |
+| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2021-11-12 | 2024-08-10 |
 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 | 2023-07-21 | 2024-08-03 |
 | [Momentum](https://open.spotify.com/track/5EatYjkKnohEHke2G5VKhL) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z) | [Momentum](https://open.spotify.com/album/5f06ywJzKO1RLnojyQ1Vij) | 3:42 | 2021-11-12 | 2022-07-25 |
 | [Monochrome](https://open.spotify.com/track/6ERbOSiVlLgwYcKsN3kmY6) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Monochrome](https://open.spotify.com/album/2nXzlL3Zhd3LnZkAMyvesX) | 3:28 | 2022-08-19 | 2022-11-02 |
@@ -325,6 +325,7 @@
 | [Rivals](https://open.spotify.com/track/0okjBFrVbXrqYoZASV6tRB) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Rivals](https://open.spotify.com/album/6OZvJcCStOv1Wes1023GKd) | 3:15 | 2021-11-12 | 2022-07-29 |
 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 | 2024-02-16 | 2024-03-30 |
 | [River](https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa) | [Soll](https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1) | [River](https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux) | 4:03 | 2021-11-12 | 2023-03-18 |
+| [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 | 2024-08-09 |  |
 | [Runaway](https://open.spotify.com/track/4kg3VwDhN1NYZnqCV4opvs) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Four Feet in the Forest](https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW) | 4:32 | 2021-11-12 | 2022-07-26 |
 | [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2022-03-12 | 2024-02-04 |
 | [Runaway](https://open.spotify.com/track/7HjU833ZEDExWGm6XkNbXI) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/6NPLTIUzyvIsn7r8cXycR9) | 4:32 | 2023-12-15 | 2024-03-30 |
@@ -361,7 +362,7 @@
 | [Steady My Bones](https://open.spotify.com/track/4asocwUbrFvs7ZLuDFuC2q) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/0smhFaTHoGiW5YrCggomEm) | 4:26 | 2021-11-12 | 2022-07-27 |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2022-08-19 | 2024-01-20 |
 | [Stones](https://open.spotify.com/track/2Y9s7N2xW1mPhnasYm5Cuq) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Stones](https://open.spotify.com/album/06spE9ETkbGlW4P82T5A5t) | 3:12 | 2023-09-29 | 2023-10-26 |
-| [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 |  |
+| [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 | 2024-08-10 |
 | [Summer Wind](https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Summer Wind / All Summer \(Where You Gonna Be?\)](https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh) | 2:40 | 2023-06-16 | 2024-03-16 |
 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 | 2021-11-12 | 2024-03-30 |
 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 | 2021-11-12 | 2022-07-27 |
@@ -432,6 +433,7 @@
 | [White Flag](https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG) | 3:19 | 2022-03-12 | 2023-09-30 |
 | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/track/3vvktrTDQASIpOsn2oiS63) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/album/3fQEjpwfe0ceIGVk8DjCe3) | 3:20 | 2024-01-12 | 2024-01-20 |
 | [Why Don't We Start from Here](https://open.spotify.com/track/6dHsDYVp8xo6HLlIVbiBZ2) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [The Dunwells](https://open.spotify.com/artist/7D0V1JYNXvhpxHDoP3zu0x) | [Why Don't We Start from Here](https://open.spotify.com/album/1JE0U3utK9qzO5jYghHJRb) | 3:32 | 2021-11-12 | 2022-07-29 |
+| [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 |  |
 | [Wilburn Street](https://open.spotify.com/track/693HvoKDYgN9uZpzI7xRTK) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 2:50 | 2022-03-12 | 2023-03-18 |
 | [Wilburn Street](https://open.spotify.com/track/6IRxdL4Mhe52S8Iz2BPchz) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note To Self](https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Wildflower](https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa) | 3:32 | 2021-11-12 | 2024-01-20 |

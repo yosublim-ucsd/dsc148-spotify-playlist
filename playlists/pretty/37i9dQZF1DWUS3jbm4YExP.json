@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 745546,
+  "num_followers": 745808,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -907,8 +907,8 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Sun Colored Eyes",
-      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
-      },
-      "artists": [
-        {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        }
-      ],
-      "duration_ms": 208153,
-      "name": "\u00c7a fait du bien - Voilaaa Remix",
-      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Gnawa EP",
         "url": "https://open.spotify.com/album/4DsoqIEQ5FB4gCaCqbgzvG"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 219906,
       "name": "Gnawa (feat. The Atlas Collective)",
       "url": "https://open.spotify.com/track/1yJRcRwLORqBA2e4ha4SJv"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+      },
+      "artists": [
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "\u00c7a fait du bien - Voilaaa Remix",
+      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Mistakes on Purpose (Ethiopiques 30)",
-        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
-      },
-      "artists": [
-        {
-          "name": "Girma B\u00e8y\u00e8n\u00e8",
-          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
-        },
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
-      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Charanga",
         "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 266820,
       "name": "Charanga",
       "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Mistakes on Purpose (Ethiopiques 30)",
+        "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
+      },
+      "artists": [
+        {
+          "name": "Girma B\u00e8y\u00e8n\u00e8",
+          "url": "https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj"
+        },
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Enk\u00e8n Y\u00e8l\u00e9l\u00e8besh",
+      "url": "https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Ka Rica-Tar",
-        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Kingdom of D'mt",
-      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Vallahi Yok / K\u0131r\u0131k Cam",
-        "url": "https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF"
+        "name": "Ka Rica-Tar",
+        "url": "https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/4uKFoGueCWMwsZlelHezct"
+      "duration_ms": 195652,
+      "name": "Kingdom of D'mt",
+      "url": "https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Vallahi Yok / K\u0131r\u0131k Cam",
+        "url": "https://open.spotify.com/album/2PEOvCM1cDnodVHjK7qbaF"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/4uKFoGueCWMwsZlelHezct"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "UPRISE",
         "url": "https://open.spotify.com/album/4GjHhGjiJZTlctbH6DKp0E"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 255558,
       "name": "Miss Universe",
       "url": "https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Lovin'",
-        "url": "https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 121030,
-      "name": "Lovin'",
-      "url": "https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Lovin'",
+        "url": "https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 121030,
+      "name": "Lovin'",
+      "url": "https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Calentita",
-        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
-      },
-      "artists": [
-        {
-          "name": "The Limi\u00f1anas",
-          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
-        },
-        {
-          "name": "Nuria",
-          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
-        }
-      ],
-      "duration_ms": 200991,
-      "name": "Calentita",
-      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "No Me Quieres (feat. Fabi Reyna)",
         "url": "https://open.spotify.com/album/0XwtNqA59iplkPTxi4Qoam"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 203076,
       "name": "No Me Quieres (feat. Fabi Reyna)",
       "url": "https://open.spotify.com/track/2LCtUA1vEQKH1YoLGMX5Rv"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Calentita",
+        "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        },
+        {
+          "name": "Nuria",
+          "url": "https://open.spotify.com/artist/21sVXoR17xphV2u6PNTpo2"
+        }
+      ],
+      "duration_ms": 200991,
+      "name": "Calentita",
+      "url": "https://open.spotify.com/track/0MYCrsAFlIGtVcfxlCEzah"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Anouk",
-        "url": "https://open.spotify.com/album/3e9Ix0XPK8q7MjeA38Z5E0"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Anouk",
-      "url": "https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Anouk",
+        "url": "https://open.spotify.com/album/3e9Ix0XPK8q7MjeA38Z5E0"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Anouk",
+      "url": "https://open.spotify.com/track/6cwG0qIHsLaVdLfLwFNIz6"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Le Fruit Disco",
         "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1711,26 +1727,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Frente Cumbiero Meets Mad Professor",
-        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
-      },
-      "artists": [
-        {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
-        },
-        {
-          "name": "Mad Professor",
-          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Chucusteady",
-      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Malaka",
         "url": "https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS"
       },
@@ -1747,18 +1743,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+        "name": "Frente Cumbiero Meets Mad Professor",
+        "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+        },
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+      "duration_ms": 263933,
+      "name": "Chucusteady",
+      "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
-      },
-      "artists": [
-        {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
-        }
-      ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "\u015eatellites",
         "url": "https://open.spotify.com/album/7olTOjGQOUzJxugpToyPMK"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 222250,
       "name": "Olurmu Dersin",
       "url": "https://open.spotify.com/track/68qlHuj9jmAzXUAI4glkA0"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Atlantic Oscillations",
-        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 351146,
-      "name": "Atlantic Oscillations",
-      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -2211,42 +2195,34 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+        "name": "Atlantic Oscillations",
+        "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
+      "duration_ms": 351146,
+      "name": "Atlantic Oscillations",
+      "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
     },
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Flash Solaire",
-        "url": "https://open.spotify.com/album/4NpjgUQeUuS53qL3lQ9ayW"
+        "name": "Chichala",
+        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
       },
       "artists": [
         {
-          "name": "Parbleu",
-          "url": "https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo"
-        },
-        {
-          "name": "Arp Frique",
-          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
-        },
-        {
-          "name": "Marissa Nyamekye",
-          "url": "https://open.spotify.com/artist/1CnZzVzkshVxUcV0eRjD9m"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Flash Solaire",
-      "url": "https://open.spotify.com/track/5pxXNfEe0O6z1wcI2vCP9l"
+      "duration_ms": 173148,
+      "name": "Chichala",
+      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2283,6 +2259,30 @@
       "duration_ms": 249982,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Flash Solaire",
+        "url": "https://open.spotify.com/album/4NpjgUQeUuS53qL3lQ9ayW"
+      },
+      "artists": [
+        {
+          "name": "Parbleu",
+          "url": "https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo"
+        },
+        {
+          "name": "Arp Frique",
+          "url": "https://open.spotify.com/artist/2Rm5Fw56mWmB0Pz0JPcOyb"
+        },
+        {
+          "name": "Marissa Nyamekye",
+          "url": "https://open.spotify.com/artist/1CnZzVzkshVxUcV0eRjD9m"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Flash Solaire",
+      "url": "https://open.spotify.com/track/5pxXNfEe0O6z1wcI2vCP9l"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2327,6 +2327,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -2343,38 +2359,6 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Voulez Vous",
-        "url": "https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Voulez Vous",
-      "url": "https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2411,22 +2395,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Mam Yinne Wa",
-        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Alogte Oho & His Sounds of Joy",
-          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Mam Yinne Wa",
-      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Apiafo",
         "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
       },
@@ -2443,6 +2411,58 @@
       "duration_ms": 213373,
       "name": "Pas Contente",
       "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Voulez Vous",
+        "url": "https://open.spotify.com/album/5yqNOJhoE5q6NLqBNa6Cg8"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Voulez Vous",
+      "url": "https://open.spotify.com/track/4c0S9uhGublmkcgeUhC1yT"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T"
+      },
+      "artists": [
+        {
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
+        }
+      ],
+      "duration_ms": 235250,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Exotic Other",
+        "url": "https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9"
+      },
+      "artists": [
+        {
+          "name": "Animanz",
+          "url": "https://open.spotify.com/artist/29tB8MAwH1C3Sny13oaCFf"
+        },
+        {
+          "name": "Juanita Euka",
+          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+        }
+      ],
+      "duration_ms": 149947,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2471,22 +2491,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Exotic Other",
-        "url": "https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9"
+        "name": "Afande",
+        "url": "https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F"
       },
       "artists": [
         {
-          "name": "Animanz",
-          "url": "https://open.spotify.com/artist/29tB8MAwH1C3Sny13oaCFf"
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
         },
         {
-          "name": "Juanita Euka",
-          "url": "https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh"
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 149947,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/3xt0wOjQFYUcIdVGByFps0"
+      "duration_ms": 323163,
+      "name": "Afande",
+      "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2507,26 +2527,6 @@
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Afande",
-        "url": "https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 323163,
-      "name": "Afande",
-      "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2579,18 +2579,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "The Joy",
-        "url": "https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc"
+        "name": "Samba em Kigali",
+        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
       },
       "artists": [
         {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Tapioca",
+          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
         }
       ],
-      "duration_ms": 97733,
-      "name": "Amaqatha Amancane",
-      "url": "https://open.spotify.com/track/5bofupjpn4LaZBJV39Zohk"
+      "duration_ms": 226416,
+      "name": "Terra Preta",
+      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "The Joy",
+        "url": "https://open.spotify.com/album/3jVdY0oNzOo0QkWT2aMdDc"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 97733,
+      "name": "Amaqatha Amancane",
+      "url": "https://open.spotify.com/track/5bofupjpn4LaZBJV39Zohk"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Samba em Kigali",
-        "url": "https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf"
-      },
-      "artists": [
-        {
-          "name": "Tapioca",
-          "url": "https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr"
-        }
-      ],
-      "duration_ms": 226416,
-      "name": "Terra Preta",
-      "url": "https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -2675,18 +2675,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+        "name": "Indio",
+        "url": "https://open.spotify.com/album/7rm407OvjlSsfUrxv54ChL"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "A Vision of Panorama",
+          "url": "https://open.spotify.com/artist/7lmyXB45fWDt0HJq305PVY"
+        },
+        {
+          "name": "Lapa Dula",
+          "url": "https://open.spotify.com/artist/0t0tMAUyLklD3LYuMzArRC"
         }
       ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
+      "duration_ms": 284106,
+      "name": "Indio",
+      "url": "https://open.spotify.com/track/3PqjKW6RHdOdn951ozbUg6"
     }
   ],
   "unique_name": "Global Groove",

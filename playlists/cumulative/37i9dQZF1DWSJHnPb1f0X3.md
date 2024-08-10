@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-697 songs - 1 day 10 hr 44 min
+698 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 | 2023-11-10 | 2023-11-18 |
 | [Holiday](https://open.spotify.com/track/5p23tD2akeZYiDZHE1r4yi) | [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Holiday](https://open.spotify.com/album/1VKV62S8RLZcEeQPZojj1V) | 3:36 | 2022-03-25 | 2022-04-19 |
 | [Home](https://open.spotify.com/track/388KEbT8ZXJBwtbw3ZS7s1) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/3x6AIVoG1mHw3ay0BzDN8Y) | 3:16 | 2022-04-01 | 2022-04-21 |
+| [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-08-09 |  |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-28 | 2023-10-28 |
 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-10-27 | 2024-04-19 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 |  |
@@ -613,7 +614,7 @@
 | [The Bender \(with Brando\)](https://open.spotify.com/track/3INNLgKkHn8HOodDulCd7x) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [The Bender \(with Brando\)](https://open.spotify.com/album/3MCWXx6jyVNdqUjxz9aLda) | 3:04 | 2022-03-25 | 2022-04-17 |
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-08-02 |  |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2022-07-08 | 2023-10-03 |
-| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-07-08 |  |
+| [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-07-08 | 2024-08-10 |
 | [The High](https://open.spotify.com/track/0a2oWi06Mvk4CooExJWJTc) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [The High](https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X) | 3:29 | 2022-03-25 | 2022-04-19 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-17 |  |
 | [The Way I Am \- Eden Prince Remix](https://open.spotify.com/track/6DrjofzZm5s8xpMn4IBMyI) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [The Way I Am \(Eden Prince Remix\)](https://open.spotify.com/album/37mKbVyPaoPAdj0h2rgDEs) | 3:12 | 2022-03-25 | 2022-04-18 |

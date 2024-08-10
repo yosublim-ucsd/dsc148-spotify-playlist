@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nsfmnIDVAJ.md) - [plain]
 
 > Where all Hamilton music coexists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,986 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,192 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

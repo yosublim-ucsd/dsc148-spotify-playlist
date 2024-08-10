@@ -1,12 +1,12 @@
 {
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 156740,
+  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
+  "num_followers": 156814,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA2K8uKZjtmXqw8NbNBA/aU",
+  "snapshot_id": "ZrQKgAAAAABaiF8aBvkeUbYdlesMuRrX",
   "tracks": [
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 275880,
-      "name": "Para\u00edso De Dulzura",
-      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
+      "duration_ms": 402120,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 402120,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
+      "duration_ms": 275880,
+      "name": "Para\u00edso De Dulzura",
+      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
     },
     {
       "added_at": null,

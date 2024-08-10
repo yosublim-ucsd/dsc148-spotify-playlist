@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 10585,
+  "num_followers": 10588,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA53ec5oWiVR3t1SebcL+rj",
+  "snapshot_id": "ZrQKgAAAAACKqcKNNHPsFta4mDTABDnn",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 377306,
-      "name": "I Want Cha' Baby",
-      "url": "https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got My Head On Straight",
         "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+      "duration_ms": 377306,
+      "name": "I Want Cha' Baby",
+      "url": "https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh"
     },
     {
       "added_at": null,
@@ -471,6 +455,38 @@
       "duration_ms": 308103,
       "name": "Me and Mrs. Jones (1895 Jazz Remix)",
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -743,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ebony Woman",
+        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Ebony Woman",
+      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sandra de S\u00e1",
         "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
       },
@@ -763,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ebony Woman",
-        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Ebony Woman",
-      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -788,9 +804,25 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 414080,
+      "name": "Peace Holy Peace",
+      "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
     },
     {
       "added_at": null,
@@ -823,38 +855,6 @@
       "duration_ms": 302733,
       "name": "Everybody's Breakin' Up",
       "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 414080,
-      "name": "Peace Holy Peace",
-      "url": "https://open.spotify.com/track/67hMdEjp5GX1wr4zl1arz5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
     },
     {
       "added_at": null,

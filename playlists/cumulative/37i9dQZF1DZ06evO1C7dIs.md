@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-99 songs - 8 hr 37 min
+100 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Storytime](https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:22 | 2022-09-08 |  |
 | [Swanheart](https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:44 | 2022-09-08 | 2022-11-06 |
 | [The Crow, the Owl and the Dove](https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:10 | 2022-11-05 |  |
+| [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-10 |  |
 | [The Eyes of Sharbat Gula](https://open.spotify.com/track/7qapfDbyifDAqSUvG477Za) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:04 | 2022-09-08 | 2022-10-13 |
 | [The Greatest Show on Earth](https://open.spotify.com/track/2TMBnZlhLEzMIpFBLlDdTh) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 24:01 | 2022-09-08 | 2022-10-13 |
 | [The Heart Asks Pleasure First](https://open.spotify.com/track/4rsqx0pmutBNt3TQQtLyKL) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Crow, the Owl and the Dove](https://open.spotify.com/album/7lY1FLP3cGbOurnNtF0jfJ) | 4:21 | 2022-09-08 | 2024-03-15 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-404 songs - 21 hr 32 min
+405 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Night And Day](https://open.spotify.com/track/5hByDDVyr6pfRAutehCAYa) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:06 | 2024-07-24 |  |
 | [Niña](https://open.spotify.com/track/7y4BwUn53YT56Zy4F0ca1n) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Lucho](https://open.spotify.com/artist/0Fh9nNdiSPLCwaKF1NV9De) | [Niña](https://open.spotify.com/album/7qdqiGQugGL4tcwB3DORRb) | 2:23 | 2024-07-24 |  |
 | [No Lover \- Live](https://open.spotify.com/track/7ltaQZDqFe1oyghj8nqdmI) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Compass Box Music: Unboxed, Vol\. 2 \(Live\)](https://open.spotify.com/album/7iSN503ApELtn6u9dF77yB) | 4:06 | 2024-07-24 |  |
-| [No Wonder Taxes Are High](https://open.spotify.com/track/3E18putZUB0PUTGiItq24P) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Aladdin](https://open.spotify.com/album/6dnx8GTQeF1jHRdLwq2H3Z) | 3:05 | 2024-08-08 |  |
+| [No Wonder Taxes Are High](https://open.spotify.com/track/3E18putZUB0PUTGiItq24P) | [Cyril Ritchard](https://open.spotify.com/artist/3TtlRsQFFJ7EA3fEKURspr), [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Aladdin](https://open.spotify.com/album/6dnx8GTQeF1jHRdLwq2H3Z) | 3:05 | 2024-08-08 | 2024-08-10 |
 | [Nobody's Chasing Me](https://open.spotify.com/track/5Yd3gvv13WcEVm8yVwXs3O) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Out Of This World](https://open.spotify.com/album/6ilPFsO5r1KQvkaDb6jyTI) | 4:42 | 2024-07-24 |  |
 | [Noel C'est L'Amour](https://open.spotify.com/track/0YA39ajuqPWarCzm2F1zCL) | [Chante avec moi](https://open.spotify.com/artist/1loyZdJGUq4fABwm80n0ZR) | [Et le choeur des enfants \(Volume 16\)](https://open.spotify.com/album/4xYRC4VO5HxvCD65Jg20QE) | 2:24 | 2024-07-24 |  |
 | [Noite e Dia](https://open.spotify.com/track/0GHM6p3dWeF42wfW6m0AeC) | [Vitoria Maldonado](https://open.spotify.com/artist/2nG4E6YcuST9Fql9uUQa3Q), [Ron Carter Quartet](https://open.spotify.com/artist/1FZbleR1waNhe2389QAtaN) | [BRASIL L.I.K.E\. Versões](https://open.spotify.com/album/29JD82mnjsGjt5E9Deq0yS) | 3:26 | 2024-07-24 |  |
@@ -392,7 +392,8 @@
 | [Wir Sind Mädchen Typisch Für Paris \(Maidens Typical Of France\) \(From Can\-Can\)](https://open.spotify.com/track/1ziahFa8dPe7yBSzPH1H9c) | [Musical Company](https://open.spotify.com/artist/5f4z9OMBKdBn67jXFTZ7hP) | [Soundtrack Masters: Wilkommen](https://open.spotify.com/album/1qoa6atQwIYiplXoZjlA8I) | 2:20 | 2024-07-24 |  |
 | [Without your love](https://open.spotify.com/track/5jAw425BUP2RVDNJaZG2NL) | [Billie Holiday Orchestra, Lester Young](https://open.spotify.com/artist/0boUJeiqdjS7GP6On0qZzX) | [BILLIE HOLIDAY, LESTER YOUNG](https://open.spotify.com/album/3sKyhn3eEHRqmvOZ9HAYyR) | 2:52 | 2024-07-24 |  |
 | [Wouldn't It Be Fun](https://open.spotify.com/track/6yPs0weK7zk6lJuWBjbI55) | [Basil Rathbone](https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 3:12 | 2024-07-24 |  |
-| [Wunderbar](https://open.spotify.com/track/4WXJe3LkTLQaLy3QfB9EEk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 2:49 | 2024-07-24 |  |
+| [Wunderbar](https://open.spotify.com/track/3knhxS1Cu9YO5wZWSwcHtW) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 2:49 | 2024-08-09 |  |
+| [Wunderbar](https://open.spotify.com/track/4WXJe3LkTLQaLy3QfB9EEk) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 2:49 | 2024-07-24 | 2024-08-10 |
 | [You And Me \(We Wanted It All\)](https://open.spotify.com/track/6iA7PtgzePpEjz0qaGyYgp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Trilogy: Past, Present & Future](https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe) | 4:09 | 2024-07-24 |  |
 | [You Can Do No Wrong \- Remastered 2022](https://open.spotify.com/track/2VdtqoWNtdxGbkLHbEzqo2) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The King of Rockabilly \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux) | 2:22 | 2024-07-24 |  |
 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 | 2024-07-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Estas son las indomables de la M\u00fasica Mexicana. Grace Guillen en portada.",
+  "description": "Estas son las indomables de la M\u00fasica Mexicana. Priscila y sus Balas de Plata en portada.",
   "name": "Mujeres Brav\u00edas",
   "tracks": [
     {
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Blank Space (Hoja en Blanco)",
+        "url": "https://open.spotify.com/album/3Rz0gBoMnPXqDDZNSEXZpK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262008,
+      "name": "Blank Space (Hoja en Blanco)",
+      "url": "https://open.spotify.com/track/2SWQDV8OdSDdddsCWcUfqB"
+    },
+    {
+      "album": {
         "name": "Borracha De Amor",
         "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148951,
       "name": "Cherry Mo\u00ebt",
       "url": "https://open.spotify.com/track/5sVce8xSleIsaMwmPt7LbG"
@@ -1357,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2pHBf1JT1yv1shEwADmryw"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/2EJtZFG7Wge8koHgxGvJPk"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Le Hacen Los Dolidos",
         "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
       },
@@ -1736,7 +1776,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175521,
       "name": "Directito A Mi Herida - En Vivo",
       "url": "https://open.spotify.com/track/0tNPaiYXFUoobqPWHucQ3E"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182309,
       "name": "El R\u00e1pido",
       "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
@@ -5369,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+    },
+    {
+      "album": {
         "name": "Por Cbrn y x Qlero",
         "url": "https://open.spotify.com/album/3zJstkHuWczgdUSQPUXLSZ"
       },
@@ -5644,7 +5702,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146749,
       "name": "P\u00edsale A La Ranfla",
       "url": "https://open.spotify.com/track/3gRxRYykb9g6SwyePhkqcU"
@@ -5836,6 +5894,28 @@
       "duration_ms": 174874,
       "name": "Quer\u00eda Que Fueras T\u00fa",
       "url": "https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8"
+    },
+    {
+      "album": {
+        "name": "quesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "quesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
     },
     {
       "album": {

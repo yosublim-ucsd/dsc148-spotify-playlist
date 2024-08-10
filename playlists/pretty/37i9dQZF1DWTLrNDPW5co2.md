@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,357 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,406 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/track/0ZZgJ88wX7vdRQSFEW04FM) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Berlin Nightmare \(feat\. Evita Manji\)](https://open.spotify.com/album/1Ki212TBrb125zZ1S05rNG) | 3:35 |
 | 2 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 3 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [SUCCUBUS XXXTENDED](https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET) | 3:19 |
-| 4 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
+| 3 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 |
+| 4 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [SUCCUBUS XXXTENDED](https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET) | 3:19 |
 | 5 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
 | 6 | [Arintintin](https://open.spotify.com/track/0gExQivfnTQxzD85envbyy) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Arintintin](https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T) | 2:28 |
 | 7 | [Puta](https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Puta](https://open.spotify.com/album/6kbzIKqCQP7tdb2ncGcWEv) | 2:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 69 | [Elevator](https://open.spotify.com/track/6fDRfO9Llh64gJSPDgiig0) | [Dafne](https://open.spotify.com/artist/54xPMIEeUNucXIoW23jWoH), [Unusual Magic](https://open.spotify.com/artist/4AHUy6q8kZWNyBoxtyCzjZ) | [Elevator](https://open.spotify.com/album/6Tqp8IcuQCznRPiPfy3ejz) | 2:03 |
 | 70 | [Drugs](https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Drugs](https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV) | 3:44 |
 
-Snapshot ID: `ZqxZwAAAAADJLX/zC0zvKfQcvDPof2Yu`
+Snapshot ID: `ZrWUQAAAAADXj96S4EGLX4LKushsgsur`

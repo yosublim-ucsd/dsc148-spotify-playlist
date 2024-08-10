@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 263100,
       "name": "Once You Taste Blood",
       "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
@@ -5816,6 +5816,24 @@
       "duration_ms": 273346,
       "name": "Wrong Side",
       "url": "https://open.spotify.com/track/2CsOL9FYV76uI055yruZP3"
+    },
+    {
+      "album": {
+        "name": "Yellow Green",
+        "url": "https://open.spotify.com/album/2s9EeTNm6Xo0EnEDfc4uUZ"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155300,
+      "name": "Yellow Green",
+      "url": "https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld"
     },
     {
       "album": {

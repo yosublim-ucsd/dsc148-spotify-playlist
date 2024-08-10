@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The hottest 50. Cover: Chappell Roan",
+  "description": "The hottest 50. Cover: Charli XCX & Billie Eilish",
   "name": "Today\u2019s Top Hits",
   "tracks": [
     {
@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -9062,6 +9062,24 @@
       "duration_ms": 160253,
       "name": "I Love You So",
       "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "album": {

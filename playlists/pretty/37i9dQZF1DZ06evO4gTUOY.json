@@ -1,33 +1,13 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3806688,
+  "num_followers": 3807511,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABR1McAhbmzg1f0DlFkCPwX",
+  "snapshot_id": "ZrQKgAAAAAASodU9VBkdudCVw2A1opCR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
-        "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
-    },
     {
       "added_at": null,
       "album": {
@@ -547,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Is Yellow",
-        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 110520,
-      "name": "Doomsday Pt. 2 (with Eminem)",
-      "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -595,6 +555,26 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Is Yellow",
+        "url": "https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 110520,
+      "name": "Doomsday Pt. 2 (with Eminem)",
+      "url": "https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI"
     },
     {
       "added_at": null,

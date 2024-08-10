@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 84478,
+  "num_followers": 84484,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Prom Queen",
-        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 136562,
-      "name": "Prom Queen",
-      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Prom Queen",
+        "url": "https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 136562,
+      "name": "Prom Queen",
+      "url": "https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "SOLACE",
-        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 349293,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 239786,
       "name": "I'm with You",
       "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "SOLACE",
+        "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 349293,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -442,15 +442,11 @@
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+      "duration_ms": 162626,
+      "name": "Tranz",
+      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -526,11 +522,15 @@
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 162626,
-      "name": "Tranz",
-      "url": "https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx"
+      "duration_ms": 197933,
+      "name": "Humility (feat. George Benson)",
+      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 206360,
       "name": "We're Going Home",
       "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
         "name": "we just need some time together",
         "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 235225,
       "name": "affection",
       "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
     },
     {
       "added_at": "2024-03-18 13:23:17",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+        "name": "Safe In The Hands of Love",
+        "url": "https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk"
       },
       "artists": [
         {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        },
+        {
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Heat Wave",
-      "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
+      "duration_ms": 278311,
+      "name": "Licking An Orchid",
+      "url": "https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt"
     }
   ],
   "unique_name": "Best of Indie 2018",

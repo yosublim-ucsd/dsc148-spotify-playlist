@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-333 songs - 16 hr 3 min
+335 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bandolera \(feat\. Buza\)](https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [Buza](https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB) | [Bandolera \(feat\. Buza\)](https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh) | 2:55 | 2024-01-26 |  |
 | [Bandra](https://open.spotify.com/track/2e6Ev7IkvZypybbOm7gJzB) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bandra](https://open.spotify.com/album/15YzlYwz6AubkRMlAq1Zu7) | 2:42 | 2024-05-17 |  |
 | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/track/6mgdm4CSdu8E3EAO3IMbLj) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Melissa Brooks](https://open.spotify.com/artist/0L8mLYqMuEW3901GuLVVVr) | [Barbie \(feat\. Melissa Brooks\)](https://open.spotify.com/album/44ksgbVSEp80E8K94zwDvH) | 2:31 | 2023-06-09 |  |
+| [Barcelona \(feat\. Cody Bolan\)](https://open.spotify.com/track/712Gj0cFeFX7tLEnmmAmDU) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Cody Bolan](https://open.spotify.com/artist/2nnHzLNaFAxbzuzjRhWSkT) | [Barcelona \(feat\. Cody Bolan\)](https://open.spotify.com/album/42hXBz46sMvJst0z5qy1nO) | 2:26 | 2024-08-09 |  |
 | [Bass Drop](https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Bass Drop](https://open.spotify.com/album/2wEpgFSaoe6g7CncCfdn05) | 2:20 | 2024-05-03 |  |
 | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/track/5jjGgAp2RC0ZFlhEcLkAyv) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Ramlode](https://open.spotify.com/artist/5bVbzfyZTpqz8pys7V9Yk7), [2ka](https://open.spotify.com/artist/1pMJ813KdUF6uEBeKMPwo4) | [Bass Like \(feat\. Ramlode & 2ka\)](https://open.spotify.com/album/2o7w2FNR74JTSKERxiwCOV) | 2:35 | 2023-05-19 |  |
 | [Bassline](https://open.spotify.com/track/1PiALnVslHSZ5VlpxwAVOm) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Bassline](https://open.spotify.com/album/0M2LKloVUYhCCADQ915mgl) | 2:34 | 2023-12-01 |  |
@@ -228,6 +229,7 @@
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-04-28 |  |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |
 | [One More Time](https://open.spotify.com/track/16qzW0XywVLTpAhCwPH8y6) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [One More Time](https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog) | 2:40 | 2022-05-06 | 2023-01-21 |
+| [One On One \(feat\. marlonbeats\)](https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [marlonbeats](https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF) | 2:18 | 2024-08-09 |  |
 | [Only Fanz](https://open.spotify.com/track/5aDKjQ0i7xuxgGKPmI7QrT) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [REMODEL](https://open.spotify.com/album/3gZgElt4vczjfoXI4LDEAo) | 2:11 | 2023-11-22 |  |
 | [OPEN YOUR EYES](https://open.spotify.com/track/6NU79Y1bRxbHwqSYdWUL2h) | [THIEVES](https://open.spotify.com/artist/0l6M2vf0lC8N42B4spXUSn), [BADVOID](https://open.spotify.com/artist/1xLTclBBWlypMWDMV8Eb6O) | [OPEN YOUR EYES](https://open.spotify.com/album/6ZHkAA8tCE9803lwFAgwKU) | 3:12 | 2023-01-04 | 2023-04-09 |
 | [Oro Negro](https://open.spotify.com/track/47CgO81InO20CWqKR7bfWC) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Oro Negro](https://open.spotify.com/album/0UufG3fDNZCkVc1mmR59yJ) | 2:13 | 2022-05-06 | 2022-09-10 |

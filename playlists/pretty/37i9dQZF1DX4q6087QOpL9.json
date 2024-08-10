@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 108980,
+  "num_followers": 109037,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Let Me See You (Clap Your Hands) EP",
+        "url": "https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO"
+      },
+      "artists": [
+        {
+          "name": "Michele Chiavarini",
+          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+        }
+      ],
+      "duration_ms": 493440,
+      "name": "Let Me See You (Clap Your Hands)",
+      "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Breathe (Natasha Diggs Remix)",
         "url": "https://open.spotify.com/album/4dlv3ovLZYjGwSHmsWPDTv"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Let Me See You (Clap Your Hands) EP",
-        "url": "https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO"
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
       },
       "artists": [
         {
-          "name": "Michele Chiavarini",
-          "url": "https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr"
+          "name": "Mr V",
+          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
         }
       ],
-      "duration_ms": 493440,
-      "name": "Let Me See You (Clap Your Hands)",
-      "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
+      "duration_ms": 415680,
+      "name": "Jus Dance",
+      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -639,22 +655,6 @@
       "duration_ms": 440533,
       "name": "I Might Do Something Wrong - Osunlade Lonely Mix",
       "url": "https://open.spotify.com/track/76ZMYgWV3OMWwMl0M0yp42"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2fBXchCWGXcGViKCTRG3Bi"
-      },
-      "artists": [
-        {
-          "name": "Mr V",
-          "url": "https://open.spotify.com/artist/42gpwkOlK8m00RBmB54sQD"
-        }
-      ],
-      "duration_ms": 415680,
-      "name": "Jus Dance",
-      "url": "https://open.spotify.com/track/3bNf9uutsm3cbPs2LnrlVW"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "The Sound Is Yours",
-        "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
-      },
-      "artists": [
-        {
-          "name": "RiskSoundSystem",
-          "url": "https://open.spotify.com/artist/2lGFbXVi0bkg4UgNbCBwNx"
-        },
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 503040,
-      "name": "The Sound Is Yours - Kerri Chandler Remix",
-      "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 560292,
       "name": "Complicated - Raw Artistic Soul Vocal Dub",
       "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "The Sound Is Yours",
+        "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
+      },
+      "artists": [
+        {
+          "name": "RiskSoundSystem",
+          "url": "https://open.spotify.com/artist/2lGFbXVi0bkg4UgNbCBwNx"
+        },
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 503040,
+      "name": "The Sound Is Yours - Kerri Chandler Remix",
+      "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Alex Attias Presents Lillygood Party Vol. 2",
         "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
         "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
       },
@@ -903,30 +903,6 @@
       "duration_ms": 391883,
       "name": "Love Changes (feat. Alana) - Deep Mix",
       "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "(un)Reliable Recordings Presents: New Things Remixes",
-        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
-      },
-      "artists": [
-        {
-          "name": "Michal Martyniuk",
-          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
-        },
-        {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
-        },
-        {
-          "name": "YaniKa",
-          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
-        }
-      ],
-      "duration_ms": 377069,
-      "name": "New Things (Eric Kupper Remix)",
-      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -955,22 +931,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+        "name": "(un)Reliable Recordings Presents: New Things Remixes",
+        "url": "https://open.spotify.com/album/6s7tgDqfY7bsaKT3WSCOlF"
       },
       "artists": [
         {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+          "name": "Michal Martyniuk",
+          "url": "https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC"
         },
         {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+          "name": "Eric Kupper",
+          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+        },
+        {
+          "name": "YaniKa",
+          "url": "https://open.spotify.com/artist/1bQgRbaK4120BXwW3LbVTZ"
         }
       ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
+      "duration_ms": 377069,
+      "name": "New Things (Eric Kupper Remix)",
+      "url": "https://open.spotify.com/track/21MaZOysLgNhO0MjWezOiX"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -991,6 +971,26 @@
       "duration_ms": 239995,
       "name": "AWA - Ralf GUM Vocal Mix Edit",
       "url": "https://open.spotify.com/track/7shDYbTq0YcuDWgzJdziyY"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
+      },
+      "artists": [
+        {
+          "name": "ADO",
+          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
+        },
+        {
+          "name": "Shae Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 264552,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/6xPWnFY8JLx6HNWZcy8LAr"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 263362,
       "name": "Finally",
       "url": "https://open.spotify.com/track/4lmtHDLarcPEqhlL9EZKCC"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/0aBn2yFmfeYbfhEYpFMEy9"
-      },
-      "artists": [
-        {
-          "name": "ADO",
-          "url": "https://open.spotify.com/artist/2OAEsMvEXwG6AQQ7lHkHZ4"
-        },
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 264552,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/7z7YdeM87GplcOag7m08tb"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Avery*Sunshine Summer EP",
-        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 441600,
-      "name": "Ugly Part of Me - Terry Hunter Mix",
-      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "When The Morning Comes",
         "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 475262,
       "name": "When The Morning Comes - Main Vocal Mix",
       "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Avery*Sunshine Summer EP",
+        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 441600,
+      "name": "Ugly Part of Me - Terry Hunter Mix",
+      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
+        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        }
+      ],
+      "duration_ms": 365395,
+      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
+      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/22ViKIy9zGTAliFcaSjC8X"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 490466,
       "name": "Glad I Found You (feat. Louie Balo & Yasmeen) - Scott Wozniak Remix",
       "url": "https://open.spotify.com/track/2u8QSKrMOhQ5TdxRGs7doX"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "I've Gotta Stand Up (Brand New Man) [Dave Lee Garage City Mix]",
-        "url": "https://open.spotify.com/album/5mycMHSrq2UUFX90AaWBJy"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 365395,
-      "name": "I've Gotta Stand Up (Brand New Man) - Dave Lee Garage City Mix",
-      "url": "https://open.spotify.com/track/1WrWti3qRX8WFcudGkAXtJ"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Track 1 Revisited - Single",
-        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 348480,
-      "name": "Track 1 Revisited - Reel to Reel Mix",
-      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Forever (feat. Sabrina Johnston) [Michael Gray Remix]",
         "url": "https://open.spotify.com/album/2Rqv0UbKa9oQYj7RlF0xkq"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 184997,
       "name": "Forever (feat. Sabrina Johnston) - Michael Gray Remix",
       "url": "https://open.spotify.com/track/2CPthPKsaGxuEvPiB2fS57"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Track 1 Revisited - Single",
+        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 348480,
+      "name": "Track 1 Revisited - Reel to Reel Mix",
+      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "Todd Terry's Rare Grooves Vol. VI",
-        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "INES Project",
-          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
-        }
-      ],
-      "duration_ms": 669373,
-      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
-      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
         "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
@@ -2403,6 +2383,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Todd Terry's Rare Grooves Vol. VI",
+        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "INES Project",
+          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
+        }
+      ],
+      "duration_ms": 669373,
+      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
+      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
       },
@@ -2415,26 +2415,6 @@
       "duration_ms": 722920,
       "name": "Elle (Main Version)",
       "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Betcha Wouldn't Hurt Me",
-        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
-      },
-      "artists": [
-        {
-          "name": "Teddy Douglas",
-          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
-        },
-        {
-          "name": "Sharon Brown Adams",
-          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
-        }
-      ],
-      "duration_ms": 350431,
-      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
-      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2455,6 +2435,26 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        },
+        {
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
+        }
+      ],
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2643,30 +2643,6 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "BACK TO BASIC",
-        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
-      },
-      "artists": [
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        },
-        {
-          "name": "Orlando Voorn",
-          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
-        }
-      ],
-      "duration_ms": 405301,
-      "name": "BACK TO BASIC - Soul Clap groove remix",
-      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
         "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
         "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
       },
@@ -2687,6 +2663,30 @@
       "duration_ms": 416509,
       "name": "Mercyless - Atjazz Unreleased Astro Remix",
       "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "BACK TO BASIC",
+        "url": "https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3"
+      },
+      "artists": [
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        },
+        {
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        },
+        {
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+        }
+      ],
+      "duration_ms": 405301,
+      "name": "BACK TO BASIC - Soul Clap groove remix",
+      "url": "https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2715,6 +2715,26 @@
       "duration_ms": 360020,
       "name": "I Believe (feat. Suzanne Palmer) - Harry's Deep In Jersey Dub",
       "url": "https://open.spotify.com/track/6yJrrz04J7LZTb9hHW1fhE"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
+      },
+      "artists": [
+        {
+          "name": "Two Lee",
+          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
+        }
+      ],
+      "duration_ms": 302950,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2759,26 +2779,6 @@
       "duration_ms": 424113,
       "name": "How He Works (feat. Nico Vega) - Cee ElAssaad Remix",
       "url": "https://open.spotify.com/track/6YzcH2ogzF1CvNMjfmlqNU"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
-      },
-      "artists": [
-        {
-          "name": "Two Lee",
-          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
-        },
-        {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -2847,6 +2847,22 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2024-08-01 12:36:57",
+      "album": {
         "name": "Good Inside",
         "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },
@@ -2863,22 +2879,6 @@
       "duration_ms": 376565,
       "name": "Good Inside",
       "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
-    },
-    {
-      "added_at": "2024-08-01 12:36:57",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2024-08-01 12:36:57",
@@ -3087,18 +3087,26 @@
     {
       "added_at": "2024-08-01 12:36:57",
       "album": {
-        "name": "The Best of Blaze, Vol. 2 - Hubert Street",
-        "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
+        "name": "Upside (Bugz Upside Mix Edit)",
+        "url": "https://open.spotify.com/album/3Oz8Ws4p3g5jER7sP3ZSrB"
       },
       "artists": [
         {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Darien Dean",
+          "url": "https://open.spotify.com/artist/1y4iouAQTN7juTUELlUp9V"
+        },
+        {
+          "name": "Bugz in the Attic",
+          "url": "https://open.spotify.com/artist/3UbnYRfDPL3L74oFrJJxxv"
         }
       ],
-      "duration_ms": 413200,
-      "name": "Take a Stand - Blaze Shelter Mix",
-      "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
+      "duration_ms": 195468,
+      "name": "Upside - Bugz Upside Mix Edit",
+      "url": "https://open.spotify.com/track/6EMTsLVajVq0Emr450Xsbh"
     }
   ],
   "unique_name": "Soulful House",

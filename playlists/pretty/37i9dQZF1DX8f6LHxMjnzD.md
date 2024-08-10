@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Charli XCX & Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,462 likes - 39 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,489 likes - 39 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

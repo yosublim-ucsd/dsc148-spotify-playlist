@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,004 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,018 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 26 | [Presha \(with Lil Wayne\)](https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Presha](https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP) | 3:05 |
 | 27 | [I Don't Wanna Die](https://open.spotify.com/track/0Ha71IjOuY5K1mbTvXk1XY) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 2:00 |
 | 28 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
-| 29 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
+| 29 | [Maneuver](https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb) | [Gnewzy](https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Maneuver](https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ) | 2:31 |
 | 30 | [Clowns In A Circus](https://open.spotify.com/track/4myCPEv2AGuG2myeEerx9G) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [Clowns In A Circus](https://open.spotify.com/album/71UiE4OeLdYPSFO6bfjjF2) | 2:50 |
-| 31 | [Maneuver](https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb) | [Gnewzy](https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Maneuver](https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ) | 2:31 |
+| 31 | [NDI IKE](https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NDI IKE](https://open.spotify.com/album/7c5jgET8u1LYjNp7JEFeO4) | 2:35 |
 | 32 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 33 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 |
 | 34 | [Do I](https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Do I](https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk) | 2:35 |

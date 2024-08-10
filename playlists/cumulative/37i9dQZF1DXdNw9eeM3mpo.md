@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-349 songs - 21 hr 6 min
+350 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Te Quiero Comer La Boca](https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:24 | 2021-12-21 | 2023-04-22 |
 | [Te Sigo](https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Aconcagua \(El Gobierno de las Tribus\)](https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx) | 3:32 | 2021-12-21 | 2023-04-22 |
 | [Temerario](https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH) | [Itaca Band](https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR) | [Temerario](https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI) | 3:21 | 2021-12-21 | 2022-02-04 |
-| [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 | 2021-12-21 |  |
+| [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 | 2021-12-21 | 2024-08-10 |
 | [Tengo Un Amor](https://open.spotify.com/track/3HEIbdp1ZmSYEgHBoZfS5c) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1) | [A La Larga Te Acostumbras](https://open.spotify.com/album/1NJb37v0xlymXsTxxHpd4h) | 3:06 | 2021-12-21 | 2023-04-22 |
 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 | 2021-12-21 | 2022-03-14 |
 | [Tiran Bombas](https://open.spotify.com/track/1mWukoi0qibt7ejatbGPKW) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [Los Intocables](https://open.spotify.com/album/0S4yC2DkQoKjw55hqehYTJ) | 3:03 | 2021-12-21 | 2022-03-07 |
@@ -336,6 +336,7 @@
 | [Tu Que Pediras](https://open.spotify.com/track/3oGvCVIV0IBTfNwRMiFkfj) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Maskatonians All Stars And Friends](https://open.spotify.com/album/3OMaXdpkljesr4q2qIPEk6) | 3:44 | 2021-12-21 | 2022-07-29 |
 | [Tu Que Pediras](https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 3:44 | 2021-12-21 | 2024-04-19 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-21 | 2023-04-22 |
+| [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 | 2024-08-09 |  |
 | [Un Niño Solo](https://open.spotify.com/track/6262h7kntg2FVQYUTfejhb) | [Los Pies Negros](https://open.spotify.com/artist/0WtbEWWoAzRJ2q3bU8bpeN) | [Un Niño Solo](https://open.spotify.com/album/6T7GSTv5SK09OHMtYkaiZF) | 2:45 | 2021-12-21 | 2022-02-25 |
 | [Una buena noche](https://open.spotify.com/track/4g2c6CYEWKLeGhwZPOkaj6) | [Staya Staya](https://open.spotify.com/artist/7mjXsxiQz6X6LS6SxGmCQf) | [Ya Suena](https://open.spotify.com/album/6kniUnB793nb2Fav2huCdm) | 2:57 | 2022-09-03 | 2023-05-06 |
 | [Una Lagrima Por Ti 2005](https://open.spotify.com/track/2bYf9Popw7l8tdffqeFj4v) | [Jamaica 69](https://open.spotify.com/artist/5WR89QzeMWyvWN9l4thUHM) | [The Rough and Tough Anthology](https://open.spotify.com/album/0btV40JfMq3w7X1YY7Oqhu) | 3:23 | 2021-12-21 | 2022-07-29 |

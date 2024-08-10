@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+    },
+    {
+      "album": {
         "name": "\u5e73\u5eb8\u4e4b\u4e0a",
         "url": "https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
@@ -5111,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Mentos and Coke",
+        "url": "https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169950,
+      "name": "Mentos and Coke",
+      "url": "https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -6068,7 +6104,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189093,
       "name": "Only One",
       "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
@@ -7217,6 +7253,24 @@
     },
     {
       "album": {
+        "name": "Some Kind of Angel / Split Lip",
+        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Some Kind of Angel",
+      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
+    },
+    {
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -7594,7 +7648,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176940,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR"
@@ -7742,7 +7796,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173953,
       "name": "talking to myself",
       "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
@@ -8196,6 +8250,24 @@
       "duration_ms": 198280,
       "name": "Trust Me Baby",
       "url": "https://open.spotify.com/track/1YNvLJutuBPJ8zKdTZ2QZi"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "album": {

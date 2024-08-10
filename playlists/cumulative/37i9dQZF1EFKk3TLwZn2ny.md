@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-49 songs - 2 hr 35 min
+50 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 | 2024-01-29 |  |
 | [Triggered \(freestyle\)](https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:29 | 2024-01-29 |  |
 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 | 2024-01-29 |  |
+| [Us](https://open.spotify.com/track/34nLVuz4g575sZjxi9gm3H) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Electric Honey](https://open.spotify.com/album/4Tw5mOARJzR867OGuF5o67) | 3:02 | 2024-08-09 |  |
 | [Value](https://open.spotify.com/track/3bYcImhElMVe8rVPZQlcvg) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Solitude](https://open.spotify.com/album/23PT15hHxagTUIyhCC97bY) | 3:16 | 2024-01-29 |  |
 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 | 2024-01-29 |  |
 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 | 2024-01-29 |  |

@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gordo
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Austin Millz &amp; Farruko
 
-613 songs - 1 day 7 hr 50 min
+614 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-06-03 | 2023-06-10 |
 | [Took The Night \- J\. Worra Extended Mix](https://open.spotify.com/track/5HBOOjUPTqfDFr6rLQrzkz) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Took The Night \(J\. Worra Extended Mix\)](https://open.spotify.com/album/5Db7KWY3EGNin5UMFSLyXu) | 5:03 | 2023-06-09 | 2023-12-14 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-06-28 |  |
+| [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 | 2024-08-09 |  |
 | [Twin Flame](https://open.spotify.com/track/2QZb1ps0j6TQAGIRbpYboE) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/4rZPUX1MOeZ4XpJSta8Epm) | 3:52 | 2022-08-05 | 2022-11-19 |
 | [Twisted Mind](https://open.spotify.com/track/6suHWTd6XV3llIys1fhZkr) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/1mUPmcxUJ2z7e0c5X6qDul) | 5:20 | 2022-06-03 | 2023-07-29 |
 | [U Gave Me Nothing \(feat\. Selin\)](https://open.spotify.com/track/1sQKGjOvLmEFP3AWYFbo63) | [Fatih Basoglu](https://open.spotify.com/artist/5XaXsrXIj4hTVjV6r5E0xe), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [U Gave Me Nothing \(feat\. Selin\)](https://open.spotify.com/album/5eaNKVbbkfT8tl9gkue6cS) | 2:32 | 2022-06-03 | 2023-06-10 |

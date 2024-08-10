@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Abdul Hannan",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu, Annural Khalid",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184124,
       "name": "Aaja Re Piya Grehan Band",
       "url": "https://open.spotify.com/track/1UslyiXR39mV3769KHFdZs"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180526,
       "name": "Enda Enda",
       "url": "https://open.spotify.com/track/4KBqbVtBIM9IybwRsOIqZq"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 227166,
       "name": "Harkalay",
       "url": "https://open.spotify.com/track/4Z7C2MuZAG6zGiHfwwsNeK"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190526,
       "name": "Lagda Nahi",
       "url": "https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163300,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI"
@@ -4241,6 +4241,28 @@
     },
     {
       "album": {
+        "name": "Rang Diya",
+        "url": "https://open.spotify.com/album/3tPcOKqoWYC2saF1Qcn7jD"
+      },
+      "artists": [
+        {
+          "name": "Ali Alvi",
+          "url": "https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168791,
+      "name": "Rang Diya",
+      "url": "https://open.spotify.com/track/0LSBqswxvemnJQ4MDqzi32"
+    },
+    {
+      "album": {
         "name": "TURBO",
         "url": "https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP"
       },
@@ -4412,7 +4434,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 157312,
       "name": "Saathiya",
       "url": "https://open.spotify.com/track/5CPc9T1gV30hT4qka88QUF"
@@ -4981,6 +5003,32 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn"
+    },
+    {
+      "album": {
         "name": "Sub Theek Hai",
         "url": "https://open.spotify.com/album/4380eKIz6zC3isIoJwc4TF"
       },
@@ -5106,7 +5154,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159428,
       "name": "Sun Lo",
       "url": "https://open.spotify.com/track/1BIKYnZlHtpv0xWdgbVT7t"

@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-184 songs - 7 hr 53 min
+185 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Captain America](https://open.spotify.com/track/4V2s08BMEqJWIfa3PcNOpR) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Captain America: The First Avenger](https://open.spotify.com/album/0La1Tskamjd6akysepE8r5) | 1:06 | 2024-01-05 |  |
 | [Captain America](https://open.spotify.com/track/6aqfUu0x0kzqGUiZDnX695) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [The Falcon and the Winter Soldier: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/73smgzwYZ4L70UFP21Hpu0) | 3:27 | 2024-01-05 |  |
 | [Captain America](https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 9:41 | 2024-01-05 |  |
+| [Captain America \- 2024 Stereo Remaster](https://open.spotify.com/track/3nUb9i0OJ0Lh9JqbRBvFg2) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Captain America \(1966 Theme\) \[2024 Stereo Remaster\]](https://open.spotify.com/album/6pivPJM6FWa6nb0UwznLHv) | 0:56 | 2024-08-09 |  |
 | [Captain America Main Titles](https://open.spotify.com/track/6y8BWRP7CmQ1Zjy7D1f6BN) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Captain America: The First Avenger](https://open.spotify.com/album/0La1Tskamjd6akysepE8r5) | 0:54 | 2024-01-05 |  |
 | [Captain Marvel](https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [Captain Marvel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0) | 2:15 | 2024-01-05 |  |
 | [Civil War](https://open.spotify.com/track/5UUZRLyBE80HsJWmnLM7A4) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: Civil War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RjfqRZ2wDniTD5ahkbOgo) | 4:25 | 2024-01-05 |  |

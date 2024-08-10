@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,784 songs - 1 day 12 hr 49 min
+1,785 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Afternoon Glory](https://open.spotify.com/track/601pR2fAkD9Oil1Uoe5H5j) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Deep Inspiration](https://open.spotify.com/album/7LzslyJIxxDQ0Nqg0rGOaG) | 1:02 | 2022-05-11 |  |
 | [Afternoon Glow](https://open.spotify.com/track/3ladifvlLT6GG5pWOYwo3x) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Afternoon Glow](https://open.spotify.com/album/60lNOgDDlL85ztliH94QlI) | 1:00 | 2024-04-03 |  |
 | [Afternoon Glow \- Ambient Cello Version](https://open.spotify.com/track/6UKxFw75BbK2lYOiXphunp) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Afternoon Glow \(Ambient Cello Version\)](https://open.spotify.com/album/5jfSN4XYMyaX8fEqs7XRD2) | 1:00 | 2024-04-04 |  |
+| [Afternoon Light](https://open.spotify.com/track/5TWckmWE1ddnAVEgayyxfM) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Afternoon Light](https://open.spotify.com/album/1Zl48ySly0L8116rmKgn4J) | 1:00 | 2024-08-09 |  |
 | [Afternoon Mist Arr\. For Cello And Piano](https://open.spotify.com/track/2p5Q9rgq3EYlqN7wlM60qC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Two Cello Preludes](https://open.spotify.com/album/3H8S5mlfUZPgVzUoRbNhYw) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Afternoon Reflections \- Cello Version](https://open.spotify.com/track/3nqTUSmf1YXPy5KQ9QTpLR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Echoes In Time \(Cello Version\)](https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY) | 1:03 | 2022-02-17 | 2024-02-13 |
 | [Afternoon Solace Arr\. For Cello](https://open.spotify.com/track/52AbiUdhORKfAEgyhp1ZO0) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Afternoon Solace](https://open.spotify.com/album/1LjSV89WsvTWwoaHg2Jfm9) | 1:01 | 2023-04-19 | 2024-02-13 |

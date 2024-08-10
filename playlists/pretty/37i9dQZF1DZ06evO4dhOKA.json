@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 58635,
+  "num_followers": 58667,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAApc7hXxmliFPJsvrQMKg0S",
+  "snapshot_id": "ZrQKgAAAAAB0xipuBdI4ef51JoHwoSPN",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 201733,
-      "name": "El \u00c1rbol De La Horca",
-      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia M\u00e1s",
-        "url": "https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165355,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz"
+      "duration_ms": 201733,
+      "name": "El \u00c1rbol De La Horca",
+      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
     },
     {
       "added_at": null,
@@ -619,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "De Nada Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 20 \u00c9xitos Con Banda",
         "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 161840,
       "name": "Trono Ca\u00eddo",
       "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "De Nada Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
     },
     {
       "added_at": null,
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 223253,
-      "name": "La Carga Ladeada",
-      "url": "https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh"
+      "duration_ms": 199173,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
     },
     {
       "added_at": null,
@@ -751,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Con Sax, Vol. 2",
-        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "El Pavido Navido",
-      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
         "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
       },
@@ -783,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -792,25 +760,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Con el Brazo Derecho",
-      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "12 Corridos",
-        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Leonardo Reyes",
-      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
+      "duration_ms": 223253,
+      "name": "La Carga Ladeada",
+      "url": "https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh"
     },
     {
       "added_at": null,
@@ -824,9 +776,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 219120,
-      "name": "Yo Te Amo Mar\u00eda",
-      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
+      "duration_ms": 177733,
+      "name": "El Pavido Navido",
+      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
     },
     {
       "added_at": null,
@@ -871,6 +823,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "12 Corridos",
+        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Leonardo Reyes",
+      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Yo Te Amo Mar\u00eda",
+      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -880,9 +864,33 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Los Sauces Llorones",
-      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
+        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 201909,
+      "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
     }
   ],
   "unique_name": "This Is Lalo Mora",

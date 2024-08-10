@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-638 songs - 19 hr 17 min
+642 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Cielito Lindo](https://open.spotify.com/track/5IZygSMNKKsStlhRZEpAOg) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Cielito Lindo](https://open.spotify.com/album/5DsRf9sWjVQFW2IUGBqEo2) | 1:48 | 2022-07-27 |  |
 | [Climbing up](https://open.spotify.com/track/2R8GvjuWEpnmsbGbT5jakX) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Climbing up](https://open.spotify.com/album/2mEmvpMrNqeuXFnk5RCwkp) | 1:14 | 2021-10-07 | 2024-04-19 |
 | [Climbing up the Cherry Tree](https://open.spotify.com/track/5H9V1JXysWfc13oIsmczPw) | [Cassandra Roy](https://open.spotify.com/artist/0kJJwbVkys4qWzyVo2ZF7a) | [Climbing up the Cherry Tree](https://open.spotify.com/album/7euUiVAe0vMsGBc9ajArX1) | 2:00 | 2023-09-22 |  |
+| [Close to My Heart](https://open.spotify.com/track/1xfT6vRaI0Q5bLrDFJNsQb) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Close to My Heart](https://open.spotify.com/album/3SRUOAGhv1qaUGAuaoQGtu) | 2:02 | 2024-08-09 |  |
 | [Closing Time](https://open.spotify.com/track/4qynpDjoyzLZjHNwroU3UN) | [Margret O'Neal](https://open.spotify.com/artist/0qWHfyGNKjHZyHCvIYwNdc) | [Closing Time](https://open.spotify.com/album/6u8mesUiCh9Ej8r3TbC8i0) | 1:53 | 2022-07-27 |  |
 | [Clouds In The Sky](https://open.spotify.com/track/2sQx2mxgTBjIthJ1ZTlJFX) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Clouds In The Sky](https://open.spotify.com/album/6JjW4ufwIc7DJjDKrPzvhs) | 1:52 | 2023-08-10 |  |
 | [Colorful Cradle](https://open.spotify.com/track/3mxfB0w2Yvy47YczoYjczW) | [Loyd Niles](https://open.spotify.com/artist/1ra6sPkU3EB25Ad5RKBtBx) | [Colorful Cradle](https://open.spotify.com/album/5hUrWZiRNULGZ4W8tXKSNg) | 1:33 | 2023-04-07 |  |
@@ -165,6 +166,7 @@
 | [Fairground Dreams](https://open.spotify.com/track/4jFxH1C6RD4wXhzp4tFb0q) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Fairground Dreams](https://open.spotify.com/album/6pbnKkjib4gAy3N6EAzWsx) | 2:09 | 2024-06-07 |  |
 | [Fais de beaux rêves](https://open.spotify.com/track/3O44PiRitVlgWdNa53UzVd) | [Gabriele Valois](https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5) | [Fais de beaux rêves](https://open.spotify.com/album/2vPvxkQOJmKYxRNtMDrwq9) | 1:47 | 2021-10-07 | 2023-08-19 |
 | [Farmer Star](https://open.spotify.com/track/2fCsfNGldSE9OUTi2aK3TE) | [Candy Dreamer](https://open.spotify.com/artist/0Hi8wmLjJz0yRhwPsy807q) | [Goodnight One, Two, Three](https://open.spotify.com/album/1wuFzY5aq1lhlbbWxfQMEk) | 1:43 | 2021-10-07 | 2022-02-11 |
+| [Fathoms Below](https://open.spotify.com/track/4454KBnQESBQnvtf6tlxh3) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Fathoms Below](https://open.spotify.com/album/5zCUykcqo7iwmgkwNegK1Q) | 2:26 | 2024-08-09 |  |
 | [Featherbed](https://open.spotify.com/track/6DD5yye9hYp0LVEMjWpQBC) | [Maryam Hamilton](https://open.spotify.com/artist/4h2yYcUraRYD5IOF8WW7p1) | [Featherbed](https://open.spotify.com/album/2iXLVPdzkqIggVepDfZKNT) | 1:40 | 2022-01-21 | 2022-12-24 |
 | [Feeling Free](https://open.spotify.com/track/4kU5W6f7sTXMyRFXQZPd6x) | [Kameron Eaton](https://open.spotify.com/artist/19sBCdUL9oi4ameglzcBwE) | [Feeling Free](https://open.spotify.com/album/7ymXb7UUqHphUhISWLVE1r) | 1:40 | 2021-10-07 | 2024-03-29 |
 | [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
@@ -246,7 +248,7 @@
 | [Hush Little Baby](https://open.spotify.com/track/2biFygmxMUsxlbIYrGVOkC) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL), [Lullaby Snugglebug](https://open.spotify.com/artist/4sGwz9WFERIBsvOBhymzNI) | [Hush Little Baby \- Piano Lullaby Hits](https://open.spotify.com/album/5nAXSHi7dbmhvaBxAntzuI) | 2:10 | 2022-09-22 | 2023-08-11 |
 | [Hush Little Baby](https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Hush Little Baby](https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze) | 1:44 | 2024-01-05 |  |
 | [Hush Now Little Sweetheart](https://open.spotify.com/track/4RDae6L7ueWtD5DpnLg9g3) | [Marnie Todd](https://open.spotify.com/artist/2wIA3XDPcUrITCBmhFMgYp) | [Hush Now Little Sweetheart](https://open.spotify.com/album/0w228DU0pQVl8aTQXnu7lS) | 1:56 | 2021-10-07 | 2024-05-24 |
-| [Hush Now, Little Tot](https://open.spotify.com/track/5ENUaPB0NQpAj5lISIWPRl) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Hush Now, Little Tot](https://open.spotify.com/album/2I9wQfhJT9bDyvyclgR2ZK) | 1:19 | 2023-12-22 |  |
+| [Hush Now, Little Tot](https://open.spotify.com/track/5ENUaPB0NQpAj5lISIWPRl) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Hush Now, Little Tot](https://open.spotify.com/album/2I9wQfhJT9bDyvyclgR2ZK) | 1:19 | 2023-12-22 | 2024-08-10 |
 | [Hänschen klein](https://open.spotify.com/track/3TVWQ5JitUqM6bocliOUam) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Edelweiss](https://open.spotify.com/album/73dGpwMip3kOtupImKbCmS) | 1:20 | 2021-10-07 | 2022-12-24 |
 | [I Am A Tree](https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [I Am A Tree](https://open.spotify.com/album/2jXeI0F6ayYXySHl7DLZq4) | 1:15 | 2024-03-01 |  |
 | [I am longing for tomorrow](https://open.spotify.com/track/0qA9hUwwGzKPToFpAWqPQv) | [Lanna Carroll](https://open.spotify.com/artist/0VDUO8LL09SYxcqoMdiJyq) | [I am longing for tomorrow](https://open.spotify.com/album/15vMLMmgmrasbDb3trDF6V) | 1:41 | 2021-10-07 | 2024-03-29 |
@@ -321,6 +323,7 @@
 | [Looby Loo](https://open.spotify.com/track/0xhioHIsjNDRu8x9yuOmnc) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Looby Loo](https://open.spotify.com/album/2n4JGmlRLImBzcHg5JqIU6) | 1:24 | 2021-10-07 | 2023-03-18 |
 | [Look at All The Roses](https://open.spotify.com/track/57a0L2Q550npr3z6ORLDb2) | [Sky McKinley](https://open.spotify.com/artist/3cRPaSpbayvCIRIhpsmVt0) | [Look at All The Roses](https://open.spotify.com/album/1S17gV9u9JIDAQCPLciFR0) | 2:24 | 2021-10-07 | 2024-05-24 |
 | [Lottie, My Friend](https://open.spotify.com/track/6bZSpPlfY3GUzhl4c6H1CG) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Lottie, My Friend](https://open.spotify.com/album/0nUfTXSW8LFlefjQALTeuJ) | 1:33 | 2023-08-10 |  |
+| [Love Bug](https://open.spotify.com/track/685c9VoJraxzPKBIn8jRZz) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Love Bug](https://open.spotify.com/album/2u2WIEuhjiK1eJ7ZmGRmCB) | 1:49 | 2024-08-09 |  |
 | [Loving Touch](https://open.spotify.com/track/2nFQqFvCL6Fx1djEt6kwbK) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [In My Arms](https://open.spotify.com/album/0ms2g8Zl0bs1G2VxEBl8BL) | 2:07 | 2023-05-11 | 2023-08-19 |
 | [Luana's Lullaby](https://open.spotify.com/track/6uv8XEhTmspmCVatihIMKI) | [Miloš Zakzewski](https://open.spotify.com/artist/3xUiPDnT0opugzPPFAtF62) | [Luana's Lullaby](https://open.spotify.com/album/2oIK2Svkgp5ATXqrc9ghpG) | 2:40 | 2021-10-07 | 2022-10-29 |
 | [Lucky teddy](https://open.spotify.com/track/3OYEVbUskeWCoidGcnld9Q) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Lucky teddy](https://open.spotify.com/album/3lmSxMm5zyoIWLuZeBEzDM) | 1:33 | 2024-05-24 |  |
@@ -494,6 +497,7 @@
 | [Snug as a bug in a rug](https://open.spotify.com/track/327FOgqQklPgWon7iAFLKL) | [Kaylea Roberts](https://open.spotify.com/artist/0CMgXqgPnzh09v9OG7VXLN) | [Snug as a bug in a rug](https://open.spotify.com/album/2VRg6S2Byb5bxx5Gy0opl1) | 1:33 | 2021-10-07 |  |
 | [Snuggle Time](https://open.spotify.com/track/0kHZ9XUe9ewCb7GUZjArlP) | [Milly Fitzpatrick](https://open.spotify.com/artist/0FQNq8baxg56GoRl1QH6z9) | [Snuggle Time](https://open.spotify.com/album/3dcidxtZPen1iiUPHT8KzY) | 1:44 | 2022-05-13 |  |
 | [Soft Bear](https://open.spotify.com/track/2sMgvy0fQhWcil0wY0V7AJ) | [Tiny Teddy](https://open.spotify.com/artist/6xHwRw7frAzIq7IsUApKyt) | [Sleep Sleep](https://open.spotify.com/album/5Ge9qAlN0C1YzQ71yQhAtO) | 1:54 | 2021-10-07 | 2024-05-24 |
+| [Soft Little Shoes](https://open.spotify.com/track/29eCoO5NSOk6ITzCe46u8R) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [Soft Little Shoes](https://open.spotify.com/album/2GCuoOVyOKVMFFqRU4WM7A) | 2:26 | 2024-08-09 |  |
 | [Softly Spoken](https://open.spotify.com/track/5D92jakPIMSqskVgerdq9r) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Softly Spoken](https://open.spotify.com/album/2GCwj6sVXuuYXUsuEe6XQ4) | 4:50 | 2021-10-07 | 2022-10-08 |
 | [Sogni d’oro](https://open.spotify.com/track/3ZrREPkekC17w11uxaanhW) | [Leora Bianchi](https://open.spotify.com/artist/7BnEklN1peuEwAJrp2u7z3) | [Sogni d’oro](https://open.spotify.com/album/0SdGm7wUUA4ThFb0oazFz5) | 1:35 | 2021-10-07 | 2024-05-24 |
 | [Soleado](https://open.spotify.com/track/0mZtMMDWYXSOSV4OZCi75V) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [Soleado](https://open.spotify.com/album/54VyyjgjFO3kAUJiXVVU7o) | 1:39 | 2022-09-22 | 2024-04-19 |

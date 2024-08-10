@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM"
+      },
+      "artists": [
+        {
+          "name": "Paulo Lucas",
+          "url": "https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263208,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq"
       },

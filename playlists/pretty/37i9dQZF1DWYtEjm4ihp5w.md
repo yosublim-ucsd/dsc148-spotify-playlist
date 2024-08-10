@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen ma kayn f rap mghribi\. Cover: 7liwa
+> Playlist dial a7sen ma kayn f rap mghribi\. Cover: Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,393 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,459 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
-| 2 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
-| 3 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
+| 1 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
+| 2 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
+| 3 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
 | 4 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 |
 | 5 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 |
 | 6 | [Ferga3 l'flow](https://open.spotify.com/track/5x4XZE1oBOJRBUWz4Y0iml) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 39 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 |
 | 40 | [Ana Ola Nti](https://open.spotify.com/track/68uOiYbz5lJeTkoaHQq6KV) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Tifinagh](https://open.spotify.com/album/5mR5F4B7Yvmg6XeLJLUh3t) | 2:39 |
 
-Snapshot ID: `ZrMEdAAAAAB6dtnJbbEQDXYubM0cG82/`
+Snapshot ID: `ZrXPZAAAAAC9abPK5Rzn4Sa/3maA/0nG`

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus Fernandes, Matheus & Kauan
 
-239 songs - 11 hr 15 min
+240 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 | 2024-04-12 |  |
 | [Deixa Eu Amar Você](https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [On Fire](https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX) | 3:11 | 2023-11-17 | 2023-12-19 |
 | [DEJA VU](https://open.spotify.com/track/2IDf0IZ9dfw0uDYV2n1bJc) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DEJA VU](https://open.spotify.com/album/0aN9m8iDUE1Khh5qL6Aj4q) | 3:19 | 2023-12-18 | 2024-02-10 |
+| [Depois \- Ao Vivo](https://open.spotify.com/track/1Ms6NNsLMqdC5v1qE3d89p) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Transcende \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/2r7Ojc9IwEpjQu4Ga76fFw) | 2:36 | 2024-08-09 |  |
 | [Desandei \- Ao Vivo](https://open.spotify.com/track/6dtQM0CXRFJgD7ifUNosZj) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Desandei \(Ao Vivo\)](https://open.spotify.com/album/4WbP3dFudueQsKivG5QUI3) | 2:23 | 2023-05-15 | 2024-05-03 |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-12-31 | 2022-04-29 |
 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 | 2023-04-21 | 2023-07-08 |
@@ -96,7 +97,7 @@
 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 | 2022-09-23 | 2023-12-11 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 | 2022-03-18 | 2022-12-20 |
 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 | 2022-12-16 | 2023-03-10 |
-| [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 | 2023-11-10 |  |
+| [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 | 2023-11-10 | 2024-08-10 |
 | [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-09-01 | 2024-07-19 |
 | [EU SOU SENTIMENTO](https://open.spotify.com/track/0HDMisLsuGNml98Xq7atpm) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [EU SOU SENTIMENTO](https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V) | 3:06 | 2024-06-14 |  |
 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 | 2022-05-27 | 2023-06-03 |

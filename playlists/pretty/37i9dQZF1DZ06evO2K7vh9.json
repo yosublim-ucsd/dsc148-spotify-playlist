@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 79336,
+  "num_followers": 79370,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABqu82UGod3fxUU9UzmMdt4",
+  "snapshot_id": "ZrQKgAAAAADayYO+DZvBYxPed1i0ZG5F",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love You Tecca 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "SHOW ME UP",
-      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rover (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 166805,
       "name": "Rover (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love You Tecca 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "SHOW ME UP",
+      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 118720,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap Tumbado",
         "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 118720,
-      "name": "Miss Me",
-      "url": "https://open.spotify.com/track/4r98f87mBfMAfdQvUImksB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -814,19 +814,11 @@
         {
           "name": "Lil Tecca",
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 241655,
-      "name": "CHOPPA SHOOT THE LOUDEST (with Chief Keef, feat.Trippie Redd)",
-      "url": "https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0"
+      "duration_ms": 125217,
+      "name": "SHOOTERS",
+      "url": "https://open.spotify.com/track/5Pm5aqS8l2fytzhix5Pucu"
     },
     {
       "added_at": null,

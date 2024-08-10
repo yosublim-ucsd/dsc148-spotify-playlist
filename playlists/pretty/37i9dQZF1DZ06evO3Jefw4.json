@@ -1,29 +1,13 @@
 {
-  "description": "This Is Katy Perry. Los temas esenciales, todos en una lista.",
-  "num_followers": 1166382,
+  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "num_followers": 1166556,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACcBbF+xmOVd8bMU206Iocs",
+  "snapshot_id": "ZrQKgAAAAACxdb8eMGcrEB0Or1+9pagU",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOMAN\u2019S WORLD",
-        "url": "https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "WOMAN\u2019S WORLD",
-      "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
-    },
     {
       "added_at": null,
       "album": {
@@ -879,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
       "artists": [
         {
@@ -888,9 +872,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 227820,
-      "name": "International Smile",
-      "url": "https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3"
+      "duration_ms": 176762,
+      "name": "I Kissed A Girl - Rock Remix",
+      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
     },
     {
       "added_at": null,
@@ -911,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
       "artists": [
         {
@@ -920,9 +904,9 @@
           "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 176762,
-      "name": "I Kissed A Girl - Rock Remix",
-      "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
+      "duration_ms": 227820,
+      "name": "International Smile",
+      "url": "https://open.spotify.com/track/5OzIe9IL95B23n4rN59JZ3"
     }
   ],
   "unique_name": "This Is Katy Perry",

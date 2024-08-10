@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Ye, Ty Dolla $ign and Polo G.",
+  "description": "New music from Lil Tecca, Polo G, Ye and Ty Dolla $ign.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
@@ -3254,6 +3254,28 @@
       "duration_ms": 144978,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/5f1Y2rWe7MTvRfN1yQqFaa"
+    },
+    {
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156303,
+      "name": "Bad Kids (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
     },
     {
       "album": {
@@ -14072,7 +14094,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237656,
       "name": "Ghetto (feat. Young Thug & Lil Durk)",
       "url": "https://open.spotify.com/track/1uU143K4dObFyeykORAD0m"
@@ -16368,7 +16390,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 243902,
       "name": "high3r (feat. Lil Yachty & Lil Wayne)",
       "url": "https://open.spotify.com/track/3Ojk8AKbhBtEW0UrCCbAn7"
@@ -18354,7 +18376,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237320,
       "name": "Ice Cream Paint Job",
       "url": "https://open.spotify.com/track/35EfL85garkKhKEemkeLoC"
@@ -21200,6 +21222,24 @@
       "duration_ms": 217872,
       "name": "Letter to Takeoff",
       "url": "https://open.spotify.com/track/7B09THlbQE2RndpgXeXQYE"
+    },
+    {
+      "album": {
+        "name": "LGLG",
+        "url": "https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "LGLG",
+      "url": "https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY"
     },
     {
       "album": {
@@ -26674,7 +26714,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164074,
       "name": "OKAY",
       "url": "https://open.spotify.com/track/3C8lsLOz4Jk0ELFpf0eUIk"
@@ -27000,7 +27040,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 150763,
       "name": "On Up",
       "url": "https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw"
@@ -33979,6 +34019,28 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164373,
+      "name": "Shrimp & Grits (feat. Young Nudy)",
+      "url": "https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP"
+    },
+    {
+      "album": {
         "name": "SHUT UP",
         "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
       },
@@ -36686,7 +36748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 208800,
       "name": "Style Rare (with Gunna)",
       "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
@@ -37284,6 +37346,28 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Survival Of The Fittest (feat. Future)",
+      "url": "https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd"
     },
     {
       "album": {
@@ -37932,6 +38016,24 @@
       "duration_ms": 253568,
       "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
       "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
+    },
+    {
+      "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
     },
     {
       "album": {
@@ -38666,6 +38768,24 @@
       "duration_ms": 193754,
       "name": "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS",
       "url": "https://open.spotify.com/track/4QjbbBQAJ7NiGdlfDPcxag"
+    },
+    {
+      "album": {
+        "name": "The Largest",
+        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
     },
     {
       "album": {

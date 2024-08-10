@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 96620,
+  "num_followers": 96685,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -307,30 +307,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Jamming With Edward",
-        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Nicky Hopkins",
-          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 317000,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Jamming With Edward",
+        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Nicky Hopkins",
+          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
     },
     {
       "added_at": "2024-06-02 16:42:51",

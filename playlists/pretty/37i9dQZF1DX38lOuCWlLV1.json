@@ -1,6 +1,6 @@
 {
   "description": "When you know, you know. Eclectic love songs with delicate lyrics that say it best.",
-  "num_followers": 262580,
+  "num_followers": 262632,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-31 00:19:01",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
-    },
-    {
-      "added_at": "2024-07-31 00:19:01",
-      "album": {
         "name": "Urban Hymns (Deluxe / Remastered 2016)",
         "url": "https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 293586,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF"
+    },
+    {
+      "added_at": "2024-07-31 00:19:01",
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-07-31 00:19:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-07-31 00:19:01",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
-    },
-    {
-      "added_at": "2024-07-31 00:19:01",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2024-07-31 00:19:01",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El"
     },
     {
       "added_at": "2024-07-31 00:19:01",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-31 00:19:01",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
-      "added_at": "2024-07-31 00:19:01",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2024-07-31 00:19:01",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2024-07-31 00:19:01",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-31 00:19:01",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+        "name": "Tommy James and The Shondells: Anthology",
+        "url": "https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
         }
       ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+      "duration_ms": 209800,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU"
     }
   ],
   "unique_name": "Love Letter",

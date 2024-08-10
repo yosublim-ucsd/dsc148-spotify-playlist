@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 ### [Artists To Watch 2024](https://open.spotify.com/playlist/37i9dQZF1DX3I51YwwOUVo)
 
-> Get to know our 2024 Artists to Watch! Cover: Mochakk
+> Get to know our 2024 Artists to Watch! Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,167 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,177 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 |
-| 2 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
-| 3 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
-| 4 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 |
-| 5 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 |
-| 6 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
+| 1 | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes \(feat\. Mannequin Pussy and Scowl\)](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
+| 2 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 |
+| 3 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
+| 4 | [Agree to Disagree](https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:22 |
+| 5 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 |
+| 6 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 |
 | 7 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 |
 | 8 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
 | 9 | [Gatlinburg](https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:46 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 88 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 89 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 |
 
-Snapshot ID: `ZqMfQAAAAAAO4TnyXAJQgbGMF3ianUxT`
+Snapshot ID: `ZrWUQAAAAAAbqi+noBNH5sOzSQfS4b6o`

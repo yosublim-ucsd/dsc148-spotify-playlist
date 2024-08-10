@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Maui Rain",
+        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217077,
+      "name": "Maui Rain",
+      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a"
       },

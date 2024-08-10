@@ -303,6 +303,32 @@
     },
     {
       "album": {
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
+    },
+    {
+      "album": {
         "name": "Calavera",
         "url": "https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL"
       },
@@ -478,6 +504,24 @@
       "duration_ms": 176353,
       "name": "Ci\u00e9naga",
       "url": "https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U"
+    },
+    {
+      "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
     },
     {
       "album": {
@@ -1510,6 +1554,24 @@
       "duration_ms": 185210,
       "name": "No me opongo",
       "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
+    },
+    {
+      "album": {
+        "name": "Pa' que lo bailen (Radio Edit)",
+        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194770,
+      "name": "Pa' que lo bailen - Radio Edit",
+      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "album": {

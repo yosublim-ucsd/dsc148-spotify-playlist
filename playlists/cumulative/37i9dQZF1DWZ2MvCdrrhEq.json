@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 287986,
       "name": "Daddy Lessons",
       "url": "https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn"
@@ -1042,6 +1042,28 @@
       "duration_ms": 321986,
       "name": "Wobble",
       "url": "https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5"
+    },
+    {
+      "album": {
+        "name": "Yodelayheewho (feat. Maggie Antone)",
+        "url": "https://open.spotify.com/album/3Nfd8Qm3oYcFqMsa527Lvc"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165084,
+      "name": "Yodelayheewho (feat. Maggie Antone)",
+      "url": "https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV"
     },
     {
       "album": {

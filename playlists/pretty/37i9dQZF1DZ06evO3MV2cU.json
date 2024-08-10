@@ -1,12 +1,12 @@
 {
-  "description": "This is: Chris Tomlin. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 135548,
+  "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
+  "num_followers": 135563,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADIFUxSFgYT3dh9tKU7COZn",
+  "snapshot_id": "ZrQKgAAAAADhS9hDqhkncRxHAKm14Fzk",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 291410,
-      "name": "10,000 Reasons (Bless The Lord)",
-      "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
+      "duration_ms": 349545,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 349545,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL"
+      "duration_ms": 291410,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And If Our God Is For Us...",
-        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "I Lift My Hands",
-      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 266000,
       "name": "Nobody Loves Me Like You",
       "url": "https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And If Our God Is For Us...",
+        "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "I Lift My Hands",
+      "url": "https://open.spotify.com/track/4qGwoTBvRhJ7YGeoQGytJV"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Love",
-        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 229680,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Love",
+        "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 229680,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/198MQwd4SASt2PPGbtHu2I"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 240566,
-      "name": "Strongholds",
-      "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Love",
         "url": "https://open.spotify.com/album/4Rxm4YPcHyohRXoIM8GWMk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 297920,
       "name": "God Of This City",
       "url": "https://open.spotify.com/track/4Eda1y3heYypvl4KRcJcKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 240566,
+      "name": "Strongholds",
+      "url": "https://open.spotify.com/track/5ciUxkJBtUkkR7KwvwJUyH"
     },
     {
       "added_at": null,

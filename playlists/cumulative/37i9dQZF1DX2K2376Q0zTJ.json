@@ -9689,6 +9689,24 @@
     },
     {
       "album": {
+        "name": "NG",
+        "url": "https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171615,
+      "name": "NG",
+      "url": "https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up"
+    },
+    {
+      "album": {
         "name": "Our Best Place",
         "url": "https://open.spotify.com/album/0YD5rzXGLNjCslvo8x6igD"
       },
@@ -11808,7 +11826,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180533,
       "name": "RISE UP",
       "url": "https://open.spotify.com/track/4GdYcBziM4hqHJSXYSntQe"
@@ -12617,6 +12635,28 @@
     },
     {
       "album": {
+        "name": "SHOW THEM",
+        "url": "https://open.spotify.com/album/6AnkB6TmegA5OeHlVwyaoA"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "SHOW THEM",
+      "url": "https://open.spotify.com/track/70Xjen27QvHRdRPLHGu63F"
+    },
+    {
+      "album": {
         "name": "Shut up",
         "url": "https://open.spotify.com/album/5zGavDZoA6OhDRcmvPyXkE"
       },
@@ -12878,6 +12918,24 @@
       "duration_ms": 233924,
       "name": "Some True Love",
       "url": "https://open.spotify.com/track/5EdaQ4MkN2cpWA9vDAhiAR"
+    },
+    {
+      "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/7zbqFK9cexmlYW2bBw16Og"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Somebody Else Now",
+      "url": "https://open.spotify.com/track/1kxAIgqMbdYVXNZ5Lr8dac"
     },
     {
       "album": {
@@ -14140,7 +14198,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 284200,
       "name": "Telefon -2024 Session-",
       "url": "https://open.spotify.com/track/2Mm6oiReHr4zijkqshldaZ"
@@ -17487,6 +17545,24 @@
     },
     {
       "album": {
+        "name": "\u3057\u3085\u30fc\u30fb\u3057\u3083\u3044\u3093",
+        "url": "https://open.spotify.com/album/2GPjMAOMWYOZoMBx5tCXkA"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207257,
+      "name": "\u3057\u3085\u30fc\u30fb\u3057\u3083\u3044\u3093",
+      "url": "https://open.spotify.com/track/6BeLbrlUjLp8SRr5K7j99L"
+    },
+    {
+      "album": {
         "name": "\u3058\u3083\u3080 (feat. iri)",
         "url": "https://open.spotify.com/album/2RhXbdRHvDklwmBeOhGz6G"
       },
@@ -17874,7 +17950,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 289648,
       "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
       "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
@@ -21254,7 +21330,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 278178,
       "name": "\u611b\u306e\u3042\u308a\u304b",
       "url": "https://open.spotify.com/track/3Y6GGcbWHOqtALVTBjfc2g"

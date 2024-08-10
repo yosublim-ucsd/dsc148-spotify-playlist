@@ -1,13 +1,165 @@
 {
-  "description": "New releases for the kids. Cover: PJ Panda",
-  "num_followers": 28565,
+  "description": "New releases for the kids. Cover: John Legend",
+  "num_followers": 28689,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAACCQydNHzlE04Oj8qhsE9Cj",
+  "snapshot_id": "ZrY7twAAAADSn5BuXa6T7ulOB9kjfIuL",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/5d6LDEZxtzD33l9m6HR2zM"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        }
+      ],
+      "duration_ms": 152736,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/4pIROEObzShhsBdOiLg58K"
+    },
+    {
+      "added_at": "2024-08-09 15:54:31",
+      "album": {
+        "name": "You Can Be a Hero (From \"Ryan's World the Movie: Titan Universe Adventure\")",
+        "url": "https://open.spotify.com/album/2FNAMsGotVMtYiEbFsGTA3"
+      },
+      "artists": [
+        {
+          "name": "Miles Music Kid",
+          "url": "https://open.spotify.com/artist/6zbWxUfLhRVLxjQXONZ2AS"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "You Can Be a Hero - From \"Ryan's World the Movie: Titan Universe Adventure\"",
+      "url": "https://open.spotify.com/track/5OsxnnVJIikPG9iWAZNAhE"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Rub A Dub Dub",
+        "url": "https://open.spotify.com/album/1TxvfCE2fVle9dQ0plL1Ud"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 119130,
+      "name": "Rub A Dub Dub",
+      "url": "https://open.spotify.com/track/56O7X42b5jutoJnw4nsIxA"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Sticks N Stones",
+        "url": "https://open.spotify.com/album/4gHGGREC4hUVfD4KhICPAH"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Boy Kids",
+          "url": "https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38"
+        },
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Sticks N Stones",
+      "url": "https://open.spotify.com/track/3crz6tvFxibQJzy7zkGLhT"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Trampoline - Kids Songs",
+        "url": "https://open.spotify.com/album/6712xWJnGDS7RIR90QhtgV"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 126878,
+      "name": "Trampoline - Kids Songs",
+      "url": "https://open.spotify.com/track/5kergIpw9REOhqwFs4PC7e"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "One Little Finger, Pt. 2",
+        "url": "https://open.spotify.com/album/2F2krnaXvDNvAoBkhfVcW5"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 141305,
+      "name": "One Little Finger, Pt. 2",
+      "url": "https://open.spotify.com/track/6riZ9yn6ONJM0FbZ7lMcRk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Line Up and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/3vNjUQFR46vvX5TU9H6T7B"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 95108,
+      "name": "Line Up",
+      "url": "https://open.spotify.com/track/1vW9FLM0WuZi04oRdcxqUD"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Unicorn Dance",
+        "url": "https://open.spotify.com/album/2hqk1BGj61gsnWUsT0B16p"
+      },
+      "artists": [
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Unicorn Dance",
+      "url": "https://open.spotify.com/track/4dh5DKB0clogAGcAb3ocDP"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,555 likes - 63 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,560 likes - 63 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 20 | [Moomjabi](https://open.spotify.com/track/29Zl6UiuCeGD3ohyo33nlv) | [Skeletron](https://open.spotify.com/artist/3fWeF8YvJ8MHEPppAbdWfj), [QRTX](https://open.spotify.com/artist/62mT0cVVkAocFeIKdlkj21), [Satyam](https://open.spotify.com/artist/4YMIKLR6DhwXebluCZpbuT) | [Moomjabi](https://open.spotify.com/album/6Gq9CmcLPhZfcr3xHOMWOk) | 3:07 |
 | 21 | [Jogan](https://open.spotify.com/track/5eaTl8F4WUIzLKG3URlz8X) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [GNDHI](https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo) | [Jogan](https://open.spotify.com/album/7DB6iy5YqwOMDcpMrw33wu) | 3:00 |
 | 22 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 |
-| 23 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \(Lost Stories Remix\)](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 |
+| 23 | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi) | [OK Not To Be OK \- Lost Stories Remix](https://open.spotify.com/album/2VOJnLf3bfcUbJ7nCTRd4y) | 3:05 |
 | 24 | [Jeena Chahun](https://open.spotify.com/track/01AwohzqShtjlhyjYoWKHM) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jeena Chahun](https://open.spotify.com/album/4OXmB2Q2LXeyWJV67dtfRw) | 3:30 |
 | 25 | [Turiya Turiya](https://open.spotify.com/track/7xQRYmgjuC8rAJ8nf8IZV8) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Kahani](https://open.spotify.com/album/05LTuIO7jVTdhVCM6NWH8k) | 2:46 |
 | 26 | [Mantrah](https://open.spotify.com/track/0aq7hOP81yTb9E9cXdlT63) | [Ishan Majee](https://open.spotify.com/artist/6ov51eeD29HZd2uA3wGk6S) | [Mantrah](https://open.spotify.com/album/1UfBit4VHYP1bSKdbmRQ3d) | 2:43 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 | 62 | [A Dream](https://open.spotify.com/track/52E7qutei1inKrIAcBYp89) | [Enine](https://open.spotify.com/artist/6BsL2HkIj6DBL1tYuswybL) | [A Dream](https://open.spotify.com/album/7mqGNYCngh5JwyjySJLHTL) | 2:49 |
 | 63 | [Time \- Radio Edit](https://open.spotify.com/track/2D19JpvlOaVSCleOUhBPzl) | [Vetonit](https://open.spotify.com/artist/1WRcXXVWTxLaG93Z8uQo4E) | [Time \(Radio Edit\)](https://open.spotify.com/album/2HxJ3nx0ZrseX5sr7ZpEgw) | 3:32 |
 
-Snapshot ID: `Zoz69AAAAADoslg/4L3/Kij/Cm41eCWx`
+Snapshot ID: `ZrXO2QAAAABEDLeMKHtpA2I+gs74OJ6g`

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Wanted - with Colbie Caillat",
+        "url": "https://open.spotify.com/album/5k76FHz8PHvF0UgXcfVVZ7"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170292,
+      "name": "All I Ever Wanted - with Colbie Caillat",
+      "url": "https://open.spotify.com/track/7BGWHQFvIR53Il5OG1bmu4"
+    },
+    {
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },

@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
+    },
+    {
+      "album": {
         "name": "CAIXA POSTAL",
         "url": "https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c"
       },
@@ -3056,7 +3078,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
@@ -3198,6 +3220,24 @@
       "duration_ms": 164000,
       "name": "del\u00edrio coletivo",
       "url": "https://open.spotify.com/track/6Lzjhg4XMwVOby2Ep2AP7f"
+    },
+    {
+      "album": {
+        "name": "Dentro de Um Pra Sempre",
+        "url": "https://open.spotify.com/album/08iFkrBPToLgMmI78o7W5M"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136312,
+      "name": "Dentro de Um Pra Sempre",
+      "url": "https://open.spotify.com/track/1rvHw5yWjvDTf1oWArAM8O"
     },
     {
       "album": {
@@ -3667,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/7bKD6GtSuvFctKxCfxceCF"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153146,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7N3GpvxATBCT5BtjKadlXW"
+    },
+    {
+      "album": {
         "name": "dos p\u00e9s a cabe\u00e7a",
         "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
       },
@@ -4034,6 +4092,24 @@
       "duration_ms": 194430,
       "name": "Eremita",
       "url": "https://open.spotify.com/track/1WhgrP90PSrslSYcRK4ma5"
+    },
+    {
+      "album": {
+        "name": "Esfriou",
+        "url": "https://open.spotify.com/album/3EyzLVwpTbWR2tNM8a3twV"
+      },
+      "artists": [
+        {
+          "name": "Tuan",
+          "url": "https://open.spotify.com/artist/0fa1dVLqaZcbqjr0qryLfg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Esfriou",
+      "url": "https://open.spotify.com/track/1eMRfCKfPVEcgpBE6DtDmQ"
     },
     {
       "album": {
@@ -5319,6 +5395,32 @@
     },
     {
       "album": {
+        "name": "Good Feeling About You (Brazilian Version)",
+        "url": "https://open.spotify.com/album/3nZSdqzaXWAQiqpR3gMcOR"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        },
+        {
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196650,
+      "name": "Good Feeling About You (Brazilian Version)",
+      "url": "https://open.spotify.com/track/50Q5FldbFCv25ymPI0UqAo"
+    },
+    {
+      "album": {
         "name": "gostosa",
         "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
       },
@@ -5906,7 +6008,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 198890,
       "name": "Louco",
       "url": "https://open.spotify.com/track/1HiJXmvdZAejKVj8ZtKBOA"
@@ -6258,6 +6360,24 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
+    },
+    {
+      "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
     },
     {
       "album": {
@@ -9632,7 +9752,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184000,
       "name": "Romance",
       "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
@@ -10150,7 +10270,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199681,
       "name": "Sem Me Preocupar",
       "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
@@ -11092,7 +11212,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 164594,
       "name": "Tento Decifrar",
       "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
@@ -13100,7 +13220,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 130272,
       "name": "\u00danica Op\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU"

@@ -1,13 +1,45 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from Soccer Mommy",
-  "num_followers": 834131,
+  "num_followers": 834125,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAADfgwY7+yEMKJAG6FYHpeqk",
+  "snapshot_id": "ZrWUQAAAAADW3JXQuhwoDTAPJdrXAbu1",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Crying At The End",
+        "url": "https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 101718,
+      "name": "Crying At The End",
+      "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Sick Of The Blues",
-        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+        "name": "Tom",
+        "url": "https://open.spotify.com/album/4Ye7ihf3eLlE7P2Ukgy5xL"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
         }
       ],
-      "duration_ms": 203769,
-      "name": "Sick Of The Blues",
-      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
+      "duration_ms": 200240,
+      "name": "Tom",
+      "url": "https://open.spotify.com/track/7wbU7g39osdOuYiC4AaRK1"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -87,6 +119,58 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Rainbow Overpass",
+        "url": "https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "Alex Orange Drink",
+          "url": "https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx"
+        }
+      ],
+      "duration_ms": 181853,
+      "name": "Rainbow Overpass",
+      "url": "https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -659,22 +743,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Le Risque",
-        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Le Risque",
-      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Big Black Hearse",
         "url": "https://open.spotify.com/album/6QoWnNOaDubg2300l06GZS"
       },
@@ -1005,22 +1073,6 @@
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
-      "added_at": "2024-06-14 15:44:21",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 177382,
-      "name": "girlfriend - Spotify Singles",
-      "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
-    },
-    {
       "added_at": "2024-04-22 22:30:20",
       "album": {
         "name": "Maine/The Sink",
@@ -1255,22 +1307,6 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "grey europe",
-        "url": "https://open.spotify.com/album/1ZiOUqonBvUlocuaXMgYS5"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "is suicide too much?",
-      "url": "https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1565,22 +1601,6 @@
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/2yOMO7smZB5XqIuqFZ38ri"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/2A4aclW67hD53GFWXSg1mh"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Like A Lesson",
@@ -1611,22 +1631,6 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Shipwreck",
-        "url": "https://open.spotify.com/album/4Xy5Bt49a6Fxn4PWPFANcM"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 245048,
-      "name": "Shipwreck",
-      "url": "https://open.spotify.com/track/28Ut98WVb4qygbDDWmUw21"
     },
     {
       "added_at": "2024-04-05 04:00:00",

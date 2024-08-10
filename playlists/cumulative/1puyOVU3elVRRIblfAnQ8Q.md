@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-162 songs - 9 hr 22 min
+166 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Catacombs](https://open.spotify.com/track/6re3NgvyIkD7RYNBdgYn28) | [VAMPA](https://open.spotify.com/artist/40j5HqwepBedJ5LN4oHkKK) | [Transylvania](https://open.spotify.com/album/5XXcH4yI8nljtY2Q8SGWfv) | 3:02 | 2023-06-09 | 2023-11-09 |
 | [Claw](https://open.spotify.com/track/6JLTatKOVYScUNqqK2iERr) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 |  |
 | [Cockroaches](https://open.spotify.com/track/52B80CEV3N6zZ1ERgtMvxF) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Asura EP](https://open.spotify.com/album/3TDp7ADxIVCOZbI1VjtztC) | 5:29 | 2023-10-06 | 2024-05-17 |
+| [Coldburst](https://open.spotify.com/track/6nkMdVcY08yNjPhgCXWGJz) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 3:15 | 2024-08-09 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 | 2023-11-09 |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:34 | 2024-02-09 |  |
 | [Counting \- Simula Remix](https://open.spotify.com/track/0nzDaPjb2Nm09dTqIn4uOJ) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 2:11 | 2024-02-09 |  |
@@ -53,6 +54,7 @@
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-02-09 | 2024-02-17 |
 | [EIN SCHÖNER PLATZ](https://open.spotify.com/track/153FJ3SVsJBZfaX3LORoNk) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5), [Affe Maria](https://open.spotify.com/artist/6KSb5SI2YTvZKqhbSlGOfL) | [EVERYDAY](https://open.spotify.com/album/4IvfzUJSdvZY5GBrrQfmEr) | 4:33 | 2024-05-24 |  |
 | [Empress \- Zeds Dead Remix](https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Empress \(Zeds Dead Remix\)](https://open.spotify.com/album/3cm2AeJxXUCePRrRzzTnWG) | 2:14 | 2023-03-24 | 2023-11-09 |
+| [Endeavors](https://open.spotify.com/track/4csuDCOgWqTL7YznSqKEsK) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:16 | 2024-08-09 |  |
 | [Erotica](https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Erotica](https://open.spotify.com/album/7HDr5VKcImOdCCENS9WatP) | 2:55 | 2023-11-08 |  |
 | [eventHORIZON](https://open.spotify.com/track/6APfyRHtvoWy268M5HBLrI) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [ELECTRICA](https://open.spotify.com/album/3Ht8tnhr8yzD9onmihpKhy) | 2:02 | 2024-08-05 |  |
 | [Excalibur](https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Excalibur](https://open.spotify.com/album/0l9LvoGnkAS5xe1KjLT7SU) | 3:08 | 2023-06-07 | 2023-11-09 |
@@ -138,8 +140,10 @@
 | [Rush](https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Rush](https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn) | 3:22 | 2023-10-15 |  |
 | [Rusty Nickels](https://open.spotify.com/track/2Oy1IN7b6cMyiy9VXTXQgc) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Rusty Nickels](https://open.spotify.com/album/75dJmGSAseeq7qNPO1nPAg) | 3:08 | 2023-03-17 | 2023-11-09 |
 | [Scared](https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Scared](https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0) | 4:03 | 2023-09-18 |  |
+| [Scarlets](https://open.spotify.com/track/6TmO7QenMDNG6jTTaXxEY0) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 3:46 | 2024-08-09 |  |
 | [Scout](https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Scout](https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig) | 3:54 | 2023-08-28 | 2024-05-17 |
 | [See The Sky](https://open.spotify.com/track/3eYHRrMnMW5NfGifWtvouw) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27), [Tzar](https://open.spotify.com/artist/6oMBHWDRue76zAGaT8Rxw0) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:47 | 2024-01-26 | 2024-02-10 |
+| [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 | 2024-08-09 |  |
 | [SELF TALKING](https://open.spotify.com/track/3BvLYexVIFs3PFAAQhQXZl) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5) | [EVERYDAY](https://open.spotify.com/album/4IvfzUJSdvZY5GBrrQfmEr) | 3:57 | 2024-05-24 |  |
 | [Ship Destroyer](https://open.spotify.com/track/6RM7SutzlkkUA5YF9dkQw7) | [Integrate](https://open.spotify.com/artist/1gZ1X3ws59AXefp76wEFvc) | [Ship Destroyer](https://open.spotify.com/album/5SC2xDSha4yhuJ98HHBwr1) | 3:10 | 2023-06-23 | 2023-11-09 |
 | [Skeleton Synth](https://open.spotify.com/track/2G8QGu9SM4OZgIgK3Tf3PO) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Pechanga](https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf) | 2:09 | 2023-06-21 | 2023-11-09 |

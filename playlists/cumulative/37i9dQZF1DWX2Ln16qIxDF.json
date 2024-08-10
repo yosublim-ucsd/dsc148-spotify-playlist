@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Chayanne & Luck Ra.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Bhavi & Trueno.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140957,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/0gTyeWsGE071NCvkq36roh"
@@ -490,6 +490,58 @@
       "duration_ms": 148321,
       "name": "AL BORDE",
       "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "album": {
+        "name": "Alas De Papel",
+        "url": "https://open.spotify.com/album/2ILyPmIrCL6LKoGGGX0nqK"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178089,
+      "name": "Alas De Papel",
+      "url": "https://open.spotify.com/track/4TtJ19MjslA4AK6BP6rfYx"
+    },
+    {
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165054,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
     },
     {
       "album": {
@@ -934,6 +986,28 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "album": {
+        "name": "Auto Rojo - Remix",
+        "url": "https://open.spotify.com/album/6U4jJAZvgbKH0G6CRORBLS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Auto Rojo - Remix",
+      "url": "https://open.spotify.com/track/3i5JpMYOAbrdNNPxgZmp4v"
     },
     {
       "album": {
@@ -1382,7 +1456,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 284308,
       "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",
       "url": "https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq"
@@ -1648,7 +1722,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 115560,
       "name": "BRINCANDO",
       "url": "https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY"
@@ -2002,7 +2076,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187669,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2N8kAHdidqn9oXgucjltl6"
@@ -2496,6 +2570,36 @@
       "duration_ms": 165000,
       "name": "Corta",
       "url": "https://open.spotify.com/track/6ImVKEI0Z5yEDO6BwmoGiK"
+    },
+    {
+      "album": {
+        "name": "Cosa del destino",
+        "url": "https://open.spotify.com/album/4pXhJqAV2hwuU3PkcTNTgA"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177491,
+      "name": "Cosa del destino",
+      "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
     },
     {
       "album": {
@@ -7028,7 +7132,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 197894,
       "name": "nada mejor",
       "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
@@ -7780,6 +7884,28 @@
       "duration_ms": 195552,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/6RMnctkTxWZgzrFlxCHjXG"
+    },
+    {
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/02XPfacvzjTIhbYV2mMolk"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177784,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/4wWSU0upTTcJ3zfFx37Cun"
     },
     {
       "album": {
@@ -9921,6 +10047,28 @@
     },
     {
       "album": {
+        "name": "SUNDAY",
+        "url": "https://open.spotify.com/album/6OQCwKo6nKn6qGmZ11VZMN"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176322,
+      "name": "SUNDAY",
+      "url": "https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh"
+    },
+    {
+      "album": {
         "name": "Tal Para Cual",
         "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
       },
@@ -10708,7 +10856,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171777,
       "name": "Tu Ropa",
       "url": "https://open.spotify.com/track/4JQgopha31U9YQn2Hblgah"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Colde(\ucf5c\ub4dc))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: SOLE(\uc3e0))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -3558,6 +3558,24 @@
       "duration_ms": 193973,
       "name": "Dear My",
       "url": "https://open.spotify.com/track/2p4yp2OSeGiMQ384JCAvAB"
+    },
+    {
+      "album": {
+        "name": "Jay Park Season 3: Dedicated 2 U",
+        "url": "https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194998,
+      "name": "Dedicated 2 U",
+      "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
     },
     {
       "album": {
@@ -7782,7 +7800,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -8600,7 +8618,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 182480,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
@@ -10854,7 +10872,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -12160,6 +12178,24 @@
       "duration_ms": 225760,
       "name": "still beautiful",
       "url": "https://open.spotify.com/track/5WObYUq7J0E5tNOaLKeF3C"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
     },
     {
       "album": {
@@ -13866,7 +13902,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"

@@ -279,6 +279,32 @@
     },
     {
       "album": {
+        "name": "Closer To Heaven",
+        "url": "https://open.spotify.com/album/515WUaq7Tx1xZRHBjRQZg4"
+      },
+      "artists": [
+        {
+          "name": "Lucky Guess",
+          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
+        },
+        {
+          "name": "CharlieWonder",
+          "url": "https://open.spotify.com/artist/5jXBLZwmopWkoDELHtLSdN"
+        },
+        {
+          "name": "Coppermines",
+          "url": "https://open.spotify.com/artist/2uqEKVU14iUExTS2g7Tn07"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143809,
+      "name": "Closer To Heaven",
+      "url": "https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB"
+    },
+    {
+      "album": {
         "name": "Could've Been Us",
         "url": "https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA"
       },

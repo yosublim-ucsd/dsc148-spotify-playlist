@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [It Ain't Over \(Till God Says It'S Over\)](https://open.spotify.com/track/7sfCR7PcanxfhiOxeUWJn6) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [It Ain't Over \(Til God Says It's Over\)](https://open.spotify.com/album/3oqki7YT1d60H53TC8R85V) | 6:06 |
 | 50 | [Everything Will Be Alright](https://open.spotify.com/track/6lbPZ2r6Lnxz59rjq1L7ny) | [Isaiah Templeton](https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5) | [This Life](https://open.spotify.com/album/7bkttXaXtkBbcOET8a6QNf) | 5:35 |
 
-Snapshot ID: `ZrWLQAAAAAAInroVqJgCFd2uuTG8e+Ip`
+Snapshot ID: `ZrbdVQAAAAAKGY1gNRXmqzqwJp1R9Hyc`

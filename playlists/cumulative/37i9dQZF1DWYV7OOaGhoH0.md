@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from MJ Lenderman
+> The best in folk & acoustic today featuring music from Amos Lee
 
-591 songs - 1 day 12 hr 33 min
+593 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Cape Forestier](https://open.spotify.com/track/5koL7879f8j0pvdVGj3vcv) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/0SQR7IYc6zCvSoo31awLMz) | 3:52 | 2024-03-08 | 2024-04-19 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2022-07-30 |
 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 | 2023-06-16 | 2024-07-13 |
+| [Carry You On](https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Transmissions](https://open.spotify.com/album/728yDAYQXAFbonNehUayKY) | 3:29 | 2024-08-09 |  |
 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 | 2023-06-09 | 2024-05-04 |
 | [Cast Iron Skillet](https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:24 | 2023-11-03 | 2024-04-19 |
 | [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2023-01-06 | 2023-02-18 |
@@ -179,6 +180,7 @@
 | [Endless Time](https://open.spotify.com/track/3kQuEicvCFQ9AQoBM2pvqR) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [How Is It That I Should Look At The Stars](https://open.spotify.com/album/6rn5v0MUWC69CE7Dk7llnC) | 4:20 | 2022-03-04 | 2022-03-26 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-10 | 2023-06-24 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2023-01-06 | 2024-04-13 |
+| [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 |  |
 | [Every Drop](https://open.spotify.com/track/5gpShDmknIBLH6JDhzhHu4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso \(Deluxe Edition\)](https://open.spotify.com/album/5xWV1OMbab5FjXNnlshacS) | 3:06 | 2021-12-10 | 2022-02-26 |
 | [Every Shade of Blue](https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf) | 3:33 | 2022-01-21 | 2022-02-12 |
 | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S), [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Everybody \(feat\. Jenny Lewis\)](https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO) | 2:58 | 2022-01-07 | 2022-04-02 |
@@ -234,7 +236,7 @@
 | [Hitchin' a Ride](https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hitchin' a Ride](https://open.spotify.com/album/52GMS1garIMItzvmogm1MF) | 4:30 | 2022-07-08 | 2023-01-06 |
 | [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-09-02 | 2023-01-06 |
 | [Hold On](https://open.spotify.com/track/4wYCasaUMf0fz0ZNgrehHr) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y), [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hold On](https://open.spotify.com/album/2aBkncK675ajfbL7AkRjiH) | 3:04 | 2023-08-11 | 2024-05-18 |
-| [Hold On Tight](https://open.spotify.com/track/0sRBcoVl0ATZXLXh8XgTav) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Hold On Tight](https://open.spotify.com/album/5inHddOP6qsCmPu2zGlqyu) | 3:13 | 2024-05-03 |  |
+| [Hold On Tight](https://open.spotify.com/track/0sRBcoVl0ATZXLXh8XgTav) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Hold On Tight](https://open.spotify.com/album/5inHddOP6qsCmPu2zGlqyu) | 3:13 | 2024-05-03 | 2024-08-10 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-12 | 2024-03-09 |
 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 | 2022-06-17 | 2022-08-27 |
 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 | 2023-01-13 | 2023-07-01 |
@@ -364,7 +366,7 @@
 | [No Complaints](https://open.spotify.com/track/2D2rLS5IBt2EzDajhtuHZR) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [No Complaints](https://open.spotify.com/album/42xj07uXecDQBFGUcEVfwx) | 3:07 | 2024-02-02 |  |
 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 | 2023-09-15 | 2024-07-19 |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-30 | 2023-07-01 |
-| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 |  |
+| [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2023-11-10 | 2024-08-10 |
 | [Nothing to Lose](https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:57 | 2024-03-01 |  |
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-12-01 | 2024-02-17 |
 | [Now You Know](https://open.spotify.com/track/7bmitV7MwnQeTSkv9nhFli) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:14 | 2022-01-28 | 2022-03-12 |

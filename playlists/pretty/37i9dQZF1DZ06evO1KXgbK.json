@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 247791,
+  "num_followers": 247819,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAB6MebhL1Q4qW1jx+2YivR8",
+  "snapshot_id": "ZrQKgAAAAAC2VOsoLJwJj5QmjsEhusdz",
   "tracks": [
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
       "artists": [
         {
@@ -860,17 +860,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         },
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 153920,
-      "name": "The Pain of Loving You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
+      "duration_ms": 267859,
+      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
+      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-        "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
       "artists": [
         {
@@ -920,17 +920,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         },
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 267859,
-      "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
-      "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+      "duration_ms": 153920,
+      "name": "The Pain of Loving You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
     },
     {
       "added_at": null,

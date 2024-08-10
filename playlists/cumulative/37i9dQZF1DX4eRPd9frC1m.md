@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-363 songs - 19 hr 53 min
+364 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ATTACK](https://open.spotify.com/track/4beNkkRzwv01XhAyp2OiI1) | [AG](https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8), [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [ATTACK](https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Attention](https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [Duality](https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z) | 2:50 | 2022-04-29 | 2022-05-07 |
 | [Back It Up](https://open.spotify.com/track/0OsIIjUneF8iZk5QULuEzk) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:40 | 2021-11-19 | 2022-01-08 |
+| [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-09 |  |
 | [Backbreaker](https://open.spotify.com/track/2mhD6IAZ7oGdRT8bzFI5tF) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Backbreaker](https://open.spotify.com/album/0CLdX3LC98CUhc1FrKCKgh) | 3:08 | 2022-03-01 | 2023-04-14 |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [Bad Decisions](https://open.spotify.com/track/0qFNPzeb1tDKQ67ynIzU5S) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Cameron Warren](https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8) | [Bad Decisions](https://open.spotify.com/album/66BYzmukrC71y7X13zYtfU) | 3:15 | 2024-05-10 | 2024-08-03 |
@@ -334,7 +335,7 @@
 | [TILL I DIE](https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [TILL I DIE](https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo) | 2:51 | 2023-02-24 | 2023-06-12 |
 | [TILL I DIE](https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [TILL I DIE](https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1) | 2:51 | 2021-11-19 | 2023-02-27 |
 | [Time](https://open.spotify.com/track/37hoHtZNUuIbJSHkyII0zx) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Spiral](https://open.spotify.com/album/59d750ai99PfyZ5zTUQWfY) | 4:00 | 2022-01-07 | 2022-07-20 |
-| [Torture](https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [UNSOUND 2](https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf) | 3:52 | 2024-05-24 |  |
+| [Torture](https://open.spotify.com/track/4Z3lOky8FsA5o53jM9nQg4) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [UNSOUND 2](https://open.spotify.com/album/1Y3qKvJSEFyxxVvK8p2dWf) | 3:52 | 2024-05-24 | 2024-08-10 |
 | [Trailblazer](https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Trailblazer](https://open.spotify.com/album/281Xce4HZtECtLwdx57kvK) | 3:24 | 2021-11-19 | 2022-04-27 |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-11-19 | 2022-06-04 |
 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 | 2022-08-30 |

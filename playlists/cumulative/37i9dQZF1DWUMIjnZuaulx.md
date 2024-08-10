@@ -2,9 +2,9 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:3NYwlCIjzmWwNdLPGT9UV8">Phil Thompson</a>
+> New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:2b9paaAwb2Xd3iR1LSnCDN">Brent Jones</a>
 
-563 songs - 2 day 0 hr 26 min
+564 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [One Way](https://open.spotify.com/track/7ip9sYAFsPo66qz1FR6YKd) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Here](https://open.spotify.com/album/28yOCHKml5qWT0YV3P8lxN) | 3:16 | 2023-09-29 | 2024-06-15 |
 | [One Word](https://open.spotify.com/track/1xDu1pQwvLWyKDWu3xWvBJ) | [Frankie James](https://open.spotify.com/artist/6SxWHQPb97wWIAyJxbL6B0) | [One Word](https://open.spotify.com/album/4M48QB4A6XOcWS73g45AIQ) | 4:20 | 2024-05-03 | 2024-06-15 |
 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 | 2024-02-09 |  |
-| [Only One Way Home \- Radio Edit](https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Paul Porter](https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK) | [Only One Way Home \(Radio Edit\)](https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51) | 3:54 | 2024-03-29 |  |
+| [Only One Way Home \- Radio Edit](https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Paul Porter](https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK) | [Only One Way Home \(Radio Edit\)](https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51) | 3:54 | 2024-03-29 | 2024-08-10 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-06-29 |
 | [Out Here Trusting God](https://open.spotify.com/track/6UcLisdQQJlqxBxOpGRdlk) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS), [Rubi Green](https://open.spotify.com/artist/0fiLMSycO9JIC3T7EQpGJ9), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Soul Sister](https://open.spotify.com/album/0NTIi6ERXzMw7T7XiZOTTU) | 3:36 | 2022-02-18 | 2022-10-30 |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 | 2024-05-18 |
@@ -564,6 +564,7 @@
 | [You Surround \- Live](https://open.spotify.com/track/3AAVe0VCll3cxytUkm3znV) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [You Surround](https://open.spotify.com/album/2i3gWt2j7kJH3XR12cDbbQ) | 7:45 | 2024-02-02 |  |
 | [You Won't Ever Let Me Down \- Live](https://open.spotify.com/track/36b88T7XpccbUp6Qj78cOC) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [You Won't Ever Let Me Down \(Live\)](https://open.spotify.com/album/4afaniI5WCV98Rt4Nt6TbT) | 4:52 | 2024-05-03 | 2024-07-13 |
 | [You're Coming Out](https://open.spotify.com/track/68oy8qZSZt6O7Pxmr0KGRm) | [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [You're Coming Out](https://open.spotify.com/album/4MSwgp7O7CE2qSheIzb9OW) | 3:38 | 2022-02-18 | 2023-01-21 |
+| [You're Gonna Make It](https://open.spotify.com/track/33qkn2qtJepscrlw7XZYmW) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Milton Biggham](https://open.spotify.com/artist/0dgemTZLNtQWYRkp6CLtW6) | [You're Gonna Make It](https://open.spotify.com/album/5voOg38YTVXBB9eEZ0wZVS) | 6:26 | 2024-08-09 |  |
 | [You're The Worthy One](https://open.spotify.com/track/66CzJlOG9NhQbwSX3ImhWp) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You're The Worthy One](https://open.spotify.com/album/41nAXYitdpFqk1LmbekoP1) | 4:48 | 2022-11-11 | 2024-02-03 |
 | [Your Hand](https://open.spotify.com/track/3BCRsqflSL5BsiGsdT6HiA) | [Josiah Bell](https://open.spotify.com/artist/4IemglBvZymbgCFgbUBSm4) | [Your Hand](https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj) | 3:15 | 2024-07-19 |  |
 | [Your Name](https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Your Name](https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N) | 3:56 | 2024-07-12 |  |

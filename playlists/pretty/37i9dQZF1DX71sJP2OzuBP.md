@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,750 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,753 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 20 | [会开花的云](https://open.spotify.com/track/2ukirR1N5QCI2G3Hhok5D9) | [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL) | [会开花的云](https://open.spotify.com/album/340keyuy3ZOV4ygOPewhZG) | 3:34 |
 | 21 | [小孩](https://open.spotify.com/track/7rPXUq935WHYBoWpWA9p9r) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [小孩](https://open.spotify.com/album/0xN7IDBgNLs64r2RbO8e4g) | 4:12 |
 | 22 | [At Midnight](https://open.spotify.com/track/7hta53CoAUP7ITgqJdytTK) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [Stuck on...?](https://open.spotify.com/album/6c1i0YVoGS6lS0IXfWqK1O) | 2:27 |
-| 23 | [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/track/0j3tWDV6qieqwy8dkqrKLQ) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [對鏡 \(影視劇《唐朝異聞錄》插曲\)](https://open.spotify.com/album/4dR10WWNy7b04yBDbX9haY) | 4:15 |
+| 23 | [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/track/0j3tWDV6qieqwy8dkqrKLQ) | [Shawn 尚融](https://open.spotify.com/artist/2clYc3flufmjrUm1ZUNuJA) | [對鏡 \- 影視劇《唐朝異聞錄》插曲](https://open.spotify.com/album/4dR10WWNy7b04yBDbX9haY) | 4:15 |
 | 24 | [樂園](https://open.spotify.com/track/1TlcAeEQl9ort0wL4ZySKy) | [Nemo Lin](https://open.spotify.com/artist/74DXVAxpII7okrU2rb8tRT) | [樂園](https://open.spotify.com/album/0qvMnQEspyVy7Ph81sdAXY) | 3:13 |
 | 25 | [不是不想你](https://open.spotify.com/track/6a1CN3T7lK6kMOWaJAlp6i) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [不是不想你](https://open.spotify.com/album/3DaLWOh8VP7vIxRPEK5YKx) | 3:07 |
 | 26 | [為什麼烏鴉會像寫字臺](https://open.spotify.com/track/4bBILRBPG2YdhTzuYWpOdl) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [為什麼烏鴉會像寫字臺](https://open.spotify.com/album/5DDNw07CbgIvKqjZGntEIn) | 3:54 |

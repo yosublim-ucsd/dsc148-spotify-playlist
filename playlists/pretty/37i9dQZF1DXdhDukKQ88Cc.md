@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu..\.  <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> gæster <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI's</a> radiokanal <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊🔊 lyt lige med der
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,553 likes - 81 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,634 likes - 81 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 80 | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/track/1JknFyUyJ4c8pfOHcFNrzF) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Dreaming \(feat\. PAY & Dinero\)](https://open.spotify.com/album/6fSe0DKpyUwXJQwPypQRbP) | 2:14 |
 | 81 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 |
 
-Snapshot ID: `ZrU/4AAAAADbzaIW/kg+cwE8Hc4gomjt`
+Snapshot ID: `ZrX17gAAAACK4l3P4BaIeuqStQh2LKtR`

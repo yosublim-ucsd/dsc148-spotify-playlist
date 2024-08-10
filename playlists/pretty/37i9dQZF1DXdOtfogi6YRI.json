@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: stickxr",
-  "num_followers": 17591,
+  "num_followers": 17596,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/1HIklkzTiOrjEbqgOpTGfP"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Moja droga",
         "url": "https://open.spotify.com/album/0Pu9usfeyXKV8kiOeTsfvL"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 203583,
       "name": "Moja droga",
       "url": "https://open.spotify.com/track/6CI1dS84yJlTzhHRcaak34"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Ostatni raz",
-        "url": "https://open.spotify.com/album/7Kou7h23sjFAWRBPgC608Z"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Ostatni raz",
-      "url": "https://open.spotify.com/track/1HIklkzTiOrjEbqgOpTGfP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -715,30 +715,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "EMPIRIA EP",
-        "url": "https://open.spotify.com/album/1yRiIQ02prmgehliMV7nup"
+        "name": "tom i jerry",
+        "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
       },
       "artists": [
         {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
         },
         {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+          "name": "Kepler",
+          "url": "https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2"
         },
         {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        },
-        {
-          "name": "Hubi",
-          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
         }
       ],
-      "duration_ms": 155076,
-      "name": "NOC ZAMIENIASZ W DZIE\u0143",
-      "url": "https://open.spotify.com/track/3Sb94SGpjsSJF0ZyiO8IBY"
+      "duration_ms": 156000,
+      "name": "tom i jerry",
+      "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -767,26 +763,30 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "tom i jerry",
-        "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
+        "name": "EMPIRIA EP",
+        "url": "https://open.spotify.com/album/1yRiIQ02prmgehliMV7nup"
       },
       "artists": [
         {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
         },
         {
-          "name": "Kepler",
-          "url": "https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2"
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
         },
         {
-          "name": "Kania",
-          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        },
+        {
+          "name": "Hubi",
+          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
         }
       ],
-      "duration_ms": 156000,
-      "name": "tom i jerry",
-      "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
+      "duration_ms": 155076,
+      "name": "NOC ZAMIENIASZ W DZIE\u0143",
+      "url": "https://open.spotify.com/track/3Sb94SGpjsSJF0ZyiO8IBY"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "MIASTO AWANTUR",
         "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 212142,
       "name": "MIASTO AWANTUR",
       "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
-      },
-      "artists": [
-        {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Nie mam czasu",
-        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
-      },
-      "artists": [
-        {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        }
-      ],
-      "duration_ms": 138460,
-      "name": "Nie mam czasu",
-      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Nie mam czasu",
+        "url": "https://open.spotify.com/album/3WIiYeCJkZhvhNHNG0meuG"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "duration_ms": 138460,
+      "name": "Nie mam czasu",
+      "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach",
+        "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        }
+      ],
+      "duration_ms": 154545,
+      "name": "Zawsze chcia\u0142em by\u0107",
+      "url": "https://open.spotify.com/track/4VE7vpf3rmowPHUwHo0Efx"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach",
-        "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "Szczyl",
-          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
-        }
-      ],
-      "duration_ms": 154545,
-      "name": "Zawsze chcia\u0142em by\u0107",
-      "url": "https://open.spotify.com/track/4VE7vpf3rmowPHUwHo0Efx"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
+        "url": "https://open.spotify.com/album/141FZcXQbPBQfrQvvmVGnM"
+      },
+      "artists": [
+        {
+          "name": "Ambaras",
+          "url": "https://open.spotify.com/artist/6dNsO5ifHPmduuk4h0Zjmh"
+        }
+      ],
+      "duration_ms": 139380,
+      "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
+      "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "P\u00f3ki Co Rutyna",
         "url": "https://open.spotify.com/album/7xpp5fQZWMLgpcxGpCw49N"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 186000,
       "name": "P\u00f3ki Co Rutyna",
       "url": "https://open.spotify.com/track/7C6MDQNDZKhSusWOCTjyal"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
-        "url": "https://open.spotify.com/album/141FZcXQbPBQfrQvvmVGnM"
-      },
-      "artists": [
-        {
-          "name": "Ambaras",
-          "url": "https://open.spotify.com/artist/6dNsO5ifHPmduuk4h0Zjmh"
-        }
-      ],
-      "duration_ms": 139380,
-      "name": "Sta\u0107 ci\u0119 na wi\u0119cej",
-      "url": "https://open.spotify.com/track/1m20vvsWe5TKGGxDGluLVy"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1847,6 +1847,46 @@
       "duration_ms": 225832,
       "name": "Spalony Dom",
       "url": "https://open.spotify.com/track/6QqZbnVPmx90QwR1HpDGDj"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+      },
+      "artists": [
+        {
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+        },
+        {
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Jest p\u00f3\u017ano w nocy",
+        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
+      },
+      "artists": [
+        {
+          "name": "Yappe",
+          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
+        },
+        {
+          "name": "DJ HWR",
+          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Jest p\u00f3\u017ano w nocy",
+      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1951,26 +1991,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Jest p\u00f3\u017ano w nocy",
-        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
-      },
-      "artists": [
-        {
-          "name": "Yappe",
-          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
-        },
-        {
-          "name": "DJ HWR",
-          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Jest p\u00f3\u017ano w nocy",
-      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "bez w d\u0142oni",
         "url": "https://open.spotify.com/album/2UvIX8MDZrEJaPCWQZR5Lz"
       },
@@ -1987,42 +2007,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+        "name": "Tak\u017ce ten",
+        "url": "https://open.spotify.com/album/1VWRzLm9Uo17fBT2EPoPb2"
       },
       "artists": [
         {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
         },
         {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+          "name": "TOMEK BENT",
+          "url": "https://open.spotify.com/artist/4LWbtBaVdvIkeUrmJkjwVV"
         }
       ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "04:04 FREESTYLE",
-        "url": "https://open.spotify.com/album/78dBvZ0N7NG7P76KTJTwlU"
-      },
-      "artists": [
-        {
-          "name": "Marceli Bober",
-          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
-        },
-        {
-          "name": "Kajtek",
-          "url": "https://open.spotify.com/artist/7gk9ms2AXeAyMvMJhfki6J"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "04:04 FREESTYLE",
-      "url": "https://open.spotify.com/track/5iOlUoTfPtp6vusd5MKE70"
+      "duration_ms": 178790,
+      "name": "Tak\u017ce ten",
+      "url": "https://open.spotify.com/track/5Wq75k4EV86NlxEgH6pQHW"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2047,22 +2047,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Tak\u017ce ten",
-        "url": "https://open.spotify.com/album/1VWRzLm9Uo17fBT2EPoPb2"
+        "name": "04:04 FREESTYLE",
+        "url": "https://open.spotify.com/album/78dBvZ0N7NG7P76KTJTwlU"
       },
       "artists": [
         {
-          "name": "bartek koko",
-          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
         },
         {
-          "name": "TOMEK BENT",
-          "url": "https://open.spotify.com/artist/4LWbtBaVdvIkeUrmJkjwVV"
+          "name": "Kajtek",
+          "url": "https://open.spotify.com/artist/7gk9ms2AXeAyMvMJhfki6J"
         }
       ],
-      "duration_ms": 178790,
-      "name": "Tak\u017ce ten",
-      "url": "https://open.spotify.com/track/5Wq75k4EV86NlxEgH6pQHW"
+      "duration_ms": 129882,
+      "name": "04:04 FREESTYLE",
+      "url": "https://open.spotify.com/track/5iOlUoTfPtp6vusd5MKE70"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Co ludzie powiedz\u0105?",
+        "url": "https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW"
+      },
+      "artists": [
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "Mayor",
+          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "Co ludzie powiedz\u0105?",
+      "url": "https://open.spotify.com/track/4eejNystsuMpoFCtdybLMf"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "NIE ZAPOMNIA\u0141EM",
         "url": "https://open.spotify.com/album/36rW8L6xWVlgPKtd49j98O"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 114059,
       "name": "Fuagra",
       "url": "https://open.spotify.com/track/1ZTMThBSBMSd1RG8NIqA0G"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Co ludzie powiedz\u0105?",
-        "url": "https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW"
-      },
-      "artists": [
-        {
-          "name": "bartek koko",
-          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
-        },
-        {
-          "name": "Mayor",
-          "url": "https://open.spotify.com/artist/3oNcFShq5lAjWsQ8QvpJNM"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "Co ludzie powiedz\u0105?",
-      "url": "https://open.spotify.com/track/4eejNystsuMpoFCtdybLMf"
     }
   ],
   "unique_name": "alt rap",

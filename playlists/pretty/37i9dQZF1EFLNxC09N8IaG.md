@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,618 likes - 171 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,620 likes - 171 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 158 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
 | 159 | [Different Color](https://open.spotify.com/track/4szP6ScOP2FSm14Zask3II) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:03 |
 | 160 | [Thank You](https://open.spotify.com/track/2b3Oxrb5Y2ybrhGrV3xaj2) | [Patch the Pirate](https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN) | [The Tumbleweed Opera](https://open.spotify.com/album/4tWRzWUSskFZmPwXtM6vPV) | 3:08 |
-| 161 | [You Shaped Box](https://open.spotify.com/track/43a3MpvnkjagLlyYiLF5fA) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:47 |
-| 162 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 161 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 162 | [You Shaped Box](https://open.spotify.com/track/43a3MpvnkjagLlyYiLF5fA) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:47 |
 | 163 | [Land of the Free](https://open.spotify.com/track/0U6CHJWiERNgOgRfc8Infn) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 5:07 |
 | 164 | [Crazy Queen](https://open.spotify.com/track/387fhMqT1iPfUaJcMbfFSW) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [a girl a bottle a boat \(Japan Version\)](https://open.spotify.com/album/31zRd2FLpDk5AjknKd5Ys2) | 3:16 |
 | 165 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 170 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 171 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbY5wAAAAAD95ooiLe6CQbNdts639Nlw`
+Snapshot ID: `AbY/YAAAAAAc91g16bBbGwgG85sArWiL`

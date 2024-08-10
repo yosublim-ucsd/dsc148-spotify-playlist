@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Three Marloes
 
-1,459 songs - 3 day 15 hr 56 min
+1,460 songs - 3 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [ODDESSY](https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9) | 2:42 | 2023-04-13 | 2023-05-08 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-19 | 2022-07-22 |
 | [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 | 2024-02-29 |  |
+| [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 | 2024-08-08 |  |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-03-25 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
 | [On and On](https://open.spotify.com/track/33xlpG5E7QYjQhlOFCpnLF) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM), [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Ceremonies](https://open.spotify.com/album/0BPhpmgOpi6o9EfOz6Ga16) | 3:40 | 2023-06-08 | 2023-07-15 |

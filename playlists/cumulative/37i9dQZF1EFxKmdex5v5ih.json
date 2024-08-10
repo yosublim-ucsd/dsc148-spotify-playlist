@@ -211,7 +211,7 @@
     },
     {
       "album": {
-        "name": "Wild Dreams (Deluxe Edition)",
+        "name": "Wild Dreams - Deluxe Edition",
         "url": "https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev"
       },
       "artists": [
@@ -1248,10 +1248,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186867,
       "name": "Coming To My Senses",
       "url": "https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR"
+    },
+    {
+      "album": {
+        "name": "The Color Of You",
+        "url": "https://open.spotify.com/album/10xM56wKLWLEU3sX4q8CVl"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186867,
+      "name": "Coming To My Senses",
+      "url": "https://open.spotify.com/track/6hVkeJbO0lBU19DEPcxLQE"
     },
     {
       "album": {
@@ -4113,7 +4131,7 @@
     },
     {
       "album": {
-        "name": "Justice (Triple Chucks Deluxe)",
+        "name": "Justice - Triple Chucks Deluxe",
         "url": "https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA"
       },
       "artists": [

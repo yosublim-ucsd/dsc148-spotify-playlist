@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/5ucBKdiPjpG6e2Jb1AvSAn"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172947,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/3kTe09pCTVQGjEwFkfQryf"
+    },
+    {
+      "album": {
         "name": "Ahead Of Our Time",
         "url": "https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J"
       },
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 181733,
       "name": "Creek",
       "url": "https://open.spotify.com/track/1nMW484bimvAkYWX1NSWnR"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 171960,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/7GbAoPW5CoWdKqqmJH0gbe"
@@ -1358,6 +1376,24 @@
       "duration_ms": 165226,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/0iaXdS4yDgZCXMiV7tuTJP"
+    },
+    {
+      "album": {
+        "name": "Good to the Bone",
+        "url": "https://open.spotify.com/album/3L6qVvQo7QD3AdOozSefhD"
+      },
+      "artists": [
+        {
+          "name": "John Mike",
+          "url": "https://open.spotify.com/artist/30YVcRj57lUrhRl4FcDTMA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198028,
+      "name": "Good to the Bone",
+      "url": "https://open.spotify.com/track/0q0rBygKyFG6qMjpTdtTzB"
     },
     {
       "album": {
@@ -3197,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "What Good Is A Memory",
+        "url": "https://open.spotify.com/album/1OPUwabpaUsTM3hI7CPcuR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "What Good Is A Memory",
+      "url": "https://open.spotify.com/track/1D2YDvtJMgg8GQmYeAyPQF"
+    },
+    {
+      "album": {
         "name": "Be Right Here",
         "url": "https://open.spotify.com/album/0qLbJMreDYNn32RSEEnY39"
       },
@@ -3370,7 +3424,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192133,
       "name": "Wild",
       "url": "https://open.spotify.com/track/78X4X4dfwm6q5wCiBsm396"

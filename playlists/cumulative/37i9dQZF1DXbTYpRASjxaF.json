@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 121031,
       "name": "Atlanta - Spotify Singles",
       "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
@@ -1432,6 +1432,28 @@
       "duration_ms": 140800,
       "name": "Bebeto & Rom\u00e1rio",
       "url": "https://open.spotify.com/track/1UHfOlHWNVRK4jDnTZ4NeO"
+    },
+    {
+      "album": {
+        "name": "Fora Da Panela (Mixtape)",
+        "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Overdone",
+          "url": "https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Belo Horizonte 30 Graus A Noite",
+      "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
     },
     {
       "album": {
@@ -3669,6 +3691,36 @@
     },
     {
       "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -4178,7 +4230,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140147,
       "name": "FESTA DA TTF",
       "url": "https://open.spotify.com/track/2jGt0fXpvDb8Di9tyyKfB0"

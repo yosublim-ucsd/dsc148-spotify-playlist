@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 555546,
+  "num_followers": 555844,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "No Te Creas Tan Importante (En Vivo)",
         "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 239760,
       "name": "No Te Creas Tan Importante - En Vivo",
       "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "C\u00f3mo est\u00e1s",
         "url": "https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 146240,
       "name": "Deja De Llorar",
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "Disfruto",
-        "url": "https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Disfruto",
+        "url": "https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "Cuarteteando",
         "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 354626,
       "name": "Ocho Cuarenta",
       "url": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Poeta Enamorado",
-      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Conmigo Te Gust\u00f3",
-      "url": "https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC"
+      "duration_ms": 214093,
+      "name": "Poeta Enamorado",
+      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1095,6 +1079,22 @@
       "duration_ms": 224352,
       "name": "Su Florcita",
       "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/5pJsUL6ZtbPjSqgvhT09eC"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "200 Copas",
-        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
       "artists": [
         {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 237738,
-      "name": "200 Copas",
-      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1515,18 +1511,18 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+        "name": "200 Copas",
+        "url": "https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+      "duration_ms": 237738,
+      "name": "200 Copas",
+      "url": "https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
-      },
-      "artists": [
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 238028,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 218070,
       "name": "Hoy Te Vi",
       "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 238028,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I"
     },
     {
       "added_at": "2024-07-09 14:20:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "Pa\u2019 la Selecci\u00f3n",
-        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186735,
-      "name": "Pa\u2019 la Selecci\u00f3n",
-      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
-    },
-    {
-      "added_at": "2024-07-09 14:20:56",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1871,22 +1855,34 @@
     {
       "added_at": "2024-07-09 14:20:56",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu"
+        "name": "Y la cumbia se baila as\u00ed...",
+        "url": "https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN"
       },
       "artists": [
         {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
         }
       ],
-      "duration_ms": 139163,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj"
+      "duration_ms": 198066,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "added_at": "2024-07-09 14:20:56",
+      "album": {
+        "name": "Pa\u2019 la Selecci\u00f3n",
+        "url": "https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186735,
+      "name": "Pa\u2019 la Selecci\u00f3n",
+      "url": "https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO"
     }
   ],
   "unique_name": "Asadito Cumbiero",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Suki Waterhouse",
+  "description": "The best indie tracks of the moment. Cover: beabadoobee",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -2733,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/5ZYLn7QTjqaKzpAg1fEXRT"
       },
@@ -3614,6 +3632,24 @@
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4fwuSvvoxTClVM4QYQGA6C"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223459,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ"
     },
     {
       "album": {
@@ -6355,6 +6391,24 @@
     },
     {
       "album": {
+        "name": "Crying At The End",
+        "url": "https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101718,
+      "name": "Crying At The End",
+      "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
+    },
+    {
+      "album": {
         "name": "Crystal Ball",
         "url": "https://open.spotify.com/album/12V9dpCyl7Hmrw718OfDHY"
       },
@@ -8067,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Downtown Guy",
+        "url": "https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Downtown Guy",
+      "url": "https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC"
+    },
+    {
+      "album": {
         "name": "Drawing Swords",
         "url": "https://open.spotify.com/album/5atndQaFn4n46BZFNtE4kN"
       },
@@ -8786,7 +8858,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 203760,
       "name": "Ever Seen",
       "url": "https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6"
@@ -9584,7 +9656,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 191791,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/0fgMp5y58lUnt0PxIYa0Ho"
@@ -10845,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "album": {
         "name": "Get There, Stay There",
         "url": "https://open.spotify.com/album/33v4SjpdfOBAstkXuPVChZ"
       },
@@ -10928,7 +11018,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187618,
       "name": "getting over you",
       "url": "https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK"
@@ -11462,7 +11552,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
@@ -11964,7 +12054,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
@@ -17346,7 +17436,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/5ABvUrvy1GpXC1EcXOkv5s"
@@ -17866,6 +17956,24 @@
       "duration_ms": 185045,
       "name": "Lucky Few",
       "url": "https://open.spotify.com/track/4qHrz46MUEcedA0kPTHRo4"
+    },
+    {
+      "album": {
+        "name": "Lucky Streak",
+        "url": "https://open.spotify.com/album/44H92aSgzMMmtlWIFwsDmP"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Lucky Streak",
+      "url": "https://open.spotify.com/track/4KiC4QZ6cc8XKv0e3Obw5F"
     },
     {
       "album": {
@@ -19503,6 +19611,24 @@
     },
     {
       "album": {
+        "name": "Mystic Vale",
+        "url": "https://open.spotify.com/album/4W85DXQT9AvnwTX4VqiPS3"
+      },
+      "artists": [
+        {
+          "name": "Vaughn",
+          "url": "https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277055,
+      "name": "Mystic Vale",
+      "url": "https://open.spotify.com/track/4WUksbTP4QuHHXnNK46RSz"
+    },
+    {
+      "album": {
         "name": "Nack Nostalgia",
         "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
       },
@@ -20862,7 +20988,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 214773,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
@@ -22129,6 +22255,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147101,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/0qtH3velUeDcljvF03ddQt"
       },
@@ -22634,7 +22778,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219666,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze"
@@ -23324,7 +23468,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 233000,
       "name": "Raining On Your Pillow",
       "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
@@ -23407,6 +23551,24 @@
     },
     {
       "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/4NKP3IcS7Gu5HK9gy8spJ8"
       },
@@ -23484,6 +23646,24 @@
       "duration_ms": 174573,
       "name": "Reckless Child",
       "url": "https://open.spotify.com/track/1y093zNa1pQUw8SDBstgXc"
+    },
+    {
+      "album": {
+        "name": "Tender the Spark",
+        "url": "https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223504,
+      "name": "Red Brick",
+      "url": "https://open.spotify.com/track/37uSF2cCNeNh0l44ejDN2v"
     },
     {
       "album": {
@@ -25240,7 +25420,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268500,
       "name": "Short Straws",
       "url": "https://open.spotify.com/track/5SAyjNgzpeA01YXhlx3Gem"
@@ -25438,7 +25618,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187333,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
@@ -25478,7 +25658,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 212493,
       "name": "signal",
       "url": "https://open.spotify.com/track/2A4kNoERFvveZIeOQepSDs"
@@ -26468,7 +26648,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 191333,
       "name": "Somehow I Forgot",
       "url": "https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH"
@@ -27589,6 +27769,28 @@
     },
     {
       "album": {
+        "name": "Summer 2000 Baby / Take a Trip",
+        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242410,
+      "name": "Summer 2000 Baby",
+      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
+    },
+    {
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -28188,7 +28390,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 141362,
       "name": "Take Off All Your Honey",
       "url": "https://open.spotify.com/track/1XNMAJqkPfzemSuG6tx9wV"
@@ -29653,6 +29855,24 @@
     },
     {
       "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+    },
+    {
+      "album": {
         "name": "People Who Aren\u2019t There Anymore",
         "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
       },
@@ -30532,6 +30752,24 @@
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
+    },
+    {
+      "album": {
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu"
+      },
+      "artists": [
+        {
+          "name": "Holdan Sutton",
+          "url": "https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308072,
+      "name": "Too Timid",
+      "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
     },
     {
       "album": {
@@ -32760,6 +32998,24 @@
       "duration_ms": 260183,
       "name": "Where Have All The Cowboys Gone?",
       "url": "https://open.spotify.com/track/108OIS5jep6kMSLJ6yf4cc"
+    },
+    {
+      "album": {
+        "name": "Where's My Beach Hat",
+        "url": "https://open.spotify.com/album/0Av1Bi8NHKQV6syg3Z5iuJ"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204939,
+      "name": "Where's My Beach Hat",
+      "url": "https://open.spotify.com/track/4VthrPKbQjQMM3EPHCwS7R"
     },
     {
       "album": {

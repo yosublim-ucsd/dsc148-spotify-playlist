@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 ### [Spotify Singles: Country](https://open.spotify.com/playlist/37i9dQZF1DXdXh4ecan7Hh)
 
-> County's best like you've never heard before\. Cover: Keith Urban at Spotify House
+> County's best like you've never heard before\. Cover: mgk at Spotify House
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,190 likes - 78 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,221 likes - 78 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 |
-| 2 | [There’s Your Trouble \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [There’s Your Trouble \- Spotify Singles](https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC) | 3:11 |
+| 1 | [There’s Your Trouble \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [There’s Your Trouble \- Spotify Singles](https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC) | 3:11 |
+| 2 | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 |
 | 3 | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/7sXPuvRWsaOoUzno4NHXtt) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Say Something \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/3ysOkwf6EyopPKqxGaj9Ls) | 3:34 |
 | 4 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 |
 | 5 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 77 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 78 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 
-Snapshot ID: `Zqo06QAAAACZXbIl+dUfRwYrgUqW5JuZ`
+Snapshot ID: `ZrWUQAAAAACqBa6MBX/7IOvvGLKCT7uJ`

@@ -2,7 +2,7 @@
 
 ### [Essential Alternative](https://open.spotify.com/playlist/37i9dQZF1DX9GRpeH4CL0S)
 
-> The greatest Alternative Rock songs through the decades\. Cover: Weezer
+> The greatest alternative rock songs through the decades\. Cover: Phoenix
 
 400 songs - 1 day 1 hr 32 min
 
@@ -204,7 +204,7 @@
 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 | 2020-07-23 |  |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2020-07-23 |  |
 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 | 2020-07-23 |  |
-| [Lisztomania](https://open.spotify.com/track/6ZrlXT6mUMEgomN128iekU) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK) | 4:01 | 2020-07-23 | 2024-07-16 |
+| [Lisztomania](https://open.spotify.com/track/6ZrlXT6mUMEgomN128iekU) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK) | 4:01 | 2020-07-23 |  |
 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2022-05-30 | 2024-04-19 |
 | [Lisztomania](https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 4:01 | 2022-05-30 | 2022-10-14 |
 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 | 2022-05-30 | 2024-04-19 |
@@ -312,7 +312,7 @@
 | [Such Great Heights](https://open.spotify.com/track/3iDK8BAaBUatPR84gdfa9g) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/19AxGebIDoa4PrkvuZ2ACZ) | 4:26 | 2020-07-23 | 2024-07-31 |
 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 | 2022-05-30 | 2024-04-19 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2022-05-30 | 2024-04-19 |
-| [Sugar, We're Goin Down](https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:49 | 2020-07-23 |  |
+| [Sugar, We're Goin Down](https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:49 | 2020-07-23 | 2024-08-10 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/0jpdqGQLWopHbPckFYRaAs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Game Day Rock Hits 2022](https://open.spotify.com/album/4DmaQyqXYzBNTLCNoO2U0K) | 3:50 | 2022-05-30 | 2022-11-13 |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2020-07-23 |  |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2020-07-23 |  |

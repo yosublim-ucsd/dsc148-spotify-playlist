@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Umair
 
-94 songs - 5 hr 14 min
+97 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,9 +52,11 @@
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-07-31 |  |
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-10-05 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-07-31 |  |
+| [Khair](https://open.spotify.com/track/3rXGNW4iX1XcbJVx2N4qev) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Khair](https://open.spotify.com/album/1egKAuUTNnYFWXwdWWfeRg) | 2:45 | 2024-08-09 |  |
 | [Kids](https://open.spotify.com/track/2qTqeKMywXEsWbrdYr5OxP) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:49 | 2023-07-31 | 2024-07-23 |
 | [KYUN](https://open.spotify.com/track/6nw0sXQqDNCQx2IN6ZyJqX) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [KYUN](https://open.spotify.com/album/3qh8blK64o1CqB6Q8hpNMb) | 4:06 | 2023-07-31 |  |
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2023-07-31 | 2024-07-23 |
+| [love lost](https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:00 | 2024-08-09 |  |
 | [Maar Udari \- Pardes 2.0](https://open.spotify.com/track/0Ppvk37aQvMlwEGL94ucI7) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Maar Udari \(Pardes 2.0\)](https://open.spotify.com/album/0ouu1Hv4pKKJnQ3C1keGYS) | 3:19 | 2024-06-21 |  |
 | [MAHI // AVAY](https://open.spotify.com/track/4klMH7SD2ypbWvV8GxR452) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [MAHI // AVAY](https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0) | 2:34 | 2024-01-05 |  |
 | [Mann Mein Tu](https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Mann Mein Tu](https://open.spotify.com/album/68gFrMFNTNTxLa8Nmm9Lx0) | 2:59 | 2023-07-31 | 2024-01-06 |
@@ -88,6 +90,7 @@
 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 | 2023-07-31 |  |
 | [Shuru Karein](https://open.spotify.com/track/3yqoD9SYDfwvNEdU2NEpFx) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Shuru Karein](https://open.spotify.com/album/1MxsE2k1buYRltVVXfcivf) | 2:26 | 2023-07-31 |  |
 | [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 | 2023-07-31 | 2023-09-04 |
+| [Stay With Me](https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Stay With Me](https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8) | 2:29 | 2024-08-09 |  |
 | [Sukoon](https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/1IOyOJS5q1mLur1y0rSoyU) | 4:15 | 2023-11-29 | 2024-01-06 |
 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 | 2024-02-23 | 2024-04-19 |
 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 | 2023-07-31 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Aerosmith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
 
-> This is Aerosmith\. The essential tracks, all in one playlist.
+> This is Aerosmith\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 108 songs - 7 hr 59 min
 

@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Blues In My DNA",
+        "url": "https://open.spotify.com/album/2bQZbzMmuLDr6B6UPJhU7Y"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288448,
+      "name": "Blues In My DNA",
+      "url": "https://open.spotify.com/track/5TURfEoUdPoM8XNuugPjVp"
+    },
+    {
+      "album": {
         "name": "Wrestling Me",
         "url": "https://open.spotify.com/album/0iVylOcZFHmsl0s4NbQfIC"
       },
@@ -4280,7 +4298,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 199873,
       "name": "Mount up on the Wings of the King",
       "url": "https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp"
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 241480,
       "name": "Still The World Goes Round",
       "url": "https://open.spotify.com/track/6NC8TahwAZKURe6EolCBOv"
@@ -6849,6 +6867,28 @@
     },
     {
       "album": {
+        "name": "Undefeated Eyes (Radio Edit)",
+        "url": "https://open.spotify.com/album/5hA9rwzWYLOkCj3oNyHTe6"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "Undefeated Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV"
+    },
+    {
+      "album": {
         "name": "Under Your Spell",
         "url": "https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T"
       },
@@ -6994,7 +7034,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190436,
       "name": "Virginia Soil",
       "url": "https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE"
@@ -7454,6 +7494,28 @@
       "duration_ms": 211280,
       "name": "Work Until My Days Are Done",
       "url": "https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH"
+    },
+    {
+      "album": {
+        "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+        "url": "https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194236,
+      "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
     },
     {
       "album": {

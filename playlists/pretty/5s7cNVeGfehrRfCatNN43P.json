@@ -1,276 +1,252 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10803,
+  "num_followers": 10805,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAAK3UBr3qFMko7/AAH2iZ3xDBEuYAP9",
+  "snapshot_id": "AAAK32YY4JTtC4NzbrcHxhCAZzsKcLwW",
   "tracks": [
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT"
+        "name": "Wake Up, Pass Out",
+        "url": "https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
         }
       ],
-      "duration_ms": 162735,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1EqpDxhSQrqvMnDXCKvpfs"
+      "duration_ms": 178357,
+      "name": "Wake Up, Pass Out",
+      "url": "https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7"
+        "name": "Beat Fantasy",
+        "url": "https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 149683,
-      "name": "Erase You",
-      "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
+      "duration_ms": 187337,
+      "name": "Beat Fantasy",
+      "url": "https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "SO WHAT",
-        "url": "https://open.spotify.com/album/3vCf0QsvONQz3nF3mSyR3h"
+        "name": "Angel Of My Dreams (S.A.D. Version - Slow. Angelic. Dramatic.)",
+        "url": "https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 196030,
-      "name": "SO WHAT",
-      "url": "https://open.spotify.com/track/3uinHmFHOmXptkX1Z1bJA6"
+      "duration_ms": 225692,
+      "name": "Angel Of My Dreams - S.A.D. Version - Slow. Angelic. Dramatic.",
+      "url": "https://open.spotify.com/track/6NayZTCSB2d4New8oIgBx0"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
+    },
+    {
+      "added_at": "2024-08-09 10:27:43",
+      "album": {
+        "name": "A LITTLE LIFE",
+        "url": "https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "A LITTLE LIFE",
+      "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
+    },
+    {
+      "added_at": "2024-08-09 10:27:43",
+      "album": {
+        "name": "honestly, does this smell off to you?",
+        "url": "https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "limousine",
+      "url": "https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH"
+    },
+    {
+      "added_at": "2024-08-09 10:27:43",
+      "album": {
+        "name": "Sunday Sadness",
+        "url": "https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 137453,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/3uTMmWHtyzks33cVtGv8ys"
+    },
+    {
+      "added_at": "2024-08-09 10:27:43",
+      "album": {
+        "name": "Lucky (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 238027,
-      "name": "Volume",
-      "url": "https://open.spotify.com/track/3FTjdr8D814YDBWxsD1V54"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Overglow - Jade's Version",
-        "url": "https://open.spotify.com/album/1SaS2ssPPvz59jfrn7vx2e"
+        "name": "Shy Shy",
+        "url": "https://open.spotify.com/album/2Zn3Zb7Vfum7WOg14dtW2J"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 192923,
-      "name": "Overglow - Jade's Version",
-      "url": "https://open.spotify.com/track/7GaiFXhUML7c5n6dSpCQme"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "Screen Cleaner",
-        "url": "https://open.spotify.com/album/6knmBybayTL36FPFPge1TI"
-      },
-      "artists": [
-        {
-          "name": "George Daniel",
-          "url": "https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Screen Cleaner",
-      "url": "https://open.spotify.com/track/0Mov1mEZkKFHTGgFiO3ONa"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "Check",
-        "url": "https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "push me over",
-      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "The Way She Moves",
-        "url": "https://open.spotify.com/album/3gO9oRmrXL4IyBlaxGz7KO"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "The Way She Moves",
-      "url": "https://open.spotify.com/track/3ggpCMbp7276cdCaMj6A3q"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "VOICES",
-        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 163262,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
-    },
-    {
-      "added_at": "2024-08-02 08:19:37",
-      "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "System Olympia",
+          "url": "https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX"
         },
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "P Nut",
+          "url": "https://open.spotify.com/artist/306FO9CXfM99jPu9tpNQXd"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 201142,
+      "name": "Shy Shy",
+      "url": "https://open.spotify.com/track/1vIEbdHDDDueYcg7vTimTO"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "domino szn",
-        "url": "https://open.spotify.com/album/5ZahMu7KEBe4Gzf2bR61Ew"
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
       },
       "artists": [
         {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 224590,
-      "name": "domino szn",
-      "url": "https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS"
+      "duration_ms": 152348,
+      "name": "You're Invited",
+      "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl"
+        "name": "Fakest Bitch",
+        "url": "https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 258986,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
+      "duration_ms": 259234,
+      "name": "Fakest Bitch",
+      "url": "https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB"
     },
     {
-      "added_at": "2024-08-02 08:19:37",
+      "added_at": "2024-08-09 10:27:43",
       "album": {
-        "name": "Cuppa Tea",
-        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
       },
       "artists": [
         {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 206170,
-      "name": "Cuppa Tea",
-      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
+      "duration_ms": 157086,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

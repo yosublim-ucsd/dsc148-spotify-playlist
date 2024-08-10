@@ -1,12 +1,12 @@
 {
-  "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 32685,
+  "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
+  "num_followers": 32699,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADQhDSDdlpVrtLjNa8m56y+",
+  "snapshot_id": "ZrQKgAAAAAC8OK0W2eg+fjVKlPVvNc+I",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Tumbas",
-        "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Las Tres Tumbas",
-      "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 A\u00f1os De Cabalgata Norte\u00f1a",
         "url": "https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 151000,
       "name": "Cheque Al Portador",
       "url": "https://open.spotify.com/track/2NlV4fLXbXMoqZCuRQ7dJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Tumbas",
+        "url": "https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
+        "name": "Recuerdos De Carlos y Jose Vol. 1",
+        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 174506,
-      "name": "Pescadores De Ensenada",
-      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
+      "duration_ms": 163786,
+      "name": "El Pasito Vaquero",
+      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos De Carlos y Jose Vol. 1",
-        "url": "https://open.spotify.com/album/4C6h3NopDACF7wRqKQJm0l"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 163786,
-      "name": "El Pasito Vaquero",
-      "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
+      "duration_ms": 174506,
+      "name": "Pescadores De Ensenada",
+      "url": "https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "Tesoros Musicales",
+        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+      "duration_ms": 187346,
+      "name": "Al Pie De Un Arbol",
+      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 183693,
       "name": "Ramiro Y Miguel",
       "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tesoros Musicales",
-        "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 187346,
-      "name": "Al Pie De Un Arbol",
-      "url": "https://open.spotify.com/track/4h0sJQXfkAHy2ldLVLFBL2"
     },
     {
       "added_at": null,

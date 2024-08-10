@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Freddie D.
+> nü\-metal revival is happening here and now with Silly Goose
 
-178 songs - 10 hr 13 min
+180 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Kill Me](https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Kill Me](https://open.spotify.com/album/0gyB2i9eqGckT6G3hGPeOf) | 1:48 | 2024-04-05 | 2024-04-19 |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 | 2024-02-03 |
 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 | 2023-09-13 | 2023-09-23 |
-| [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 | 2024-01-19 |  |
+| [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 | 2024-01-19 | 2024-08-10 |
 | [Kraken Down](https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be) | [FiveByFive](https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW) | [Phuck Around Phind Out](https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1) | 3:23 | 2024-04-19 |  |
 | [Last dAntz](https://open.spotify.com/track/2kXTWjuZgttmobEIVhuyto) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Last dAntz](https://open.spotify.com/album/0iZ9tCFBxudVzuY5HUwzAv) | 3:52 | 2024-04-12 | 2024-05-25 |
 | [Learning How To Be Human](https://open.spotify.com/track/4ZOREvpqSJGmD61YAMNoJU) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/5CUMwKLT0Ic6pRNCxtlWHS) | 3:14 | 2024-04-05 | 2024-07-27 |
@@ -147,6 +147,7 @@
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 |  |
 | [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
+| [T.I.T.P.](https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [T.I.T.P.](https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r) | 2:55 | 2024-08-09 |  |
 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 |  |
 | [Takers](https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU) | [Discrepancies](https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19) | [Takers](https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j) | 3:16 | 2024-06-14 | 2024-06-22 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
@@ -158,6 +159,7 @@
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-04-05 |  |
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-09 | 2024-04-06 |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-16 |
+| [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-09 |  |
 | [Turn It Up, Bitch](https://open.spotify.com/track/2KlKLcZPU4CptMCQ3TY5ls) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:20 | 2024-07-05 |  |
 | [Two\-Way Mirror](https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:00 | 2023-09-13 | 2023-12-16 |
 | [UCOPIA](https://open.spotify.com/track/4Ht1HxpypndhtASlprsIkC) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [UCOPIA](https://open.spotify.com/album/49wh1etag3HNhID63qPQ2p) | 2:45 | 2024-06-21 | 2024-07-19 |

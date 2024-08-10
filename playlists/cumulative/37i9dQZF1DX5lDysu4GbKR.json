@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155813,
+      "name": "Colour Blind",
+      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+    },
+    {
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -964,6 +982,24 @@
       "duration_ms": 237000,
       "name": "Dive Bar - Demo Version",
       "url": "https://open.spotify.com/track/6uGS5ijqsTxJBopWF2rM7o"
+    },
+    {
+      "album": {
+        "name": "DND (Acoustic)",
+        "url": "https://open.spotify.com/album/0plcAlY3I6rYDI4nGaWZlp"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "DND - Acoustic",
+      "url": "https://open.spotify.com/track/0y9hUWaHuyIBppaKvcjAXt"
     },
     {
       "album": {
@@ -2725,6 +2761,32 @@
     },
     {
       "album": {
+        "name": "No More Maybes (feat. Bibi Bourelly & India Shawn) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/7qJVootdK0IRzuRTiaTeBH"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157395,
+      "name": "No More Maybes (feat. Bibi Bourelly & India Shawn) - Acoustic Version",
+      "url": "https://open.spotify.com/track/4KSiJei4vNEh3todDqvgjL"
+    },
+    {
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -3093,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX"
       },
@@ -3292,7 +3372,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165933,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
@@ -3666,6 +3746,24 @@
       "duration_ms": 204179,
       "name": "Talk In The Morning - Acoustic",
       "url": "https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP"
+    },
+    {
+      "album": {
+        "name": "The Most (Acoustic)",
+        "url": "https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179302,
+      "name": "The Most (Acoustic)",
+      "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
     },
     {
       "album": {

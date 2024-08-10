@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-158 songs - 7 hr 30 min
+161 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,12 @@
 | [In Luv With The Money](https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 3:09 | 2023-11-10 | 2023-12-09 |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-11-03 | 2024-02-03 |
 | [jersey luv \(turn me on\)](https://open.spotify.com/track/0824LHgyDYQeWrLsQ7BWOn) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc) | [jersey luv \(turn me on\)](https://open.spotify.com/album/18VQoqu4E1cej9M1CsrxUq) | 3:03 | 2023-11-03 | 2024-01-27 |
+| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-10 |  |
 | [Know Sum](https://open.spotify.com/track/59X7S4JPGgGqg64ec6SVsP) | [DCG BROTHERS](https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J) | [Us, Never Them](https://open.spotify.com/album/7vjabFNeSqcUYWR2BQN5VZ) | 3:29 | 2023-11-03 | 2023-11-25 |
 | [L's](https://open.spotify.com/track/1n0uo2A19rtZn5L2bcvOtu) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [L's](https://open.spotify.com/album/6K1JXpnMjEoak85BbmZypZ) | 1:57 | 2024-02-02 | 2024-02-24 |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-02-23 |  |
 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 | 2024-05-16 | 2024-06-06 |
+| [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 | 2024-08-10 |  |
 | [Like It's 99](https://open.spotify.com/track/0H9DJEKl5tdaB3v97gtrGe) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E) | [Like It's 99](https://open.spotify.com/album/3ncKvA3x0qks1qEFxDIAx6) | 3:16 | 2023-11-03 | 2023-11-18 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 | 2024-03-16 |
 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 | 2023-11-03 |  |
@@ -99,6 +101,7 @@
 | [MAD](https://open.spotify.com/track/3RIfPynHjfJgChiUX6nDrg) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [MAD](https://open.spotify.com/album/6L0iHM0jM6pvsTZesuHBWO) | 2:46 | 2023-11-03 | 2023-11-11 |
 | [MADONNA & RIHANNA](https://open.spotify.com/track/704qSGogleVeb46KLsMl2e) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [MADONNA & RIHANNA](https://open.spotify.com/album/0r81t0FQLIyyAytNSLUbqy) | 2:02 | 2024-05-16 |  |
 | [Mama Said \(feat\. SleazyWorld Go\)](https://open.spotify.com/track/5BB0wg903UUPfY3k3AGugN) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:57 | 2024-03-01 |  |
+| [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-08-10 |  |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-11-03 | 2023-11-18 |
 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 | 2023-11-24 | 2024-03-09 |
 | [Must Be Me](https://open.spotify.com/track/6Cxc9tL1sMdivV1Quh0yjZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Breath of Fresh Air](https://open.spotify.com/album/7yaZiqWLiUdPXwl2m9EnGR) | 3:30 | 2023-11-03 | 2023-12-16 |

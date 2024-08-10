@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,120 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,119 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 20 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
 | 21 | [Medley de Natal: Num Berço de Palha / Noite de Paz](https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI) | [Prisma Brasil](https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW), [Coral Jovem do Unasp \- HT](https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj), [Coral Canto Livre](https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F) | [A Canção de Natal](https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O) | 5:45 |
 | 22 | [Nosso Natal](https://open.spotify.com/track/59a4WSUh9OPf1CzGfuJjE3) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF), [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG), [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV), [Jake Trevisan](https://open.spotify.com/artist/62TyTZv47kAsgT5yoqrTDy) | [Nosso Natal](https://open.spotify.com/album/0evesoYPLqjpaYx6D5Y6bW) | 9:02 |
-| 23 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
-| 24 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
+| 23 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
+| 24 | [Nasce Jesus](https://open.spotify.com/track/7CSgp6bjKNHoKQgVzyilaM) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 3:39 |
 | 25 | [Ó Noite Santa](https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Ó Noite Santa](https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl) | 5:10 |
 | 26 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
 | 27 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |

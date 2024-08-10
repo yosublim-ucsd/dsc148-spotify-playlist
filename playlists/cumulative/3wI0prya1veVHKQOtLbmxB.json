@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+    },
+    {
+      "album": {
         "name": "Nothing Was The Same (Deluxe)",
         "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
       },
@@ -2950,6 +2968,24 @@
       "duration_ms": 166520,
       "name": "Scrawny",
       "url": "https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8"
+    },
+    {
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21606,
+  "num_followers": 21608,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABrwsjhJlMjy2S4vv8u0xnZ",
+  "snapshot_id": "ZrQKgAAAAABb7OeB0c3PBfzOD/Z5KIYb",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outro Dia",
         "url": "https://open.spotify.com/album/4OpLG18GdHYN3FamTxiP5o"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 232514,
       "name": "Outro Dia",
       "url": "https://open.spotify.com/track/10cGYECUNpFbVCZUMLGP5r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Sa\u00edda Est\u00e1 Dentro",
-        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 231407,
-      "name": "P\u00e1ssaros",
-      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Sa\u00edda Est\u00e1 Dentro",
+        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 231407,
+      "name": "P\u00e1ssaros",
+      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/7azEIGsP1565VMeJXzunVH"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Mais Uma Vez",
-        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187564,
-      "name": "S\u00f3 Mais Uma Vez",
-      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Relacionamento",
         "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Mais Uma Vez",
+        "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187564,
+      "name": "S\u00f3 Mais Uma Vez",
+      "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo Parou",
         "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 223354,
       "name": "O Mundo Parou",
       "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1175,8 +1175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx"
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
       },
       "artists": [
         {
@@ -1184,13 +1184,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6"
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1267,6 +1267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flutua",
+        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 203980,
+      "name": "Flutua",
+      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desacelerar",
         "url": "https://open.spotify.com/album/5VNG5eW6yxQQ4PDTkDDveB"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 212000,
       "name": "Desacelerar",
       "url": "https://open.spotify.com/track/62XD42qxP5lALEdbKNowzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flutua",
-        "url": "https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 203980,
-      "name": "Flutua",
-      "url": "https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP"
     },
     {
       "added_at": null,

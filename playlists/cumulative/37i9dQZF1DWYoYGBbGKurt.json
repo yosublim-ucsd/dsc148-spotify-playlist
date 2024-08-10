@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176580,
       "name": "2 steps behind",
       "url": "https://open.spotify.com/track/3yVQ38n3SvAVzgCW00ltVc"
@@ -5138,7 +5138,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 124756,
       "name": "Chill Whisper",
       "url": "https://open.spotify.com/track/3uZiHwkCxYAkHGMmuTfwHs"
@@ -10376,7 +10376,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 115058,
       "name": "februari",
       "url": "https://open.spotify.com/track/6DDx3klvlyigohXuGnoO1k"
@@ -11950,7 +11950,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 118541,
       "name": "Furusato",
       "url": "https://open.spotify.com/track/1T9R7fP2hzGwi4IPcM5u99"
@@ -16854,7 +16854,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 123076,
       "name": "Lemon Squeeze",
       "url": "https://open.spotify.com/track/1mLQVMnwYSR0fd3gUypDnf"
@@ -16894,7 +16894,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 113898,
       "name": "Less",
       "url": "https://open.spotify.com/track/07E3s1SyV6mtKniOFHla0D"
@@ -18652,7 +18652,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 131367,
       "name": "lullaby sayonara",
       "url": "https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8"
@@ -19632,6 +19632,28 @@
       "duration_ms": 136500,
       "name": "Meditation Day",
       "url": "https://open.spotify.com/track/5YIU90EKgalWc0BplVmT93"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
+      },
+      "artists": [
+        {
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "album": {
@@ -20858,7 +20880,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155424,
       "name": "Morning Beat",
       "url": "https://open.spotify.com/track/4tJfuf60LLTh39AS2qP75y"
@@ -21425,6 +21447,24 @@
     },
     {
       "album": {
+        "name": "NapBeats",
+        "url": "https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "NapBeats",
+      "url": "https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt"
+    },
+    {
+      "album": {
         "name": "Cashmere Dreams",
         "url": "https://open.spotify.com/album/1AC4GcnWskAraRKxBcLQq0"
       },
@@ -21682,7 +21722,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 241111,
       "name": "New Perspectives",
       "url": "https://open.spotify.com/track/2nRGO4Qb7Bb3rpi2Zi3V6N"
@@ -22138,6 +22178,24 @@
       "duration_ms": 132173,
       "name": "Not Anymore",
       "url": "https://open.spotify.com/track/5RL4WDaS2EzKqZdACs2svg"
+    },
+    {
+      "album": {
+        "name": "not noise",
+        "url": "https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148482,
+      "name": "not noise",
+      "url": "https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe"
     },
     {
       "album": {
@@ -25006,7 +25064,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 173947,
       "name": "resonance",
       "url": "https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk"
@@ -27200,7 +27258,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148315,
       "name": "Slowmotion",
       "url": "https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA"
@@ -30274,7 +30332,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 135681,
       "name": "Talk The Talk",
       "url": "https://open.spotify.com/track/31sZZa7txh9gwIU6ak68rx"
@@ -34018,7 +34076,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 216954,
       "name": "weary eyes",
       "url": "https://open.spotify.com/track/3VwZ1e6AZQ9dzS0M1Udd3X"
@@ -34626,7 +34684,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 122083,
       "name": "Windy Hill",
       "url": "https://open.spotify.com/track/2gWavxidHzDrRIau3c0K7V"

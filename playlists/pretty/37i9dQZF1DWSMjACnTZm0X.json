@@ -1,15 +1,39 @@
 {
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Diamond Platinumz, Jason Derulo, Chley, Khalil Harris",
-  "num_followers": 14393,
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Binta",
+  "num_followers": 14411,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwohgAAAACvl5DsVMf88pWqkZkJIGh3",
+  "snapshot_id": "ZrWnLgAAAAAOKS0oN4P6lM74oppg4759",
   "tracks": [
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId"
+      },
+      "artists": [
+        {
+          "name": "Binta",
+          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "KDDO",
+          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
+        }
+      ],
+      "duration_ms": 143119,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u"
+    },
+    {
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E) [Remix]",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
@@ -37,7 +61,7 @@
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Komasava (Comment \u00c7a Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
         "url": "https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs"
@@ -65,7 +89,27 @@
       "url": "https://open.spotify.com/track/0WmNSVQAT1HHzhrJPwAjyI"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
+      },
+      "artists": [
+        {
+          "name": "Donel",
+          "url": "https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT"
+        },
+        {
+          "name": "Dankie Sounds",
+          "url": "https://open.spotify.com/artist/2a5DGG7t8k1ewZPhXV546C"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Mina Nawe - Radio Edit",
+      "url": "https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5"
+    },
+    {
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
@@ -109,7 +153,7 @@
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "DOMINATOR - ROSEY GOLD & JAY MUSIC VS HUMAN RESOURCE",
         "url": "https://open.spotify.com/album/1qyfoCN8GQCZOG2BR7T5nZ"
@@ -133,31 +177,7 @@
       "url": "https://open.spotify.com/track/09LnLn1TaUrkSdKukKfQOM"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId"
-      },
-      "artists": [
-        {
-          "name": "Binta",
-          "url": "https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        }
-      ],
-      "duration_ms": 143119,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u"
-    },
-    {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Disconnect (feat. Marioo)",
         "url": "https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "AWILOH",
         "url": "https://open.spotify.com/album/6xvq3e3MfmeulzRxHsJBJt"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/79aDBkQtJ7rb0nus3PlDX8"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Sweat (Yumbs Remix)",
         "url": "https://open.spotify.com/album/4svCZq2P5edr3izapQKj0v"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/1Mu7Wh7hNeoC7GFBcIcjhc"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Mine For The Night",
         "url": "https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "GOLD II",
         "url": "https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/0Tl69SxWCzFa4PD5TRZhR0"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Mix It Up, Vol. 3",
         "url": "https://open.spotify.com/album/2cE1RskVBcMiIhrsGQgV5P"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/3ONBYWQmX2ptgvEtFCKV7V"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Asambe Remix",
         "url": "https://open.spotify.com/album/5ZkJx9EhBAGIwlxZjbSd7C"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/5dYHbXEbaMMdR4A4OWSa6N"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Off My Mind (feat. Bien and Moliy)",
         "url": "https://open.spotify.com/album/4xPh4wkRpIrYY76XUwb4EU"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/64uHIutDM1LeKX12mONusv"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Egwu",
         "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Momo (feat. King of Bakongo)",
         "url": "https://open.spotify.com/album/7jGKHF03QB84WnZXtiDmmn"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/62WPr79JCCXFb5H3oIuR0C"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Namtaka (feat. LeeMcKrazy & Raspy)",
         "url": "https://open.spotify.com/album/1w4Xrle5ZxOiBl88wVcOzV"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/7vxmB0okc59LqbLzFmKMy4"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Koboko",
         "url": "https://open.spotify.com/album/3XCvwswGNjcgk7YwWlTHnW"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/3HKuNtV4xZlq9EkU9j4k9Z"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Kautaka",
         "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Paper (Tumelo_za & SjavasDaDeejay Remix)",
         "url": "https://open.spotify.com/album/0cmmc3xTninhH46tQKoqig"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/29frpkDeEsRdG81FRRl0nO"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Superstar (feat. BL Zero & Moodee)",
         "url": "https://open.spotify.com/album/4a2Q1b4h3O259hVTvjXjQ5"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/0IZTs4E6AxiUWMvUvy4tm5"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Hexagon",
         "url": "https://open.spotify.com/album/3I3j5cgln5bast344XgvUA"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/6JzDmKsKyPmkKixEnk1Iwg"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Anatomy",
         "url": "https://open.spotify.com/album/1yWqGDo7VLYP7EjDhtPn9P"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/3Sa3juDsSrz5lvxfKMk74w"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "IS IT YOU? / MYSTERIOUS LOVE",
         "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "OMALICHA",
         "url": "https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "No Suffer (3am in Jozi)",
         "url": "https://open.spotify.com/album/5M6D9F6tKvTroGFZBi6z1D"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/4CHdozuiZ8q5ZjUqeYNjs8"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Zazazela (feat. Zaba)",
         "url": "https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU"
@@ -693,7 +713,7 @@
       "url": "https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Mpulela",
         "url": "https://open.spotify.com/album/7xQH7BDQdw6jfwuQvmLqd4"
@@ -713,7 +733,7 @@
       "url": "https://open.spotify.com/track/534mUczKxht6MdcmWTvlGY"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/7z6rpzua2aPy1dxLJ4arkm"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/5FGA9IEDOPYX8viE5BtyLW"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Big Fat Machine (feat. Fivio Foreign and Major League Djz)",
         "url": "https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Woza",
         "url": "https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/5G4PbKjjrntkjl1nvJqVWW"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Concussion (Remix)",
         "url": "https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/6ewzGgAnMYgU7RmE3XWw0T"
@@ -845,7 +865,7 @@
       "url": "https://open.spotify.com/track/0EFOT4wLwR4AZBGMTg3Ne3"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Hade Boss",
         "url": "https://open.spotify.com/album/1p1GcNM063zEJBu0NsM4DO"
@@ -869,7 +889,7 @@
       "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/6kfirirfpHequnP9iMRHA1"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/2krh7DGcbKuJ2Z0KdkONgv"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Don't Stress Me",
         "url": "https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Konji",
         "url": "https://open.spotify.com/album/1K72cPsM1nhkYG8EMMmPfA"
@@ -925,7 +945,7 @@
       "url": "https://open.spotify.com/track/6AiQ9EcX0YrRGHiLRzheVi"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Love or Lust",
         "url": "https://open.spotify.com/album/7wwIAB9QJEuVYb4iHfOPoN"
@@ -945,7 +965,7 @@
       "url": "https://open.spotify.com/track/7jrVAXjL1xbfmeoAx391aI"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Presido La Pluto",
         "url": "https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR"
@@ -965,7 +985,7 @@
       "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
@@ -981,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Holy Father",
         "url": "https://open.spotify.com/album/3oEoSA8yhoE8VZopXjceyr"
@@ -1001,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3b3EBj7XhtJ5YhMpr7eXL4"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Clear / Rinse & Repeat",
         "url": "https://open.spotify.com/album/646oxcwrISUFht8JJV0N07"
@@ -1017,7 +1037,7 @@
       "url": "https://open.spotify.com/track/10UV0GA408i11E6eSloCb4"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Yakunay",
         "url": "https://open.spotify.com/album/7sFabzFIwrdInO0AGVc3Qu"
@@ -1033,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2PKThuOwwDMNhqh4UyVNWH"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Take Ova (Remix)",
         "url": "https://open.spotify.com/album/4t8jMBM6olQPkf1y8SonMR"
@@ -1057,7 +1077,7 @@
       "url": "https://open.spotify.com/track/46jWaCgGar5s92mMThXM8j"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Party Mode",
         "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
@@ -1081,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "A Collision of Two Worlds 2.0",
         "url": "https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR"
@@ -1109,27 +1129,7 @@
       "url": "https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB"
     },
     {
-      "added_at": "2024-08-02 00:29:58",
-      "album": {
-        "name": "Clear Road",
-        "url": "https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x"
-      },
-      "artists": [
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        },
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 159961,
-      "name": "Clear Road",
-      "url": "https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz"
-    },
-    {
-      "added_at": "2024-08-02 00:29:58",
+      "added_at": "2024-08-09 05:20:46",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"

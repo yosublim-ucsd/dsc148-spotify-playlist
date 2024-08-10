@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "conflictions of affliction: tears of the kingdom",
+        "url": "https://open.spotify.com/album/0lw08BZOZTMwS4GhwX12eh"
+      },
+      "artists": [
+        {
+          "name": "aftrthght",
+          "url": "https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "eternity",
+      "url": "https://open.spotify.com/track/5bDyEhIt1gPXuaAxUvNUJr"
+    },
+    {
+      "album": {
         "name": "evergreen love",
         "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
       },
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 236657,
       "name": "Heaven Closes Doors",
       "url": "https://open.spotify.com/track/3ZyhSQbjw3IJlOlxf6Eb01"
@@ -2618,6 +2636,24 @@
       "duration_ms": 139285,
       "name": "NEVER FELT SO GOOD",
       "url": "https://open.spotify.com/track/2exfMpNGW6W8sIMARfmWLg"
+    },
+    {
+      "album": {
+        "name": "Jungle In The City",
+        "url": "https://open.spotify.com/album/3L0Uu4uPGQ7CaFFdbo5YdX"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256186,
+      "name": "Newspaper Boat",
+      "url": "https://open.spotify.com/track/4Ji0qrNoExLxTlu0ezFKmR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,736 likes - 100 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,865 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 68 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 69 | [Sometime Later](https://open.spotify.com/track/2msfWw8i2c1lkAErI9D9O9) | [Alpha](https://open.spotify.com/artist/3FKLqq9ByYJSPId24Es3vF) | [Come From Heaven](https://open.spotify.com/album/0blm7ESsfrsrTSKtpt7npY) | 7:01 |
 | 70 | [It's Over](https://open.spotify.com/track/6jcSHz9Uz3Tg1t5IMVZnQ8) | [Lazy](https://open.spotify.com/artist/40xNNEdgCc2RVHO6vagYC7) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 3:28 |
-| 71 | [Original Bedroom Rockers](https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 4:47 |
-| 72 | [Village Tap](https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Hyena](https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ) | 5:29 |
+| 71 | [Village Tap](https://open.spotify.com/track/0dhB88Ran1cvX7DeRvcxvR) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Hyena](https://open.spotify.com/album/5lxxwkGTqq6wa8RBAOZLnJ) | 5:29 |
+| 72 | [Original Bedroom Rockers](https://open.spotify.com/track/2BA7w9adWgbSkIcYqny7K5) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [Chillout Album 3](https://open.spotify.com/album/07dF8IQWnmj2a9hxW4HdVS) | 4:47 |
 | 73 | [Inside My Mind \(Blue Skies\) \- Elephant Remix](https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [NBG](https://open.spotify.com/artist/56XXQm9k3766HSJx7mTunW) | [The Remixes](https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S) | 7:02 |
 | 74 | [10](https://open.spotify.com/track/4zC159B91HDN9k59cc8sJN) | [Misled Children](https://open.spotify.com/artist/5Nh20cXNrzYKYw2Gb4Q2oW) | [Peoples Market](https://open.spotify.com/album/06ytFbyMBooSUBg8kFmc5E) | 3:42 |
 | 75 | [Music By Cavelight](https://open.spotify.com/track/6nCWF2aVa8RXeYil3co27v) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Music By Cavelight](https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj) | 4:10 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 85 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
 | 86 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
 | 87 | [Chun Li vs\. Wah Wah Man](https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 2:59 |
-| 88 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
-| 89 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
-| 90 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
+| 88 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
+| 89 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
+| 90 | [Slip Into Something More Comfortable \- Stephen Hague 2016 Mix](https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4) | [Kinobe](https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy) | [Slip Into Something More Comfortable](https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu) | 4:47 |
 | 91 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
 | 92 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
 | 93 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 97 | [Love Will Tear Us Apart](https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0) | [Nouvelle Vague](https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh) | 3:18 |
 | 98 | [Postales](https://open.spotify.com/track/2fjisFFeRhtW2hfO4gc7Rh) | [Federico Aubele](https://open.spotify.com/artist/3FIFlkBCqeOewVa9hiNgwq) | [Gran Hotel Buenos Aires](https://open.spotify.com/album/0LYqd7PjpehWx9sptTEPJW) | 4:07 |
 | 99 | [Until The Morning](https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Richest Man In Babylon](https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA) | 3:56 |
-| 100 | [Rattlesnakes](https://open.spotify.com/track/6i0mXs6UJCtbC4o55uKUDP) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 4:10 |
+| 100 | [Stars](https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 6:59 |
 
 Snapshot ID: `ZpFVWQAAAAAjHONao7a3cZvzUjsRpDdv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,367 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,414 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 32 | [Mi Cumbia! \(feat\. Alan Rosales\)](https://open.spotify.com/track/52hcPddnEyaFkVv0w8iz8e) | [El Dusty](https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB) | [Locos Only](https://open.spotify.com/album/4X7fhsjH4xxh8s8mYWlSLS) | 2:51 |
 | 33 | [Vibora](https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:25 |
 | 34 | [Ritmo Suelto](https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:16 |
-| 35 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
-| 36 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
+| 35 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
+| 36 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
 | 37 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
 | 38 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 39 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 44 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 45 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
 | 46 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
-| 47 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
-| 48 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 |
+| 47 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 |
+| 48 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
 | 49 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 |
 | 50 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
 

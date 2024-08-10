@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 21762,
+  "num_followers": 21766,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAA/O3O8COkY4pNPmuO/WTH7",
+  "snapshot_id": "ZrQKgAAAAAD1u7+2sFeusygw/Dpcxxkr",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 89173,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"
+      "duration_ms": 81693,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/45vzHJ2WPyO8WvTjCw6M6W"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 81693,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/45vzHJ2WPyO8WvTjCw6M6W"
+      "duration_ms": 89173,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 139906,
-      "name": "Lago Fr\u00edas",
-      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
+      "duration_ms": 158093,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
     },
     {
       "added_at": null,
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 158093,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h"
+      "duration_ms": 139906,
+      "name": "Lago Fr\u00edas",
+      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -979,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brokeback Mountain Soundtrack",
         "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
@@ -1011,8 +1011,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 203560,
-      "name": "Zenda - 2024 Remaster",
-      "url": "https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP"
+      "duration_ms": 41821,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

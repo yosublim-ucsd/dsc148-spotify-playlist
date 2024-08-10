@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 168375,
       "name": "Echao\u2019 a perder",
       "url": "https://open.spotify.com/track/0UqHiphvidOqxY3IxKSejM"
@@ -2588,6 +2588,24 @@
       "duration_ms": 213371,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
+    },
+    {
+      "album": {
+        "name": "Los 90",
+        "url": "https://open.spotify.com/album/5DvEG9DiVQ9QUZuhTGT2pt"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193984,
+      "name": "Los 90",
+      "url": "https://open.spotify.com/track/2BYV6Cv4VtgxObWMynyrdf"
     },
     {
       "album": {
@@ -3922,7 +3940,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192126,
       "name": "PORTARSE MAL",
       "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
@@ -4160,7 +4178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183441,
       "name": "Qu\u00e9date un Momento",
       "url": "https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA"

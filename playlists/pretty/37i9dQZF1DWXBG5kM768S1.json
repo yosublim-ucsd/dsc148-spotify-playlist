@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 75401,
+  "num_followers": 75420,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231334,
       "name": "T\u00e5rnet",
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 223760,
       "name": "Til deg - Single Version",
       "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Savner deg",
+        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 181282,
+      "name": "Savner deg",
+      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -611,50 +631,6 @@
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Eg Glemmer Deg Aldri",
-        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Aslag Haugen",
-          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 178116,
-      "name": "Eg glemmer deg aldri",
-      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
-        "name": "Savner deg",
-        "url": "https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 181282,
-      "name": "Savner deg",
-      "url": "https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -691,6 +667,30 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
+        "name": "Eg Glemmer Deg Aldri",
+        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Aslag Haugen",
+          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 178116,
+      "name": "Eg glemmer deg aldri",
+      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Club 7",
-        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 260778,
-      "name": "Club 7",
-      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 181413,
       "name": "Stille Vann",
       "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Club 7",
+        "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 260778,
+      "name": "Club 7",
+      "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Annen som du",
-        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
-      },
-      "artists": [
-        {
-          "name": "Trang F\u00f8dsel",
-          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
-        }
-      ],
-      "duration_ms": 217703,
-      "name": "Annen som du",
-      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
-    },
-    {
-      "added_at": "2024-06-27 22:00:00",
-      "album": {
         "name": "Ikkje sei det som det er",
         "url": "https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 161067,
       "name": "Ikkje sei det som det er",
       "url": "https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw"
+    },
+    {
+      "added_at": "2024-06-27 22:00:00",
+      "album": {
+        "name": "Annen som du",
+        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
+      },
+      "artists": [
+        {
+          "name": "Trang F\u00f8dsel",
+          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
+        }
+      ],
+      "duration_ms": 217703,
+      "name": "Annen som du",
+      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
     },
     {
       "added_at": "2024-06-27 22:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-06-27 22:00:00",
       "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+        "name": "3 sanger",
+        "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
         }
       ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+      "duration_ms": 281955,
+      "name": "S\u00e5 fullt av ja",
+      "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
     }
   ],
   "unique_name": "Norske viser",

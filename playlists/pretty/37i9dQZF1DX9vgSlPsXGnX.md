@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento antigüito de los boleros te envuelva con amor y nostalgia 💖🎵🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,466 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,496 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 50 | [Odiame](https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:17 |
 | 51 | [Estúpido Cupido](https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Bodas De Plata](https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27) | 2:36 |
 | 52 | [Frenesí](https://open.spotify.com/track/4Q9e5B9X1NQ6uKwxwZ1rZA) | [Lupita Palomera](https://open.spotify.com/artist/1aFfZuSuuFy0o5JFB1PcLf) | [Lo Mejor de lo Mejor de RCA Victor](https://open.spotify.com/album/4HvRWDisgf12vfRJAQhu7O) | 2:49 |
-| 53 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
-| 54 | [Ay Amor \(Bolero\)](https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Perlas Cubanas: Bola de Nieve](https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI) | 2:25 |
+| 53 | [Ay Amor \(Bolero\)](https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [Perlas Cubanas: Bola de Nieve](https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI) | 2:25 |
+| 54 | [Amor Mío / Sabrá Dios / Sabor a Mi](https://open.spotify.com/track/1lS7wZgXsADesTLXgWfm3b) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [Los Exitos de Alvaro Carrillo](https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y) | 4:40 |
 | 55 | [En Mi Viejo San Juan](https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record Vol\. 2](https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf) | 3:08 |
 | 56 | [Quiereme Mucho](https://open.spotify.com/track/5k6dmbJSOvNR5yZLuCS6xe) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 2:46 |
 | 57 | [Cuando Ya No Me Quieras](https://open.spotify.com/track/1RfB1vZYB2mi6RSSwgMU6c) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS), [La Rondalla Venezolano](https://open.spotify.com/artist/11GKNHRvLhiNRKFGf8Rvk9) | [Eternamente](https://open.spotify.com/album/5DyJdvitTIEd4ncxUL0XHQ) | 3:03 |

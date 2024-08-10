@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-431 songs - 23 hr 47 min
+432 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2022-09-14 |  |
 | [All That Love](https://open.spotify.com/track/5rnGF6xiFwbXSL6IEELei8) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [All That Love \- SM STATION](https://open.spotify.com/album/4OJCJDqVmugtPC6iHCsdOZ) | 3:13 | 2021-12-27 |  |
 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 | 2021-12-27 | 2023-06-23 |
-| [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 | 2021-12-27 |  |
+| [Alone Together](https://open.spotify.com/track/6WHlbk5H0JpeTV80zrjZVU) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \- Deluxe Edition](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:28 | 2021-12-27 |  |
 | [already there](https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/7q7zqYQbicds26NyRSuAk7) | 2:56 | 2022-01-20 |  |
 | [already there](https://open.spotify.com/track/6vMJTYw3aJL8CvSJMZ2P5l) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [already there](https://open.spotify.com/album/71XUeucboR4ZqCYYYQJ9Sy) | 3:01 | 2023-12-16 | 2024-01-29 |
 | [Amore \(feat\. Rick Ross\)](https://open.spotify.com/track/77AyJAWtrpoyi9ZDW4dn46) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:54 | 2023-06-22 |  |
@@ -74,7 +74,8 @@
 | [come back](https://open.spotify.com/track/1QwRhyt1sjYJXAWzFCBjuE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:36 | 2021-12-27 |  |
 | [Come On Over](https://open.spotify.com/track/3DmWB8ZzUW3fhtHUtpOWVD) | [Michael Ross](https://open.spotify.com/artist/0hPZKvhtOmys0Hv9iuTpiI) | [A Special Thing](https://open.spotify.com/album/4FLb5jWPXC9G0wlMZwvSx9) | 4:49 | 2023-12-13 |  |
 | [Comfortable](https://open.spotify.com/track/2Jt109lnN4VHZOc5Db1ixM) | [Tiffany Red](https://open.spotify.com/artist/2ASFRAjwnkJphBc1UeG9zz) | [Call Me Red, Vol\. 1](https://open.spotify.com/album/6IQ7VDKagwfebTW2fhy5ds) | 3:12 | 2023-06-22 | 2023-12-14 |
-| [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 | 2021-12-27 |  |
+| [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 | 2021-12-27 | 2024-08-10 |
+| [Coming To My Senses](https://open.spotify.com/track/6hVkeJbO0lBU19DEPcxLQE) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/10xM56wKLWLEU3sX4q8CVl) | 3:06 | 2024-08-09 |  |
 | [Complicated](https://open.spotify.com/track/31GXHFevmu4KTxqPTVnkve) | [Forty Deuce](https://open.spotify.com/artist/2610KIn3zomd6mqydeSfNy) | [Nothing To Lose](https://open.spotify.com/album/0DHu5Darq1YOs3wK6H7tTd) | 3:05 | 2022-12-15 |  |
 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 | 2021-12-27 |  |
 | [Conversations](https://open.spotify.com/track/3MvTNChVxHQyUBnHfKc9Yg) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:04 | 2022-09-24 |  |
@@ -222,7 +223,7 @@
 | [Lie Like This](https://open.spotify.com/track/1rqIA9CG4Vj44JYVqBpxIj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:38 | 2021-12-27 |  |
 | [Lie Like This](https://open.spotify.com/track/3pfPmHldkQ6JM1Aj8LaxFg) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Lie Like This](https://open.spotify.com/album/3KTU5yQcPVPQaFhYw0k1Rk) | 3:43 | 2023-12-13 | 2024-02-01 |
 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 | 2022-12-20 | 2023-12-14 |
-| [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 | 2021-12-27 |  |
+| [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \- Triple Chucks Deluxe](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 | 2021-12-27 |  |
 | [Little Bird](https://open.spotify.com/track/44SDwuvTP3NeCmigJAyYnO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 3:09 | 2023-05-16 |  |
 | [Live That Life](https://open.spotify.com/track/1oXPGzSMtAvPmd0EZDuxOO) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [Deeply Rooted: The Lost Files](https://open.spotify.com/album/6MA9cHn1RiTLGe0ZxCMIfp) | 3:03 | 2023-12-13 |  |
 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 | 2022-11-08 |  |

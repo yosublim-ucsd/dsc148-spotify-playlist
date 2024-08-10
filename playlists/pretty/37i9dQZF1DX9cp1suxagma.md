@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Duplat & Juan Pablo Vega
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,449 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,453 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 |
-| 2 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 |
-| 3 | [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 |
-| 4 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
-| 5 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
-| 6 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 |
+| 2 | [Manhattan](https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Manhattan](https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC) | 2:50 |
+| 3 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 4 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |
+| 5 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |
+| 6 | [Antes De Los 30 \- En Sueño Desde Madrid](https://open.spotify.com/track/4igZX8SIbQbLDl0UxZWQpr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Los 30 \(En Sueño Desde Madrid\)](https://open.spotify.com/album/4nJb7FuX4QpOSn5APWMWfX) | 3:27 |
 | 7 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 |
-| 8 | [Te Recuerdo](https://open.spotify.com/track/6SmVHW7Q7Whp8WrUx8EdD2) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Te Recuerdo](https://open.spotify.com/album/3ka8zkNY9Al5jmzaqEIxNJ) | 2:28 |
+| 8 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
 | 9 | [Te doy las gracias](https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Te doy las gracias](https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT) | 3:39 |
-| 10 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
-| 11 | [Dosmil16 \(Arial 4\)](https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Dosmil16 \(Arial 4\)](https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq) | 3:03 |
-| 12 | [TODAVÍA](https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [TODAVÍA](https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw) | 2:50 |
-| 13 | [Esa Bachata](https://open.spotify.com/track/2hapH2RU5LjJxJPOV9iJGW) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Esa Bachata](https://open.spotify.com/album/6qIv1tqbkxpNbiRT5aVXRz) | 2:45 |
-| 14 | [LA VENTANA \(Acto VII: Cómo Culpar Al Viento Del Desastre\)](https://open.spotify.com/track/5juzwMrJh33IQXW4g8VTj3) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [El Amor Es Fácil, Las Relaciones No](https://open.spotify.com/album/16DzOyNlcS27ZRvYxYZHXu) | 3:02 |
-| 15 | [Cómo Dónde y Cuándo](https://open.spotify.com/track/40Ccxt7rKCXiViGQKPPACR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:59 |
-| 16 | [GUERRA DE ALMOHADAS](https://open.spotify.com/track/5SDxtXN8aPNlkEMSj4iEPH) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [GUERRA DE ALMOHADAS](https://open.spotify.com/album/59TX39k20TTWKzpCSfBKx6) | 3:01 |
-| 17 | [Días de mierda \(Arial 3\)](https://open.spotify.com/track/2SOn6LXgv9xybGMOEoYzwD) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Días de mierda \(Arial 3\)](https://open.spotify.com/album/3suowBgMkaBa4m1sp9Xg78) | 2:21 |
-| 18 | [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 |
-| 19 | [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 |
-| 20 | [Mercurio \(Carta No\. 9\)](https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Cartas](https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r) | 3:08 |
+| 10 | [Amo Que Respires](https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Amo Que Respires](https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD) | 2:23 |
+| 11 | [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 |
+| 12 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 |
+| 13 | [Te Recuerdo](https://open.spotify.com/track/6SmVHW7Q7Whp8WrUx8EdD2) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Te Recuerdo](https://open.spotify.com/album/3ka8zkNY9Al5jmzaqEIxNJ) | 2:28 |
+| 14 | [Dosmil16 \(Arial 4\)](https://open.spotify.com/track/4KqOzrGQppoQPzhpuWRtLF) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Dosmil16 \(Arial 4\)](https://open.spotify.com/album/4ueaV2Q0K9sxk1iXXri8qq) | 3:03 |
+| 15 | [TODAVÍA](https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [TODAVÍA](https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw) | 2:50 |
+| 16 | [Esa Bachata](https://open.spotify.com/track/2hapH2RU5LjJxJPOV9iJGW) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Esa Bachata](https://open.spotify.com/album/6qIv1tqbkxpNbiRT5aVXRz) | 2:45 |
+| 17 | [LA VENTANA \(Acto VII: Cómo Culpar Al Viento Del Desastre\)](https://open.spotify.com/track/5juzwMrJh33IQXW4g8VTj3) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [El Amor Es Fácil, Las Relaciones No](https://open.spotify.com/album/16DzOyNlcS27ZRvYxYZHXu) | 3:02 |
+| 18 | [GUERRA DE ALMOHADAS](https://open.spotify.com/track/5SDxtXN8aPNlkEMSj4iEPH) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [GUERRA DE ALMOHADAS](https://open.spotify.com/album/59TX39k20TTWKzpCSfBKx6) | 3:01 |
+| 19 | [Bareto y Chanel](https://open.spotify.com/track/002nPmx72z53AYh3ysujMM) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [Bareto y Chanel](https://open.spotify.com/album/4REtrl2A9VxJiL2Aeszilp) | 3:22 |
+| 20 | [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 |
 | 21 | [Quererte Desde Lejos](https://open.spotify.com/track/2CY9XV9CUO0RNPcxl7mHx1) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Quererte Desde Lejos](https://open.spotify.com/album/0oBqEM4y6H9CNzpFNgFhXa) | 2:21 |
 | 22 | [Enredo](https://open.spotify.com/track/39Gd7HKRxXFiR3D9teKJ2N) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Enredo](https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6) | 2:40 |
 | 23 | [Noches De Verano](https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Noches De Verano](https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 99 | [La Estrategia](https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [La Estrategia](https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ) | 3:39 |
 | 100 | [Caraluna](https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Grandes Exitos](https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ) | 4:26 |
 
-Snapshot ID: `Zqx4dAAAAAAHdm2qEyxbt5mVK3WcPuzL`
+Snapshot ID: `ZrWk5AAAAADmm3QQWKCrWz3x5tYHOlIN`

@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-336 songs - 23 hr 37 min
+337 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Promises \- VIP](https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(VIP\)](https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf) | 4:07 | 2024-03-01 | 2024-06-07 |
 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-08-01 |  |
 | [Rain On Me](https://open.spotify.com/track/0xmB1LYDQFjkvERTFvM3SJ) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Let's Go Out](https://open.spotify.com/album/3yrC1dGWFi1YccEH8Ceua6) | 4:56 | 2021-11-24 | 2022-07-24 |
+| [RB3](https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [RB3](https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8) | 3:59 | 2024-08-08 |  |
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2023-09-22 | 2024-08-09 |
 | [Reality Refresh](https://open.spotify.com/track/7uL8DUexl0UASMEbv9saBt) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh](https://open.spotify.com/album/6GqUKRbYWhE8z6yzYu2HUM) | 5:52 | 2021-11-24 | 2022-05-17 |
 | [Reflect](https://open.spotify.com/track/7Cjwgp1aDa7gcbWKJDQAgC) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Reflect](https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E) | 5:25 | 2021-11-24 | 2023-01-15 |
@@ -308,7 +309,7 @@
 | [The Longest Night](https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [The Longest Night](https://open.spotify.com/album/3nEU9bN4Hyg4wvtreQu7j9) | 4:50 | 2021-11-24 | 2022-07-29 |
 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 | 2022-04-21 | 2022-07-28 |
 | [The Path](https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [The Path](https://open.spotify.com/album/0ElCHdddUAPJfRmNe7eWyo) | 3:12 | 2021-11-24 | 2023-11-11 |
-| [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-03-01 |  |
+| [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 | 2024-03-01 | 2024-08-10 |
 | [The Prey](https://open.spotify.com/track/2WhMv6PDq4jZ4JgmxjFpjq) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [The Prey](https://open.spotify.com/album/5T4BnAjxMXjme0YnZrBbRU) | 4:11 | 2021-11-24 | 2022-03-05 |
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2021-11-24 | 2022-07-22 |
 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 | 2022-06-20 | 2024-06-07 |

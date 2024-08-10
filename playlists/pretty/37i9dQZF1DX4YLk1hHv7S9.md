@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 
 > Sweet acoustic love songs for the perfect day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,118 likes - 86 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,138 likes - 86 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YLk1hHv7S9.md) - [plain]
 | 31 | [Tupelo Honey](https://open.spotify.com/track/5G4W4UzaJIpYl0ar95Cs17) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 6:55 |
 | 32 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 33 | [Forever On Your Side](https://open.spotify.com/track/4BiQcYsIOEeToHXlOV5ZwS) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Forever On Your Side](https://open.spotify.com/album/59OqJlSNlckg0hYacWwZK5) | 4:34 |
-| 34 | [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 |
+| 34 | [Lifetime](https://open.spotify.com/track/10Z9RbwrTbQ0gQeNRJ2dC1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \- Triple Chucks Deluxe](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 3:27 |
 | 35 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 |
 | 36 | [Surrender](https://open.spotify.com/track/4Y5gx8VuShNmakYGlnrUzD) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/02QDTrIeIhkXSYukXY6p0C) | 3:03 |
 | 37 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |

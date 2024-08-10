@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia
 
-166 songs - 9 hr 59 min
+167 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bleeding Heart](https://open.spotify.com/track/2GmAGzbc0WTre9Ab9bBOnb) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Acoustic \- Live At Opera de Arame](https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO) | 5:39 | 2024-06-14 |  |
 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 | 2023-07-21 | 2023-11-05 |
 | [Blue](https://open.spotify.com/track/3frGdSsiPLEe5Hk9UeG3Q4) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/4ChzaBU01MnxVWNF7ATXJ7) | 4:09 | 2023-11-03 | 2024-04-06 |
+| [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 | 2024-08-09 |  |
 | [Buquê de Rimas](https://open.spotify.com/track/3YV3rFEs55ie3idd3tVlfb) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI) | [Buquê de Rimas](https://open.spotify.com/album/7e3V41aO2OtnBQuRRuIVZ6) | 2:56 | 2023-07-21 | 2024-04-06 |
 | [Camaleão](https://open.spotify.com/track/4rNTVavvYJ6RZnWQDqOJrP) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Camaleão](https://open.spotify.com/album/0JdfXInQkquJKuyqlVLfEH) | 3:16 | 2023-07-21 | 2024-07-19 |
 | [Carta no Baralho](https://open.spotify.com/track/5uAiXNsj4YD6sqjlE1g9Yj) | [Cervelet](https://open.spotify.com/artist/3Gv0vk0aGh74t85STB90ak) | [Carta no Baralho](https://open.spotify.com/album/3WQ0Ob1xbq8QSWbF1vdW6x) | 5:12 | 2023-07-21 | 2023-08-26 |

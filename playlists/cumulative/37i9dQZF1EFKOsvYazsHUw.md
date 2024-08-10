@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 30 min
+118 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Drowning](https://open.spotify.com/track/3rYxOXZNc2qoCRhV6w9eq3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:38 | 2022-11-11 |  |
 | [Easy On Yourself](https://open.spotify.com/track/1wM9bvjd3i9pbH0gpq7aYj) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 2:44 | 2022-11-11 | 2023-06-12 |
 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 | 2023-06-11 |  |
-| [Endlessly](https://open.spotify.com/track/7cIPifhS3R4rF4sKi8466d) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 5:00 | 2022-11-11 |  |
+| [Endlessly](https://open.spotify.com/track/02YPsZehXDNohgCbH6t5Lm) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 5:00 | 2024-08-09 |  |
+| [Endlessly](https://open.spotify.com/track/7cIPifhS3R4rF4sKi8466d) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 5:00 | 2022-11-11 | 2024-08-10 |
 | [Eventually](https://open.spotify.com/track/1hN2dpIJ7HzyBvyImnt21L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:43 | 2022-11-11 |  |
 | [Eyes On You](https://open.spotify.com/track/0T3lAx5TMBRO9CkYDO1A2L) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Find Myself](https://open.spotify.com/album/22VKkGoe1Hjza2kTIM3sR7) | 3:53 | 2022-11-11 |  |
 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 | 2022-11-11 |  |

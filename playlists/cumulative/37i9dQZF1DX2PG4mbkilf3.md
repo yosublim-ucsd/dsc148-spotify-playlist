@@ -2,7 +2,7 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada, elevate your aura with PARTYNEXTDOOR\. Welcome home!
+> This is R&B in Canada, elevate your aura with PARTYNEXTDOOR.
 
 1,112 songs - 2 day 10 hr 25 min
 

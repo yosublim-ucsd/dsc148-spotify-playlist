@@ -1,12 +1,12 @@
 {
   "description": "For all the new African Gospel Releases this week. Cover:   <a href=https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI?si=Xdn3TPIeQI-O1uChH34vrw>Joyce Blessing</a>",
-  "num_followers": 24614,
+  "num_followers": 24631,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcPAAAAAAMweBXeiYXb6JGbty2ya36",
+  "snapshot_id": "ZrW9fwAAAADG/Wn3LsFCekOKKn/As2XT",
   "tracks": [
     {
       "added_at": "2024-08-09 00:01:00",
@@ -171,6 +171,22 @@
       "duration_ms": 194823,
       "name": "Amen",
       "url": "https://open.spotify.com/track/00B3DY0rP36nNeUOLXK9ib"
+    },
+    {
+      "added_at": "2024-08-09 06:55:59",
+      "album": {
+        "name": "Obinator",
+        "url": "https://open.spotify.com/album/4OXaCPlWVcyEYUPpvN6y44"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        }
+      ],
+      "duration_ms": 248790,
+      "name": "Obinator",
+      "url": "https://open.spotify.com/track/1B2R8mw41w37KbtozJ8CnS"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -775,6 +791,22 @@
       "duration_ms": 180976,
       "name": "Man Of Galilee",
       "url": "https://open.spotify.com/track/6BQ111JEw7dg2hQfMW44wU"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "GIVE YOU THE PRAISE",
+        "url": "https://open.spotify.com/album/6j3u1eJfTBOP1rv0stoHWF"
+      },
+      "artists": [
+        {
+          "name": "Ndubuisi Awazie",
+          "url": "https://open.spotify.com/artist/3b2ajsGDTvujyQAQWXE8Jn"
+        }
+      ],
+      "duration_ms": 261639,
+      "name": "GIVE YOU THE PRAISE",
+      "url": "https://open.spotify.com/track/0y8qfUn71yW10Qp1I28FJx"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1395,38 +1427,6 @@
       "duration_ms": 295983,
       "name": "Sounds of Revival",
       "url": "https://open.spotify.com/track/3xCuCuGjpbL8Ujbyjh5k2E"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "The God We Serve",
-        "url": "https://open.spotify.com/album/2ZlgzV6iMAEB3nICBLCTbU"
-      },
-      "artists": [
-        {
-          "name": "Salvation Ministries Choir",
-          "url": "https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr"
-        }
-      ],
-      "duration_ms": 531017,
-      "name": "The God We Serve",
-      "url": "https://open.spotify.com/track/70j5BdmiDDIyxWQxTKX4Xh"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "B'ola (Cover)",
-        "url": "https://open.spotify.com/album/5sd51zptBntZXKRbi14s5z"
-      },
-      "artists": [
-        {
-          "name": "Joseph Godwin",
-          "url": "https://open.spotify.com/artist/1DLhXAdXfertIv47pfKSHO"
-        }
-      ],
-      "duration_ms": 176509,
-      "name": "B'ola (Cover)",
-      "url": "https://open.spotify.com/track/12s1pQhTtoN8PE0v7zvYFr"
     }
   ],
   "unique_name": "Fresh Gospel Africa",

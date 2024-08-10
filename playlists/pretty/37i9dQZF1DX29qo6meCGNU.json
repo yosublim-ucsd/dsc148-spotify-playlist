@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 431942,
+  "num_followers": 431958,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-03 17:28:07",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2024-07-03 17:28:07",
+      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2024-07-03 17:28:07",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2024-07-03 17:28:07",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2024-07-03 17:28:07",
       "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2024-07-03 17:28:07",
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
-    },
-    {
-      "added_at": "2024-07-03 17:28:07",
-      "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-07-03 17:28:07",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-07-03 17:28:07",
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "CUKI",
-      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
-    },
-    {
-      "added_at": "2024-07-03 17:28:07",
-      "album": {
         "name": "Jeans",
         "url": "https://open.spotify.com/album/2CihHxhe77TEB6YEWBRVru"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 185840,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/3GtnId3Cm1Xa6joCj08nzW"
+    },
+    {
+      "added_at": "2024-07-03 17:28:07",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "CUKI",
+      "url": "https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko"
     },
     {
       "added_at": "2024-07-03 17:28:07",
@@ -1951,18 +1951,22 @@
     {
       "added_at": "2024-07-03 17:28:07",
       "album": {
-        "name": "TQMQA",
-        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 169911,
-      "name": "TQMQA",
-      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     }
   ],
   "unique_name": "Romantiqueo",

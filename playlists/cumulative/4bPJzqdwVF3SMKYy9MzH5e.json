@@ -4741,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "bootleg_mov",
+        "url": "https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116761,
+      "name": "bootleg_mov",
+      "url": "https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe"
+    },
+    {
+      "album": {
         "name": "Booty Getting Fatter!",
         "url": "https://open.spotify.com/album/6kq7QpGS6ge3BWTMerbm4U"
       },
@@ -17426,6 +17444,42 @@
       "duration_ms": 325454,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/3CjqPzG6sUMTzVAcA2bdKS"
+    },
+    {
+      "album": {
+        "name": "JUMPSTYLE BOOTLEG",
+        "url": "https://open.spotify.com/album/3NtUbbMcjRhUVo4nPlBMMK"
+      },
+      "artists": [
+        {
+          "name": "ilyhiryu",
+          "url": "https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219402,
+      "name": "JUMPSTYLE BOOTLEG",
+      "url": "https://open.spotify.com/track/4mZV0o88ojuX9bzhLmB6jf"
+    },
+    {
+      "album": {
+        "name": "JUMPSTYLE PARTY",
+        "url": "https://open.spotify.com/album/3p7OeUtOn2wKqJdHk0yCkZ"
+      },
+      "artists": [
+        {
+          "name": "RomancePlanet",
+          "url": "https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "JUMPSTYLE PARTY",
+      "url": "https://open.spotify.com/track/5klmEhYEDqfGQ6yK2tlwEe"
     },
     {
       "album": {

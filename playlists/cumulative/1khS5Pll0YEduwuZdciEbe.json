@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Dan Mangan",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: beabadoobee",
   "name": "Chill Indie Music",
   "tracks": [
     {
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
         "name": "Belinda Says / Very Online Guy",
         "url": "https://open.spotify.com/album/2LADe3Vx2e0BBmQDV4yWuW"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 141390,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
+    },
+    {
+      "album": {
+        "name": "bloodshot",
+        "url": "https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Thompson",
+          "url": "https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194001,
+      "name": "bloodshot",
+      "url": "https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8"
     },
     {
       "album": {
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
@@ -1840,6 +1876,24 @@
       "duration_ms": 148965,
       "name": "Lover\u2019s Rock",
       "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
+    },
+    {
+      "album": {
+        "name": "Lucky Streak",
+        "url": "https://open.spotify.com/album/44H92aSgzMMmtlWIFwsDmP"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Lucky Streak",
+      "url": "https://open.spotify.com/track/4KiC4QZ6cc8XKv0e3Obw5F"
     },
     {
       "album": {
@@ -2562,7 +2616,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/2oEzHtai43VJ8KMrWjb8ft"
@@ -3010,7 +3064,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180000,
       "name": "Time Slipping Away",
       "url": "https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0"

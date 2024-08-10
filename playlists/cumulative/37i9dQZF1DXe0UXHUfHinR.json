@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 211466,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/0DWh4KE2jtivTLmlI4NtSN"
@@ -7440,7 +7440,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190706,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
@@ -9690,7 +9690,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 360306,
       "name": "Porgy (I Loves You Porgy) - Outtake",
       "url": "https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb"
@@ -12838,6 +12838,24 @@
       "duration_ms": 181653,
       "name": "They Can't Take That Away from Me (2012 - Remaster)",
       "url": "https://open.spotify.com/track/28z6KATfhamoyDgOtcm25F"
+    },
+    {
+      "album": {
+        "name": "The Great American Songbook Collection",
+        "url": "https://open.spotify.com/album/2w35faMy97pVdPIMb5RFxb"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "They Didn't Believe Me",
+      "url": "https://open.spotify.com/track/6G222phXtsY8YKTxQfkjjL"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 ### [This Is Aerosmith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4x3X2w)
 
-> This is Aerosmith\. The essential tracks, all in one playlist.
+> This is Aerosmith\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,649 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,825 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 31 | [The Other Side \- Single Version](https://open.spotify.com/track/2fcRBvP5G8mlJiTPXnfmE2) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 4:04 |
 | 32 | [Crazy \- Live Version](https://open.spotify.com/track/47j0rhDZXAMMI7apSAOnZ7) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [A Little South Of Sanity](https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P) | 5:44 |
 | 33 | [No More No More](https://open.spotify.com/track/7a9b2uPIeLUynTk6zmqacV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:34 |
-| 34 | [F.I.N.E.](https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:09 |
+| 34 | [Lord Of The Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 | 35 | [Deuces Are Wild](https://open.spotify.com/track/4viUMIPk61pIvWUNDl0u4M) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 3:35 |
 | 36 | [Cryin' \- Live Version](https://open.spotify.com/track/6LIudS7VLqRA0GgzGQTiyt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [A Little South Of Sanity](https://open.spotify.com/album/3vXuOrqNDMKynoFfJROB9P) | 5:10 |
 | 37 | [Big Ten Inch Record](https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 2:15 |
-| 38 | [Lord Of The Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
+| 38 | [F.I.N.E.](https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:09 |
 | 39 | [Kings And Queens](https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 4:55 |
 | 40 | [Get A Grip](https://open.spotify.com/track/0QDTTqEwu5IJ34wql1T03m) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 3:58 |
 | 41 | [Sunshine](https://open.spotify.com/track/3GhzPJhE8edsDkaJHz1QsF) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC) | 3:37 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 43 | [Draw The Line](https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 3:24 |
 | 44 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 |
 | 45 | [Ain't That A Bitch](https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:25 |
-| 46 | [Chip Away The Stone](https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Gems](https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ) | 4:02 |
-| 47 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK) | 4:04 |
+| 46 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK) | 4:04 |
+| 47 | [Chip Away The Stone](https://open.spotify.com/track/35pqMny3k7bGUzJiUCgZ0H) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Gems](https://open.spotify.com/album/3nuZR1AM7YjuL3xCJix2PZ) | 4:02 |
 | 48 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 |
 | 49 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
 | 50 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 
-Snapshot ID: `ZrK5AAAAAABZ2dSfB384SCVNdRWKefds`
+Snapshot ID: `ZrQKgAAAAAAMT8y3sj8Xw5eqmrJxFnM+`

@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Everywhere you look is life",
+        "url": "https://open.spotify.com/album/6K4E7xJ5BfKkYwBFW5lpv2"
+      },
+      "artists": [
+        {
+          "name": "Takada Fu",
+          "url": "https://open.spotify.com/artist/52FdX9LTwXtj1KCJf5fJJg"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Everywhere you look is life",
+      "url": "https://open.spotify.com/track/2LV0URMkqD3AuhUdZjP3CK"
+    },
+    {
+      "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
       },

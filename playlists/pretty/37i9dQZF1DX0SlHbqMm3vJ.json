@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 238053,
+  "num_followers": 238107,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 166350,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -171,22 +175,18 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
         {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -719,22 +719,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Cold War",
-        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG"
       },
       "artists": [
         {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 193586,
-      "name": "Cold War (with FAVE)",
-      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+      "duration_ms": 153098,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -771,22 +771,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG"
+        "name": "Cold War",
+        "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         },
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 153098,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v"
+      "duration_ms": 193586,
+      "name": "Cold War (with FAVE)",
+      "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -827,6 +827,22 @@
       "duration_ms": 139285,
       "name": "Jigga (feat. Khaid)",
       "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Bad Decisions & Foreplay",
+        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 169571,
+      "name": "Bad Decisions & Foreplay",
+      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Love practitioner",
-        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 155403,
-      "name": "Love practitioner",
-      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "Love practitioner",
+        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 155403,
+      "name": "Love practitioner",
+      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 146685,
       "name": "1942 (feat. Milar)",
       "url": "https://open.spotify.com/track/69v07HAZ1Gk5pICKGaaATc"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "Bad Decisions & Foreplay",
-        "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 169571,
-      "name": "Bad Decisions & Foreplay",
-      "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1043,6 +1043,38 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1067,22 +1099,6 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1127,38 +1143,6 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
-        "name": "Palava",
-        "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "Palava",
-      "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "4 Days",
-        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 154199,
-      "name": "4 Days",
-      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
         "name": "Blended",
         "url": "https://open.spotify.com/album/6Sc37HYChx5UIVyRzsuEuw"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
+        "name": "Palava",
+        "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "Palava",
+      "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
     },
     {
       "added_at": "2024-08-09 00:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-08-09 00:01:00",
       "album": {
+        "name": "Like A Flower",
+        "url": "https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 186174,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6"
+    },
+    {
+      "added_at": "2024-08-09 00:01:00",
+      "album": {
         "name": "Stay Wise",
         "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 161239,
       "name": "All Night",
       "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
-    },
-    {
-      "added_at": "2024-08-09 00:01:00",
-      "album": {
-        "name": "Like A Flower",
-        "url": "https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h"
-      },
-      "artists": [
-        {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
-        }
-      ],
-      "duration_ms": 186174,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6"
     },
     {
       "added_at": "2024-08-09 00:01:00",

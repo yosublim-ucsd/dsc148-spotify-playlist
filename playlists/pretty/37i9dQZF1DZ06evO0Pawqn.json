@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9329,
+  "num_followers": 9331,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABIZEfyB361V5zuLCpqdPqm",
+  "snapshot_id": "ZrQKgAAAAAC1TuJRU7N/y91OJ7MIk4dL",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Nosotros Tambien Podemos",
-      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 203728,
       "name": "Mil Noches",
       "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Nosotros Tambien Podemos",
+      "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 194429,
-      "name": "No Volvere",
-      "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 232150,
       "name": "Me Ha Llegado el Amor",
       "url": "https://open.spotify.com/track/31j4yUg8cOyaoSeM104lRf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 194429,
+      "name": "No Volvere",
+      "url": "https://open.spotify.com/track/5jLZIaTwQbjCmnVUwayk70"
     },
     {
       "added_at": null,

@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2tkvHgxZAjDZZb6eQ2lGkZ"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259970,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5eMNHvVloaTLdWD2qxaIn3"
+    },
+    {
+      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 409600,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/78A47D8csBBwaBD2o61JvV"
@@ -5220,7 +5238,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx"
@@ -8379,6 +8397,24 @@
     },
     {
       "album": {
+        "name": "The Old Church",
+        "url": "https://open.spotify.com/album/26m8b1gNKIZuhdSnmvBsbm"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322440,
+      "name": "The Old Church",
+      "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
+    },
+    {
+      "album": {
         "name": "The Peace Inside",
         "url": "https://open.spotify.com/album/1002l2t97C7pBbUD6sTVhM"
       },
@@ -9286,7 +9322,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183106,
       "name": "V\u00e6r sterk, min sjel",
       "url": "https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy"
@@ -10088,6 +10124,24 @@
       "duration_ms": 295210,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/3h9di5iJ56t54dh59KGUCe"
+    },
+    {
+      "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/3kqbr0ChebfBBhuDkfm048"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287198,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/15iMGU3HQnMnVQ53YsNhnv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo"

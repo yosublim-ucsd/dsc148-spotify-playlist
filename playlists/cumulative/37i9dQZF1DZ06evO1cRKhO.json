@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This Is Pauline Oliveros. Los temas esenciales, todos en una lista.",
+  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 714506,
       "name": "\"Blow Winds\"",
       "url": "https://open.spotify.com/track/6SnA1NoyrtxZrqHxqYWnmE"
@@ -725,6 +725,44 @@
     },
     {
       "album": {
+        "name": "Music From The Tudorfest: San Francisco Tape Music Center, 1964",
+        "url": "https://open.spotify.com/album/66SBKNCIkO9iU4yvoLyFrZ"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "David Tudor",
+          "url": "https://open.spotify.com/artist/1yD5aG8UUxsRwjya7fIa6s"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Morton Subotnick",
+          "url": "https://open.spotify.com/artist/60p2TqH9OKWfKB46wWaGIQ"
+        },
+        {
+          "name": "Ian Underwood",
+          "url": "https://open.spotify.com/artist/5cyk20MlelxOlXFuyrgxXf"
+        },
+        {
+          "name": "Stuart Dempster",
+          "url": "https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1567280,
+      "name": "Concert for Piano and Orchestra",
+      "url": "https://open.spotify.com/track/7ltUPAmwUFsOmaCwORzX9n"
+    },
+    {
+      "album": {
         "name": "phase/transitions (vol. 3)",
         "url": "https://open.spotify.com/album/536OgpfoHLxXaaIadP9ClO"
       },
@@ -1000,7 +1038,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -1298,7 +1336,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -2420,7 +2458,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 243986,
       "name": "Pauline's Solo",
       "url": "https://open.spotify.com/track/7zM9MsyzwpYErpujQMH6YQ"
@@ -2938,7 +2976,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 215360,
       "name": "Sanora",
       "url": "https://open.spotify.com/track/3jw74OQCoOisAdPAdY4vJr"
@@ -3198,7 +3236,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 435000,
       "name": "Snow Drifts",
       "url": "https://open.spotify.com/track/0RDaGU8rrfG6MFZq2YPBvz"
@@ -3598,7 +3636,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 448306,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0KKtoErDaqimf2hZfEw3VL"
@@ -4472,7 +4510,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 443733,
       "name": "Vittoria",
       "url": "https://open.spotify.com/track/6vsMJbyrCpH7iM3dc7pFRh"

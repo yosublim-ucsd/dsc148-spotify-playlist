@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Moses Sumney",
+  "description": "Music for your soul. Cover: Ravyn Lenae",
   "name": "BUTTER",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
@@ -4344,7 +4344,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 159304,
       "name": "Certainty Of Life",
       "url": "https://open.spotify.com/track/0Gnz3IUlxu1JC0RRfKlXLL"
@@ -11748,7 +11748,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
@@ -17559,6 +17559,32 @@
     },
     {
       "album": {
+        "name": "Paradise (Nicky's 1 Nite Only Dub)",
+        "url": "https://open.spotify.com/album/4YBvxoRQqh8PLwUZGlhc9l"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        },
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        },
+        {
+          "name": "Nick Wisdom",
+          "url": "https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281255,
+      "name": "Paradise - Nicky's 1 Nite Only Dub",
+      "url": "https://open.spotify.com/track/2kRqPR6kv7X6yXrNPqcykE"
+    },
+    {
+      "album": {
         "name": "Paramount (Crayon Remix)",
         "url": "https://open.spotify.com/album/5IsQCmf9Fr67DtLQZbv7xZ"
       },
@@ -17716,6 +17742,28 @@
       "duration_ms": 206000,
       "name": "Peng Black Girls Remix",
       "url": "https://open.spotify.com/track/2VXcVF8k3GXCFfKu7azVvw"
+    },
+    {
+      "album": {
+        "name": "Petty",
+        "url": "https://open.spotify.com/album/6ASfkXE67gmaAY4L1kga9f"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206224,
+      "name": "Petty",
+      "url": "https://open.spotify.com/track/1n39WFTUtJSoluEsuVuEJk"
     },
     {
       "album": {

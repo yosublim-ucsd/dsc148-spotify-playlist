@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lua de Santana.",
-  "num_followers": 18324,
+  "num_followers": 18366,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Dame 10:36 Minutos",
-        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
         }
       ],
-      "duration_ms": 131376,
-      "name": "Con Altura",
-      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
+      "duration_ms": 182948,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "B2B",
-        "url": "https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT"
+        "name": "Dame 10:36 Minutos",
+        "url": "https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO"
       },
       "artists": [
         {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 182948,
-      "name": "B2B",
-      "url": "https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6"
+      "duration_ms": 131376,
+      "name": "Con Altura",
+      "url": "https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -347,38 +347,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "DIFERENTE",
-        "url": "https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "DIFERENTE",
-      "url": "https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "PR\u00c9NDEME EN GASOLINA",
-        "url": "https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 160128,
-      "name": "PR\u00c9NDEME EN GASOLINA",
-      "url": "https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "3 AMIGAS TUYAS",
         "url": "https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv"
       },
@@ -399,18 +367,34 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+        "name": "PR\u00c9NDEME EN GASOLINA",
+        "url": "https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
+      "duration_ms": 160128,
+      "name": "PR\u00c9NDEME EN GASOLINA",
+      "url": "https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "DIFERENTE",
+        "url": "https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "DIFERENTE",
+      "url": "https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -427,6 +411,22 @@
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "estonovabien",
-        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 161354,
-      "name": "estonovabien",
-      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 196084,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "estonovabien",
+        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 161354,
+      "name": "estonovabien",
+      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
     },
     {
       "added_at": "2024-08-06 22:00:00",

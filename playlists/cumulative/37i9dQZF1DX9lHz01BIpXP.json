@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=tsoUGqRWSompuUH0KRgpKg\">Biggy</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=iyC2KRK9QsGx8201H4S1mg\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=CYBfHUgYSWGODqMPjRiGGQ\">Jack Parow</a>",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
@@ -480,7 +480,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 128026,
       "name": "Consistent",
       "url": "https://open.spotify.com/track/0GxNPXSZMmJ6bUm1Xkv0Yo"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151196,
       "name": "Ek Sal Nie Lieg Nie",
       "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
@@ -2638,6 +2638,32 @@
       "duration_ms": 183062,
       "name": "There It Is",
       "url": "https://open.spotify.com/track/5HVvJfVSUPUPpDwMJk4ATS"
+    },
+    {
+      "album": {
+        "name": "Tittewyt",
+        "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Tittewyt",
+      "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
     },
     {
       "album": {

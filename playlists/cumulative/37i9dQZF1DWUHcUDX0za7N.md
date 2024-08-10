@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Showdemcamp, The cavemen & nsikak david
 
-453 songs - 21 hr 29 min
+454 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Angle 90 \- Remix](https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Angle 90 \(Remix\)](https://open.spotify.com/album/3PybRJAt7AHKnJPQeKWNN3) | 3:10 | 2023-09-29 | 2023-10-13 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2023-02-01 |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 |  |
+| [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-09 |  |
 | [Awolowo](https://open.spotify.com/track/33ZP3qMoSn7Qm8aJhGbPK0) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:48 | 2022-06-09 | 2022-12-29 |
 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 | 2022-06-09 | 2023-11-10 |
 | [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-10-07 | 2024-02-12 |
@@ -78,7 +79,7 @@
 | [Bus Stop](https://open.spotify.com/track/13un17MWANLgtDAfIDzTka) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Rhythm and Tunes](https://open.spotify.com/album/6baCP0yFlevNRcE8ZFYC5x) | 2:20 | 2023-07-20 | 2023-08-18 |
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-17 |
 | [Call Me](https://open.spotify.com/track/4lZyW9fqQxD6K2FC3XcD6t) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Call Me](https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM) | 1:40 | 2023-02-03 | 2023-02-17 |
-| [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o) | 3:14 | 2024-07-19 |  |
+| [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [Can You Hear Me? \(feat\. Daiela\)](https://open.spotify.com/album/0WJboNwlFuIjKbyk3ylw1o) | 3:14 | 2024-07-19 | 2024-08-10 |
 | [CAN’T EXPLAIN](https://open.spotify.com/track/53fPdKhyo7IVl0jKBTyqfb) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Can’t Explain](https://open.spotify.com/album/5hnys7CwXZ2uTLp0x3nfkC) | 2:50 | 2023-03-25 | 2023-03-31 |
 | [Casa](https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [More Kashcoming](https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd) | 2:34 | 2024-06-14 |  |
 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 | 2023-11-10 | 2024-07-19 |

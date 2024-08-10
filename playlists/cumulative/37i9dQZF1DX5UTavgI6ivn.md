@@ -2,9 +2,9 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: KAROL G
+> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: J Balvin
 
-333 songs - 18 hr 43 min
+334 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 | 2024-02-26 | 2024-06-19 |
 | [Diciembre, Otra Vez –Epílogo–](https://open.spotify.com/track/3r0l64cTauzcbqJF0LUqrA) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [–EPílogo– Diciembre, Otra Vez](https://open.spotify.com/album/6EZOLQYsbxm6ayT7s8sX5F) | 4:07 | 2022-05-28 | 2022-10-12 |
 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 | 2024-07-02 |  |
+| [Doblexxó](https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 2:56 | 2024-08-09 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-12 | 2022-03-05 |
 | [Dread Boy](https://open.spotify.com/track/4UJS6VrU7nduibWXcgc0pR) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf) | [Dread Boy](https://open.spotify.com/album/2464YAxFKUGFr2QO3NgLx6) | 3:20 | 2023-05-19 | 2023-06-30 |
 | [Dulce Pecado](https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Dulce Pecado](https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3) | 2:55 | 2024-02-26 |  |
@@ -231,7 +232,7 @@
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2022-01-12 | 2023-08-03 |
 | [Pa Olvidarte](https://open.spotify.com/track/0NCMHQFpWVDK199pKR2Y7V) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Pa Olvidarte](https://open.spotify.com/album/1n9WPaEZsaj7QmLAnC9HWl) | 2:46 | 2022-01-12 | 2024-02-27 |
 | [Pa Olvidarte \(feat\. Manuel Turizo\) \- Remix](https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa Olvidarte \(feat\. Manuel Turizo\) \[Remix\]](https://open.spotify.com/album/3ekwMnFlP79fwylU0W98m0) | 4:16 | 2022-01-12 |  |
-| [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 | 2024-06-19 |  |
+| [palacio <3](https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [palacio <3](https://open.spotify.com/album/03rNxNCqFn5f1jbQBIiR2I) | 2:36 | 2024-06-19 | 2024-08-10 |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-02-02 |  |
 | [Pasa](https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:13 | 2022-04-29 | 2022-10-29 |
 | [Pendejada feat\. Mabiland](https://open.spotify.com/track/1LA1dNwVWQQZwuSQ8TmOry) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:27 | 2022-08-11 | 2022-10-29 |

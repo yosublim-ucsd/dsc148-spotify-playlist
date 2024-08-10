@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste nye knive i dansk musik! <a href="spotify:artist:6J9AFauvtJJ8brNaiWwWat">Sira Jovina</a> på forsiden🔪
+> de skarpeste nye knive i dansk musik🔪 Dos Santos på coveret
 
-75 songs - 4 hr 6 min
+76 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Elskede At Drømme, Drømmer Om At Elske](https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m), [Peter Sommer](https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:50 | 2024-06-27 |  |
 | [En Fremmed](https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Liber](https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj) | 3:40 | 2024-06-27 |  |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 |  |
+| [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 |  |
 | [Formskifter](https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Formskifter](https://open.spotify.com/album/2v4FKfFPRtDVc2hjuysIxl) | 3:15 | 2024-06-27 |  |
 | [Fra Wien Til Rom](https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Legebørn](https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD) | 4:08 | 2024-06-27 |  |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 |  |
@@ -66,7 +67,7 @@
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 |  |
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 |  |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 |  |
-| [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 |  |
+| [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-08-10 |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 |  |
 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 |  |
 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2024-08-05 |

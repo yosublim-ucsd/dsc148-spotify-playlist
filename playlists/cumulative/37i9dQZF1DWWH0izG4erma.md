@@ -2,9 +2,9 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country music that rocks\. Cover: A Thousand Horses
+> Country music that rocks\. Cover: Mitchell Tenpenny and Underoath
 
-369 songs - 21 hr 9 min
+370 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2023-12-08 |  |
 | [Cut the Grass](https://open.spotify.com/track/6zQvexoU5zfWObLpIX7p2S) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [On Your Time](https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi) | 7:00 | 2023-10-06 | 2023-12-02 |
 | [Days of Gold](https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:21 | 2023-01-20 | 2023-04-01 |
+| [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb) | 3:35 | 2024-08-09 |  |
 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 | 2021-11-01 |  |
 | [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-10-06 | 2023-11-05 |
 | [Devil You Know](https://open.spotify.com/track/3VfLRvfDdy7iXW057kPm2x) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/1JHMeaoUwnGzpen1EOSYie) | 2:59 | 2023-10-20 | 2024-04-19 |
@@ -316,7 +317,7 @@
 | [The Future's Neon](https://open.spotify.com/track/1zmmVJZk7YKJ9oUZrYwgAx) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/3grVGFPEhjfRXfCUz65T2X) | 2:25 | 2022-02-11 | 2022-07-10 |
 | [The Outside](https://open.spotify.com/track/6hVVkkYMI69o5IjQAOHHyf) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside](https://open.spotify.com/album/6priPBsABco1gx0NcLIkHg) | 3:46 | 2024-07-19 |  |
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-11-01 | 2022-01-22 |
-| [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 |  |
+| [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 | 2024-08-10 |
 | [Them Boots](https://open.spotify.com/track/1inAmPzZBNjKr7nU8cGbjT) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [South of Somewhere](https://open.spotify.com/album/0XxAkm4enVQrzVIvkEGPly) | 2:35 | 2023-06-02 | 2023-10-07 |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-02-11 |  |
 | [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 | 2021-11-05 | 2023-03-16 |

@@ -949,6 +949,28 @@
     },
     {
       "album": {
+        "name": "Joda Clandestina",
+        "url": "https://open.spotify.com/album/0EPQkabXlUpa2Py5Wu9bXs"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Mozthaza",
+          "url": "https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157030,
+      "name": "Joda Clandestina",
+      "url": "https://open.spotify.com/track/0GagwFgtQHNefc02XXEsMP"
+    },
+    {
+      "album": {
         "name": "25 A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
       },
@@ -2180,7 +2202,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 156581,
       "name": "Se Olvid\u00f3 y Bail\u00f3",
       "url": "https://open.spotify.com/track/4IMPF8DbGggiFMvrnruoos"

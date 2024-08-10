@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Thiagão, Pregador Luo
 
-401 songs - 20 hr 43 min
+402 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Manhã](https://open.spotify.com/track/3h1cO432yKliTbViVAT6zr) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ) | [Manhã](https://open.spotify.com/album/4hLP4vgh7KZO0jp1hwbsxf) | 3:12 | 2023-09-08 | 2023-09-26 |
 | [Mano, Eu Sou Pentecostal!](https://open.spotify.com/track/7KEGwfGpSZGDxaH5TH69DC) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Mano, Eu Sou Pentecostal!](https://open.spotify.com/album/6i6658T79wHhmkeNWp2S42) | 3:00 | 2024-06-14 |  |
 | [Mantive a Fé](https://open.spotify.com/track/4GrQl8Cv3YAoFWDhtK1CQV) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Mantive a Fé](https://open.spotify.com/album/3YrGcpbOpjSMzeRC574mRN) | 2:32 | 2023-10-20 | 2023-11-11 |
-| [Maranata](https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Setenta / Maranata](https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch) | 2:00 | 2023-09-01 |  |
+| [Maranata](https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Fábio Casagrande](https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn) | [Setenta / Maranata](https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch) | 2:00 | 2023-09-01 | 2024-08-10 |
 | [Marionete](https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR) | 3:06 | 2022-10-28 | 2023-09-09 |
 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 | 2022-03-22 | 2022-11-09 |
 | [Mateus 6.6](https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [God Feat\. Me](https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct) | 2:56 | 2023-04-21 | 2024-06-29 |
@@ -302,6 +302,7 @@
 | [Prosseguir](https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv) | [Jhonysul](https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8) | [Prosseguir](https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv) | 2:35 | 2023-10-20 |  |
 | [Proteção](https://open.spotify.com/track/4uZv0PC3yNTMaizCB7cewp) | [Cleiton santos oficial](https://open.spotify.com/artist/3LOINHULPooxh22mXKegOR), [Gui Oficial](https://open.spotify.com/artist/7lbntudv3nUsqXU6zWB3df), [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Proteção](https://open.spotify.com/album/5AHJBYDqA6V4xYbaPgALpy) | 4:04 | 2023-09-15 | 2023-10-07 |
 | [Prova de Amor](https://open.spotify.com/track/6bgB5B1Ak8wR22z58TNkuK) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Prova de Amor](https://open.spotify.com/album/6dfDgXJMUgUsrQpezheP6j) | 2:38 | 2024-03-22 | 2024-04-06 |
+| [Purificado](https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Purificado](https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV) | 2:25 | 2024-08-09 |  |
 | [Qual Sua Dor](https://open.spotify.com/track/01PJfKc1lNs1uIQV4drX9V) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [Erick Mc](https://open.spotify.com/artist/0zn9oySXWKtlJG4ve7NgrA) | [Qual Sua Dor](https://open.spotify.com/album/47SKnflX6FLrj9zAAG7Xme) | 3:30 | 2022-03-22 | 2022-06-18 |
 | [Quando Eu Oro](https://open.spotify.com/track/7G5Fm1W2Dff5Yxh479fLoG) | [Educky](https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy), [Izza D](https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1), [Todah Urban](https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu) | [Quando Eu Oro](https://open.spotify.com/album/72K8kXBI35lTVyf5TcVw2S) | 2:38 | 2024-04-19 |  |
 | [Quebrantado \- Remix](https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Fabi Silva](https://open.spotify.com/artist/7gPmWG4AxJq98Ofj6F98S0), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Quebrantado \(Remix\)](https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP) | 3:48 | 2023-10-06 |  |

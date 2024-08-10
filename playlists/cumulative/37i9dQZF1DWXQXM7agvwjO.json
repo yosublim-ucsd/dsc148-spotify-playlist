@@ -15745,6 +15745,24 @@
     },
     {
       "album": {
+        "name": "ok to be not ok",
+        "url": "https://open.spotify.com/album/4Op5st5g671g45uIqIunE0"
+      },
+      "artists": [
+        {
+          "name": "Our Shame",
+          "url": "https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216542,
+      "name": "ok to be not ok",
+      "url": "https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk"
+    },
+    {
+      "album": {
         "name": "Old Fashioned",
         "url": "https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh"
       },

@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-291 songs - 17 hr 20 min
+293 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All Pride Aside with Summer Walker](https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [All Pride Aside with Summer Walker](https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v) | 4:18 | 2022-02-25 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 | 2022-08-05 |  |
 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/7s0pdQmbXq6GtMHpkCTLLw) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/0vwcoBJSy5vfb9MAt4hibx) | 3:44 | 2022-12-30 | 2024-04-19 |
-| [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 |  |
+| [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 | 2024-08-10 |
+| [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 | 2024-08-09 |  |
 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 | 2024-04-12 |  |
 | [Another](https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Another](https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di) | 2:32 | 2022-04-15 | 2022-08-27 |
 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 | 2022-02-25 | 2022-10-15 |
@@ -44,7 +45,7 @@
 | [Bone + Tissue](https://open.spotify.com/track/1THUV2tiTLxNNbJwC8m4pE) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Ology](https://open.spotify.com/album/4VZh7EI0gjL2FkLWNBVIWf) | 3:41 | 2022-02-25 | 2022-12-13 |
 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 | 2023-09-29 |  |
 | [Brown Skin](https://open.spotify.com/track/6yS7uEuIMuVgOWEiWY6Abm) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Acoustic Soul](https://open.spotify.com/album/2vc5pjWadm2Q8FxdJ3JSwV) | 4:56 | 2022-02-25 | 2022-04-23 |
-| [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 |  |
+| [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 | 2024-08-10 |
 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 | 2022-07-01 | 2022-12-01 |
 | [Cartier](https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:16 | 2022-11-18 | 2022-12-17 |
 | [Challenge](https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [Challenge](https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9) | 2:10 | 2022-12-17 | 2023-07-15 |
@@ -295,6 +296,7 @@
 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 | 2022-02-25 |  |
 | [Yamz](https://open.spotify.com/track/0IQ3KOas5wGRregqoMb9HF) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Yamz](https://open.spotify.com/album/5BICne3tfhmbtGhJ01vgyJ) | 4:05 | 2022-02-25 | 2022-03-26 |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-22 | 2024-04-26 |
+| [YOU DON’T KNOW \(feat\. Alex Isley\)](https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [i do this sh\*t in my sleep](https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg) | 2:03 | 2024-08-09 |  |
 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 | 2022-02-25 |  |
 | [You Got One](https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Starfruit](https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz) | 3:25 | 2023-04-28 | 2024-04-19 |
 | [Young Rich & In Love](https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:18 | 2024-01-12 | 2024-03-09 |

@@ -2015,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Love for Sale",
+        "url": "https://open.spotify.com/album/6NTUQBVx2PEfQKmrgrSDGe"
+      },
+      "artists": [
+        {
+          "name": "Thom Rotella",
+          "url": "https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331666,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/1mtHnelufpUHbpXf5OEgBd"
+    },
+    {
+      "album": {
         "name": "Love Is in the Air",
         "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
       },
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 215200,
       "name": "Spring of Life",
       "url": "https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW"

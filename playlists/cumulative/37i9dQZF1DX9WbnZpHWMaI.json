@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Miss Monique",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Mona Yim",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166475,
       "name": "24 Hours in Paris - Miranda's Version",
       "url": "https://open.spotify.com/track/71UC3KzrsSvRBcyatjtLru"
@@ -494,6 +494,24 @@
       "duration_ms": 201707,
       "name": "Ayana",
       "url": "https://open.spotify.com/track/6C7dpTWYty3stEQ0KrLxep"
+    },
+    {
+      "album": {
+        "name": "Baby Dragon",
+        "url": "https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207217,
+      "name": "Baby Dragon",
+      "url": "https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B"
     },
     {
       "album": {
@@ -1913,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229903,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
+    },
+    {
+      "album": {
         "name": "Feels Darker",
         "url": "https://open.spotify.com/album/0PNLjzbkEvzQBKYVwTgnNI"
       },
@@ -3073,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs"
+      },
+      "artists": [
+        {
+          "name": "Merry Lamb Lamb",
+          "url": "https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251076,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F"
+    },
+    {
+      "album": {
         "name": "Moogie",
         "url": "https://open.spotify.com/album/05KY6Zvc0lEHtBWF4LDnMY"
       },
@@ -4065,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "honestly, does this smell off to you?",
+        "url": "https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "limousine",
+      "url": "https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH"
+    },
+    {
+      "album": {
         "name": "Lobster Telephone (Edit)",
         "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
       },
@@ -4674,7 +4746,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180800,
       "name": "Mysterious World",
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
@@ -4946,6 +5018,28 @@
       "duration_ms": 214773,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
+    },
+    {
+      "album": {
+        "name": "oceanic (feat. Vagabon) [rebirth]",
+        "url": "https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "oceanic (feat. Vagabon) [rebirth]",
+      "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
     },
     {
       "album": {
@@ -5410,7 +5504,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 225562,
       "name": "Retox",
       "url": "https://open.spotify.com/track/5zxCjPF27PPCHCyaGobU6m"
@@ -5428,7 +5522,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169014,
       "name": "Riddles",
       "url": "https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu"
@@ -5752,7 +5846,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158170,
       "name": "Shiny New Thing",
       "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
@@ -5929,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "Slow Rush",
+        "url": "https://open.spotify.com/album/40GCnZ1p60c3l1YjOTPB83"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Slow Rush",
+      "url": "https://open.spotify.com/track/33cBueBQrnRbMUWfa8Zjw6"
+    },
+    {
+      "album": {
         "name": "Some Type Of Skin",
         "url": "https://open.spotify.com/album/473zzYVZR0UMnJH7Y0rNPi"
       },
@@ -5948,6 +6060,24 @@
       "duration_ms": 204693,
       "name": "Some Type Of Skin - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/1I8M5tRchiQYYZcV3f63j7"
+    },
+    {
+      "album": {
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "SOMETIMES I NEED TO YELL",
+      "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
     },
     {
       "album": {
@@ -6052,7 +6182,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 190444,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ"
@@ -6189,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223993,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
+    },
+    {
+      "album": {
         "name": "Superfresh / Unfinished Bizzness",
         "url": "https://open.spotify.com/album/0z15dG26VgTHy60azJhnCj"
       },
@@ -6276,7 +6424,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160400,
       "name": "Taking It Slow",
       "url": "https://open.spotify.com/track/2QEcMk01oiYdAd0Lq4MKBL"
@@ -7038,7 +7186,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205975,
       "name": "Up is Down",
       "url": "https://open.spotify.com/track/0xWGZsahvCkVoYE40DVnAZ"
@@ -7226,7 +7374,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 180484,
       "name": "Wasting Time (til the end of the world)",
       "url": "https://open.spotify.com/track/7c22mnTVTFtAGXjHRaj5Fh"
@@ -7306,6 +7454,24 @@
       "duration_ms": 337033,
       "name": "What We Live For",
       "url": "https://open.spotify.com/track/18K9abEONMttU0sx38Phun"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2lGuyCKc6O3dDteX2GO5ZK"
+      },
+      "artists": [
+        {
+          "name": "Lily McKenzie",
+          "url": "https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171146,
+      "name": "When It Comes To Love",
+      "url": "https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf"
     },
     {
       "album": {

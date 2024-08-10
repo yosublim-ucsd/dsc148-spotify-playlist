@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 261000,
       "name": "Across the River",
       "url": "https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 174015,
       "name": "Drop",
       "url": "https://open.spotify.com/track/3egX8ALvUfZTddyDurHoda"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Ex-Animo",
       "url": "https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 343010,
       "name": "Hues (feat. Seb Read & Sandeep Chowta)",
       "url": "https://open.spotify.com/track/5NBERcaxcR7qN7tOzVDIvA"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 338117,
       "name": "Kashmakash-Qa'ar-Urooj - Live",
       "url": "https://open.spotify.com/track/43dxGK0P7JILrPcgwQG3Za"
@@ -1384,6 +1384,28 @@
       "duration_ms": 229411,
       "name": "Lalitha",
       "url": "https://open.spotify.com/track/58rPweB9GHlIvpxuR2oje1"
+    },
+    {
+      "album": {
+        "name": "Latika",
+        "url": "https://open.spotify.com/album/3Xbhh4G0WYyBjKNJ6D0juc"
+      },
+      "artists": [
+        {
+          "name": "Keethan",
+          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156609,
+      "name": "Latika",
+      "url": "https://open.spotify.com/track/36XnoMM6gOLsxzgFKX2yTL"
     },
     {
       "album": {
@@ -2152,7 +2174,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196800,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/5QEHJD6fYLzMHBYMuIE3zh"
@@ -2188,7 +2210,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 309818,
       "name": "So\u2026Now Hear This",
       "url": "https://open.spotify.com/track/40HT4dMVbIY0TO1a0nqkOx"
@@ -2526,7 +2548,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 577000,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/1dUDWTN2g42sz1yXykCUQn"
@@ -2652,7 +2674,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 308970,
       "name": "Wake Up Rama",
       "url": "https://open.spotify.com/track/37TYm2BRcNMnvsORKpCx4f"

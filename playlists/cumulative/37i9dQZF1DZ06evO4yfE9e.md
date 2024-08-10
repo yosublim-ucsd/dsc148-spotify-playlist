@@ -2,13 +2,14 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This Is bludnymph أهم المقاطع كلها في قائمة أغاني وحدة.
+> This Is bludnymph\. Los temas esenciales, todos en una lista.
 
-25 songs - 1 hr 4 min
+26 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW) | 2:48 | 2024-01-10 |  |
+| [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-10 |  |
 | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Bizarre feat\. 6arelyhuman](https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs) | 2:43 | 2024-01-10 |  |
 | [BODY PARTS](https://open.spotify.com/track/0H7kDalfzg7aw8O1EiUKnj) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a) | 3:12 | 2024-07-30 |  |
 | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a) | 2:58 | 2024-01-10 | 2024-07-30 |

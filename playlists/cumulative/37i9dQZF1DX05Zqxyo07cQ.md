@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-05 | 2024-08-07 |
+| [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-05 |  |
 | [432 Hz Dulces Sueño](https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM) | [Ecos del Reposo](https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP) | [432 Hz Dulces Sueño](https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U) | 3:04 | 2024-06-18 |  |
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2023-03-23 | 2024-03-21 |
 | [A Fair Wind](https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236) | [Euforbia](https://open.spotify.com/artist/1PB3wzj7smUyd1WOTAZqOU) | [A Fair Wind](https://open.spotify.com/album/7rRk0WXw7gOvh2dQDTcjs4) | 3:00 | 2023-03-23 | 2024-04-06 |
@@ -575,7 +575,7 @@
 | [World Beyond](https://open.spotify.com/track/5ivvtayl4QgwCtjUd4JOB1) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [World Beyond](https://open.spotify.com/album/7bYiEz6kPFaPZ0hxnMQnds) | 2:57 | 2023-03-23 | 2024-07-10 |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2023-03-23 | 2024-01-18 |
 | [Yours](https://open.spotify.com/track/1JObSSGWbmXLnqsyGAMwTW) | [Vellore](https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR) | [Yours](https://open.spotify.com/album/4NvYqHaSJ0b2Ue2o9ecgd3) | 2:52 | 2024-02-08 |  |
-| [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 | 2024-05-04 |  |
+| [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 | 2024-05-04 | 2024-08-10 |
 | [Zuma](https://open.spotify.com/track/29MAJChL6Clm5tKBCBvWTC) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Zuma](https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK) | 3:08 | 2024-01-17 |  |
 | [Zweck](https://open.spotify.com/track/4izTO69HJBi2zPaOGMc75S) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Zweck](https://open.spotify.com/album/4bHRH3ucZjXAQbZfqes4rj) | 2:52 | 2023-03-23 | 2024-03-21 |
 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 | 2023-03-23 | 2024-01-18 |

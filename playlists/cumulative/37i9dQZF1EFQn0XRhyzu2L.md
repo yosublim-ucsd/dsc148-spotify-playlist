@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-506 songs - 1 day 3 hr 45 min
+507 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2024-02-27 |  |
 | [Darkness and Light \(feat\. Brittany Howard\)](https://open.spotify.com/track/4jBPWUAtvIbj7trXEg9QPJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [DARKNESS AND LIGHT](https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O) | 3:50 | 2024-02-27 |  |
 | [Death Row](https://open.spotify.com/track/07K1WRKXskn1izYOFPnl0A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:00 | 2024-02-27 |  |
+| [Defense of Love](https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love](https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB) | 2:25 | 2024-08-09 |  |
 | [Different This Year \(Reprise\) \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/0gk0Ymd4XbMUZbBSrOiHKj) | [Marisa Davila](https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy), [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [Cheyenne Isabel Wells](https://open.spotify.com/artist/0W6h16rjhBU7tfUlXU6Hzr), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:55 | 2024-02-27 |  |
 | [Different This Year \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/2tRjFhUilgpebiBAjZfYaK) | [Marisa Davila](https://open.spotify.com/artist/7vMeCYcjhAA7yaoyf1MWJy), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 1:18 | 2024-04-04 |  |
 | [Disco \- Extended](https://open.spotify.com/track/3aVttrUSwGUJUJZudd0zgi) | [Jack Armano](https://open.spotify.com/artist/3876m9vL2h0q8uTsJ80GkQ) | [Disco](https://open.spotify.com/album/3OLkHq4ckTvyH1NG0dek2S) | 6:39 | 2024-02-27 |  |

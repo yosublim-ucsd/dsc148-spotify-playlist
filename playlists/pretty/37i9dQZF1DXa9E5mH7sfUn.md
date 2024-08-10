@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 
 > Amigo, ven te invito una copa...
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,026 likes - 68 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,147 likes - 68 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 41 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
 | 42 | [Maracas](https://open.spotify.com/track/3nKCBdEMj46mWNt2p4hFAq) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Los Mejores Duetos De](https://open.spotify.com/album/5AgB60Z3LgBvN4tIvw9Xd3) | 3:09 |
 | 43 | [Miénteme](https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [La Más Completa Colección](https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0) | 3:10 |
-| 44 | [Vamos A Platicar](https://open.spotify.com/track/4Slnnd4yLEYNsqyYQDMjgD) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:20 |
+| 44 | [Vamos A Platicar](https://open.spotify.com/track/4Slnnd4yLEYNsqyYQDMjgD) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Emonciones Sin Limite \- Volumen 5](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:20 |
 | 45 | [Déjame Volver Contigo](https://open.spotify.com/track/6K1RFZ3mUdZaxktUnifSok) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Imprescindibles](https://open.spotify.com/album/6GiVGJiqTdu0CcTnwK80go) | 4:12 |
 | 46 | [Lamento De Amor](https://open.spotify.com/track/5kDPDm0gcfooyijmjA5awt) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Mi Colección](https://open.spotify.com/album/6VIYUeOfCiok6sf333btqs) | 3:17 |
 | 47 | [Cobarde](https://open.spotify.com/track/4L4WW9hLWc9ZD7JYHXYOM8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |

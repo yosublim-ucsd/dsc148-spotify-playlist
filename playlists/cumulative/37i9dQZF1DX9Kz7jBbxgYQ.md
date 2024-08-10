@@ -2,9 +2,9 @@
 
 ### [Desi Indie](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Utsavi Jha
+> Home to the best of South Asian Indie scene\. Cover: Dhee
 
-306 songs - 17 hr 21 min
+307 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [HUM](https://open.spotify.com/track/5KA3Z4EJI3qM7S3tMee6Mj) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [HUM](https://open.spotify.com/album/1CgDmthgQr99ZlJEwDpCft) | 3:23 | 2022-07-15 | 2022-09-02 |
 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 | 2024-01-05 |  |
 | [I Could Save You](https://open.spotify.com/track/6itdaQh0oR32nRC5gcpP8q) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:47 | 2022-09-01 | 2022-11-03 |
+| [I Wear My Roots Like a Medal](https://open.spotify.com/track/4jNBqvDq5wPhE93fqYMuj0) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [I Wear My Roots Like a Medal](https://open.spotify.com/album/0KdlZrJbcxSlCYGpck5BDL) | 3:30 | 2024-08-09 |  |
 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2022-12-28 |  |
 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-03-19 |  |
 | [Ishq Di Chaawaan](https://open.spotify.com/track/16m3dpTc9m7TN2Lxdt1Jco) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/5cM7uX9PBIHPtBI2QbUjDv) | 3:45 | 2023-11-06 | 2023-11-30 |

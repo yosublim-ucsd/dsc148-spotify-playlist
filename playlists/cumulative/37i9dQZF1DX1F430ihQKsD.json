@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Tender the Spark",
+        "url": "https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/1UGWWNp4C37Cte2VPG8TUs"
+    },
+    {
+      "album": {
         "name": "Block Of Wood",
         "url": "https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c"
       },
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 205958,
       "name": "on s'en fou",
       "url": "https://open.spotify.com/track/4hYzt5vDT38IsjnbI8RSAV"

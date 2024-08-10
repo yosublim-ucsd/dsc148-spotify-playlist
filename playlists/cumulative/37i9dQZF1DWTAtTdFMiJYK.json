@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Gini",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Zephyrtone",
   "name": "RADAR India",
   "tracks": [
     {
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Wanna Love",
+        "url": "https://open.spotify.com/album/4BrAHxQqfEIoYLiPf8Y9q4"
+      },
+      "artists": [
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Don\u2019t Wanna Love",
+      "url": "https://open.spotify.com/track/5lRru9LwvZnd2tVXRfDZZG"
+    },
+    {
+      "album": {
         "name": "Doobna Aata Hai",
         "url": "https://open.spotify.com/album/3og6i5UVjMjvZnFfVaOumg"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136460,
       "name": "Heera Ranjha",
       "url": "https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA"

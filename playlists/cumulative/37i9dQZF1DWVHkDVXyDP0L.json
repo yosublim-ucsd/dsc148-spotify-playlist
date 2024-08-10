@@ -2485,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Settling Down",
+        "url": "https://open.spotify.com/album/5vekeb3JTodzTkN9DJ1Qie"
+      },
+      "artists": [
+        {
+          "name": "Psychic Social Club",
+          "url": "https://open.spotify.com/artist/3zdmOqsxv0670azOyHTFYY"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196086,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/4XIjKkcMOxWJwxFMnwUiT3"
+    },
+    {
+      "album": {
         "name": "Shark",
         "url": "https://open.spotify.com/album/6N103DHkiwthYBOCADC0vM"
       },

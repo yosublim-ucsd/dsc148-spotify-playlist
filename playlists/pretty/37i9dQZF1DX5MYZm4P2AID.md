@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,815 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,840 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 134 | [Pork Rind](https://open.spotify.com/track/2IrhshaSvChFM5VTzooXsn) | [Blackfoot Gypsies](https://open.spotify.com/artist/4wTY4zovD9wK63Wi4WhxGN) | [Handle It](https://open.spotify.com/album/6I3KcXTCNb5QWEmMxNGH6G) | 3:39 |
 | 135 | [Duel in the Dust](https://open.spotify.com/track/1Phs2DbD67760vXozfXnw3) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 2:47 |
 | 136 | [The Stranger](https://open.spotify.com/track/2CrMDlMhdLEPTPlTpALGHu) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [No Mans Land](https://open.spotify.com/album/6mv6jWzf1Z3NsOEAHrh2ze) | 3:08 |
-| 137 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
+| 137 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \- Deluxe](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 |
 | 138 | [The Good Mr\. Square](https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Parachute](https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK) | 1:26 |
 | 139 | [My Lady's On Fire](https://open.spotify.com/track/5EbTamOuKNYlEsOUGc51kE) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Freedom's Goblin](https://open.spotify.com/album/5BInay8c4KClHpYL94IBed) | 3:52 |
 | 140 | [Montezuma](https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 3:36 |

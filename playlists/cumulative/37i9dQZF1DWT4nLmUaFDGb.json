@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 221000,
       "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
       "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
@@ -3169,6 +3169,28 @@
     },
     {
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/0n9t4yvnjeYmTEbLamdn36"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279159,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/62SIDT5kuZ7whlVegVGkrT"
+    },
+    {
+      "album": {
         "name": "Nobody but Me (Deluxe)",
         "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
       },
@@ -3455,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "P.S. I Love You",
+        "url": "https://open.spotify.com/album/71wXFz3FCn2JlvrRNfNBDR"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258440,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/7IbXt8rAf2Qwcvdb4S8utc"
+    },
+    {
+      "album": {
         "name": "Come Away With Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF"
       },
@@ -3630,7 +3670,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 295200,
       "name": "Send in the Clowns",
       "url": "https://open.spotify.com/track/3GIKU5UuePk4SygQqdqRoV"

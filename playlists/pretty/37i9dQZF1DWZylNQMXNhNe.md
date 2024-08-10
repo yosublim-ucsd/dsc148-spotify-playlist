@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,268 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,262 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 35 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
 | 36 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |
 | 37 | [TE ODEIO](https://open.spotify.com/track/6g6zhPErWydVqWaT5q2lHz) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [ALTA TENSÃO](https://open.spotify.com/album/12JE1Bk262iVJaqN7yKqfH) | 2:22 |
-| 38 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
-| 39 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 38 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 |
+| 39 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
 | 40 | [BONITA](https://open.spotify.com/track/1cuVUWpKUatvXpbJ9ITtih) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE](https://open.spotify.com/album/2rnBW5ksDgtam7tzL6jn9x) | 2:42 |
 | 41 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
-| 42 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
-| 43 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
+| 42 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
+| 43 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
 | 44 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
 | 45 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 46 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |

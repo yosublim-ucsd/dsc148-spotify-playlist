@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60679,
+  "num_followers": 60689,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
     },
     {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Bernalejo",
@@ -343,6 +327,22 @@
       "duration_ms": 264000,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz",
         "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 157586,
       "name": "Tipitipit\u00edn",
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
+      },
+      "artists": [
+        {
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
+        }
+      ],
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Semillas De Copinol",
         "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mi Sentimiento Guerrerense",
         "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 339280,
       "name": "Por los Caminos del Sur",
       "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2022-03-30 03:01:09",
+      "album": {
+        "name": "Kumoi",
+        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Guillaume Pouget",
+          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
+        }
+      ],
+      "duration_ms": 127240,
+      "name": "Suite Yusef Lateef",
+      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -855,26 +875,6 @@
       "duration_ms": 236419,
       "name": "Calladito Te Ves Mejor",
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
-      },
-      "artists": [
-        {
-          "name": "Palapa",
-          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
-        },
-        {
-          "name": "Francisco Lelo de Larrea",
-          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
-        }
-      ],
-      "duration_ms": 343187,
-      "name": "5:PM",
-      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

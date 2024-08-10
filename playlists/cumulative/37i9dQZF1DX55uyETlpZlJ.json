@@ -5347,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "Nee Siguva Thanaka",
+        "url": "https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA"
+      },
+      "artists": [
+        {
+          "name": "Satvik C S",
+          "url": "https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR"
+        },
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268799,
+      "name": "Nee Siguva Thanaka",
+      "url": "https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY"
+    },
+    {
+      "album": {
         "name": "Neeli Modagalu",
         "url": "https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL"
       },

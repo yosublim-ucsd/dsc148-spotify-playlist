@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: Stephen Day",
-  "num_followers": 414720,
+  "description": "Featuring that new vintage. Cover: Michael Bubl\u00e9",
+  "num_followers": 414730,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAADiRRzWBhW7vrh9EULcXNrE",
+  "snapshot_id": "ZrWUQAAAAACNuYCRRVgp/ZTN1uIPMUrV",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 155933,
       "name": "A Bar on the West Side of Town",
       "url": "https://open.spotify.com/track/1TR6uCeeDkDrWEZ2utFySv"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 182777,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -91,6 +91,22 @@
       "duration_ms": 198266,
       "name": "Family Business",
       "url": "https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/1Eq16zkqEjt8Hzrae9q6fa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2ke3UokbJmy74bvueaXli3"
     },
     {
       "added_at": "2024-06-07 04:00:00",

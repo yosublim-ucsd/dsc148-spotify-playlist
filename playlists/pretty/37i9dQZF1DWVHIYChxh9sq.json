@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Firme",
-  "num_followers": 74537,
+  "num_followers": 74549,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "Tragedias de Mi Pueblo (Con Banda)",
-        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253105,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+        "name": "La Mb",
+        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
       },
       "artists": [
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+      "duration_ms": 203522,
+      "name": "La Mb",
+      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -851,22 +867,6 @@
       "duration_ms": 156597,
       "name": "Pasado Pisado (En Vivo)",
       "url": "https://open.spotify.com/track/60JPfps8dyCRG9s5sKM0Xm"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "La Mb",
-        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "La Mb",
-      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "300 Locos - En Vivo",
+      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
         "name": "El Pickles",
         "url": "https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 182634,
       "name": "El Pickles",
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "300 Locos - En Vivo",
-      "url": "https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
+        "name": "Los Dos Carnales Con Sax",
+        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 227554,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -1067,18 +1083,22 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
-        "name": "Los Dos Carnales Con Sax",
-        "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
+        "name": "Clave 18",
+        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
         }
       ],
-      "duration_ms": 227554,
-      "name": "El Estr\u00e9s",
-      "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+      "duration_ms": 235663,
+      "name": "Clave 18",
+      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1103,26 +1123,6 @@
       "duration_ms": 198493,
       "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
       "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "Clave 18",
-        "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        }
-      ],
-      "duration_ms": 235663,
-      "name": "Clave 18",
-      "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1179,6 +1179,22 @@
       "duration_ms": 167439,
       "name": "El Chino",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
+    },
+    {
+      "added_at": "2024-07-19 09:08:16",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1247,22 +1263,6 @@
       "duration_ms": 149986,
       "name": "El Cabez\u00f3n (El Papas Fritas)",
       "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
-    },
-    {
-      "added_at": "2024-07-19 09:08:16",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1683,8 +1683,8 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
-        "name": "Pisteando Con La Regida (Vol. 3)",
-        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+        "name": "Gente Del Flaco (En Vivo)",
+        "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
       },
       "artists": [
         {
@@ -1692,9 +1692,9 @@
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 137506,
-      "name": "Aguanta Corazon",
-      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
+      "duration_ms": 160501,
+      "name": "Gente Del Flaco (En Vivo)",
+      "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
     },
     {
       "added_at": "2024-07-19 09:08:16",
@@ -1807,8 +1807,8 @@
     {
       "added_at": "2024-07-19 09:08:16",
       "album": {
-        "name": "Gente Del Flaco (En Vivo)",
-        "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
       "artists": [
         {
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 160501,
-      "name": "Gente Del Flaco (En Vivo)",
-      "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
+      "duration_ms": 137506,
+      "name": "Aguanta Corazon",
+      "url": "https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX"
     },
     {
       "added_at": "2024-07-19 09:08:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: McKenna Grace",
+  "description": "Dark, hard hitting pop. Cover: Cloudy June",
   "name": "SALT",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169508,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL"
+    },
+    {
+      "album": {
         "name": "BIG GUNS",
         "url": "https://open.spotify.com/album/3eAg2MEEJxhI7pvRxjha3F"
       },
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 189120,
       "name": "Breakfast Club",
       "url": "https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x"
@@ -5459,6 +5477,42 @@
     },
     {
       "album": {
+        "name": "HELLO IT'S THE NEW ME",
+        "url": "https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154187,
+      "name": "HELLO IT'S THE NEW ME",
+      "url": "https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj"
+    },
+    {
+      "album": {
+        "name": "HEXED",
+        "url": "https://open.spotify.com/album/4a7qonEl8Qvw1JwrywEixj"
+      },
+      "artists": [
+        {
+          "name": "Leah Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172779,
+      "name": "HEXED",
+      "url": "https://open.spotify.com/track/2YsjASle6ww8UK1rui5bEB"
+    },
+    {
+      "album": {
         "name": "IVE SWITCH",
         "url": "https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy"
       },
@@ -6108,6 +6162,24 @@
       "duration_ms": 158888,
       "name": "I Woke Up",
       "url": "https://open.spotify.com/track/7CSJbewzvnIblizU3aDuIr"
+    },
+    {
+      "album": {
+        "name": "I'll Just Say It",
+        "url": "https://open.spotify.com/album/2rKjWKEvNheSppihIV5OWG"
+      },
+      "artists": [
+        {
+          "name": "Jana Diab",
+          "url": "https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "I'll Just Say It",
+      "url": "https://open.spotify.com/track/3OaR8YS7CCELb4nzDcmxMw"
     },
     {
       "album": {
@@ -9690,7 +9762,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165687,
       "name": "Riots",
       "url": "https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU"
@@ -12762,7 +12834,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 142974,
       "name": "Wedding or a Funeral",
       "url": "https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls"

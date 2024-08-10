@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: WhoMadeWho
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,068 likes - 74 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,072 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 72 | [In drei Leben](https://open.spotify.com/track/1vJFO92AqNrWOk3sHvHCvH) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [TOM](https://open.spotify.com/album/1VaykcRPyeTw5LoA21RheU) | 4:12 |
 | 73 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 |
 | 74 | [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/track/4A97jBOXzQhI67TKMMJS3N) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Beautiful Losers \(feat\. Rangleklods\)](https://open.spotify.com/album/7nmgdcICN5MBgmNPnnikDg) | 5:18 |
+| 75 | [Bittersweet](https://open.spotify.com/track/3FgyKKkDTIxkiiDYBl0es7) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 4:58 |
 
-Snapshot ID: `ZrU/4AAAAABl9iA+HlU99SquNtGzl8SI`
+Snapshot ID: `ZrXOMgAAAACpcAQ58KrhVKK9f9wp3RF0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,485 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,539 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 6 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
 | 7 | [ภาพเรา \(Good Quality Picture\) \- Ost\. บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ภาพเรา \(Good Quality Picture\) \[Ost\. บัส ซิ่ง ไทยแลนด์\]](https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6) | 4:55 |
 | 8 | [ยอม \(Surrender\)](https://open.spotify.com/track/6UuJgXnKGdAWeRwD8asDI3) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ยอม \(Surrender\)](https://open.spotify.com/album/4RGH9K61U4bFJ6nbtWlgcq) | 3:15 |
-| 9 | [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [THIRD](https://open.spotify.com/artist/66l74k1PsTPSJ5RkdZta3n) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 |
+| 9 | [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 |
 | 10 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
 | 11 | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [PY\-1](https://open.spotify.com/artist/1ZCpAWyRv4FdWf3Qwwbmoh) | [ความรักหน้าตาเป็นไง \(you\)](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 |
 | 12 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |

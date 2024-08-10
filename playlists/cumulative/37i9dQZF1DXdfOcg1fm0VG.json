@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "EA Sports Football Theme (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5NQSOHUwU3lP8Y0NDpr7qT"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Fingers",
+          "url": "https://open.spotify.com/artist/1UpmxFaO2uAw5IPK1JUxib"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50106,
+      "name": "EA Sports Football Theme",
+      "url": "https://open.spotify.com/track/3CWHoLCOIbK3cYC6okUMeU"
+    },
+    {
+      "album": {
         "name": "Elden Ring (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir"
       },

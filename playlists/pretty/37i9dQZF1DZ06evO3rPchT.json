@@ -1,12 +1,12 @@
 {
-  "description": "This is HARDY. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 70578,
+  "description": "This is HARDY. The essential tracks, all in one playlist.",
+  "num_followers": 70619,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACErAVXFCXjrrfwjvcee3d0",
+  "snapshot_id": "ZrQKgAAAAADb/6M7fpgp9l5ZmesxCL6R",
   "tracks": [
     {
       "added_at": null,
@@ -111,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
-        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 191437,
-      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
-      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
+      "duration_ms": 195326,
+      "name": "In The Bible (feat. HARDY)",
+      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
     },
     {
       "added_at": null,
@@ -143,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+        "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
       },
       "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible (feat. HARDY)",
-      "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
+      "duration_ms": 191437,
+      "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
+      "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
     },
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
       "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Some Things Never Change (feat. HARDY)",
-      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
     },
     {
       "added_at": null,
@@ -811,42 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worst Country Song Of All Time",
-        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 197666,
-      "name": "The Worst Country Song Of All Time",
-      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
+      "duration_ms": 171626,
+      "name": "Some Things Never Change (feat. HARDY)",
+      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
     },
     {
       "added_at": null,
@@ -879,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 203674,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -907,18 +899,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+        "name": "The Worst Country Song Of All Time",
+        "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
       },
       "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 203674,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
+      "duration_ms": 197666,
+      "name": "The Worst Country Song Of All Time",
+      "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
     },
     {
       "added_at": null,

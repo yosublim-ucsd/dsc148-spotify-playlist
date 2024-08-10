@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 214179,
+  "num_followers": 214247,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq"
       },
@@ -1063,6 +1079,22 @@
       "duration_ms": 130000,
       "name": "I Miss My Adidas",
       "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2024-08-08 22:00:00",
@@ -1783,6 +1815,26 @@
     {
       "added_at": "2024-08-08 22:00:00",
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 156303,
+      "name": "Bad Kids (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
         "name": "Se p\u00e5 oss",
         "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
       },
@@ -1947,6 +1999,22 @@
       "duration_ms": 178364,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn"
+    },
+    {
+      "added_at": "2024-08-08 22:00:00",
+      "album": {
+        "name": "Mirror 25",
+        "url": "https://open.spotify.com/album/4KtT8KV2JUWB12p5SlQd22"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "Whoop",
+      "url": "https://open.spotify.com/track/4L6qcTaDXQc4wEmsd8C8oO"
     },
     {
       "added_at": "2024-08-08 22:00:00",

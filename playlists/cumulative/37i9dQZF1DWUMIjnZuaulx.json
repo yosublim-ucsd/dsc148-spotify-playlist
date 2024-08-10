@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3NYwlCIjzmWwNdLPGT9UV8\">Phil Thompson</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:2b9paaAwb2Xd3iR1LSnCDN\">Brent Jones</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -7636,7 +7636,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 234389,
       "name": "Only One Way Home - Radio Edit",
       "url": "https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx"
@@ -11478,6 +11478,28 @@
       "duration_ms": 218000,
       "name": "You're Coming Out",
       "url": "https://open.spotify.com/track/68oy8qZSZt6O7Pxmr0KGRm"
+    },
+    {
+      "album": {
+        "name": "You're Gonna Make It",
+        "url": "https://open.spotify.com/album/5voOg38YTVXBB9eEZ0wZVS"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        },
+        {
+          "name": "Milton Biggham",
+          "url": "https://open.spotify.com/artist/0dgemTZLNtQWYRkp6CLtW6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386018,
+      "name": "You're Gonna Make It",
+      "url": "https://open.spotify.com/track/33qkn2qtJepscrlw7XZYmW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Türkiye'nin en büyük pop listesi\. Kapak: Semicenk
 
-77 songs - 3 hr 52 min
+78 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 | 2024-07-02 |  |
 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 | 2024-07-18 |  |
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 |  |
+| [Eriyorum Günden Güne](https://open.spotify.com/track/6Tv0qEIymHmFJT74WS52TO) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Eriyorum Günden Güne](https://open.spotify.com/album/07ZzbfU1xkU9d9r90jKV5N) | 2:32 | 2024-08-08 |  |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2024-07-02 | 2024-08-09 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-08 |  |
 | [Gidelim Mi Buralardan](https://open.spotify.com/track/2vsqjcIGoGK4opKEhVWqf0) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Gidelim Mi Buralardan](https://open.spotify.com/album/6J3syGa0knTEtQnndxxAfa) | 2:40 | 2024-08-01 |  |

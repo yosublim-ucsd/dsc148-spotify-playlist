@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: Justin Nozuka.",
+  "description": "Illuminating Asian artists everywhere.  Cover: NIKI",
   "name": "Jasmine",
   "tracks": [
     {
@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf"
+    },
+    {
+      "album": {
         "name": "Squeeze",
         "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
       },
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
@@ -2750,7 +2768,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170250,
       "name": "Cold Rain",
       "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-05",
+      "date_removed": null,
       "duration_ms": 169222,
       "name": "deadline",
       "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
@@ -3674,7 +3692,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161489,
       "name": "DND",
       "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
@@ -4033,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/79y56tQjNRUextz6CReVXg"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
+    },
+    {
+      "album": {
         "name": "L.O.L. (Lack Of Love)",
         "url": "https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP"
       },
@@ -4222,7 +4258,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 165578,
       "name": "east side",
       "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 202753,
       "name": "ENVY",
       "url": "https://open.spotify.com/track/4J26XKHYyaKqV95kqF1n3z"
@@ -5377,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "tiny but scary",
+        "url": "https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "girl talk",
+      "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
+    },
+    {
+      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -5576,7 +5630,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -7007,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "album": {
         "name": "i like red",
         "url": "https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj"
       },
@@ -7248,7 +7320,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151631,
       "name": "If I Weren't Me",
       "url": "https://open.spotify.com/track/0FAdft85l0fYbs8qHnMakf"
@@ -13072,7 +13144,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -14800,7 +14872,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 203333,
       "name": "Tragic Love",
       "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
@@ -15678,7 +15750,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161400,
       "name": "What (I Wish) He Said",
       "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
@@ -16674,7 +16746,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 168944,
       "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
       "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"

@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "What It Means",
+        "url": "https://open.spotify.com/album/402n12WlvkNWlGmIKoY9qg"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/5aspFFWrnfeQznONFnVwSs"
+    },
+    {
+      "album": {
         "name": "The Duke: The Columbia Years (1927-1962)",
         "url": "https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 254880,
       "name": "The Feeling is Mutual",
       "url": "https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ"

@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Apes",
+        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "MOR3L",
+          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "Apes",
+      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
+    },
+    {
+      "album": {
         "name": "Apocalyptic",
         "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
       },
@@ -6226,7 +6248,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"

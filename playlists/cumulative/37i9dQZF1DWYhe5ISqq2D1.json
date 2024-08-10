@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
@@ -2268,6 +2268,24 @@
       "duration_ms": 313018,
       "name": "\u5e78\u305b",
       "url": "https://open.spotify.com/track/2j2UcUqQtQU4egBQtlb9Ku"
+    },
+    {
+      "album": {
+        "name": "\u5f3e\u304d\u3053\u3082\u308a",
+        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "\u5f3e\u304d\u3053\u3082\u308a",
+      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "album": {

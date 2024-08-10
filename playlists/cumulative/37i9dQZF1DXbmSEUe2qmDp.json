@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 207810,
       "name": "A Saideira",
       "url": "https://open.spotify.com/track/1egSLQgg9a4wnVaeqefNcI"
@@ -454,6 +454,24 @@
       "duration_ms": 160442,
       "name": "Deixa Ela Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/2X6wELEYoNbrQgfeEZ2zo7"
+    },
+    {
+      "album": {
+        "name": "Deixa Eu Sofrer De Boa",
+        "url": "https://open.spotify.com/album/4ixG2u9U0Ew5Qe9fqVqViV"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Fabiano",
+          "url": "https://open.spotify.com/artist/2XsnXTymYm47yOXjQVhhEe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Deixa Eu Sofrer De Boa",
+      "url": "https://open.spotify.com/track/28lJX5eak7BtyB7nTughQU"
     },
     {
       "album": {
@@ -1079,7 +1097,7 @@
     },
     {
       "album": {
-        "name": "Ao Mo\u00e7ada, Ep. 3 (Ao Vivo)",
+        "name": "Ao Mo\u00e7ada, Ep. 3 - Ao Vivo",
         "url": "https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj"
       },
       "artists": [
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149907,
       "name": "Parara Na Cama",
       "url": "https://open.spotify.com/track/4Ur2FhIwwj66bBJo6GWyvj"
@@ -1658,6 +1676,24 @@
       "duration_ms": 192344,
       "name": "Sangue Do Meu Sangue",
       "url": "https://open.spotify.com/track/3HERLWOkNV6se2uqgA5ZcF"
+    },
+    {
+      "album": {
+        "name": "Saudade Em Pessoa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hWHAXLqGRvHlr453nVn14"
+      },
+      "artists": [
+        {
+          "name": "Thiago & Luan",
+          "url": "https://open.spotify.com/artist/7hYCXpI5WIklTdgycvPvqL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186694,
+      "name": "Saudade Em Pessoa - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EVOE4wwk4Rhxn0IPUmvzF"
     },
     {
       "album": {
@@ -2088,10 +2124,36 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 177321,
       "name": "Vai Trouxa",
       "url": "https://open.spotify.com/track/7Hf1Ur1IvhvikKB7SWZaBX"
+    },
+    {
+      "album": {
+        "name": "Vestidinho",
+        "url": "https://open.spotify.com/album/0QxOwhzQbjVjO539CozlzQ"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Guilherme e Manuel",
+          "url": "https://open.spotify.com/artist/6yyVcN4nXYQZ0RdtQ5A8qj"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180568,
+      "name": "Vestidinho",
+      "url": "https://open.spotify.com/track/1wzG9CS0wqQyk5mcQa5sfk"
     },
     {
       "album": {

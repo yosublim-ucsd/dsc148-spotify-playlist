@@ -1,15 +1,43 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=n9niGeSvRG-eXg1eKDeCmA\">Lwah Ndlunkulu</a>",
-  "num_followers": 96025,
+  "num_followers": 96197,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVN8AAAAACHMXLUlQJuUurMFAmT+NZx",
+  "snapshot_id": "ZrYFswAAAADMKkzqPgZVxcGEdiXbqlqx",
   "tracks": [
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
+      "album": {
+        "name": "Sewe",
+        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "Marvin",
+          "url": "https://open.spotify.com/artist/4Sl8uhH3xQllSvZkGPwS7q"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "duration_ms": 512133,
+      "name": "Jazz Cruise (feat. Stixx, Marvin & Mano)",
+      "url": "https://open.spotify.com/track/7EBTzgOtiXTP4n2kPMqChQ"
+    },
+    {
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
@@ -29,7 +57,7 @@
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Mfazi Wephepha (feat. Big Zulu & Zee Nxumalo)",
         "url": "https://open.spotify.com/album/5Kran9NY7wMiY5yesurl9R"
@@ -61,7 +89,7 @@
       "url": "https://open.spotify.com/track/64e1w4LMyXcTLCFzR3xCRX"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "TOUCHED THE SKY - DBN GOGO & EFFECTED VS DENNIS FERRER (FEAT. TRIPLE X DA GHOST & MIA TUTTAVILLA)",
         "url": "https://open.spotify.com/album/5oXNz89icxTwoUUtrkUVuY"
@@ -93,7 +121,7 @@
       "url": "https://open.spotify.com/track/5fdTC0zQNb1pLg3tmobQ9t"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "96 Months",
         "url": "https://open.spotify.com/album/5uRY0boZn48gDio0ASlgI0"
@@ -113,7 +141,7 @@
       "url": "https://open.spotify.com/track/6RcMkoRbHc6HnMHngvY2Vs"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Imizwa (Deluxe)",
         "url": "https://open.spotify.com/album/5mJhoq11913yswsdXb2pw6"
@@ -129,7 +157,7 @@
       "url": "https://open.spotify.com/track/1bYkv9xxwNc6N6HNBPJtRx"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Abashwe",
         "url": "https://open.spotify.com/album/3SdBgHMbJjuRqaYQr3QsiU"
@@ -153,7 +181,7 @@
       "url": "https://open.spotify.com/track/1N0QB1WrFVPr4RHuFrs06A"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "MaDlamini (feat. Mellow & Sleazy)",
         "url": "https://open.spotify.com/album/2OdKyGAB2YJBWXDM9KN8eT"
@@ -177,7 +205,23 @@
       "url": "https://open.spotify.com/track/0X5qaCnHN98ELiqincjJwg"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
+      "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+    },
+    {
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
@@ -193,7 +237,7 @@
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
@@ -213,7 +257,7 @@
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "LIFETIMES",
         "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
@@ -229,7 +273,7 @@
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/3Bwzs6SDunJEWC1JdXkxhc"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/5carg1RIrJg9T8Wv0fP68Z"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Gamelihle",
         "url": "https://open.spotify.com/album/1mEob6qT4ylEYd4EFM5Hx7"
@@ -269,7 +313,7 @@
       "url": "https://open.spotify.com/track/0hgODswHTHViawAw8HSGjI"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "John Wayne (feat. Metro Boomin)",
         "url": "https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx"
@@ -289,7 +333,23 @@
       "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Favourite Girl (with Rema)",
         "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
@@ -309,7 +369,7 @@
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "The Grass is Greener",
         "url": "https://open.spotify.com/album/2aKHNIc1gm1i7EnRhakcUB"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/033dSEgRQDdG3MTNarsz29"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Nia Lo",
         "url": "https://open.spotify.com/album/0Tsk3OWxzsOSpkGC2ONdBB"
@@ -349,7 +409,23 @@
       "url": "https://open.spotify.com/track/4gAhBZObn48tUZr1v0elzy"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
+      "album": {
+        "name": "Fuk You Mean",
+        "url": "https://open.spotify.com/album/7Jid01RSLUg5VscJB2nGd8"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Fuk You Mean",
+      "url": "https://open.spotify.com/track/7LORHC77uHgfpmCTzlP3Hw"
+    },
+    {
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Dlala Ntwana (feat. Ohp Sage & Ice Beats Slide)",
         "url": "https://open.spotify.com/album/5RVxkTcAR2qc9yndhMraYq"
@@ -377,7 +453,7 @@
       "url": "https://open.spotify.com/track/7y9U55W6Hl60a8jKMm5r7w"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Baby Who?",
         "url": "https://open.spotify.com/album/5c4IcRiwKRParTZJc6NiNx"
@@ -413,7 +489,7 @@
       "url": "https://open.spotify.com/track/6wZH02Ti2ThPQRZUH6AiVo"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
@@ -433,7 +509,7 @@
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Peaceful Place",
         "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
@@ -449,7 +525,7 @@
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Moya Munye",
         "url": "https://open.spotify.com/album/6c04CNmaXZ0e1WNm3ljodH"
@@ -469,7 +545,7 @@
       "url": "https://open.spotify.com/track/2IkvST96A40LpVXb485B0O"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Mfana",
         "url": "https://open.spotify.com/album/0L8hV1ujgZYS6uy3kyrAa3"
@@ -489,7 +565,23 @@
       "url": "https://open.spotify.com/track/3LzrerbkyqE1Xv1OWYpZU1"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
+      "album": {
+        "name": "Slow Rush",
+        "url": "https://open.spotify.com/album/40GCnZ1p60c3l1YjOTPB83"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Slow Rush",
+      "url": "https://open.spotify.com/track/33cBueBQrnRbMUWfa8Zjw6"
+    },
+    {
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Proclivities (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0N13HBBuSoxEauKqk90tqe"
@@ -509,7 +601,7 @@
       "url": "https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
@@ -529,7 +621,7 @@
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Kerkmeisie Kyla (Ratata)",
         "url": "https://open.spotify.com/album/73r1zi7qJcdJnXxe0hGJTV"
@@ -549,7 +641,7 @@
       "url": "https://open.spotify.com/track/4oli8424EYWhYlUxF9iYbi"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Tittewyt",
         "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
@@ -573,7 +665,7 @@
       "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Rest (with Sasha Alex Sloan)",
         "url": "https://open.spotify.com/album/2tlpX0RIhdCE9nb1nlXFjW"
@@ -593,7 +685,7 @@
       "url": "https://open.spotify.com/track/0eUoazaVUu4Y83USuUTz7P"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "ICONIC.",
         "url": "https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz"
@@ -609,7 +701,7 @@
       "url": "https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "On The Way (From \"Losing Lerato 2\")",
         "url": "https://open.spotify.com/album/19Df6qRhvc2NrL4wTZGjUr"
@@ -625,7 +717,7 @@
       "url": "https://open.spotify.com/track/6T3WbeRCFPgt87G4tObMMc"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "BANDITOS",
         "url": "https://open.spotify.com/album/5xiqrVDSfipSAwShfSfVEK"
@@ -645,7 +737,7 @@
       "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "BROKE",
         "url": "https://open.spotify.com/album/7cl1SBT5UfCAlxIqbjGhm6"
@@ -661,7 +753,7 @@
       "url": "https://open.spotify.com/track/7ttN8WgLAZ3BSvZUaqBoJW"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Ubusha Bethu (feat. Philharmonic, Mpho Spizzy, Tracy & Joeleene)",
         "url": "https://open.spotify.com/album/2msSCDqkxPiIAAhNkdr7kO"
@@ -701,7 +793,7 @@
       "url": "https://open.spotify.com/track/6WPdXtrMhjctHnaRQFdR0B"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "sunsets",
         "url": "https://open.spotify.com/album/1cYkWCj8fKozpflR6TSypg"
@@ -717,7 +809,7 @@
       "url": "https://open.spotify.com/track/7Cqjt0ObvdBrzHMs08Tdyz"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/2ZtB2MwrBeH3tkHFQq6lnX"
@@ -733,7 +825,7 @@
       "url": "https://open.spotify.com/track/4xFSchyxIzNeNc2d3dWE4i"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Ukukhanya (feat. Starr Healer & Yarah Lerah)",
         "url": "https://open.spotify.com/album/2icN1s0hvQxrxozCHHhsfY"
@@ -757,7 +849,7 @@
       "url": "https://open.spotify.com/track/4aEzPYhEPPSUnSL1xlSInt"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
@@ -777,7 +869,7 @@
       "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Kuyashintsha (feat. Fortunator & Dj Gun-Do SA)",
         "url": "https://open.spotify.com/album/1wChLEIwkzU4dIF96ve2Wf"
@@ -801,7 +893,7 @@
       "url": "https://open.spotify.com/track/3pPO1zDjRJp7VL4RrHgyrX"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "iThuba",
         "url": "https://open.spotify.com/album/6t2PHbC0aMQ1jMhCtKzS6Q"
@@ -829,7 +921,7 @@
       "url": "https://open.spotify.com/track/7GJEc3iitv356nMjz3PVgE"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Mbali (Jonathan Kaspar Remix)",
         "url": "https://open.spotify.com/album/5toNoAoOq1ytrrqFuzEyhE"
@@ -849,7 +941,7 @@
       "url": "https://open.spotify.com/track/4CZNzgXEoSQV0xxXfbSOfi"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "The Music City EP",
         "url": "https://open.spotify.com/album/5XUN3sZEf92LgevyIX3LBq"
@@ -869,7 +961,7 @@
       "url": "https://open.spotify.com/track/6O26rqSzUcwCxUWr8aiFcU"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Lento Yethu",
         "url": "https://open.spotify.com/album/4tYEiiTUmWGh6MhUAUfgLE"
@@ -885,7 +977,7 @@
       "url": "https://open.spotify.com/track/1ht5NwQ2h7FVY69JyvaJ5j"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Amanzi eWolinji",
         "url": "https://open.spotify.com/album/7E1Jm9hY9GJzNvo1TgzyNl"
@@ -901,7 +993,7 @@
       "url": "https://open.spotify.com/track/0FcIz5OnMNAXbc6Mp245LX"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Ngamkele",
         "url": "https://open.spotify.com/album/4cjVdwJFpYMChkHsiVV59B"
@@ -921,7 +1013,7 @@
       "url": "https://open.spotify.com/track/00UTordTB91LgEUhkN0bcg"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Gift Shop (feat. Kali Freshmen)",
         "url": "https://open.spotify.com/album/7mC6XDsNk97US4CyGdagTU"
@@ -941,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7HklM5YSwYv7revRpLaInp"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "BAFANA BA PITORI",
         "url": "https://open.spotify.com/album/3bU0UTFEFHeAii9EPwrxeL"
@@ -973,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3MlonvmYYrY2vSRLoowiVi"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "NO VISA",
         "url": "https://open.spotify.com/album/0ygy6hxkbX7NdTDI23aBmH"
@@ -997,7 +1089,7 @@
       "url": "https://open.spotify.com/track/5uPdyodJfDjBkKVHs5lVkA"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Seeking Shakti",
         "url": "https://open.spotify.com/album/6cT9scZHzl6wvsXnaLVOPx"
@@ -1021,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5AOusgh8TV2rCtme25L5q9"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Stap",
         "url": "https://open.spotify.com/album/5AyvdNz0yg11vKOhlqyLcB"
@@ -1045,7 +1137,7 @@
       "url": "https://open.spotify.com/track/0yZ9tBr1NPKLsgcEQBq6GE"
     },
     {
-      "added_at": "2024-08-08 23:00:00",
+      "added_at": "2024-08-09 12:04:03",
       "album": {
         "name": "Hot Spot (feat. Flowing Keys & LuE)",
         "url": "https://open.spotify.com/album/2ZcoEJ62BslpDVMZxZGDe8"

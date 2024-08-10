@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: 鄧小巧
 
-351 songs - 21 hr 9 min
+352 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [一個傻瓜一個啞 \- Moment remix](https://open.spotify.com/track/2VvyUlfarVDRCNACd8U6EI) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [一個傻瓜一個啞 \(Moment remix\)](https://open.spotify.com/album/5SDjzln631SF2J26vBiYzq) | 3:33 | 2024-06-27 |  |
 | [一念天堂，二人結界](https://open.spotify.com/track/6HTkrptDYm8zNAfvM0W9aI) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [一念天堂，二人結界](https://open.spotify.com/album/1YqyKe6cqbf2FIzy01Reay) | 4:05 | 2024-07-11 |  |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2024-06-27 |  |
+| [一直留在心底的事](https://open.spotify.com/track/51xGwzEhYUiuhJnigThWs4) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [一直留在心底的事](https://open.spotify.com/album/25IsRgCumMs7Ch9KOpkMzb) | 3:51 | 2024-08-08 |  |
 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 | 2024-06-27 |  |
 | [三人之境](https://open.spotify.com/track/6A7w1iRnVhtD4BJJcXqbTz) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [三人之境](https://open.spotify.com/album/2srLj2cAbXMvsPwM1SOvgK) | 3:38 | 2024-06-27 |  |
 | [上載中](https://open.spotify.com/track/0B8WoUBod351rAw8zzgANQ) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [上載中](https://open.spotify.com/album/6ancWREeaAWceAyHlGIsDs) | 3:21 | 2024-06-27 |  |

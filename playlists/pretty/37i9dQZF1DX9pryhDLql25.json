@@ -1,6 +1,6 @@
 {
   "description": "fresh produce, reusable totes, iced coffee, & all the lovely spring things",
-  "num_followers": 234889,
+  "num_followers": 234884,
   "original_name": "Farmers Market",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 232917,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "If You Can Believe Your Eyes & Ears",
         "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 162373,
       "name": "California Dreamin' - Single Version",
       "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
     },
     {
       "added_at": "2024-07-05 21:41:13",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2024-07-05 21:41:13",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Cardinal",
+      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-07-05 21:41:13",
+      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 217613,
       "name": "Nellie",
       "url": "https://open.spotify.com/track/1aRvUHgMe9ichgcHAAs12f"
-    },
-    {
-      "added_at": "2024-07-05 21:41:13",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-07-05 21:41:13",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-07-05 21:41:13",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
       "artists": [
         {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 240586,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+      "duration_ms": 230786,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
     }
   ],
   "unique_name": "Farmers Market",

@@ -2307,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "CIEGO SORDO MUDO",
+        "url": "https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196477,
+      "name": "CIEGO SORDO MUDO",
+      "url": "https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h"
+    },
+    {
+      "album": {
         "name": "cielo dorado",
         "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
       },
@@ -12239,6 +12261,24 @@
     },
     {
       "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
+    },
+    {
+      "album": {
         "name": "sin distraccion",
         "url": "https://open.spotify.com/album/6tZr8Y2iRffoLtWxUF0EXG"
       },
@@ -12358,7 +12398,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 240000,
       "name": "SINSE",
       "url": "https://open.spotify.com/track/3QelZsJDgk5KEjoSj0YQNK"
@@ -12568,7 +12608,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 232758,
       "name": "SOLA CON LA LUNA",
       "url": "https://open.spotify.com/track/6mz49W2hyCbQ3eTkTEWyOZ"

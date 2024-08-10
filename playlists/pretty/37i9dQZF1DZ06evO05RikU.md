@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,099 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,104 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 43 | [Pregunta Loca](https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:46 |
 | 44 | [Solo Yo](https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Solo Yo](https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z) | 4:08 |
 | 45 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
-| 46 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 |
-| 47 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 |
+| 46 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 |
+| 47 | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never Let You Go \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V) | 2:42 |
 | 48 | [A Tu Manera \[CORBATA\]](https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [A Tu Manera \[CORBATA\]](https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB) | 2:54 |
 | 49 | [TICK TOCK](https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [TICK TOCK](https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb) | 2:51 |
 | 50 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
 | 51 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 
-Snapshot ID: `ZrK5AAAAAAD7pHaGgHsAFDBipyno+UgQ`
+Snapshot ID: `ZrQKgAAAAAAymCzSbarj+vPSCvUsRd/M`

@@ -3645,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Faster",
+        "url": "https://open.spotify.com/album/69o16Vym82Dy5YREmeht1U"
+      },
+      "artists": [
+        {
+          "name": "Tobu",
+          "url": "https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "Faster",
+      "url": "https://open.spotify.com/track/14IblDOnC45Iu0Ad9Qc5M7"
+    },
+    {
+      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/4qoActIgfsN38oC0qCL1x5"
       },

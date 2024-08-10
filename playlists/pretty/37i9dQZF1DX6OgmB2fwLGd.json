@@ -1,13 +1,29 @@
 {
   "description": "Dave Blunts. Born and raised on the internet.",
-  "num_followers": 1394620,
+  "num_followers": 1394600,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrPABAAAAABe8k56a4t4HdyNAoySynve",
+  "snapshot_id": "ZrZTdgAAAADvUvbMrXR5hx9VZLrpbEuC",
   "tracks": [
+    {
+      "added_at": "2024-08-09 05:00:00",
+      "album": {
+        "name": "Bundle Of Sticks",
+        "url": "https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Bundle Of Sticks",
+      "url": "https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr"
+    },
     {
       "added_at": "2024-08-04 18:16:00",
       "album": {
@@ -117,6 +133,22 @@
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
+      "added_at": "2024-08-09 17:35:50",
+      "album": {
+        "name": "sassup witcha",
+        "url": "https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o"
+      },
+      "artists": [
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "duration_ms": 81883,
+      "name": "sassup witcha",
+      "url": "https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0"
+    },
+    {
       "added_at": "2024-08-04 18:16:00",
       "album": {
         "name": "Escape",
@@ -133,20 +165,24 @@
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
     },
     {
-      "added_at": "2024-07-30 12:53:05",
+      "added_at": "2024-08-09 17:35:12",
       "album": {
-        "name": "Well Dude Here's My Thing",
-        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
+        "name": "B.U.G. Antman \"On The Radar\" Freestyle",
+        "url": "https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz"
       },
       "artists": [
         {
-          "name": "Dave Blunts",
-          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "B.U.G. Antman",
+          "url": "https://open.spotify.com/artist/18aBzZYx4zSv49YslV76AX"
         }
       ],
-      "duration_ms": 79568,
-      "name": "Talking To The Sun",
-      "url": "https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR"
+      "duration_ms": 138059,
+      "name": "B.U.G. Antman \"On The Radar\" Freestyle",
+      "url": "https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V"
     },
     {
       "added_at": "2024-08-04 18:16:00",
@@ -187,6 +223,22 @@
       "duration_ms": 143994,
       "name": "THE BADDEST (BADDER) [feat. Ayesha Erotica]",
       "url": "https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk"
+    },
+    {
+      "added_at": "2024-07-30 12:53:05",
+      "album": {
+        "name": "Well Dude Here's My Thing",
+        "url": "https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "duration_ms": 79568,
+      "name": "Talking To The Sun",
+      "url": "https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR"
     },
     {
       "added_at": "2024-08-04 18:16:00",
@@ -411,6 +463,22 @@
       "duration_ms": 108571,
       "name": "Life So Crazy",
       "url": "https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt"
+    },
+    {
+      "added_at": "2024-08-09 17:35:12",
+      "album": {
+        "name": "11th Dimension",
+        "url": "https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 101379,
+      "name": "Him Jung Un",
+      "url": "https://open.spotify.com/track/09I6obARojExYIVWZt0kyR"
     },
     {
       "added_at": "2024-07-31 16:40:02",
@@ -1261,22 +1329,6 @@
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "SAFE TRAVELS",
-        "url": "https://open.spotify.com/album/0FnF5dZOxKeGOY1X0aIPf7"
-      },
-      "artists": [
-        {
-          "name": "untiljapan",
-          "url": "https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "KISS N TELL",
-      "url": "https://open.spotify.com/track/7L8DudXuXHqqzD2q9LuQ2n"
-    },
-    {
       "added_at": "2024-04-24 18:33:43",
       "album": {
         "name": "Cold Visions",
@@ -1507,22 +1559,6 @@
       "duration_ms": 64614,
       "name": "40",
       "url": "https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Blue Devils",
-        "url": "https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy"
-      },
-      "artists": [
-        {
-          "name": "Trap Dickey",
-          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
-        }
-      ],
-      "duration_ms": 129925,
-      "name": "Blue Devils",
-      "url": "https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG"
     },
     {
       "added_at": "2024-04-12 04:00:00",

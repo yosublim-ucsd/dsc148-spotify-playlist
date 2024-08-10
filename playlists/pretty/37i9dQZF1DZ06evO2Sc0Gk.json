@@ -1,12 +1,12 @@
 {
-  "description": "This is Mr Eazi. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19388,
+  "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
+  "num_followers": 19395,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAAAIe/cNabrhrRnGrpP6p2/P",
+  "snapshot_id": "ZrQKgAAAAAAIIVCbRWSKzMKbFUEGONnf",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -651,46 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ohema (feat. Mr Eazi)",
-        "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Ohema (feat. Mr Eazi)",
-      "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tall Shade",
         "url": "https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 179750,
       "name": "Tall Shade",
       "url": "https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohema (feat. Mr Eazi)",
+        "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Ohema (feat. Mr Eazi)",
+      "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Property",
+      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollup",
         "url": "https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 260702,
       "name": "Hollup",
       "url": "https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mo-T",
-          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Property",
-      "url": "https://open.spotify.com/track/5hiegqyy2caIt1A0p0db5A"
     },
     {
       "added_at": null,
@@ -907,30 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
-        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
-      },
-      "artists": [
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 194819,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chop Life, Vol. 1: Mzansi Chronicles",
+        "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
+      },
+      "artists": [
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "duration_ms": 194819,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn"
     },
     {
       "added_at": null,

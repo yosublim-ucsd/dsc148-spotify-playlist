@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-87 songs - 4 hr 19 min
+88 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
-| [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 |  |
+| [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-10 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 |  |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-15 |  |
@@ -49,6 +49,7 @@
 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 | 2024-06-27 |  |
 | [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2024-06-27 |  |
 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 | 2024-06-27 |  |
+| [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-09 |  |
 | [i'm sry i love u](https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [i'm sry i love u](https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm) | 3:15 | 2024-07-04 |  |
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 |  |
@@ -71,7 +72,7 @@
 | [rabbit holes](https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [rabbit holes](https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE) | 3:36 | 2024-06-27 |  |
 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 | 2024-06-27 |  |
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 | 2024-07-23 |
-| [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 |  |
+| [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 |  |
@@ -94,6 +95,6 @@
 | [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 |  |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 |  |
-| [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-08-09 |
+| [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

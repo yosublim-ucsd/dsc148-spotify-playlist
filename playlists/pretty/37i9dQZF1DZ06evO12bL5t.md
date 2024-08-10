@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,743 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,787 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 20 | [Historia De Los Barrios](https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:38 |
 | 21 | [Lo Que Pudo Ser](https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:33 |
 | 22 | [Con la Bola](https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:27 |
-| 23 | [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 |
-| 24 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
-| 25 | [Francotirador](https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:11 |
-| 26 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 |
+| 23 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
+| 24 | [LC Farmz](https://open.spotify.com/track/7yTBJsvM1cM1uQ4pkrrPGr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [LC Farmz](https://open.spotify.com/album/3g0RbWxKKblUCqujoPGCas) | 2:44 |
+| 25 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 |
+| 26 | [Francotirador](https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:11 |
 | 27 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 |
 | 28 | [Payonazo](https://open.spotify.com/track/0ZJ1fc3DkuUwrgqriASaSR) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 3:08 |
 | 29 | [Siempre Activo \- En Vivo](https://open.spotify.com/track/6mdGBWH1EZxW3cN2yj737v) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:07 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 32 | [A Lo Mejor](https://open.spotify.com/track/3MabVV3VuTSsYSLwRatx9g) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 4:22 |
 | 33 | [Soy El Jefe](https://open.spotify.com/track/6KzMQ0dcR1OqJ1EziYDQuh) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:33 |
 | 34 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 |
-| 35 | [Casino](https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:01 |
-| 36 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
+| 35 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
+| 36 | [Casino](https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:01 |
 | 37 | [Platinum Frenchies](https://open.spotify.com/track/6j2X79t3RnzZwz9RTiIDr7) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 2:52 |
 | 38 | [Chequen Los Datos](https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:06 |
 | 39 | [Sin Tu Amor](https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:18 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 50 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
 | 51 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
 
-Snapshot ID: `ZrK5AAAAAAA1XHFTqSJnzCQsTwbQfubf`
+Snapshot ID: `ZrQKgAAAAACWBgNcSD6ho/etqqR0tqot`

@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "album": {
         "name": "A Igreja Vai Rompendo",
         "url": "https://open.spotify.com/album/1t27h2udoKp1zAmS4HBTFe"
       },
@@ -1819,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Infinitamente Mais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375041,
+      "name": "Infinitamente Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS"
+    },
+    {
+      "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/41ZgEI0zgu6729X0uGtRxc"
       },
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 265183,
       "name": "No Sil\u00eancio - Ao vivo",
       "url": "https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP"
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 352396,
       "name": "Por Causa Dele - Ao Vivo",
       "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"

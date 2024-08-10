@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Titãs
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: NXZero
 
-495 songs - 1 day 3 hr 40 min
+498 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Alerta](https://open.spotify.com/track/4lnTk0oPt5GLSzwrs1mjAX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Alerta](https://open.spotify.com/album/60BEBdhWozkZlmna9QmwZS) | 3:20 | 2022-09-09 | 2022-10-01 |
 | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/track/26gLVXEUbA4ZjVIVadRQ4m) | [Cefa](https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU) | [ALGUÉM ME TIRA DAQUI!](https://open.spotify.com/album/4unIawkvUq6wJSlRRQqgdf) | 3:42 | 2023-01-27 | 2023-04-01 |
 | [Além das Fronteiras](https://open.spotify.com/track/66QiW1jFEDBVlT2ZOHMt2C) | [Luneta Mágica](https://open.spotify.com/artist/3RgGX0nM3dYpQgkBehgjMl) | [No Paiz das Amazonas](https://open.spotify.com/album/13IzBp3bHJcpF0Eh1cA33g) | 4:21 | 2022-03-18 | 2022-05-14 |
-| [Alívio Imediato](https://open.spotify.com/track/1GF4riVRxRKiurhO1S7NvF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/67rjiIJmUuG6WbCIBvEqQG) | 3:14 | 2024-04-19 |  |
+| [Alívio Imediato](https://open.spotify.com/track/1GF4riVRxRKiurhO1S7NvF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/67rjiIJmUuG6WbCIBvEqQG) | 3:14 | 2024-04-19 | 2024-08-10 |
 | [Amor Crazy](https://open.spotify.com/track/1IrycH2mqyBvpLKBRYpaBw) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Amor Crazy](https://open.spotify.com/album/6y6xzCuGIaUglvlKWeuVw7) | 3:01 | 2022-01-14 | 2022-07-02 |
 | [Andando de SK8](https://open.spotify.com/track/2J8hc2jstcvn7yH3fbvOEb) | [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Andando de SK8](https://open.spotify.com/album/5xHLWqJjt6svcBPyvvXfl1) | 2:40 | 2022-04-08 | 2022-09-03 |
 | [Anestesiado](https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [Anestesiado](https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ) | 2:54 | 2022-05-13 | 2023-01-28 |
@@ -60,7 +60,7 @@
 | [Avenida Maruípe](https://open.spotify.com/track/5oV6CZy572puAUE31ic6cI) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Labirinto da Memória](https://open.spotify.com/album/3ojbSAA93Lx3Qdluf14is5) | 3:46 | 2024-01-12 | 2024-03-23 |
 | [Baby Doll](https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [Baby Doll](https://open.spotify.com/album/0FbgpvCJvyBdUWfqVHI4Xf) | 2:48 | 2022-01-14 | 2022-01-22 |
 | [Bate Panela](https://open.spotify.com/track/13OJMd3V0nnIbm3R3fTpUd) | [Canto Cego](https://open.spotify.com/artist/6QTbpmAmWmgLk7O1cZlXin), [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ) | [Bate Panela](https://open.spotify.com/album/69Nz7QQzQDs1crUYiXMsAs) | 3:00 | 2022-11-11 | 2023-01-21 |
-| [Be My Baby](https://open.spotify.com/track/69CkhPFeQ0AtCiAcCCUoSD) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Be My Baby](https://open.spotify.com/album/2IYfkuMtLbbH3cUU9oaZkv) | 2:22 | 2024-07-12 |  |
+| [Be My Baby](https://open.spotify.com/track/69CkhPFeQ0AtCiAcCCUoSD) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Be My Baby](https://open.spotify.com/album/2IYfkuMtLbbH3cUU9oaZkv) | 2:22 | 2024-07-12 | 2024-08-10 |
 | [Bem Acompanhada](https://open.spotify.com/track/7FLA5HH8TKp8MIwkJJ6tdg) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Tati Quebra Barraco](https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts) | [Bem Acompanhada](https://open.spotify.com/album/1BATwZiFwFEX89v1lc7NmA) | 3:08 | 2022-09-17 | 2022-10-29 |
 | [Bem Mais Perto do Céu](https://open.spotify.com/track/58HEh6Eyq01mPoiV84NhVC) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Bem Mais Perto do Céu](https://open.spotify.com/album/3fIRoT59Ag2XM26UkXh4aH) | 3:22 | 2023-04-14 | 2023-07-29 |
 | [Berrini](https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV) | [Molho Negro](https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR) | [Berrini](https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N) | 3:09 | 2022-07-29 | 2023-11-11 |
@@ -229,6 +229,7 @@
 | [Lados Opostos](https://open.spotify.com/track/3sAuy4oIB54SODMMFjOFEi) | [Pavilhão 9](https://open.spotify.com/artist/5QTksGpRsgrYaFe1Gnf2AH) | [Lados Opostos](https://open.spotify.com/album/2uz2VZnNWo6DvVWprGkg3U) | 2:57 | 2022-09-23 | 2022-11-26 |
 | [Laura](https://open.spotify.com/track/0mVzzMNdJfTQA4WSOt0Zlb) | [Taigo](https://open.spotify.com/artist/0mS8emPKSszolKVZVR9fO8) | [Laura](https://open.spotify.com/album/5Pg8NItOkY9qaW0nDqca40) | 4:03 | 2022-01-14 | 2022-05-20 |
 | [Letargia](https://open.spotify.com/track/3mHsHbu0pBObm4PIO2etwK) | [Deb and The Mentals](https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf) | [Letargia](https://open.spotify.com/album/3VXvMsoLDtXaGsq4JcwRlR) | 3:16 | 2022-01-14 | 2022-11-12 |
+| [Ligação \- Ao Vivo](https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Ligação \(Ao Vivo\)](https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq) | 4:32 | 2024-08-09 |  |
 | [Linhas Tortas](https://open.spotify.com/track/1qjYklU5mEi4HEsTZ76hJ5) | [Rima Livre](https://open.spotify.com/artist/7n46rJt7U9xXm5bZ9siy6h), [Gus Nascimento](https://open.spotify.com/artist/2WeX0MjSzcLnqnZbbskV9q) | [Linhas Tortas](https://open.spotify.com/album/19R6WFL5S185IDKDVFBBqh) | 3:03 | 2022-01-14 | 2022-09-24 |
 | [Little Lies](https://open.spotify.com/track/6MNKLJJbFmSD5eIZ6tyTOB) | [Vinyl Laranja](https://open.spotify.com/artist/1LvWAKQ20drCAtoMXmbl71) | [Little Lies](https://open.spotify.com/album/3ito4x3nxnkTns1IEznIAN) | 3:39 | 2022-06-10 | 2022-09-18 |
 | [Livre](https://open.spotify.com/track/2fKFoftNXdH6FWoYjEacx0) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Livre](https://open.spotify.com/album/0MtqyLCGMLmj5tNQaNniWo) | 3:08 | 2024-03-15 | 2024-05-11 |
@@ -381,7 +382,7 @@
 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 | 2022-01-14 | 2023-03-11 |
 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 | 2022-01-14 | 2022-09-18 |
 | [Quase Perfeito](https://open.spotify.com/track/6uoeSnJvGJuLWaC5z1eG4X) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Quase Perfeito](https://open.spotify.com/album/03mhwPYhBSC24PVjOQEvuF) | 2:43 | 2022-06-24 | 2022-07-06 |
-| [Que Língua Falo Eu](https://open.spotify.com/track/2kQPQGayBHqN4Vf83fRYiV) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Acústico Lobão \(Deluxe\)](https://open.spotify.com/album/5QqrIMQ4D52VLMP7pYBs2G) | 3:06 | 2024-07-19 |  |
+| [Que Língua Falo Eu](https://open.spotify.com/track/2kQPQGayBHqN4Vf83fRYiV) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Acústico Lobão \(Deluxe\)](https://open.spotify.com/album/5QqrIMQ4D52VLMP7pYBs2G) | 3:06 | 2024-07-19 | 2024-08-10 |
 | [Que Onda \- Ao Vivo](https://open.spotify.com/track/2L34UvNfywi6Mqhr7RdwFw) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Essa Pele Marcada 1 \(Ao Vivo\)](https://open.spotify.com/album/7ifnWoZvptdA7UhwHr3lcu) | 4:25 | 2022-11-11 | 2023-04-29 |
 | [Queda Livre](https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt\. 2](https://open.spotify.com/album/6o0zg6G1XY9KqwyTPmZCsV) | 3:40 | 2022-07-08 | 2022-09-03 |
 | [Queima!](https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY) | [Inocentes](https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2) | [Queima!](https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h) | 2:30 | 2022-07-29 | 2022-08-02 |
@@ -433,6 +434,7 @@
 | [Supla Zombie](https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla Zombie](https://open.spotify.com/album/2eVJMjdV7HAYhmrdvNIHZY) | 2:34 | 2022-11-18 | 2022-11-26 |
 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 | 2022-01-21 | 2023-04-22 |
 | [sussurro](https://open.spotify.com/track/2duAOylqzXoGG7jCoiAQAE) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [sussurro](https://open.spotify.com/album/7z64AGT9ArbmI8VCwSMoG2) | 2:40 | 2022-10-28 | 2022-11-12 |
+| [SÍNDROME](https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDROME](https://open.spotify.com/album/6JT8tYN9ARTzeSkHyLbe8y) | 3:03 | 2024-08-09 |  |
 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 | 2022-07-01 | 2023-02-11 |
 | [Só Mais Essa Noite](https://open.spotify.com/track/7KI90ezWkHeTmhQ8qZWb8x) | [Hevo 84](https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG) | [Só Mais Essa Noite](https://open.spotify.com/album/0lbFykuNne4AWnWmNiLsHK) | 3:05 | 2023-04-28 | 2024-07-19 |
 | [Só Rezo \- Ao Vivo](https://open.spotify.com/track/2Iq5ySiuuWu8E00Pee22Rb) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Só Rezo \(Ao Vivo\)](https://open.spotify.com/album/5XiMlXl3eURkSVUdxydgwB) | 3:40 | 2024-07-12 |  |
@@ -449,6 +451,7 @@
 | [Temporal](https://open.spotify.com/track/6UONgsITLnZIHzZEuuPVo0) | [Dkukas](https://open.spotify.com/artist/2QfmJhZmW6Z9m1hIryoAT5) | [Temporal](https://open.spotify.com/album/3HSvPoG3igvbQ4qOTmUIK7) | 2:23 | 2022-09-30 | 2022-10-22 |
 | [Tenho](https://open.spotify.com/track/2hsIagU1eyyvJ4clxjn0BX) | [João Gordo](https://open.spotify.com/artist/7aoHAC7aGNfSiDCIHxRO84) | [Tenho](https://open.spotify.com/album/61IbbRFO2Y1aB2qHkRZS9O) | 2:17 | 2022-08-05 | 2022-08-13 |
 | [Teoria](https://open.spotify.com/track/5ZzUvhcOhtN4tZNoipJ7WW) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Teoria](https://open.spotify.com/album/3QrGBgooYRaA0XYQQJH1Yf) | 1:53 | 2024-03-08 |  |
+| [Teu Sangue](https://open.spotify.com/track/2Qh8h9ulpgaoBpKslweA75) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Teu Sangue](https://open.spotify.com/album/5Z1N7u5zetgCctRkRqwSPW) | 3:16 | 2024-08-09 |  |
 | [The Pretender](https://open.spotify.com/track/4BCaOIprZimDnp4EYbH4Th) | [Nordex](https://open.spotify.com/artist/1pgvtOneo1dhcIp9An2xnC) | [The Pretender](https://open.spotify.com/album/5yWFXP10H3JZ27grcXe4DQ) | 4:28 | 2022-04-15 | 2022-07-02 |
 | [They Wanna Turn Me into a Politician](https://open.spotify.com/track/2GZOCsPD74NaqNOnfMLjfk) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [They Wanna Turn Me into a Politician](https://open.spotify.com/album/00norKuCaNr7z3yNLDS2Ln) | 1:56 | 2022-05-20 | 2022-05-28 |
 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 | 2023-07-21 |  |

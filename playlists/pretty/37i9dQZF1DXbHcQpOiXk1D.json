@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: berlioz",
-  "num_followers": 314793,
+  "num_followers": 314838,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -203,42 +203,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Ajala",
-        "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Ajala - Single Edit",
-      "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/23WJPRbfvQ5bSi0l7kPJpJ"
       },
@@ -259,6 +223,42 @@
       "duration_ms": 133769,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/7HIjoaiILq0lCGzFtd2lFK"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Ajala",
+        "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 261733,
+      "name": "Ajala - Single Edit",
+      "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -467,22 +451,18 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Submerge",
-        "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
       },
       "artists": [
         {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        },
-        {
-          "name": "Pitch 92",
-          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 232562,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5"
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -515,6 +495,26 @@
       "duration_ms": 163226,
       "name": "The Colour Purple - Live From Malibu",
       "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Submerge",
+        "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        },
+        {
+          "name": "Pitch 92",
+          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+        }
+      ],
+      "duration_ms": 232562,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -643,6 +643,38 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
+        "name": "Keep me close.",
+        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 144358,
+      "name": "Keep me close.",
+      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Timekeepers",
+        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Timekeepers",
+      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU"
       },
@@ -675,18 +707,22 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+        "name": "Dumplings For Dinner",
+        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "After 'Ours",
+          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         }
       ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
+      "duration_ms": 404162,
+      "name": "Dumplings For Dinner",
+      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -707,18 +743,18 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Keep me close.",
-        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
       },
       "artists": [
         {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
         }
       ],
-      "duration_ms": 144358,
-      "name": "Keep me close.",
-      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -755,42 +791,6 @@
       "duration_ms": 358418,
       "name": "Resisting Resistance",
       "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Dumplings For Dinner",
-        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
-      },
-      "artists": [
-        {
-          "name": "After 'Ours",
-          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 404162,
-      "name": "Dumplings For Dinner",
-      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Timekeepers",
-        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Timekeepers",
-      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "FIELDNOTES PT III",
         "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 191707,
       "name": "Take It Easy (Miles' Song)",
       "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "The Love That I Feel",
         "url": "https://open.spotify.com/album/23xWaTO3WJEyFs2o17W3tz"
       },
@@ -1059,6 +1059,38 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
         "name": "Foolish",
         "url": "https://open.spotify.com/album/35DVmHSUYniWufKx4v4Qd6"
       },
@@ -1083,6 +1115,22 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
+        "name": "In The Breaks",
+        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "In The Breaks",
+      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
         "name": "Unlikely",
         "url": "https://open.spotify.com/album/7IvIOtYOfkdk0lWIUY2YSZ"
       },
@@ -1095,22 +1143,6 @@
       "duration_ms": 167903,
       "name": "Unlikely",
       "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
-      },
-      "artists": [
-        {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
-        }
-      ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -1131,18 +1163,38 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "Working It Out",
-        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
         }
       ],
-      "duration_ms": 235173,
-      "name": "Working It Out",
-      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
+      },
+      "artists": [
+        {
+          "name": "Mom Tudie",
+          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
+        },
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 207857,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -1167,22 +1219,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
-      },
-      "artists": [
-        {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
-        }
-      ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
       },
@@ -1199,26 +1235,6 @@
       "duration_ms": 235920,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
-      },
-      "artists": [
-        {
-          "name": "Mom Tudie",
-          "url": "https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8"
-        },
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 207857,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
     },
     {
       "added_at": "2024-08-02 11:02:58",
@@ -1255,46 +1271,6 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "In The Breaks",
-        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "In The Breaks",
-      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
-    },
-    {
-      "added_at": "2024-08-02 11:02:58",
-      "album": {
         "name": "Infinite Reflections",
         "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
       },
@@ -1327,6 +1303,30 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+    },
+    {
+      "added_at": "2024-08-02 11:02:58",
+      "album": {
         "name": "When It Comes Together",
         "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
       },
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2024-08-02 11:02:58",
       "album": {
-        "name": "In The Garden",
-        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
       },
       "artists": [
         {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        },
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
         }
       ],
-      "duration_ms": 280586,
-      "name": "In The Garden",
-      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
+      "duration_ms": 202698,
+      "name": "Dreambend",
+      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
     }
   ],
   "unique_name": "Jazz UK",

@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: Alan Jackson",
-  "num_followers": 1895262,
+  "num_followers": 1896032,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 183733,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 183733,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -215,22 +215,6 @@
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -267,22 +251,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -299,18 +267,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "duration_ms": 299733,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -331,6 +299,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Some Gave All",
         "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 203373,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Party Crowd",
-      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Greatest Hits Collection",
         "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Life's a Dance",
-      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
+      "duration_ms": 198440,
+      "name": "Party Crowd",
+      "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 224800,
       "name": "Don't Let Our Love Start Slippin' Away",
       "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
+      },
+      "artists": [
+        {
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Life's a Dance",
+      "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 217807,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Used To Want To Be A Cowboy",
+        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+      },
+      "artists": [
+        {
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "This Cowboy's Hat",
+      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Used To Want To Be A Cowboy",
-        "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
       "artists": [
         {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 245173,
-      "name": "This Cowboy's Hat",
-      "url": "https://open.spotify.com/track/28RV5zuHGITT0rvh4NJM6W"
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "We Danced Anyway",
-      "url": "https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 223973,
       "name": "One Way Ticket (Because I Can)",
       "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "We Danced Anyway",
+      "url": "https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
-      },
-      "artists": [
-        {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Guys Do It All the Time",
-      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 237160,
       "name": "Dream Walkin'",
       "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Guys Do It All the Time",
+      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Only What I Feel",
         "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 298560,
       "name": "How Can I Help You Say Goodbye",
       "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2024-05-22 11:00:00",

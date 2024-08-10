@@ -1,12 +1,12 @@
 {
   "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
-  "num_followers": 32700,
+  "num_followers": 32721,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACZBgQBbKhRUF38rZfrm55v",
+  "snapshot_id": "ZrQKgAAAAAAoEikMmzJTAL0IuogdrmN7",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
       "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 272146,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+      "duration_ms": 223886,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/7raSxI12uRYOuiDE77VR4D"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios",
-        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
       "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 223886,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/7raSxI12uRYOuiDE77VR4D"
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
     },
     {
       "added_at": null,

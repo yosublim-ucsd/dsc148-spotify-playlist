@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 176843,
       "name": "(Not Much Going On Here)",
       "url": "https://open.spotify.com/track/7F4EmomSLlwLPCnfGgmrnj"
@@ -8356,7 +8356,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 149504,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux"
@@ -15090,7 +15090,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 128250,
       "name": "Bougainvillea.",
       "url": "https://open.spotify.com/track/1sm4S7UcJEBe7qHusbRLMS"
@@ -34032,7 +34032,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 122083,
       "name": "edge of distant shore",
       "url": "https://open.spotify.com/track/7eShWtF70R4wkKJa4wFDr4"
@@ -43775,6 +43775,24 @@
     },
     {
       "album": {
+        "name": "full-scale",
+        "url": "https://open.spotify.com/album/4DEAvtjBWsZB8o1QlUJurA"
+      },
+      "artists": [
+        {
+          "name": "Chetco Effect",
+          "url": "https://open.spotify.com/artist/1uMK3CGvV87A99PJP76lk7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117469,
+      "name": "full-scale",
+      "url": "https://open.spotify.com/track/6WvEJJEuY1779tAwa3VdTZ"
+    },
+    {
+      "album": {
         "name": "FuN MoNeY",
         "url": "https://open.spotify.com/album/1JGVD3MijXWwigfRHwCYQf"
       },
@@ -44178,6 +44196,24 @@
       "duration_ms": 128000,
       "name": "Garden Lights",
       "url": "https://open.spotify.com/track/5zSa6ekJG1FQSHPKS0v6c3"
+    },
+    {
+      "album": {
+        "name": "Garden of presidents",
+        "url": "https://open.spotify.com/album/46s4rbYm1kE1sa5skNeyDn"
+      },
+      "artists": [
+        {
+          "name": "This Is Moving",
+          "url": "https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127491,
+      "name": "Garden of presidents",
+      "url": "https://open.spotify.com/track/0I689XULWlZATBytR7ujn0"
     },
     {
       "album": {
@@ -49424,6 +49460,28 @@
     {
       "album": {
         "name": "Haze",
+        "url": "https://open.spotify.com/album/3yvDt541gJut8flE9HmCAP"
+      },
+      "artists": [
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/3XqZUhZcHpOtP9rhw6O43l"
+    },
+    {
+      "album": {
+        "name": "Haze",
         "url": "https://open.spotify.com/album/0UcuXHJmypmdiYensFeqzN"
       },
       "artists": [
@@ -50386,7 +50444,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 152781,
       "name": "Hey",
       "url": "https://open.spotify.com/track/3JJ14MevAAaUQwMbfDHbk4"
@@ -50590,7 +50648,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166374,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/6xjE7ITglQMlZKyLQhNjKz"
@@ -53052,7 +53110,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 121600,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/2WyXNCWveI4GU6auSbbxZw"
@@ -54742,7 +54800,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146894,
       "name": "Imaginary Garden",
       "url": "https://open.spotify.com/track/1xVTHr8uCCuRLB2yzhktoh"
@@ -57008,6 +57066,24 @@
       "duration_ms": 104470,
       "name": "Invisible Walls",
       "url": "https://open.spotify.com/track/7eNKJesKFWRi4voh0xJNEd"
+    },
+    {
+      "album": {
+        "name": "Iphomea",
+        "url": "https://open.spotify.com/album/35piJRbb9pUwMcBCf8gTkW"
+      },
+      "artists": [
+        {
+          "name": "Glorio",
+          "url": "https://open.spotify.com/artist/2LlUmuRpHPxRL2B2CJDZB4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Iphomea",
+      "url": "https://open.spotify.com/track/3criQrrbhxgsGsmzD1FIDb"
     },
     {
       "album": {
@@ -62369,6 +62445,24 @@
     },
     {
       "album": {
+        "name": "lalalala",
+        "url": "https://open.spotify.com/album/0HE6pMfXCjvZPBh3dwzgzo"
+      },
+      "artists": [
+        {
+          "name": "Zoulzest",
+          "url": "https://open.spotify.com/artist/3033U6vVNxs1vUC8wKuv6F"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149841,
+      "name": "lalalala",
+      "url": "https://open.spotify.com/track/3y8x4FedCk7oZp1EdTSimF"
+    },
+    {
+      "album": {
         "name": "Kynyav",
         "url": "https://open.spotify.com/album/6GVIznifRGgSZLhYhpYPqE"
       },
@@ -65194,7 +65288,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 125787,
       "name": "Light Breeze",
       "url": "https://open.spotify.com/track/0NhTjpZsDm7vVPXzszd9B2"
@@ -72204,7 +72298,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 153623,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ"
@@ -77844,7 +77938,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155076,
       "name": "My Ambience",
       "url": "https://open.spotify.com/track/12UTyr0aX6Wk5u4LHSbACd"
@@ -81602,7 +81696,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 114098,
       "name": "nocturnal journey",
       "url": "https://open.spotify.com/track/6zoLgW59X2DusL37exNwLf"
@@ -90543,6 +90637,24 @@
     },
     {
       "album": {
+        "name": "pleasant drive",
+        "url": "https://open.spotify.com/album/6hHFwFzyFDlXAtTn9YYNoV"
+      },
+      "artists": [
+        {
+          "name": "Flower Chanel.",
+          "url": "https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121116,
+      "name": "pleasant drive",
+      "url": "https://open.spotify.com/track/3ANLJaBcDbNuDxTttHoquo"
+    },
+    {
+      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/6Hyv4T0o7wI0SQyLp60dU7"
       },
@@ -93324,7 +93436,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143250,
       "name": "rain in july",
       "url": "https://open.spotify.com/track/5McKc52AyNfSiIpxPzqfZJ"
@@ -95692,7 +95804,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 114527,
       "name": "Return Of The Cake",
       "url": "https://open.spotify.com/track/7hncde8jjBRQJvv4stz6QT"
@@ -99616,7 +99728,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -110606,7 +110718,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132948,
       "name": "subelevator",
       "url": "https://open.spotify.com/track/5g3WCCEaqmK8DNo8eQ3p4o"
@@ -113238,6 +113350,24 @@
       "duration_ms": 135529,
       "name": "Sunset Break",
       "url": "https://open.spotify.com/track/5l7ZCGOx68I89w09K6vCyG"
+    },
+    {
+      "album": {
+        "name": "Sunset by Your Side",
+        "url": "https://open.spotify.com/album/5AkK1tmre6SLL47sMwu0v1"
+      },
+      "artists": [
+        {
+          "name": "SoFo",
+          "url": "https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Sunset by Your Side",
+      "url": "https://open.spotify.com/track/500fXCqsKKP9xB8oRyxqLO"
     },
     {
       "album": {
@@ -123428,7 +123558,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 227586,
       "name": "under the willows",
       "url": "https://open.spotify.com/track/6FbssyY2NcoqXtmvUM0i5Q"
@@ -124282,7 +124412,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 143095,
       "name": "Up In The Air",
       "url": "https://open.spotify.com/track/7tJVAgFmgggQ31YasQxcNf"
@@ -124300,7 +124430,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 127856,
       "name": "Up In The Clouds Again",
       "url": "https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI"
@@ -124842,7 +124972,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 141795,
       "name": "van life",
       "url": "https://open.spotify.com/track/4j8uAYMGya8Qn9pTiXusO3"
@@ -128218,7 +128348,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 169500,
       "name": "Wave noise",
       "url": "https://open.spotify.com/track/2V3DZYPWmIuAnAl2sMOlpI"

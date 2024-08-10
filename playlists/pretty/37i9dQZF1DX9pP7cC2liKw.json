@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 272745,
+  "num_followers": 272906,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -241,24 +241,28 @@
       "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
-      "added_at": "2023-10-24 02:03:26",
+      "added_at": "2022-11-03 18:27:44",
       "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+        "name": "Mientras Tanto",
+        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
         },
         {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
         }
       ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
+      "duration_ms": 135000,
+      "name": "Mientras Tanto",
+      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
     },
     {
       "added_at": "2024-05-30 00:46:57",
@@ -329,28 +333,24 @@
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
-      "added_at": "2022-11-03 18:27:44",
+      "added_at": "2023-10-24 02:03:26",
       "album": {
-        "name": "Mientras Tanto",
-        "url": "https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK"
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
       },
       "artists": [
         {
-          "name": "Los Eclipses",
-          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Mientras Tanto",
-      "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2024-07-29 19:50:25",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
-      "added_at": "2024-05-23 23:10:08",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 353109,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
-    },
-    {
       "added_at": "2024-07-29 19:50:25",
       "album": {
         "name": "Live at KEXP!",
@@ -731,6 +715,22 @@
       "duration_ms": 300480,
       "name": "Move on Up - Live",
       "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
+    },
+    {
+      "added_at": "2024-05-23 23:10:08",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -809,30 +809,6 @@
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
-      "added_at": "2024-04-23 00:20:09",
-      "album": {
-        "name": "Esp\u00e9rame (feat. NATURE)",
-        "url": "https://open.spotify.com/album/047lC51BiisrJVwnowgpGp"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Elastic Bond",
-          "url": "https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 309813,
-      "name": "Esp\u00e9rame (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2gFXnOmriTTYFKuvumhCLq"
-    },
-    {
       "added_at": "2023-10-10 03:31:09",
       "album": {
         "name": "Switched-On",
@@ -863,6 +839,30 @@
       "duration_ms": 318014,
       "name": "Grind",
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
+    },
+    {
+      "added_at": "2024-04-23 00:20:09",
+      "album": {
+        "name": "Esp\u00e9rame (feat. NATURE)",
+        "url": "https://open.spotify.com/album/047lC51BiisrJVwnowgpGp"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Elastic Bond",
+          "url": "https://open.spotify.com/artist/16L3eTvVPpYYsgCK6TZlWq"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 309813,
+      "name": "Esp\u00e9rame (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2gFXnOmriTTYFKuvumhCLq"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Tropical Gypsy",
+        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+      },
+      "artists": [
+        {
+          "name": "DJ Cam",
+          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+        }
+      ],
+      "duration_ms": 181926,
+      "name": "Tropical Gypsy",
+      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+    },
+    {
       "added_at": "2024-05-31 15:54:13",
       "album": {
         "name": "Roller Coaster",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Tropical Gypsy",
-        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+        "name": "Dubamerica",
+        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Tropical Gypsy",
-      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+      "duration_ms": 336373,
+      "name": "Chichera",
+      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
       "added_at": "2022-08-11 18:18:05",
@@ -1123,22 +1139,6 @@
       "duration_ms": 163181,
       "name": "French Samba",
       "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Dubamerica",
-        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Chichera",
-      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
       "added_at": "2023-03-31 18:14:20",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Hybridism",
-        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
       "artists": [
         {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
         }
       ],
-      "duration_ms": 308813,
-      "name": "Aima",
-      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2024-03-05 03:12:30",

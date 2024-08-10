@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-442 songs - 1 day 2 hr 47 min
+444 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
 | [Don't Stop](https://open.spotify.com/track/5KZqapwQzE9ss8V5uzy50q) | [Sonny Cleveland](https://open.spotify.com/artist/068h66CFkNBvqw5SaIQ3ZA) | [Gold](https://open.spotify.com/album/0I3HXcGWFhDJR5ENzDYZ9r) | 2:42 | 2021-07-09 | 2022-10-13 |
+| [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 | 2024-08-09 |  |
 | [Don't Wanna Lose You](https://open.spotify.com/track/03Xfnr5nwnz2eiPDeRYJQJ) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Don't Wanna Lose You](https://open.spotify.com/album/46VBRKa8sDXKU8piCs3UHw) | 3:39 | 2024-03-29 |  |
 | [Don't You Ever Change](https://open.spotify.com/track/6eUofPDyNPz5ZuHVHCJtJC) | [Jonathan Plevyak](https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO) | [Don't You Ever Change](https://open.spotify.com/album/6jrzfmuhQdZg8auer1aM4w) | 3:36 | 2023-08-11 | 2024-02-15 |
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2021-07-09 | 2023-02-18 |
@@ -262,11 +263,12 @@
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2024-04-06 |
 | [My Oh My](https://open.spotify.com/track/4KO9dF03JTCwvQJdGVqwcG) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [My Oh My](https://open.spotify.com/album/3rWudFlMS9OWpxneFqm8yq) | 3:29 | 2023-06-02 | 2024-06-01 |
 | [Mystical and Paranoid](https://open.spotify.com/track/4d77W326jSVAmDrHlPG4bu) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Mystical and Paranoid](https://open.spotify.com/album/2cbbT7XzhQLBM19Pfhiv0z) | 3:44 | 2022-10-28 | 2022-11-12 |
-| [Need Something More](https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Need Something More](https://open.spotify.com/album/0BxdoTON95wiyg4ZD0ae8s) | 2:51 | 2024-07-19 |  |
+| [Need Something More](https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Need Something More](https://open.spotify.com/album/0BxdoTON95wiyg4ZD0ae8s) | 2:51 | 2024-07-19 | 2024-08-10 |
 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 | 2022-04-22 | 2023-11-11 |
 | [Never Forget My Love](https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Never Forget My Love](https://open.spotify.com/album/0oiVII3rwv5bEyIZM234Z4) | 3:41 | 2021-12-03 | 2022-11-13 |
 | [Never Gonna Take Away My Love](https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Never Gonna Take Away My Love](https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR) | 4:12 | 2024-07-26 |  |
 | [No Longer Mine](https://open.spotify.com/track/733oDE8vOXBCzKK1EfnPCd) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [No Longer Mine](https://open.spotify.com/album/6alneeeLcSYWZyu293RloI) | 2:44 | 2024-05-03 | 2024-05-25 |
+| [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 | 2024-08-09 |  |
 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 | 2023-06-09 | 2023-11-18 |
 | [Nobody But You](https://open.spotify.com/track/6Oao4bGYFGXppmlI0cjIiS) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Nobody But You](https://open.spotify.com/album/64vGv9opFtK75WRyjPRFnP) | 2:15 | 2023-11-10 |  |
 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 | 2021-12-17 | 2023-01-28 |
@@ -287,7 +289,7 @@
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-10-28 |
 | [Ordinary Lives](https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Ordinary Lives](https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO) | 3:16 | 2022-01-21 | 2022-07-29 |
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 | 2023-01-28 |
-| [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-03 |  |
+| [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-03 | 2024-08-10 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 |  |

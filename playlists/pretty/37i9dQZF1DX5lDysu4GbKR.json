@@ -1,13 +1,45 @@
 {
   "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
-  "num_followers": 601041,
+  "num_followers": 601088,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoxOPAAAAACNYvMS9ZkkZlk6Ca2ZTd8V",
+  "snapshot_id": "ZrWUQAAAAAD1Wn+UzOtlIyvq8Coh2LLk",
   "tracks": [
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Most (Acoustic)",
+        "url": "https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "The Most (Acoustic)",
+      "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Regardless",
+        "url": "https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 189257,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
+    },
     {
       "added_at": "2024-03-21 23:00:00",
       "album": {
@@ -89,6 +121,62 @@
       "url": "https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "No More Maybes (feat. Bibi Bourelly & India Shawn) [Acoustic Version]",
+        "url": "https://open.spotify.com/album/7qJVootdK0IRzuRTiaTeBH"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 157395,
+      "name": "No More Maybes (feat. Bibi Bourelly & India Shawn) - Acoustic Version",
+      "url": "https://open.spotify.com/track/4KSiJei4vNEh3todDqvgjL"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "DND (Acoustic)",
+        "url": "https://open.spotify.com/album/0plcAlY3I6rYDI4nGaWZlp"
+      },
+      "artists": [
+        {
+          "name": "Will Gittens",
+          "url": "https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1"
+        }
+      ],
+      "duration_ms": 138701,
+      "name": "DND - Acoustic",
+      "url": "https://open.spotify.com/track/0y9hUWaHuyIBppaKvcjAXt"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Colour Blind",
+      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+    },
+    {
       "added_at": "2024-03-21 23:00:00",
       "album": {
         "name": "Someday (Unplugged)",
@@ -103,22 +191,6 @@
       "duration_ms": 192860,
       "name": "Someday - Unplugged",
       "url": "https://open.spotify.com/track/34StJdGuwDjG9LSWbWniQB"
-    },
-    {
-      "added_at": "2024-03-21 23:00:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
     },
     {
       "added_at": "2024-03-21 23:00:00",

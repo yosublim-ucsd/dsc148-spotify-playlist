@@ -2,9 +2,9 @@
 
 ### [This Is Vanessa Zamora](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2avZ2E)
 
-> This is Vanessa Zamora\. The essential tracks, all in one playlist.
+> This Is Vanessa Zamora\. Los temas esenciales, todos en una lista.
 
-50 songs - 2 hr 51 min
+51 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 | 2023-12-26 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2023-12-26 |  |
 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 | 2023-12-26 |  |
-| [Quiero Verte Hoy](https://open.spotify.com/track/5C4jccKtu4mg8v1nemJzgf) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Libro Abierto](https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg) | 3:36 | 2023-12-26 |  |
+| [Quiero Verte Hoy](https://open.spotify.com/track/1dt0BtckTIj5VYuKE89oTm) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Libro Abierto](https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6) | 3:36 | 2024-08-10 |  |
+| [Quiero Verte Hoy](https://open.spotify.com/track/5C4jccKtu4mg8v1nemJzgf) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Libro Abierto](https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg) | 3:36 | 2023-12-26 | 2024-08-10 |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2023-12-26 | 2024-08-08 |
 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 | 2023-12-26 |  |
 | [RESISTOL +](https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7) | [chicano wei](https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Chiquete](https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP) | [RESISTOL +](https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT) | 3:10 | 2024-06-02 |  |

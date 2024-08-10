@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,236 songs - 2 day 15 hr 33 min
+1,239 songs - 2 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-17 |  |
 | [Bitches In The Bathroom](https://open.spotify.com/track/4jelQlTVvMmt3z0zxq9bUk) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bitches In The Bathroom](https://open.spotify.com/album/1Z1IjE7xIGuH1jjFBsUOrJ) | 2:59 | 2021-10-16 | 2022-03-12 |
 | [Black Coffee](https://open.spotify.com/track/67aZdAS6doqinEJfperUnH) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee](https://open.spotify.com/album/2HJ6fPTZHFuiSxWDGPTKo3) | 2:24 | 2021-04-10 | 2021-09-18 |
+| [bloodshot](https://open.spotify.com/track/0RyHJUvZQ9Pm06pbHk2Pb8) | [Sarah Thompson](https://open.spotify.com/artist/7fMszWkv9oChFal6nM505j) | [bloodshot](https://open.spotify.com/album/7FfowKhV0oNC3k4syEe6Gj) | 3:14 | 2024-08-09 |  |
 | [Bloody Waters](https://open.spotify.com/track/74c0axs4t9mxF13MUOqSQw) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Bloody Waters](https://open.spotify.com/album/4qduDazv9FzGjYT04Qsumk) | 3:01 | 2020-11-14 | 2020-12-19 |
 | [Bloom](https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Bloom](https://open.spotify.com/album/7eSHhMZCCvJvubQ3plHlYZ) | 2:55 | 2024-04-26 |  |
 | [Bloom](https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Bloom](https://open.spotify.com/album/1hFATkkw8ibvIwUQkWpWER) | 2:51 | 2021-07-24 | 2021-09-18 |
@@ -288,6 +289,7 @@
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-05-22 |
 | [Douchebag](https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Douchebag](https://open.spotify.com/album/1EeCf52PdUbgMKCpbbV9Pk) | 2:58 | 2022-02-04 | 2022-03-19 |
 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 | 2023-05-05 |  |
+| [Downtown Guy](https://open.spotify.com/track/7xFJjEjyXFC9zSMB9q8vFC) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Downtown Guy](https://open.spotify.com/album/7HKdr3NqliLM4EiD3twPC9) | 2:36 | 2024-08-09 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-06-05 | 2021-06-27 |
 | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/track/0ZbghqrVhOtGom63oKxONU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KMays](https://open.spotify.com/artist/2VTLKU8cAZDr5JuZ7HS4BA) | [draw you inside my book \(feat\. KMays\)](https://open.spotify.com/album/0w5Q4bGIpbvmEzTgAtDt72) | 2:24 | 2022-04-08 | 2023-03-04 |
 | [Dream House](https://open.spotify.com/track/60lvIOvMGnA99LuSofbcyw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Rainbow Mixtape](https://open.spotify.com/album/2bWRZWNWiTjrZkAH9rW6gB) | 3:04 | 2021-05-03 | 2021-05-22 |
@@ -393,6 +395,7 @@
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2021-01-30 | 2021-02-19 |
 | [Gemini](https://open.spotify.com/track/5RI58cbtkIOnqv13H1Khgq) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Gemini](https://open.spotify.com/album/33MlQ2NsokBVXGoa7jfp5m) | 3:02 | 2022-04-01 | 2022-06-04 |
 | [Gemini](https://open.spotify.com/track/7lIGWqCphjoLeSXjT71MMC) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Gemini](https://open.spotify.com/album/2Yilbq95tQfn2Yzn14YH73) | 3:33 | 2021-09-04 | 2021-10-23 |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 |  |
 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 | 2022-07-15 | 2023-02-25 |
 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 | 2022-07-29 | 2023-11-11 |
 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 |  |
@@ -595,7 +598,7 @@
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-05-20 |
 | [Jackie Onassis](https://open.spotify.com/track/3OH7EyT8CgvW34AZLn8D79) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Jackie Onassis](https://open.spotify.com/album/0yTuTdnNybyhwLTpgbl4Br) | 3:45 | 2020-10-29\* | 2020-12-07 |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-05-05 | 2024-04-19 |
-| [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 |  |
+| [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2024-08-10 |
 | [Jet Lag](https://open.spotify.com/track/3AvUUJ8HopzSeDTi9aFiCN) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Jet Lag](https://open.spotify.com/album/3OACbRi43tEvh5GrPsWrJq) | 2:41 | 2021-02-06 | 2021-03-27 |
 | [Judge Me](https://open.spotify.com/track/0sWwA3apfTCkLMMrivpPeJ) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Judge Me](https://open.spotify.com/album/1koBXSMqbuHkIbQhaTQ7V5) | 3:20 | 2022-02-04 | 2022-03-19 |
 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-22 | 2023-10-21 |
@@ -664,7 +667,7 @@
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-01-21 | 2022-07-02 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-07-31 |
 | [Lost In Texas](https://open.spotify.com/track/7DbLT5HzDpQFo6ReMTkPzj) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Lost In Texas](https://open.spotify.com/album/3pzqxRkvfleYENLjiongiV) | 3:28 | 2021-02-13 | 2021-04-10 |
-| [Love Is Blind \- Spotify Singles](https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 2:44 | 2024-05-31 |  |
+| [Love Is Blind \- Spotify Singles](https://open.spotify.com/track/4f22oWm76LYThaa1FpDuUw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 2:44 | 2024-05-31 | 2024-08-10 |
 | [love me at my worst](https://open.spotify.com/track/0lle0LEefuvobKLYBTBvqY) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [love me at my worst](https://open.spotify.com/album/1SomCO67vw51xxSiICn3pU) | 2:41 | 2021-10-09 | 2022-01-08 |
 | [love of your life](https://open.spotify.com/track/58mNlQC7dh07i8JF8CMycR) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [love of your life](https://open.spotify.com/album/2U7nCP55m7ws8MXAqfD8D9) | 2:50 | 2021-09-25 | 2021-12-04 |
 | [Love on the Weekend](https://open.spotify.com/track/4T0Z5SG6t3r7XFUp4yfMi9) | [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [Love on the Weekend](https://open.spotify.com/album/2KtK1Topqqu9kvyZuJilNK) | 2:33 | 2021-01-23 | 2021-03-27 |
@@ -979,7 +982,7 @@
 | [Somewhere](https://open.spotify.com/track/0yTfXjMmoCQVmn2kYjBodD) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Somewhere](https://open.spotify.com/album/4YsgPaYNAP0DjgFAXGHmeb) | 2:50 | 2020-10-29\* | 2021-02-27 |
 | [Song for B](https://open.spotify.com/track/1m7R5WgnPGcJpp7MXvJJqC) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Song for B](https://open.spotify.com/album/0k3KbV5dUIwbugAh6o7Wc0) | 2:56 | 2020-10-29\* | 2020-11-14 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-10-30 | 2022-03-12 |
-| [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 | 2023-03-17 |  |
+| [Sore Eyes](https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Sore Eyes](https://open.spotify.com/album/1pNb1AYhy42mSECLH04Vac) | 3:13 | 2023-03-17 | 2024-08-10 |
 | [Sore Eyes](https://open.spotify.com/track/1vyaeOV5TqHDFK7ugi05Sk) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Be Still My Heart](https://open.spotify.com/album/2YHEafnqcoOmGpW8NwBMV0) | 3:13 | 2023-05-05 | 2024-04-19 |
 | [Sorority](https://open.spotify.com/track/19CqaxojbrK0QthZtht4nR) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Sorority](https://open.spotify.com/album/4jctcnJUa2R2N798kp83bl) | 3:33 | 2023-10-20 |  |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-04-24 | 2021-08-14 |

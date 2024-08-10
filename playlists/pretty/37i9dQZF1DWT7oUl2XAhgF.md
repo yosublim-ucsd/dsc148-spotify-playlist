@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,034 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,101 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Live For You](https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Live For You](https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm) | 3:30 |
 | 2 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
-| 3 | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG) | 4:26 |
-| 4 | [Never Gonna Take Away My Love](https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Never Gonna Take Away My Love](https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR) | 4:12 |
-| 5 | [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 |
-| 6 | [Wild as a Rainstorm](https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE) | [Vanessa Collier](https://open.spotify.com/artist/5WLpN9bFV4liSYhf4J3aVs) | [Wild as a Rainstorm](https://open.spotify.com/album/2a1NCIpag6kQe7v6K36xLJ) | 4:13 |
-| 7 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 |
-| 8 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 |
-| 9 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
-| 10 | [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 |
-| 11 | [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 |
-| 12 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
-| 13 | [Need Something More](https://open.spotify.com/track/2tXVbd0Fsi74FoVV3CYsT9) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Need Something More](https://open.spotify.com/album/0BxdoTON95wiyg4ZD0ae8s) | 2:51 |
+| 3 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |
+| 4 | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Let Not \(Your Heart Be Troubled\)](https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG) | 4:26 |
+| 5 | [Never Gonna Take Away My Love](https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Never Gonna Take Away My Love](https://open.spotify.com/album/4WZen6PYsZ5n1eKXP6T1mR) | 4:12 |
+| 6 | [Don't Take Me As A Fool](https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Take Me As A Fool](https://open.spotify.com/album/1eEciSKr834k5dtjOBS1g2) | 3:52 |
+| 7 | [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 |
+| 8 | [Wild as a Rainstorm](https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE) | [Vanessa Collier](https://open.spotify.com/artist/5WLpN9bFV4liSYhf4J3aVs) | [Wild as a Rainstorm](https://open.spotify.com/album/2a1NCIpag6kQe7v6K36xLJ) | 4:13 |
+| 9 | [Way You Shine](https://open.spotify.com/track/5RlgjfMCs8KW0AtkqRvyZM) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Way You Shine](https://open.spotify.com/album/0sfmf3mJc7rgaGg3CZXmRv) | 3:10 |
+| 10 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 |
+| 11 | [Lucid Girl](https://open.spotify.com/track/6KgVqbhK6A8lvxdmOpWtUV) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lucid Girl](https://open.spotify.com/album/2cvZWTjXfM06uspaYuW60w) | 3:22 |
+| 12 | [All I Ever Wonder](https://open.spotify.com/track/6yvONppH9d0owJBybZZfXp) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jeremy Page](https://open.spotify.com/artist/4a3eyfNIqS9Fy5l3ckBtB2) | [All I Ever Wonder](https://open.spotify.com/album/19L4ImvQtNserhArcUB3sD) | 3:36 |
+| 13 | [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 |
 | 14 | [Take Me There](https://open.spotify.com/track/1rhaEalVdUQtjPpNTPk1Yk) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Pasadena](https://open.spotify.com/album/2a8MU7CF9WoSkoI40egc4l) | 4:45 |
 | 15 | [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 |
 | 16 | [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 100 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 |
 
-Snapshot ID: `ZqxZwAAAAAB7OQF02NVU5IFF+YkjFeZ3`
+Snapshot ID: `ZrWUQAAAAACeJboUEHUU0ytA8rhnOe/w`

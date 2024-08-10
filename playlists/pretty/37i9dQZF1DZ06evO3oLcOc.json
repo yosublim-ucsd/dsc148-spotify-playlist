@@ -1,12 +1,12 @@
 {
-  "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 222861,
+  "description": "This Is Tyga. Los temas esenciales, todos en una lista.",
+  "num_followers": 222872,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAADco+D3T5yBrqLX38AWPIjV",
+  "snapshot_id": "ZrQKgAAAAABbEfk9dCk924cQn5L/+Ket",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "California (from Songland) (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "California (from Songland) (feat. Tyga)",
+      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -715,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (from Songland) (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
       "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 175179,
-      "name": "California (from Songland) (feat. Tyga)",
-      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
+      "duration_ms": 153575,
+      "name": "Lightskin Lil Wayne",
+      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153575,
-      "name": "Lightskin Lil Wayne",
-      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Splash (feat. Moneybagg Yo)",
-        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Splash (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Splash (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 173161,
+      "name": "Splash (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
     },
     {
       "added_at": null,

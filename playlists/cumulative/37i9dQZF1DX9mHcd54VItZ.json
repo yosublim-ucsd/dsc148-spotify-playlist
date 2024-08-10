@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs?si=ZMYXmHpdSGeH9FknanH8Tw\">Jo Black</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C?si=6pB76--cQgW9yydRzvv4XQ\">Elle E</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -2653,7 +2653,7 @@
     },
     {
       "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "name": "Finding Beauty In Negative Spaces - Bonus Track Version",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
       "artists": [
@@ -5490,7 +5490,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 291576,
       "name": "Neon Bloodstains",
       "url": "https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I"
@@ -6216,6 +6216,24 @@
       "duration_ms": 208495,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI"
+    },
+    {
+      "album": {
+        "name": "Probleem Kind",
+        "url": "https://open.spotify.com/album/3Vc6ivfrjobE5Smg88bBZF"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191332,
+      "name": "Probleem Kind",
+      "url": "https://open.spotify.com/track/3kKrPNNzkND3hG2kaa2aUj"
     },
     {
       "album": {

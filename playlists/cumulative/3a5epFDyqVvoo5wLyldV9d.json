@@ -12485,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Tet Chaj\u00e9",
+        "url": "https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT"
+      },
+      "artists": [
+        {
+          "name": "Kajou",
+          "url": "https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370033,
+      "name": "Tet Chaj\u00e9",
+      "url": "https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV"
+    },
+    {
+      "album": {
         "name": "Sons of Ethiopia",
         "url": "https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW"
       },

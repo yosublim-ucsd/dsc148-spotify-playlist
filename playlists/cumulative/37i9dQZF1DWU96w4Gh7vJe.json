@@ -1235,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "Oh Giliw Ko",
+        "url": "https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I"
+      },
+      "artists": [
+        {
+          "name": "The Knobs",
+          "url": "https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316125,
+      "name": "Oh Giliw Ko",
+      "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
+    },
+    {
+      "album": {
         "name": "Oks Lang",
         "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 212976,
       "name": "Samahan Mo Ako",
       "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"

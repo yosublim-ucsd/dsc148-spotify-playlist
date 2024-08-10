@@ -1,6 +1,6 @@
 {
   "description": "2012 highlights from the home of indie music.",
-  "num_followers": 91333,
+  "num_followers": 91366,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 264493,
       "name": "Take a Walk",
       "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Summer's Gone",
-        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "How Did I Get Here",
-      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 176480,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Summer's Gone",
+        "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "How Did I Get Here",
+      "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Sixteen Saltines",
-        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Love Is Blindness",
-      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 173093,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Sixteen Saltines",
+        "url": "https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Love Is Blindness",
+      "url": "https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Happy to You",
-        "url": "https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Paddling Out",
-      "url": "https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 181760,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "Happy to You",
+        "url": "https://open.spotify.com/album/6YeV0JWW7g8dDf78jFIe1e"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 223053,
+      "name": "Paddling Out",
+      "url": "https://open.spotify.com/track/0rfXn2iUwqQXzNvJgmcG6p"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
-    },
-    {
-      "added_at": "2024-03-18 13:12:36",
-      "album": {
         "name": "Coexist",
         "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 167546,
       "name": "Chained",
       "url": "https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu"
+    },
+    {
+      "added_at": "2024-03-18 13:12:36",
+      "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Celebration Rock",
-        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
       },
       "artists": [
         {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 289150,
-      "name": "The House That Heaven Built",
-      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
+      "duration_ms": 318423,
+      "name": "Yet Again",
+      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
     },
     {
       "added_at": "2024-03-18 13:12:36",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-03-18 13:12:36",
       "album": {
-        "name": "Shields",
-        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
         }
       ],
-      "duration_ms": 318423,
-      "name": "Yet Again",
-      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
     },
     {
       "added_at": "2024-03-18 13:12:36",

@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Shawn Mendes",
-  "num_followers": 61403,
+  "num_followers": 61409,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVcRgAAAAAG4wIJCqYo5Sl9gc+RDYwk",
+  "snapshot_id": "ZrYVCQAAAADJA5/69pQ6RmjaY12DsD7K",
   "tracks": [
     {
       "added_at": "2024-08-08 16:00:00",
@@ -211,6 +211,22 @@
       "duration_ms": 170533,
       "name": "17",
       "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Jay Park Season 3: Dedicated 2 U",
+        "url": "https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 194998,
+      "name": "Dedicated 2 U",
+      "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -429,6 +445,26 @@
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
+      "added_at": "2024-08-09 05:53:16",
+      "album": {
+        "name": "Say That You Will Wait For Me",
+        "url": "https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3OOg1OfH1ta9ugur0HQMyi"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Say That You Will Wait For Me",
+      "url": "https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi"
+    },
+    {
       "added_at": "2024-08-08 16:00:00",
       "album": {
         "name": "For Cryin' Out Loud!",
@@ -491,6 +527,46 @@
       "duration_ms": 156683,
       "name": "FAVOURITE MISTAKE",
       "url": "https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Brought The Heat Back (Feat. Ava Max)",
+        "url": "https://open.spotify.com/album/3VvvahAqcsVGeKmdUATpnd"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 176279,
+      "name": "Brought The Heat Back (Feat. Ava Max)",
+      "url": "https://open.spotify.com/track/6mslYkzyL8uDfacJezJnof"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+        "url": "https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 202606,
+      "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+      "url": "https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -919,6 +995,22 @@
     {
       "added_at": "2024-08-08 16:00:00",
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
         "name": "Old Flame",
         "url": "https://open.spotify.com/album/7iFKkuuz5IPEoiGkor2AyX"
       },
@@ -955,6 +1047,22 @@
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "H&M",
+      "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
       "added_at": "2024-08-08 16:00:00",
@@ -1607,6 +1715,22 @@
       "duration_ms": 181853,
       "name": "Rainbow Overpass",
       "url": "https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O"
+    },
+    {
+      "added_at": "2024-08-08 16:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2024-08-08 16:00:00",

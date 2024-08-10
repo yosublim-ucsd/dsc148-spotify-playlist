@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
 
-390 songs - 1 day 0 hr 29 min
+391 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [King Bee](https://open.spotify.com/track/6efvpN45pRby2dC0ayfSU7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [I Hear You Knocking](https://open.spotify.com/album/7oo5eTB3LyjpbPzxINbvBK) | 3:50 | 2021-12-17 | 2022-06-11 |
 | [Knew The Day Was Comin'](https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:10 | 2022-07-26 | 2022-09-26 |
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 | 2024-08-03 |
-| [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 |  |
+| [Leave the Light On](https://open.spotify.com/track/4smQ0i6j6gH4Yly2qUcuqZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Leave The Light On](https://open.spotify.com/album/0XzophZTU9CMVqTudEZVWo) | 3:19 | 2024-05-03 | 2024-08-10 |
+| [Let It Burn](https://open.spotify.com/track/4kVg423IrwssKhqQF8p97a) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Beneath the Neon Glow](https://open.spotify.com/album/4a2bNYxBEDfmgecp9elbxs) | 4:48 | 2024-08-09 |  |
 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 |  |
 | [Let's Spend the Night Together](https://open.spotify.com/track/3W8Nl4u2OXTdakJQHVPSao) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Let's Spend the Night Together](https://open.spotify.com/album/6YFUBCGsXiXQuRwTNLw6wQ) | 4:25 | 2022-08-12 | 2024-06-29 |
 | [Let's Walk](https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Let's Walk](https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz) | 4:52 | 2024-06-28 |  |

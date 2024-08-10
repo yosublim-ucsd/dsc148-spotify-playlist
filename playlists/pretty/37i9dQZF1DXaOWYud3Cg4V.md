@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,817 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,855 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 11 | [I Don't Hurt Anymore](https://open.spotify.com/track/0fw0iU8Oc8mCLN9hYYT8eA) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/5RDZpiJYGaM5ktJEpaEty2) | 3:11 |
 | 12 | [Thinking And Drinking](https://open.spotify.com/track/6KktPomjQeiYgqHsuPLS3w) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Jukebox Hits](https://open.spotify.com/album/4eQbk2eFgUNhfZlArRstL7) | 2:24 |
 | 13 | [It Ain't The Meat](https://open.spotify.com/track/6ksbzIfJqlE7gYNpp0oTAt) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [50s Doo Wop Essentials](https://open.spotify.com/album/67NE2IGbCwGitaN13dQMsC) | 2:36 |
-| 14 | [Don't Be Angry](https://open.spotify.com/track/5MfowyYHLLz0gh0DowWVhp) | [Nappy Brown](https://open.spotify.com/artist/7oR6vQt8KT2ZWUpC65jTha) | [Don't Be Angry \(Savoy Singles 1954 \- 1956\)](https://open.spotify.com/album/10E9oPkpm7TJ3227PFbl9u) | 2:23 |
+| 14 | [Don't Be Angry](https://open.spotify.com/track/5MfowyYHLLz0gh0DowWVhp) | [Nappy Brown](https://open.spotify.com/artist/7oR6vQt8KT2ZWUpC65jTha) | [Don't Be Angry \- Savoy Singles 1954 \- 1956](https://open.spotify.com/album/10E9oPkpm7TJ3227PFbl9u) | 2:23 |
 | 15 | [Lovin' Machine \- Remastered](https://open.spotify.com/track/78qg91r1MLlt4UvingYV6A) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Essential Recordings \(Remastered\)](https://open.spotify.com/album/7gOzA7Kxsz3ZBWqN0ZVKX6) | 2:27 |
 | 16 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 17 | [See See Rider](https://open.spotify.com/track/0HsYttDxOv3neiw3L0wimY) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Soul On Fire: The Best Of LaVern Baker](https://open.spotify.com/album/656bjmiiDmAKjaC9U5HXbh) | 2:29 |

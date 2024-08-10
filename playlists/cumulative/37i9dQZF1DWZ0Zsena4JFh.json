@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Empire Of The Sun en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Beabadoobee en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 249413,
       "name": "Al Borde del Infinito",
       "url": "https://open.spotify.com/track/3dQtpFYJ8FlwxWFov1jXYq"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258596,
+      "name": "All",
+      "url": "https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc"
     },
     {
       "album": {
@@ -475,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
         "name": "Beautiful Girl",
         "url": "https://open.spotify.com/album/3F8u0bz8k1cxPpOttU3yDH"
       },
@@ -580,7 +616,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
@@ -1573,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Empire Service",
+        "url": "https://open.spotify.com/album/0gDqtKhaOvx0hWQEK404xT"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "Empire Service",
+      "url": "https://open.spotify.com/track/1ZjwDwoRZC53PPF8W7W5q9"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -1891,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -2174,6 +2246,24 @@
       "duration_ms": 237266,
       "name": "Hang In There",
       "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
+    },
+    {
+      "album": {
+        "name": "Happy Again",
+        "url": "https://open.spotify.com/album/4AHa4OtKHo63S4IL7ZEYfD"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242730,
+      "name": "Happy Again",
+      "url": "https://open.spotify.com/track/2WugJjgShjchyHCEXTVhN4"
     },
     {
       "album": {
@@ -3395,6 +3485,28 @@
     },
     {
       "album": {
+        "name": "TRAUMA2",
+        "url": "https://open.spotify.com/album/2BZH7SW04rLQ0HOa4I3uKv"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Zcar JPG",
+          "url": "https://open.spotify.com/artist/2ob3mlhTI7y5BZXVmjIL18"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270983,
+      "name": "ODIO quererte",
+      "url": "https://open.spotify.com/track/7riwTuogQgDGP1LBlwadXV"
+    },
+    {
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -4106,7 +4218,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 170698,
       "name": "Shotput",
       "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
@@ -4562,7 +4674,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 153005,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b"
@@ -4580,7 +4692,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 264066,
       "name": "Take Me to the River",
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
@@ -4980,7 +5092,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
@@ -5110,7 +5222,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 213355,
       "name": "Underdressed at the Symphony",
       "url": "https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW"

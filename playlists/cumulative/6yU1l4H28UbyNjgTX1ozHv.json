@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168361,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher - Acoustic",
       "url": "https://open.spotify.com/track/4oa1DiVw9hVhXeoD0c9pKK"
@@ -1041,7 +1041,7 @@
     },
     {
       "album": {
-        "name": "Flowers (Acoustic)",
+        "name": "Flowers - Acoustic",
         "url": "https://open.spotify.com/album/3FmAl6kjYy0nUwAgOhhjKn"
       },
       "artists": [
@@ -4170,6 +4170,24 @@
       "duration_ms": 299500,
       "name": "What's Up - Acoustic",
       "url": "https://open.spotify.com/track/6K8gvnCTE8vR5QAbpol2Rj"
+    },
+    {
+      "album": {
+        "name": "When a Man Loves a Woman (Acoustic)",
+        "url": "https://open.spotify.com/album/07CClNjoAklrtFbP4fSlbb"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Jay",
+          "url": "https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123791,
+      "name": "When a Man Loves a Woman - Acoustic",
+      "url": "https://open.spotify.com/track/2PN98rN23SlUeFWEsuzj9u"
     },
     {
       "album": {

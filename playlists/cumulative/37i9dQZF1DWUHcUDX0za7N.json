@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167052,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
+    },
+    {
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd"
       },
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194688,
       "name": "Can You Hear Me? (feat. Daiela)",
       "url": "https://open.spotify.com/track/0DdevPBh3T5igMwgsq9Hm4"

@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
@@ -4832,6 +4832,28 @@
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45"
+    },
+    {
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG"
+      },
+      "artists": [
+        {
+          "name": "Skelecta",
+          "url": "https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141739,
+      "name": "STEADY",
+      "url": "https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5"
     },
     {
       "album": {

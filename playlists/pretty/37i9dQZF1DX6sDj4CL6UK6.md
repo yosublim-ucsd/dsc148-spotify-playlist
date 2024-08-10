@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,170 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,176 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 38 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
 | 39 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 40 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
-| 41 | [Khoj \- Nature Tapes](https://open.spotify.com/track/61v7XhUdOsWktQZmkkSxxA) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 3:33 |
-| 42 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
+| 41 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
+| 42 | [Khoj \- Nature Tapes](https://open.spotify.com/track/61v7XhUdOsWktQZmkkSxxA) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Nature Tapes, Vol\. 1](https://open.spotify.com/album/3JxsX5nmbAn0lMrOcD5gPA) | 3:33 |
 | 43 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
 | 44 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 |
 | 45 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 55 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 |
 | 56 | [Peace Lily](https://open.spotify.com/track/1SASOKMlkabWVo1SwZdzDA) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1YNZ0OwZKqDwMXtAjhtTlc) | 3:45 |
 | 57 | [If I Tried](https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8) | [Sheil Sagar](https://open.spotify.com/artist/2PEzZphNZ2CtfL7V8j9AWy) | [If I Tried](https://open.spotify.com/album/7tAEmbfsN6V6fwnULj3rrd) | 4:18 |
-| 58 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 |
+| 58 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 |
 | 59 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 60 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 |
-| 61 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 |
+| 61 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 |
 | 62 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
 | 63 | [all over again](https://open.spotify.com/track/55Mzg7JvuRJsn9FoGuU0Kn) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Falze](https://open.spotify.com/artist/0S6ds2b08hBdYvGDO0LQ9T) | [all over again](https://open.spotify.com/album/5TwKDLEVzSf3FReatuvlu1) | 2:43 |
 | 64 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 71 | [To summer didn’t shine for us](https://open.spotify.com/track/3Slem59fCLqnreAqQxu23l) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [To summer didn’t shine for us](https://open.spotify.com/album/6V9lhpcM3w24zcjJfeVNX9) | 2:59 |
 | 72 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 |
 | 73 | [Hold Me](https://open.spotify.com/track/0Ln54jTpgtQL7R1FeK70fP) | [Ditty](https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R) | [Hold Me](https://open.spotify.com/album/0Eg6kYUGniNTOb59oTofPO) | 4:41 |
-| 74 | [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 |
-| 75 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 |
+| 74 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 |
+| 75 | [Keep](https://open.spotify.com/track/4eYkUYICxHoejgygQmBZR9) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [Keep \- Single](https://open.spotify.com/album/0VlDd0PvwmbCvCZO4qGcK5) | 2:24 |
 
 Snapshot ID: `ZptMDAAAAACR8labfXxC9zS6d2oTN218`

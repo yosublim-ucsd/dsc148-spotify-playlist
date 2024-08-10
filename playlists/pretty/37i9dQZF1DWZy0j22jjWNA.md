@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Let these songs help you start your day filled with faith and hope!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,632 likes - 72 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,686 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

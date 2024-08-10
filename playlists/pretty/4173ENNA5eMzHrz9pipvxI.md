@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Afrojack
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,207 likes - 10 songs - 26 min 31 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,208 likes - 10 songs - 26 min 31 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 9 | [What's A Girl To Do](https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy) | [What's A Girl To Do](https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC) | 2:27 |
 | 10 | [Mosika](https://open.spotify.com/track/6eNUbxMJ6BiTK4dHy9mzU0) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Mosika](https://open.spotify.com/album/6XJO3ByrRT51pfXEPJ6jvR) | 2:47 |
 
-Snapshot ID: `AAAdtimTj/VpDNgEi3DF/EbXp8K0d+7y`
+Snapshot ID: `AAAdt/5S8yb8XFyp7lJVz6TOrQT83WFc`

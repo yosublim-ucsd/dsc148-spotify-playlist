@@ -1,15 +1,95 @@
 {
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Blxst",
-  "num_followers": 2051239,
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Jordan Adetunji",
+  "num_followers": 2051350,
   "original_name": "B.A.E.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zq606QAAAABtqRw95WOPELpZHC5S/Rx1",
+  "snapshot_id": "ZrWUQAAAAADejD5efijEkxFHeDlV48Q8",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "Worth A Heartbreak (feat. Blxst & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/3upHz9svrEy675Ev9pT1Zn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Baddest In The Room",
+        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 158338,
+      "name": "Baddest In The Room",
+      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
+        "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
+      "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "KEHLANI (REMIX) [feat. Kehlani]",
         "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
@@ -29,7 +109,155 @@
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 163502,
+      "name": "Same Me (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1wMCySb5bZr2p7VYbLUTmb"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 186770,
+      "name": "should've wore a bonnet",
+      "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Copper Cove (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/6AbCAY8Wp0BXJ99itlWlVM"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Fuk You Mean",
+        "url": "https://open.spotify.com/album/7Jid01RSLUg5VscJB2nGd8"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Fuk You Mean",
+      "url": "https://open.spotify.com/track/7LORHC77uHgfpmCTzlP3Hw"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/5KqHr7ZZSA6srQrlJf22cL"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Confirmation (Remix) [feat. Lil Wayne]",
+        "url": "https://open.spotify.com/album/3rVybpJz7iFiWoNvnJSzhX"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Confirmation (feat. Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/62VfxpqUyqcHLs2ecnpooC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Pretty Brown (feat. Lil Baby & Rylo Rodriguez)",
         "url": "https://open.spotify.com/album/4wuWxg0t4wtLxj7YBwNSLx"
@@ -53,127 +281,75 @@
       "url": "https://open.spotify.com/track/2okwe0FT7oR150QcIWde38"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Body (feat. Cash Cobain)",
-      "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
+      "duration_ms": 265373,
+      "name": "N o C h i l l",
+      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Confirmation (Remix) [feat. Lil Wayne]",
-        "url": "https://open.spotify.com/album/3rVybpJz7iFiWoNvnJSzhX"
+        "name": "LOVE MAKE",
+        "url": "https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ"
       },
       "artists": [
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Confirmation (feat. Lil Wayne) - Remix",
-      "url": "https://open.spotify.com/track/62VfxpqUyqcHLs2ecnpooC"
+      "duration_ms": 214228,
+      "name": "LOVE MAKE",
+      "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "I'll Always Come Find You",
-        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
       "artists": [
         {
           "name": "Blxst",
           "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 179216,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/5KqHr7ZZSA6srQrlJf22cL"
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
-      "added_at": "2024-08-03 22:53:29",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+        "name": "Love U Forever",
+        "url": "https://open.spotify.com/album/1CSxde2uAh0CayI1qgtNWF"
       },
       "artists": [
         {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         }
       ],
-      "duration_ms": 331284,
-      "name": "LIFESTYLE",
-      "url": "https://open.spotify.com/track/249MAyb50uYCBMck0hSpz3"
+      "duration_ms": 168881,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/3YYJiE3pkh1fc2HibvSs8T"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 207585,
-      "name": "prove it",
-      "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Slow Down (feat. Future, Fridayy, & Mariah the Scientist)",
         "url": "https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce"
@@ -201,235 +377,7 @@
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "Worth A Heartbreak (feat. Blxst & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/3upHz9svrEy675Ev9pT1Zn"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "LOVE MAKE",
-        "url": "https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 214228,
-      "name": "LOVE MAKE",
-      "url": "https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "N o C h i l l",
-      "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Where You Been",
-        "url": "https://open.spotify.com/album/1FIEL1JZTLWKqtfeo4GabA"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        }
-      ],
-      "duration_ms": 142146,
-      "name": "Where You Been",
-      "url": "https://open.spotify.com/track/6dnzsTXwAaJws8zGrTFSAS"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Maliboo",
-        "url": "https://open.spotify.com/album/1utRPo55fvOxQOrgHgL85W"
-      },
-      "artists": [
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Maliboo",
-      "url": "https://open.spotify.com/track/0tPMJR4glCyy0BA1kZccjW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "ScoreGod",
-        "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
-      },
-      "artists": [
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
-        },
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 174579,
-      "name": "Just Want You (feat. Hunxho)",
-      "url": "https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Your Friends (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Your Friends (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
-        "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
-      "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "P&E (feat. Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/5BwI8Y8sZjDL3qAEqF76hA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "One Bad Decision (feat. Ella Mai & Roddy Ricch)",
-        "url": "https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "One Bad Decision (feat. Ella Mai & Roddy Ricch)",
-      "url": "https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "C,XOXO",
-        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "Uuugly",
-      "url": "https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "What's Your Name?",
-        "url": "https://open.spotify.com/album/3IqqnPnk4bmXdf6CvPNyoM"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "What's Your Name?",
-      "url": "https://open.spotify.com/track/4jdgsqGqImatlV1C5xahOd"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
@@ -445,7 +393,7 @@
       "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -469,7 +417,7 @@
       "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "act v: there goes another vase",
         "url": "https://open.spotify.com/album/6ZOjP5RxSPoCmheXj9BTDo"
@@ -485,7 +433,7 @@
       "url": "https://open.spotify.com/track/0bmCqv1VW9Dvcr4yzcTYx1"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "SPEAK NOW",
         "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
@@ -505,7 +453,7 @@
       "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
@@ -521,7 +469,7 @@
       "url": "https://open.spotify.com/track/5tJVoffqfQcEPtKQXtUHXb"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "IDGAF (feat. Chris Brown and Mariah the Scientist)",
         "url": "https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE"
@@ -545,23 +493,43 @@
       "url": "https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Impromptu",
-        "url": "https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3"
+        "name": "Jus' Know",
+        "url": "https://open.spotify.com/album/74DZ6KxieVwYUS0zYVReco"
       },
       "artists": [
         {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+          "name": "BlackMayo",
+          "url": "https://open.spotify.com/artist/4lqgnM7106Fmg20NEu4OAH"
         }
       ],
-      "duration_ms": 185159,
-      "name": "Impromptu",
-      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
+      "duration_ms": 120973,
+      "name": "Jus' Know",
+      "url": "https://open.spotify.com/track/3PbutKhWZwCvV36TMJiNl3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 207585,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
@@ -585,63 +553,71 @@
       "url": "https://open.spotify.com/track/3qm3IN6Yx53r3NIououTey"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "Somebody (feat. Future)",
-      "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 186770,
-      "name": "should've wore a bonnet",
-      "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
+      "duration_ms": 331284,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/249MAyb50uYCBMck0hSpz3"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "ScoreGod",
+        "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
         }
       ],
-      "duration_ms": 228560,
-      "name": "GLOCK",
-      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
+      "duration_ms": 174579,
+      "name": "Just Want You (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/0qWK7UJLquvQL7debk6UJu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Your Friends (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/6XJjYBR0cHPDJsIskQX9mM"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Your Friends (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0u4jOsRESGP1irJNTJQlGX"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Thang For You (feat. No Cap)",
         "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
@@ -661,43 +637,31 @@
       "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "L o s e M y M i n d",
-        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
+        "name": "One Bad Decision (feat. Ella Mai & Roddy Ricch)",
+        "url": "https://open.spotify.com/album/1oh2ZKuIJrJmH6rsEAgfqF"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 183990,
-      "name": "L o s e M y M i n d",
-      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Intentions (feat. Hunxho)",
-        "url": "https://open.spotify.com/album/2vT1OjbnmGuFLhaw4nN8Ah"
-      },
-      "artists": [
-        {
-          "name": "Lil Darius",
-          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         },
         {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Intentions (feat. Hunxho)",
-      "url": "https://open.spotify.com/track/6KcHNmb0ISeoKnIZhCbbLU"
+      "duration_ms": 226479,
+      "name": "One Bad Decision (feat. Ella Mai & Roddy Ricch)",
+      "url": "https://open.spotify.com/track/1hMQH0ZPAgfyRWRhpQYtEW"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -717,171 +681,63 @@
       "url": "https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+        "name": "Intentions (feat. Hunxho)",
+        "url": "https://open.spotify.com/album/2vT1OjbnmGuFLhaw4nN8Ah"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
         },
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Truth Is (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ"
+      "duration_ms": 165517,
+      "name": "Intentions (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/6KcHNmb0ISeoKnIZhCbbLU"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+      "duration_ms": 213360,
+      "name": "Somebody (feat. Future)",
+      "url": "https://open.spotify.com/track/27wHINa0EyMyU55WyiEV9l"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Baddest In The Room",
-        "url": "https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 158338,
-      "name": "Baddest In The Room",
-      "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "You (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "You (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Float 2 London",
-        "url": "https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 191322,
-      "name": "Love In The Middle",
-      "url": "https://open.spotify.com/track/4B6a1nCCCkiNCcwu67QDu6"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Down With Me",
-        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 120034,
-      "name": "Down With Me",
-      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Agora Hills",
-      "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Head Melodies",
         "url": "https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P"
@@ -901,7 +757,23 @@
       "url": "https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Impromptu",
+        "url": "https://open.spotify.com/album/7JVvi1AzVjB8l5pQaDb1b3"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 185159,
+      "name": "Impromptu",
+      "url": "https://open.spotify.com/track/52brDlLtV8OmnqsPZQpOFu"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Unthinkable",
         "url": "https://open.spotify.com/album/68PgFSPyYXnClQ4tNVgGYb"
@@ -917,7 +789,7 @@
       "url": "https://open.spotify.com/track/5f6HjjquypJa3JOtAzdDpi"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
@@ -937,10 +809,10 @@
       "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
       },
       "artists": [
         {
@@ -948,12 +820,120 @@
           "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "You (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "You (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 115920,
+      "name": "Uuugly",
+      "url": "https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "What's Your Name?",
+        "url": "https://open.spotify.com/album/3IqqnPnk4bmXdf6CvPNyoM"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "What's Your Name?",
+      "url": "https://open.spotify.com/track/4jdgsqGqImatlV1C5xahOd"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Float 2 London",
+        "url": "https://open.spotify.com/album/1SQNd5rYIqvCYYJzm1tMJx"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 191322,
+      "name": "Love In The Middle",
+      "url": "https://open.spotify.com/track/4B6a1nCCCkiNCcwu67QDu6"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/6qXPKqlxpKnDqYYrFDKnsx"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 120034,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/5ZDIwpR2JMwuRM8xumtmxn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Xho Sex",
         "url": "https://open.spotify.com/album/5hm2nCOxOQNQQbho2emm9t"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 
 > Listen to Selena's latest releases, plus all her essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,534 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,688 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcISkz62UgzG.md) - [plain]
 | 27 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
 | 28 | [Feel Me](https://open.spotify.com/track/4mt7C6wYeTUWDDk7xKym9w) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 3:46 |
 | 29 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 |
-| 30 | [A Year Without Rain](https://open.spotify.com/track/0lYS1tJg3r6ATe9bRPB0Hu) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [A Year Without Rain \(International Standard Version\)](https://open.spotify.com/album/6r8008bnpeLNfHdYCKtPK0) | 3:54 |
+| 30 | [A Year Without Rain](https://open.spotify.com/track/0lYS1tJg3r6ATe9bRPB0Hu) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [A Year Without Rain \- International Standard Version](https://open.spotify.com/album/6r8008bnpeLNfHdYCKtPK0) | 3:54 |
 | 31 | [Souvenir](https://open.spotify.com/track/3ZCBSFcZSRM9Z48ew28Zrf) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 |
 | 32 | [Naturally](https://open.spotify.com/track/1YaVmBh7EAeR54FIjuFcb5) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [Kiss & Tell](https://open.spotify.com/album/5lm8loAsSpprr19lwSY16V) | 3:22 |
 | 33 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 |

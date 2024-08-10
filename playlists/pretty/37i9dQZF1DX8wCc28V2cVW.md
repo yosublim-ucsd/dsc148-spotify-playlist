@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,238 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,281 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 59 | [Oblivion \- Never Let it Go Version](https://open.spotify.com/track/4Z2IqPRQ7SWHFQK1J9LrBb) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality \~ Arrangement Album \~](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 5:15 |
 | 60 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
 | 61 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
-| 62 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
-| 63 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
-| 64 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
-| 65 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
-| 66 | [FFVII REMAKE: STAND UP](https://open.spotify.com/track/5yIdGlLXDQimBN6UUDIB7C) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [土岐 望](https://open.spotify.com/artist/1DYPIMSm286DfApyzJmwW2) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:09 |
+| 62 | [Serah's Theme \- Memories \-](https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073) | [frances maya](https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 2:47 |
+| 63 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
+| 64 | [「Prelude \- menu \-」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/21yzCKqAqVaBYes3Gz8P9t) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 3:00 |
+| 65 | [Shield of the King \- Theme of EPISODE GLADIOLUS](https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:16 |
+| 66 | [FFVII REMAKE: ミッドナイトスパイラル \(Midnight Spiral\)](https://open.spotify.com/track/7msxPsfAJSjUWkSi1q3qXS) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 1:59 |
 | 67 | [Rolanberry Fields](https://open.spotify.com/track/59P5OAoqxFZfXss9oNrSNH) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 2:27 |
 | 68 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 |
 | 69 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 |

@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: True Beauty\(여신강림\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-183 songs - 11 hr 9 min
+184 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [In this world \- Japan Ver.](https://open.spotify.com/track/03ZOAg3nzly7ZhoP7VRcWV) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Plainwalker X KIMJAEJOONG \(Original Webtoon Soundtrack\) \[Japan Ver.\]](https://open.spotify.com/album/0M7wvYPIu6ZJ1bIG2q1Quf) | 3:57 | 2023-05-15 |  |
 | [Is it all right](https://open.spotify.com/track/0KngKTAh6HAlvAWp1rmmrj) | [Ran](https://open.spotify.com/artist/45WeznifMIAugR9udUQTNS) | [사랑도 없이 결혼 \(Original Soundtrack\), Pt1](https://open.spotify.com/album/0EkaOnrGPsSU6XRE6AW0DX) | 4:13 | 2024-01-03 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.2](https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS) | 3:24 | 2022-08-12 | 2023-12-11 |
+| [ISHTAR \(Webtoon ‘From a Knight to a Lady’ X COOMO\)](https://open.spotify.com/track/0bdf46D0ockUBGUj0LK7f2) | [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [ISHTAR \(Webtoon ‘From a Knight to a Lady’ X COOMO\)](https://open.spotify.com/album/0FqJTKBkz4rJKY3gWHng8p) | 3:49 | 2024-07-24 |  |
 | [It's always you](https://open.spotify.com/track/0eK4urzQJx9OtXbkzyp6qs) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [Café Anchorage OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/25VwWPtgnTjfsczZ7KwMj0) | 3:30 | 2023-04-01 | 2024-06-03 |
 | [It's not what I want](https://open.spotify.com/track/6tEAPcJcKXUfAs2QveWgpQ) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Café Anchorage OST Part.19 \(Soundtrack\)](https://open.spotify.com/album/0IEOcub1mb7jJz3wvvtXWn) | 3:22 | 2023-06-13 |  |
 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 | 2022-05-09 | 2023-12-11 |
@@ -167,7 +168,7 @@
 | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz) | 4:31 | 2022-05-09 |  |
 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 | 2022-05-09 | 2023-02-23 |
 | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj) | 3:14 | 2022-05-09 | 2023-02-23 |
-| [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 | 2023-02-14 |  |
+| [그대의 손잡고 걸어갈때면](https://open.spotify.com/track/7uiYOkO9RAHKxBIWQ4tlG5) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/0YCzPT5o16rWbEXm7k3p62) | 3:30 | 2023-02-14 | 2024-08-10 |
 | [그땐 내가 먼저 웃어볼게](https://open.spotify.com/track/0gYMkoKZZHsXAPBWd92gJh) | [JOO WON TAK](https://open.spotify.com/artist/2xiWDvlMPYGgbTIzySLyO8) | [바이트미 \(Original Webtoon Soundtrack\) Pt.24](https://open.spotify.com/album/2SbPuwSFkGEeqYYvTsQRsW) | 3:16 | 2023-01-26 | 2024-05-10 |
 | [기적이란 이런걸까](https://open.spotify.com/track/1P4T8jbSKFn1eQwUxJWeFl) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.17](https://open.spotify.com/album/4b1AKObPeD9RwpbEqYNUTl) | 3:56 | 2023-03-27 | 2024-05-10 |
 | [내가 미안해](https://open.spotify.com/track/4aoDe43Tdn2bd8hXWn0cgX) | [Rumy](https://open.spotify.com/artist/56q60vgstYOBFxfFQ6Q0PL) | [바이트미 \(Original Webtoon Soundtrack\) Pt\. 9](https://open.spotify.com/album/0BHhkr4LxrVN0GcEtLrUG6) | 3:26 | 2022-10-14 | 2023-12-11 |

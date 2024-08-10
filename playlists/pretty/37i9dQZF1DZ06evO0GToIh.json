@@ -1,12 +1,12 @@
 {
-  "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 240682,
+  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
+  "num_followers": 240818,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAACYUwgumUeblVv6IBKZ4emA",
+  "snapshot_id": "ZrQKgAAAAABCGjLbMullATjd1bM7Rv+m",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEPTUNO",
-        "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 161985,
-      "name": "NEPTUNO",
-      "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Del Trigo",
         "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 178864,
       "name": "El Del Trigo",
       "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEPTUNO",
+        "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "NEPTUNO",
+      "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 45 min
+80 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Are You Lonely](https://open.spotify.com/track/5a1Cm3iYkS0nWn9fTijOq4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:37 | 2023-06-18 | 2023-12-14 |
 | [Avem \(The Aviation Theme\)](https://open.spotify.com/track/0NBD4g9Zwy1rMAMWBYS6Ju) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Avem \(The Aviation Theme\)](https://open.spotify.com/album/7Cf1ov9ofReIxvRh5hkFPD) | 3:19 | 2023-06-18 | 2023-07-16 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-06-16 |  |
+| [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 | 2024-08-10 |  |
 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 | 2023-06-18 |  |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/0SML6wWerD0yI2Xd4OUC1R) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:31 | 2024-05-05 |  |
 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/5M4fVUCKf3nFN1hbQEuFwA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/18CHItBE46OBhU3Qbybr7y) | 2:31 | 2023-11-10 | 2023-12-18 |

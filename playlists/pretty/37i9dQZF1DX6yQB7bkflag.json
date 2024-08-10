@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Aziz Hedra ",
-  "num_followers": 116183,
+  "num_followers": 116182,
   "original_name": "Pop Rising Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrVukQAAAAD1HNCwSxW3XqFdsujgFXBP",
+  "snapshot_id": "ZrWxmgAAAABopk1bG4AvN04CpZ0VKBbs",
   "tracks": [
     {
       "added_at": "2024-08-08 17:05:51",
@@ -273,9 +273,29 @@
       "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
+      "added_at": "2024-08-09 06:05:14",
+      "album": {
+        "name": "Say That You Will Wait For Me",
+        "url": "https://open.spotify.com/album/5KH1ctzPRIWm1AyBAww5WX"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3OOg1OfH1ta9ugur0HQMyi"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Say That You Will Wait For Me",
+      "url": "https://open.spotify.com/track/2PZSl2ecywyl4L18Q6OVXi"
+    },
+    {
       "added_at": "2024-08-08 17:05:51",
       "album": {
-        "name": "In The Lonely Hour (10th Anniversary Edition)",
+        "name": "In The Lonely Hour - 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
       "artists": [

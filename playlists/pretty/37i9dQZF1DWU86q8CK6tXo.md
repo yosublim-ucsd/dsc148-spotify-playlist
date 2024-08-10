@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,869 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,891 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 17 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
 | 18 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 |
 | 19 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
-| 20 | [4x4xU](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4x4xU](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
-| 21 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 20 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
+| 21 | [4x4xU](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4x4xU](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 22 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 23 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 |
 | 24 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 30 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 |
 | 31 | [Super Breath](https://open.spotify.com/track/71dMjqJ8UJV700zYs5YZCh) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Super Breath](https://open.spotify.com/album/6Ab1VSoMD5fvlagOW2QDOJ) | 3:31 |
-| 32 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
-| 33 | [Honest](https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters](https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p) | 3:52 |
+| 32 | [Honest](https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Still Waters](https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p) | 3:52 |
+| 33 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 34 | [Vultures \(feat\. PVRIS\)](https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:58 |
 | 35 | [I Know](https://open.spotify.com/track/66KnATMXwIjIR4ju5KYznX) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Know](https://open.spotify.com/album/6auO2yyC62fgBHAXmPf7ap) | 3:05 |
 | 36 | [Free Like](https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Free Like](https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN) | 2:49 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:00 |
 | 39 | [Calling](https://open.spotify.com/track/2bSNePFmPxgSnLQp9o1YRq) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Full Circle](https://open.spotify.com/album/5NOrX7sIbqclPUxez3aO5n) | 3:11 |
 | 40 | [Superstar](https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/1qp5OgpmF5KZeXoWPWkSI9) | 4:02 |
-| 41 | [Son Of A Gun](https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Son Of A Gun](https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0) | 3:23 |
-| 42 | [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 |
+| 41 | [Body \(feat\. Tima Dee\)](https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Body \(feat\. Tima Dee\)](https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58) | 2:45 |
+| 42 | [Son Of A Gun](https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Son Of A Gun](https://open.spotify.com/album/293OStVaxP03Eovnp5aeC0) | 3:23 |
 | 43 | [Ticking Time Bomb](https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Power of Panic](https://open.spotify.com/album/1zfxKqa3dLKcXto7XOZT0u) | 2:47 |
 | 44 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 |
 | 45 | [Rental](https://open.spotify.com/track/2SctW8kEr0eNsnantkaxj1) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Rental](https://open.spotify.com/album/2kT3e81zlLH8LsIfw1d8da) | 3:09 |
 | 46 | [Peppermint Sky](https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK) | [Abi Carter](https://open.spotify.com/artist/6ryJRp2gIl77hK36D8tz2m) | [Peppermint Sky](https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR) | 2:49 |
-| 47 | [Feminine Rage](https://open.spotify.com/track/2dolhFd9SUSd7hmIKPpoMM) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Feminine Rage](https://open.spotify.com/album/4yLWjEgNd7RmlsoxWZIryf) | 2:43 |
-| 48 | [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 |
-| 49 | [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 |
-| 50 | [PRAY FOR ME](https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [PRAY FOR ME](https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z) | 3:36 |
+| 47 | [Be My Glory](https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Be My Glory](https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf) | 4:22 |
+| 48 | [Feminine Rage](https://open.spotify.com/track/2dolhFd9SUSd7hmIKPpoMM) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Feminine Rage](https://open.spotify.com/album/4yLWjEgNd7RmlsoxWZIryf) | 2:43 |
+| 49 | [PRAY FOR ME](https://open.spotify.com/track/5I8bc2tQYlB7EWT0eLMxpb) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [PRAY FOR ME](https://open.spotify.com/album/5XaflvAOcoSJKWoVmywB9Z) | 3:36 |
+| 50 | [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 |
 
 Snapshot ID: `ZrTVngAAAACxVIFEu66HfmUKVNgpaQWW`

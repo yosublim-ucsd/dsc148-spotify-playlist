@@ -2385,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Sugarpills",
+        "url": "https://open.spotify.com/album/5rAwTVkWbun9dHeyAq5gnX"
+      },
+      "artists": [
+        {
+          "name": "Cvndy",
+          "url": "https://open.spotify.com/artist/74WzFWbliZQYYtp8Vft4vU"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222407,
+      "name": "Sugarpills",
+      "url": "https://open.spotify.com/track/7MpD2YZbkP21oZNOkmBfct"
+    },
+    {
+      "album": {
         "name": "Sugra",
         "url": "https://open.spotify.com/album/32hLoOV8fjlsJDLX0Hcgof"
       },

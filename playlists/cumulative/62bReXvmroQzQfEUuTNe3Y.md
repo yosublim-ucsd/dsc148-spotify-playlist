@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-441 songs - 1 day 0 hr 55 min
+442 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [In Your Eyes](https://open.spotify.com/track/4a5XHjTAKAoTKMgavVmh9y) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [In Your Eyes](https://open.spotify.com/album/29KTDxHcqWtRscRUWrcIzI) | 3:16 | 2021-06-12 | 2022-07-23 |
 | [In Your Eyes](https://open.spotify.com/track/501sz40LhXSFQHA2LTXMpw) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [In Your Eyes](https://open.spotify.com/album/5bdr0J9B1xKOKHtROVOBDR) | 3:16 | 2020-09-13\* | 2021-05-15 |
 | [Infected](https://open.spotify.com/track/7HCH8oqXmXCnYXDleGlJFP) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [Anton Karskiy](https://open.spotify.com/artist/2oD2lrsJ6SWbNJI2XiMV0n), [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Infected](https://open.spotify.com/album/6EfJ5wbalgnQY12ABXCKXF) | 2:37 | 2023-02-10 |  |
+| [Infinite Love](https://open.spotify.com/track/5BFJZcPnKwT1fVBQ1ewPZS) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4) | [Infinite Love](https://open.spotify.com/album/1PjNPYkyGVExyT8zgaafqZ) | 2:59 | 2024-08-09 |  |
 | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/track/6aVXogDmwqAJCrFguyWbKj) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [PRETTY YOUNG](https://open.spotify.com/artist/3OYs1ddotHRvkUDETp3ICh) | [Infinity \(PRETTY YOUNG Remix\)](https://open.spotify.com/album/4lKcHUvBeYN49B2fJIqQti) | 3:30 | 2022-03-04 | 2022-06-18 |
 | [Inner Light](https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Inner Light](https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD) | 4:17 | 2021-07-31 | 2021-09-18 |
 | [Into You](https://open.spotify.com/track/6mSvPv99eglwMQB0gypeGI) | [Sylow](https://open.spotify.com/artist/4EviTlMaY400FfDijNqzaK), [Steve RGA](https://open.spotify.com/artist/1moCa3rEpOn2cNzv3GdKBN) | [Into You](https://open.spotify.com/album/04uw8O9c0uxp2yy6b9UJp9) | 3:00 | 2021-09-04 | 2021-10-16 |
@@ -313,7 +314,7 @@
 | [Remember](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId) | [DRAY](https://open.spotify.com/artist/2kSdRzYPQR1kjM9jkWsS5M) | [Remember](https://open.spotify.com/album/1kVLVbJzfk3FeQhZsC13YJ) | 3:08 | 2021-12-11 |  |
 | [Reminds Me Of You](https://open.spotify.com/track/4WWdzgApSRfHVfKve4DqBx) | [Hii Spirits](https://open.spotify.com/artist/64aUiYi5m6ifbMbcREcdHQ), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Reminds Me Of You](https://open.spotify.com/album/5unDlrR3iBAqn4vC0M0sWJ) | 3:39 | 2023-12-08 | 2024-01-13 |
 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-19 |  |
-| [Ribs \- Joe Hertz Remix](https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Ribs \(Joe Hertz Remix\)](https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p) | 3:48 | 2024-02-23 |  |
+| [Ribs \- Joe Hertz Remix](https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Ribs \(Joe Hertz Remix\)](https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p) | 3:48 | 2024-02-23 | 2024-08-10 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-03-06 | 2021-10-02 |
 | [Ride With Me](https://open.spotify.com/track/6CnR6eRYGYQc9bEtQeiiZR) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ride With Me](https://open.spotify.com/album/2Pwb2CcHxdjwnxoOzIerp4) | 2:56 | 2024-05-17 |  |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2021-10-02 | 2024-02-24 |

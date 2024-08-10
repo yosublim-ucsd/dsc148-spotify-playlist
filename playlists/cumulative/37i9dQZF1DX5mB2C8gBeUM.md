@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Yung Gravy
+> Country gone wild! You never know what you're gonna get\. Cover: mgk and Jelly Roll
 
-477 songs - 23 hr 42 min
+478 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2022-07-01 | 2022-09-17 |
 | [Bonfire](https://open.spotify.com/track/35Wg7qEpf5Ai1c6PDm5v4Q) | [Greg Keys](https://open.spotify.com/artist/026BdhMiLdezQFhx6zujEa), [Faith Schueler](https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I) | [Bonfire](https://open.spotify.com/album/0jChumoxm3xtMlxFNlBR1A) | 3:37 | 2021-12-10 | 2022-06-18 |
 | [Boots, Jeans, & Jesus](https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Boots, Jeans, & Jesus](https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8) | 2:37 | 2023-07-28 |  |
+| [Bottle Go Down](https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Bottle Go Down](https://open.spotify.com/album/1MNfcfYPbHA955TYtA6ttP) | 2:17 | 2024-08-09 |  |
 | [Bottled Up](https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Bottled Up](https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu) | 2:37 | 2022-01-28 | 2024-04-13 |
 | [Bottom Of This Bottle](https://open.spotify.com/track/7JhbMQw7V8qsJoCGh29SKp) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9), [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Bottom Of This Bottle](https://open.spotify.com/album/6Jwg4j56ovv2lKOOdaup4R) | 3:10 | 2021-12-10 | 2022-04-09 |
 | [Bourbon In Barrels](https://open.spotify.com/track/3tMdzDTUhQbBH7pTqP4Oik) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP), [UG skywalkin](https://open.spotify.com/artist/0ueHgiiwRHbqzl5vUzv6GW) | [Bourbon In Barrels](https://open.spotify.com/album/3xeIDLOOg5cnb0PQHS70aW) | 2:31 | 2023-07-07 | 2024-04-23 |
@@ -439,7 +440,7 @@
 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-10 | 2022-01-01 |
 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 | 2024-03-22 |  |
 | [W+W](https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [A.J.](https://open.spotify.com/artist/7qaAY5NJfS75zs9Z4XG0Dx) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:47 | 2021-12-10 | 2023-02-02 |
-| [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 | 2024-06-01 |  |
+| [Warning Shot](https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Warning Shot](https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8) | 2:25 | 2024-06-01 | 2024-08-10 |
 | [Waste of Time](https://open.spotify.com/track/5vsgUdQ1FdeAf0id2TAb1U) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Mama Tried](https://open.spotify.com/album/1vnNgfzYhevdcQyGDkcmqb) | 2:19 | 2023-11-17 | 2024-04-06 |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 | 2023-07-01 |
 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 | 2021-12-10 | 2022-06-11 |

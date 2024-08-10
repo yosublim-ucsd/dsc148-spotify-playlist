@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: 42 Dugg",
+  "description": "Strictly for the streets. Cover: Polo G",
   "name": "Out The Mud",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 176551,
       "name": "2 Choices",
       "url": "https://open.spotify.com/track/69rinMQ4lHU0cZeaRCPk9q"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178310,
       "name": "Bang",
       "url": "https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8"
@@ -5125,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "Coke Flow (feat. Cootie)",
+        "url": "https://open.spotify.com/album/0eB89TCXrdhEfjOnjFPhfR"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "Coke Flow (feat. Cootie)",
+      "url": "https://open.spotify.com/track/1mjOZ2PNjMY2kYUQ9yIMT6"
+    },
+    {
+      "album": {
         "name": "CM10: Free Game",
         "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
       },
@@ -6176,7 +6198,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 153106,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I"
@@ -9162,7 +9184,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 133708,
       "name": "Ghetto Boyz",
       "url": "https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1"
@@ -9571,6 +9593,24 @@
     },
     {
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132774,
+      "name": "God's Favorite",
+      "url": "https://open.spotify.com/track/4MQRRl6GpDOB5GpaEYT0o3"
+    },
+    {
+      "album": {
         "name": "Goin Up",
         "url": "https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932"
       },
@@ -9866,6 +9906,24 @@
       "duration_ms": 157204,
       "name": "Green Hearts",
       "url": "https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh"
+    },
+    {
+      "album": {
+        "name": "Grew Up In The Raq",
+        "url": "https://open.spotify.com/album/0tvSLAcaAcWetn5DI3CiqR"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119490,
+      "name": "Grew Up In The Raq",
+      "url": "https://open.spotify.com/track/2aZgH7lxjiK4FE4c4DKLaD"
     },
     {
       "album": {
@@ -10365,6 +10423,28 @@
     },
     {
       "album": {
+        "name": "Head Gone",
+        "url": "https://open.spotify.com/album/1bDheAlree2Z6Ip2BFDLPt"
+      },
+      "artists": [
+        {
+          "name": "Rundown Choppaboy",
+          "url": "https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG"
+        },
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156071,
+      "name": "Head Gone",
+      "url": "https://open.spotify.com/track/4tMxdpdgi5thc8LRiMXXSZ"
+    },
+    {
+      "album": {
         "name": "Head Tapper",
         "url": "https://open.spotify.com/album/5eMrirWeLNGgyNQ1SyJ9JO"
       },
@@ -10795,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Hit Stick",
+        "url": "https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "Hit Stick",
+      "url": "https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4"
+    },
+    {
+      "album": {
         "name": "Hitta (feat. Bobby Shmurda)",
         "url": "https://open.spotify.com/album/466zMR5xzEXwF4zU17alUf"
       },
@@ -10934,6 +11032,28 @@
       "duration_ms": 175125,
       "name": "Hood Rats (with Sukihana)",
       "url": "https://open.spotify.com/track/3bdyyYQ9Ykldt7XOgxWNQY"
+    },
+    {
+      "album": {
+        "name": "HOODBACHI",
+        "url": "https://open.spotify.com/album/3Sq4mRcwWTsq37jQR6ns0w"
+      },
+      "artists": [
+        {
+          "name": "Doodie Lo",
+          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117798,
+      "name": "HOODBACHI",
+      "url": "https://open.spotify.com/track/4R7k76nZNHYosG4xOsZ8eh"
     },
     {
       "album": {
@@ -12232,7 +12352,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 246360,
       "name": "In The Air (feat. Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/4y9XkoxMmpRSIjYKVmB8Ew"
@@ -13788,7 +13908,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 145465,
       "name": "Letter to the Devil",
       "url": "https://open.spotify.com/track/0ycS8LLvSE22HJehLiQkDq"
@@ -15282,7 +15402,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155998,
       "name": "MIGO",
       "url": "https://open.spotify.com/track/00Y58IUH7GfXLOk1ZpKVQY"
@@ -15330,6 +15450,28 @@
       "duration_ms": 159840,
       "name": "Million Dollars Worth of Game (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL"
+    },
+    {
+      "album": {
+        "name": "Millions for My Pain",
+        "url": "https://open.spotify.com/album/7HRBGLZPKSTsBRFsA8f7P2"
+      },
+      "artists": [
+        {
+          "name": "DeeBaby",
+          "url": "https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142344,
+      "name": "Millions for My Pain",
+      "url": "https://open.spotify.com/track/5oqUSnOxiJ6vuuZYdhqDTj"
     },
     {
       "album": {
@@ -16366,6 +16508,24 @@
       "duration_ms": 190318,
       "name": "My Image",
       "url": "https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N"
+    },
+    {
+      "album": {
+        "name": "BREAK THE SILENCE",
+        "url": "https://open.spotify.com/album/3uDTD95Lj5iienAFLDC9WO"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137190,
+      "name": "MY KITCHEN",
+      "url": "https://open.spotify.com/track/4drFGEva9LvMiY6QWVeJAe"
     },
     {
       "album": {
@@ -18191,6 +18351,28 @@
     },
     {
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192211,
+      "name": "Only Gang (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/36ygtcJikZpJW7W2lM2CFY"
+    },
+    {
+      "album": {
         "name": "Youngest N Charge 2",
         "url": "https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx"
       },
@@ -19476,7 +19658,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 178248,
       "name": "Pookie",
       "url": "https://open.spotify.com/track/2mrsqFcUqu3eLxb471SFnc"
@@ -20362,7 +20544,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 132000,
       "name": "Real Dior Members",
       "url": "https://open.spotify.com/track/3SDXBIPigbBk8qAYvsODsx"
@@ -21038,7 +21220,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 140766,
       "name": "Ridin Round",
       "url": "https://open.spotify.com/track/0Q08VPRP2KMgifsgi38uE2"
@@ -24671,6 +24853,28 @@
     },
     {
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Survival Of The Fittest (feat. Future)",
+      "url": "https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd"
+    },
+    {
+      "album": {
         "name": "Survivor\u2019s Remorse",
         "url": "https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W"
       },
@@ -24748,6 +24952,24 @@
       "duration_ms": 158731,
       "name": "Swing My Doe (feat. BiC Fizzle)",
       "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
+    },
+    {
+      "album": {
+        "name": "Tornado Warning",
+        "url": "https://open.spotify.com/album/0SdfpiOCZqn3s2Kz1QhBLs"
+      },
+      "artists": [
+        {
+          "name": "Spinabenz",
+          "url": "https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127268,
+      "name": "Switch Places With Me",
+      "url": "https://open.spotify.com/track/3aVmTnamofbElWbhhyMIpE"
     },
     {
       "album": {
@@ -24982,7 +25204,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 354750,
       "name": "Tears Of War",
       "url": "https://open.spotify.com/track/3VO1G2yBYY90M57J9bcOrY"
@@ -27154,7 +27376,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 188119,
       "name": "Vulture",
       "url": "https://open.spotify.com/track/77Q0N60N7yV8JhXPhwWeTQ"
@@ -27252,7 +27474,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163000,
       "name": "WAKE EM UP",
       "url": "https://open.spotify.com/track/5b9eyzFhqDrxDjySPlGCo7"
@@ -27412,7 +27634,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 160129,
       "name": "War Time",
       "url": "https://open.spotify.com/track/71U449BwokARUhsdCW1gCk"
@@ -28013,6 +28235,32 @@
     },
     {
       "album": {
+        "name": "Where Them Shooters At",
+        "url": "https://open.spotify.com/album/27ME7QAZ1asnVJYVNQdqcx"
+      },
+      "artists": [
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L"
+        },
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Perfect Timing",
+          "url": "https://open.spotify.com/artist/65HlwOj7iB8ndiXjGUEFdX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183738,
+      "name": "Where Them Shooters At",
+      "url": "https://open.spotify.com/track/1JQGmuEeJX65ERASDadSZ6"
+    },
+    {
+      "album": {
         "name": "Clark Street Baby",
         "url": "https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann"
       },
@@ -28134,6 +28382,24 @@
       "duration_ms": 134400,
       "name": "Who Not Turnt",
       "url": "https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M"
+    },
+    {
+      "album": {
+        "name": "Who The Who\u2019s",
+        "url": "https://open.spotify.com/album/7tXscTU7gEgDlGArw9zaqW"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Who The Who\u2019s",
+      "url": "https://open.spotify.com/track/54KgqBbs6d13vWIVZDoz19"
     },
     {
       "album": {

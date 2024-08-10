@@ -4806,6 +4806,28 @@
     {
       "album": {
         "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184623,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/0N5qTofETElfJvRvpF3Mk6"
+    },
+    {
+      "album": {
+        "name": "Se Agradece",
         "url": "https://open.spotify.com/album/2Lmb5xFacnm56wDhFRdUDO"
       },
       "artists": [
@@ -4820,7 +4842,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 184866,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/3pCkC3Ahgl7MShJbafchZz"
@@ -5431,6 +5453,24 @@
     },
     {
       "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "album": {
         "name": "House of Pleasure",
         "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
       },
@@ -5442,7 +5482,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -6842,7 +6882,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 134410,
       "name": "I' AM",
       "url": "https://open.spotify.com/track/3e5gPPx7MTGoYffXH70Tqf"
@@ -13590,7 +13630,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU"
@@ -14308,7 +14348,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 124689,
       "name": "SAN TURRONA",
       "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
@@ -14326,7 +14366,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 126652,
       "name": "San Turrona (Mashup)",
       "url": "https://open.spotify.com/track/3L6lyGKHwhY7NUkj5w7src"
@@ -15750,7 +15790,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
@@ -15768,7 +15808,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 163235,
       "name": "Terapia de Choque (Mashup)",
       "url": "https://open.spotify.com/track/342mfIy5mttfkwgjCMq7GJ"

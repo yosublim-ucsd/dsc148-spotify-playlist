@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 194400,
       "name": "Akureyri",
       "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
+    },
+    {
+      "album": {
         "name": "Combustible",
         "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 179123,
       "name": "Demasiado Lejos",
       "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Enhorabuena",
+        "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168459,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu"
+    },
+    {
+      "album": {
         "name": "Enredo",
         "url": "https://open.spotify.com/album/7dTdzt8m1rRwi7wmaP1MQ6"
       },
@@ -2360,7 +2396,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
@@ -3624,6 +3660,28 @@
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
+    },
+    {
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/5rhrUfCfL5EQYsvac7KnEC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ldYT93XPVpr70Qh9H0gN5"
     },
     {
       "album": {
@@ -6093,6 +6151,24 @@
     },
     {
       "album": {
+        "name": "Te doy las gracias",
+        "url": "https://open.spotify.com/album/40tFSBG3a1jb0XiFokbBXT"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219157,
+      "name": "Te doy las gracias",
+      "url": "https://open.spotify.com/track/60ftxYw9vpJsw2texcOguV"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -6286,7 +6362,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -6690,7 +6766,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186617,
       "name": "Verano En NY",
       "url": "https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ"
@@ -6818,6 +6894,24 @@
       "duration_ms": 140906,
       "name": "YELIANA - Cap. 3 - ZHA",
       "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

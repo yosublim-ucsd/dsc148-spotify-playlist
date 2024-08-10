@@ -1,13 +1,45 @@
 {
   "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UtLWLELyQKG_jVaQ4zSHfg\">Billie Eilish</a> & <a href=\"https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5?si=_p8Q0F2QSWuKunrlTkMg3Q\">Charli xcx</a> ",
-  "num_followers": 1981,
+  "num_followers": 1991,
   "original_name": "POP JOY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAACttPmauoYJ+5Yw2r+iWdyh",
+  "snapshot_id": "ZrXdQgAAAAB81/uGmWaCaVkMa7M7PWDT",
   "tracks": [
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-06-27 23:00:00",
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -43,22 +75,6 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -97,6 +113,22 @@
       "url": "https://open.spotify.com/track/4YiepHcrEBS5TSdIp7nY6Y"
     },
     {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "Love the Texture, Hate the Taste",
+        "url": "https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU"
+      },
+      "artists": [
+        {
+          "name": "Werner Bekker",
+          "url": "https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Nectarines",
+      "url": "https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4"
+    },
+    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -111,22 +143,6 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-06-27 23:00:00",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -147,6 +163,22 @@
       "duration_ms": 125464,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/3OMB6N9U4DP4ek2KToyQ7r"
+    },
+    {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-07-18 22:00:00",
@@ -185,6 +217,22 @@
       "url": "https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos"
     },
     {
+      "added_at": "2024-08-09 09:11:30",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
       "added_at": "2024-07-11 22:00:00",
       "album": {
         "name": "Unheard",
@@ -199,22 +247,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/1HuMESLFBWzyre7uhHjfwM"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        }
-      ],
-      "duration_ms": 224002,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -233,20 +265,20 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-09 06:20:50",
       "album": {
-        "name": "Back To The Future",
-        "url": "https://open.spotify.com/album/2mx9BB2J5uef0HxK0g5S9L"
+        "name": "Bestfriend",
+        "url": "https://open.spotify.com/album/76vbR7asUO8VIocCk9iPx2"
       },
       "artists": [
         {
-          "name": "Rebel Bunny",
-          "url": "https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX"
+          "name": "Andre Graham",
+          "url": "https://open.spotify.com/artist/7IJtrjrxKAptihBlNLCxKy"
         }
       ],
-      "duration_ms": 156195,
-      "name": "Back To The Future",
-      "url": "https://open.spotify.com/track/3Jhy1g4W3ODoVAewdnAHqq"
+      "duration_ms": 120000,
+      "name": "Bestfriend",
+      "url": "https://open.spotify.com/track/1uosp1IiH0HiPg3eBzcT9v"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -345,6 +377,22 @@
       "url": "https://open.spotify.com/track/1yKzhjC2yTXFczSBVx1Ed6"
     },
     {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "Little Boy Ego",
+        "url": "https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ"
+      },
+      "artists": [
+        {
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+        }
+      ],
+      "duration_ms": 140752,
+      "name": "Little Boy Ego",
+      "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
+    },
+    {
       "added_at": "2024-06-27 23:00:00",
       "album": {
         "name": "If Anything's Left",
@@ -391,6 +439,22 @@
       "duration_ms": 80410,
       "name": "COMMUNION",
       "url": "https://open.spotify.com/track/6MjkMyEG79nsgBFCfZCUmC"
+    },
+    {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/5qUET0VOV6QFplvQZ9wbKe"
+      },
+      "artists": [
+        {
+          "name": "KYLE ZION",
+          "url": "https://open.spotify.com/artist/5tqv4v6LBSfDbMYIX4zzTv"
+        }
+      ],
+      "duration_ms": 212559,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/2XFG1Qwv5IHqWNG2NucpSg"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -457,22 +521,6 @@
       "url": "https://open.spotify.com/track/1xnEyIV7tGENTcJ1NhaBWz"
     },
     {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "UNDERCOVER",
-        "url": "https://open.spotify.com/album/3T6iKrglvo69iLvTvfx66j"
-      },
-      "artists": [
-        {
-          "name": "Keanan Eksteen",
-          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
-        }
-      ],
-      "duration_ms": 209445,
-      "name": "UNDERCOVER",
-      "url": "https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ"
-    },
-    {
       "added_at": "2024-07-18 22:00:00",
       "album": {
         "name": "15 MINUTES",
@@ -503,38 +551,6 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-07-18 22:00:00",
-      "album": {
-        "name": "Give Me Everything",
-        "url": "https://open.spotify.com/album/5IDiQ1qqaYBjVxtjEJNawa"
-      },
-      "artists": [
-        {
-          "name": "SaxbyTwins",
-          "url": "https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Give Me Everything",
-      "url": "https://open.spotify.com/track/0dOpKW6fWTbtaLhEgU4z0d"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
-        "name": "Acid Rain",
-        "url": "https://open.spotify.com/album/0P1uLn9UjAli21beqSgLq0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Baron",
-          "url": "https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl"
-        }
-      ],
-      "duration_ms": 225523,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/1UXa2qZ0LOuMP6ye1hwHCV"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -619,6 +635,22 @@
       "duration_ms": 179396,
       "name": "How is Summer Over?",
       "url": "https://open.spotify.com/track/52SjgHZpjJtAxy867ZT3NK"
+    },
+    {
+      "added_at": "2024-08-09 06:20:50",
+      "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/2yKzcsmcXuiarCQCIls9Cw"
+      },
+      "artists": [
+        {
+          "name": "Tannah",
+          "url": "https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8"
+        }
+      ],
+      "duration_ms": 179445,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u"
     },
     {
       "added_at": "2024-07-11 22:00:00",
@@ -731,38 +763,6 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
-    },
-    {
-      "added_at": "2024-07-11 22:00:00",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173639,
-      "name": "the boy is mine",
-      "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
-    },
-    {
-      "added_at": "2024-07-12 09:51:08",
-      "album": {
-        "name": "Warning Shot",
-        "url": "https://open.spotify.com/album/0eAplhXz5jR1wCFDEb7pr8"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 145851,
-      "name": "Warning Shot",
-      "url": "https://open.spotify.com/track/2mZihLDNHZHIed3uFgv4yh"
     },
     {
       "added_at": "2024-06-27 23:00:00",

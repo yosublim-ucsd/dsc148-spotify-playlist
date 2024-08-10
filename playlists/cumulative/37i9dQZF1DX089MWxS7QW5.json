@@ -659,6 +659,32 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD"
+      },
+      "artists": [
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Joh!",
+          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192772,
+      "name": "BAD (Feat. Moon Sujin, Joh!)",
+      "url": "https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V"
+    },
+    {
+      "album": {
         "name": "Bad Time (feat. NOA)",
         "url": "https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq"
       },
@@ -1690,6 +1716,24 @@
       "duration_ms": 242101,
       "name": "Dear My Sorrow (Doop)",
       "url": "https://open.spotify.com/track/2wrHL1hJ3UmRFKIgCCsNbu"
+    },
+    {
+      "album": {
+        "name": "Jay Park Season 3: Dedicated 2 U",
+        "url": "https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194998,
+      "name": "Dedicated 2 U",
+      "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
     },
     {
       "album": {
@@ -5840,6 +5884,24 @@
       "duration_ms": 197045,
       "name": "Step",
       "url": "https://open.spotify.com/track/0nQGxsU4YRp30FEVCaugdq"
+    },
+    {
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
     },
     {
       "album": {

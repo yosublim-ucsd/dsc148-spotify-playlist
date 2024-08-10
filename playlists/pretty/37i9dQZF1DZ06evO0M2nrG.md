@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,307 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,312 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 42 | [Vine a Buscarte](https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Metamorfosis](https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6) | 3:11 |
 | 43 | [Nadie Más](https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:41 |
 | 44 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 |
-| 45 | [Tarde](https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tarde](https://open.spotify.com/album/5tkNolbHmwahGRepiHrold) | 3:31 |
+| 45 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 |
 | 46 | [Noche en Hawaii](https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK) | [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Noche en Hawaii](https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM) | 2:57 |
-| 47 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 |
+| 47 | [Tarde](https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tarde](https://open.spotify.com/album/5tkNolbHmwahGRepiHrold) | 3:31 |
 | 48 | [Se Siente Bien](https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Se Siente Bien](https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU) | 3:57 |
 | 49 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 |
 | 50 | [Sola Bonita](https://open.spotify.com/track/7tCdtaWLd8SJlCq9wsjGVO) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Soy](https://open.spotify.com/album/5sAHeZ8Zw6ufw2vC7D6h3f) | 3:03 |
 | 51 | [Tú Tienes Razón \(feat\. Mike Bahía\) \- Versión Urbana](https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tú Tienes Razón \- EP](https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd) | 3:17 |
 
-Snapshot ID: `ZrK5AAAAAABicaFHNeRQX8kJ3EvrgRdE`
+Snapshot ID: `ZrQKgAAAAABvM6MaqnJfYs5Xd+hxw8F2`

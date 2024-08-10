@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Wyatt Flores",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Rhonda Vincent",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -850,6 +850,24 @@
       "duration_ms": 96960,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/4TdQmsHwJQbCaVSen5W9Zv"
+    },
+    {
+      "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "album": {
@@ -4398,6 +4416,32 @@
       "duration_ms": 241786,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "album": {
+        "name": "Destinations and Fun Places",
+        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256924,
+      "name": "Take Me Home Country Roads",
+      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
     },
     {
       "album": {

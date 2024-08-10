@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 87021,
+  "num_followers": 87145,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABIU8ZDl8ozAz2UywY7g0WS",
+  "snapshot_id": "ZrQKgAAAAACi1WGZs4LDdDBk/EwnRAvV",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 223638,
-      "name": "If You Want To",
-      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 198600,
       "name": "You\u2019re here that\u2019s the thing",
       "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 223638,
+      "name": "If You Want To",
+      "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
     },
     {
       "added_at": null,
@@ -327,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 234282,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -355,6 +355,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 234282,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2sBKLT7bFa38yVAYxYltUX"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158195,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2qkb3hhx8iCBvYzX9SvVxj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158195,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 260024,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 187813,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194994,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 239975,
       "name": "Ceilings",
       "url": "https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 90928,
-      "name": "Back To Mars",
-      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 193253,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 90928,
+      "name": "Back To Mars",
+      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loveworm",
         "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 248883,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 189932,
-      "name": "Dye It Red",
-      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 189932,
+      "name": "Dye It Red",
+      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 233301,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6U2tdXbNc2MLcgSTvDrb5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 233301,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6U2tdXbNc2MLcgSTvDrb5L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/7KylYQE83iLriEOCeOWpd7"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 316606,
       "name": "Speed Dial",
       "url": "https://open.spotify.com/track/2NyB1mSR0rm5zxMwjryLa5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Cadet",
-        "url": "https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 241109,
-      "name": "Sun More Often",
-      "url": "https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3"
     }
   ],
   "unique_name": "This Is beabadoobee",

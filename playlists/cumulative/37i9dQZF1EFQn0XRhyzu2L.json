@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Defense of Love",
+        "url": "https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145249,
+      "name": "Defense of Love",
+      "url": "https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ"
+    },
+    {
+      "album": {
         "name": "Grease: Rise of the Pink Ladies (Music from the Paramount+ Original Series)",
         "url": "https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz"
       },

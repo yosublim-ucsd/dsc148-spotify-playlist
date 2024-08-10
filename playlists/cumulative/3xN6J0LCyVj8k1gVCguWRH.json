@@ -2345,6 +2345,32 @@
     },
     {
       "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
         "name": "Alive (Lovesong)",
         "url": "https://open.spotify.com/album/3sYrMFSGGiNahwubWrccFF"
       },
@@ -4177,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "AOC",
+        "url": "https://open.spotify.com/album/0kcmNuMahjj7ZnZlkcU49Z"
+      },
+      "artists": [
+        {
+          "name": "WILLIE MXSES",
+          "url": "https://open.spotify.com/artist/5Kzl461GOvkaBte80fUBsr"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "AOC",
+      "url": "https://open.spotify.com/track/25wax4vWPlJ9UTZbZM7cpG"
+    },
+    {
+      "album": {
         "name": "EVERYTHING IS LOVE (Clean)",
         "url": "https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2"
       },
@@ -5660,6 +5704,28 @@
       "duration_ms": 95000,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/7Hf3Znb9Dj2Gxkk2uz3TYB"
+    },
+    {
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/6JMr0TldzxPbITt2ns4nCa"
+      },
+      "artists": [
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        },
+        {
+          "name": "Nathan Johnston",
+          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214748,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/23EbqwbkOeIm8BplDJsy8Y"
     },
     {
       "album": {
@@ -11030,7 +11096,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 219574,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/3rzF8mz5I8Umt1guWnBfwK"
@@ -11106,6 +11172,24 @@
       "duration_ms": 158620,
       "name": "Chasing",
       "url": "https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK"
+    },
+    {
+      "album": {
+        "name": "chasing the sunset",
+        "url": "https://open.spotify.com/album/6zA5isze3nnlBHZYfmT0gb"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182624,
+      "name": "chasing the sunset",
+      "url": "https://open.spotify.com/track/5VlwP0Okb4ontxDrbqLAMi"
     },
     {
       "album": {
@@ -11254,7 +11338,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 155000,
       "name": "CHEW ON THIS",
       "url": "https://open.spotify.com/track/2mrkK3X2xpHfDlT6RCVqn1"
@@ -21831,6 +21915,24 @@
     },
     {
       "album": {
+        "name": "For Nothing",
+        "url": "https://open.spotify.com/album/31MSaR45YmVHjkbitDDjc3"
+      },
+      "artists": [
+        {
+          "name": "Nakima",
+          "url": "https://open.spotify.com/artist/3fZKCj6O0KB0A2OHl3mT4z"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165883,
+      "name": "For Nothing",
+      "url": "https://open.spotify.com/track/4sqwWXsA2J2V4OIkX4d1FZ"
+    },
+    {
+      "album": {
         "name": "For The Money",
         "url": "https://open.spotify.com/album/6T2suPHv0O76sz2JCt6WhV"
       },
@@ -27107,6 +27209,28 @@
     },
     {
       "album": {
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/2VMmw0nuemlk2ouO9Z5zST"
+      },
+      "artists": [
+        {
+          "name": "Ana Barrena",
+          "url": "https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm"
+        },
+        {
+          "name": "SpaceFLP",
+          "url": "https://open.spotify.com/artist/2xfZJW8GvJL76CCH8EC9bV"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/68rWygkFlerJQdU3UwMcUV"
+    },
+    {
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/1016l7GYTGAXqDheRYGNLi"
       },
@@ -28274,7 +28398,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-12",
+      "date_removed": null,
       "duration_ms": 236797,
       "name": "I AM BEAUTIFUL",
       "url": "https://open.spotify.com/track/6F2hDZzsdlK4GuQtirYQ0R"
@@ -38275,6 +38399,24 @@
     },
     {
       "album": {
+        "name": "Magic to You",
+        "url": "https://open.spotify.com/album/1pJJ3UDkyVfZImu91HlsAY"
+      },
+      "artists": [
+        {
+          "name": "Vanitary",
+          "url": "https://open.spotify.com/artist/4jxp3P5nnCGVl0lKbBKl8X"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Magic to You",
+      "url": "https://open.spotify.com/track/6Z3TRzjFNMWfbwbaiH3Kr6"
+    },
+    {
+      "album": {
         "name": "magnificent",
         "url": "https://open.spotify.com/album/3wtklTfIVLlypPJXA7RZA1"
       },
@@ -41632,6 +41774,24 @@
       "duration_ms": 217293,
       "name": "Mu\u00f1equita de Papel.",
       "url": "https://open.spotify.com/track/5ZRQEXAV0zLdlpEpfVPLtI"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/39gJWeqYW5Dl3kw4np2vn1"
+      },
+      "artists": [
+        {
+          "name": "Trisha",
+          "url": "https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/38bxAEBn3n7dbF1luiTpk8"
     },
     {
       "album": {
@@ -61507,6 +61667,24 @@
     },
     {
       "album": {
+        "name": "Wannabe Cowboy",
+        "url": "https://open.spotify.com/album/7uyKlQgp5xON3bF0NCsp7o"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171338,
+      "name": "The Way I See You",
+      "url": "https://open.spotify.com/track/77zC6BlIBWEK2nOW0z2IjD"
+    },
+    {
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5cvc0TznbcOtBxnWagv2VX"
       },
@@ -64752,6 +64930,24 @@
     {
       "album": {
         "name": "Underwater",
+        "url": "https://open.spotify.com/album/13pDEIEm2usy85HCuGjUAr"
+      },
+      "artists": [
+        {
+          "name": "Eden Mara",
+          "url": "https://open.spotify.com/artist/78M4XJwnj8ylfNuWYajRBq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5PfTl2IQf3uehNaSzGJtrq"
+    },
+    {
+      "album": {
+        "name": "Underwater",
         "url": "https://open.spotify.com/album/1ZmAsRNv8FGIsxcX1ZtFUA"
       },
       "artists": [
@@ -66166,6 +66362,24 @@
       "duration_ms": 231737,
       "name": "Wanderman",
       "url": "https://open.spotify.com/track/26QO9YeIU63KxMeeQLiIN7"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Used",
+        "url": "https://open.spotify.com/album/0qASuIOHU62a5lXfacQjKM"
+      },
+      "artists": [
+        {
+          "name": "Kasey Jo",
+          "url": "https://open.spotify.com/artist/31PRbjmfylMCN9VSewdUvG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168212,
+      "name": "Wanna Be Used",
+      "url": "https://open.spotify.com/track/4Bht07jlhGHSHZT2ulLHbR"
     },
     {
       "album": {

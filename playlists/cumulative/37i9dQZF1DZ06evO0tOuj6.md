@@ -2,9 +2,9 @@
 
 ### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
+> This Is Tokyo Ska Paradise Orchestra\. Los temas esenciales, todos en una lista.
 
-74 songs - 4 hr 54 min
+75 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Good Morning〜ブルー・デイジー \- feat.aiko](https://open.spotify.com/track/1aDAbunCg2yNlCTG4dZcrS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 4:28 | 2023-01-14 |  |
 | [Horizon \[2020 Remaster\]](https://open.spotify.com/track/0meqPfnpNPkRSHOvftHaaO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA TREASURES \-BEST OF TOKYO SKA PARADISE ORCHESTRA](https://open.spotify.com/album/62TAdy8rrm6vSUpRuuEXer) | 4:18 | 2023-07-28 | 2023-10-11 |
 | [JUMON \- feat.アイナ・ジ・エンド](https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:24 | 2023-01-14 |  |
-| [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 | 2023-03-17 |  |
+| [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 | 2023-03-17 | 2024-08-10 |
 | [Más Allá del Universo](https://open.spotify.com/track/6HUeXwT3LqfcEVYYc2Z9uv) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Paradise Has No Border](https://open.spotify.com/album/06suiN9OLq2uwkUc44FO1U) | 3:04 | 2023-01-14 | 2024-03-20 |
 | [Olha pro ceu](https://open.spotify.com/track/5oBDTYs5BKblsw22EdxOJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:26 | 2024-01-22 | 2024-03-06 |
 | [Oro](https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Oro](https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi) | 3:30 | 2023-01-14 |  |
@@ -36,6 +36,7 @@
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 |  |
 | [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-11-11 |
 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 |  |
+| [あの夏のあいまいME \- feat.SUPER EIGHT](https://open.spotify.com/track/4b4allsuWsgn2rILWGICJO) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [あの夏のあいまいME \(feat.SUPER EIGHT\)](https://open.spotify.com/album/1q4MepMNAMAztrLxXYrlvm) | 3:53 | 2024-08-10 |  |
 | [しらけちまうぜ](https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:53 | 2023-01-14 |  |
 | [そばにいて黙るとき \- Silent By Your Side](https://open.spotify.com/track/0LiFBKOyVZb1y5a6iOl99l) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 | 2023-01-14 | 2023-03-15 |
 | [めくれたオレンジ](https://open.spotify.com/track/2UC9VOUmqjHeUd2fnZpxbG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 5:15 | 2023-01-14 |  |

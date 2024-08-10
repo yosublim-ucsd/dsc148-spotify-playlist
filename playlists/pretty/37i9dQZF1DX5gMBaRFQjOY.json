@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 477722,
+  "num_followers": 477989,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 183666,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -511,22 +511,6 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -563,6 +547,26 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
       },
@@ -595,22 +599,34 @@
     {
       "added_at": "2024-07-05 20:27:10",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "added_at": "2024-07-05 20:27:10",
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
       "added_at": "2024-07-05 20:27:10",
@@ -627,22 +643,6 @@
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
-    },
-    {
-      "added_at": "2024-07-05 20:27:10",
-      "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-07-05 20:27:10",

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 772177,
+  "num_followers": 772221,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "Radiola",
-        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 240133,
-      "name": "Vamos Fugir",
-      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Esmeraldas (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 218040,
       "name": "A noite",
       "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "Radiola",
+        "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Vamos Fugir",
+      "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "Exagerado",
-        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Nossa Miss\u00e3o",
         "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 254026,
       "name": "Quero Ser Feliz Tamb\u00e9m",
       "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "Exagerado",
+        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Estandarte",
         "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 313106,
       "name": "Ainda Gosto Dela",
       "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "Troco Likes",
-        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 257847,
-      "name": "Amei Te Ver",
-      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "Troco Likes",
+        "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 257847,
+      "name": "Amei Te Ver",
+      "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "As Super Novas",
-        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Quando A Chuva Passar",
-      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Efeito Voc\u00ea",
         "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 168064,
       "name": "Efeito Voc\u00ea",
       "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "As Super Novas",
+        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Quando A Chuva Passar",
+      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 165382,
       "name": "At\u00e9 o Topo do Mundo",
       "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 151128,
       "name": "A Cara do Amor da Minha Vida",
       "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
     },
     {
       "added_at": "2024-08-02 12:00:02",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-08-02 12:00:02",
       "album": {
+        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Yuki",
+          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+        }
+      ],
+      "duration_ms": 240207,
+      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
+      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
+    },
+    {
+      "added_at": "2024-08-02 12:00:02",
+      "album": {
         "name": "Como \u00c9 Leve Amar",
         "url": "https://open.spotify.com/album/4KDljFb5Ee6L7AxorjRh9l"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 182768,
       "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
       "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
-    },
-    {
-      "added_at": "2024-08-02 12:00:02",
-      "album": {
-        "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-        "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
-      },
-      "artists": [
-        {
-          "name": "Enzo Yuki",
-          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
-        }
-      ],
-      "duration_ms": 240207,
-      "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
-      "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
     },
     {
       "added_at": "2024-08-02 12:00:02",

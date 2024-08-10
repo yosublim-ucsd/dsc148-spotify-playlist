@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 26362,
+  "num_followers": 26399,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Loner (Alone)",
-        "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "Loner (Alone)",
-      "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 151462,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Loner (Alone)",
+        "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Loner (Alone)",
+      "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 167653,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1287,6 +1287,22 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 177727,
       "name": "Higher Powers",
       "url": "https://open.spotify.com/track/2XcjvBNRpj2ZwRrlco3pvF"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "sweeeet",
-        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 111229,
-      "name": "sweeeet",
-      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 250920,
       "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "sweeeet",
+        "url": "https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 111229,
+      "name": "sweeeet",
+      "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 140963,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Push (feat. Omah Lay)",
         "url": "https://open.spotify.com/album/0f0qfURHgJCrbUARPD1zZ6"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/6ergz4yx0HdT7FQnuEtxor"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 140963,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/70PaIwmNlnNjR3xBFgdiY0"
     }
   ],
   "unique_name": "Afro Chill",

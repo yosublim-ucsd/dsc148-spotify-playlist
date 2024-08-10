@@ -2,9 +2,9 @@
 
 ### [Berjiran](https://open.spotify.com/playlist/37i9dQZF1DWY0ndulfVsG7)
 
-> Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Yovie Widianto, Lyodra
+> Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Rossa, Ariel NOAH
 
-89 songs - 6 hr 12 min
+90 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Melompat Lebih Tinggi](https://open.spotify.com/track/7Hun5YHQ5TEe9j97cU5XPg) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [OST\. 30 Hari Mencari Cinta](https://open.spotify.com/album/66ggR3LdVt8pjIaOeL7kNB) | 3:18 | 2024-01-12 |  |
 | [Mungkin Nanti](https://open.spotify.com/track/1D7GuxwgqFZzGnhJwvQU8X) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Bintang di Surga](https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz) | 4:29 | 2024-01-12 | 2024-06-17 |
 | [My Heart](https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq) | [Acha Septriasa](https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv), [Irwansyah](https://open.spotify.com/artist/6OZRp5SJfh9kZts1SyIMOa) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 4:33 | 2024-01-12 |  |
+| [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-08-09 |  |
 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2024-01-12 |  |
 | [Panasea](https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Panasea](https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp) | 4:31 | 2024-01-12 |  |
 | [Penantian](https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Pagi Pulang Pagi](https://open.spotify.com/album/3WOli1F3NswIesoWcJ6jpa) | 4:09 | 2024-01-12 | 2024-05-24 |
@@ -84,7 +85,7 @@
 | [Seperti Yang Kau Minta](https://open.spotify.com/track/0mkeFWinFvxpfZ9tr0RQ7k) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Dekade](https://open.spotify.com/album/68LQj1aPjWAkP6BplJNhq3) | 4:48 | 2024-01-12 | 2024-04-19 |
 | [Sephia](https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:55 | 2024-01-12 |  |
 | [Situasi](https://open.spotify.com/track/5Y1p00AX1pF7jP9irUf50A) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Phobia Phoney](https://open.spotify.com/album/0920Hzcff51JwfH8v0tJOl) | 3:57 | 2024-06-21 | 2024-07-06 |
-| [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 | 2024-06-21 |  |
+| [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 | 2024-06-21 | 2024-08-10 |
 | [Sumpah & Cinta Matiku](https://open.spotify.com/track/4XkRq1i9xbVruOchbfGBz5) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Sumpah & Cinta Matiku](https://open.spotify.com/album/1JED0cowG7lFPgzdS2Jnpv) | 4:45 | 2024-05-23 | 2024-06-22 |
 | [Sumpah dan Cinta Matiku](https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA) | 4:45 | 2024-01-12 | 2024-05-21 |
 | [Sumpah Dan Cinta Matiku](https://open.spotify.com/track/5XbyzK3HiXLXD910VsBbRA) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF) | 4:45 | 2024-06-21 |  |

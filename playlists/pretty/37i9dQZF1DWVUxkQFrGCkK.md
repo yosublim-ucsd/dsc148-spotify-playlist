@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > moooooooooove
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,970 likes - 267 songs - 19 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,121 likes - 267 songs - 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 7 | [Light Down](https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Garla](https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ) | [Light Down](https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb) | 4:34 |
 | 8 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 |
 | 9 | [Lake Como](https://open.spotify.com/track/0XWEq7N03iwa7ZWuznfU6c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 3:55 |
-| 10 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:51 |
+| 10 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 |
 | 11 | [Girl With The Tattoo \[Wakyin Remix\]](https://open.spotify.com/track/0Vo1vtDZgMVD1qras4UPTI) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Girl With The Tattoo](https://open.spotify.com/album/3cnIbhL4QYRzF9wQf53lkW) | 3:35 |
 | 12 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 13 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |

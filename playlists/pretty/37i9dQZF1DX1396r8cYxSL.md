@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2024 yazına damga vuracak şarkılar\. Kapak: Mert Demir
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,582 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,725 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 49 | [Yıldızlar](https://open.spotify.com/track/2FI06fNn4wAKsHnUA7GHxF) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Summerland](https://open.spotify.com/album/7yjs2zcZUYTRTQym3gxioz) | 2:13 |
 | 50 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 |
 
-Snapshot ID: `ZrUx0AAAAADpJYG5VL+zoSgWxha5k5VI`
+Snapshot ID: `ZrXThQAAAAAubExujZcKTMoSP5xoV1wh`

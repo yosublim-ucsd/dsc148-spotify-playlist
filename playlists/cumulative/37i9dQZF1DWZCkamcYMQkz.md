@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-167 songs - 11 hr 17 min
+168 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2021-12-16 |  |
 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 | 2021-12-16 |  |
+| [Days Like This](https://open.spotify.com/track/5aspFFWrnfeQznONFnVwSs) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [What It Means](https://open.spotify.com/album/402n12WlvkNWlGmIKoY9qg) | 3:23 | 2024-08-09 |  |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 | 2022-05-25 |  |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:39 | 2021-12-16 |  |
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 | 2022-07-29 |
@@ -148,7 +149,7 @@
 | [The Best Things In Life Are Free](https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:23 | 2021-12-16 |  |
 | [The Best Things In Life Are Free](https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 2:24 | 2022-06-28 | 2024-04-17 |
 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 | 2021-12-16 | 2022-01-14 |
-| [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 | 2022-05-19 |  |
+| [The Feeling is Mutual](https://open.spotify.com/track/6hRotep2BbjGYmHHjj6soQ) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [The Feeling is Mutual](https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk) | 4:14 | 2022-05-19 | 2024-08-10 |
 | [The Lady Is A Tramp](https://open.spotify.com/track/3nAemrbXMrnBEHElLvwcIX) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:21 | 2021-12-16 | 2022-10-20 |
 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 | 2021-12-16 | 2022-06-09 |
 | [The Maids of Cadiz](https://open.spotify.com/track/4bWBoq1eRtKWzJfkyuGGFm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI) | [The Maids of Cadiz](https://open.spotify.com/album/6RcW99RU60XhcZl2bqA29j) | 6:17 | 2024-07-26 |  |

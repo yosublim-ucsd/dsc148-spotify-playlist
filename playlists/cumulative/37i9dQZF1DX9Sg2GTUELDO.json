@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u76f4\u7559\u5728\u5fc3\u5e95\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/25IsRgCumMs7Ch9KOpkMzb"
+      },
+      "artists": [
+        {
+          "name": "Elanne Kong",
+          "url": "https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231555,
+      "name": "\u4e00\u76f4\u7559\u5728\u5fc3\u5e95\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/51xGwzEhYUiuhJnigThWs4"
+    },
+    {
+      "album": {
         "name": "\u4e03\u59ca\u59b9\u661f\u5718",
         "url": "https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F"
       },

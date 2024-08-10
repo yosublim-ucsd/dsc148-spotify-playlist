@@ -1,29 +1,13 @@
 {
   "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 157609,
+  "num_followers": 157690,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABS5Vub0iR6RVWpVs4FbMMm",
+  "snapshot_id": "ZrQKgAAAAAA7JMO6bC4Ga2mhwyaWL2ck",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias a Todos",
-        "url": "https://open.spotify.com/album/2zqDqsckx3JTKNNsI4bZVE"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Gracias a Todos",
-      "url": "https://open.spotify.com/track/4ejpbLzr0c0m3a6ZhIXZZO"
-    },
     {
       "added_at": null,
       "album": {
@@ -811,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "10+10",
-        "url": "https://open.spotify.com/album/32PDVB8vzIpO0hqyas42fY"
+        "name": "Gracias a Todos",
+        "url": "https://open.spotify.com/album/2zqDqsckx3JTKNNsI4bZVE"
       },
       "artists": [
         {
           "name": "Cardenales De Nuevo Le\u00f3n",
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        },
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 146586,
-      "name": "Ni Amores Ni Deudas",
-      "url": "https://open.spotify.com/track/37XJBZYOnErRNl7vawIwf7"
+      "duration_ms": 210500,
+      "name": "Gracias a Todos",
+      "url": "https://open.spotify.com/track/4ejpbLzr0c0m3a6ZhIXZZO"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

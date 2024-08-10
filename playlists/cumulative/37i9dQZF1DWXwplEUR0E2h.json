@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Feid",
+  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: J Balvin",
   "name": "Reggaet\u00f3n Colombia",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 175145,
       "name": "Ahora que no est\u00e1s sola",
       "url": "https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc"
@@ -130,6 +130,28 @@
       "duration_ms": 223866,
       "name": "BORRAXXA",
       "url": "https://open.spotify.com/track/2Y1EBfErprYwOlgluV9neb"
+    },
+    {
+      "album": {
+        "name": "Brokix Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/3MQi4dwNeCPowK1iBtUCh7"
+      },
+      "artists": [
+        {
+          "name": "Hotline",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159635,
+      "name": "Brokix Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/4dnCAHa7U4x5T5EKHT4Sw3"
     },
     {
       "album": {
@@ -360,7 +382,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158823,
       "name": "Contra Las Cuerdas",
       "url": "https://open.spotify.com/track/2YvmcuV0RoVqbIAiF6elaX"
@@ -522,6 +544,28 @@
       "duration_ms": 193961,
       "name": "DISPO",
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
     },
     {
       "album": {
@@ -1067,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Garantias",
+        "url": "https://open.spotify.com/album/1dPeM7toEFHlZudf87SG6H"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174065,
+      "name": "Garantias",
+      "url": "https://open.spotify.com/track/0iKJTCvE5Nuuambux6LXmr"
+    },
+    {
+      "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
@@ -1086,6 +1148,28 @@
       "duration_ms": 131853,
       "name": "GATITAS SANDUNGUERAS VOL.1",
       "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Gato",
+      "url": "https://open.spotify.com/track/5I5FUvWCcwXsxCzzayaNzy"
     },
     {
       "album": {
@@ -1280,7 +1364,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186666,
       "name": "Juan Duque Hotline: Cobuz & Bustta",
       "url": "https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI"
@@ -1306,7 +1390,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 224391,
       "name": "KAMASUTRA",
       "url": "https://open.spotify.com/track/0XRT6MJEGXRmoZIkYBadje"
@@ -1480,6 +1564,28 @@
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/3Y3aU99NXGwT9oLkwAXJGG"
     },
     {
       "album": {
@@ -1810,7 +1916,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 195463,
       "name": "Mela",
       "url": "https://open.spotify.com/track/7qys9lvqqMCxg0dDC9cjQl"
@@ -1832,7 +1938,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 187415,
       "name": "MI DIABLA Y MI DIOSA",
       "url": "https://open.spotify.com/track/7pWcwaILl84Pw72Fc87gcm"
@@ -2342,7 +2448,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 172105,
       "name": "Polvo de tu Vida",
       "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
@@ -2729,6 +2835,32 @@
     },
     {
       "album": {
+        "name": "Soltera - W Sound 01",
+        "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Soltera - W Sound 01",
+      "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
+    },
+    {
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -3080,6 +3212,24 @@
       "duration_ms": 188862,
       "name": "X 1 BESO",
       "url": "https://open.spotify.com/track/0aLsiURB2GJoiN0mmtEQ5P"
+    },
+    {
+      "album": {
+        "name": "X1 BESITO",
+        "url": "https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "X1 BESITO",
+      "url": "https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: lIlBOI\(릴보이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,662 likes - 113 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,706 likes - 113 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

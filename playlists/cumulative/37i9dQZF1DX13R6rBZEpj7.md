@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-273 songs - 16 hr 42 min
+274 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Get Mad](https://open.spotify.com/track/3DCBwvEQDnGoYVjdoTa6hI) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/4OO0IkgyFv0EMMgiB3eD0f) | 3:37 | 2022-04-15 | 2023-05-19 |
 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 | 2023-04-04 | 2024-04-19 |
 | [Get Out](https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Ashdunn](https://open.spotify.com/artist/58kIss4YzW5rUCSm9g60Yy) | [Get Out](https://open.spotify.com/album/6qKSRHj80Tmtk6ywvnHDrH) | 1:58 | 2024-06-28 |  |
-| [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 | 2022-08-12 |  |
+| [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 | 2022-08-12 | 2024-08-10 |
 | [Get Right](https://open.spotify.com/track/4p2RKpiWTdaDTPTJ63fMEM) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Get Right](https://open.spotify.com/album/2T3PGm9B64yh7FQYdfAh6J) | 3:15 | 2023-10-28 | 2024-05-17 |
 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 | 2022-04-15 |  |
 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 | 2022-04-15 | 2023-05-23 |
@@ -239,6 +239,7 @@
 | [Songs Of Praise \- Radio Edit](https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Songs Of Praise](https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv) | 2:56 | 2024-03-15 |  |
 | [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 | 2023-04-04 | 2023-08-11 |
 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 | 2022-04-15 | 2023-05-19 |
+| [STEADY](https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5) | [Skelecta](https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [STEADY](https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG) | 2:21 | 2024-08-09 |  |
 | [Story of My Life](https://open.spotify.com/track/6pGUQeCojl2Vn2Ul8pvaDt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda) | [Story of My Life](https://open.spotify.com/album/67JZayjsdOB20YxgGKNmNI) | 3:25 | 2022-04-15 | 2022-07-20 |
 | [STUCK ON U](https://open.spotify.com/track/0GxfqvTxZcBKasPqyegqqT) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [BABE?](https://open.spotify.com/album/3FmYkDwMUQobmwZADpgQUi) | 3:30 | 2023-10-28 | 2024-07-27 |
 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 | 2024-05-17 |  |

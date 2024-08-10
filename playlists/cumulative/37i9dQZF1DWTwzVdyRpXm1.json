@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Aasa Kooda (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Aasa Kooda - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
+    },
+    {
+      "album": {
         "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
         "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
       },
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 265817,
       "name": "Jhol",
       "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
@@ -3774,7 +3796,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 234913,
       "name": "Leta Jaijo Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
@@ -4476,7 +4498,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161625,
       "name": "Morni",
       "url": "https://open.spotify.com/track/52L4zA87EinFEoGZ8WPlgE"
@@ -5876,7 +5898,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143200,
       "name": "Safety Off",
       "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"

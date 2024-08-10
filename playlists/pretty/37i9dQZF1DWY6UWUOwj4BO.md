@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,947 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,972 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 2 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 |
-| 3 | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/track/3kZ2KSpxRmbdiAL7IOjawQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait \(Acoustic\)](https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0) | 2:32 |
+| 3 | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/track/3kZ2KSpxRmbdiAL7IOjawQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0) | 2:32 |
 | 4 | [Is It Love \- Orchestral Version](https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love \(Orchestral Version\)](https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT) | 4:09 |
 | 5 | [Lose Control \- Piano Version](https://open.spotify.com/track/2tOx1437MGd5HrHINnydWB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Piano Version\)](https://open.spotify.com/album/7t3cSCBzxSoYxwhNzEKtZT) | 3:26 |
 | 6 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 |

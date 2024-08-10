@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Kisnue\(키스누\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-718 songs - 1 day 19 hr 27 min
+719 songs - 1 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |
 | [Go!](https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Twenty\-Five Twenty\-One OST Part 5](https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR) | 3:29 | 2022-05-24 | 2023-04-06 |
 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 | 2022-08-12 | 2022-08-19 |
-| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 |  |
+| [Goddess of Despair](https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Goddess of Despair](https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv) | 3:39 | 2024-03-06 | 2024-08-10 |
 | [Going On](https://open.spotify.com/track/05hmP7we4C8bf4DLcrcxeo) | [PAGO](https://open.spotify.com/artist/3M4zeC84P7onkK1PsrI1cE) | [Going On](https://open.spotify.com/album/0VGsRsvO6Cdi5C8qA7A2Kz) | 4:22 | 2022-04-22 | 2022-05-11 |
 | [Golden Hour](https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Golden Hour \- SM STATION : NCT LAB](https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR) | 3:19 | 2024-06-05 |  |
 | [Golden Mask](https://open.spotify.com/track/4g7Up38eOByMRnGX6SiHw5) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Golden Mask](https://open.spotify.com/album/2mxkNX39Eoi2NSX7B67xVe) | 4:01 | 2023-05-12 | 2023-06-14 |
@@ -256,6 +256,7 @@
 | [Hey Buddy](https://open.spotify.com/track/3M8wH1NBH8dwXtPA15a8kf) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Hey Buddy](https://open.spotify.com/album/2HDFYIbqGYdkTNEl0gPrn3) | 2:47 | 2022-06-13 | 2022-06-19 |
 | [hey my love](https://open.spotify.com/track/1fTsLda2k2PHbJulJmiBiv) | [greener](https://open.spotify.com/artist/6WRFiRBH2m7RdV63sKxlzq) | [hey my love](https://open.spotify.com/album/1iO9rBXyLhEbNvsyK9jDXU) | 4:11 | 2022-04-21 | 2022-07-28 |
 | [Hey, Laveen!](https://open.spotify.com/track/4ZLNsus0VVwgPjTNCq1Wsq) | [LAVEEN](https://open.spotify.com/artist/0B0RJTEmbkPCAZ9SKGv8OI) | [Hey, Laveen!](https://open.spotify.com/album/0tvIgZl9v4yJoGAgx2wP3N) | 2:32 | 2023-03-25 | 2023-03-28 |
+| [Hi!](https://open.spotify.com/track/708rsh3mPLX9ScFkXQBOdN) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Indigging \#01](https://open.spotify.com/album/4HItn2kzV6l4R4eqNbHmB7) | 2:31 | 2024-08-09 |  |
 | [High Teen Star 하이틴 스타](https://open.spotify.com/track/0h82aIPBXFlt7zHIgDslkP) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [High Teen Star 하이틴 스타](https://open.spotify.com/album/6Cyv09QDAHZkvyd6ThE0YE) | 2:57 | 2022-05-24 | 2022-05-26 |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-25 |
 | [HIGHTEEN MOVIE \(feat\. Owen\)](https://open.spotify.com/track/4aZXG0TSetEpCgBtd1IElf) | [TRICKY](https://open.spotify.com/artist/0YoNqRwXw0WlR0pIKujBua), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [HIGHTEEN MOVIE](https://open.spotify.com/album/1yOWQFOvjS7ndkiCLPDnIS) | 2:51 | 2022-08-18 | 2022-09-06 |

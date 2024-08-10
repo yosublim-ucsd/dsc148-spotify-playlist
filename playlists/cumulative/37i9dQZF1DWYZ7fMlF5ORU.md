@@ -2,9 +2,9 @@
 
 ### [Grooveria Gospel](https://open.spotify.com/playlist/37i9dQZF1DWYZ7fMlF5ORU)
 
-> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: ONE Service
+> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-113 songs - 7 hr 44 min
+114 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Livre Sou](https://open.spotify.com/track/2p09iTN64FK0K10V1eMKv6) | [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Haja Luz](https://open.spotify.com/album/0visYCj9NZhdxIdxNnOEP2) | 3:29 | 2023-04-15 |  |
 | [Louvarei](https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD) | 3:54 | 2023-12-22 |  |
 | [Louvarei](https://open.spotify.com/track/1HolPI1xldNL8COYPtj1Id) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/7tXxdiOv0uaMinPIk4Ti14) | 3:54 | 2023-04-15 | 2024-04-19 |
+| [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 | 2024-08-09 |  |
 | [Mais Que Vencedor](https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL) | [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Redenção](https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA) | 4:07 | 2023-04-15 |  |
 | [Me Curou \- Ao Vivo](https://open.spotify.com/track/5vyjMaNbC8i6csgcw7l6cQ) | [Leandro Luz](https://open.spotify.com/artist/0L90J59rtSPOYx77qqpYtr) | [Na Praia \(Ao Vivo\)](https://open.spotify.com/album/24T5mM5aO372Izb2kHxxat) | 4:43 | 2023-04-15 |  |
 | [Me Faz Viver](https://open.spotify.com/track/09HItbO4pDpApuAhf6GwUP) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 4:19 | 2023-12-22 |  |
@@ -112,7 +113,7 @@
 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 | 2023-04-15 |  |
 | [Um Pouco do Que Deus Fez](https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 3:22 | 2023-04-15 |  |
 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 | 2023-04-15 | 2024-04-19 |
-| [Vamos Celebrar](https://open.spotify.com/track/1b0gwe6jaJIK2LttdpkKRP) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/6ca7FcSsyiYN9No32sCykn) | 3:52 | 2023-12-22 |  |
+| [Vamos Celebrar](https://open.spotify.com/track/1b0gwe6jaJIK2LttdpkKRP) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/6ca7FcSsyiYN9No32sCykn) | 3:52 | 2023-12-22 | 2024-08-10 |
 | [Vem](https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 3:42 | 2023-04-15 |  |
 | [Vem Com Josué Lutar Em Jericó \- Ao Vivo](https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vem Com Josué Lutar Em Jericó \(Ao Vivo\)](https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw) | 4:09 | 2023-04-15 |  |
 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/1jKezE2CPZGiaywCIDFlpD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Viver O Amor \(Ao Vivo\)](https://open.spotify.com/album/10DzETP5qOEaaDf98uuB39) | 3:50 | 2023-10-06 |  |

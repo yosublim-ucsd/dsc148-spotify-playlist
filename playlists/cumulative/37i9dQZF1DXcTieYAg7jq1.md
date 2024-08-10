@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: Stephen Day
+> Featuring that new vintage\. Cover: Michael Bublé
 
-413 songs - 23 hr 41 min
+414 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-22 | 2023-12-09 |
 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 | 2021-12-03 | 2023-01-21 |
 | [Don't Ask Why](https://open.spotify.com/track/6uBng5HDOCh0Y9fufxmVyN) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Don't Ask Why](https://open.spotify.com/album/2dV6Cph8TmEvU7qApCq5Ze) | 3:15 | 2022-03-04 | 2023-04-01 |
+| [Don't Blame It On Me](https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Don't Blame It On Me](https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9) | 2:48 | 2024-08-09 |  |
 | [Don't I Make It Look Easy](https://open.spotify.com/track/0Bm2kjXM4w6JlwS6jpTmfO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Don't I Make It Look Easy](https://open.spotify.com/album/0vAG2gPTupFRMmpPf9qAB1) | 2:34 | 2022-09-09 | 2023-02-16 |
 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 | 2022-05-06 | 2023-06-10 |
 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2022-04-15 | 2023-05-06 |

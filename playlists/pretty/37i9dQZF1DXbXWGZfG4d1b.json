@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22978,
+  "num_followers": 22982,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "NEFERTITI",
-        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 156198,
-      "name": "NEFERTITI",
-      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Una Propuesta",
         "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Tiempo",
-        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
-      },
-      "artists": [
-        {
-          "name": "Perras on the beach",
-          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Otra Galaxia",
         "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 189940,
       "name": "Otra Galaxia",
       "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
+      },
+      "artists": [
+        {
+          "name": "Perras on the beach",
+          "url": "https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 196751,
-      "name": "Olas Negras",
-      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Habla Sola / Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T"
       },
@@ -571,18 +555,34 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Puedo ver el mar en tus ojos",
-        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu"
       },
       "artists": [
         {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
         }
       ],
-      "duration_ms": 181495,
-      "name": "Puedo ver el mar en tus ojos",
-      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
+      "duration_ms": 196751,
+      "name": "Olas Negras",
+      "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Lpm",
+        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Lpm",
-        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
       "artists": [
         {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
         }
       ],
-      "duration_ms": 219881,
-      "name": "Lpm",
-      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Humo y Menta",
-        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        },
-        {
-          "name": "Charlie Desidney",
-          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "Humo y Menta",
-      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Malambo de Acero",
         "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Humo y Menta",
+        "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        },
+        {
+          "name": "Charlie Desidney",
+          "url": "https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu"
+        }
+      ],
+      "duration_ms": 183242,
+      "name": "Humo y Menta",
+      "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Indie Rockera",
+        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Indie Rockera",
+      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Mala Influencia",
         "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Indie Rockera",
-        "url": "https://open.spotify.com/album/3tJ1FXbJS8IiI2poABf0AC"
-      },
-      "artists": [
-        {
-          "name": "Tobias Indigo",
-          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Indie Rockera",
-      "url": "https://open.spotify.com/track/0Z0mKafgSAgy81bNKuMZNV"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Desconsuelo",
         "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 220473,
       "name": "Haku - Bonus Track",
       "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
-      },
-      "artists": [
-        {
-          "name": "Diosque",
-          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
-        }
-      ],
-      "duration_ms": 212631,
-      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
-      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 185314,
       "name": "Tanto Az\u00facar",
       "url": "https://open.spotify.com/track/4IM9rnYuCr4Y8T5VyXUih9"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+        "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
+      },
+      "artists": [
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        }
+      ],
+      "duration_ms": 212631,
+      "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
+      "url": "https://open.spotify.com/track/3roK3VKbe71yEtR7QnOAZB"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Fantas\u00edas de Violencia",
-        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
-      },
-      "artists": [
-        {
-          "name": "Bubis Vayins",
-          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
-        }
-      ],
-      "duration_ms": 253177,
-      "name": "Los Carritos",
-      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "No hay tiempo",
         "url": "https://open.spotify.com/album/4qK4DPTYmND7rWUAvIPmn0"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 202027,
       "name": "No hay tiempo",
       "url": "https://open.spotify.com/track/15eJY3sym1GzpPT13YbXxe"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Fantas\u00edas de Violencia",
+        "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
+      },
+      "artists": [
+        {
+          "name": "Bubis Vayins",
+          "url": "https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG"
+        }
+      ],
+      "duration_ms": 253177,
+      "name": "Los Carritos",
+      "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
     },
     {
       "added_at": "2024-08-02 03:00:00",

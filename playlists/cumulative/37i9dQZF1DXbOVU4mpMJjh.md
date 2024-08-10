@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-1,207 songs - 3 day 9 hr 1 min
+1,208 songs - 3 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-11 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
 | [Broken Heart](https://open.spotify.com/track/15L7bPjJZDxhhaaY1pKbpK) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Broken Heart](https://open.spotify.com/album/0ywLNB1MSdhhPuyObPVKqh) | 3:53 | 2023-08-31 |  |
+| [Brooklyn Bridge](https://open.spotify.com/track/21VXC5m3MIkdBGW1UyzGcU) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Brooklyn Bridge](https://open.spotify.com/album/52tcbE2Cphds2GSwZpPbPi) | 3:16 | 2024-08-07 |  |
 | [Brother Rabbit](https://open.spotify.com/track/7GZMIDtN9DLqluOtFy1mUs) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Brother Rabbit](https://open.spotify.com/album/0mO4xPzkwqsq9N9nvBGM18) | 2:57 | 2023-01-19 |  |
 | [Buachaille Etive Mor](https://open.spotify.com/track/3xp6Mjv32lpul7WO4ZE94n) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Lost in the Highlands](https://open.spotify.com/album/3pYq97dv4T7e9Gtgp6keBF) | 3:15 | 2023-11-17 |  |
 | [But Beautiful](https://open.spotify.com/track/0BbJMNwUEUgNHBhD3QsLv4) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [But Beautiful](https://open.spotify.com/album/5Cxo3N6t8bOvOHv68EFIB0) | 4:06 | 2023-12-08 | 2024-04-26 |
@@ -908,7 +909,7 @@
 | [Softly, Tenderly](https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [Softly, Tenderly](https://open.spotify.com/album/4UjQcQQbyYPZnNbY4gWsPM) | 3:41 | 2023-04-14 |  |
 | [Solace](https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Solace](https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ) | 2:56 | 2024-05-23 |  |
 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 | 2023-05-04 |  |
-| [Solitude](https://open.spotify.com/track/175feO2l5mVhZXLZpb8M8O) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Solitude](https://open.spotify.com/album/2s4KbeFwJFDuDt8tgVY0Sw) | 2:58 | 2023-12-08 |  |
+| [Solitude](https://open.spotify.com/track/175feO2l5mVhZXLZpb8M8O) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Solitude](https://open.spotify.com/album/2s4KbeFwJFDuDt8tgVY0Sw) | 2:58 | 2023-12-08 | 2024-08-10 |
 | [Some Other Time](https://open.spotify.com/track/284ow3724GLZLY9g2ITnDn) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Some Other Time](https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu) | 4:23 | 2022-06-28 |  |
 | [Someone](https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Someone](https://open.spotify.com/album/7EA2dwsFpmf7ly4y6HJPuh) | 3:56 | 2024-04-17 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Someone To Watch Over Me](https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK) | 3:38 | 2023-08-10 |  |

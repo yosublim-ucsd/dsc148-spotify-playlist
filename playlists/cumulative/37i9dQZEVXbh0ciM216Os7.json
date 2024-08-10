@@ -3730,7 +3730,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 158023,
       "name": "Born Wit It",
       "url": "https://open.spotify.com/track/1QFvBVYj8MV36GKIqXlg6R"
@@ -4002,6 +4002,24 @@
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
+    },
+    {
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
     },
     {
       "album": {
@@ -5570,6 +5588,28 @@
       "duration_ms": 171964,
       "name": "cold blues",
       "url": "https://open.spotify.com/track/76zVg3cVjNv0o4AJreFhfE"
+    },
+    {
+      "album": {
+        "name": "Colorful Cutlery",
+        "url": "https://open.spotify.com/album/093ezhBgkDlXiYoSvIItQe"
+      },
+      "artists": [
+        {
+          "name": "SARKASTIKJ",
+          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142522,
+      "name": "Colorful Cutlery",
+      "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
     },
     {
       "album": {
@@ -9621,6 +9661,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167228,
+      "name": "FIELD TRIP",
+      "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
+    },
+    {
+      "album": {
         "name": "FIESTA",
         "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
       },
@@ -10621,7 +10687,7 @@
     },
     {
       "album": {
-        "name": "PARIS IN LOVE (Live)",
+        "name": "PARIS IN LOVE - Live",
         "url": "https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ"
       },
       "artists": [
@@ -10634,16 +10700,16 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         },
         {
-          "name": "Oxmo Puccino",
-          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
-        },
-        {
           "name": "Benjamin Epps",
           "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
         },
         {
           "name": "Sly Johnson",
           "url": "https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7"
+        },
+        {
+          "name": "Oxmo Puccino",
+          "url": "https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O"
         }
       ],
       "date_added": "2024-07-26",
@@ -11988,7 +12054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -12622,7 +12688,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 151392,
       "name": "Hello World - Song of the Olympics\u2122",
       "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
@@ -13064,6 +13130,24 @@
       "duration_ms": 229437,
       "name": "Hold Me Up (Thank You)",
       "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "album": {
+        "name": "American Idiot - 20th Anniversary - On Holiday",
+        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503138,
+      "name": "Holiday/Blvd. of Broken Dreams - Demo",
+      "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
     },
     {
       "album": {
@@ -13842,6 +13926,32 @@
       "duration_ms": 146756,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/39C3SOi6UMD9rHeXAQPNa9"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/63gSt4lQ8pzArSwaR56ZdT"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202752,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
     },
     {
       "album": {
@@ -17613,6 +17723,28 @@
     },
     {
       "album": {
+        "name": "The Embrace, Vol. 1",
+        "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
+      },
+      "artists": [
+        {
+          "name": "Noah Halpern",
+          "url": "https://open.spotify.com/artist/4nOk7W3A282Jh3bVeLZxSm"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223862,
+      "name": "Lost in Your Eyes (Solo Piano)",
+      "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
+    },
+    {
+      "album": {
         "name": "ME LABEL",
         "url": "https://open.spotify.com/album/1q66YzIHG7CK8lsZtPQT7T"
       },
@@ -20613,6 +20745,28 @@
     },
     {
       "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
+      },
+      "artists": [
+        {
+          "name": "Rigz",
+          "url": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278260,
+      "name": "No limit to the sky",
+      "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
+    },
+    {
+      "album": {
         "name": "You Can't Stop the Reign",
         "url": "https://open.spotify.com/album/206maUS8ZfsXFBDfJKnIUY"
       },
@@ -20840,6 +20994,24 @@
       "duration_ms": 209569,
       "name": "Nobody Like Me",
       "url": "https://open.spotify.com/track/7pe3ccvM6xp3T8nxNVua43"
+    },
+    {
+      "album": {
+        "name": "Lifa Iotungard (Live)",
+        "url": "https://open.spotify.com/album/34JvgVfOKw3nIpsDaAXZXV"
+      },
+      "artists": [
+        {
+          "name": "Heilung",
+          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342352,
+      "name": "Norupo - Live",
+      "url": "https://open.spotify.com/track/3v2yP0sgEBXGE7dCH025dK"
     },
     {
       "album": {
@@ -23058,7 +23230,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136404,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/1zfJDw2SQQxAomLWtBgdOO"
@@ -24862,7 +25034,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186480,
       "name": "Rock Star Shit",
       "url": "https://open.spotify.com/track/6wnlnnv53tkrdCZmp5i7il"
@@ -26340,7 +26512,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 226300,
       "name": "SIGN OF SE7EN",
       "url": "https://open.spotify.com/track/14X6iwIgWHSdsEdkVOP7jZ"
@@ -27216,6 +27388,32 @@
       "duration_ms": 157090,
       "name": "Special (with Latto, Swae Lee & Amin\u00e9)",
       "url": "https://open.spotify.com/track/6JfNsc7wg3mnKunY8gLmLg"
+    },
+    {
+      "album": {
+        "name": "Speshal Methods",
+        "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Ti-Lar Bee",
+          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156450,
+      "name": "Speshal Methods",
+      "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
     },
     {
       "album": {
@@ -29637,6 +29835,24 @@
     },
     {
       "album": {
+        "name": "The Day Of...",
+        "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273573,
+      "name": "The Day Of...",
+      "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
+    },
+    {
+      "album": {
         "name": "The Elevator",
         "url": "https://open.spotify.com/album/25Bs2sPn17iL8T8Lb4zHFq"
       },
@@ -30126,6 +30342,28 @@
       "duration_ms": 179418,
       "name": "The Muffin Man (Metal Version)",
       "url": "https://open.spotify.com/track/4uG5WQGWXWKLC7QY7K8uGk"
+    },
+    {
+      "album": {
+        "name": "Yo Gabba GabbaLand!",
+        "url": "https://open.spotify.com/album/66LTCZb9PLOyW5usX4cCq4"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96920,
+      "name": "The Orange Cat's Special Time Outdoors",
+      "url": "https://open.spotify.com/track/7dFv3bot0kaUgcfrogHMKi"
     },
     {
       "album": {
@@ -33129,6 +33367,28 @@
     },
     {
       "album": {
+        "name": "We're All Connected (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/6w6FNe09Z0EYZivFpneqb9"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120293,
+      "name": "We're All Connected (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3KqiWn5vvFf431S88SYMlA"
+    },
+    {
+      "album": {
         "name": "we're going wrong",
         "url": "https://open.spotify.com/album/0cxzv4qbITfKKH1N2lxq65"
       },
@@ -35004,6 +35264,24 @@
       "duration_ms": 180243,
       "name": "You're Still The One - Frank Walker Remix",
       "url": "https://open.spotify.com/track/78Rs4n8DEwaRh7CWeEySx5"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,921 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,933 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 47 | [Baby Please Don't Go \- Live](https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 11:00 |
 | 48 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
 | 49 | [Stormy Monday \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/2D9PSh2zEtZD7sUmDvoZyw) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 10:17 |
-| 50 | [Walkin' Blues](https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:58 |
+| 50 | [What Is That She Got \- Live At Mr\. Kelly's/1971](https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters: Live \(At Mr\. Kelly's\) \[Reissue\]](https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk) | 4:40 |
 
-Snapshot ID: `ZrK5AAAAAACpZY74X/FJysqlD1Wu7+Cg`
+Snapshot ID: `ZrQKgAAAAAA98cXt1KonJPuez8kEv3bt`

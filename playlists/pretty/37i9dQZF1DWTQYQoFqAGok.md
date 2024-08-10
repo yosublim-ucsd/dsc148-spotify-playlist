@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,679 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,689 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 16 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 |
 | 17 | [Los Pequeños Detalles](https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Zinco Big Band](https://open.spotify.com/artist/3cj2yEjzcCZVRaIuPgfkfv) | [Así Era Entonces, Ahora...](https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX) | 4:30 |
 | 18 | [Breakfast At Tiffany's](https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd) | [Abraham Laboriel](https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW) | [Guidum](https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx) | 2:47 |
-| 19 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
-| 20 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
+| 19 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
+| 20 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
 | 21 | [Tukumtak](https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Tukumtak](https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7) | 3:02 |
 | 22 | [2 Cartas](https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [2 Cartas](https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3) | 4:45 |
 | 23 | [Fuego](https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF) | [Hilvana](https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG) | [Para Ser Libre](https://open.spotify.com/album/640scYqIfRaues9fUETg8p) | 3:13 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 39 | [Dana \(Cha\-Cha\-Shag\)](https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io) | [Gigio Romero](https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn) | [Electratoaster \- EP](https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS) | 4:17 |
 | 40 | [Ana's Song](https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0) | [Patricia Carrión](https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj) | [Mujer De Luna](https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4) | 4:45 |
 | 41 | [La vida tiene que seguir, amor](https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj) | [Freddy Marichal](https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA), [Nuevas Relaciones, Las](https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c) | [Nuevas Relaciones: Atardecer](https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl) | 6:10 |
-| 42 | [Let It Play](https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl) | [Fiusha](https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk) | [Funk da Power](https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63) | 5:16 |
-| 43 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
+| 42 | [Tipitipitín](https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj) | [Chucho Zarzosa Y Su Conjunto](https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E) | [Jazz](https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv) | 2:37 |
+| 43 | [Let It Play](https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl) | [Fiusha](https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk) | [Funk da Power](https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63) | 5:16 |
 | 44 | [Those People](https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8) | [Gabriel Balderas Quartet](https://open.spotify.com/artist/58qSHv8M0ELKIDSObDqEFH), [John Vince](https://open.spotify.com/artist/5aPsi6G5Cs3dt1FnjkVYDF) | [Voices from the Border](https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA) | 7:23 |
 | 45 | [Bula](https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To) | [Chucho Zarzosa Su Piano y su Conjunto](https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH) | [Chucho en Chipp's](https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs) | 2:35 |
-| 46 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
-| 47 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 46 | [La Cigarra](https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R) | [Adrián Oropeza Trío](https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl) | [Mezcal](https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX) | 6:33 |
+| 47 | [En Cualquier Momento](https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4) | [Juanjo Gómez](https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp), [Xuc Trío](https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9) | [Semillas De Copinol](https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2) | 5:52 |
 | 48 | [Por los Caminos del Sur](https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt) | [Guerrero Jazz](https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6) | [Mi Sentimiento Guerrerense](https://open.spotify.com/album/6035edQMGEkEvpgomvasDC) | 5:39 |
-| 49 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
-| 50 | [5:PM](https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf) | [Palapa](https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0), [Francisco Lelo de Larrea](https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP) | [Bienvenidos](https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K) | 5:43 |
+| 49 | [Suite Yusef Lateef](https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Guillaume Pouget](https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE) | [Kumoi](https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU) | 2:07 |
+| 50 | [Calladito Te Ves Mejor](https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu) | [La Bermúdez](https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl), [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [Calladito Te Ves Mejor](https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C) | 3:56 |
 
 Snapshot ID: `ZiccYAAAAACMb9eAOCwlki7mhZpNRZpZ`

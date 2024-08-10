@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,004 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598,086 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 115 | [YellowStone](https://open.spotify.com/track/607Gx4Z3NAiqGCGJg9925F) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [YellowStone](https://open.spotify.com/album/5m93kff6ndGPd1hhdrZ9Rp) | 3:09 |
 | 116 | [•NOTDEAD!•](https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•NOTDEAD!•](https://open.spotify.com/album/3wSkJjnc6ayPUKr8X8ucUK) | 3:10 |
 | 117 | [once upon a time](https://open.spotify.com/track/0PULY7AIDcZ2LMjXc9oUay) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [XXI](https://open.spotify.com/album/5JsvLIkSY02w5LhyCGPb1n) | 3:30 |
-| 118 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \(life in pink deluxe\)](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
+| 118 | [9 lives](https://open.spotify.com/track/17XY1uAyl0lrFqiMp1aQXO) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout \- life in pink deluxe](https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7) | 3:01 |
 | 119 | [Die for You](https://open.spotify.com/track/0ZUlJicyoaZK09nIbSk1LA) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc), [autrioly](https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU) | [Winters End](https://open.spotify.com/album/3Hms4FzfCLKUugygjuiDzs) | 1:45 |
 | 120 | [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 |
 | 121 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 |

@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 1911844,
+  "num_followers": 1912145,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -139,7 +139,7 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "name": "Them Vs. You Vs. Me - Deluxe Edition",
         "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
       },
       "artists": [
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
     },
     {
       "added_at": "2024-07-26 16:34:35",
@@ -923,7 +923,7 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Sinner (Unlucky 13th Anniversary Deluxe Edition)",
+        "name": "Sinner - Unlucky 13th Anniversary Deluxe Edition",
         "url": "https://open.spotify.com/album/74n5sNia8GcWvAeJ1z40Tb"
       },
       "artists": [
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-26 16:34:35",
       "album": {
-        "name": "Get Some",
-        "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
-      },
-      "artists": [
-        {
-          "name": "Snot",
-          "url": "https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Stoopid",
-      "url": "https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU"
-    },
-    {
-      "added_at": "2024-07-26 16:34:35",
-      "album": {
         "name": "Adema",
         "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 274733,
       "name": "Giving In",
       "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
+    },
+    {
+      "added_at": "2024-07-26 16:34:35",
+      "album": {
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
+      },
+      "artists": [
+        {
+          "name": "Snot",
+          "url": "https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Stoopid",
+      "url": "https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU"
     },
     {
       "added_at": "2024-07-26 16:34:35",

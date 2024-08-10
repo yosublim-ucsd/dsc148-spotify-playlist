@@ -988,6 +988,24 @@
     {
       "album": {
         "name": "ATE",
+        "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chk Chk Boom",
+      "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "ATE",
         "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
       },
       "artists": [
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 80754,
       "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
       "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
@@ -4924,10 +4942,32 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 120240,
       "name": "O Melhor no Que Faz 3.0",
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
+    },
+    {
+      "album": {
+        "name": "O Melhor no Que Faz 3.0",
+        "url": "https://open.spotify.com/album/1bpSogkiOx621fvZpTRHjS"
+      },
+      "artists": [
+        {
+          "name": "DJ BRYAN 7",
+          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
+        },
+        {
+          "name": "Dj Fenix",
+          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120240,
+      "name": "O Melhor no Que Faz 3.0",
+      "url": "https://open.spotify.com/track/6HbawgJD23u3hGMPoGpHHo"
     },
     {
       "album": {
@@ -5584,7 +5624,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 196173,
       "name": "RudeBoys",
       "url": "https://open.spotify.com/track/41gNPwN1Y63tDYhMv27t7J"
@@ -6564,7 +6604,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
@@ -10264,6 +10304,24 @@
       "duration_ms": 135443,
       "name": "\u041d\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u0438\u0440\u0443\u0439",
       "url": "https://open.spotify.com/track/6sIFftQxRxsDyy0cZlH92l"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u043e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
+        "url": "https://open.spotify.com/album/58WH3X9Mq7WWOjuyNaLmrh"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0432\u044f\u0442",
+          "url": "https://open.spotify.com/artist/4sUpS8mrzRZ6p7Uoqz7Yfp"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142588,
+      "name": "\u041d\u0435 \u043e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
+      "url": "https://open.spotify.com/track/3HVFj6El60qIwRDADa22Yx"
     },
     {
       "album": {

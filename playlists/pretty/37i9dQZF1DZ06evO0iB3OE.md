@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,944 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,947 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 29 | [Cien Por Uno](https://open.spotify.com/track/3Q2XC6VEwTXYVyrRO25csQ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 |
 | 30 | [La Pasadita \- En Vivo](https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:27 |
 | 31 | [La Puerta Del Infierno](https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:48 |
-| 32 | [Compa Alfredito](https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:02 |
+| 32 | [Chapo Guzmán](https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:41 |
 | 33 | [El Que Anda en El Dorado \(En Vivo\)](https://open.spotify.com/track/7C2fQc583vpxolfKfQLLyj) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Que Anda en El Dorado \(En Vivo\)](https://open.spotify.com/album/2qmSpNf0jhi2QqWqpPgbaw) | 2:28 |
 | 34 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 |
 | 35 | [El Compa Many \- En Vivo](https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Compa Many \(En Vivo\)](https://open.spotify.com/album/347Aramha2pgLe10iD53CD) | 2:51 |
-| 36 | [Chapo Guzmán](https://open.spotify.com/track/7BQ0ndFcqrpUg2GpZI3gNU) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 2:41 |
-| 37 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 |
+| 36 | [Compa Alfredito](https://open.spotify.com/track/50duN2SOYCZoDNWJf526HO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:02 |
+| 37 | [El Cisne](https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:01 |
 | 38 | [La Muerte de Julio Beltrán \- En Vivo](https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:47 |
-| 39 | [El Cisne](https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:01 |
+| 39 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 |
 | 40 | [La Captura Del Zar](https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:06 |
 | 41 | [Tiro de Gracia](https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:32 |
 | 42 | [Quiéreme \- En Vivo](https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [La Vieja Escuela \(EN VIVO\)](https://open.spotify.com/track/7zYAULUec9oDIfAkCUe2Nc) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [EL LOBITO DE SINALOA](https://open.spotify.com/artist/53dntt9Kh7qwQNPimcwRxa), [Jorge Cordero](https://open.spotify.com/artist/2QSIGTQtAMKIlTwNUQgsmy) | [La Vieja Escuela \(EN VIVO\)](https://open.spotify.com/album/3MjYSZtHa2Eyr9Kxrqizmm) | 1:16:24 |
 | 50 | [Como en la Revolución](https://open.spotify.com/track/3BrZrZ62yBViYCnKnDp5mh) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:09 |
 
-Snapshot ID: `ZrK5AAAAAAB0+5uzMIMBq2yoirkTrOxy`
+Snapshot ID: `ZrQKgAAAAABmEV3718Kr6RicV4VXYe7b`

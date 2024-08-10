@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-255 songs - 1 day 1 hr 6 min
+258 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,9 @@
 | [Electro Chemical Mind](https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Electro Chemical Mind](https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p) | 5:04 | 2023-01-20 | 2024-06-11 |
 | [Enjoy Yourself](https://open.spotify.com/track/0CRJG06feSIhls8hfPZgCd) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 7:05 | 2024-05-10 | 2024-07-27 |
 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-10 | 2023-03-04 |
+| [Fade Away \- shot by stanley Remix](https://open.spotify.com/track/4mqZspDnwNlEAlPkHmoP7a) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37), [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [Fade Away \(shot by stanley Remix\)](https://open.spotify.com/album/0mFN9BJcbXTHXurMkIAPlx) | 5:07 | 2024-08-09 |  |
 | [Falkenschlag](https://open.spotify.com/track/6qLvGiTr2iylG80YYfC0yE) | [Claus Pieper](https://open.spotify.com/artist/3W7zuDFLkRnwmXAyb00WfW) | [Falkenschlag](https://open.spotify.com/album/2x80yh5iopGacuSmdvcB39) | 5:45 | 2024-01-26 | 2024-06-29 |
+| [Fantasy \- Extended Mix](https://open.spotify.com/track/2yKqhmoxG33Pl7mW59KU6n) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Fantasy](https://open.spotify.com/album/4F2UVqJr4RQ6tWOEC3dAxg) | 5:20 | 2024-08-09 |  |
 | [Fata Morgana](https://open.spotify.com/track/4euEvn1jjxEqY9AOXCwR1y) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Fata Morgana](https://open.spotify.com/album/1DkEi6XopdxU3NGXYmYdAu) | 3:09 | 2022-09-16 | 2022-10-08 |
 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 | 2022-09-16 | 2024-05-25 |
 | [Flight Number](https://open.spotify.com/track/5Ek7y6nNqZaQaC8s005K5O) | [Smilla](https://open.spotify.com/artist/4GNUAjOnCWs0kuq2ikLBVK) | [Shift Sequence](https://open.spotify.com/album/4MeMM1mQNBMUlrJtDV8WXn) | 5:56 | 2022-09-16 | 2024-06-29 |
@@ -183,6 +185,7 @@
 | [Porcupine](https://open.spotify.com/track/2T6g3BlZyKwkYsi08op6kw) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Porcupine EP](https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD) | 5:57 | 2024-01-26 | 2024-03-20 |
 | [Prerogative \- Moritz Hofbauer Remix](https://open.spotify.com/track/2XMqyEFPsRxA53FO68Gnl9) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Prerogative](https://open.spotify.com/album/1JbDcYbrFlaoHYy4dtWxlC) | 5:31 | 2022-10-27 | 2022-11-12 |
 | [Prozess Drei](https://open.spotify.com/track/5LnmTw8f1a3xB8zQMVtr2k) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Prozess Drei](https://open.spotify.com/album/3KTgpQUDLCuaMrPu2ppteu) | 8:12 | 2024-07-26 |  |
+| [Psychodelic Boys And Girls](https://open.spotify.com/track/4da2CvwyMfEo0WTaxrRzlX) | [Loft 15 A](https://open.spotify.com/artist/3H7elwiXJ63HlIyjOeLhtG) | [Psychodelic Boys And Girls](https://open.spotify.com/album/4Vf8jkYTNNDz4dsvglxwW4) | 6:14 | 2024-08-09 |  |
 | [Purple Noise](https://open.spotify.com/track/0PkwtUYZiNpGtbkVYZkvMZ) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Puls](https://open.spotify.com/album/5x7HlzUrvG4KxSrGjDEcBO) | 5:22 | 2022-09-16 | 2023-02-11 |
 | [R U FCKNG SERIOUS \- Moritz Hofbauer Remix](https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [R U FCKNG SERIOUS \(2023 Remaster + Remixes\)](https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22) | 6:31 | 2023-08-25 | 2023-11-25 |
 | [Red Wedding](https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Red Wedding](https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq) | 8:46 | 2023-05-05 |  |

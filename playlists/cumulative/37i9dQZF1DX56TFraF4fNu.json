@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/172obmKke2oySVKvoaGWXj"
+    },
+    {
+      "album": {
         "name": "venequia.",
         "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
       },
@@ -579,6 +597,28 @@
     },
     {
       "album": {
+        "name": "Brokix Hotline: Cobuz & Bustta",
+        "url": "https://open.spotify.com/album/3MQi4dwNeCPowK1iBtUCh7"
+      },
+      "artists": [
+        {
+          "name": "Hotline",
+          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
+        },
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159635,
+      "name": "Brokix Hotline: Cobuz & Bustta",
+      "url": "https://open.spotify.com/track/4dnCAHa7U4x5T5EKHT4Sw3"
+    },
+    {
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -966,6 +1006,24 @@
       "duration_ms": 142811,
       "name": "Ciclorama Sesh Cap.1: VEINTICUATROSIETE",
       "url": "https://open.spotify.com/track/6hGXkEAZG7snVAnCvKXqMC"
+    },
+    {
+      "album": {
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
     },
     {
       "album": {
@@ -2048,7 +2106,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 166815,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
@@ -3756,7 +3814,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 204991,
       "name": "UN PORRITO",
       "url": "https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04"
@@ -4002,6 +4060,24 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "album": {

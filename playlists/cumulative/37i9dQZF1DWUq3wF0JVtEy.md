@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-475 songs - 23 hr 12 min
+476 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-08-06 |
 | [Anywhere](https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL) | [Anywhere](https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz) | 2:46 | 2024-01-12 |  |
 | [Anywhere You Go](https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p) | [Anywhere You Go](https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky) | 3:01 | 2024-01-26 |  |
+| [Apes](https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [MOR3L](https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc) | [Apes](https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8) | 2:20 | 2024-08-09 |  |
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2021-10-29 | 2022-06-11 |
 | [Are You Feeling This?](https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Are You Feeling This? / Stay Focused](https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK) | 2:46 | 2023-11-17 | 2024-01-27 |
 | [Around You](https://open.spotify.com/track/5EGieT4siO2pu39978xZK5) | [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [East Dawn](https://open.spotify.com/artist/5d1toYNLtZklQSSoh985P4) | [Around You](https://open.spotify.com/album/6kHveSyKGbIT7m6NJ2l1zA) | 2:18 | 2022-05-27 | 2022-06-01 |
@@ -303,7 +304,7 @@
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-08-11 | 2023-11-30 |
 | [Night Rider](https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Night Rider](https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT) | 3:35 | 2023-05-12 | 2023-07-14 |
-| [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 |  |
+| [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 | 2024-08-10 |
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-11 |  |
 | [No Ass](https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [No Ass](https://open.spotify.com/album/2Bi5R2jfPGIRDBB3mSC82o) | 2:27 | 2021-10-29 | 2022-07-29 |
 | [No Diggity](https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj) | 3:38 | 2022-07-22 | 2023-12-16 |

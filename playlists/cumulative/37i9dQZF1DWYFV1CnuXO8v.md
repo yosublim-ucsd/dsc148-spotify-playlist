@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-316 songs - 20 hr 4 min
+317 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Habaytak Bel Thalata](https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Habaytak Bel Thalata](https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ) | 3:36 | 2023-07-13 |  |
 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 | 2023-05-22 | 2023-07-14 |
 | [Habiby Ya Liel](https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Habiby Ya Liel](https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW) | 4:32 | 2023-09-08 |  |
-| [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2023-02-13 |  |
+| [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2023-02-13 | 2024-08-10 |
 | [Habitha Ya Nas \- From Bhabak Movie](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك \(From Bhabak Movie\)](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 | 2023-02-16 | 2024-04-19 |
 | [Haga Mestakhabeya](https://open.spotify.com/track/605DPUyjE08UXnxTBZAYho) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:47 | 2023-09-08 |  |
 | [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-08-08 |  |
@@ -259,6 +259,7 @@
 | [بطمنك](https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بطمنك](https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM) | 4:49 | 2023-09-14 | 2024-04-19 |
 | [بقيس الجمال بيكي](https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقيس الجمال بيكي](https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN) | 3:47 | 2024-02-16 | 2024-04-26 |
 | [بكلمه منك](https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بطمنك](https://open.spotify.com/album/1gq4RDcXHPenXBMl2tdmLM) | 4:17 | 2023-09-08 | 2024-04-19 |
+| [بنسى نفسي](https://open.spotify.com/track/3o3NSDCAmUbkgXQfcbDsU5) | [Hamadh Majrshi](https://open.spotify.com/artist/3xjdm7LzSzT64ftScVarx8) | [بنسى نفسي](https://open.spotify.com/album/3r8THtwXg7OuYdwR7CKOWS) | 3:52 | 2024-08-09 |  |
 | [بيت كبير](https://open.spotify.com/track/4aXMJeSLoH0F1dgmGHPzZW) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [ليا نظرة](https://open.spotify.com/album/7iXNDhh3PBg5AKliz5ZjjB) | 4:32 | 2023-02-13 | 2023-05-23 |
 | [بيكلموني](https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 5:16 | 2024-04-26 |  |
 | [ترحالي](https://open.spotify.com/track/17pKNqA6ODA4lxDZ1ZyL8x) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [ترحالي](https://open.spotify.com/album/5S26R99JmKF6tmohh4xlQn) | 4:18 | 2024-02-07 | 2024-03-06 |

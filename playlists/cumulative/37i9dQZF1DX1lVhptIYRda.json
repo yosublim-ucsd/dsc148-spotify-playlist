@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Kacey Musgraves",
+  "description": "Celebrating Morgan Wallen's \"Last Night\" hitting 1 BILLION streams on Spotify! ",
   "name": "Hot Country",
   "tracks": [
     {
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 222466,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m"
@@ -7376,6 +7376,24 @@
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8"
+    },
+    {
+      "album": {
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163854,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn"
     },
     {
       "album": {
@@ -9893,6 +9911,24 @@
     },
     {
       "album": {
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+    },
+    {
+      "album": {
         "name": "Out Of That Truck",
         "url": "https://open.spotify.com/album/7nglF1PaMAFKEzUq3reXiJ"
       },
@@ -10476,6 +10512,24 @@
       "duration_ms": 204240,
       "name": "Refrigerator Door",
       "url": "https://open.spotify.com/track/1b0YOwtdW5ibaAhHEsbdjB"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
     },
     {
       "album": {
@@ -12762,7 +12816,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 186973,
       "name": "This Heart",
       "url": "https://open.spotify.com/track/1KtQmheytoTI6kOM8yCowf"

@@ -2,7 +2,7 @@
 
 ### [This Is Katy Perry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Jefw4)
 
-> This Is Katy Perry\. Los temas esenciales, todos en una lista.
+> This is Katy Perry\. The essential tracks, all in one playlist.
 
 101 songs - 5 hr 57 min
 
@@ -107,7 +107,7 @@
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 | 2022-01-12 |  |
 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 | 2022-04-12 |  |
 | [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 | 2024-04-11 | 2024-07-27 |
-| [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-14 |  |
+| [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-14 | 2024-08-10 |
 | [WOMAN’S WORLD \- Super Woman Version](https://open.spotify.com/track/0JBlHS7B5Q0HzGaTAvEgRp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD EP](https://open.spotify.com/album/6zSIkJTqQm06zGCunKbmaR) | 2:17 | 2024-07-17 |  |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

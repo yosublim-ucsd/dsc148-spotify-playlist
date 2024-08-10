@@ -1,32 +1,32 @@
 {
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC?si=_oqzWiQgQomo6FjTBILUbA\">Lainey Wilson</a>  ",
-  "num_followers": 28192,
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF?si=6qkSYoQ-Th65L1wancEr5w\">Kelsea Ballerini</a>  ",
+  "num_followers": 28225,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwFYAAAAAB9dH7x4itjF7BBc2DDEJJe",
+  "snapshot_id": "ZrWUQAAAAADQZJ22Lv1pElrAK/Py/wOu",
   "tracks": [
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Good Horses (feat. Miranda Lambert)",
-        "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         },
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Good Horses (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -169,10 +169,26 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
       "artists": [
         {
@@ -180,25 +196,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-03-07 22:00:00",
-      "album": {
-        "name": "TEXAS HOLD 'EM",
-        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
     },
     {
-      "added_at": "2024-05-30 22:00:00",
+      "added_at": "2024-03-07 22:00:00",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "TEXAS HOLD 'EM",
+        "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -289,10 +289,26 @@
       "url": "https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F"
     },
     {
-      "added_at": "2024-05-16 22:00:00",
+      "added_at": "2024-02-09 03:20:16",
       "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2024-02-09 03:20:16",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
@@ -300,9 +316,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -321,22 +337,6 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
       "added_at": "2024-02-09 03:20:16",
       "album": {
         "name": "Two Blue Eyes",
@@ -351,6 +351,22 @@
       "duration_ms": 211891,
       "name": "Two Blue Eyes",
       "url": "https://open.spotify.com/track/3c51VLAPb5blL4BjI7UoH3"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -385,10 +401,10 @@
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-07-04 22:00:00",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
       "artists": [
         {
@@ -396,9 +412,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+      "duration_ms": 233333,
+      "name": "28",
+      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -465,6 +481,22 @@
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Leaving at Midnight (Radio Edit)",
+        "url": "https://open.spotify.com/album/79127mkkGmDXdhm3umZAB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Atlantic",
+          "url": "https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB"
+        }
+      ],
+      "duration_ms": 176505,
+      "name": "Leaving at Midnight - Radio Edit",
+      "url": "https://open.spotify.com/track/5mpuf0qLx3l19E1l6FoYYs"
+    },
+    {
       "added_at": "2024-03-29 05:49:50",
       "album": {
         "name": "COWBOY CARTER",
@@ -483,38 +515,6 @@
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 176022,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Hell or High Water (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Hell or High Water (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -549,20 +549,20 @@
       "url": "https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO"
     },
     {
-      "added_at": "2024-07-04 22:00:00",
+      "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 233333,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
+      "duration_ms": 176022,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -669,20 +669,20 @@
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-05-30 22:00:00",
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 180621,
-      "name": "Hatchet",
-      "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
+      "duration_ms": 173203,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -703,42 +703,6 @@
       "duration_ms": 227400,
       "name": "GO HOME W U (WITH LAINEY WILSON)",
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "New Me",
-        "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 173203,
-      "name": "New Me",
-      "url": "https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Stampede: Vol. 1",
-        "url": "https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 172929,
-      "name": "How Far Will We Take It?",
-      "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
     },
     {
       "added_at": "2024-02-09 03:20:16",
@@ -787,6 +751,26 @@
       "duration_ms": 173000,
       "name": "Songs About Whiskey",
       "url": "https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Good Horses (feat. Miranda Lambert)",
+        "url": "https://open.spotify.com/album/51LSHfJxKu0e6V9N8TcdEG"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Good Horses (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 200347,
       "name": "Hart Breek",
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2024-02-22 22:00:00",
+      "album": {
+        "name": "Heartbreak King",
+        "url": "https://open.spotify.com/album/1HyRowYp3Pvrt8PYcomgpp"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Heartbreak King",
+      "url": "https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe"
     }
   ],
   "unique_name": "Country Musiek",

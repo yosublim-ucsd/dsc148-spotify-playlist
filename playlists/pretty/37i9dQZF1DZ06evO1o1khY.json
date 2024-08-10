@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 19027,
+  "num_followers": 19066,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABVKvIf8uOqVWhSmtuLA/CG",
+  "snapshot_id": "ZrQKgAAAAACnmCHyaP3vBRWMM6uFPf0z",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Overstood (GloRilla)",
+      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set The Tone",
         "url": "https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX"
       },
@@ -627,62 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Overstood (GloRilla)",
-      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Self Paid",
-        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
-      },
-      "artists": [
-        {
-          "name": "Big Homiie G",
-          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190008,
-      "name": "When She Drunk",
-      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
       },
@@ -699,26 +679,6 @@
       "duration_ms": 155193,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Trunk (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "In The Trunk (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "added_at": null,
@@ -743,6 +703,46 @@
       "duration_ms": 211006,
       "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
       "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Made Self Paid",
+        "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
+      },
+      "artists": [
+        {
+          "name": "Big Homiie G",
+          "url": "https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190008,
+      "name": "When She Drunk",
+      "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
     },
     {
       "added_at": null,

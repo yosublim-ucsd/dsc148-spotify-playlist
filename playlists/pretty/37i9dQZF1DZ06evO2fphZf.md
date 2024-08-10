@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 ### [This Is thủy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fphZf)
 
-> This is thủy\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,094 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,098 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 18 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 |
 | 19 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
 | 20 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 |
-| 21 | [u should feel special](https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:37 |
+| 21 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
 | 22 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:48 |
 | 23 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 |
 | 24 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
-| 25 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
+| 25 | [u should feel special](https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:37 |
 | 26 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
 | 27 | [attention](https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:57 |
 | 28 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 43 | [Next to You](https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Next to You](https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw) | 3:24 |
 | 44 | [Summers Around The Corner](https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Summers Around The Corner](https://open.spotify.com/album/3E4ICiqiWEXTncH5RxR1tB) | 3:48 |
 | 45 | [Hands on Me](https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Cr Crucial](https://open.spotify.com/artist/2e8j9kR0sPHsN60RtwxBlI) | [Hands on Me](https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws) | 3:08 |
-| 46 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
-| 47 | [Ain't No One](https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Ain't No One](https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9) | 2:53 |
+| 46 | [Ain't No One](https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Ain't No One](https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9) | 2:53 |
+| 47 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
 | 48 | [snowing in LA](https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [snowing in LA](https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy) | 3:25 |
 | 49 | [wishlist](https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wish list](https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF) | 2:44 |
 | 50 | [Love Come Down](https://open.spotify.com/track/1psyxX7jRaZU8qcUxWQx4z) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [I Don't Wanna Rap No More](https://open.spotify.com/album/2NZQvOFm3oJNXg9q5fbQQg) | 3:52 |
 
-Snapshot ID: `ZrK5AAAAAAC0jX3M5nxbCEuNtqhibvI6`
+Snapshot ID: `ZrQKgAAAAACmNSrBKQZg0PgqmmqOirEB`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 8 hr 30 min
+155 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 | 2023-12-13 |  |
 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 | 2023-12-13 |  |
 | [New Girlfriend](https://open.spotify.com/track/0ceGllCN4PZ6ttayn80HUE) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [New Girlfriend](https://open.spotify.com/album/3Zpdm02aUJtgdpgtCEtVP7) | 2:50 | 2021-12-27 |  |
-| [Night and Morning](https://open.spotify.com/track/4lj1We6JrzxZRIBEQLrqLO) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:23 | 2021-12-27 |  |
+| [Night and Morning](https://open.spotify.com/track/4lj1We6JrzxZRIBEQLrqLO) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:23 | 2021-12-27 | 2024-08-10 |
+| [Night and Morning](https://open.spotify.com/track/6xHP2fpNvTRKym7Dec35jN) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:23 | 2024-08-09 |  |
 | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/track/2WOebgcOKKxoyH2xvfzGq2) | [Ella Isaacson](https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an), [Kulkid](https://open.spotify.com/artist/54jIQsyNf1V5MEWlkHOZtS) | [Nirvana \(Kulkid Remix\)](https://open.spotify.com/album/4OsHCvcM8ch3Di8sR0JPzH) | 4:19 | 2021-12-27 |  |
 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 | 2021-12-27 |  |
 | [Nothing Here](https://open.spotify.com/track/2u8W9YjnCuR7tgaefRDYx7) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Journey](https://open.spotify.com/album/4vTfrB4P9R7ozSk7H2jdLI) | 2:37 | 2021-12-27 |  |
@@ -156,6 +157,7 @@
 | [Whatever You Say](https://open.spotify.com/track/3HJAwbCG7vMR6xA7qK2Mg6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [don’t look at the moon \- Deluxe](https://open.spotify.com/album/0pg20nefkrcmXHQRIEkTkI) | 3:16 | 2023-12-13 |  |
 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 | 2022-10-13 |  |
 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 | 2023-12-13 |  |
+| [Wine & Dine](https://open.spotify.com/track/1Wr9QgovQwIrdRleNJb3on) | [Safa Gaw](https://open.spotify.com/artist/2P5nu6GCjVReV48szUvmE1) | [Wine & Dine](https://open.spotify.com/album/4qWUEL2Fdje8N6C9MEb8NO) | 2:25 | 2024-08-09 |  |
 | [World We Created](https://open.spotify.com/track/330XRmK286D8DTBlhtuZn5) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/6A4gPuP784SSVFz0Hwiom3) | 3:13 | 2023-02-04 | 2023-02-22 |
 | [World We Created](https://open.spotify.com/track/51Ful1v7b81FchIFFTAQ05) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:13 | 2021-12-27 |  |
 | [You Must Be Crazy Too](https://open.spotify.com/track/5Sy3BynuE4fKlxoIh2rCmd) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:25 | 2024-06-08 |  |

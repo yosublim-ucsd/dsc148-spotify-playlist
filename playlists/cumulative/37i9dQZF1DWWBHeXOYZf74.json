@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: JPEGMAFIA",
+  "description": "Genre-less. Quality first always. Cover: Ravyn Lenae",
   "name": "POLLEN",
   "tracks": [
     {
@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165007,
+      "name": "1 of 1",
+      "url": "https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB"
+    },
+    {
+      "album": {
         "name": "drug opera",
         "url": "https://open.spotify.com/album/7huwRfNMhKPpjIX6xyUZUk"
       },
@@ -594,7 +612,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 168874,
       "name": "2 HOT 4 THIS",
       "url": "https://open.spotify.com/track/0f450GmiX3RoGkXPpIgzSg"
@@ -4012,7 +4030,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 234223,
       "name": "Autograph",
       "url": "https://open.spotify.com/track/6J8ZggXxpGiOjB3Pm9Alji"
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 136220,
       "name": "blu",
       "url": "https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK"
@@ -8555,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "CARRY YOU",
+        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188763,
+      "name": "CARRY YOU",
+      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
+    },
+    {
+      "album": {
         "name": "Cascades",
         "url": "https://open.spotify.com/album/4caVJ2oBEI8ysuxmjPZJR1"
       },
@@ -10200,7 +10236,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 161661,
       "name": "Confusion Song",
       "url": "https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8"
@@ -12107,6 +12143,24 @@
     },
     {
       "album": {
+        "name": "Digital girl",
+        "url": "https://open.spotify.com/album/6EbLfGgFP3pSlYcHybCWZG"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203864,
+      "name": "Digital girl",
+      "url": "https://open.spotify.com/track/74EzPzqGWVsFneY19nYxCp"
+    },
+    {
+      "album": {
         "name": "Dilemme",
         "url": "https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6"
       },
@@ -13409,6 +13463,32 @@
     },
     {
       "album": {
+        "name": "DOWNER",
+        "url": "https://open.spotify.com/album/4ghmvor0id8kayZJpUkkjH"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143030,
+      "name": "DOWNER",
+      "url": "https://open.spotify.com/track/0FMR48WoAQivFMFZ1HdVY8"
+    },
+    {
+      "album": {
         "name": "Downers",
         "url": "https://open.spotify.com/album/0nLXeoutieOSv8yOwSL1Bg"
       },
@@ -13570,7 +13650,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 219051,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S"
@@ -13640,7 +13720,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 147707,
       "name": "Drip Sweat (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn"
@@ -16264,6 +16344,28 @@
       "duration_ms": 106960,
       "name": "FIGHT!",
       "url": "https://open.spotify.com/track/5fxUkaEFs05qXwvimmPh7i"
+    },
+    {
+      "album": {
+        "name": "FIJI (feat. Cruza)",
+        "url": "https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        },
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174182,
+      "name": "FIJI (feat. Cruza)",
+      "url": "https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB"
     },
     {
       "album": {
@@ -20649,6 +20751,24 @@
     },
     {
       "album": {
+        "name": "HERE WE GO",
+        "url": "https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180897,
+      "name": "HERE WE GO",
+      "url": "https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -23064,7 +23184,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 137600,
       "name": "i'm so tired",
       "url": "https://open.spotify.com/track/4p3KnnHKwXk0x9Yv5gHrx6"
@@ -23166,7 +23286,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 147368,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
@@ -28072,7 +28192,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 143028,
       "name": "lost in translation",
       "url": "https://open.spotify.com/track/2JRNKk2mx8ODmynCxwhnxw"
@@ -31231,6 +31351,24 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
       },
@@ -31246,7 +31384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
@@ -32806,6 +32944,24 @@
       "duration_ms": 219130,
       "name": "Nothing Even Matters",
       "url": "https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc"
+    },
+    {
+      "album": {
+        "name": "Nothing That I Need",
+        "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198688,
+      "name": "Nothing That I Need",
+      "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
     },
     {
       "album": {
@@ -34671,6 +34827,24 @@
     },
     {
       "album": {
+        "name": "Gemelo",
+        "url": "https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211505,
+      "name": "Paloma",
+      "url": "https://open.spotify.com/track/74rvVpcia4jfUDBafy0WEt"
+    },
+    {
+      "album": {
         "name": "Pandemia",
         "url": "https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy"
       },
@@ -35854,7 +36028,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-10",
       "duration_ms": 213360,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
@@ -36626,6 +36800,24 @@
       "duration_ms": 200706,
       "name": "Prove It To You",
       "url": "https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW"
+    },
+    {
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/3XJaGjWc4WWbYscxJoE5QI"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/08BFS5v1nfJO8cnNqmuZGS"
     },
     {
       "album": {
@@ -45737,6 +45929,24 @@
     },
     {
       "album": {
+        "name": "shadowbox",
+        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "the giver",
+      "url": "https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln"
+    },
+    {
+      "album": {
         "name": "THE GLADE",
         "url": "https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa"
       },
@@ -51936,6 +52146,28 @@
       "duration_ms": 174946,
       "name": "You Can't Save Me",
       "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
+    },
+    {
+      "album": {
+        "name": "i do this sh*t in my sleep",
+        "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123820,
+      "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
+      "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 52988,
+  "num_followers": 53027,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "One Step Beyond...",
         "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 138360,
       "name": "One Step Beyond",
       "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
-        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
+        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 233893,
-      "name": "I'd Do Anything (If I Could)",
-      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
+      "duration_ms": 303466,
+      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
+      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba [feat.TAKUMA (10-FEET)]",
-        "url": "https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 303466,
-      "name": "\u98a8\u306b\u6226\u3050\u30d6\u30eb\u30fc\u30ba - feat.TAKUMA (10-FEET)",
-      "url": "https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "All The Moon Stompers",
         "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 191666,
       "name": "I Wanna Riot",
       "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/2EE9aKYoYxY3OFs9oLDZlI"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "I'd Do Anything (If I Could)",
+      "url": "https://open.spotify.com/track/1PtgIAApo7XR2zQxw5Y1Xa"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
+      },
+      "artists": [
+        {
+          "name": "Sublime Reggae Kings",
+          "url": "https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN"
+        },
+        {
+          "name": "Nenei",
+          "url": "https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7"
+        }
+      ],
+      "duration_ms": 179109,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat. NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
-      },
-      "artists": [
-        {
-          "name": "Sublime Reggae Kings",
-          "url": "https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN"
-        },
-        {
-          "name": "Nenei",
-          "url": "https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7"
-        }
-      ],
-      "duration_ms": 179109,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "No Rewind!",
-        "url": "https://open.spotify.com/album/0co4MlE0CYcVYQK9tdDrdO"
-      },
-      "artists": [
-        {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "No Rewind!",
-      "url": "https://open.spotify.com/track/0eU5iSnJ4IeqMq7WcORLjK"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Kalau Bulan Bisa Ngomong",
         "url": "https://open.spotify.com/album/2EJfmC76VxM5dexFl45NZH"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 294666,
       "name": "Kalau Bulan Bisa Ngomong",
       "url": "https://open.spotify.com/track/2W7S21zUjbNwaWNSE4ehr5"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "No Rewind!",
+        "url": "https://open.spotify.com/album/0co4MlE0CYcVYQK9tdDrdO"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "No Rewind!",
+      "url": "https://open.spotify.com/track/0eU5iSnJ4IeqMq7WcORLjK"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "The Sound Of Revolution",
+        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+      },
+      "artists": [
+        {
+          "name": "Los Fastidios",
+          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+        }
+      ],
+      "duration_ms": 205527,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+        "name": "The One And Only",
+        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
       },
       "artists": [
         {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+          "name": "Makua Rothman",
+          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
         }
       ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+      "duration_ms": 183725,
+      "name": "The One And Only",
+      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1551,26 +1567,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "40Tone",
-        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
-      },
-      "artists": [
-        {
-          "name": "Felices Adicciones",
-          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
-        },
-        {
-          "name": "Alexis Korfiatis",
-          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
-        }
-      ],
-      "duration_ms": 127181,
-      "name": "40Tone",
-      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1587,18 +1583,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
+        "name": "40Tone",
+        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
       },
       "artists": [
         {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
+          "name": "Felices Adicciones",
+          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
+        },
+        {
+          "name": "Alexis Korfiatis",
+          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
         }
       ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
+      "duration_ms": 127181,
+      "name": "40Tone",
+      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
     },
     {
       "added_at": "2024-07-26 06:00:00",

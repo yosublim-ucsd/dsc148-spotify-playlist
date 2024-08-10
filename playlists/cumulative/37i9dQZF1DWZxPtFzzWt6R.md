@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-82 songs - 5 hr 18 min
+84 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,12 @@
 | [Deus É Fiel \- Ao Vivo](https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Deus É Fiel \(Ao Vivo\)](https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48) | 4:29 | 2023-06-23 |  |
 | [Duas Vezes Mais](https://open.spotify.com/track/2UxerwRMfxlSTBcKhWdUhA) | [Jonas Maciel](https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY) | [Duas Vezes Mais](https://open.spotify.com/album/6Pq1Yz43OJMhFtl0spnifB) | 2:46 | 2023-06-23 | 2023-09-02 |
 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 | 2023-09-01 |  |
-| [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 | 2023-06-23 |  |
+| [Estações](https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Estações](https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2) | 2:47 | 2023-06-23 | 2024-08-10 |
 | [Estou Contigo](https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Estou Contigo](https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE) | 4:09 | 2023-06-23 |  |
 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 | 2023-06-23 |  |
 | [Estou no Controle](https://open.spotify.com/track/1WDXhve7KOKXp38Sy0eiL1) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [Estou no Controle](https://open.spotify.com/album/2LqLcq7bxp7pOMyMaLTx9M) | 4:59 | 2023-06-23 |  |
 | [Eu Joguei](https://open.spotify.com/track/2BeWABTa85hccN2RCZnJLp) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh) | [Eu Joguei](https://open.spotify.com/album/1GlwLbshxddbT3FiLw4EqD) | 3:23 | 2023-06-23 | 2023-09-02 |
-| [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 | 2023-09-01 |  |
+| [Eu Não Tô Preocupado \- Ao Vivo](https://open.spotify.com/track/4HBJMXQr6mX2ZUEAypYq8Z) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Eu Não Tô Preocupado \(Ao Vivo\)](https://open.spotify.com/album/68n4VyPUNp3TriuskJUUnx) | 2:31 | 2023-09-01 | 2024-08-10 |
 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 | 2023-06-23 |  |
 | [Eu Vou para o Céu](https://open.spotify.com/track/0qacmh2FDALRfili16U6wk) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Eu Vou para o Céu](https://open.spotify.com/album/79ystA3RcQXeTnJVRjqUpf) | 3:21 | 2023-06-23 | 2024-07-19 |
 | [Foi Deus](https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Foi Deus](https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5) | 3:35 | 2023-06-23 |  |
@@ -84,10 +84,12 @@
 | [Tudo](https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Tudo](https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK) | 4:31 | 2023-06-23 |  |
 | [Tô Preparado](https://open.spotify.com/track/1nQ4jgCNZ6Vj6XUCLjK1Q1) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Tô Preparado](https://open.spotify.com/album/05veWAkEESHkjO3mwiEqB2) | 3:09 | 2023-06-23 |  |
 | [Tô Te Querendo Demais](https://open.spotify.com/track/6s6d0KG0tFYr1WKMRnnF8q) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Tô Te Querendo Demais](https://open.spotify.com/album/6CFZJz9xZP8gz8pFTBFXyA) | 3:34 | 2023-06-23 | 2023-09-02 |
+| [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 | 2024-08-09 |  |
 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 | 2023-06-23 |  |
 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 | 2024-07-05 |  |
 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 | 2023-06-23 |  |
 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 | 2023-06-23 |  |
+| [Vou Embora pro Céu](https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Vou Embora pro Céu](https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S) | 3:34 | 2024-08-09 |  |
 | [É Só Vitória \(Ao Vivo\)](https://open.spotify.com/track/2J1eAoUK8bEv1dw1HEZVeJ) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [É Só Vitória \(Ao Vivo\)](https://open.spotify.com/album/4T1QOwc4oUSJvDrfLWfLJU) | 3:26 | 2023-06-23 | 2023-09-02 |
 | [És Tudo Que Eu Preciso](https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD) | [Os Levitas](https://open.spotify.com/artist/3YV74lQ51lbWwBSBoXsS12) | [És Tudo Que Eu Preciso](https://open.spotify.com/album/2uKx5edF199099KBJClMWf) | 5:19 | 2023-06-23 | 2023-09-02 |
 

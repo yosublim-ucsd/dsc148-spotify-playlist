@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 39960,
+  "num_followers": 39982,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrK5AAAAAABGDLjDYcumMYfUlYp85vqG",
+  "snapshot_id": "ZrQKgAAAAABBuzJSWHStiO3se9m4m3HF",
   "tracks": [
     {
       "added_at": null,
@@ -691,6 +691,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e1melo",
+        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -711,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
       "artists": [
         {
           "name": "Yoss Bones",
           "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ketamina",
-        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Ketamina",
-      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
     },
     {
       "added_at": null,
@@ -1059,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alto Calibre",
-        "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "Alto Calibre",
-      "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calor y Fr\u00edo",
         "url": "https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2"
       },
@@ -1099,6 +1079,42 @@
       "duration_ms": 215172,
       "name": "Calor y Fr\u00edo",
       "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alto Calibre",
+        "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "Alto Calibre",
+      "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
     },
     {
       "added_at": null,
@@ -1139,22 +1155,6 @@
       "duration_ms": 194690,
       "name": "No Es Tan Facil",
       "url": "https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Levant\u00e9",
-        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Me Levant\u00e9",
-      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
     },
     {
       "added_at": null,

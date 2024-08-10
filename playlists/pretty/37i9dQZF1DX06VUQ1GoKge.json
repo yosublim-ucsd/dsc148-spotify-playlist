@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 555999,
+  "num_followers": 555968,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm"
       },
       "artists": [
         {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+      "duration_ms": 193853,
+      "name": "Gimme That Boom",
+      "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm"
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 193853,
-      "name": "Gimme That Boom",
-      "url": "https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j"
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -823,6 +807,22 @@
       "duration_ms": 155286,
       "name": "Genocidal Humanoidz",
       "url": "https://open.spotify.com/track/3Sg3bOiD0kE4D5DcXk48Ds"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -855,22 +855,6 @@
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Vice Grip",
-      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -951,6 +935,22 @@
       "duration_ms": 217533,
       "name": "Super Charger Heaven",
       "url": "https://open.spotify.com/track/4qVZBA7jWL23SEWOfKFjiw"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Vice Grip",
+      "url": "https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Clawfinger",
-        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
-      },
-      "artists": [
-        {
-          "name": "Clawfinger",
-          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Biggest & the Best",
-      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 185879,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Clawfinger",
+        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
+      },
+      "artists": [
+        {
+          "name": "Clawfinger",
+          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Biggest & the Best",
+      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Gift (Explicit Version)",
-        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
-      },
-      "artists": [
-        {
-          "name": "Taproot",
-          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 264947,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Gift (Explicit Version)",
+        "url": "https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Again & Again",
+      "url": "https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju"
     },
     {
       "added_at": "2024-07-15 13:16:22",
