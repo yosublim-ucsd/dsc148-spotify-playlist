@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58332,
+  "num_followers": 58341,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "El HueyCoyote",
-          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
-      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+        "url": "https://open.spotify.com/album/2Z7qHRKHMTKTV5cX0juLnh"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El HueyCoyote",
+          "url": "https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
+      "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "BOOM SHAKALAKA",
-        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        },
-        {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
-        },
-        {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "BOOM SHAKALAKA",
-      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "El Trip",
         "url": "https://open.spotify.com/album/3vHEsJrncp28EjfC4OoDHW"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 357703,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "BOOM SHAKALAKA",
+        "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "BOOM SHAKALAKA",
+      "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
     },
     {
       "added_at": "2024-08-02 06:00:00",

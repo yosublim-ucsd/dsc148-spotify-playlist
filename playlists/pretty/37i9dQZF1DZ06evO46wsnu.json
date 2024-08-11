@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 163539,
+  "num_followers": 163579,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAArYNTScVH/B69m8AZTSKXc",
+  "snapshot_id": "ZrVcAAAAAACou54Nf6NhgEEvc85dsuRl",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 181453,
-      "name": "The Good Left Undone",
-      "url": "https://open.spotify.com/track/7eWuwGCowJAlHAGiHuH8UI"
+      "duration_ms": 195120,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 195120,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
+      "duration_ms": 199213,
+      "name": "Injection",
+      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
     },
     {
       "added_at": null,
@@ -300,7 +300,7 @@
       "added_at": null,
       "album": {
         "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Injection",
-      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
+      "duration_ms": 181453,
+      "name": "The Good Left Undone",
+      "url": "https://open.spotify.com/track/3Effll2C7OnP2isgbVPJje"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,687 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,705 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 21 | [Når eg ser deg](https://open.spotify.com/track/5OLHDsEWfA22jCwbxLohEY) | [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [Når eg ser deg](https://open.spotify.com/album/430FEP6RX8wuYMpsDzfPKI) | 3:10 |
 | 22 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 23 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 |
-| 24 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \(English Version\)](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
+| 24 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \- English Version](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
 | 25 | [When The Beat Drops Out](https://open.spotify.com/track/77ITGIzrUcsTwBbOj4yqqy) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [When The Beat Drops Out](https://open.spotify.com/album/7qruYqCC8VcJoFFhpm5qT4) | 2:11 |
 | 26 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
 | 27 | [Why I Love You So](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Why I Love You So](https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx) | 2:53 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 59 | [RED OUT](https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [RED OUT](https://open.spotify.com/album/3MlijbqKEwSmWHdNIfrdQY) | 2:31 |
 | 60 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 |
 | 61 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
-| 62 | [Lean dás](https://open.spotify.com/track/5GL71NjtYklm0rl42F4gBv) | [Mari Boine](https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE), [Ella Marie Hætta Isaksen](https://open.spotify.com/artist/5nsspN49KkZ8AJFXamukF8) | [Lean dás](https://open.spotify.com/album/7BcqMahmn54SPyr4TWfugv) | 4:35 |
+| 62 | [Lean dás](https://open.spotify.com/track/5GL71NjtYklm0rl42F4gBv) | [Mari Boine](https://open.spotify.com/artist/4t4unGD2iYlkONGDmBbkcE), [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7) | [Lean dás](https://open.spotify.com/album/7BcqMahmn54SPyr4TWfugv) | 4:35 |
 | 63 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 |
 | 64 | [E.T.A](https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:51 |
 | 65 | [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/track/0WVAxyXM6QKD6eyZiecgwM) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Lothepus](https://open.spotify.com/artist/2HEAdsUVqQO9KqF1wKmHOO) | [Sus & Dus \(feat\. Lothepus\)](https://open.spotify.com/album/6icNeVKB69STNb6TPBzfcW) | 2:30 |

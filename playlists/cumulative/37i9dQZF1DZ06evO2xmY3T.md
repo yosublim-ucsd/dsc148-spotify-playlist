@@ -2,7 +2,7 @@
 
 ### [This Is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
 
-> This is Cardi B\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Cardi B\. Track\-track unggulan, semuanya dalam satu playlist.
 
 66 songs - 3 hr 43 min
 

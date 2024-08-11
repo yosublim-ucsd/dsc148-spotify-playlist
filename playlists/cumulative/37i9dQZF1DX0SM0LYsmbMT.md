@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,201 songs - 6 day 16 hr 22 min
+4,202 songs - 6 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3235,7 +3235,7 @@
 | [Smile Again](https://open.spotify.com/track/2VZ2N0hfF1XQIPEhot4BXq) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Smile Again](https://open.spotify.com/album/3swcHpJ2eJSAkljZDVnEh7) | 0:57 | 2019-11-29 | 2020-03-20 |
 | [Smoke One](https://open.spotify.com/track/2lR4W7VFKuLeeFwhIqzDk7) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Smoke One](https://open.spotify.com/album/3r9WbGKS1hwq1mhIvryv1M) | 2:19 | 2019-12-13 | 2020-04-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2020-06-12 |
-| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 |  |
+| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 | 2024-08-11 |
 | [Smokery](https://open.spotify.com/track/2ZDcKJ9JK41xP1vZJA5uAz) | [Tipati](https://open.spotify.com/artist/6Y9bWYYnauLBdMITz0ZL3L) | [Smokery](https://open.spotify.com/album/4MSJ6UjbU4LpSP5slgFrLZ) | 2:33 | 2023-12-14 | 2023-12-31 |
 | [Smooth Operation](https://open.spotify.com/track/36lI2yTDwtlzgMq42zbbM0) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Smooth Operation](https://open.spotify.com/album/2BfOz9Hus0lwU6Pb5KjT9e) | 2:30 | 2023-12-01 | 2023-12-22 |
 | [Smooth Summer Cruise](https://open.spotify.com/track/44PIYaLC457K04fOytQn6T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Smooth Summer Cruise](https://open.spotify.com/album/4lowLW0qFaoC12Nat7qOs2) | 2:24 | 2023-09-21 | 2023-10-20 |
@@ -3713,6 +3713,7 @@
 | [Then Come In](https://open.spotify.com/track/6DGk8V4erA5sGMHOp0fXI5) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Cocoa Sax / Then Come In](https://open.spotify.com/album/3zvL0mje1QWwhzViPQrXc5) | 3:38 | 2021-06-11 | 2021-08-06 |
 | [Theory of the U](https://open.spotify.com/track/1oQ8gHxnQ8DPQLLxBGxzDX) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Theory of the U](https://open.spotify.com/album/47aQuqw2CivE6EeIkqkIkS) | 2:40 | 2020-05-25 | 2021-01-29 |
 | [They Are Closing in Zurich](https://open.spotify.com/track/0vGXAEkHTBFm8OVSDUCXdz) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [They Are Closing in Zurich](https://open.spotify.com/album/3Hn9EdSMCQrLEOBVZWHxv5) | 1:59 | 2021-06-25 | 2021-08-27 |
+| [They Can't Take That Away From Me](https://open.spotify.com/track/0IWyWwQKgvt4CAVTPhLupC) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [They Can't Take That Away From Me](https://open.spotify.com/album/3HZgGXC6TawZNF2nQPzA5M) | 2:18 | 2024-08-01 |  |
 | [They Say](https://open.spotify.com/track/7dyDhm02OBav60kMmEVHET) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6) | [They Say](https://open.spotify.com/album/6JR06bSp8iSg6xRgAOs0od) | 3:26 | 2024-01-26 | 2024-03-08 |
 | [Think for Yourself](https://open.spotify.com/track/0J9C432nUkMtgKiHQrVF1L) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [Think for Yourself](https://open.spotify.com/album/2cgAsluSyoCwyXlWgIGNOV) | 2:30 | 2020-01-15 | 2020-05-01 |
 | [Think Twice](https://open.spotify.com/track/5TYagQdQRwe9ivfuKU471K) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Think Twice](https://open.spotify.com/album/5RCslTc9uXM8WvX7cXrEPa) | 2:00 | 2023-11-23 |  |

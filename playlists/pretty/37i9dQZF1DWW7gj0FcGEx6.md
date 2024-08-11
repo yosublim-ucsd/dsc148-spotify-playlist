@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,611 likes - 265 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,652 likes - 265 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 2 | [A Time of Quiet Between the Storms](https://open.spotify.com/track/18bwTFfiQi3cGbU61l1OIj) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [A Time of Quiet Between the Storms / Harvester Attack \(from "Dune: Part Two"\)](https://open.spotify.com/album/31iFZsioqZFiA59rV3I4L7) | 4:21 |
-| 3 | [Deadpool Has a Theme](https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:28 |
+| 3 | [Deadpool Has a Theme](https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:28 |
 | 4 | [Outside Intro](https://open.spotify.com/track/3chpe83mkZt7cq4sOV7QwR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 0:55 |
 | 5 | [Lilith Remembers](https://open.spotify.com/track/4qmVQnmuuRzMsesVtUsCN8) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Borderlands \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1msbWhz1riVEbS4xqiVGpW) | 3:22 |
 | 6 | [Nature's Masterpiece](https://open.spotify.com/track/75RtniTau4f3U0eTXt8nAk) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Twisters \(Original Motion Picture Score\)](https://open.spotify.com/album/7oj3ux6cGIlZPwBVCPG9mm) | 1:57 |

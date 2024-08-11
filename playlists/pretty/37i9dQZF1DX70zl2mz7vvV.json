@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 54754,
+  "num_followers": 54790,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "It's Growing",
         "url": "https://open.spotify.com/album/4TjHpHW4Ij2bOjdxTi1SJC"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 211960,
       "name": "Sycamore Tree",
       "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Differentology",
-        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Differentology (Ready for the Road)",
-      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Extra Raw: The First Lady Of Dancehall",
         "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 230573,
       "name": "Man Is The Least",
       "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Differentology",
+        "url": "https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Differentology (Ready for the Road)",
+      "url": "https://open.spotify.com/track/4rIkcu5U87HoYi454m8Gen"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -823,18 +823,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reggae Anthology: Winston Riley - Quintessential Techniques",
-        "url": "https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav"
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
       },
       "artists": [
         {
-          "name": "Super Beagle",
-          "url": "https://open.spotify.com/artist/2MprrXEYOTnjaG87J2Mwdr"
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Dust A Sound Boy",
-      "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
+      "duration_ms": 250190,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/4ZEcuuNRfZk2osjAHAUJ8J"
     }
   ],
   "unique_name": "Legendary Labels: VP Records",

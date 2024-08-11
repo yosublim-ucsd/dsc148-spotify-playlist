@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: UGK",
-  "num_followers": 543555,
+  "num_followers": 543603,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Bring Em Out",
+      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "Rappa Ternt Sanga (Expanded Edition)",
         "url": "https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 239413,
       "name": "I'm N Luv (Wit a Stripper) (feat. Mike Jones)",
       "url": "https://open.spotify.com/track/2QurCbkPO14pjrikPNja0h"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "Urban Legend",
-        "url": "https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Bring Em Out",
-      "url": "https://open.spotify.com/track/3CcvahnsiArpTHYQEWV2Au"
     },
     {
       "added_at": "2024-08-09 20:18:48",

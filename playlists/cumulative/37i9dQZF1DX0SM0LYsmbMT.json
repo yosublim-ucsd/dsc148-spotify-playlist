@@ -65210,7 +65210,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 155294,
       "name": "Smoked",
       "url": "https://open.spotify.com/track/0wND5DO78fUn6bavabLy43"
@@ -74840,6 +74840,32 @@
       "duration_ms": 119215,
       "name": "They Are Closing in Zurich",
       "url": "https://open.spotify.com/track/0vGXAEkHTBFm8OVSDUCXdz"
+    },
+    {
+      "album": {
+        "name": "They Can't Take That Away From Me",
+        "url": "https://open.spotify.com/album/3HZgGXC6TawZNF2nQPzA5M"
+      },
+      "artists": [
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0IWyWwQKgvt4CAVTPhLupC"
     },
     {
       "album": {

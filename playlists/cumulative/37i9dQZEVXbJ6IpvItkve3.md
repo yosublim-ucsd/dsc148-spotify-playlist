@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,023 songs - 2 day 10 hr 0 min
+1,024 songs - 2 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [אלא בי](https://open.spotify.com/track/6GMedZwOyjw0OQM25vWixh) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלא בי](https://open.spotify.com/album/0jvZeMuAtbE416Py4xbb2V) | 5:00 | 2022-12-24 | 2023-01-09 |
 | [אלוף העולם](https://open.spotify.com/track/3Y4G4E7EVomTWTFSFS0Sn5) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלוף העולם](https://open.spotify.com/album/1FL8eqJMxg14Uhs4f4BVSe) | 3:35 | 2021-08-27 | 2023-04-29 |
 | [אלוף העולם](https://open.spotify.com/track/67dg9xeMIRXjcQbmbWtBFW) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אלוף העולם](https://open.spotify.com/album/20TdSSpRgmPWOLszkEDqvh) | 3:35 | 2021-03-27\* | 2021-07-05 |
+| [אם את חייבת/אינטרו](https://open.spotify.com/track/093NpjRdVPM0zE1GlT4gNo) | [Vibe Ish](https://open.spotify.com/artist/29AFXzlGto8fiywTMqEYHj) | [ב ח ו ץ](https://open.spotify.com/album/0xeoXJIwaRfOeOTQW03vPF) | 1:37 | 2024-08-10 |  |
 | [אם אתה שלי](https://open.spotify.com/track/2foTZaysNY65xcTXlQKxg4) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם אתה שלי](https://open.spotify.com/album/5iT3CN3wnrjdDLNuTkxKj8) | 3:00 | 2024-02-07 |  |
 | [אם הייתי צריכה](https://open.spotify.com/track/79h6P8bV0ENtq6Vmhkpewr) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אם הייתי צריכה](https://open.spotify.com/album/5B3xBhi3cYWXHcl8uFNDYm) | 3:24 | 2021-12-15 | 2023-01-14 |
 | [אם מחר אני מת](https://open.spotify.com/track/28tCQKMuSmbrGKgBVwDON0) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [אם מחר אני מת](https://open.spotify.com/album/6x9GieII0sRK6HSQPnsJmy) | 3:18 | 2024-02-13 | 2024-05-16 |
@@ -891,10 +892,10 @@
 | [סיגליות](https://open.spotify.com/track/3Q6d64XJr20cHQtRd07YGj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:34 | 2023-06-15 | 2024-04-02 |
 | [סיוופלה](https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [TOX1C](https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp) | [סיוופלה](https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8) | 2:23 | 2022-11-05 | 2022-12-27 |
 | [סינוס](https://open.spotify.com/track/1iapzOyCCKUSbOnRn92of7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 0:43 | 2023-12-26 | 2023-12-30 |
-| [סלינה](https://open.spotify.com/track/3piVfvEpcO5TXO1qn55NtX) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 4:15 | 2024-06-30 |  |
+| [סלינה](https://open.spotify.com/track/3piVfvEpcO5TXO1qn55NtX) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 4:15 | 2024-06-30 | 2024-08-11 |
 | [סן דייגו](https://open.spotify.com/track/6uWUsqSzbYxGhRJHNI7xPE) | [Elisha Banai](https://open.spotify.com/artist/0Bm0XFIxlatSU7sjwwxrgV) | [Elisha Banai & the Forty Thieves](https://open.spotify.com/album/2Mz2L0lkainrFMsuLlrrxQ) | 3:31 | 2022-09-17 | 2022-09-19 |
 | [ספרי להם הכל](https://open.spotify.com/track/2O1af1DbXF7paOr7O5CRst) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [ספרי להם הכל](https://open.spotify.com/album/6sKxDJudUsYnswoXSJmJb6) | 3:00 | 2022-05-31 | 2022-12-09 |
-| [סתלבט בקיבוץ](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [ממותה](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) | 3:36 | 2022-05-22 | 2024-08-06 |
+| [סתלבט בקיבוץ](https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [ממותה](https://open.spotify.com/album/0F59OTwMP1IRvvX3CzeO9G) | 3:36 | 2022-05-22 |  |
 | [עד המדבר](https://open.spotify.com/track/7jdvibTKMCbIP2B77ayD8Q) | [דיג'יי אונלי](https://open.spotify.com/artist/21kaSp403FBwhbEwjzymvK), [טליסמאן](https://open.spotify.com/artist/36SOAT1XBLPGOpya1OaMaQ), [Omri Sabach](https://open.spotify.com/artist/3Mfj0eEUcnEo0fGZ2MTkA1) | [עד המדבר](https://open.spotify.com/album/76faXVVPomerVXe1lmiKYM) | 3:24 | 2022-06-16 | 2024-05-29 |
 | [עד מחר](https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:27 | 2022-05-05 | 2023-11-21 |
 | [עד מחר](https://open.spotify.com/track/5dlEgrCOjy9FTcQM1vrrh5) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/77bDIhnMVW0L4mcJckkOzN) | 4:27 | 2021-04-16 | 2021-04-17 |
@@ -1030,6 +1031,6 @@
 | [‏פתמטר](https://open.spotify.com/track/1pwMJiF3aqE3zjeWIpYV1U) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Kashi](https://open.spotify.com/artist/0fH0m0VTc45qnCNF1tCYiK) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:17 | 2021-09-26 | 2021-10-03 |
 | [‏קורבן](https://open.spotify.com/track/2mGGqzRrPOYhgv4MSG6Fhq) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:24 | 2021-09-26 | 2022-02-26 |
 | [‏קנדריק](https://open.spotify.com/track/5MVbhdDzP1WiDquAHxNDbl) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:14 | 2021-09-26 | 2021-10-08 |
-| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 |  |
+| [‏שלווה בארמונותייך](https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 | 2024-08-11 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

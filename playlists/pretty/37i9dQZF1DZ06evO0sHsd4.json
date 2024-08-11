@@ -1,18 +1,18 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 7739,
+  "num_followers": 7770,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAN72WeI9QNxWqtVXBPDzrt",
+  "snapshot_id": "ZrVcAAAAAABI1BFEZlLeDcWxAi9ozMTj",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Made In Paris",
-        "url": "https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC"
+        "name": "Bien High",
+        "url": "https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Made In Paris",
-      "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
+      "duration_ms": 207671,
+      "name": "Bien High",
+      "url": "https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
       "duration_ms": 204253,
       "name": "ROSA PASTEL",
       "url": "https://open.spotify.com/track/4yjeRuoVickg1G87LWeRes"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Paris",
+        "url": "https://open.spotify.com/album/27IGVp8LfUUZTISwgB6rkC"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Made In Paris",
+      "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
     },
     {
       "added_at": null,

@@ -1719,6 +1719,28 @@
     },
     {
       "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "album": {
         "name": "FANCY YOU",
         "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
       },
@@ -3283,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Covers of 2023 - Covers of 2023",
+        "url": "https://open.spotify.com/album/4zHQs9bvQiNkV8rChyzxqT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116120,
+      "name": "Speed Drive",
+      "url": "https://open.spotify.com/track/3EzFjQcnnrIgEnka90MurP"
+    },
+    {
+      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -3472,28 +3512,6 @@
       "duration_ms": 253960,
       "name": "Tears (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/64xw3gXNMWv4wNXjF6tnXr"
-    },
-    {
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "date_added": "2024-08-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 454733,
+  "description": "This Is Yuridia. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 454891,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAv0pxRvFqHvbilKu2AQ6pI",
+  "snapshot_id": "ZrVcAAAAAACHf1Rs6z+ikzewO3im4xDi",
   "tracks": [
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 236906,
-      "name": "D\u00e9jame Volver Contigo",
-      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
     },
     {
       "added_at": null,
@@ -707,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Patricio Borghetti",
-          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
         }
       ],
-      "duration_ms": 324493,
-      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
-      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
+      "duration_ms": 236906,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
     },
     {
       "added_at": null,

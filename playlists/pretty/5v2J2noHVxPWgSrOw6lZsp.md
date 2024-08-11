@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,398 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 149 | [I Got You](https://open.spotify.com/track/5F6x5MH7s8nG3Cd2Y4WZgo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [I Got You](https://open.spotify.com/album/6NcrH2lovDeIKiAdUTE1xJ) | 3:01 |
 | 150 | [Closer To The Sun](https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer To The Sun](https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b) | 2:25 |
 | 151 | [Ants Marching](https://open.spotify.com/track/3HL9dtbUo5mJwXQyaEUESR) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Under The Table And Dreaming](https://open.spotify.com/album/3eAA4fvTVttgUlE43vRVMq) | 4:30 |
-| 152 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
+| 152 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \- Special Edition](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 |
 | 153 | [High Tide Or Low Tide](https://open.spotify.com/track/25s9gQB6i58zmOZdgdcTAQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/2EQBKTePJXgRBkQNk6LWf5) | 5:04 |
 | 154 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/1yEwEiTpsaPhQi9lb5EVV4) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give \(Deluxe\)](https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr) | 3:23 |
 | 155 | [The Girl From Ipanema](https://open.spotify.com/track/7F5rIyOI88zk36AiBXC8xq) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:46 |

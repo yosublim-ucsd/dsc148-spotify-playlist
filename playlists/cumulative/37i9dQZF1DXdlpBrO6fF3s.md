@@ -4,7 +4,7 @@
 
 > I'm The One! A TEEnager Z is here.
 
-150 songs - 8 hr 21 min
+151 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [WORK](https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.1](https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU) | 2:52 | 2024-06-04 |  |
 | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/track/08IsidLsr5hBVsj6hgY5jY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [WORK Pt.2 \- ATEEZ X Don Diablo](https://open.spotify.com/album/5qti5IxeLXnhbiMi92R5GC) | 3:00 | 2024-06-11 |  |
 | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/track/1jA54BUrAjZmVW4iizq9LB) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [WORK Pt.3 \- ATEEZ X Eden\-ary](https://open.spotify.com/album/7v7neu2S3o7LqnVxgxkzog) | 2:45 | 2024-07-02 |  |
+| [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl) | 3:22 | 2024-08-10 |  |
 | [Youth \(YUNHO, MINGI\)](https://open.spotify.com/track/136oL23K6A6g4PvptBWcS7) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:29 | 2023-12-07 |  |
 
 \*This playlist was first scraped on 2022-07-11. Prior content cannot be recovered.

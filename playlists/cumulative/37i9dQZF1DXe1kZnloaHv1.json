@@ -1101,6 +1101,24 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS"
+      },
+      "artists": [
+        {
+          "name": "SoNakByul",
+          "url": "https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136173,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I"
+    },
+    {
+      "album": {
         "name": "WHAT",
         "url": "https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH"
       },

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330652,
+      "name": "14-moji no Dengon",
+      "url": "https://open.spotify.com/track/74SUWGzg9fhFEkCRQ7rByT"
+    },
+    {
+      "album": {
         "name": "Rakuen Eno Shingeki",
         "url": "https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D"
       },

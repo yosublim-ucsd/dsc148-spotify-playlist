@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-646 songs - 2 day 15 hr 49 min
+647 songs - 2 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/0SrZP210qeRNZd2G3ciNVt) | 3:29 | 2020-06-01 | 2022-04-18 |
 | [Heart Breaker](https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Heart Breaker](https://open.spotify.com/album/1UG9lHQS3y5z56owpsLlI1) | 6:14 | 2019-12-21 | 2022-03-21 |
 | [Heart on Hold](https://open.spotify.com/track/7klqcPyFmka0E9aqTsul7t) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Heart on Hold](https://open.spotify.com/album/4i5PRWBoNmWwV4YcWboLy9) | 3:44 | 2023-11-11 | 2023-11-21 |
+| [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 | 2024-08-09 |  |
 | [Heartstone](https://open.spotify.com/track/1aknF6madhIhF6AP8eh3SD) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Utopia](https://open.spotify.com/album/0zCiAW6zNGf7N9G36fQCqK) | 7:12 | 2020-11-14 | 2021-01-15 |
 | [Hegn](https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK) | [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Hegn](https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI) | 6:26 | 2022-09-30 | 2022-10-08 |
 | [Here And Now](https://open.spotify.com/track/5FJeHtTDzqMxA59lq7m4qz) | [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Here And Now](https://open.spotify.com/album/35Woxs6eyVIX9m94vZKvMy) | 7:31 | 2020-08-08 | 2020-09-26 |
@@ -512,7 +513,7 @@
 | [Sparks](https://open.spotify.com/track/6qrWlSKebAvv0EdVkp39fL) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z) | [Flight Of Ares EP](https://open.spotify.com/album/6KOX7k4yrwQVPT0sfemjyu) | 7:31 | 2019-08-06\* | 2020-03-11 |
 | [Speak Sweetly](https://open.spotify.com/track/5wSvyaeCqyICC1fBGFNLpQ) | [Sid Le Rock](https://open.spotify.com/artist/3oBdslS0EdWkL0YjOXYfl3) | [Scenic Route](https://open.spotify.com/album/3Rtk4fogDm1QJ5PILp7mH3) | 5:23 | 2019-08-06\* | 2020-06-12 |
 | [Spectra](https://open.spotify.com/track/0iHzGqToy1uEM000sKlSiD) | [Nick Devon](https://open.spotify.com/artist/1tf23w0XfVu28n9arb8wX4), [Haffenfold](https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq) | [Spectra](https://open.spotify.com/album/4VLEDbMcKMORaJKIAztSzJ) | 6:49 | 2022-08-12 | 2022-08-20 |
-| [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 | 2022-04-15 |  |
+| [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 | 2022-04-15 | 2024-08-11 |
 | [Spicy \(feat\. Ginger\) \- Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy \(feat\. Ginger\) \[Edit\]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-06-05 | 2023-07-01 |
 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2022-11-15 |  |
 | [Spiral of Silence](https://open.spotify.com/track/2dEHguDxHDq3gCJwuUm3dV) | [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Spiral of Silence](https://open.spotify.com/album/1jsIFgJnEKQKo1lyurn3xS) | 3:04 | 2019-08-06\* | 2020-06-08 |

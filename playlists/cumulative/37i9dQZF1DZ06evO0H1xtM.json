@@ -1209,6 +1209,28 @@
     },
     {
       "album": {
+        "name": "Luceros",
+        "url": "https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "Luceros",
+      "url": "https://open.spotify.com/track/6BTWEnqNZ5ROT2RhFBGgNh"
+    },
+    {
+      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },

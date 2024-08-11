@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Xamuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,197 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,180 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [FORTALSHI\*](https://open.spotify.com/track/6HF8mrSIj2DV3Y4pBBIGgh) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg), [EREN](https://open.spotify.com/artist/2wx6CMJZtsVGvyMngwkoHs), [Nosred](https://open.spotify.com/artist/3L4VG4LqKqPUUvZXUttnSt), [olie](https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl) | [FORTALSHI\*](https://open.spotify.com/album/7xQB38DGBrzBlMgWXMman3) | 3:31 |
 | 14 | [Vida Cara](https://open.spotify.com/track/543c2Wsx1w6hTpyblP4Rwb) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [GF Gahiji](https://open.spotify.com/artist/3hOtF6DHkFYMUyamsJHJoP), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Vida Cara](https://open.spotify.com/album/5kowv21meGum0Vk1KoaOoI) | 2:27 |
 | 15 | [LAKERS](https://open.spotify.com/track/6YnySr3SR801Lt3IXbSrbm) | [S7lermo](https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [EU HOJE > EU ONTEM](https://open.spotify.com/album/6LCLlYlMX2DmHr48hyX1FR) | 2:24 |
-| 16 | [Rebeca Andrade freestyle](https://open.spotify.com/track/4rAl1spfZ4LtpJdf8INtPk) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Rebeca Andrade freestyle](https://open.spotify.com/album/27kB9hKc1gYbKzzLfUUY48) | 2:06 |
+| 16 | [Rebeca Andrade freestyle](https://open.spotify.com/track/4rAl1spfZ4LtpJdf8INtPk) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Rebeca Andrade freestyle](https://open.spotify.com/album/27kB9hKc1gYbKzzLfUUY48) | 2:06 |
 | 17 | [Eu Não Tenho Mais Tempo](https://open.spotify.com/track/3MV6i7bYE0HAooHnf1LHiI) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Eu Não Tenho Mais Tempo](https://open.spotify.com/album/6xOuUqFEeyKy9CdiaIKzcE) | 2:30 |
 | 18 | [P.P.R.T](https://open.spotify.com/track/0Jd6gf9RsWvlhp90mT6BxI) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:56 |
 | 19 | [Dialeto Delinquente](https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Dialeto Delinquente](https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB) | 2:16 |

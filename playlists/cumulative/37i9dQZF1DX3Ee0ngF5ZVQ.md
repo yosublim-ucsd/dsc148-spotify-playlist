@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Silverada
 
-641 songs - 1 day 14 hr 15 min
+642 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Hope It Don’t Take Forever](https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Hope It Don’t Take Forever](https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP) | 3:44 | 2023-10-20 |  |
 | [Horses in Heaven](https://open.spotify.com/track/5ymisOfkphZPfkPGd2l5Df) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Horses in Heaven](https://open.spotify.com/album/2oBVd4wvuvjmWmNVkG4l3Q) | 4:07 | 2021-12-17 | 2022-03-19 |
 | [How The Hurtin' Goes](https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [How The Hurtin' Goes](https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly) | 2:50 | 2023-09-01 | 2023-12-10 |
-| [How To Love You](https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Burn The Ground](https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X) | 3:23 | 2024-07-12 |  |
+| [How To Love You](https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Burn The Ground](https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X) | 3:23 | 2024-07-12 | 2024-08-11 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
 | [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 |  |
@@ -626,6 +626,7 @@
 | [Who Am I to Judge](https://open.spotify.com/track/5lBUnmTbiFEuaqgU3zx9iR) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Who Am I to Judge](https://open.spotify.com/album/3AklkzomSJInr5QA0MyHyD) | 3:52 | 2022-07-08 | 2023-02-25 |
 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-09-01 |  |
 | [Whole Lotta Heaven](https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Whole Lotta Heaven](https://open.spotify.com/album/7cRUHxfuLWHl0VMe7imioy) | 3:09 | 2022-01-21 | 2022-08-12 |
+| [Whole Lotta Lubbock](https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Whole Lotta Lubbock](https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY) | 3:12 | 2024-08-09 |  |
 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 | 2023-07-07 | 2024-05-18 |
 | [Why, Dallas?](https://open.spotify.com/track/0aG9eIioKkXS4aicxhyuT8) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Why, Dallas?](https://open.spotify.com/album/5KIHgSEWi3mJ6qTVs5bGGl) | 3:23 | 2022-10-21 | 2023-01-06 |
 | [Wild as Her](https://open.spotify.com/track/24n04jHyMQrEf9bErsTd2g) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [How You Know You Made It](https://open.spotify.com/album/7p5HIg6VYtRgDKYNBcVLge) | 3:19 | 2022-11-11 | 2022-11-13 |

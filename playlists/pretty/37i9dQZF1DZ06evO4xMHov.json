@@ -1,12 +1,12 @@
 {
-  "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61104,
+  "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 61113,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAD7sDGaxD0WQd9ITxIpdRak",
+  "snapshot_id": "ZrVcAAAAAADn/++tZQzR1QM6HsXG+hDm",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Mais Perto Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 355160,
       "name": "Meu Respirar - Ao Vivo",
       "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Mais Perto Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som da Liberdade 2.0",
-        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 305076,
-      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pardal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 415099,
       "name": "Pardal - Ao Vivo",
       "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som da Liberdade 2.0",
+        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 305076,
+      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica e Palavra (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 267960,
       "name": "Meu Universo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ousado Amor",
-        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 826880,
-      "name": "Ousado Amor",
-      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1guas Vivas",
         "url": "https://open.spotify.com/album/1Sez3oXBENOdi0Ainef5AJ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 457058,
       "name": "\u00c1guas Vivas",
       "url": "https://open.spotify.com/track/1IDHsyS7G9AA3pQzV1Nzqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ousado Amor",
+        "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 826880,
+      "name": "Ousado Amor",
+      "url": "https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB"
     },
     {
       "added_at": null,
@@ -1091,8 +1091,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-        "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 663370,
-      "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
-      "url": "https://open.spotify.com/track/1ElihpcKELnES7MoJWA1LF"
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

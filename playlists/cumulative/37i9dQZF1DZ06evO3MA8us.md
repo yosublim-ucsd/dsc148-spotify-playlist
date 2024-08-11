@@ -2,7 +2,7 @@
 
 ### [This Is Passion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MA8us)
 
-> This is Passion\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This is Passion\. The essential tracks, all in one playlist.
 
 95 songs - 8 hr 50 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 250707,
+  "num_followers": 250757,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAANQLfZwdysDxhQA204aKrY",
+  "snapshot_id": "ZrVcAAAAAAAV1BPyeBAKFRhbykxQkOcP",
   "tracks": [
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/5Ox45OAhKONmMKMrJSEsLp"
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 211306,
-      "name": "Moondance",
-      "url": "https://open.spotify.com/track/1IzlSeZQE4PwIPSaUsv0AV"
+      "duration_ms": 347402,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/5BVCsSoPnMXwPeaK9Aexjx"
     }
   ],
   "unique_name": "This Is Nightwish",

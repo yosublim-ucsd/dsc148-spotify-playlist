@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 965 songs - 2 day 11 hr 19 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 966 songs - 2 day 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -973,5 +973,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 963 | [Whistle For The Choir](https://open.spotify.com/track/3rXCnvL6xP83VsYUg4rm7e) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 |
 | 964 | [vulgar display of power](https://open.spotify.com/track/1Z0FllHuwKceEa9wRJKTku) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:52 |
 | 965 | [SIN MIEDO](https://open.spotify.com/track/6zSLy6mrBrMlzaIn9UDw6o) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:46 |
+| 966 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 |
 
-Snapshot ID: `AAAIkOGdZWaeXf6HRSrO6O8DLYmAm1mq`
+Snapshot ID: `AAAIkQfz4FRxpk+jjDGLoILmIrZbEy8A`

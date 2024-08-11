@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Monaleo
 
-647 songs - 1 day 3 hr 43 min
+648 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Back On That Shit](https://open.spotify.com/track/416cKabGkCYkn0nWzm4HdV) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [K Nasty](https://open.spotify.com/album/0CMvRq3Cf2513ixszr17yf) | 2:21 | 2021-11-05 | 2022-04-21 |
 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 | 2024-01-19 |  |
 | [Back To The Basics](https://open.spotify.com/track/0zKpWmBCHseu9ewM1BUII7) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Emotional Gangsta](https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C) | 2:09 | 2022-11-18 | 2023-04-09 |
+| [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 | 2024-08-09 |  |
 | [BAD WEATHER](https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [BAD WEATHER](https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV) | 1:52 | 2024-04-12 | 2024-04-20 |
 | [Baddest Alive](https://open.spotify.com/track/7cKwlNgqKjTi1rLUzIBxfL) | [LADY SB](https://open.spotify.com/artist/2ijOrLqeUMFXLF5UvRGgs1), [Lex Luger](https://open.spotify.com/artist/03ojdQidPtScdEq8KU2V9K) | [Baddest Alive](https://open.spotify.com/album/0NiRXaLgYP9aIEwKF01fRv) | 1:47 | 2023-04-28 | 2023-06-03 |
 | [Baddies](https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Baddies](https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1) | 2:53 | 2024-04-19 | 2024-06-29 |
@@ -185,7 +186,7 @@
 | [Dont Tempt Me](https://open.spotify.com/track/3LGd9XTW9TBOBAiZj5lgVM) | [TeeCee Rou’Lette](https://open.spotify.com/artist/6CoZArC7g7pyLeYGoD8M0m), [ATG Productions](https://open.spotify.com/artist/37tHxdawfBSAiQmUqnSmYu) | [Dont Tempt Me](https://open.spotify.com/album/4zhNjWNxX0ygivVReWt5yZ) | 2:22 | 2023-08-25 | 2023-09-16 |
 | [Don’t Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/track/4pBZw3XkLPrzGPQlfvUyVR) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bigg Bagg Queezy](https://open.spotify.com/artist/4QBSZiA6x0D1BQ2Gjd6gNF) | [Don't Like \(feat\. Bigg Bagg Queezy\)](https://open.spotify.com/album/0kWMYrV4MsyB31lAB9lwz7) | 3:13 | 2023-07-28 | 2023-09-09 |
 | [Don’t Like Me](https://open.spotify.com/track/6ULzrOfL5CveQ6U6duTPNm) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Don't Like Me](https://open.spotify.com/album/2k7lOOiEmerUPSuIftNvk4) | 2:21 | 2023-07-21 | 2023-09-30 |
-| [Double Homicide](https://open.spotify.com/track/6IjRKzkCbbBnM8itEIdw2C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Dauntless Manifesto](https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3) | 1:57 | 2024-06-28 |  |
+| [Double Homicide](https://open.spotify.com/track/6IjRKzkCbbBnM8itEIdw2C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Dauntless Manifesto](https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3) | 1:57 | 2024-06-28 | 2024-08-11 |
 | [Drill a RaMA \(feat\. Benny the Butcher\)](https://open.spotify.com/track/0ScyCZruSs8LADmXmsEQ19) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [THE LIZ](https://open.spotify.com/album/4qBqFNBcgixIpe1tlvE8ck) | 2:43 | 2021-11-05 | 2022-03-18 |
 | [DROP TOP](https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [EXTRA](https://open.spotify.com/album/4LGQZ0SlcfHMzr9jZ1USp2) | 2:13 | 2023-11-03 | 2023-12-02 |
 | [DUMB \(feat\. Lola Brooke\)](https://open.spotify.com/track/2MoYAeKtUJz368Xon8NBjG) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:27 | 2023-06-09 | 2023-06-24 |

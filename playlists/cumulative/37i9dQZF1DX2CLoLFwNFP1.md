@@ -4,7 +4,7 @@
 
 > 
 
-289 songs - 17 hr 55 min
+290 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Day by Day](https://open.spotify.com/track/3u1lKhxd2XV8f77aZAsRkN) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [\[Vol.66\] You Hee yul's Sketchbook : 40th Voice 'Sketchbook X Jay Park'](https://open.spotify.com/album/4NB7wMyRsRUQ1TZ2GivpDS) | 3:58 | 2022-04-20 |  |
 | [Day Day](https://open.spotify.com/track/4RVnBOCRhSg9acr4LjrSe5) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me the Money 5 Episode 4](https://open.spotify.com/album/7ffxjfHRGAZc4mwGCJN4Wr) | 3:29 | 2022-04-20 |  |
 | [Day Day \(Prod\. By GRAY\)](https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Show Me the Money 5 Episode 4](https://open.spotify.com/album/4iSAd5Tg8jNhoRLnZ0Tb0X) | 3:29 | 2022-08-02 | 2024-04-19 |
+| [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-10 |  |
 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 | 2022-04-20 |  |
 | [Deep Sea DRIP](https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Everybody Sucks](https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l) | 2:58 | 2022-08-02 | 2024-04-19 |
 | [Deep Sea DRIP](https://open.spotify.com/track/4zen70nrIu9vatpZfA1tUu) | [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Everybody Sucks](https://open.spotify.com/album/2jZAsK8J0X1eqolx9354rL) | 2:58 | 2022-04-20 |  |

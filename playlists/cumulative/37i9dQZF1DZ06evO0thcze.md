@@ -2,9 +2,9 @@
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This is Neto Peña\. The essential tracks, all in one playlist.
+> This Is Neto Peña\. Los temas esenciales, todos en una lista.
 
-64 songs - 4 hr 10 min
+65 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Una Leyenda Nunca Muere](https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Una Leyenda Nunca Muere](https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg) | 2:46 | 2023-11-10 | 2024-06-22 |
 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 | 2023-11-10 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-11-10 |  |
+| [Yo No Fui](https://open.spotify.com/track/0e50i7uScPMfqZWBfYE3Vs) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Yo No Fui](https://open.spotify.com/album/3a9L76jK0d4jVlEooWCbuU) | 3:12 | 2024-08-11 |  |
 | [Yo Soy Así](https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Yo Soy Así](https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP) | 3:44 | 2024-04-20 |  |
 | [¿Qué Hay Que Hacer?](https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [¿Qué Hay Que Hacer?](https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76) | 2:35 | 2023-11-10 | 2024-03-18 |
 

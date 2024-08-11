@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "Project Serendipity Op. 2",
+        "url": "https://open.spotify.com/album/0qyTnrAdyT7oYZROKtiZt9"
+      },
+      "artists": [
+        {
+          "name": "Jongsoo Park",
+          "url": "https://open.spotify.com/artist/1iN6TSbrY3X44sLoo7un1R"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272278,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2OsFwG5aIOH08ZvZ0cDsBl"
+    },
+    {
+      "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },

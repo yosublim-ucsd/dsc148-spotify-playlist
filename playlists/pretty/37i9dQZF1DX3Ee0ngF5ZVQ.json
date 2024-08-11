@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Silverada",
-  "num_followers": 411367,
+  "num_followers": 411372,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -655,34 +655,42 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Hungover Again",
-        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
+        "name": "Whiskey Talkin'",
+        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
       },
       "artists": [
         {
           "name": "Casey Donahew",
           "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 213605,
-      "name": "Hungover Again",
-      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
+      "duration_ms": 213354,
+      "name": "Whiskey Talkin'",
+      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
     },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Roadrunner!",
-        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
+        "name": "Long Ride In A Short Bed",
+        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        },
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 253600,
-      "name": "Other Girls (Ain't Havin' Any Fun)",
-      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
+      "duration_ms": 216341,
+      "name": "Long Ride In A Short Bed",
+      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -735,38 +743,34 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "Roadrunner!",
+        "url": "https://open.spotify.com/album/583O7BvKdAfi6tmhdjuI8N"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 253600,
+      "name": "Other Girls (Ain't Havin' Any Fun)",
+      "url": "https://open.spotify.com/track/6zLZHGqONXx2yYWS9S4Ebv"
     },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Whiskey Talkin'",
-        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
+        "name": "Hungover Again",
+        "url": "https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs"
       },
       "artists": [
         {
           "name": "Casey Donahew",
           "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 213354,
-      "name": "Whiskey Talkin'",
-      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
+      "duration_ms": 213605,
+      "name": "Hungover Again",
+      "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -831,6 +835,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 204141,
       "name": "Stay",
       "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Long Ride In A Short Bed",
-        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
-      },
-      "artists": [
-        {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
-        },
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 216341,
-      "name": "Long Ride In A Short Bed",
-      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Tomorrow's Out Of Sight",
-        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 214252,
-      "name": "Tomorrow's Out Of Sight",
-      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Love Talking",
         "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Tomorrow's Out Of Sight",
+        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 214252,
+      "name": "Tomorrow's Out Of Sight",
+      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Come Rest Your Head (On My Pillow)",
         "url": "https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 277600,
       "name": "Come Rest Your Head (On My Pillow)",
       "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 219163,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1599,6 +1599,22 @@
       "duration_ms": 224613,
       "name": "Hope It Don\u2019t Take Forever",
       "url": "https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Too Many Honky Tonks",
         "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
       },
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "All I Wanna Do Is Drink",
-        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 224093,
-      "name": "All I Wanna Do Is Drink",
-      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1731,18 +1727,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Burn The Ground",
-        "url": "https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X"
+        "name": "All I Wanna Do Is Drink",
+        "url": "https://open.spotify.com/album/70R3YqEm3BxYOfkumvPdjk"
       },
       "artists": [
         {
-          "name": "Mason Lively",
-          "url": "https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs"
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 203800,
-      "name": "How To Love You",
-      "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
+      "duration_ms": 224093,
+      "name": "All I Wanna Do Is Drink",
+      "url": "https://open.spotify.com/track/4jHJ3GZtmx5iqjTZoxgMgx"
     }
   ],
   "unique_name": "Texas Country Now",

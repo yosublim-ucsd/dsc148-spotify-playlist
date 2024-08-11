@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,591 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,590 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 29 | [Peace of Mind](https://open.spotify.com/track/2CK9vVWKbNJlbMXzeYk4pk) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [Peace of Mind](https://open.spotify.com/album/4tORIFZR2cAnZlkVk82q6o) | 4:08 |
 | 30 | [Bad Childhood](https://open.spotify.com/track/5oY69dzVj2R3xZXEdgCR3S) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Bad Childhood](https://open.spotify.com/album/3rEjmhY3zBkWjERM0DTjrL) | 2:40 |
 | 31 | [Afterlife](https://open.spotify.com/track/3DKp7xHHLaUKFQBQ3u3D4T) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Afterlife](https://open.spotify.com/album/2qb1WhZJCwkjAxnjZYWrG1) | 2:43 |
-| 32 | [Me & My Friends \(feat\. MOD SUN + Beauty School Dropout\)](https://open.spotify.com/track/4Nn7ye758SVxASDfLMo5f0) | [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Me & My Friends \(feat\. MOD SUN + Beauty School Dropout\)](https://open.spotify.com/album/2gX3TFAUk6rreUCsL5Y0Yt) | 3:03 |
+| 32 | [Me & My Friends](https://open.spotify.com/track/4Nn7ye758SVxASDfLMo5f0) | [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Me & My Friends](https://open.spotify.com/album/2gX3TFAUk6rreUCsL5Y0Yt) | 3:03 |
 | 33 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 34 | [Remains of Us](https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk), [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Remains of Us](https://open.spotify.com/album/2gxw4M7PiKHj1nYogMZY2z) | 4:02 |
 | 35 | [Safe Word](https://open.spotify.com/track/08uyF3137P9t987u5VzoVf) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Sleepyhead](https://open.spotify.com/album/0YF8FkTRSDz5H5GlwOnRcT) | 3:04 |

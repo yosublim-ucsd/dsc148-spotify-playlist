@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ..\. hej igen <a href="spotify:artist:7n2wHs1TKAczGzO7Dd2rGr">Shawn Mendes</a> 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,932 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,936 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 83 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 |
 | 84 | [Low](https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Low](https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv) | 3:37 |
 | 85 | [Slack](https://open.spotify.com/track/2bcKBXhEvtpluFyU5bQNh7) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Slack](https://open.spotify.com/album/399DCOIpeXaQOvUOSRY8yS) | 2:49 |
-| 86 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \(English Version\)](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
+| 86 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \- English Version](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
 | 87 | [TALES OF A TWENTY SOMETHING](https://open.spotify.com/track/1NTTLmNKj9FZSL40Ouwudu) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [TALES OF A TWENTY SOMETHING](https://open.spotify.com/album/0eqhKrOcjnDnJNQTi3zGkD) | 2:55 |
 | 88 | [Happy Again](https://open.spotify.com/track/2WugJjgShjchyHCEXTVhN4) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Happy Again](https://open.spotify.com/album/4AHa4OtKHo63S4IL7ZEYfD) | 4:02 |
 | 89 | [The Reason](https://open.spotify.com/track/6jR3rApdfZBIwt01ctnoRH) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [David Botero](https://open.spotify.com/artist/5MDgKcKetNzuCiItXkK1dG) | [The Reason](https://open.spotify.com/album/4hszoCx4n9PwB0joDmrlQb) | 3:20 |

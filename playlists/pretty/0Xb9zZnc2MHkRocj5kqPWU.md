@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,559 likes - 200 songs - 10 hr 54 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,557 likes - 200 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 2 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
 | 3 | [24 Preludes, Op\. 11: No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/track/3lxToYK7vt3OysDMAMVT9A) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Preludes, Op\. 11/No\. 21 in B\-Flat Major \- Andante](https://open.spotify.com/album/2MAeQ1QI3a6tIxVdKqOmJS) | 2:00 |
 | 4 | [Sonata No\. 42 in D Minor](https://open.spotify.com/track/2RTqiYtiTKhkctjDOGgQlL) | [Domenico Cimarosa](https://open.spotify.com/artist/3UyRRlpJO3uCojQkBibqNZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Jean\-Sélim Abdelmoula](https://open.spotify.com/artist/7dmgAkp6pEiHPciRnTOfEh) | [Sonata No\. 42 in D Minor](https://open.spotify.com/album/3QGp7vVCkhhzwQY23RjzxE) | 2:36 |
-| 5 | [Italian Rêverie](https://open.spotify.com/track/3GY8tgmS8X3ZwYcRqSJ6Zq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt), [Giuseppe Vitale](https://open.spotify.com/artist/28oW7RB4sao3Ms4FuKYQyO) | [Italian Rêverie](https://open.spotify.com/album/0yZwMgMV5BzTluFxCJXBW3) | 3:34 |
+| 5 | [Italian Rêverie](https://open.spotify.com/track/3GY8tgmS8X3ZwYcRqSJ6Zq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Italian Rêverie](https://open.spotify.com/album/0yZwMgMV5BzTluFxCJXBW3) | 3:34 |
 | 6 | [Two Pieces for Piano Solo: II\. Wiegenlied](https://open.spotify.com/track/6lYH6XDclBD6ZwPINWl4Oo) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Valentin Silvestrov: Forgotten Word I Wished to Say](https://open.spotify.com/album/7vFrcPyiFroABa3g2d7AL4) | 5:03 |
 | 7 | [3 Intermezzi, Op\. 117: 3 Intermezzi, Op\. 117/No\. 1 in E\-Flat Major](https://open.spotify.com/track/2qMnYj3hfOHDhQamPx3eLp) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [3 Intermezzi, Op\. 117/No\. 1 in E\-Flat Major](https://open.spotify.com/album/0yJELcW2IEAD2iXEjLrqp9) | 5:10 |
 | 8 | [Danse des Fleurs](https://open.spotify.com/track/2TCBiOu9kpsk0JaC8vwTOf) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Danse des Fleurs](https://open.spotify.com/album/1KxShD3HTAWk3RC2y52kcp) | 2:23 |

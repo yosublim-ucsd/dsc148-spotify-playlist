@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music!  Cover: <a href="spotify:artist:0XnterAMV09fuPjq4joR0c">Rita Springer<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,343 likes - 44 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,350 likes - 44 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 13 | [Jesus Cries \- Unplugged Version](https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Jesus Cries](https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4) | 3:26 |
 | 14 | [High Hopes](https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [High Hopes](https://open.spotify.com/album/1JlsrX9MGKgi8WZNrfi5TI) | 3:22 |
 | 15 | [Right on Time](https://open.spotify.com/track/4pVzf8UaGNQV0v9HyVjjVO) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Right on Time](https://open.spotify.com/album/0Gw9quE6VUvg49osbcrU6A) | 2:50 |
-| 16 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
+| 16 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 17 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
 | 18 | [Perfect](https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY) | [Perfect](https://open.spotify.com/album/6EkIUiWQSjDnBpA5pOgzxD) | 3:24 |
 | 19 | [Focus](https://open.spotify.com/track/6OT9HWfdJrGyWDmktbXR2t) | [Leah McFall](https://open.spotify.com/artist/0TPCAiL47d77TFdFLqsjCw) | [Focus](https://open.spotify.com/album/2857SSKmXkcoKOJBdsZUL4) | 2:56 |

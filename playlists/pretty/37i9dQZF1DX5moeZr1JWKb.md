@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 
 > Estas son las grandes voces del Hip Hop\. Foto: Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,938 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,944 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moeZr1JWKb.md) - [plain]
 | 9 | [AIR](https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL) | [AIR](https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr) | 2:59 |
 | 10 | [Oriente](https://open.spotify.com/track/1m7420tu0giLnbu2LQ98y0) | [El Nido](https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF), [Fiallo](https://open.spotify.com/artist/6E2JHtKCvri7P7vWK7CzCc), [Munozzz](https://open.spotify.com/artist/5pF08t8ERA9GuK5dvnC1oB), [Barrasdereptil](https://open.spotify.com/artist/4KPi82w20lGQ5ndqNxkZ4k) | [Oriente](https://open.spotify.com/album/3Ff4w8X4dQwai5Lg8IFDOA) | 4:36 |
 | 11 | [Dual](https://open.spotify.com/track/2OTZ7ESYp6oFojCUPJXOmu) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Dual](https://open.spotify.com/album/1R1W9HadK0whSF7tO01ER3) | 3:15 |
-| 12 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
+| 12 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
 | 13 | [Amarilla](https://open.spotify.com/track/0vs0ffsHCGH8czaSNMhHBW) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Amarilla](https://open.spotify.com/album/3TN7Uh65OC86UkcYAjK755) | 2:30 |
 | 14 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/7yjBjpHWCPkjaiL3mFSkqK) | 2:44 |
 | 15 | [Sudaca en el Rooftop](https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Brina Quoya](https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY), [Dr Bizarro](https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn) | [Sudaca en el Rooftop](https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv) | 3:13 |

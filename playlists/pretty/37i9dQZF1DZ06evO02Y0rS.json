@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 158340,
+  "num_followers": 158350,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAADnvfWkfVr40IP4E+RsEXIA",
+  "snapshot_id": "ZrVcAAAAAAAwnTWBcKvVDhHeiJ45psC9",
   "tracks": [
     {
       "added_at": null,
@@ -786,11 +786,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nick Murphy",
+          "url": "https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3"
         }
       ],
-      "duration_ms": 307327,
-      "name": "7th Sevens",
-      "url": "https://open.spotify.com/track/3AW6V6zWH45jI7eNPnSDfT"
+      "duration_ms": 448983,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
     },
     {
       "added_at": null,

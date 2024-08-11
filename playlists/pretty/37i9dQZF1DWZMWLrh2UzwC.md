@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,409 likes - 106 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,420 likes - 106 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 6 | [⁠Sayang/Cinta](https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [TEMAN EP](https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G) | 3:48 |
 | 7 | [Salleh Wakeup!](https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 5:05 |
 | 8 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
-| 9 | [Pata Pata](https://open.spotify.com/track/2ovmxicVnz3wRxLHSDI3Ns) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Angga Dermawan](https://open.spotify.com/artist/2ach3xwUquT7Fjc6CjZKIy) | [Pata Pata](https://open.spotify.com/album/0628Pr9SnFOtHfnXrFuGMn) | 3:30 |
+| 9 | [Pata Pata](https://open.spotify.com/track/2ovmxicVnz3wRxLHSDI3Ns) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [ANGGA DERMAWAN](https://open.spotify.com/artist/2VyXluaQ6KiQdNLecBtLXY) | [Pata Pata](https://open.spotify.com/album/0628Pr9SnFOtHfnXrFuGMn) | 3:30 |
 | 10 | [Kenapa Kembali](https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Kenapa Kembali](https://open.spotify.com/album/2hXGoUmZKcnbqSUH5z2GOc) | 3:34 |
 | 11 | [LAST PARADE](https://open.spotify.com/track/5g161vgVSZ2dhzczfNJcyx) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 3:07 |
 | 12 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |

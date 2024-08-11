@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "tell your friends",
+        "url": "https://open.spotify.com/album/2byPUQaQQRDjkBs04YotR0"
+      },
+      "artists": [
+        {
+          "name": "Aiboy",
+          "url": "https://open.spotify.com/artist/5xB1QNglj15uGJolScKHA6"
+        },
+        {
+          "name": "mitsu",
+          "url": "https://open.spotify.com/artist/23YoAINbGhO86djx0Kbj9O"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147647,
+      "name": "tell your friends (Feat. mitsu)",
+      "url": "https://open.spotify.com/track/15dFeWPJpc1QMDJYULGEp0"
+    },
+    {
+      "album": {
         "name": "Terus Hidup - Korean Version",
         "url": "https://open.spotify.com/album/0gK4KhTEmnSNHTszq8SlmR"
       },

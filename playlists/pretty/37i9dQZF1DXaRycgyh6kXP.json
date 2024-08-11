@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 227622,
+  "num_followers": 227731,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Flown",
-        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 235702,
-      "name": "Flown",
-      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -335,22 +331,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Flown",
+        "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         },
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
         }
       ],
-      "duration_ms": 322499,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+      "duration_ms": 235702,
+      "name": "Flown",
+      "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
-      },
-      "artists": [
-        {
-          "name": "S+C+A+R+R",
-          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Encores 2",
         "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     },
     {
       "added_at": "2024-07-12 04:00:00",

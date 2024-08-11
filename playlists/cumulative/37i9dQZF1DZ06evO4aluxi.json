@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Politics Of Kissing",
+        "url": "https://open.spotify.com/album/5xiuYBkk1ZnsaTDxRFeafb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253969,
+      "name": "Politics Of Kissing",
+      "url": "https://open.spotify.com/track/2Sc7egQWeIDBSZVxxT54G1"
+    },
+    {
+      "album": {
         "name": "Be Still And Know... Hymns & Faith",
         "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
       },

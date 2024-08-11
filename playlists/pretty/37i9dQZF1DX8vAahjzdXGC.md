@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,026 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,078 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 89 | [Terus Menyala \(feat\. Pay\)](https://open.spotify.com/track/0nE4xIYUzBGcSP81LQPZoW) | [SUHU Band](https://open.spotify.com/artist/3LAS0SrVu2umoO0ITPhkQb), [Pay](https://open.spotify.com/artist/3iwIndMecfEbbkg7tYaUq3) | [Terus Menyala \(feat\. Pay\)](https://open.spotify.com/album/6Pm0gI1c1Hbf08MWLFhv3b) | 4:14 |
 | 90 | [Kenang \- Kenangan](https://open.spotify.com/track/0PoXX7anIlxtgf1xuiwh8X) | [Faishal MF](https://open.spotify.com/artist/1IafDbPDFdxfV9qzH2Sbib), [Syara Fina](https://open.spotify.com/artist/1DTEtZoJflVylhBaNC3An8) | [Kenang \- Kenangan](https://open.spotify.com/album/2P1f5ejz4n2IqbmyO8sri3) | 3:41 |
 | 91 | [Beruntung](https://open.spotify.com/track/5sBZW2Z5wZWXWeHwlB4zyr) | [Dimas Witjak](https://open.spotify.com/artist/3JwEsuy3DAIWwJsM4dxjSA) | [Beruntung](https://open.spotify.com/album/6aVqBVHwNMpyQgp8Y7wfk6) | 3:04 |
-| 92 | [Pata Pata](https://open.spotify.com/track/2ovmxicVnz3wRxLHSDI3Ns) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Angga Dermawan](https://open.spotify.com/artist/2ach3xwUquT7Fjc6CjZKIy) | [Pata Pata](https://open.spotify.com/album/0628Pr9SnFOtHfnXrFuGMn) | 3:30 |
+| 92 | [Pata Pata](https://open.spotify.com/track/2ovmxicVnz3wRxLHSDI3Ns) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [ANGGA DERMAWAN](https://open.spotify.com/artist/2VyXluaQ6KiQdNLecBtLXY) | [Pata Pata](https://open.spotify.com/album/0628Pr9SnFOtHfnXrFuGMn) | 3:30 |
 | 93 | [Kenapa Kembali](https://open.spotify.com/track/47mBOcgbPcABWlskgMbvhn) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi) | [Kenapa Kembali](https://open.spotify.com/album/2hXGoUmZKcnbqSUH5z2GOc) | 3:34 |
 | 94 | [Good Things](https://open.spotify.com/track/3WdL98wBVysTEXAslNW1w1) | [Bagus Bhaskara](https://open.spotify.com/artist/2sSwBNcY8Up3WiJFMZqOoY) | [Good Things](https://open.spotify.com/album/5NAxs7AAdqX2qUR7f1POZs) | 2:50 |
 | 95 | [AGAIN AND AGAIN](https://open.spotify.com/track/5cThyH2eHdIGrGJtnQInKn) | [Coconut Sunday](https://open.spotify.com/artist/3eaueBHZTLZyyZs6vbmmbP), [Tsubasa Mori](https://open.spotify.com/artist/66UoonlNCjF9n9hYfvRfJ1) | [AGAIN AND AGAIN](https://open.spotify.com/album/0GiiJvTm4EilGHXtsdy3TU) | 4:00 |

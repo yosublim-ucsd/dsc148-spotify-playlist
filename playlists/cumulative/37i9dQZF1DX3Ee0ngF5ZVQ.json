@@ -4822,7 +4822,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 203800,
       "name": "How To Love You",
       "url": "https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI"
@@ -11542,6 +11542,24 @@
       "duration_ms": 189949,
       "name": "Whole Lotta Heaven",
       "url": "https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "album": {

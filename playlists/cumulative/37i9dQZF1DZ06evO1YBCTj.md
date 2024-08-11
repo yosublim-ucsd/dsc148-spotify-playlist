@@ -2,9 +2,9 @@
 
 ### [This Is keshi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YBCTj)
 
-> This is keshi\. The essential tracks, all in one playlist.
+> This Is keshi\. Los temas esenciales, todos en una lista.
 
-50 songs - 2 hr 26 min
+51 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 | 2024-01-29 |  |
 | [don't leave](https://open.spotify.com/track/4QNofaokr9HLlDR685RkMS) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/34kgbmk0mmFjw8gzyVbQCL) | 2:08 | 2024-02-03 |  |
 | [don't leave](https://open.spotify.com/track/4TyxaQOzNegSypklOwwDgv) | [Ionika](https://open.spotify.com/artist/1GVuqedQwOPdtbQSIhKt9i), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [don't leave](https://open.spotify.com/album/6eYsINX4Fsct8hbYdJ4KPY) | 2:08 | 2024-01-29 | 2024-02-04 |
+| [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-11 |  |
 | [drunk](https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:47 | 2024-01-29 |  |
 | [GODSPLAN](https://open.spotify.com/track/6aytsGpo91kYvyiT0qZca3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [good days](https://open.spotify.com/album/6xOdE0k7H5TY9x74dhLdti) | 3:21 | 2024-01-29 |  |
 | [goes to waste](https://open.spotify.com/track/3bPoXD94h9nopjEUeqdb97) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [if you're not the one for me who is](https://open.spotify.com/album/3NhJAWT9TfMOxpOhtfzSAM) | 2:16 | 2024-01-29 |  |

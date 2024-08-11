@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,008 likes - 71 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,020 likes - 71 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [カフカからのスペシャル・メッセージ！](https://open.spotify.com/track/0zckDDTsmXN1XIjWdCPM5R) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [『怪獣8号』カフカからのスペシャルメッセージ！](https://open.spotify.com/album/2UVFYbD7YqaqDrnKllUbp6) | 0:52 |
-| 2 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
+| 2 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
 | 3 | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/track/7M7ziwV5ktvBdZi7ftP9KN) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [YUNGBLUDからのスペシャル・メッセージ！](https://open.spotify.com/album/0wQYA7kT0lYB5J2xIkOGco) | 0:18 |
 | 4 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 |
 | 5 | [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/track/5xFTVs5QV8rPDvk0moL4Dm) | [怪獣8号](https://open.spotify.com/artist/1QvSxr0HMAEsQP7yeClNDX) | [Ryan Tedder\(OneRepublic\)からのスペシャル・メッセージ！](https://open.spotify.com/album/5dd1oUPabvbqzPPyqFqbuv) | 0:13 |

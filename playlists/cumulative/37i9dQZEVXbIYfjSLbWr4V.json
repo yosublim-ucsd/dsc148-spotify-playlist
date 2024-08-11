@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 131612,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/46QIU54LJWMnBTJ01Ylhex"
@@ -1423,6 +1423,32 @@
     },
     {
       "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Markul",
+          "url": "https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "MOSCOW",
+      "url": "https://open.spotify.com/track/62hm56LzXG1z2Qfn2Y1qDT"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -1488,7 +1514,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
@@ -1510,6 +1536,32 @@
       "duration_ms": 166812,
       "name": "Never Let Go",
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
+    },
+    {
+      "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "SALUKI",
+          "url": "https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NO SLEEP",
+      "url": "https://open.spotify.com/track/7vaiMoDFgSD5zVJ6Gv6H5x"
     },
     {
       "album": {
@@ -1760,7 +1812,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Sladki Snov Rapper 2",
       "url": "https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ"
@@ -1956,10 +2008,32 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 122553,
       "name": "SOS",
       "url": "https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb"
+    },
+    {
+      "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86"
     },
     {
       "album": {
@@ -2186,6 +2260,24 @@
       "duration_ms": 112423,
       "name": "TryToFriend",
       "url": "https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh"
+    },
+    {
+      "album": {
+        "name": "Turbo (Majestic)",
+        "url": "https://open.spotify.com/album/3ejelxkQ0cOvWyBwUGmfPr"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175610,
+      "name": "Turbo (Majestic)",
+      "url": "https://open.spotify.com/track/1xVDfq8LfjJxneTZKTz570"
     },
     {
       "album": {
@@ -3542,7 +3634,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 132293,
       "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
       "url": "https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp"
@@ -3810,7 +3902,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC"
@@ -4219,6 +4311,32 @@
     },
     {
       "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Liza Evans",
+          "url": "https://open.spotify.com/artist/34uLjhAZJbOcYI3pHkpSvD"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
+      "url": "https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9"
+    },
+    {
+      "album": {
         "name": "\u042d\u0441\u043a\u0430\u043f\u0438\u0441\u0442",
         "url": "https://open.spotify.com/album/0QbaRQInDgZOAjogD0Ku7V"
       },
@@ -4230,7 +4348,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 93257,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy"
@@ -4266,7 +4384,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 73708,
       "name": "\u0441\u0435\u0439\u0434\u0436\u0443\u0440\u043e \u0430\u043a\u0430\u0448\u0438 2)",
       "url": "https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa"
@@ -4697,6 +4815,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0420\u042f\u0421\u0418",
+        "url": "https://open.spotify.com/album/6nAB1Uxp4HVxTaN817jSRR"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        },
+        {
+          "name": "Lida",
+          "url": "https://open.spotify.com/artist/0ChMIwzbYxHbebgoPeETfV"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178526,
+      "name": "\u0422\u0420\u042f\u0421\u0418",
+      "url": "https://open.spotify.com/track/0qlYmL2JRpydiZ2EOO2du6"
+    },
+    {
+      "album": {
         "name": "\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e",
         "url": "https://open.spotify.com/album/0aLp7fRspaJo8fZFzgSr9k"
       },
@@ -5103,6 +5243,36 @@
     },
     {
       "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "ATL",
+          "url": "https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf"
+        },
+        {
+          "name": "\u0410\u0414\u041b\u0418\u041d",
+          "url": "https://open.spotify.com/artist/3vw4wtxW7yv7yJSDqkIuUz"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "\u0427\u0423\u0412\u0421\u0422\u0412\u0410",
+      "url": "https://open.spotify.com/track/0bbltOPNiLomKuJFtRBJ2t"
+    },
+    {
+      "album": {
         "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043a\u0430",
         "url": "https://open.spotify.com/album/3zF5GBYnMldcJq1eTYZYLd"
       },
@@ -5186,7 +5356,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 279250,
       "name": "\u042d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC"

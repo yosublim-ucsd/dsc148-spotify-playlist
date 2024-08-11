@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 10112,
+  "num_followers": 10120,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAA49txJH/6xTa6bUJc94wBx",
+  "snapshot_id": "ZrVcAAAAAABAHVLM4GwSkvCAoD22sq0P",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Do Something",
+      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB"
-      },
-      "artists": [
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Do Something",
-      "url": "https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2"
     },
     {
       "added_at": null,

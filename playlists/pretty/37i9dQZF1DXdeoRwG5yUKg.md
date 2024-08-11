@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,456 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,492 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Afraid of Losing You Again \- Cover](https://open.spotify.com/track/0eHekxtEusjXpOBB0glzdx) | [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t) | [So Afraid Of Losing You Again \(Cover\)](https://open.spotify.com/album/1JNdCq5mTHHn3K3RIlGabD) | 4:12 |
+| 1 | [So Afraid of Losing You Again](https://open.spotify.com/track/0eHekxtEusjXpOBB0glzdx) | [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t) | [So Afraid Of Losing You Again](https://open.spotify.com/album/1JNdCq5mTHHn3K3RIlGabD) | 4:12 |
 | 2 | [Hurricane](https://open.spotify.com/track/5ryxnvRfWi9q8BHlNHLzOv) | [Tom Rhodes](https://open.spotify.com/artist/4lsAzbWcYZblSVl1zhT9bc), [Colin Coppola](https://open.spotify.com/artist/5XR0RFAEuZPD5ldYChGadC) | [Hurricane](https://open.spotify.com/album/7yesF2kWMklf0zDJQRDzGj) | 3:30 |
 | 3 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Adam Wakefield](https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 |
 | 4 | [Jordan](https://open.spotify.com/track/69XVjPC0IHe4N87lVCgjAT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jordan](https://open.spotify.com/album/1ZeucgZuXgsLMM7Bm5wXGO) | 5:01 |

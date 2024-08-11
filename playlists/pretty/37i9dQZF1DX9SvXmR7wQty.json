@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Avec pas d'casque",
-  "num_followers": 41467,
+  "num_followers": 41463,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Par nous-m\u00eames",
+        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Bene",
+      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "C\u0152UR DE ICE",
         "url": "https://open.spotify.com/album/16q1SBIfIoTnp6jxlRugUe"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 204080,
       "name": "C\u0152UR DE ICE",
       "url": "https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Par nous-m\u00eames",
-        "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Bene",
-      "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -627,8 +627,8 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Solide",
-        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 135593,
-      "name": "Solide",
-      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "A la bien mix party - 10 ans apr\u00e8s",
-        "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
-      },
-      "artists": [
-        {
-          "name": "DJ Hamida",
-          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
-        },
-        {
-          "name": "Lossa",
-          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "AH T'ES DANS CA",
-      "url": "https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Ah ahah",
         "url": "https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 159287,
       "name": "Ah ahah",
       "url": "https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "A la bien mix party - 10 ans apr\u00e8s",
+        "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
+      },
+      "artists": [
+        {
+          "name": "DJ Hamida",
+          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
+        },
+        {
+          "name": "Lossa",
+          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "AH T'ES DANS CA",
+      "url": "https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -807,8 +807,8 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+        "name": "Solide",
+        "url": "https://open.spotify.com/album/1HIdu8IIaYSb5awkKL4Md8"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
+      "duration_ms": 135593,
+      "name": "Solide",
+      "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
     },
     {
       "added_at": "2024-08-09 04:00:00",

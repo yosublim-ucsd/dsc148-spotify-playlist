@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Lana Del Rey; Nelly Furtado; Katy Perry
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,070 likes - 100 songs - 5 hr 17 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,103 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

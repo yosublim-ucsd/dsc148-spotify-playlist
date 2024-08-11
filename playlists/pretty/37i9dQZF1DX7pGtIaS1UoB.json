@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 95230,
+  "num_followers": 95252,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
-        "url": "https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F"
-      },
-      "artists": [
-        {
-          "name": "Ozone",
-          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
-      "url": "https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "\u9019\u6a23\u5c31\u5f88\u597d",
         "url": "https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 206896,
       "name": "\u9019\u6a23\u5c31\u5f88\u597d",
       "url": "https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
+        "url": "https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F"
+      },
+      "artists": [
+        {
+          "name": "Ozone",
+          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
+        }
+      ],
+      "duration_ms": 187950,
+      "name": "\u6700\u6700\u9760\u8fd1\u611b\u60c5\u7684\u90a3\u5929",
+      "url": "https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "Take Off - The 1st Mini Album",
         "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 177536,
       "name": "\u597d\u50cf\u90fd\u4e00\u6a23 (\u96fb\u8996\u5287\u300a\u5169\u500b\u4eba\u7684\u5c0f\u68ee\u6797\u300b\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/7nX4mpxrY71HCtzRa3zmrn"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
         "name": "\u8bf4\u7231\u4f60 (\u7537\u751f\u7248)",
         "url": "https://open.spotify.com/album/62tQtda36PFAcFqKiYv4Ts"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 180467,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1xNkoQPvWTY9HfnW4YkYeL"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
-        "name": "\u5de6\u8fb9",
-        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5305",
-          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "\u5de6\u8fb9",
-      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "\u60f3\u8981\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+        "name": "\u54c8\u5c3c",
+        "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
       },
       "artists": [
         {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        },
-        {
-          "name": "MAD",
-          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
         }
       ],
-      "duration_ms": 197233,
-      "name": "\u60f3\u8981\u548c\u4f60",
-      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
+      "duration_ms": 222682,
+      "name": "\u54c8\u5c3c",
+      "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -1091,6 +1087,26 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
+        "name": "\u60f3\u8981\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u60f3\u8981\u548c\u4f60",
+      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
         "name": "\u611b\u60c5\u5132\u84c4\u7f50",
         "url": "https://open.spotify.com/album/78jEnDvmVjL5wUHhczxxj4"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 213125,
       "name": "\u611b\u60c5\u5132\u84c4\u7f50",
       "url": "https://open.spotify.com/track/7aF8wcSnXKyhKsmGPDZ31L"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
-        "name": "\u54c8\u5c3c",
-        "url": "https://open.spotify.com/album/40VT86rXZCTHUPXukA467i"
-      },
-      "artists": [
-        {
-          "name": "U:NUS",
-          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "\u54c8\u5c3c",
-      "url": "https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP"
     },
     {
       "added_at": "2024-08-01 16:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-08-01 16:00:00",
       "album": {
-        "name": "\u975e\u914b",
-        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
-      },
-      "artists": [
-        {
-          "name": "\u859b\u660e\u5a9b",
-          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
-        },
-        {
-          "name": "\u6731\u8d3a",
-          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "\u975e\u914b",
-      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
-    },
-    {
-      "added_at": "2024-08-01 16:00:00",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4eba\u751f\u6307\u5357",
         "url": "https://open.spotify.com/album/1wu8RmvWNBQN4vOQCq44KK"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 227200,
       "name": "\u4ec0\u4e48\u8ddf\u4ec0\u4e48\u6709\u4ec0\u4e48\u5173\u7cfb",
       "url": "https://open.spotify.com/track/2JGEft6dySYE0qGMKbMbf6"
+    },
+    {
+      "added_at": "2024-08-01 16:00:00",
+      "album": {
+        "name": "\u975e\u914b",
+        "url": "https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG"
+      },
+      "artists": [
+        {
+          "name": "\u859b\u660e\u5a9b",
+          "url": "https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv"
+        },
+        {
+          "name": "\u6731\u8d3a",
+          "url": "https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "\u975e\u914b",
+      "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
     },
     {
       "added_at": "2024-08-01 16:00:00",

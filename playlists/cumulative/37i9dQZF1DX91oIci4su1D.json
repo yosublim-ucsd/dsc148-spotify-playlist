@@ -8105,6 +8105,32 @@
     },
     {
       "album": {
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/7oQ0mDVAiT6R3uxQPrKjFO"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        },
+        {
+          "name": "ThoBa",
+          "url": "https://open.spotify.com/artist/41LoZ1ObMYErXiizO5awQd"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187934,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/4bZEQhttzKR5Bpt5KOcC2c"
+    },
+    {
+      "album": {
         "name": "Hold Me Till The End (Ferry Corsten Remix)",
         "url": "https://open.spotify.com/album/4flIldjngX5SkdVCVkPTEA"
       },
@@ -16866,7 +16892,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 164545,
       "name": "Summer Sound",
       "url": "https://open.spotify.com/track/63YYujTmmNYl0QCJqvtw06"
@@ -18444,7 +18470,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 368437,
       "name": "To Light a Fire",
       "url": "https://open.spotify.com/track/4PSajMg5llKKiP96GwU8Rz"
@@ -18684,6 +18710,28 @@
       "duration_ms": 263696,
       "name": "Tribe of the Sun",
       "url": "https://open.spotify.com/track/3Ceb3GYj9R9s1lip096GnG"
+    },
+    {
+      "album": {
+        "name": "Trifecta",
+        "url": "https://open.spotify.com/album/6VybT6guYbU72XS15a4iri"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Arnej",
+          "url": "https://open.spotify.com/artist/2h6LBe1v9fSvc62fYum0CA"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234471,
+      "name": "Trifecta",
+      "url": "https://open.spotify.com/track/1v8ey9429Z5ulObgHhYcqF"
     },
     {
       "album": {

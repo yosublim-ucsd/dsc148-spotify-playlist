@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 62395,
+  "num_followers": 62423,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
-        }
-      ],
-      "duration_ms": 128279,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        }
+      ],
+      "duration_ms": 128279,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
     },
     {
       "added_at": "2024-08-09 14:18:20",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Behemoth",
-        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
       },
       "artists": [
         {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2024-08-09 14:18:20",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+        "name": "Behemoth",
+        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
       },
       "artists": [
         {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
         }
       ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+      "duration_ms": 268800,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
     },
     {
       "added_at": "2024-08-09 14:18:20",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
         "name": "Take You Higher",
         "url": "https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7"
       },
@@ -1115,22 +1135,6 @@
       "duration_ms": 204357,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
-        "name": "Lady Petrol",
-        "url": "https://open.spotify.com/album/24e3IAndixmqYlExyKTldi"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Lady Petrol",
-      "url": "https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa"
     }
   ],
   "unique_name": "Jump Up!",

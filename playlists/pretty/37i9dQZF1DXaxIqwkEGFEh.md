@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,834 likes - 99 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,920 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
-  "num_followers": 75998,
+  "num_followers": 76131,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 247054,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Teatro L\u00facido",
-        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Teatro L\u00facido",
+        "url": "https://open.spotify.com/album/6x8QhgzstEOQZl50dvArzI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/0ZH2Ve6Ns1kzEMWunJoAek"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lauren",
-        "url": "https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX"
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 218210,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO"
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Blood Milk Moon",
-        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+        "name": "Lauren",
+        "url": "https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 177852,
-      "name": "Blood Milk Moon",
-      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+      "duration_ms": 218210,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO"
     },
     {
       "added_at": "2024-07-12 04:00:00",

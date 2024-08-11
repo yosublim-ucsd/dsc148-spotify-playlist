@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Royel Otis
 
-463 songs - 1 day 4 hr 17 min
+464 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Maps \- Single Version](https://open.spotify.com/track/0pqU55UfyCSLyTFHjdYqQP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Maps](https://open.spotify.com/album/78mLW6X19S0jCuT8e6zZg0) | 2:29 | 2021-03-12 | 2022-04-14 |
 | [Maybe Tomorrow](https://open.spotify.com/track/719mBMKamIop3zjxSD0REL) | [BowLand](https://open.spotify.com/artist/6wP8Zgqr5XdEcCPn97OBFl) | [Maybe Tomorrow](https://open.spotify.com/album/1BWuQzuSlLtLRFSZjJANXX) | 2:46 | 2021-07-21 | 2022-04-18 |
 | [Me](https://open.spotify.com/track/3H3E7tsZCFSVRCs0bRcpEk) | [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt) | [Me](https://open.spotify.com/album/30YXmjBcBEPw5NlkmjXKif) | 3:14 | 2021-07-21 | 2022-06-16 |
-| [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2021-04-02 |  |
+| [Misery Is a Butterfly](https://open.spotify.com/track/05EdW6Mba6PNtnutYAnvAA) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Misery Is a Butterfly](https://open.spotify.com/album/1DJALnYQFDZa22GSo5dBTt) | 5:08 | 2021-04-02 | 2024-08-11 |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-03-12 | 2022-06-20 |
 | [Moon River](https://open.spotify.com/track/0aaZ31WkPX8g6cvBdzBLUY) | [Racoon Racoon](https://open.spotify.com/artist/2xon3zKeNiNsmdRs2bNK04) | [Moon River](https://open.spotify.com/album/2KgydVSNmopoqmoQVBMtwK) | 1:59 | 2021-07-21 | 2022-04-21 |
 | [More Than This](https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Music From The Pen Gala 1983](https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg) | 3:31 | 2021-11-19 |  |
@@ -428,6 +428,7 @@
 | [Viva La Vida](https://open.spotify.com/track/7cNNiZYPFtWyojppe2MK8J) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Viva La Vida](https://open.spotify.com/album/24a1xuBGgOqj62qlBR1eZR) | 3:13 | 2021-03-12 | 2022-04-21 |
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2021-03-12 | 2022-08-10 |
 | [Walking on Broken Glass](https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 1](https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8) | 3:35 | 2023-07-20 | 2023-08-19 |
+| [Want U Gone](https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Want U Gone + Look the Other Way](https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj) | 3:13 | 2024-08-02 |  |
 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 | 2021-03-12 |  |
 | [Waterfalls](https://open.spotify.com/track/2Yw2YF0bnoYnqviXWSBEjg) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/6l33cvRau5lAHzmgfAe4Xu) | 4:26 | 2021-03-12 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 | 2021-07-21 |  |

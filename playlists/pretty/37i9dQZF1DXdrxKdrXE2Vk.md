@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:5A0SFJQSdSjFHGcndiGT1s">Planetshakers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,554 likes - 75 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,608 likes - 75 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 36 | [Gratitude \- Live](https://open.spotify.com/track/4462xbcu0evh26vPuOEKaa) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Lauren Lee](https://open.spotify.com/artist/77DFeBv5fvmZXGCfSd7DWI) | [Gratitude \(Live\)](https://open.spotify.com/album/1XYyOfq5HZn39IgNYmv9yP) | 5:39 |
 | 37 | [The Cure](https://open.spotify.com/track/3vc5rTuBaI4y9eejvjqwad) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Turn Signal](https://open.spotify.com/artist/0YVFHMLIV2IvjhKssYyRbp) | [The Cure](https://open.spotify.com/album/113DqtCMkAAcflLKTMk6HN) | 4:31 |
 | 38 | [On The Rise](https://open.spotify.com/track/13t1LQJSZhd2hbKMxRCLMI) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [On The Rise](https://open.spotify.com/album/5RxG9qsktzpP1xGa01l3kG) | 5:02 |
-| 39 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
+| 39 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 40 | [Landslide \- Live](https://open.spotify.com/track/3DQGP0jpzuKv9X6x6yFfnO) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Miracle Maker: Acoustic Sessions \(Live\)](https://open.spotify.com/album/2xF4NGplJOWD6kpn323Tjh) | 4:06 |
 | 41 | [The Lord Almighty Reigns \- Live](https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Sing! Christ Our Hope In Life And Death \(Live At The Getty Music Worship Conference\)](https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG) | 4:03 |
 | 42 | [There is a Day \- Live](https://open.spotify.com/track/3mbMDD8lcr12Z9EFkhQP0c) | [Lou Fellingham](https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ) | [There is a Day \(Live\)](https://open.spotify.com/album/5XaOD1IvXxYb6TekcIifAw) | 6:51 |

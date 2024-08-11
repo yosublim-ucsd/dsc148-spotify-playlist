@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: Central Cee & Lil Baby",
-  "num_followers": 2063975,
+  "num_followers": 2064156,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZl8QAAAAA8PR6FHt6OwrJbRim/hrob",
+  "snapshot_id": "ZrblwAAAAACVXqDWGMam1Y9lQCIK68To",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -71,6 +71,30 @@
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
+    },
+    {
+      "added_at": "2024-08-10 04:00:00",
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -591,6 +615,26 @@
       "duration_ms": 130944,
       "name": "DEVIL IS A LIE",
       "url": "https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09"
+    },
+    {
+      "added_at": "2024-08-10 04:00:00",
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "Housekeeping Knows (feat. Latto)",
+      "url": "https://open.spotify.com/track/1b8Uy52q8fZUBTlRkoXoT5"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1911,22 +1955,6 @@
       "duration_ms": 218813,
       "name": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
       "url": "https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "The Coldest (Deluxe)",
-        "url": "https://open.spotify.com/album/63IIv6WGgRJlQ81ihB5U4W"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        }
-      ],
-      "duration_ms": 200819,
-      "name": "Body Bangin",
-      "url": "https://open.spotify.com/track/7DzPHPEZ3uhjekVl185AB7"
     }
   ],
   "unique_name": "Signed XOXO",

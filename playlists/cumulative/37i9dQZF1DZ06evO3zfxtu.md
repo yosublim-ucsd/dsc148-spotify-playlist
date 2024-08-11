@@ -4,7 +4,7 @@
 
 > This is Eva Shaw\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 10 min
+84 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [SPLASH GOD](https://open.spotify.com/track/2nsdM2dIV9EAlDWN0Ih3bP) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [SPLASH GOD](https://open.spotify.com/album/5jZarzGdeYv5qByBbxPpG6) | 3:01 | 2023-12-13 |  |
 | [STATIC](https://open.spotify.com/track/5VElIgwibFEpnP6iIa0PMF) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Ching](https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q) | [STATIC](https://open.spotify.com/album/0Ce8u3zg0o9WCo2jS4QUvC) | 2:35 | 2023-12-13 |  |
 | [STRIP](https://open.spotify.com/track/4NmQFYQkKQFFUn3v81vtbT) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [STRIP](https://open.spotify.com/album/2Y9kOV2VCBxTuVfMcwEliK) | 2:57 | 2023-12-13 |  |
+| [Swing My Way](https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Swing My Way](https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr) | 3:12 | 2024-08-11 |  |
 | [THE CURE](https://open.spotify.com/track/5ZzXvXkeuw6vUksPfnWePI) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [THE CURE](https://open.spotify.com/album/6qDp02pofjvyNpUY8qnHaC) | 3:23 | 2024-02-06 | 2024-03-16 |
 | [THE CURE](https://open.spotify.com/track/6o4FqKiOKB7c7W0SJbk9ZM) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [HYPE HOP 003](https://open.spotify.com/album/2wyip0m1m7wPMvUimuonDj) | 3:23 | 2023-12-13 |  |
 | [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/track/68OH3MoN4j2HuJsuco6oZ9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Spree Wilson](https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [The Weekend \(feat\. Eva Shaw\)](https://open.spotify.com/album/7K2rpxdi4tp8AL6kOBsjJC) | 2:43 | 2023-12-13 |  |

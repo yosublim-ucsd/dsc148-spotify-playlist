@@ -495,6 +495,26 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
       },
@@ -515,22 +535,18 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+      "duration_ms": 152593,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -555,22 +571,6 @@
       "duration_ms": 230823,
       "name": "Do 2 Me (feat. Anderson .Paak & SiR)",
       "url": "https://open.spotify.com/track/5J75NvHDMTbJtLqym6CXuI"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 152593,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "86Sentra",
-        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 186967,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/7iYoFGzYNNhoSdMBgSo5Bb"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Are You In The Room",
         "url": "https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej"
       },
@@ -1319,6 +1295,30 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "86Sentra",
+        "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/7iYoFGzYNNhoSdMBgSo5Bb"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "VIRGINIA CREEPER",
         "url": "https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf"
       },
@@ -1347,6 +1347,26 @@
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Be With U (feat. DETO BLACK)",
+      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1387,26 +1407,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
-        "name": "Sexy",
-        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Be With U (feat. DETO BLACK)",
-      "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Gonna Bleach My Eyebrows",
-        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "Gonna Bleach My Eyebrows",
-      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 115764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "Gonna Bleach My Eyebrows",
+        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "Gonna Bleach My Eyebrows",
+      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Freaky (RGB)",
-        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 109241,
-      "name": "Freaky (RGB)",
-      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Mr Valentine",
         "url": "https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/7JOLFZAeIkv6MERxfiHqn1"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109241,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/6x74a97yVVRskQeOm787SG"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "Ritual Union",
         "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
       },
@@ -1623,6 +1623,26 @@
       "duration_ms": 289400,
       "name": "Crystalfilm",
       "url": "https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2024-07-18 00:31:46",
@@ -1663,26 +1683,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
-      "added_at": "2024-07-18 00:31:46",
-      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
+    },
+    {
+      "added_at": "2024-07-18 00:31:46",
+      "album": {
         "name": "GREENZONE 108",
         "url": "https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a"
       },
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-07-18 00:31:46",
       "album": {
-        "name": "Monologues",
-        "url": "https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE"
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
       },
       "artists": [
         {
-          "name": "Ogi",
-          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
         }
       ],
-      "duration_ms": 221613,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3"
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
     }
   ],
   "unique_name": "'fit check",

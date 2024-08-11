@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: King Gizzard & the Lizard Wizard
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,198 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,051 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 11 | [Full Of Emptiness](https://open.spotify.com/track/3FXm6xBVfTY6LQHZQGImpo) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Full Of Emptiness](https://open.spotify.com/album/7BtiR6ixeY4NBQzhYu5Sxa) | 2:54 |
 | 12 | [Unpopular](https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unpopular](https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4) | 3:05 |
 | 13 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
-| 14 | [Me & My Friends \(feat\. MOD SUN + Beauty School Dropout\)](https://open.spotify.com/track/4Nn7ye758SVxASDfLMo5f0) | [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Me & My Friends \(feat\. MOD SUN + Beauty School Dropout\)](https://open.spotify.com/album/2gX3TFAUk6rreUCsL5Y0Yt) | 3:03 |
+| 14 | [Me & My Friends](https://open.spotify.com/track/4Nn7ye758SVxASDfLMo5f0) | [Audio Chateau](https://open.spotify.com/artist/4rtX2hxqvqi1IMDmA8dVDD), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Me & My Friends](https://open.spotify.com/album/2gX3TFAUk6rreUCsL5Y0Yt) | 3:03 |
 | 15 | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/track/2VoU7RnUBTp3mxFJBhUIPX) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [HOW 2 GET AWAY WITH MURDER](https://open.spotify.com/album/3BTXpSYeLv97CKmcVId9TI) | 2:58 |
 | 16 | [INSIDE](https://open.spotify.com/track/6CCuNaertE0MJJHRmfjn0T) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [INSIDE](https://open.spotify.com/album/6s4hR4MJMaEzWCke3o1YP8) | 2:34 |
 | 17 | [DEADBEAT!](https://open.spotify.com/track/2Hbnl1LZm0v3hjrQz56g5B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/5ymboKqwWrbNATsmVOXBl0) | 1:27 |

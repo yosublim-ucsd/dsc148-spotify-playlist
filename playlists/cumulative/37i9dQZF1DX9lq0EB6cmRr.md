@@ -4,7 +4,7 @@
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: Jungin Huh\(허정인\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-131 songs - 10 hr 33 min
+132 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Suite in B\-Flat Major, HWV 434: IV\. Minuet \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 4:17 | 2023-09-13 |  |
 | [Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/track/76PT3Wp1xEYDkMFeLj5H8d) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Handel: Suite No\. 2 in F Major, HWV 427: I\. Adagio](https://open.spotify.com/album/4mlFghKBM97vHU1O1ij0XI) | 2:36 | 2023-09-13 | 2024-02-22 |
 | [Suite No\. 7 in B\-Flat Major, HWV 440: III\. Sarabande](https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 2:36 | 2023-09-13 |  |
+| [The Lighthouse Keeper](https://open.spotify.com/track/2OsFwG5aIOH08ZvZ0cDsBl) | [Jongsoo Park](https://open.spotify.com/artist/1iN6TSbrY3X44sLoo7un1R) | [Project Serendipity Op\. 2](https://open.spotify.com/album/0qyTnrAdyT7oYZROKtiZt9) | 4:32 | 2024-08-10 |  |
 | [The Red String](https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8) | [Hyungjoo Lim](https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG) | [Lost In Memory](https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj) | 4:39 | 2023-09-13 |  |
 | [The River](https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [The River](https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35) | 3:29 | 2023-09-13 |  |
 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 | 2023-09-13 |  |

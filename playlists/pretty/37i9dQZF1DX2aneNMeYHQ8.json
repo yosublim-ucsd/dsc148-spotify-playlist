@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: James Bay",
-  "num_followers": 628317,
+  "num_followers": 628319,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,30 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -395,30 +407,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Not Strong Enough",
-      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Death Valley High",
-        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 160882,
-      "name": "Death Valley High",
-      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/3NN3PtcVj4qu9Wm237MgYP"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Death Valley High",
+        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 160882,
+      "name": "Death Valley High",
+      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Narcissist",
         "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 210330,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "DRUGS",
         "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Spit Of You",
         "url": "https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 273026,
       "name": "Spit Of You",
       "url": "https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1283,38 +1299,6 @@
       "duration_ms": 203531,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Midnight Butterflies",
-        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Does Only God Know That We're Lonely?",
-      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1355,6 +1339,22 @@
       "duration_ms": 203303,
       "name": "Gonna Be Me (the friendship song)",
       "url": "https://open.spotify.com/track/4mQWiSFhxoo3hbllceNNTo"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Midnight Butterflies",
+        "url": "https://open.spotify.com/album/2IRQGgPLBObcTHu1PW2hOq"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Does Only God Know That We're Lonely?",
+      "url": "https://open.spotify.com/track/37un1ILHAQAkHqsvGKTUPe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Darkest Places",
-        "url": "https://open.spotify.com/album/7GdaeOLMD4qFZwg1jo8ndz"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 268276,
-      "name": "Darkest Places",
-      "url": "https://open.spotify.com/track/48j6fYjxi74z5BoRUcrUy9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -1507,26 +1491,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Spotlight / Well Alright",
-        "url": "https://open.spotify.com/album/1kgabmPhKLo4DRLIsFTjFs"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "House Parties",
         "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
       },
@@ -1539,6 +1503,22 @@
       "duration_ms": 234200,
       "name": "House Parties",
       "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Darkest Places",
+        "url": "https://open.spotify.com/album/7GdaeOLMD4qFZwg1jo8ndz"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 268276,
+      "name": "Darkest Places",
+      "url": "https://open.spotify.com/track/48j6fYjxi74z5BoRUcrUy9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stevie Nicks",
-        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
+        "name": "Spotlight / Well Alright",
+        "url": "https://open.spotify.com/album/1kgabmPhKLo4DRLIsFTjFs"
       },
       "artists": [
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 167462,
-      "name": "Stevie Nicks",
-      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
+      "duration_ms": 167200,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc"
     },
     {
       "added_at": "2024-08-02 16:56:06",
@@ -1603,6 +1587,22 @@
       "duration_ms": 342199,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3mtEW49yCwrQCpmmpJRSMe"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Stevie Nicks",
+        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 167462,
+      "name": "Stevie Nicks",
+      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dance With a Stranger",
-        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Dance With a Stranger",
-      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Asking For A Ride",
         "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 154098,
       "name": "Pages",
       "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dance With a Stranger",
+        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Dance With a Stranger",
+      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+        "name": "Back to Moon Beach",
+        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+      "duration_ms": 334754,
+      "name": "Another good year for the roses",
+      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Back to Moon Beach",
-        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 334754,
-      "name": "Another good year for the roses",
-      "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Piranhanana",
+        "url": "https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "duration_ms": 165237,
+      "name": "Piranhanana",
+      "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Just A Bird",
         "url": "https://open.spotify.com/album/1Kaq6jOADIHCjwlkeulV2n"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 272399,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/5tovAkdf2TFnrGjIky5AoA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Piranhanana",
-        "url": "https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 165237,
-      "name": "Piranhanana",
-      "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "We Were Never Alive",
-        "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 248463,
-      "name": "We Were Never Alive",
-      "url": "https://open.spotify.com/track/2dwXQaUKEq5CTBbAjW5cYU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Wild Horses",
         "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 231240,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "We Were Never Alive",
+        "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 248463,
+      "name": "We Were Never Alive",
+      "url": "https://open.spotify.com/track/2dwXQaUKEq5CTBbAjW5cYU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Someday, Someday",
         "url": "https://open.spotify.com/album/0cdiL4wlI4XSfYafHvvI0m"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 180046,
       "name": "Someday, Someday",
       "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+        "name": "Mother Road",
+        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
       },
       "artists": [
         {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 202040,
-      "name": "Maestro (Tears Don't Lie)",
-      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
+      "duration_ms": 333280,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Mother Road",
-        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Knockoff Elvis",
         "url": "https://open.spotify.com/album/0BIsuDyAXmFwhDFX0rWGw7"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 174111,
       "name": "Knockoff Elvis",
       "url": "https://open.spotify.com/track/24W9i3Wa8ZpST4CTg292qi"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Maestro (Tears Don't Lie)",
+      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dirt For A Dying Sun",
-        "url": "https://open.spotify.com/album/0SM7YHrCCgMqvXhad2zdWj"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 385372,
-      "name": "Dirt For A Dying Sun",
-      "url": "https://open.spotify.com/track/6bNUJ3YNq5a4R3f7gfgZVp"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Lady Lou",
         "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 277177,
       "name": "Home for the Weekend",
       "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dirt For A Dying Sun",
+        "url": "https://open.spotify.com/album/0SM7YHrCCgMqvXhad2zdWj"
+      },
+      "artists": [
+        {
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
+        }
+      ],
+      "duration_ms": 385372,
+      "name": "Dirt For A Dying Sun",
+      "url": "https://open.spotify.com/track/6bNUJ3YNq5a4R3f7gfgZVp"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Alarm Clock",
+        "url": "https://open.spotify.com/album/7qyehmMxEXQoDVdlcBeJvN"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 174610,
+      "name": "Alarm Clock",
+      "url": "https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Burn It Away",
         "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 244760,
       "name": "Burn It Away",
       "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Alarm Clock",
-        "url": "https://open.spotify.com/album/7qyehmMxEXQoDVdlcBeJvN"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 174610,
-      "name": "Alarm Clock",
-      "url": "https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT"
     },
     {
       "added_at": "2024-07-19 04:00:00",

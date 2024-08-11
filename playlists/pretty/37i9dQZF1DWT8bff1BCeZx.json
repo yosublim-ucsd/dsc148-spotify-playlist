@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 16944,
+  "num_followers": 16957,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+      },
+      "artists": [
+        {
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
+        }
+      ],
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
+    },
+    {
       "added_at": "2024-06-07 00:01:00",
       "album": {
         "name": "Congratulations",
@@ -985,36 +1001,24 @@
       "url": "https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Igwe",
-        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2"
       },
       "artists": [
         {
-          "name": "Midnight Crew",
-          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
-        }
-      ],
-      "duration_ms": 312556,
-      "name": "Igwe",
-      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
-      },
-      "artists": [
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
         {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+          "name": "GospelOnDeBeatz",
+          "url": "https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe"
         }
       ],
-      "duration_ms": 321684,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn"
+      "duration_ms": 180404,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
     }
   ],
   "unique_name": "Higher",

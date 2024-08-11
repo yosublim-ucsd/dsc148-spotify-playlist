@@ -1,6 +1,6 @@
 {
   "description": "Taking it down a notch and keeping the vibes on ice...",
-  "num_followers": 369140,
+  "num_followers": 369139,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-02 11:56:34",
       "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 216720,
+      "name": "push me over",
+      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
+    },
+    {
+      "added_at": "2024-08-02 11:56:34",
+      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 172845,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC"
-    },
-    {
-      "added_at": "2024-08-02 11:56:34",
-      "album": {
-        "name": "Intermission",
-        "url": "https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 216720,
-      "name": "push me over",
-      "url": "https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX"
     },
     {
       "added_at": "2024-08-02 11:56:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-02 11:56:34",
       "album": {
-        "name": "Vitamins",
-        "url": "https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 152290,
-      "name": "Vitamins",
-      "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
-    },
-    {
-      "added_at": "2024-08-02 11:56:34",
-      "album": {
         "name": "Eyes Wide",
         "url": "https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147280,
       "name": "Eyes Wide",
       "url": "https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X"
+    },
+    {
+      "added_at": "2024-08-02 11:56:34",
+      "album": {
+        "name": "Vitamins",
+        "url": "https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 152290,
+      "name": "Vitamins",
+      "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
     },
     {
       "added_at": "2024-08-02 11:56:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-02 11:56:34",
       "album": {
-        "name": "Never Need Me",
-        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Never Need Me",
-      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
-    },
-    {
-      "added_at": "2024-08-02 11:56:34",
-      "album": {
         "name": "Tears (Extended Instrumental)",
         "url": "https://open.spotify.com/album/6WibCp63mLqb2dv0E4yXzJ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 175247,
       "name": "Tears",
       "url": "https://open.spotify.com/track/29w6sbUVHExfkAsQ0ldgEQ"
+    },
+    {
+      "added_at": "2024-08-02 11:56:34",
+      "album": {
+        "name": "Never Need Me",
+        "url": "https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 205431,
+      "name": "Never Need Me",
+      "url": "https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5"
     },
     {
       "added_at": "2024-08-02 11:56:34",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-08-02 11:56:34",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
+    },
+    {
+      "added_at": "2024-08-02 11:56:34",
+      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 182333,
       "name": "June Baby",
       "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
-    },
-    {
-      "added_at": "2024-08-02 11:56:34",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     },
     {
       "added_at": "2024-08-02 11:56:34",

@@ -2723,6 +2723,28 @@
     },
     {
       "album": {
+        "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+        "url": "https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202606,
+      "name": "WORK Pt.4 - ATEEZ X G-Eazy",
+      "url": "https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95"
+    },
+    {
+      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },

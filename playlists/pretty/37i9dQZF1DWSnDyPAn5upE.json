@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 59267,
+  "num_followers": 59305,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Saturna",
-        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
-      },
-      "artists": [
-        {
-          "name": "Nordic Hymn",
-          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Saturna",
-      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Shifting Winds",
         "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 252000,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Saturna",
+        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
+      },
+      "artists": [
+        {
+          "name": "Nordic Hymn",
+          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Saturna",
+      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -815,22 +815,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "emerged, vol. II",
-        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
+        "name": "plastichoir",
+        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
       },
       "artists": [
         {
-          "name": "badfocus",
-          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
-        },
-        {
-          "name": "Albert \u0160tifter",
-          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
+          "name": "Aphir",
+          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
         }
       ],
-      "duration_ms": 143157,
-      "name": "abundance",
-      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+      "duration_ms": 190860,
+      "name": "melting cups",
+      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -851,18 +847,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "plastichoir",
-        "url": "https://open.spotify.com/album/1KlD8Ua27Osp0ChMjb1Zq2"
+        "name": "emerged, vol. II",
+        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
       "artists": [
         {
-          "name": "Aphir",
-          "url": "https://open.spotify.com/artist/5FjAJK7JsaOahbaAwIxtE4"
+          "name": "badfocus",
+          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
+        },
+        {
+          "name": "Albert \u0160tifter",
+          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
         }
       ],
-      "duration_ms": 190860,
-      "name": "melting cups",
-      "url": "https://open.spotify.com/track/4ACEmXrMgFt6PnRdp0mJVj"
+      "duration_ms": 143157,
+      "name": "abundance",
+      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 112980,
       "name": "Indigo Grit (feat. guest)",
       "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "in altar wine",
-        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 334038,
-      "name": "in altar wine",
-      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 114080,
       "name": "Chapitre I",
       "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "in altar wine",
+        "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 334038,
+      "name": "in altar wine",
+      "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "All Things Devour (Botany Remix)",
+        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
+      },
+      "artists": [
+        {
+          "name": "aeseaes",
+          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
+        },
+        {
+          "name": "Botany",
+          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
+        }
+      ],
+      "duration_ms": 326426,
+      "name": "All Things Devour - Botany Remix",
+      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Inori (William Basinski Rework)",
         "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
@@ -1383,6 +1403,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Lumino Pleco",
+        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
+      },
+      "artists": [
+        {
+          "name": "Gi Gi",
+          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
+        },
+        {
+          "name": "Mi Mi",
+          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
+        }
+      ],
+      "duration_ms": 491334,
+      "name": "Montju\u00efc",
+      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1403,22 +1443,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "All Things Devour (Botany Remix)",
-        "url": "https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70"
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
       "artists": [
         {
-          "name": "aeseaes",
-          "url": "https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO"
-        },
-        {
-          "name": "Botany",
-          "url": "https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81"
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
         }
       ],
-      "duration_ms": 326426,
-      "name": "All Things Devour - Botany Remix",
-      "url": "https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX"
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1443,42 +1479,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Lumino Pleco",
-        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
-      },
-      "artists": [
-        {
-          "name": "Gi Gi",
-          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
-        },
-        {
-          "name": "Mi Mi",
-          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
-        }
-      ],
-      "duration_ms": 491334,
-      "name": "Montju\u00efc",
-      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "A Map With No Memory",
         "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Rare Backwards",
         "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
@@ -1523,6 +1507,42 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "For You I Am Missing \u2026",
+      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1559,26 +1579,6 @@
       "duration_ms": 260000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "For You I Am Missing \u2026",
-      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Dalmarnock Tapes",
-        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 314036,
-      "name": "L\u00e4mp\u00f6",
-      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Aquarius/Pisces",
         "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 314036,
+      "name": "L\u00e4mp\u00f6",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Find Sound",
         "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
       },
@@ -1771,42 +1771,6 @@
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Time Is Local",
-        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
-      },
-      "artists": [
-        {
-          "name": "We like We",
-          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
-        },
-        {
-          "name": "Jacob Kirkegaard",
-          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
-        }
-      ],
-      "duration_ms": 176109,
-      "name": "Hymenaios",
-      "url": "https://open.spotify.com/track/6SIZcquI0qu7GNisyDzcqm"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "We Used to Talk for Hours",
-        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
-      },
-      "artists": [
-        {
-          "name": "Camille Mandoki",
-          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
-        }
-      ],
-      "duration_ms": 440000,
-      "name": "By the Shore",
-      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1831,22 +1795,58 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "My Life / Under The Moon Over The Sky",
-        "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
+        "name": "We Used to Talk for Hours",
+        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
       },
       "artists": [
         {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Johanna Klein",
-          "url": "https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF"
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
         }
       ],
-      "duration_ms": 205400,
-      "name": "My Life - Edit",
-      "url": "https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY"
+      "duration_ms": 440000,
+      "name": "By the Shore",
+      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Time Is Local",
+        "url": "https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV"
+      },
+      "artists": [
+        {
+          "name": "We like We",
+          "url": "https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN"
+        },
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "duration_ms": 176109,
+      "name": "Hymenaios",
+      "url": "https://open.spotify.com/track/6SIZcquI0qu7GNisyDzcqm"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Bones Knowing",
+        "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Bones Knowing",
+      "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
     }
   ],
   "unique_name": "ethereal voices",

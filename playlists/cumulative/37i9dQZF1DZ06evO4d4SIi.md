@@ -2,7 +2,7 @@
 
 ### [This Is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
 
-> This is Jordan Davis\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Jordan Davis\. Track\-track unggulan, semuanya dalam satu playlist.
 
 53 songs - 2 hr 46 min
 

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-08",
+      "date_removed": null,
       "duration_ms": 173244,
       "name": "Army Camp Harmony Blues",
       "url": "https://open.spotify.com/track/6LSyNmCX6S2mhLTqi0V8Er"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 198681,
       "name": "Countin' The Blues",
       "url": "https://open.spotify.com/track/2hbxUOhbVyqxIoLxk2AM0c"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 176400,
       "name": "Jealousy Blues",
       "url": "https://open.spotify.com/track/4K7792dZRlrUcmcYu9N0lg"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Screech Owl Blues",
       "url": "https://open.spotify.com/track/1MfLLVctNFOvVTiz0JO86m"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 176933,
       "name": "Seeking Blues",
       "url": "https://open.spotify.com/track/1th7qfd7DUmwMIR10ucMRV"
@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 163944,
       "name": "Stormy Sea Blues",
       "url": "https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 167471,
       "name": "Traveling Blues",
       "url": "https://open.spotify.com/track/4Pcxzk9sLRQ6gAd6RuTV3t"
@@ -3538,6 +3538,24 @@
       "duration_ms": 178733,
       "name": "Ya-Da-Do",
       "url": "https://open.spotify.com/track/1jJrmEhwpnmimRh4EJQpJQ"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey Vol. 1 (1923-1924)",
+        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178747,
+      "name": "Ya-Da-Do (Take 2)",
+      "url": "https://open.spotify.com/track/6Nz75p6ka0JigLkjCe8Wq5"
     },
     {
       "album": {

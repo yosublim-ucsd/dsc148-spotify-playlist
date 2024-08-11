@@ -4,7 +4,7 @@
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-148 songs - 7 hr 24 min
+149 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,12 +144,13 @@
 | [Sujeito \- Ao Vivo](https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:58 | 2023-10-13 |  |
 | [Surra de Cama](https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Surra de Cama](https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf) | 2:58 | 2023-10-13 |  |
 | [Só de Sacanagem \- Ao Vivo](https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 3:03 | 2023-10-13 |  |
-| [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 | 2023-10-13 |  |
+| [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 | 2023-10-13 | 2024-08-11 |
 | [Teste da Mãozinha \- Ao Vivo](https://open.spotify.com/track/0wshnPflQAjMVaCDIraSWk) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [No Pelo Em Campo Grande \(ao Vivo\)](https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie) | 2:52 | 2023-10-13 | 2024-04-17 |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2023-10-13 |  |
 | [Trincadinho \- Ao Vivo](https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:20 | 2023-10-13 |  |
 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 | 2023-10-13 | 2024-04-19 |
 | [Vai Lá](https://open.spotify.com/track/0s2DOPKPVg3VBodWBsXwF0) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws Em Casa 2](https://open.spotify.com/album/7f45wEiSd2W7zCLM07pvkn) | 2:45 | 2023-10-13 | 2024-04-19 |
+| [Você Não é de Bar \- Ao Vivo](https://open.spotify.com/track/5KFEB8X5Xmpmsv5j8rHjML) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Você Não é de Bar \(Ao Vivo\)](https://open.spotify.com/album/21i7sgxzGEdFIIi3KrKVRG) | 2:31 | 2024-07-15 |  |
 | [Volta Marcada](https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM) | [Juan Marcus & Vinícius](https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Volta Marcada](https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a) | 2:47 | 2023-10-13 |  |
 | [Volta Por Baixo \- Ao Vivo](https://open.spotify.com/track/1MparvKC8QIDwu06iO3qVr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:12 | 2023-10-13 | 2024-01-26 |
 | [Volume 3](https://open.spotify.com/track/5gIVPysvKFh2gtwsicafnN) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro) | [Volume 3](https://open.spotify.com/album/3sHtSg5GsOmh3oMALPdVbl) | 2:51 | 2023-10-13 |  |

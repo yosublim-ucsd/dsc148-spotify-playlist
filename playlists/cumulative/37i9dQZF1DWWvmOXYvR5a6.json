@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "beam",
+        "url": "https://open.spotify.com/album/4ehaX1UjNgJkzwN3EmVKvc"
+      },
+      "artists": [
+        {
+          "name": "b!ni",
+          "url": "https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152138,
+      "name": "beam",
+      "url": "https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt"
+    },
+    {
+      "album": {
         "name": "Drawing",
         "url": "https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 172956,
       "name": "Dessert shop (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk"
@@ -12610,7 +12628,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 177226,
       "name": "Swear",
       "url": "https://open.spotify.com/track/3Zr7XljDMsjanXYIIjZMXp"
@@ -13830,7 +13848,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"

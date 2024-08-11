@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Anji
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,977 likes - 104 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,978 likes - 104 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

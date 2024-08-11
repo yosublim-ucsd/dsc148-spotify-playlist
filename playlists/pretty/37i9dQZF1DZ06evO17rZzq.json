@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3705,
+  "num_followers": 3709,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAk3S5Tol71PDEP4o0UQQnC",
+  "snapshot_id": "ZrVcAAAAAABTEILk6wF6qS9g370VuoM6",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/0QZvDwAKRuOXMnjIWfiJUf"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "Can\u2019t Get \u2018Em",
-      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touchin' (feat. Kaliii)",
         "url": "https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 214712,
       "name": "Touchin' (feat. Kaliii)",
       "url": "https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/0QZvDwAKRuOXMnjIWfiJUf"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
     },
     {
       "added_at": null,

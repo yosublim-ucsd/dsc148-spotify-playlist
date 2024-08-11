@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 58065,
+  "num_followers": 58083,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Sun Is Shining (Remixes)",
+        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
+      },
+      "artists": [
+        {
+          "name": "Funkstar De Luxe",
+          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+        }
+      ],
+      "duration_ms": 250303,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "Northern Sulphuric Soul",
         "url": "https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Sun Is Shining (Remixes)",
-        "url": "https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs"
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/4L9qXAXmnMEIvnvG8xon3F"
       },
       "artists": [
         {
-          "name": "Funkstar De Luxe",
-          "url": "https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 250303,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw"
+      "duration_ms": 277040,
+      "name": "The Wilhelm Scream",
+      "url": "https://open.spotify.com/track/2V1SLAJhFAWhKlI3VHdhsz"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -1183,22 +1199,6 @@
       "duration_ms": 256973,
       "name": "High",
       "url": "https://open.spotify.com/track/3D049Sbjbtn5PjKFSlcv2R"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "James Blake",
-        "url": "https://open.spotify.com/album/4L9qXAXmnMEIvnvG8xon3F"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 277040,
-      "name": "The Wilhelm Scream",
-      "url": "https://open.spotify.com/track/2V1SLAJhFAWhKlI3VHdhsz"
     }
   ],
   "unique_name": "Chill Dance Classics",

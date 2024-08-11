@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,385 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,389 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 57 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 58 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 59 | [Świat Oddala Się Ode Mnie](https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Mikromusic z Górnej Półki](https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN) | 5:41 |
-| 60 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
-| 61 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
+| 60 | [Do licha](https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI) | [Żywiołak](https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH) | [Dekonstrukcja historyczna I](https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW) | 6:04 |
+| 61 | [Your Kiss](https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL) | [Tomek Ziętek](https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy) | [Some Old Songs](https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee) | 3:26 |
 | 62 | [Wiersz wigilijny](https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld) | [Hańba!](https://open.spotify.com/artist/61ifulWrE8gurR1dVA7EOk) | [Kryzys](https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS) | 2:39 |
 | 63 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
 | 64 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |

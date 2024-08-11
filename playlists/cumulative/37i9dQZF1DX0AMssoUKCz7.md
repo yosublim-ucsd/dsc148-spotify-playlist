@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-720 songs - 1 day 12 hr 24 min
+721 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Tranquillity](https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Tranquillity](https://open.spotify.com/album/2Lnj7ff21zvRM5PcYHkDTq) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Tripping Off](https://open.spotify.com/track/5JdhojQ6h2Cy2t6uH5jPAa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 2:56 | 2022-02-18 | 2022-04-16 |
 | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 | 2024-05-10 |  |
+| [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-09 |  |
 | [Twilight](https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Twilight](https://open.spotify.com/album/7mtiizlT8Gub2HvVSU0NHZ) | 3:22 | 2022-01-14 | 2022-11-12 |
 | [U Do](https://open.spotify.com/track/3CGlZwGvFo4X0J7lGozEww) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [Sages](https://open.spotify.com/artist/1yw0aRXCpoHMfvRDMuEU5N) | [U Do](https://open.spotify.com/album/5KSCOuUk5JwsTmK9bPmv81) | 2:18 | 2022-04-01 | 2022-07-29 |
 | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/track/3s3tzG4jG1q5CoAvcASuyC) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/album/7r90Qf9J5SQXQHcl9a5zkW) | 2:46 | 2023-06-23 |  |
@@ -667,7 +668,7 @@
 | [Used To You](https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Used To You](https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl) | 2:52 | 2022-11-08 |  |
 | [Vacation](https://open.spotify.com/track/3xdGk4FhvzZEekTKiv07sa) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Lust.](https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi) | [Vacation](https://open.spotify.com/album/3C7voNn9Ismi1jzuPrnUkQ) | 3:24 | 2022-04-01 | 2022-07-29 |
 | [Valerie](https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Valerie](https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD) | 1:58 | 2022-09-23 |  |
-| [Valuable Souls](https://open.spotify.com/track/5wp5Ag7JJndEzE87EgSd5n) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz), [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Valuable Souls](https://open.spotify.com/album/6aUwJmbudpEuWS7DtNbG0f) | 2:48 | 2023-01-13 |  |
+| [Valuable Souls](https://open.spotify.com/track/5wp5Ag7JJndEzE87EgSd5n) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz), [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Valuable Souls](https://open.spotify.com/album/6aUwJmbudpEuWS7DtNbG0f) | 2:48 | 2023-01-13 | 2024-08-11 |
 | [Waffle](https://open.spotify.com/track/38111Yt4vBNntixay0dX1Q) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [MEMPHIS BLOOD](https://open.spotify.com/artist/7yWu9IhyxEOqQBBjvIs9cL) | [Waffle](https://open.spotify.com/album/2B4ga6fXI3G6w3l41l3oA8) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Waffle](https://open.spotify.com/track/623EqPJUJU60iXvAAitywT) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [MEMPHIS BLOOD](https://open.spotify.com/artist/7yWu9IhyxEOqQBBjvIs9cL) | [Altitude](https://open.spotify.com/album/7tDxuAYv9PercqBRK7JvhW) | 3:14 | 2022-07-22 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/1HnFqtNMbrUrkbRUxRD3Sl) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [Waiting](https://open.spotify.com/album/0KL9SoyKme5QJ19m2IgR64) | 2:39 | 2022-08-12 |  |

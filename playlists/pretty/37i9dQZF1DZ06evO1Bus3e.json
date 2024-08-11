@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12044,
+  "num_followers": 12047,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAxGZnZMABvcyfNKhiLvjyU",
+  "snapshot_id": "ZrVcAAAAAAB0nMi+WukCjYqS5QJ9V4Xm",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
+        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
       "artists": [
-        {
-          "name": "Trouble Kidd",
-          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 128347,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
+      "duration_ms": 130470,
+      "name": "Cartel De Reyes",
+      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
-        "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
       },
       "artists": [
+        {
+          "name": "Trouble Kidd",
+          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 130470,
-      "name": "Cartel De Reyes",
-      "url": "https://open.spotify.com/track/42wVd6LrCb0TlMhsqrrVXK"
+      "duration_ms": 128347,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
     },
     {
       "added_at": null,

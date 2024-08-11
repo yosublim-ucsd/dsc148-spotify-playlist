@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-364 songs - 19 hr 56 min
+365 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 | 2024-06-28 |  |
 | [In The Back \- Original Mix](https://open.spotify.com/track/60ujdXHloDnM7Dppefc2b2) | [DJ Fixx](https://open.spotify.com/artist/6x8SfgcTq31PTfe3SJrugo) | [In The Back](https://open.spotify.com/album/1wDlBASiT1YCFaZGyosFoi) | 3:36 | 2021-11-19 | 2022-01-08 |
 | [In The Place](https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [In The Place](https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc) | 3:50 | 2023-12-15 |  |
+| [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 | 2024-08-09 |  |
 | [Incantate](https://open.spotify.com/track/10lq0wRPNv7RVgIqDC89a9) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Incantate](https://open.spotify.com/album/5q5lbHaktTz85S1sS2IOol) | 4:36 | 2023-08-18 | 2023-09-10 |
 | [Joker \(Gawm Remix\)](https://open.spotify.com/track/6MQjOwzFgivGZM7Ke30uhB) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Frequency Pusher](https://open.spotify.com/artist/3VCKNFd2r6bFaSK3DSyqUT), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Tha Dogg Pound](https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT), [Luvaboy Tj](https://open.spotify.com/artist/7gE5hIAnB7EXgQUMhjfb92) | [Joker \(Gawm Remix\)](https://open.spotify.com/album/6rA8lYRLd9b0i4CSlhsoBR) | 3:24 | 2022-03-11 | 2022-09-10 |
 | [Juicy](https://open.spotify.com/track/7924NRevY7KfgupyhT6Xky) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Bangers\[6\].Zip](https://open.spotify.com/album/3djSUWm3m92BDIXUxg3Fii) | 3:08 | 2021-11-19 | 2022-01-08 |
@@ -357,7 +358,7 @@
 | [Wake Up](https://open.spotify.com/track/1DegLHuaZdLmOvhUgsNV9I) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Wake Up](https://open.spotify.com/album/6XksTsraziHCTkhT141Qsw) | 5:16 | 2022-04-22 | 2024-05-25 |
 | [Wall Of Death](https://open.spotify.com/track/0adOv7C57abcznr40leSHx) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [Wall Of Death](https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ) | 2:48 | 2022-04-01 | 2024-05-11 |
 | [Wallflower](https://open.spotify.com/track/1Ty9SkAAPJueeFV1a4u7yq) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Wallflower](https://open.spotify.com/album/6YGmMbF9JV5AS42panc9KX) | 4:04 | 2021-11-19 | 2022-01-08 |
-| [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 | 2023-08-18 |  |
+| [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 | 2023-08-18 | 2024-08-11 |
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-11 | 2022-05-08 |
 | [WARZONE](https://open.spotify.com/track/0xiHy8QCdHaDOiwYfx61u0) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Rated R](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 3:12 | 2023-08-18 | 2023-09-10 |
 | [WATCH UR BACK](https://open.spotify.com/track/5QagFbE9AGkOcXUGu2VORs) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [VRG](https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh), [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:25 | 2023-08-18 | 2023-09-10 |

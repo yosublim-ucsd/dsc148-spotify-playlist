@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "BOMBAE",
+        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/1Ranzvm74JsAjcWMWpXclc"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146184,
+      "name": "BOMBAE",
+      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
+    },
+    {
+      "album": {
         "name": "Bossy",
         "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
       },

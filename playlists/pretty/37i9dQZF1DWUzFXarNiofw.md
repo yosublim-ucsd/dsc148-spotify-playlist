@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,138 likes - 210 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,212 likes - 210 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

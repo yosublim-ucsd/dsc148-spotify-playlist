@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,364 songs - 2 day 19 hr 38 min
+1,365 songs - 2 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [acqueprofonde](https://open.spotify.com/track/4ZuvQTm6dgEiFzFaifPNpr) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [acqueprofonde](https://open.spotify.com/album/6rvtAnNNU9HlEJlmVdun7H) | 2:48 | 2024-02-21 | 2024-03-21 |
 | [Acufene](https://open.spotify.com/track/1C41cV6Ue9g7QJGHbk4js0) | [Lepre](https://open.spotify.com/artist/5Trjt6t3hTEwDuczYiwJEx) | [Eremo](https://open.spotify.com/album/3RZAw2MYi7QYdNf51IMMDf) | 3:32 | 2024-01-24 | 2024-02-22 |
 | [Ad asciugare](https://open.spotify.com/track/4CquLzK6GAIk8Lxm7Ncp9h) | [Tashi](https://open.spotify.com/artist/6BHftRBxdUHhG0ByRT8N0f) | [Ad asciugare](https://open.spotify.com/album/1TA2lLIKMZmxbueSYxUSS1) | 3:23 | 2024-03-20 | 2024-04-24 |
-| [Ad Occhi Aperti](https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj) | [Anita Cane Violins](https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP) | [Ad Occhi Aperti](https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47) | 4:03 | 2024-07-18 |  |
+| [Ad Occhi Aperti](https://open.spotify.com/track/3NMAYytFJOcIbYAhdJr3gj) | [Anita Cane Violins](https://open.spotify.com/artist/4o0yqv6vXY7VZiHXFhCBhP) | [Ad Occhi Aperti](https://open.spotify.com/album/5s0su3k09HeBuNPKuyvU47) | 4:03 | 2024-07-18 | 2024-08-11 |
 | [adesso](https://open.spotify.com/track/2JgIA29erF0M21VHHR4MtH) | [giovanni pedersini](https://open.spotify.com/artist/7st4Lxa5DqYksukGujvxpr) | [adesso / tardi](https://open.spotify.com/album/7bQfAELBzrVzWVCzQrvaBh) | 3:14 | 2024-04-23 | 2024-05-24 |
 | [ADRENALINFA](https://open.spotify.com/track/3ibFxXx3HhpUUdzRyXmPfx) | [MANTIS](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [ADRENALINFA](https://open.spotify.com/album/589tkGaRrkFSgJOakBJbE5) | 3:05 | 2023-01-05 | 2023-01-20 |
 | [Adriatico](https://open.spotify.com/track/60iTrYE4LeA0FWVFXdPvNs) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Adriatico](https://open.spotify.com/album/5marBpgCvBOm8LjeWEwW1k) | 3:46 | 2023-10-03 | 2023-11-01 |
@@ -655,6 +655,7 @@
 | [Lost Sometimes](https://open.spotify.com/track/2ZS2ritQhaEifNce8KcILk) | [WAMI](https://open.spotify.com/artist/2qrqGisLb0cY61ual20l9y), [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Lost Sometimes](https://open.spotify.com/album/3b6MasXCPRdhgarWdlYeXM) | 2:59 | 2022-01-06 | 2022-02-18 |
 | [LOVE IS OVERRATED](https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze) | [Francesca Everly](https://open.spotify.com/artist/1ORfD7Cf5AiwKcIikkTY7n) | [LOVE IS OVERRATED](https://open.spotify.com/album/7tpjW39hgq2b4dah9PgOQx) | 3:33 | 2024-07-18 |  |
 | [Love Will Take You from Behind](https://open.spotify.com/track/2p1Wvj7F5s8I1ypZNkBJyP) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Love Will Take You from Behind](https://open.spotify.com/album/7ta4mTgSJ38tqR21MPHrWg) | 2:45 | 2022-07-07 | 2022-09-02 |
+| [LOVE YOU](https://open.spotify.com/track/1lzsDp83GACPRDsLt5roce) | [Bori](https://open.spotify.com/artist/6tBad4O8C3Id2gde3eWanf) | [LOVE YOU](https://open.spotify.com/album/5kqUFU5j1sHbrasBtAptbR) | 2:19 | 2024-07-18 |  |
 | [LOVING LIE](https://open.spotify.com/track/1WbWRjhADR4R0BWGRhCfyQ) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY), [Sesare](https://open.spotify.com/artist/0bAvO3bveKQk7FYitDPBNl) | [LOVING LIE](https://open.spotify.com/album/5LtGaiWh4wcKQPEA6YkWmg) | 2:34 | 2023-03-16 | 2023-04-19 |
 | [lucciole](https://open.spotify.com/track/02Mbc3Phko6FVqCQCRlglb) | [Bordeaux](https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V) | [PRISMA](https://open.spotify.com/album/2Iq8SZgrLrNAS8YEcbwhXw) | 2:45 | 2023-02-02 | 2023-03-18 |
 | [Luci di città](https://open.spotify.com/track/5Gs57UzbLHUbEm7NV5orhp) | [CARAVELLE](https://open.spotify.com/artist/5f8YHxtakxf9y90jmgpYBo) | [Luci di città](https://open.spotify.com/album/20UxFoxUOTlNXUBcCGjRb4) | 3:11 | 2022-09-11 | 2022-10-28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is G Herbo. The essential tracks, all in one playlist.",
+  "description": "This Is G Herbo. Los temas esenciales, todos en una lista.",
   "name": "This Is G Herbo",
   "tracks": [
     {
@@ -1521,6 +1521,28 @@
     },
     {
       "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182768,
+      "name": "No Recruits (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
+    },
+    {
+      "album": {
         "name": "No Te Veo",
         "url": "https://open.spotify.com/album/0wT5Pk945dl41rZGzS7J04"
       },
@@ -2512,7 +2534,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 218880,
       "name": "TO THE MOON (feat. Fivio Foreign, Russ Millions & Sam Tompkins) - Drill Remix",
       "url": "https://open.spotify.com/track/3rF1pPjaDjWuIUCTXpMGIv"

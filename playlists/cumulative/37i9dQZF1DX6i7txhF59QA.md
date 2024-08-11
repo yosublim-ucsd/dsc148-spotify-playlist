@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Son Tae Jin\(손태진\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-834 songs - 1 day 23 hr 39 min
+835 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [LIPSTICK](https://open.spotify.com/track/1fSQVc8qsBj6mYTkEdfK8s) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [LIPSTICK](https://open.spotify.com/album/1r2yoS5HLPjmz5j1ii5a3r) | 3:21 | 2022-06-18 |  |
 | [Little doll](https://open.spotify.com/track/1TMzOn2g8xUMa0mAHwpmDc) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:45 | 2022-04-22 | 2022-06-13 |
 | [Live Alone](https://open.spotify.com/track/4XfuUHxAQEvfD8rfIurDO0) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [Live Alone](https://open.spotify.com/album/1eI9yJF4EO51GtTBvLrC8B) | 3:05 | 2022-06-18 | 2022-12-29 |
+| [Lively](https://open.spotify.com/track/2O2Src8MnTQ2nrCZuLydaF) | [황민호](https://open.spotify.com/artist/0e1cnFAnwJh2a4bIJwRz1n) | [Hwang minho's Health Report](https://open.spotify.com/album/2FWDCDDDG16QN4Y3zehtmN) | 3:37 | 2024-08-10 |  |
 | [Longing](https://open.spotify.com/track/49NfKk8fYoe5MRritmLD8N) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 3:03 | 2022-04-07 | 2022-06-09 |
 | [Longing](https://open.spotify.com/track/0HqEbbYeJwFtRb1qBcYfjh) | [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Music source of Mr\. Trot Death match Part2](https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY) | 3:07 | 2022-04-22 | 2022-07-27 |
 | [Longing](https://open.spotify.com/track/34qkSMol0bmStDR2tFw0Jq) | [Park Seojin](https://open.spotify.com/artist/3w0VFCrEheuGM57WugJCM4) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:56 | 2022-04-07 | 2022-07-14 |
@@ -524,7 +525,7 @@
 | [REDEVELOPMENT OF LOVE 2](https://open.spotify.com/track/7kYvQZCSjS51Zfx3XeYFcf) | [YOOSANSEUL](https://open.spotify.com/artist/4oeD1QNqmKbREjPFgVfI6y) | [REDEVELOPMENT OF LOVE 2](https://open.spotify.com/album/6fmO991GfLBOjwHFny7goK) | 3:05 | 2022-04-07 | 2022-07-27 |
 | [Regret](https://open.spotify.com/track/1oCBG4fDUmrXKJSFCvTpKK) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:26 | 2022-05-03 | 2024-07-25 |
 | [Return to Pusan por](https://open.spotify.com/track/1uc5Fm6zHXyE8ll9ZXu3fv) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 2:31 | 2022-04-22 | 2022-07-13 |
-| [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 | 2022-04-22 |  |
+| [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 | 2022-04-22 | 2024-08-11 |
 | [Reverse life:Poor man](https://open.spotify.com/track/4fBtWvylDMUu3DTHKtniup) | [Kum Jan Di](https://open.spotify.com/artist/4sxm6i0Tbb3Pt5sF58KIMI) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:15 | 2022-05-03 | 2022-07-06 |
 | [Ring Ring](https://open.spotify.com/track/47SjnA9lQy5kPdAejHr9Cw) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Ring Ring](https://open.spotify.com/album/2ChMOZqyHLYdPcgcXV4e4n) | 3:17 | 2022-04-22 |  |
 | [Ring ring](https://open.spotify.com/track/4hgHEgmDePRdVHx5X43Hi4) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART25](https://open.spotify.com/album/3qAezcPNlqDFfJzBrYh9gt) | 3:17 | 2022-05-03 | 2022-07-23 |

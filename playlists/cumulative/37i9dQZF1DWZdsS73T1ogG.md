@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: iZaak, Nio Garcia & Casper Magico
 
-1,273 songs - 2 day 19 hr 26 min
+1,273 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1175,7 +1175,7 @@
 | [Tu Perreas?](https://open.spotify.com/track/3HB9ttaGSwZ0ilCDpY0ZJJ) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Free Sousa](https://open.spotify.com/album/2OtdBqjS6xw3V7DVi6nsqh) | 2:55 | 2023-03-10 | 2023-06-19 |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-03-03 | 2023-04-29 |
 | [Tu Silueta](https://open.spotify.com/track/4TJOoYtoaH8mK1blB4wLJx) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Tu Silueta](https://open.spotify.com/album/5TIRcRu0NyCHbkPw9soAha) | 3:17 | 2023-01-13 | 2023-03-11 |
-| [TU TA RIKA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:04 | 2024-08-09 |  |
+| [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 | 2024-08-09 |  |
 | [Tu Voz](https://open.spotify.com/track/3xbJOrT68TJFr8qt9jljDc) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Tu Voz](https://open.spotify.com/album/1s13sfeodGFEldVyphkLly) | 3:17 | 2023-12-15 | 2024-03-16 |
 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 | 2023-10-20 | 2024-01-25 |
 | [Tu2Ru \- Reggaeton Version](https://open.spotify.com/track/1vTI9hSr1Mx32Yy4nHhncT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tu2Ru \(with Nio Garcia\)](https://open.spotify.com/album/7INP6va1mqzHgLUwqXPIgi) | 2:56 | 2022-06-10 | 2022-07-30 |

@@ -1597,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164960,
+      "name": "Squeeze (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4rIf3U4gqmK416tLeNun69"
+    },
+    {
+      "album": {
         "name": "Stalli (Freestyle)",
         "url": "https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7"
       },

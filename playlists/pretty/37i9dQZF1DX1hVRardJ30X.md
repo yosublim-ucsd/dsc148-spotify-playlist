@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by J Balvin, Peso Pluma & Titi Double P, Manuel Turizo, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,804 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,880 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 |
 | 2 | [LOS CUADROS](https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LOS CUADROS](https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz) | 2:40 |
-| 3 | [TU TA RIKA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:04 |
+| 3 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 |
 | 4 | [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 |
 | 5 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
 | 6 | [Una Semana](https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Una Semana](https://open.spotify.com/album/4QuVImSzXeKG40qXi9PzuL) | 3:23 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 46 | [tan mona con la mini](https://open.spotify.com/track/76fQPMYYSd8yEIBEe2tysn) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [tan mona con la mini](https://open.spotify.com/album/3w9E7GSIGRywTMpsZur4xD) | 2:57 |
 | 47 | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK) | 2:10 |
 | 48 | [Cazando](https://open.spotify.com/track/7J5vYOw1raeJMkuwsrbtGZ) | [DVNNE](https://open.spotify.com/artist/4zVK97OIp10rv6CdpU47M6), [SOMBRA PR](https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5) | [Cazando](https://open.spotify.com/album/35Ad9qQ8mPGAeykfm5XP5N) | 2:23 |
-| 49 | [Coco Loco](https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs) | [Coco Loco](https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp) | 3:18 |
+| 49 | [Coco Loco](https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Coco Loco](https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp) | 3:18 |
 | 50 | [Pensando en si Regresaras](https://open.spotify.com/track/08rWqv6nB8zQ9m7qgDYbwe) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Jorge Tapia](https://open.spotify.com/artist/64leBQqTcH4QSdO2yegHfd) | [Pensando en si Regresaras](https://open.spotify.com/album/5USyQh5qQI1m8vRk14ysOv) | 2:59 |
 | 51 | [San Mike](https://open.spotify.com/track/5ox6dSwn0tjfcGHNo1LjRW) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [San Mike](https://open.spotify.com/album/2kMmUCIQkcxy4Lufx8RgXn) | 3:04 |
 | 52 | [Tu Patrona \- Remix](https://open.spotify.com/track/5y0yDtyND4IpREM9dPEPMI) | [Dj Matias ACuña Remix](https://open.spotify.com/artist/4a3nb7TzmfmzNK6zwXTRM8) | [Tu Patrona \- Remix](https://open.spotify.com/album/41puWJGsUZuuiJEIDrYAZ0) | 2:36 |

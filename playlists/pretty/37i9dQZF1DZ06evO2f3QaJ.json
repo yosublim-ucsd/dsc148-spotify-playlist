@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAADYxVDkuknzReiQib9y+JZy",
+  "snapshot_id": "ZrVcAAAAAABNRob2XYr3i5Fj7aAvyYCd",
   "tracks": [
     {
       "added_at": null,
@@ -327,30 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zara",
-        "url": "https://open.spotify.com/album/2Qai1BNR4Xn6Hl9NuA66wD"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
       },
       "artists": [
         {
-          "name": "Melvin Santhana",
-          "url": "https://open.spotify.com/artist/5x9bR21HvAYoXdqby0L73G"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Melifona",
-          "url": "https://open.spotify.com/artist/3Qs2ORfABK6Fmm64zdJ1lU"
         }
       ],
-      "duration_ms": 167344,
-      "name": "Zara",
-      "url": "https://open.spotify.com/track/2tcjnmQJAhx3uyObrami7w"
+      "duration_ms": 318985,
+      "name": "SONHOS IMPERIAIS",
+      "url": "https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w"
     },
     {
       "added_at": null,
@@ -375,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH"
+        "name": "TUDO CULPA DO RNB",
+        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
       },
       "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 318985,
-      "name": "SONHOS IMPERIAIS",
-      "url": "https://open.spotify.com/track/3GwjTHW2XibPZ71Zu2lJ9w"
+      "duration_ms": 259170,
+      "name": "TUDO CULPA DO RNB",
+      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
     },
     {
       "added_at": null,
@@ -407,22 +399,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO CULPA DO RNB",
-        "url": "https://open.spotify.com/album/0bgR6sQPc0DVcL7f0f60CX"
+        "name": "Zara",
+        "url": "https://open.spotify.com/album/2Qai1BNR4Xn6Hl9NuA66wD"
       },
       "artists": [
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+          "name": "Melvin Santhana",
+          "url": "https://open.spotify.com/artist/5x9bR21HvAYoXdqby0L73G"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Melifona",
+          "url": "https://open.spotify.com/artist/3Qs2ORfABK6Fmm64zdJ1lU"
         }
       ],
-      "duration_ms": 259170,
-      "name": "TUDO CULPA DO RNB",
-      "url": "https://open.spotify.com/track/2nggP0zfWZb8QQf47LPv2z"
+      "duration_ms": 167344,
+      "name": "Zara",
+      "url": "https://open.spotify.com/track/2tcjnmQJAhx3uyObrami7w"
     },
     {
       "added_at": null,
@@ -771,26 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "POPART",
-        "url": "https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG"
+        "name": "DCAC - de C\u00e9sar a Cristo",
+        "url": "https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl"
       },
       "artists": [
-        {
-          "name": "Florence Lil Flowers",
-          "url": "https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0"
-        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Fp",
-          "url": "https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC"
+          "name": "Luciane Dom",
+          "url": "https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1"
         }
       ],
-      "duration_ms": 193881,
-      "name": "Se A Rua Fosse Minha",
-      "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
+      "duration_ms": 338773,
+      "name": "DCAC - de C\u00e9sar a Cristo",
+      "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
     },
     {
       "added_at": null,
@@ -811,22 +807,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DCAC - de C\u00e9sar a Cristo",
-        "url": "https://open.spotify.com/album/7kIPr973z39ehvIO6ghBMl"
+        "name": "POPART",
+        "url": "https://open.spotify.com/album/15vH1kpTorXLqa03fAQPMG"
       },
       "artists": [
+        {
+          "name": "Florence Lil Flowers",
+          "url": "https://open.spotify.com/artist/2ZaGPYpUTu3nF9s4nivmt0"
+        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         },
         {
-          "name": "Luciane Dom",
-          "url": "https://open.spotify.com/artist/6VixI1Abe7e3mV3ScdQmg1"
+          "name": "Fp",
+          "url": "https://open.spotify.com/artist/3sKBv3XM7BLvDxKeAstmcC"
         }
       ],
-      "duration_ms": 338773,
-      "name": "DCAC - de C\u00e9sar a Cristo",
-      "url": "https://open.spotify.com/track/3NErnj2YfiMqwUJz7uTcjs"
+      "duration_ms": 193881,
+      "name": "Se A Rua Fosse Minha",
+      "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
     },
     {
       "added_at": null,

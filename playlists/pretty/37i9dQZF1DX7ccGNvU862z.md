@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: LIL X
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,208 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,212 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 2 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 |
 | 3 | [So Proud of You](https://open.spotify.com/track/1rmyCxU7a3MxBFs6e0UDFL) | [LIL X](https://open.spotify.com/artist/019QowkYEQYYiV8rhNg4ZT) | [So Proud of You](https://open.spotify.com/album/0lNjorOlg21AoFUNtcIWFW) | 2:46 |
 | 4 | [กลับกับผมได้ไหม?](https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1) | [Bogey](https://open.spotify.com/artist/3jyyG8EihuppZucFGnyKY8), [Chxid!](https://open.spotify.com/artist/0EqiTQKKBV3wUAy7TS09gL), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [กลับกับผมได้ไหม?](https://open.spotify.com/album/3a8DWQaRcWkkgAz3x1WRn6) | 3:08 |
-| 5 | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/track/6PICq9cKhrSxoXkGZbe6JP) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA), [BILLYLOBBY](https://open.spotify.com/artist/6LamLZk3Nx0YhDteGcP4U0) | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/album/3KPfp2noxS3DjY2kPerC2K) | 3:24 |
+| 5 | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/track/6PICq9cKhrSxoXkGZbe6JP) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA), [BILLYLOBBY](https://open.spotify.com/artist/6LamLZk3Nx0YhDteGcP4U0) | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/album/3KPfp2noxS3DjY2kPerC2K) | 2:37 |
 | 6 | [Kiss for luv](https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Jungji](https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Kiss for luv](https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV) | 2:14 |
 | 7 | [Superstar](https://open.spotify.com/track/5t76ZbsYMOgCTX4iTSPHSq) | [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY), [Subnet](https://open.spotify.com/artist/0BXtjAzsXGrxBEJiFkOuFj), [SELBY MG](https://open.spotify.com/artist/6uJSnhhDeqy1XxtaOE246A) | [Superstar](https://open.spotify.com/album/2NpWD0AzrjTUuK6qWFdcWa) | 2:49 |
 | 8 | [Angel](https://open.spotify.com/track/6UV8MMLZJdrSauA6nTDGCQ) | [HK](https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu) | [Angel](https://open.spotify.com/album/1PbwgHvgCZdP5EiSrbTMob) | 2:16 |

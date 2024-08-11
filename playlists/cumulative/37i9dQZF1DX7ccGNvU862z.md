@@ -4,7 +4,7 @@
 
 > Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: LIL X
 
-425 songs - 23 hr 42 min
+425 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Day by day](https://open.spotify.com/track/1sOzu1qTfebk7N0Wu9CT6q) | [HK](https://open.spotify.com/artist/3ox1cmzcE21qMaFHqHKowu) | [Day by day](https://open.spotify.com/album/0hkxsN5M7Yf7kXVTbtMi0m) | 2:51 | 2023-09-22 | 2023-09-30 |
 | [Deja Vu](https://open.spotify.com/track/5QDLCmTGgAfNPkTuqmebSo) | [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [Deja Vu](https://open.spotify.com/album/3E60txDpVo5SJUkPsXtm12) | 3:06 | 2024-03-08 | 2024-03-23 |
 | [Designer](https://open.spotify.com/track/1gvVMxPKjNVnUQ4Oc9uKOU) | [P\-Hot](https://open.spotify.com/artist/7cDMujRxnEJ0wPd5XwP24G), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco), [Roony](https://open.spotify.com/artist/1WnLIbbjld1uhevVBJHsxA) | [Designer](https://open.spotify.com/album/5UnYxWjaNeocHFrKeRXMgA) | 3:57 | 2023-10-27 | 2023-11-03 |
-| [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/track/6PICq9cKhrSxoXkGZbe6JP) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA), [BILLYLOBBY](https://open.spotify.com/artist/6LamLZk3Nx0YhDteGcP4U0) | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/album/3KPfp2noxS3DjY2kPerC2K) | 3:24 | 2024-08-09 |  |
+| [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/track/6PICq9cKhrSxoXkGZbe6JP) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA), [BILLYLOBBY](https://open.spotify.com/artist/6LamLZk3Nx0YhDteGcP4U0) | [DGAF \(Don't give a f\*ck\)](https://open.spotify.com/album/3KPfp2noxS3DjY2kPerC2K) | 2:37 | 2024-08-09 |  |
 | [Different Way](https://open.spotify.com/track/4EDfa23I50eIlGTq0uEVch) | [MCBK](https://open.spotify.com/artist/1VJ4TO68GtsDPIu5sqpqA9), [FAZ $F](https://open.spotify.com/artist/5x71YdgMPsAV7Zz8TQ5S5Q), [swagwazz](https://open.spotify.com/artist/3MDqWlm3wxCJXQyPiYD0xt) | [Different Way](https://open.spotify.com/album/1fb6Vkcuk9RgOIvlVNr0cb) | 4:10 | 2023-10-20 | 2023-11-03 |
 | [DMT](https://open.spotify.com/track/5gU2YN8NXmvo9aDA2mf1Jq) | [N/A](https://open.spotify.com/artist/4oPYazJJ1o4rWBrTw9lm40) | [DMT](https://open.spotify.com/album/5XFCRau47ohcKACbRe7O7X) | 2:31 | 2023-12-01 | 2023-12-09 |
 | [Don't worry](https://open.spotify.com/track/3x003mI7HCXwlSPk1xCjRi) | [YOUNGDE](https://open.spotify.com/artist/5J3HJZHSO2gqBvBRr9oxbY) | [Don't worry](https://open.spotify.com/album/6QfxddwjPGQnEAwsxbiwbo) | 2:45 | 2023-12-08 | 2023-12-16 |

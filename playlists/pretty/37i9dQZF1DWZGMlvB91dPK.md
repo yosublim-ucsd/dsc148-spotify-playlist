@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,763 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,762 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 2 | [Insomnies](https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 3:01 |
 | 3 | [Differences Aside](https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:55 |
 | 4 | [Rejoins moi](https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Rejoins moi](https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm) | 3:47 |
-| 5 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
-| 6 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
-| 7 | [No Coward \- Demo Version](https://open.spotify.com/track/0MkF22OOv45eKXAgjIvN7m) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [No Coward \(Demo Version\)](https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr) | 3:27 |
+| 5 | [No Coward \- Demo Version](https://open.spotify.com/track/0MkF22OOv45eKXAgjIvN7m) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [No Coward \(Demo Version\)](https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr) | 3:27 |
+| 6 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
+| 7 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
 | 8 | [Mille vies](https://open.spotify.com/track/1p83TQi0HLpbUibg9y148P) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 4:05 |
 | 9 | [L'INVERSE](https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [L'INVERSE](https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ) | 2:19 |
 | 10 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
-| 11 | [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 |
-| 12 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 |
-| 13 | [Kind Words \- Demo Version](https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [Kind Words \(Demo Version\)](https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u) | 2:37 |
-| 14 | [Candyman](https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 4:46 |
+| 11 | [Kind Words \- Demo Version](https://open.spotify.com/track/3qatnoAJZkX7G1PUSqoWCH) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [Kind Words \(Demo Version\)](https://open.spotify.com/album/6HXHicGEUwfMh5oJZIAw2u) | 2:37 |
+| 12 | [West](https://open.spotify.com/track/5ywG1CGRBdJiV67i6hjXKX) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:37 |
+| 13 | [Candyman](https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 4:46 |
+| 14 | [Toutes les filles du monde](https://open.spotify.com/track/2Q8mLwujr7bBIv8Tffyf2e) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Toutes les filles du monde](https://open.spotify.com/album/4TammVPdGukFclzoOpaBPz) | 4:17 |
 | 15 | [Angoisse](https://open.spotify.com/track/4maRX67tL8ObXWdnfxv4PZ) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Angoisse](https://open.spotify.com/album/7AvsmObsUkT0MEAP0UQN7K) | 3:42 |
 | 16 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
 | 17 | [Tout le Monde](https://open.spotify.com/track/1xqEInPRO41pPcnbdmYotd) | [Nathalie Froehlich](https://open.spotify.com/artist/1L6ZYC0cyOyqdut8EpHyDq) | [Système](https://open.spotify.com/album/4FZVauD4WZVtQ3TN5Mhb23) | 4:00 |

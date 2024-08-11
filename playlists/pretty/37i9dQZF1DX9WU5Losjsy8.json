@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr!",
-  "num_followers": 422421,
+  "num_followers": 422672,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 172034,
       "name": "Bock auf Bier",
       "url": "https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2024-07-19 07:28:52",
-      "album": {
-        "name": "Partyanimal",
-        "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
-      },
-      "artists": [
-        {
-          "name": "Micha von der Rampe",
-          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
-        }
-      ],
-      "duration_ms": 139159,
-      "name": "Partyanimal",
-      "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Auf zum Ballermann",
-        "url": "https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR"
+        "name": "Partyanimal",
+        "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
       },
       "artists": [
         {
-          "name": "Der Partycrasher",
-          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
         }
       ],
-      "duration_ms": 178250,
-      "name": "Auf zum Ballermann",
-      "url": "https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA"
+      "duration_ms": 139159,
+      "name": "Partyanimal",
+      "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1075,18 +1059,38 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+        "name": "Auf zum Ballermann",
+        "url": "https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
         }
       ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+      "duration_ms": 178250,
+      "name": "Auf zum Ballermann",
+      "url": "https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA"
+    },
+    {
+      "added_at": "2024-07-19 07:28:52",
+      "album": {
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
     },
     {
       "added_at": "2024-07-19 07:28:52",
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2024-07-19 07:28:52",
       "album": {
-        "name": "Freitag, Samstag",
-        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 156356,
-      "name": "Freitag, Samstag",
-      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-07-19 07:28:52",

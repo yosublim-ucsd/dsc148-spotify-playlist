@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-441 songs - 1 day 2 hr 7 min
+444 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-02-14 | 2022-07-29 |
 | [Burning Up](https://open.spotify.com/track/2rzqGu37uhvlItBepRgHpK) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Burning Up](https://open.spotify.com/album/2O7lCJJPHzaX5yUh9ccOvx) | 3:14 | 2024-04-11 | 2024-06-01 |
 | [Burning Up](https://open.spotify.com/track/3i7ENwWlZ5yLWvQqhuTuzu) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Burning Up](https://open.spotify.com/album/1R584CKmkHdy2sBzyeNN5D) | 3:14 | 2024-03-29 | 2024-04-19 |
+| [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 |  |
 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 | 2023-01-10 | 2024-03-09 |
 | [Came Thru](https://open.spotify.com/track/74XVOhXsPxH3h2WfzowVHZ) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Came Thru](https://open.spotify.com/album/13AAQF1ds0legttoSUV573) | 2:37 | 2024-03-22 | 2024-06-22 |
 | [Camera Flash](https://open.spotify.com/track/1rIBE3itNuNeRRhSSm8jWV) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Camera Flash](https://open.spotify.com/album/7bEQUBzTqJDymrO9oVXmSd) | 3:35 | 2022-02-14 | 2022-07-29 |
@@ -140,6 +141,7 @@
 | [Friends](https://open.spotify.com/track/18RdChpgvaAO7GXDjLks2B) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Glorious](https://open.spotify.com/album/4vzUW9Ehl9eFz59bvzazJ0) | 2:58 | 2022-02-14 | 2022-12-28 |
 | [From A Lover](https://open.spotify.com/track/3s0gco9dCNjVm1B0Pr0Gau) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 2:55 | 2023-03-17 | 2024-07-21 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-21 |  |
+| [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 |  |
 | [Geronimo](https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:33 | 2023-03-24 | 2023-06-17 |
 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 | 2023-01-10 | 2024-07-20 |
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-16 | 2024-05-19 |
@@ -240,7 +242,7 @@
 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-11 |  |
 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 | 2022-12-28 | 2023-01-11 |
 | [Let Me Let You Go](https://open.spotify.com/track/5uFKO19VWXkT5FgdrKnKRB) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let Me Let You Go](https://open.spotify.com/album/3HzMam8I1NUVU4yC4aBaCk) | 2:50 | 2022-02-14 | 2022-12-28 |
-| [Let You Go](https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Let You Go](https://open.spotify.com/album/3rUAJkxNvm0olHdthZnDSB) | 2:56 | 2024-06-21 |  |
+| [Let You Go](https://open.spotify.com/track/5VbZRQxhOxUzehxgAWeGWI) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Let You Go](https://open.spotify.com/album/3rUAJkxNvm0olHdthZnDSB) | 2:56 | 2024-06-21 | 2024-08-11 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-12-28 | 2023-01-11 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-16 |  |
 | [Light My Fire \- 1994 Remaster](https://open.spotify.com/track/2RxYGOHMSm6nc9q9xyLtYq) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Something](https://open.spotify.com/album/7moeasHrdO4gtA9gierUQ7) | 3:27 | 2023-01-10 | 2024-05-11 |
@@ -248,7 +250,7 @@
 | [Lights are Dancing](https://open.spotify.com/track/3eAfr9tTURvobS4FGr7zMk) | [Thaïs Ray](https://open.spotify.com/artist/4M9sVEPUQJL6vtZOI6Sfoj) | [Lights are Dancing](https://open.spotify.com/album/1oYXVqEsP6EiwrpfVZAZZA) | 2:51 | 2024-03-22 | 2024-04-21 |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 | 2024-04-27 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2022-02-14 | 2022-12-28 |
-| [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2024-02-23 |  |
+| [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2024-02-23 | 2024-08-11 |
 | [Little Of Your Love](https://open.spotify.com/track/4DyGLsS1c7mQAlMxPFW0sW) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Little Of Your Love](https://open.spotify.com/album/6rMw6hyoSepFV8WYeeiknt) | 3:33 | 2022-02-14 | 2022-07-28 |
 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 | 2024-07-26 |  |
 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 | 2023-11-10 | 2024-02-24 |
@@ -294,6 +296,7 @@
 | [Over When It's Over](https://open.spotify.com/track/5r4qu6EI4ptv8NudzUzycx) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Over When It's Over](https://open.spotify.com/album/7BSAkD0VoUXqfEU38Ta7L0) | 3:35 | 2024-03-29 | 2024-04-19 |
 | [Overglow](https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Overglow](https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE) | 2:38 | 2024-07-19 |  |
 | [Party Woman](https://open.spotify.com/track/56SIJ2f1VKqeJouNvTmsdY) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Party Woman](https://open.spotify.com/album/06AuMeo1eRmRj3nvygfkVw) | 2:58 | 2022-02-14 | 2022-07-29 |
+| [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 | 2024-08-09 |  |
 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 | 2024-06-28 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-21 |  |
 | [Please Love Me Again](https://open.spotify.com/track/3p8tSTa6qYgjpqlSvpvPfx) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Please Love Me Again](https://open.spotify.com/album/5i3E77zTgtpRFY1Pe4Qtl9) | 3:06 | 2022-02-14 | 2022-07-29 |
@@ -429,7 +432,7 @@
 | [What A Devastating Turn of Events](https://open.spotify.com/track/6CxdeM5S42kp7GyMlLs1Ea) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/0FXc0lWPUHEYMYbcdD96IB) | 4:19 | 2024-03-08 | 2024-06-22 |
 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2022-12-28 | 2023-01-11 |
 | [What Am I](https://open.spotify.com/track/2aJPnC4744fGWzV66VBO8h) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/6cd5Vc0UrVFjTARhdBWlm2) | 4:09 | 2022-02-14 | 2022-07-29 |
-| [What Am I](https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r) | 4:09 | 2023-01-10 |  |
+| [What Am I](https://open.spotify.com/track/35Cy7sWZPmCyPL1wsNyOO6) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/7BACBsD9qvKUGXs6Pkyz5r) | 4:09 | 2023-01-10 | 2024-08-11 |
 | [What Cha’ Gonna Do For Me](https://open.spotify.com/track/4hQuVOSxnghGhCRvWuDdDe) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Separate Oceans](https://open.spotify.com/album/1nwnNkJOJLO0GIAxLTG0ZB) | 4:06 | 2022-12-28 | 2023-01-11 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-31 |  |
 | [What I Am](https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [What I Am](https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0) | 3:31 | 2024-03-15 |  |

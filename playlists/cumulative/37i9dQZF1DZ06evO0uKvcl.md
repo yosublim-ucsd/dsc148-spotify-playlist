@@ -2,7 +2,7 @@
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf\. The essential tracks, all in one playlist.
+> This is: Howlin' Wolf\. Alle wichtigen Tracks in einer Playlist.
 
 131 songs - 7 hr 1 min
 
@@ -16,7 +16,7 @@
 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 | 2022-08-07 |  |
 | [Bluebird](https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:48 | 2022-08-05 |  |
 | [Built For Comfort](https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:39 | 2022-08-05 |  |
-| [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 | 2024-05-24 | 2024-08-10 |
+| [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 | 2024-05-24 |  |
 | [Can't Stay Here](https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:34 | 2024-04-20 |  |
 | [Cause of It All](https://open.spotify.com/track/6kmrgoMMBUpTiqlkTcVkX8) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [From New Orleans](https://open.spotify.com/album/7ssfX6zrPwogKVu611m935) | 2:46 | 2022-08-06 | 2023-03-27 |
 | [Cause of It All](https://open.spotify.com/track/55bXtn99JxmrvFQYtbfjAA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Blues Got Soul \- Vol\. 1](https://open.spotify.com/album/42e14AeB2vzmydRXzzGaQD) | 2:46 | 2023-04-01 | 2024-04-20 |
@@ -137,7 +137,7 @@
 | [Worried About My Baby](https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin' Wolf Sessions \(Reissue\)](https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse) | 2:59 | 2023-07-16 |  |
 | [You Can't Be Beat \- Single Version](https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 3:11 | 2022-08-05 |  |
 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 | 2022-08-05 |  |
-| [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 | 2022-08-05 |  |
+| [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 | 2022-08-05 | 2024-08-11 |
 | [You'll Be Mine](https://open.spotify.com/track/6wZ3ovfn503Aj6nLoiSSuC) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:30 | 2023-02-15 | 2024-06-01 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

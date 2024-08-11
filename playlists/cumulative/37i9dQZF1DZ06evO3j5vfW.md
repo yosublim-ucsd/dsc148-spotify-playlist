@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 3 min
+115 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Miracle \(with Ellie Goulding\) \- Nicky Romero Remix](https://open.spotify.com/track/6YMcn4j0bzRvAUKYgRxWax) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Miracle \(with Ellie Goulding\) \[Remixes\]](https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab) | 3:26 | 2023-06-17 | 2024-07-10 |
 | [My Way \- Marcus Santoro Remix](https://open.spotify.com/track/4j5oym5wl44NwTOVT9ERhS) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Alice Berg](https://open.spotify.com/artist/0YdFvpH7MvXv5vBsfGvt7g), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [My Way \(ft\. Alice Berg\) \[Marcus Santoro Remix\]](https://open.spotify.com/album/31XA52KgaFv2wVYHoQ2UMx) | 3:01 | 2021-12-20 | 2023-04-18 |
 | [Myriad](https://open.spotify.com/track/1bsWsraQlfDz6kk2o0SnDm) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Myriad](https://open.spotify.com/album/4I2XNQakcuBrCmvPb9VSDc) | 3:27 | 2022-10-16 | 2023-09-16 |
+| [Never Alone](https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Never Alone](https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi) | 3:06 | 2024-08-11 |  |
 | [Never Forget \- Nicky Romero Edit](https://open.spotify.com/track/0mOUCPwinFXFJrX5Kw2CsA) | [Trilane](https://open.spotify.com/artist/4hEojNVUgNvXDE8Aem4P7h), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Tom Noah](https://open.spotify.com/artist/7zuXCL8sL9HjbjyZaXkY1F) | [Never Forget \(Nicky Romero Edit\)](https://open.spotify.com/album/6eC38BAMZjCGKM9Khbc2v5) | 3:08 | 2021-12-25 | 2021-12-27 |
 | [Nights With You](https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nights With You](https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq) | 2:29 | 2021-12-20 |  |
 | [Okay](https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Okay](https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE) | 2:31 | 2021-12-20 |  |

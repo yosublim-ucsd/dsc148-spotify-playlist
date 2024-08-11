@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=n9niGeSvRG\-eXg1eKDeCmA">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,197 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,325 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 50 | [BAFANA BA PITORI](https://open.spotify.com/track/3MlonvmYYrY2vSRLoowiVi) | [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw), [Sthipla rsa](https://open.spotify.com/artist/6z9Fbdtdx5YBP5osXLZFHI), [Ngobz](https://open.spotify.com/artist/21r9n5Ra4Kz8fiR3HysMUy), [Nosi](https://open.spotify.com/artist/2NFTJCwvVvZV9UC1QKMyP2), [Terminal ZA](https://open.spotify.com/artist/2cf3TRse1pFo4A7vGJ4e42) | [BAFANA BA PITORI](https://open.spotify.com/album/3bU0UTFEFHeAii9EPwrxeL) | 5:17 |
 | 51 | [FOREVER](https://open.spotify.com/track/5uPdyodJfDjBkKVHs5lVkA) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP), [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s) | [NO VISA](https://open.spotify.com/album/0ygy6hxkbX7NdTDI23aBmH) | 3:34 |
 | 52 | [Seeking Shakti](https://open.spotify.com/track/5AOusgh8TV2rCtme25L5q9) | [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml), [Eru Matsumoto](https://open.spotify.com/artist/1kGOsNu6AxmCp0CQzbyVje), [Chandrika Tandon](https://open.spotify.com/artist/1ThL7kmKTqUPeid6c8Dqhb) | [Seeking Shakti](https://open.spotify.com/album/6cT9scZHzl6wvsXnaLVOPx) | 7:21 |
-| 53 | [Stap](https://open.spotify.com/track/0yZ9tBr1NPKLsgcEQBq6GE) | [DJ Kaysmart](https://open.spotify.com/artist/1jH7ZEZrtzA2CFeAoOe43H), [A.M.U.X](https://open.spotify.com/artist/7lTk5pAEAXmHdwyDLykUFN), [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk) | [Stap](https://open.spotify.com/album/5AyvdNz0yg11vKOhlqyLcB) | 7:19 |
+| 53 | [Stap](https://open.spotify.com/track/0yZ9tBr1NPKLsgcEQBq6GE) | [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt), [A.M.U.X](https://open.spotify.com/artist/7lTk5pAEAXmHdwyDLykUFN), [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk) | [Stap](https://open.spotify.com/album/5AyvdNz0yg11vKOhlqyLcB) | 7:19 |
 | 54 | [Hot Spot \(feat\. Flowing Keys & LuE\)](https://open.spotify.com/track/6SJri5PJL0RPH8JwbQyJ3Q) | [The Squad](https://open.spotify.com/artist/6INTtBR3Qo7GPvCfMt2bsG), [Flowing Keys](https://open.spotify.com/artist/467gOEKL669uq2xF3nMOeq), [LuE](https://open.spotify.com/artist/6zgiCnQkJ4Cdbnvzw0Cssr) | [Hot Spot \(feat\. Flowing Keys & LuE\)](https://open.spotify.com/album/2ZcoEJ62BslpDVMZxZGDe8) | 5:55 |
 
 Snapshot ID: `ZrYFswAAAADMKkzqPgZVxcGEdiXbqlqx`

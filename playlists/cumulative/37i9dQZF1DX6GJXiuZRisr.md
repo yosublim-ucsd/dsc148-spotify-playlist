@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-524 songs - 1 day 12 hr 48 min
+525 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Hot Foot](https://open.spotify.com/track/51FhBK3td2Wsvxs8zMCRPT) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [Hot Foot](https://open.spotify.com/album/0rv4rG4m29SJ6ZxzysgsYZ) | 10:30 | 2021-05-07 | 2022-05-29 |
 | [How Long v3](https://open.spotify.com/track/49Uhm2WdbqxhiKsx14sXEQ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [How Long v3](https://open.spotify.com/album/27Ij0i8jm9q69KnKSfvG87) | 5:02 | 2021-12-24 | 2022-07-29 |
 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 | 2021-05-07 | 2023-06-10 |
+| [Hyperreal \(Middle of the Night\)](https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg) | [Hyperreal \(Middle of the Night\)](https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc) | 2:45 | 2024-08-09 |  |
 | [Hypnotised](https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Hypnotised / I Can Feel](https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8) | 5:40 | 2021-08-06 | 2024-04-06 |
 | [I / Y](https://open.spotify.com/track/1L5VP9PWCU5dRzl1bvlFkJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [I / Y](https://open.spotify.com/album/6GVcEJeCqKapHt55s3aju9) | 5:54 | 2021-05-07 | 2022-04-21 |
 | [I / Y](https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [I / Y](https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH) | 5:54 | 2022-07-01 | 2023-06-10 |
@@ -349,7 +350,7 @@
 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 | 2024-07-05 |  |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-11-05 | 2022-07-23 |
 | [Radiation](https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:30 | 2022-10-28 | 2023-07-06 |
-| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 |  |
+| [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 | 2024-08-11 |
 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 | 2024-07-20 |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |
 | [Ray](https://open.spotify.com/track/3rDUDqgWlSYBrI86la2C8f) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/0Vr1hA0OG4hvKjd9ssWCgL) | 6:54 | 2021-05-07 | 2022-07-26 |

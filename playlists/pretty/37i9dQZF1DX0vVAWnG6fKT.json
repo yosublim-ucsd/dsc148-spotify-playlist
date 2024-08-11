@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 145355,
+  "num_followers": 145373,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
-        }
-      ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 168160,
       "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
       "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Old Shep",
-      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 152733,
       "name": "Bouquet of Roses",
       "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Old Shep",
+      "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183893,
       "name": "Mule Train",
       "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "The Essential Bob Wills And His Texas Playboys",
+        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "New San Antonio Rose",
+      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 159800,
       "name": "Born to Lose",
       "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "The Essential Bob Wills And His Texas Playboys",
-        "url": "https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "New San Antonio Rose",
-      "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
         "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 173693,
+      "name": "Cherokee Maiden",
+      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -907,22 +923,6 @@
       "duration_ms": 145738,
       "name": "You May Be Sorry",
       "url": "https://open.spotify.com/track/4nHwLv2K7Ahy9AyqByOTjR"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Cherokee Maiden",
-      "url": "https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Pistol Packin' Mama - The Best of Al Dexter",
-        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
-      },
-      "artists": [
-        {
-          "name": "Al Dexter",
-          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Wine, Women and Song",
-      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
         "name": "The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2",
         "url": "https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176573,
       "name": "Slowpoke",
       "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
+        "name": "Pistol Packin' Mama - The Best of Al Dexter",
+        "url": "https://open.spotify.com/album/11FHXlt7rd8bm1EfIpIzO3"
+      },
+      "artists": [
+        {
+          "name": "Al Dexter",
+          "url": "https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "Wine, Women and Song",
+      "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
     },
     {
       "added_at": "2024-07-05 22:55:37",

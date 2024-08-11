@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: John Legend
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,689 likes - 313 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,788 likes - 313 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/4pIROEObzShhsBdOiLg58K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt) | [L\-O\-V\-E](https://open.spotify.com/album/5d6LDEZxtzD33l9m6HR2zM) | 2:32 |
-| 2 | [You Can Be a Hero \- From "Ryan's World the Movie: Titan Universe Adventure"](https://open.spotify.com/track/5OsxnnVJIikPG9iWAZNAhE) | [Miles Music Kid](https://open.spotify.com/artist/6zbWxUfLhRVLxjQXONZ2AS) | [You Can Be a Hero \(From "Ryan's World the Movie: Titan Universe Adventure"\)](https://open.spotify.com/album/2FNAMsGotVMtYiEbFsGTA3) | 2:52 |
+| 2 | [You Can Be a Hero \- From "Ryan's World the Movie: Titan Universe Adventure"](https://open.spotify.com/track/5OsxnnVJIikPG9iWAZNAhE) | [Miles Music Kid](https://open.spotify.com/artist/6zbWxUfLhRVLxjQXONZ2AS) | [You Can Be a Hero \- From "Ryan's World the Movie: Titan Universe Adventure"](https://open.spotify.com/album/2FNAMsGotVMtYiEbFsGTA3) | 2:52 |
 | 3 | [Rub A Dub Dub](https://open.spotify.com/track/56O7X42b5jutoJnw4nsIxA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Rub A Dub Dub](https://open.spotify.com/album/1TxvfCE2fVle9dQ0plL1Ud) | 1:59 |
 | 4 | [Sticks N Stones](https://open.spotify.com/track/3crz6tvFxibQJzy7zkGLhT) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Sticks N Stones](https://open.spotify.com/album/4gHGGREC4hUVfD4KhICPAH) | 2:15 |
 | 5 | [Trampoline \- Kids Songs](https://open.spotify.com/track/5kergIpw9REOhqwFs4PC7e) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Trampoline \- Kids Songs](https://open.spotify.com/album/6712xWJnGDS7RIR90QhtgV) | 2:06 |

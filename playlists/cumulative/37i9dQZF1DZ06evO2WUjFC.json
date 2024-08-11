@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 258187,
       "name": "Asi Toco Mi Vida - Live",
       "url": "https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "La F****g Ola",
       "url": "https://open.spotify.com/track/0HN4gWiwydXWLsXaRBQ2CW"
@@ -868,6 +868,24 @@
       "duration_ms": 204240,
       "name": "La Leyenda De Los Llanos",
       "url": "https://open.spotify.com/track/5XmceElKDjfqXj2tSJdaCz"
+    },
+    {
+      "album": {
+        "name": "Live, Cumbia Style",
+        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "La Ni\u00f1a Quiere Cerveza (Live)",
+      "url": "https://open.spotify.com/track/3RGHrqczwFxYhdY3gwm62T"
     },
     {
       "album": {
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"

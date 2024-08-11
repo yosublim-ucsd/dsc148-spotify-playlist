@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0G7voQRYXMtaxkj0WAJaIN"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/5fXtsO7bMvw0BJQu1JdTHO"
+    },
+    {
+      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },

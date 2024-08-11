@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,104 likes - 181 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,144 likes - 181 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 |
+| 1 | [LFG \- Theme from "Deadpool & Wolverine"](https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:49 |
 | 2 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 |
 | 3 | [Burden of Wisdom](https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Season 2 \- Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1) | 2:06 |
 | 4 | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \- From "The Marvels"](https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \[From "The Marvels"\]](https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4) | 3:00 |

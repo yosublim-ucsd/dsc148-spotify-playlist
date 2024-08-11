@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,669 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,746 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 57 | [Solfeggio Frequencies 417 Hz](https://open.spotify.com/track/1QXGDHadzECcysKNMZvOrN) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [417 Hz Undoing Situations and Facilitating Change](https://open.spotify.com/album/7kzeMhrQC35t2RwRYyAWW1) | 2:40 |
 | 58 | [Trippertronics 417 Hz](https://open.spotify.com/track/68fd4o1q2y3TSW9gIEx69l) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Trippertronics](https://open.spotify.com/album/0y0xdDlRZQVfWYhfWQnQC4) | 3:03 |
 | 59 | [417 Hz \- Astral Distance](https://open.spotify.com/track/2z1oFkt3nweQTE7hpJjI4S) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Solfeggio Frequencies \- Astral Distance](https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv) | 1:59 |
-| 60 | [Embracing Me \(417 Hz\)](https://open.spotify.com/track/6XUFu4FFdZxnhOcQDozHS4) | [Dream Projector](https://open.spotify.com/artist/4zSxojCGZhoGIPzSnvI1e7) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:30 |
-| 61 | [Healing Hara \(417 Hz\)](https://open.spotify.com/track/5WnOfKlcPuSoZw7jGX6tq0) | [Dream Projector](https://open.spotify.com/artist/4zSxojCGZhoGIPzSnvI1e7) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:05 |
+| 60 | [Embracing Me \(417 Hz\)](https://open.spotify.com/track/6XUFu4FFdZxnhOcQDozHS4) | [Dream Projector](https://open.spotify.com/artist/4eEIA7JoR4AqTUbk0hGzLE) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:30 |
+| 61 | [Healing Hara \(417 Hz\)](https://open.spotify.com/track/5WnOfKlcPuSoZw7jGX6tq0) | [Dream Projector](https://open.spotify.com/artist/4eEIA7JoR4AqTUbk0hGzLE) | [Healing Hara](https://open.spotify.com/album/1cIyBKfW6oVGpB5EwcyNJd) | 3:05 |
 | 62 | [The Sacred \(417 Hz\)](https://open.spotify.com/track/4Ty6BpzqZfAEetSMV6cAn2) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Intentional Impact](https://open.spotify.com/album/6nuc9pLSPyY5gJ0XOU8t6L) | 3:25 |
 | 63 | [Brooks 417 Hz](https://open.spotify.com/track/37HqwgzLuyB3GOzqrYF8H9) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:21 |
 | 64 | [417 Hz Sacral Chakra Solfeggio](https://open.spotify.com/track/1l2MLb1AsvY0Nc5dm7GQFW) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Gentle Breathing](https://open.spotify.com/album/2zpiPiyUUfFfWN6OdXeL2W) | 3:06 |

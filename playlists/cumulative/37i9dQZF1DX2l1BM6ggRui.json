@@ -1887,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "L\u2019heure Bleue : Prologue",
+        "url": "https://open.spotify.com/album/15vGU4bRzm1QzfE65nIAb4"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Pretty mob",
+      "url": "https://open.spotify.com/track/5hyGp7V6Kg5C6oAmCUzXNr"
+    },
+    {
+      "album": {
         "name": "Room Vol.1",
         "url": "https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt"
       },
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -2188,10 +2206,28 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
+    },
+    {
+      "album": {
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
+      },
+      "artists": [
+        {
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
     },
     {
       "album": {

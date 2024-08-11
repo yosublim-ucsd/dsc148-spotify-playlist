@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321747,
+  "num_followers": 321739,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 150987,
       "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
       "url": "https://open.spotify.com/track/0cgODPSGPfVKvJ3ZarsK70"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/6r94uELV3McGZfafMAxpSQ"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
         "name": "Closer (feat. Chenai)",
         "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 234728,
       "name": "Closer (feat. Chenai)",
       "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "All My Ladies",
-        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "All My Ladies",
-      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "The Miracle Makers",
         "url": "https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44"
       },
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3"
+        "name": "All My Ladies",
+        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
       },
       "artists": [
         {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 160815,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
+      "duration_ms": 153840,
+      "name": "All My Ladies",
+      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
+      },
+      "artists": [
+        {
+          "name": "Symmetrik",
+          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 160815,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
         "name": "4 ON DA FLOOR",
         "url": "https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 157377,
       "name": "Viper",
       "url": "https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp"
-      },
-      "artists": [
-        {
-          "name": "Symmetrik",
-          "url": "https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Bbyafricka",
-          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Biggest Regret (feat. Bbyafricka)",
-      "url": "https://open.spotify.com/track/1rwb6ig1BfZSywiL2dboxJ"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/59WhNZGVeVT6FFypPFU2GV"
       },
@@ -1723,6 +1703,42 @@
       "duration_ms": 206250,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3VXkclvJkQQ3UjGpfP8ceZ"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+      },
+      "artists": [
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Biggest Regret (feat. Bbyafricka)",
+      "url": "https://open.spotify.com/track/1rwb6ig1BfZSywiL2dboxJ"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1751,18 +1767,22 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Push That",
-        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/3nnrKNmGfvnZofnAA8wxMq"
       },
       "artists": [
         {
-          "name": "Stoley",
-          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
         }
       ],
-      "duration_ms": 205278,
-      "name": "Push That",
-      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+      "duration_ms": 131433,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/3nnrKNmGfvnZofnAA8wxMq"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        },
-        {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-        }
-      ],
-      "duration_ms": 131433,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "Brothers & Sisters",
         "url": "https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm"
       },
@@ -1823,6 +1823,22 @@
       "duration_ms": 185196,
       "name": "Brothers & Sisters",
       "url": "https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Earth Move Edit",
+        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+      },
+      "artists": [
+        {
+          "name": "Daire",
+          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Earth Move Edit",
+      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Earth Move Edit",
-        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
-      },
-      "artists": [
-        {
-          "name": "Daire",
-          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
-        }
-      ],
-      "duration_ms": 162043,
-      "name": "Earth Move Edit",
-      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "WYWM",
         "url": "https://open.spotify.com/album/7dlDUnpMkjGLZSxGWrZhbz"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Pyrophobia",
-      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "Wait For Me",
         "url": "https://open.spotify.com/album/2oEwrQXxQxrJTsmXRx00d0"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 195000,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/1bHQCaCHzfqOLFQtIuNdXK"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "Pyrophobia",
+      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "added_at": "2024-08-02 10:46:14",

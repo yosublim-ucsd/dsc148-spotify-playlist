@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: L\(엘\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,140 likes - 212 songs - 11 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,178 likes - 212 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,7 +185,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 175 | [I miss you now](https://open.spotify.com/track/5TgCwXtQxDTDh9AVNLDEni) | [HAE YOON](https://open.spotify.com/artist/2hD3aiYb8kpzjuxoLvqckk) | [I miss you now](https://open.spotify.com/album/7Jg8bn3YwRRX1kfg2yzIbO) | 3:29 |
 | 176 | [MASQUERADE](https://open.spotify.com/track/0nQNSjE5Xlnki4tG2j3Gvg) | [CRAXY](https://open.spotify.com/artist/3C13AlJZ4QWHSruAWe9VPI) | [MASQUERADE](https://open.spotify.com/album/0lfyBs8yczzlIUdMnUdY1V) | 3:21 |
 | 177 | [you're my summer](https://open.spotify.com/track/30xUjpkvRwnGIeI6Cbi5QW) | [jungumul](https://open.spotify.com/artist/2UBgP3zLVbeYiHs8b5aLDb) | [you're my summer](https://open.spotify.com/album/78GXkl1yDIhIlyuf4C3lsD) | 4:55 |
-| 178 | [SLASH](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
+| 178 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 |
 | 179 | [Xtra McNasty \(Feat\. Jessi, Awich, MILLI, Ramengvrl, Lil Cherry, MIRANI, Maliibu Miitch, CAMO\)](https://open.spotify.com/track/1uUbO4jTqULg0l0FDdVGmn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Xtra McNasty](https://open.spotify.com/album/0dC0699Ls8Sx9gmTQFRJj3) | 6:07 |
 | 180 | [Beautiful](https://open.spotify.com/track/6e2JgoDoG0ADpGKTcQ0zAB) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Good Partner \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6C21O1blhlQQdHjhq8pBAz) | 3:57 |
 | 181 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |

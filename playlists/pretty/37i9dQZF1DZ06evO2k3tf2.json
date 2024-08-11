@@ -1,12 +1,12 @@
 {
   "description": "This Is Twenty One Pilots. Los temas esenciales, todos en una lista.",
-  "num_followers": 1360433,
+  "num_followers": 1360532,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAK2QU48fHnbrT2JMLkER+u",
+  "snapshot_id": "ZrVcAAAAAAC3yB4cqMVbI583QBP1zj68",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Vignette",
-      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
+      "duration_ms": 180000,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
+      "duration_ms": 202133,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv"
     },
     {
       "added_at": null,

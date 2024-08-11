@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-1,585 songs - 3 day 1 hr 28 min
+1,586 songs - 3 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [AHHH HA \(Freestyle\)](https://open.spotify.com/track/1omrEuCW4MfGwvBi5Z1veW) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [AHHH HA \(Freestyle\)](https://open.spotify.com/album/0SGGq9j35Iz6hJ1KS71pnQ) | 2:28 | 2022-03-18 | 2022-05-14 |
 | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/track/5kOtqz124oPZywUW8y6Y8e) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy), [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Ahwoolay \(feat\. Puffy L'z & Young Smoke\)](https://open.spotify.com/album/0gsfeIGILTNaz9JRH87yhf) | 2:13 | 2022-01-07 | 2022-04-29 |
 | [Ain't I](https://open.spotify.com/track/0YeqrBR13vkgV72XnpOSWH) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Ain't I](https://open.spotify.com/album/6SqIoUs4HR9ESUe4kIj7UV) | 2:15 | 2022-07-01 | 2022-08-06 |
-| [Ain't No Loss](https://open.spotify.com/track/3PmKFCiXhExWmBTzN8B9MV) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Ain't No Loss](https://open.spotify.com/album/2gWqE2rYhLhBxbxjF9j0Dy) | 2:37 | 2024-05-17 |  |
+| [Ain't No Loss](https://open.spotify.com/track/3PmKFCiXhExWmBTzN8B9MV) | [Young Smoke](https://open.spotify.com/artist/3XbEIIeUCZdEDGyTX5pjVD) | [Ain't No Loss](https://open.spotify.com/album/2gWqE2rYhLhBxbxjF9j0Dy) | 2:37 | 2024-05-17 | 2024-08-11 |
 | [Ain't No Way](https://open.spotify.com/track/0TWWOCNwEzWabzIlxi2xpW) | [Fresh Kils](https://open.spotify.com/artist/3rVE3A5otLlHHxxs25rrb2), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Ain't No Way](https://open.spotify.com/album/3UDiA4QKQdpXnW71Tvmprs) | 3:04 | 2022-10-28 | 2022-12-03 |
 | [Ain't Perfect \(feat\. Dom Vallie\)](https://open.spotify.com/track/4pMmWdSfDdneUqebBEe9VN) | [Riicch](https://open.spotify.com/artist/2CD6U9YiRscScZ5lT7vUFQ), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Arachnid](https://open.spotify.com/album/6zuNJEZVTcAnSI6uUO2SPy) | 2:35 | 2024-08-09 |  |
 | [Ain't Reason](https://open.spotify.com/track/2HCKM5YBNx2D6HX4JHTyTx) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Ain't Reason](https://open.spotify.com/album/3s8ytk8umWShDh35KkDTev) | 2:26 | 2022-10-14 | 2023-01-21 |
@@ -708,6 +708,7 @@
 | [Intro](https://open.spotify.com/track/6YOstlxiZr8xcvqj1Z2r4Z) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [Until Further Notice](https://open.spotify.com/album/4rcfeurlypzyZfY8ZQt710) | 2:52 | 2023-08-04 | 2023-09-30 |
 | [Ioneedem](https://open.spotify.com/track/4GqxxbO9yGD2M1cpkC069f) | [Bby Billions](https://open.spotify.com/artist/036VAtZMhWUowbla0OesPK) | [Ioneedem](https://open.spotify.com/album/1jEYd2DCOlR4UvLrgyPte4) | 2:29 | 2022-07-29 | 2022-09-17 |
 | [Irregular](https://open.spotify.com/track/3FiKztjpLv7SgHubUojPK6) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb), [SwiftOnDemand](https://open.spotify.com/artist/7fFwYLNb24Y86tc5SfBLa1) | [Irregular](https://open.spotify.com/album/7Ibj2eSikaNpt03gwsifuZ) | 2:49 | 2023-03-31 | 2023-04-22 |
+| [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 4:38 | 2024-08-10 |  |
 | [It's Your Birthday](https://open.spotify.com/track/5B6dWRWkCM3a81O0ztQGa8) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Michael](https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N) | 2:58 | 2022-01-07 | 2022-02-05 |
 | [ITB](https://open.spotify.com/track/2DfakRCb8Bj968r0RCyFbz) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [ITB](https://open.spotify.com/album/2V3f45ZZcKh7TGMpURNDqZ) | 2:07 | 2023-01-14 | 2023-02-25 |
 | [Itchy Palms](https://open.spotify.com/track/1sLuQUHLO7HmAoyU3Nb4oQ) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Itchy Palms](https://open.spotify.com/album/2cTvDrYFjytz6NirK1mrUc) | 2:59 | 2023-05-26 | 2023-08-05 |

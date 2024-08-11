@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 
 > Countrify your power walk
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,070 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,069 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4p3lupatTubTWpTgCZjgpk.md) - [plain]
 | 3 | [Drivin' All Night Long](https://open.spotify.com/track/2w8SmYGuH3p11jRzFSBKwX) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Road & The Rodeo](https://open.spotify.com/album/0EORyKQyu2LBsTeE5YWWm4) | 4:11 |
 | 4 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [JoDee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:29 |
 | 5 | [Better Than This](https://open.spotify.com/track/6mozEH9SS4JLyRTDORiLUr) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [5th Gear](https://open.spotify.com/album/1c8zJKfHvZ5PhkVaRXQLP0) | 3:10 |
-| 6 | [Hell On An Angel](https://open.spotify.com/track/1fJFIngJHiI3upOXCb1hkJ) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:15 |
+| 6 | [Hell On An Angel](https://open.spotify.com/track/1fJFIngJHiI3upOXCb1hkJ) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \- Deluxe Edition](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:15 |
 | 7 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
 | 8 | [It's Good To Be Us](https://open.spotify.com/track/4KSMTveT6aZoNx4QmHfGH2) | [Bucky Covington](https://open.spotify.com/artist/5sVu3ObJTpiln7yRQkMuje) | [Bucky Covington](https://open.spotify.com/album/2UQ6GiSsunAyt11Ostxuxp) | 3:04 |
 | 9 | [Small Town Southern Man](https://open.spotify.com/track/5ExWY6ojo1Qm3rC7iaEqx2) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 4:40 |

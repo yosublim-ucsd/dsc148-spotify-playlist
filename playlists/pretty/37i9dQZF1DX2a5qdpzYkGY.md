@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,305 likes - 75 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,308 likes - 75 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 14 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
 | 15 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 |
 | 16 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 |
-| 17 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
+| 17 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 18 | [five](https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 3:30 |
-| 19 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
-| 20 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
-| 21 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 19 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
+| 20 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
+| 21 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 22 | [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 |
 | 23 | [be a](https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj) | [Nonkeen](https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b) | [All good?](https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144) | 8:03 |
 | 24 | [Ruins](https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Portico Quartet](https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j) | 5:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 47 | [Management Of Sorrows](https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6) | [Before Flags](https://open.spotify.com/artist/6qZr5jzAGYYWSWVvC4IBBN), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Chrys Jones](https://open.spotify.com/artist/4CHYSMGosrDC0PvydWgTO2), [Dylan Ellicott](https://open.spotify.com/artist/6D27nHBCZzRy7AOydwkonK), [Patrick Spatz](https://open.spotify.com/artist/7pwGeErkrXg5N40Cw8ytid) | [Mountains, Go](https://open.spotify.com/album/3ynwXohmbMQN0bhDPWw5U9) | 8:39 |
 | 48 | [Sky Breaking, Clouds Falling](https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Kissing Rosy in the Rain](https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz) | 4:24 |
 | 49 | [Ker Yegu](https://open.spotify.com/track/2maI2rqhSgHfqNnz4c7Ymn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Ker Yegu](https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt) | 4:34 |
-| 50 | [Lithuania](https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [A Living Room Hush](https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS) | 8:38 |
-| 51 | [Pulse Of Life](https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Modern Chamber Music](https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl) | 1:44 |
+| 50 | [Pulse Of Life](https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Modern Chamber Music](https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl) | 1:44 |
+| 51 | [Lithuania](https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [A Living Room Hush](https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS) | 8:38 |
 | 52 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
 | 53 | [Lightless Room](https://open.spotify.com/track/05X88treE9dTwwHuJNBCcu) | [Lucas Carlson](https://open.spotify.com/artist/7ikS3gYWQFSfJINX8Euim7) | [Lightless Room](https://open.spotify.com/album/2YaO8IxDVrWD572N3mtZsc) | 4:59 |
 | 54 | [Stuck T](https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI) | [Sharko](https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5) | [Sharko III](https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8) | 1:16 |

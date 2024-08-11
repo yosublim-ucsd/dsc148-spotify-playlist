@@ -2,7 +2,7 @@
 
 ### [Tapped In](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
 
-> 🖤 FUER\-ZA\-REGIDA 🚫  No Love Zone  <a href="spotify:genre:0JQ5IMCbQBLA64HWnMNafb">here</a> 🚫 🖤 check out the playlist clips for more ⬆️
+> 🖤 FUER\-ZA\-REGIDA 🚫  No Love Zone  <a href="spotify:episode:6GuAh0TGEPY5NzEMiuOCey">here</a> 🚫 🖤 check out the playlist clips for more ⬆️
 
 430 songs - 1 day 1 hr 19 min
 

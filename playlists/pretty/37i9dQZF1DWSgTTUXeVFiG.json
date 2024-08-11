@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 10495,
+  "num_followers": 10565,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+      "duration_ms": 218773,
+      "name": "Llorar\u00e1s - En Vivo Desde Nueva York/2000",
+      "url": "https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/5SaBVIfXpp1nsaiH9mn7y9"
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
         }
       ],
-      "duration_ms": 218773,
-      "name": "Llorar\u00e1s - En Vivo Desde Nueva York/2000",
-      "url": "https://open.spotify.com/track/2Lg7ffRF4dzhxYSHJ0lS79"
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
         "name": "Eddie Santiago (En Vivo)",
         "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 373400,
       "name": "Lluvia - En Vivo",
       "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -811,34 +811,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 338093,
-      "name": "Mi Bajo y Yo - Live Version",
-      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
-    },
-    {
-      "added_at": "2024-03-19 14:30:29",
-      "album": {
-        "name": "30 A\u00f1os de Power",
-        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Qui\u00e9reme Tal Como Soy - Live",
-      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -899,18 +883,18 @@
     {
       "added_at": "2024-03-19 14:30:29",
       "album": {
-        "name": "Pa Recordar Bailando",
-        "url": "https://open.spotify.com/album/1zxqF4M97k9vACCsbkHNK3"
+        "name": "30 A\u00f1os de Power",
+        "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
       "artists": [
         {
-          "name": "Gran Combo",
-          "url": "https://open.spotify.com/artist/2JJhi6pG6YnyotZIslUMCY"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 346293,
-      "name": "El Men\u00fa en Vivo",
-      "url": "https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV"
+      "duration_ms": 330800,
+      "name": "Qui\u00e9reme Tal Como Soy - Live",
+      "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
     },
     {
       "added_at": "2024-03-19 14:30:29",
@@ -931,6 +915,22 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
+    },
+    {
+      "added_at": "2024-03-19 14:30:29",
+      "album": {
+        "name": "Pa Recordar Bailando",
+        "url": "https://open.spotify.com/album/1zxqF4M97k9vACCsbkHNK3"
+      },
+      "artists": [
+        {
+          "name": "Gran Combo",
+          "url": "https://open.spotify.com/artist/2JJhi6pG6YnyotZIslUMCY"
+        }
+      ],
+      "duration_ms": 346293,
+      "name": "El Men\u00fa en Vivo",
+      "url": "https://open.spotify.com/track/7dF41Y5HHJHruHkr0QxTQV"
     }
   ],
   "unique_name": "Vivo de Salsa",

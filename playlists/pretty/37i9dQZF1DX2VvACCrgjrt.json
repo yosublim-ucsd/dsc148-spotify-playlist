@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Nostalgix",
-  "num_followers": 446742,
+  "num_followers": 446796,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1617,6 +1617,26 @@
       "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Nite Mode",
@@ -1643,26 +1663,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Goons",
         "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 201904,
       "name": "Goons",
       "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Back Around",
-        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 155774,
-      "name": "Back Around",
-      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1717,22 +1701,6 @@
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Does It Seem",
-      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Want My Love",
@@ -1751,6 +1719,38 @@
       "duration_ms": 157404,
       "name": "Want My Love",
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
+    },
+    {
+      "added_at": "2024-07-05 04:00:00",
+      "album": {
+        "name": "Back Around",
+        "url": "https://open.spotify.com/album/3tjJQbcPfSKRx66koPczab"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 155774,
+      "name": "Back Around",
+      "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/51qnbLBwQgEtihtp0xEUkP"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Does It Seem",
+      "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1929,22 +1929,6 @@
       "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Just Like You",
@@ -1959,6 +1943,22 @@
       "duration_ms": 140160,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
+    },
+    {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2185,26 +2185,6 @@
       "url": "https://open.spotify.com/track/5qV78cIfWx3fd8l8LeLbWz"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        },
-        {
-          "name": "CHOCO",
-          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
-        }
-      ],
-      "duration_ms": 168281,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
-    },
-    {
       "added_at": "2024-06-24 15:40:12",
       "album": {
         "name": "Abyss",
@@ -2235,6 +2215,26 @@
       "duration_ms": 209062,
       "name": "Let's Rock",
       "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/5ghrKBTszcAkPeMWrzcl8K"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        },
+        {
+          "name": "CHOCO",
+          "url": "https://open.spotify.com/artist/5ZYidw4RKqIwucn0hQzYz8"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2273,42 +2273,6 @@
       "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Don't Talk To Me",
-        "url": "https://open.spotify.com/album/0dnWVPoq8FCEjAlxNNWBX0"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "Don't Talk To Me",
-      "url": "https://open.spotify.com/track/3rO0TlnVlPQviUMnUkfJ1A"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "It's A Vibe",
@@ -2339,6 +2303,42 @@
       "duration_ms": 195000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
+    },
+    {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "Don't Talk To Me",
+        "url": "https://open.spotify.com/album/0dnWVPoq8FCEjAlxNNWBX0"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "Don't Talk To Me",
+      "url": "https://open.spotify.com/track/3rO0TlnVlPQviUMnUkfJ1A"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2024-04-19 04:00:00",

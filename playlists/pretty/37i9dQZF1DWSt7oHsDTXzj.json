@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 179598,
+  "num_followers": 179590,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Christmas Alone",
+        "url": "https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 215175,
+      "name": "Christmas Alone",
+      "url": "https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN"
+    },
+    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "HARK!",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Boxing Day Blues (Revisited)",
-        "url": "https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff"
+        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 167346,
-      "name": "Boxing Day Blues (Revisited)",
-      "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
+      "duration_ms": 203767,
+      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
+        "name": "Boxing Day Blues (Revisited)",
+        "url": "https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 203767,
-      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Christmas Alone",
-        "url": "https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 215175,
-      "name": "Christmas Alone",
-      "url": "https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN"
+      "duration_ms": 167346,
+      "name": "Boxing Day Blues (Revisited)",
+      "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
     },
     {
       "added_at": "2023-10-16 19:34:42",

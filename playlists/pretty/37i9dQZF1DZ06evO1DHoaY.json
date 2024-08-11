@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2027673,
+  "num_followers": 2027792,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABkXEJz7CtGiTZbC4mqp8Nx",
+  "snapshot_id": "ZrVcAAAAAAAebyyGBjSil07zYUjqHf4X",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaya - Deluxe Edition",
-        "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaya - Deluxe Edition",
+        "url": "https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/5AMy058KlCyQfHK6Mim42N"
     },
     {
       "added_at": null,

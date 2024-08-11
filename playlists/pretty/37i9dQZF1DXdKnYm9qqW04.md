@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,051 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,173 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 74 | [Lean On](https://open.spotify.com/track/4WxU1gDVmoH6gstgR0MT78) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission](https://open.spotify.com/album/50Q4ewXTrb8txE3mOAnUn1) | 2:56 |
 | 75 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/614TxLN6BP9nN8pFcPdLVE) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Sweet Lovin'](https://open.spotify.com/album/0P8rBI7y9SD2peMzfm0BBX) | 3:22 |
 | 76 | [Never Sleep Alone \(feat\. Tess Comrie\)](https://open.spotify.com/track/0GWf2dNp7nL4o5yNQq8325) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Tess Comrie](https://open.spotify.com/artist/43WrxZAJZj24jczyZvk2NL) | [Automatic](https://open.spotify.com/album/02NhNhhyNfv5OdlJw4jUpj) | 3:44 |
-| 77 | [On My Mind \- Jax Jones Remix](https://open.spotify.com/track/4V8zi6WqKPmN8V8nyb3WFk) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [On My Mind \(Remixes\)](https://open.spotify.com/album/4HD8RYumsSMn9LfIrKac23) | 4:13 |
-| 78 | [Intoxicated \- New Radio Mix](https://open.spotify.com/track/5bcfWAHLoMfGBdbeyoMaH3) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated](https://open.spotify.com/album/5PvTsgzdPrTdYtcdIPoIFF) | 2:39 |
+| 77 | [Intoxicated \- New Radio Mix](https://open.spotify.com/track/5bcfWAHLoMfGBdbeyoMaH3) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated](https://open.spotify.com/album/5PvTsgzdPrTdYtcdIPoIFF) | 2:39 |
+| 78 | [On My Mind \- Jax Jones Remix](https://open.spotify.com/track/4V8zi6WqKPmN8V8nyb3WFk) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [On My Mind \(Remixes\)](https://open.spotify.com/album/4HD8RYumsSMn9LfIrKac23) | 4:13 |
 | 79 | [Supergirl \- Radio Edit](https://open.spotify.com/track/6bJ1rkeKujVpRPIwJjq6e0) | [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Supergirl \- EP](https://open.spotify.com/album/54bp0vyUb64trfggJ3Q2PX) | 3:32 |
 | 80 | [RIVA \(Restart the Game\) \- Radio Edit](https://open.spotify.com/track/4oEON2tBuUgDiCxGXkI0zZ) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [RIVA \(Restart the Game\) \[Radio Edit\]](https://open.spotify.com/album/1rFgbHtpuvNq72DcXlddzc) | 3:00 |
 | 81 | [Lush Life \- Alex Adair Remix](https://open.spotify.com/track/5qmj6TGCq1HbqQJHIQK2hm) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [The Remixes](https://open.spotify.com/album/2ufZw43MNlgy6u3cPpdwaO) | 3:34 |

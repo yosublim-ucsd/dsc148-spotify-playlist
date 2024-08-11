@@ -4,7 +4,7 @@
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: 김주리\(juri kim\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-68 songs - 4 hr 34 min
+69 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 | 2023-09-26 |  |
 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 | 2023-09-26 |  |
 | [Song Of Youth](https://open.spotify.com/track/7rJPSgQnrGWhBdipYahwCQ) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 6:09 | 2023-09-26 |  |
-| [Summer night's dream](https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo) | [Noriter](https://open.spotify.com/artist/1Wj2KoYOqYZLMzuDLdiFmp) | [Episode2024](https://open.spotify.com/album/1vjGky4TxckEEs69gg57Bv) | 4:49 | 2024-08-09 |  |
+| [Summer night's dream](https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo) | [Noriter](https://open.spotify.com/artist/1Wj2KoYOqYZLMzuDLdiFmp) | [Episode2024](https://open.spotify.com/album/1vjGky4TxckEEs69gg57Bv) | 4:49 | 2024-08-09 | 2024-08-11 |
 | [The Graceful Gang\-Jin](https://open.spotify.com/track/2ct24PjkvGAEDSwjaXztx7) | [A\-Eun Project](https://open.spotify.com/artist/6reW342UitQpxSgH2yePGj) | [The Graceful Gang\-Jin](https://open.spotify.com/album/00BxwoM5lemuHmOajoRdrW) | 4:00 | 2023-09-26 |  |
 | [The Hill of Wind](https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2) | [ZanHyang](https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM) | [The Hill of Wind](https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG) | 4:39 | 2023-09-26 |  |
 | [THE RED MOOn](https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np) | [EruhWa](https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q) | [THE RED MOOn](https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS) | 3:06 | 2023-09-26 |  |
@@ -71,6 +71,7 @@
 | [산세가](https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8) | [fullmoon project](https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh) | [산세가](https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk) | 3:30 | 2023-09-26 |  |
 | [심청날다](https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK) | [nalda](https://open.spotify.com/artist/3LmhODh3xJbv6B5ZufqQ5x) | [심청날다](https://open.spotify.com/album/15AV3oJn5yB02rW22Io2OG) | 4:09 | 2023-09-26 |  |
 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 | 2023-11-10 |  |
+| [에뜨왈 \(feat\. 야금야금\)](https://open.spotify.com/track/3J1BgqPoJL7Nxf513rpJZx) | [KlanKlang](https://open.spotify.com/artist/4iTCrzL3zKjw4swuHrrDTR), [야금야금](https://open.spotify.com/artist/3ZLnkGh0sftUrIzdaKqdpz) | [에뜨왈](https://open.spotify.com/album/3bFMUbaU5yf73Yr00gmLgl) | 3:45 | 2024-08-10 |  |
 | [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/track/4veY29tsr2j6MKha1HMTet) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [이별가 Ibyeolga \(farewell song\)](https://open.spotify.com/album/5NTx3PD2jwWAVrRULH7FqT) | 4:04 | 2024-03-21 |  |
 | [제비가](https://open.spotify.com/track/5i64k1sSeBMBylC8MxACrv) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men 2nd](https://open.spotify.com/album/1zwG2m1lhSHwByNNVK2wpa) | 3:56 | 2023-09-26 |  |
 | [허송세월말어라](https://open.spotify.com/track/05HnmQWeDrBrvC0q5i297T) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [OBSG](https://open.spotify.com/album/7GzuVsGWXIlFcbY7JaIWg5) | 3:14 | 2023-09-26 |  |

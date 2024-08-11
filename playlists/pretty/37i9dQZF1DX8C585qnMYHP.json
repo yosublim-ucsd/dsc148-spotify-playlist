@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 168783,
+  "num_followers": 168851,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Constellation",
@@ -405,20 +389,44 @@
       "url": "https://open.spotify.com/track/2DE5YgIfXiyusl1Pz6TAQd"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
       "artists": [
         {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
         }
       ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "I\u2019ll Do Whatever You Want",
+        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        }
+      ],
+      "duration_ms": 463080,
+      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
+      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -445,28 +453,20 @@
       "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "I\u2019ll Do Whatever You Want",
-        "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
         }
       ],
-      "duration_ms": 463080,
-      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
-      "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-05-01 17:01:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
         "name": "Oxido En El Espejo",
         "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "The Big Man Upstairs",
-        "url": "https://open.spotify.com/album/1EYvutIwZCqk42XM9dCDt7"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 284747,
-      "name": "The Big Man Upstairs",
-      "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Inaudible",
@@ -699,6 +683,22 @@
       "duration_ms": 314142,
       "name": "Inaudible",
       "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "The Big Man Upstairs",
+        "url": "https://open.spotify.com/album/1EYvutIwZCqk42XM9dCDt7"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 284747,
+      "name": "The Big Man Upstairs",
+      "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
     },
     {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "Figura",
-        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
-      },
-      "artists": [
-        {
-          "name": "CLARAGUILAR",
-          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
-        }
-      ],
-      "duration_ms": 339125,
-      "name": "Ros Elavy",
-      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Brujas",
@@ -783,6 +767,22 @@
       "duration_ms": 209352,
       "name": "Brujas",
       "url": "https://open.spotify.com/track/0JapvpbFcgy3NzB8zeVAw9"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "Figura",
+        "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
+      },
+      "artists": [
+        {
+          "name": "CLARAGUILAR",
+          "url": "https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R"
+        }
+      ],
+      "duration_ms": 339125,
+      "name": "Ros Elavy",
+      "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Al\u00e9m do tempo",
-        "url": "https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj"
-      },
-      "artists": [
-        {
-          "name": "s\u00fas",
-          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "Al\u00e9m do tempo",
-      "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -835,6 +819,22 @@
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Al\u00e9m do tempo",
+        "url": "https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj"
+      },
+      "artists": [
+        {
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Al\u00e9m do tempo",
+      "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 215717,
+      "name": "Pillow, Mantra and Trance",
+      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Summertime",
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-04-17 04:00:00",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
         }
       ],
-      "duration_ms": 215717,
-      "name": "Pillow, Mantra and Trance",
-      "url": "https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8"
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -967,22 +983,6 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
-      },
-      "artists": [
-        {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
-        }
-      ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
-      },
-      "artists": [
-        {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
-        }
-      ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "Psychedelic Anxiety",
@@ -1229,20 +1213,36 @@
       "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
       },
       "artists": [
         {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
         }
       ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Oase",
+      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
       },
       "artists": [
         {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Oase",
-      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-06-19 06:00:00",

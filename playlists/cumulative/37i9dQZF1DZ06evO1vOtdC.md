@@ -2,9 +2,9 @@
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This is Jennifer Lopez\. The essential tracks, all in one playlist.
+> This is Jennifer Lopez\. Todos os maiores hits em uma só playlist.
 
-78 songs - 4 hr 44 min
+79 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [I'm Gonna Be Alright \(feat\. Nas\)](https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cory Rooney](https://open.spotify.com/artist/6v0jNVxRKCvjwXIU2SuqKo), [Poke and Tone](https://open.spotify.com/artist/7M8EwIpyu0mZ9oA8sqcsWj) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 2:52 | 2023-07-28 |  |
 | [I'm Into You](https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 3:20 | 2023-07-28 |  |
 | [I'm Real \(feat\. Ja Rule\) \- Murder Remix](https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 4:22 | 2023-07-28 |  |
-| [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 | 2023-07-28 |  |
+| [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 | 2023-07-28 | 2024-08-11 |
+| [If You Had My Love \- 2024 Rework](https://open.spotify.com/track/0QpJtzNtp8sOvad44wSbwO) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [If You Had My Love \(2024 Rework\)](https://open.spotify.com/album/1Fv17pioypgcQ7bJuMNqta) | 2:39 | 2024-08-11 |  |
 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 3:07 | 2023-07-28 |  |
 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2023-07-28 |  |
 | [Live It Up](https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Live It Up](https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR) | 4:03 | 2023-07-28 |  |
@@ -72,7 +73,7 @@
 | [Qué Hiciste](https://open.spotify.com/track/6jGH911Nz9lPCSK9pd4tVQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:57 | 2023-07-28 | 2024-07-10 |
 | [Rebound \(feat\. Anuel AA\)](https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:19 | 2024-02-17 | 2024-07-03 |
 | [Se Acabó el Amor \- Urban Version](https://open.spotify.com/track/37ZbdPsSjAZjPTVKPi8Dii) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Se Acabó el Amor \(Urban Version\)](https://open.spotify.com/album/2mWZ8F5SXi9w8VRVkc0BZJ) | 3:50 | 2023-12-24 | 2024-01-14 |
-| [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 | 2023-07-28 | 2024-08-07 |
+| [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 | 2023-07-28 |  |
 | [Theme From Mahagony \(Do You Know Where You're Going To\)](https://open.spotify.com/track/7bNnrac7k9CkwQRQsfGb7x) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:34 | 2023-07-28 | 2023-11-11 |
 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 | 2024-02-05 | 2024-05-24 |
 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 | 2024-03-04 | 2024-04-23 |

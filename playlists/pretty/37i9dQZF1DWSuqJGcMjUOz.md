@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,332 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,335 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 68 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
 | 69 | [Onze](https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [La nuit s'achève](https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS) | 3:10 |
 | 70 | [Je vais te faire danser](https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:11 |
-| 71 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
-| 72 | [Comme Avant](https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w) | 2:26 |
+| 71 | [Comme Avant](https://open.spotify.com/track/2kGflndOtz5UCBflZIT4eQ) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w) | 2:26 |
+| 72 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
 | 73 | [Y peut mouiller](https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Suite pour personne](https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV) | 4:36 |
 | 74 | [Écoute](https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Et on pleurera ensemble](https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM) | 2:31 |
 | 75 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 81 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 82 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
 | 83 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
-| 84 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
-| 85 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
+| 84 | [Erreur](https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Erreur](https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7) | 3:19 |
+| 85 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
 | 86 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 |
 | 87 | [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 |
 | 88 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 90 | [Quelqu'un quand\-même](https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi) | [Heskis](https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U) | [Holla](https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo) | 2:48 |
 | 91 | [Trait d'union](https://open.spotify.com/track/4D5JucdHfnZmiPPKrX0aj1) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 4:05 |
 | 92 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 |
-| 93 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
-| 94 | [Don't Lose The Funk](https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg) | [Arielle Roberge](https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe) | [Don't Lose The Funk](https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw) | 4:07 |
-| 95 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 |
+| 93 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 |
+| 94 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
+| 95 | [Don't Lose The Funk](https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg) | [Arielle Roberge](https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe) | [Don't Lose The Funk](https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw) | 4:07 |
 | 96 | [AlgeVita](https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [AlgeVita](https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt) | 2:34 |
 | 97 | [J'AI FAILLI](https://open.spotify.com/track/3uk9jCGQmtVlkZoLTkuA0A) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [OÙ EST PASSÉ ZEUDOG ?](https://open.spotify.com/album/461A8bwUFWhREU9mvKL6tB) | 3:16 |
 | 98 | [Nitepuatauat](https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2) | [Maten](https://open.spotify.com/artist/00PhJFghTO58e6Je0DiPh9), [Black Bear](https://open.spotify.com/artist/6QX3MVXjxAWunnsH7NjTri) | [Utenat](https://open.spotify.com/album/5Rjt8pAtA42H4wivAO7qFZ) | 3:36 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 100 | [Promenade](https://open.spotify.com/track/5YJYDoASP3gSBP3oApGsPX) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 2:52 |
 | 101 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 |
 | 102 | [Western](https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [Fleur de cactus \(Face A\)](https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R) | 3:33 |
-| 103 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
-| 104 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
+| 103 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
+| 104 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
 | 105 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 106 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 107 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |

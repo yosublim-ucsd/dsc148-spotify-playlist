@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24080,
+  "num_followers": 24084,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABS/8m0fdFNznrt0mhfllfK",
+  "snapshot_id": "ZrVcAAAAAABbPoBQGtdBTGBn5Nha4xUe",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
       "duration_ms": 164613,
       "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
       "url": "https://open.spotify.com/track/7H9vfjM5tu6TX2ClilT3u7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disney Channel Play It Loud",
-        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Remember Me - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
     },
     {
       "added_at": null,
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disney Channel Play It Loud",
+        "url": "https://open.spotify.com/album/3cLSwFnXjZGfgM62w7BCuT"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Remember Me - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/7g9OZaQlRGfIA9M1kNEtUK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zendaya",
         "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
       },
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 253346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Soul",
         "url": "https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 268973,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj"
     },
     {
       "added_at": null,

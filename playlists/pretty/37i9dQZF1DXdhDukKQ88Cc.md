@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu..\.  <a href="spotify:artist:4ZwOlDVAGXQo66ykbLQ8dP">Lamin</a> gæster <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI's</a> radiokanal <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊🔊 lyt lige med der
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,634 likes - 81 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,607 likes - 81 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 97191,
+  "num_followers": 97226,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Circle of Eyes",
-        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
+        "name": "Human By Mistake",
+        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
       },
       "artists": [
         {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+          "name": "Landhouse",
+          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
         }
       ],
-      "duration_ms": 420313,
-      "name": "Circle of Eyes",
-      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
+      "duration_ms": 415526,
+      "name": "Human By Mistake",
+      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -519,22 +519,6 @@
       "duration_ms": 437622,
       "name": "The Eternal Thrill",
       "url": "https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Human By Mistake",
-        "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
-      },
-      "artists": [
-        {
-          "name": "Landhouse",
-          "url": "https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt"
-        }
-      ],
-      "duration_ms": 415526,
-      "name": "Human By Mistake",
-      "url": "https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -623,6 +607,22 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Circle of Eyes",
+        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+        }
+      ],
+      "duration_ms": 420313,
+      "name": "Circle of Eyes",
+      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
         "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 299931,
       "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
       "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Taum",
         "url": "https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 274240,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Portico",
-        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 402333,
-      "name": "Portico",
-      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 231637,
       "name": "Sony 7IV",
       "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Portico",
+        "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 402333,
+      "name": "Portico",
+      "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 273053,
       "name": "Golden Apples Of The Sun",
       "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Kinder der Sonne (From \"Komplizen\")",
+        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 400476,
+      "name": "Ungewiss",
+      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Kinder der Sonne (From \"Komplizen\")",
-        "url": "https://open.spotify.com/album/4pmeSfaWHmqAZSJwrptHeC"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 400476,
-      "name": "Ungewiss",
-      "url": "https://open.spotify.com/track/1fcGUyBtxjXzVQwSIO5SLU"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Camina",
-        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 517307,
-      "name": "Camina",
-      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Closer Now",
         "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 296626,
       "name": "Poissons volants",
       "url": "https://open.spotify.com/track/0wDzW0OiFhSRnaBITaXOPD"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 517307,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
     },
     {
       "added_at": "2024-06-28 14:30:27",

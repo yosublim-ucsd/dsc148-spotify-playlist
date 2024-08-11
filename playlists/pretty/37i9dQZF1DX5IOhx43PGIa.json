@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere.  Cover: NIKI",
-  "num_followers": 286556,
+  "num_followers": 286568,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 170078,
       "name": "B.A.D.",
       "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Takes Me Back Home",
-        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 193137,
-      "name": "Takes Me Back Home",
-      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5J56mnyMUF67PMIfzm3YL5"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+        "name": "Takes Me Back Home",
+        "url": "https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 150243,
-      "name": "So Fast",
-      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
+      "duration_ms": 193137,
+      "name": "Takes Me Back Home",
+      "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 150243,
+      "name": "So Fast",
+      "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 170339,
+      "name": "Realms",
+      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "When We Were Younger (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/2CiBWk8uhrrFEeSqTWxglu"
+        "name": "what am i to you?",
+        "url": "https://open.spotify.com/album/4F1fh3cqzYI5F8TfmMcft2"
       },
       "artists": [
         {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         }
       ],
-      "duration_ms": 170339,
-      "name": "Realms",
-      "url": "https://open.spotify.com/track/15hQ5ucr3mYzCQkOFFRX6v"
+      "duration_ms": 216258,
+      "name": "what am i to you?",
+      "url": "https://open.spotify.com/track/0T33HdMn39kzzYfoA4IYWl"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "what am i to you?",
-        "url": "https://open.spotify.com/album/4F1fh3cqzYI5F8TfmMcft2"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 216258,
-      "name": "what am i to you?",
-      "url": "https://open.spotify.com/track/0T33HdMn39kzzYfoA4IYWl"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Tragedy",
         "url": "https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "to love in the 21st century: the epilogue",
-        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "july",
-      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 173661,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "to love in the 21st century: the epilogue",
+        "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "july",
+      "url": "https://open.spotify.com/track/69hJjlCCD9ZbeSTYl6id04"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "talking to the wind",
+        "url": "https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 133974,
+      "name": "SHOW ME OUT",
+      "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Starving (feat. Teezo Touchdown)",
         "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 148000,
       "name": "all-american bitch!",
       "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "talking to the wind",
-        "url": "https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 133974,
-      "name": "SHOW ME OUT",
-      "url": "https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Jokes On Me",
-        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Jokes On Me",
-      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Time to Pretend (Spotify Singles)",
         "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 193000,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 186400,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4VJFOkdwi8nYRYLcmBnW8W"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "The Goo",
-        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "The Goo",
-      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "tiny but scary",
+        "url": "https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "girl talk",
+      "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "small love",
         "url": "https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB"
       },
@@ -1835,6 +1851,22 @@
       "duration_ms": 204000,
       "name": "strange",
       "url": "https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Mind Is Naked",
+        "url": "https://open.spotify.com/album/5UrAkNxfQAor7gfSglHfHK"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 140423,
+      "name": "Mind Is Naked",
+      "url": "https://open.spotify.com/track/7JyBS6M5frEYlH7XEN3wj8"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1899,38 +1931,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Mind Is Naked",
-        "url": "https://open.spotify.com/album/5UrAkNxfQAor7gfSglHfHK"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 140423,
-      "name": "Mind Is Naked",
-      "url": "https://open.spotify.com/track/7JyBS6M5frEYlH7XEN3wj8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Blowing Kisses",
-        "url": "https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F"
-      },
-      "artists": [
-        {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Blowing Kisses",
-      "url": "https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "SEEING PINK",
         "url": "https://open.spotify.com/album/2nSCMCTFyMGUf3bLI2bCed"
       },
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Sorry Sorry",
-        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
+        "name": "Blowing Kisses",
+        "url": "https://open.spotify.com/album/6Oajf1XG7NyTjo4xcH7C6F"
       },
       "artists": [
         {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
         }
       ],
-      "duration_ms": 208830,
-      "name": "Sorry Sorry",
-      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+      "duration_ms": 218146,
+      "name": "Blowing Kisses",
+      "url": "https://open.spotify.com/track/4PYHJBvwWzMRyh6OCVTb0K"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1983,18 +1983,34 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Sunday Song",
-        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
+        "name": "Sorry Sorry",
+        "url": "https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC"
       },
       "artists": [
         {
-          "name": "Ricecooker",
-          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
         }
       ],
-      "duration_ms": 210972,
-      "name": "Sunday Song",
-      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
+      "duration_ms": 208830,
+      "name": "Sorry Sorry",
+      "url": "https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Solo Dates",
+        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "duration_ms": 161099,
+      "name": "Solo Dates",
+      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2015,6 +2031,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Sunday Song",
+        "url": "https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb"
+      },
+      "artists": [
+        {
+          "name": "Ricecooker",
+          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
+        }
+      ],
+      "duration_ms": 210972,
+      "name": "Sunday Song",
+      "url": "https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "In The Void",
         "url": "https://open.spotify.com/album/2iic9IUMlYln2vVXA0jDAp"
       },
@@ -2027,22 +2059,6 @@
       "duration_ms": 147878,
       "name": "In The Void",
       "url": "https://open.spotify.com/track/0PzDsbK7r8tRT7sLLXOezx"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Solo Dates",
-        "url": "https://open.spotify.com/album/3FHAfbbtKf0ucflD9qSWaf"
-      },
-      "artists": [
-        {
-          "name": "FIG",
-          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
-        }
-      ],
-      "duration_ms": 161099,
-      "name": "Solo Dates",
-      "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "giving up everything",
-        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
-      },
-      "artists": [
-        {
-          "name": "nicole han",
-          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "giving up everything",
-      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "BOOTYCAKE",
         "url": "https://open.spotify.com/album/1l247yJZUgGUj9X1n0dFkt"
       },
@@ -2187,6 +2187,22 @@
       "duration_ms": 120263,
       "name": "BOOTYCAKE",
       "url": "https://open.spotify.com/track/0CRy6FCPtXC81L2MdRxx7j"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "giving up everything",
+        "url": "https://open.spotify.com/album/0hRWoOXt6F6sQmipGfeza3"
+      },
+      "artists": [
+        {
+          "name": "nicole han",
+          "url": "https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "giving up everything",
+      "url": "https://open.spotify.com/track/2tEflzVmd3qb9vSMKd4i5x"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2287,22 +2303,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Lately I",
-        "url": "https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 187162,
-      "name": "Lately I",
-      "url": "https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Sweet Release",
         "url": "https://open.spotify.com/album/7v4kLaOxEQCqG1z6PlzF85"
       },
@@ -2319,6 +2319,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Lately I",
+        "url": "https://open.spotify.com/album/1nnAQnkffXQRxlBs52PhIj"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 187162,
+      "name": "Lately I",
+      "url": "https://open.spotify.com/track/0gLFMd2AWX4C0KIipkixxj"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Say Hello",
         "url": "https://open.spotify.com/album/1KnOMUjcLKoxZY7KUvUP3z"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 174141,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/2CCQSEO1f9vpHN8nMCzJBU"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "tiny but scary",
-        "url": "https://open.spotify.com/album/7MZOubrrYkMZPC5CEgjHGR"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "girl talk",
-      "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
     },
     {
       "added_at": "2024-08-09 04:00:00",

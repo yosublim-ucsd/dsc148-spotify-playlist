@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 127620,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 127760,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABDw6VC9iiqb1xfUhMjvN/X",
+  "snapshot_id": "ZrVcAAAAAABRVv0ISk/T61Ms54W5gYar",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa - En Vivo",
-        "url": "https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/7MeaPhPWxdF4GqDCoEkrEV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 252821,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/7KZZUsnWVHbpZ4nv82ixI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa - En Vivo",
+        "url": "https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/6eBwuCa1Sn6Akd8B4K3MVk"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181901,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don (En Vivo)",
         "url": "https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 210383,
       "name": "Don (En Vivo)",
       "url": "https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/6eBwuCa1Sn6Akd8B4K3MVk"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pareja Ideal (Live)",
         "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 249088,
       "name": "La Pareja Ideal - Live",
       "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico - En Vivo",
-        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147602,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Del Ice (Live)",
         "url": "https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 216960,
       "name": "El Del Ice - Live",
       "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chico - En Vivo",
+        "url": "https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Quiero Enamorar",
-        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "No Me Quiero Enamorar",
-      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Ya Me Voy",
-        "url": "https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ"
+        "name": "Fuentes De Ortiz",
+        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
       },
       "artists": [
         {
@@ -584,9 +568,25 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 259976,
-      "name": "Hoy Ya Me Voy",
-      "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
+      "duration_ms": 232216,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Quiero Enamorar",
+        "url": "https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "No Me Quiero Enamorar",
+      "url": "https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuentes De Ortiz",
-        "url": "https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS"
+        "name": "Hoy Ya Me Voy",
+        "url": "https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 232216,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
+      "duration_ms": 259976,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
     },
     {
       "added_at": null,

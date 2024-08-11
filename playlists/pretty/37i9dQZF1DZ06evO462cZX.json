@@ -1,12 +1,12 @@
 {
-  "description": "This Is Deorro. Los temas esenciales, todos en una lista.",
-  "num_followers": 41109,
+  "description": "This is Deorro. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 41126,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAADNQNjCsWVsclczzkGfwYXb",
+  "snapshot_id": "ZrVcAAAAAAATx1eAsQkHRnBOpDUqogZY",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pica",
         "url": "https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflect",
-        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
-        }
-      ],
-      "duration_ms": 189797,
-      "name": "You Are Not Alone (feat. Dear Sara)",
-      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pasame La Botella",
         "url": "https://open.spotify.com/album/5nXFr1sJiXv7Kx0zDniuP0"
       },
@@ -655,6 +655,26 @@
       "duration_ms": 209329,
       "name": "Pasame La Botella",
       "url": "https://open.spotify.com/track/6Y2JmUPmMFzAdqrDYKXFlF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reflect",
+        "url": "https://open.spotify.com/album/6Xhh9hPXHtndhX6Qvs7Ocx"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "duration_ms": 189797,
+      "name": "You Are Not Alone (feat. Dear Sara)",
+      "url": "https://open.spotify.com/track/310TW3iypnMo8laEWughHb"
     },
     {
       "added_at": null,
@@ -719,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Like This F\u2019n Song",
+        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 193821,
+      "name": "I Like This F\u2019n Song",
+      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -739,26 +779,6 @@
       "duration_ms": 229411,
       "name": "Dime",
       "url": "https://open.spotify.com/track/3G2GGr45h1eceLGyUAoBNc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like This F\u2019n Song",
-        "url": "https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
-        }
-      ],
-      "duration_ms": 193821,
-      "name": "I Like This F\u2019n Song",
-      "url": "https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Young Eiby",
-          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Que Es Eso (feat. Young Eiby)",
-      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakalaka (feat. Max Styler)",
         "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 176571,
       "name": "Shakalaka (feat. Max Styler)",
       "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Young Eiby",
+          "url": "https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Que Es Eso (feat. Young Eiby)",
+      "url": "https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Jeon",
-          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Rumba (feat. Jeon)",
-      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still (Deorro Remix)",
         "url": "https://open.spotify.com/album/1jC3vHPrb6jGROaQE8ptXu"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 164800,
       "name": "Still - Deorro Remix",
       "url": "https://open.spotify.com/track/0DIceiF32etShjQgrByM5n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jeon",
+          "url": "https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Rumba (feat. Jeon)",
+      "url": "https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORRO",
-        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Se Vuelve Loca",
-      "url": "https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esta Vida (Deorro Remix)",
         "url": "https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 239896,
       "name": "Esta Vida - Deorro Remix",
       "url": "https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORRO",
+        "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Se Vuelve Loca",
+      "url": "https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP"
     },
     {
       "added_at": null,
@@ -1083,34 +1103,6 @@
       "duration_ms": 184615,
       "name": "Adios (with Andrez Babii)",
       "url": "https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 155827,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa"
     }
   ],
   "unique_name": "This Is Deorro",

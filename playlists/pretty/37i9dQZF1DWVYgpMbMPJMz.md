@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0f59qYByNYzspwAr7huTSB">Isadora Pompeo </a> and <a href="spotify:artist:3rdJD72bitczKtW5yNgAA4">Seph Schleuter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,830 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,896 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 62 | [Nothing Left to Prove \(Spontaneous\) \- Live](https://open.spotify.com/track/0afWUoudlKsRf5olahIYV2) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Nothing Left to Prove \(Spontaneous\) \[Live\]](https://open.spotify.com/album/3jCkwuXt510gcreoCKKjOV) | 8:39 |
 | 63 | [Amen Of Heaven \(Live\)](https://open.spotify.com/track/0uJxtoa3LsDnOdxGvWr8Z5) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Songs For Sunday \(Live\)](https://open.spotify.com/album/6J4AVNtdMpn50w1u3j1HHe) | 6:16 |
 | 64 | [Worship Through It](https://open.spotify.com/track/0WE0lN2uFCg4ojyO2ryq9I) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Worship Through It](https://open.spotify.com/album/20n1fFSb2Wrqs6pjwqKZEg) | 3:40 |
-| 65 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
+| 65 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 66 | [Testament](https://open.spotify.com/track/64VGyBMqnwD7kbLZf8oJvv) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Testament](https://open.spotify.com/album/1bAgxtfkRMwZpcSNelcl59) | 4:55 |
 | 67 | [The Worthy One \- Live](https://open.spotify.com/track/08p3ubgxrY3Kks1lraTlLd) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Lauren Smith](https://open.spotify.com/artist/7lM3omHCUZWwKpMK867IGu) | [God Is \(Live\)](https://open.spotify.com/album/0KDeewz19A4gwXCFNM6cTm) | 7:39 |
 | 68 | [The Commission \(Go Tell The World\) \(feat\. Isaiah Templeton\)](https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Isaiah Templeton](https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5) | [The Commission \(Go Tell The World\)](https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy) | 4:05 |

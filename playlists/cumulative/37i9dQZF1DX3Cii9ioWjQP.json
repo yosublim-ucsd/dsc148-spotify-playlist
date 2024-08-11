@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 213213,
       "name": "A Sorrowful Memory",
       "url": "https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 291493,
       "name": "Bird+Disposable - Live at Nodeul Live House, 2021",
       "url": "https://open.spotify.com/track/0HXDnoDxJh6uMv0lE3tikE"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 204000,
       "name": "Classic Coffee",
       "url": "https://open.spotify.com/track/3VjfNMeLYZoiqm5cVmFm80"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 279192,
       "name": "Close my eyes",
       "url": "https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 493568,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 230610,
       "name": "forever",
       "url": "https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 270946,
       "name": "Hedgehog's Dilemma",
       "url": "https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 182500,
       "name": "I Will Never Fall In Love",
       "url": "https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 654001,
       "name": "Inflexible Chess Pieces",
       "url": "https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 226330,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3c3budMk8QIYmmEM1YOcbl"
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 249058,
       "name": "Purple Wave",
       "url": "https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 266527,
       "name": "Standstill",
       "url": "https://open.spotify.com/track/4joLyChZpeeC813fRKzpHu"
@@ -2778,7 +2778,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 164000,
       "name": "Sugar Sweet",
       "url": "https://open.spotify.com/track/5AByPt6g5Up72n6XKVJOda"
@@ -2850,10 +2850,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 228580,
       "name": "Swing Slam",
       "url": "https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW"
+    },
+    {
+      "album": {
+        "name": "Take a Break",
+        "url": "https://open.spotify.com/album/0aEMu0UemoafzHBLiRHX96"
+      },
+      "artists": [
+        {
+          "name": "OURBEATZ",
+          "url": "https://open.spotify.com/artist/5CHL5eSlK4Ghwe9KrZdf0x"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154227,
+      "name": "Take a Break",
+      "url": "https://open.spotify.com/track/5fjY9RhBP29AYMPaWLcq1V"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 202459,
       "name": "That's why you're spring",
       "url": "https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 232385,
       "name": "Time of Love",
       "url": "https://open.spotify.com/track/5v3ESa7ytuyb2I2YJbCgPF"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 220053,
       "name": "Venice Calle",
       "url": "https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 277591,
       "name": "\uce74\ud398\uc778",
       "url": "https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme"

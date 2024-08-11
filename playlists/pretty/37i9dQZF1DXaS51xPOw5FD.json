@@ -1,6 +1,6 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 60842,
+  "num_followers": 60876,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
+        "name": "Vino Bandit",
+        "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "Vino Bandit",
+      "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
         "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
         "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Vino Bandit",
-        "url": "https://open.spotify.com/album/5wmkCBglZqdYFKjudx75JG"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "Vino Bandit",
-      "url": "https://open.spotify.com/track/00c6JYguKlfq5yOlLoITlH"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Back To Back (B2B)",
-        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
+        "name": "What Came Before",
+        "url": "https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1"
       },
       "artists": [
         {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Ethan Holt",
+          "url": "https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl"
         }
       ],
-      "duration_ms": 175546,
-      "name": "Back To Back (B2B)",
-      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
+      "duration_ms": 204426,
+      "name": "Hold Your Ground (feat. Ethan Holt)",
+      "url": "https://open.spotify.com/track/1hUTI1FVsGJ10SptsuxXkt"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "What Came Before",
-        "url": "https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1"
+        "name": "Back To Back (B2B)",
+        "url": "https://open.spotify.com/album/6bSMeMnzgxWncuRlL80p3s"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Ethan Holt",
-          "url": "https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl"
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Hold Your Ground (feat. Ethan Holt)",
-      "url": "https://open.spotify.com/track/1hUTI1FVsGJ10SptsuxXkt"
+      "duration_ms": 175546,
+      "name": "Back To Back (B2B)",
+      "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1215,6 +1215,26 @@
       "duration_ms": 226206,
       "name": "Be There",
       "url": "https://open.spotify.com/track/6Keg029MW2OzYWZrt0kQFh"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1303,22 +1323,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Waiting All Night",
         "url": "https://open.spotify.com/album/6Jf8KEBkBLFYZUq3qxrXNl"
       },
@@ -1339,6 +1343,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
         "name": "Mbapp\u00e9",
         "url": "https://open.spotify.com/album/08LIHAljLBmXTE4YbMyHfW"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 157205,
       "name": "Mbapp\u00e9",
       "url": "https://open.spotify.com/track/0cHikxpKB7AAkb6abfYIkk"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Rudeboy Design Soundtape",
-        "url": "https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        },
-        {
-          "name": "Mr. Williamz",
-          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
-        }
-      ],
-      "duration_ms": 199136,
-      "name": "Firetime",
-      "url": "https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Downers (Rework)",
         "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 181689,
       "name": "Downers - Rework",
       "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Rudeboy Design Soundtape",
+        "url": "https://open.spotify.com/album/5agpBYgvnZjV6GNGgxaSsz"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        }
+      ],
+      "duration_ms": 199136,
+      "name": "Firetime",
+      "url": "https://open.spotify.com/track/0AnCANuCLwQENug7NpPOjK"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Bad Gyalz",
-        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 159299,
-      "name": "Bad Gyalz",
-      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "RTRN II JUNGLE",
         "url": "https://open.spotify.com/album/5TL5mPJjOPiQCcZzEpfuaU"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195266,
       "name": "Heater",
       "url": "https://open.spotify.com/track/7joCfNdhgBuBYVquBQPHLq"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1655,30 +1655,6 @@
       "duration_ms": 155056,
       "name": "Spray Tan",
       "url": "https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "Gideon\u2019s Charge (feat. KINGH)",
-        "url": "https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        },
-        {
-          "name": "Mr. Williamz",
-          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
-        },
-        {
-          "name": "KINGH",
-          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Gideon's Charge (feat. KINGH) - Edit",
-      "url": "https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1727,22 +1703,46 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4"
+        "name": "All 4 U",
+        "url": "https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR"
       },
       "artists": [
         {
-          "name": "Maduk",
-          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
         },
         {
-          "name": "Veela",
-          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+          "name": "Javeon",
+          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
         }
       ],
-      "duration_ms": 222739,
-      "name": "Ghost Assassin - VIP",
-      "url": "https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9"
+      "duration_ms": 168457,
+      "name": "All 4 U",
+      "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Gideon\u2019s Charge (feat. KINGH)",
+        "url": "https://open.spotify.com/album/1LV4kdReSJjYz4GrPJ6B4s"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Mr. Williamz",
+          "url": "https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs"
+        },
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Gideon's Charge (feat. KINGH) - Edit",
+      "url": "https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4"
+      },
+      "artists": [
+        {
+          "name": "Maduk",
+          "url": "https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "duration_ms": 222739,
+      "name": "Ghost Assassin - VIP",
+      "url": "https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
         "name": "Garden (Calibre Remix)",
         "url": "https://open.spotify.com/album/6xPaNRGXlr2L0brkk8ab8N"
       },
@@ -1787,26 +1807,6 @@
       "duration_ms": 358975,
       "name": "Garden - Calibre Remix",
       "url": "https://open.spotify.com/track/6HRa9FtX8ifjQmA3XFBXan"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
-        "name": "All 4 U",
-        "url": "https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR"
-      },
-      "artists": [
-        {
-          "name": "DJ Marky",
-          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
-        },
-        {
-          "name": "Javeon",
-          "url": "https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7"
-        }
-      ],
-      "duration_ms": 168457,
-      "name": "All 4 U",
-      "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Raggamuffin SoundTape",
-        "url": "https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 209528,
-      "name": "Call Me (feat. Maverick Sabre)",
-      "url": "https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J"
-    },
-    {
-      "added_at": "2024-08-01 23:00:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/6hlTk0Uez126pGiaVpmVPx"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT"
+    },
+    {
+      "added_at": "2024-08-01 23:00:00",
+      "album": {
+        "name": "Raggamuffin SoundTape",
+        "url": "https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 209528,
+      "name": "Call Me (feat. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J"
     },
     {
       "added_at": "2024-08-01 23:00:00",
@@ -2027,22 +2027,22 @@
     {
       "added_at": "2024-08-01 23:00:00",
       "album": {
-        "name": "Settle Down",
-        "url": "https://open.spotify.com/album/11cGr25AvbD3iahomIPaNc"
+        "name": "Diary of a Digital Soundboy",
+        "url": "https://open.spotify.com/album/2AQvEaTftBRkdPm631O1rZ"
       },
       "artists": [
         {
-          "name": "Makoto",
-          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
         },
         {
-          "name": "L-Side",
-          "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
+          "name": "T. Power",
+          "url": "https://open.spotify.com/artist/6RWwgz4MtFCHzptyShPC1c"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9"
+      "duration_ms": 287626,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/6ubaO4iPmPCrtSsMkfmw9v"
     }
   ],
   "unique_name": "Sunny dnb",

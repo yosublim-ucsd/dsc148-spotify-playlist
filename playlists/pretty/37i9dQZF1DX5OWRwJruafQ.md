@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,538 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,555 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 |
 | 2 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 |
 | 3 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 |
-| 4 | [Khush Hunde](https://open.spotify.com/track/7JmRnVC7CubViucGxiOBUh) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Khush Hunde](https://open.spotify.com/album/0Cdo8f8vMWAK7VRJHNvb6c) | 2:13 |
+| 4 | [Khush Hunde](https://open.spotify.com/track/7JmRnVC7CubViucGxiOBUh) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Khush Hunde](https://open.spotify.com/album/0Cdo8f8vMWAK7VRJHNvb6c) | 2:13 |
 | 5 | [Masle](https://open.spotify.com/track/1i2Hf9IxuHbfi8MbrdmfRx) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Masle](https://open.spotify.com/album/06dpLPWKYdm1T6bdMJBROL) | 2:53 |
 | 6 | [2 Laddu](https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [2 Laddu](https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd) | 3:15 |
 | 7 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |

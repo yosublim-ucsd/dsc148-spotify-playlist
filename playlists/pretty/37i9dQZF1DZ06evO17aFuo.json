@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 286665,
+  "num_followers": 286732,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAADAh4Z8yy1duGaZvOvv4g94",
+  "snapshot_id": "ZrVcAAAAAABXx3gu0n1ejbdoF+1m22wL",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 223400,
-      "name": "This Was My Life",
-      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+        "name": "Rust In Peace",
+        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 302333,
-      "name": "The Conjuring - Remastered",
-      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
+      "duration_ms": 110533,
+      "name": "Dawn Patrol",
+      "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rust In Peace",
-        "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 110533,
-      "name": "Dawn Patrol",
-      "url": "https://open.spotify.com/track/4b2GAM5mE3K0btATdsi0UO"
+      "duration_ms": 302333,
+      "name": "The Conjuring - Remastered",
+      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 239413,
       "name": "Return to Hangar",
       "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 305200,
-      "name": "Devils Island - 2004 Remaster",
-      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 305200,
+      "name": "Devils Island - 2004 Remaster",
+      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Collider",
         "url": "https://open.spotify.com/album/4SG1HFhXihESspVTyKYl5j"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "My Last Words - Remastered",
-      "url": "https://open.spotify.com/track/6VdoivAOy8oRR6Pmpw4Ux4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 374173,
       "name": "Dogs Of Chernobyl",
       "url": "https://open.spotify.com/track/4nWRa8SyNXrfIl3SCCuC6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Th1rt3en",
+        "url": "https://open.spotify.com/album/0ja6Rjg1a5Fw2IEwTymwQE"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "Sudden Death",
+      "url": "https://open.spotify.com/track/1JjrlHVsqKFDr0j8PebFnp"
     }
   ],
   "unique_name": "This Is Megadeth",

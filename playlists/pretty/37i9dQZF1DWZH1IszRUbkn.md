@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 726 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 22 | [Dos ojitos tengo](https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 0:55 |
 | 23 | [Mueve el Ombligo](https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx) | [La Banda de Carmen](https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8) | [Música Infantil para Fiestas: Canciones para Bailar Niños y Padres](https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT) | 2:53 |
 | 24 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
-| 25 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
-| 26 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
+| 25 | [Ritmo Robótico](https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV) | [Maria Gabriela de Faria](https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:13 |
+| 26 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
 | 27 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
 | 28 | [Un Nuevo Viaje](https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:04 |
 | 29 | [Te Creo](https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:59 |

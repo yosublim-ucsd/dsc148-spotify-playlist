@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346137,
+  "num_followers": 346147,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Malandragem",
-        "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Malandragem",
-      "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "D\u00e1 Pra Ser Feliz",
         "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 202200,
       "name": "D\u00e1 Pra Ser Feliz",
       "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Malandragem",
+        "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Malandragem",
+      "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "A Chave",
-      "url": "https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/24KDILHIpRPBcxAN9S4tXz"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 256049,
       "name": "Sentido",
       "url": "https://open.spotify.com/track/47p6zm9vtMTgqVljgyH5wT"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1oCCHl2dwVAXtODMA14oDZ"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 267093,
+      "name": "A Chave",
+      "url": "https://open.spotify.com/track/3zyGnvvjexBjoE2Q8K0uMh"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -591,6 +591,38 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        }
+      ],
+      "duration_ms": 191166,
+      "name": "A Donzela Se Casou",
+      "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Uma nova hist\u00f3ria",
         "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
       },
@@ -631,38 +663,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Mundo Paralelo",
-        "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Tom Veloso",
-          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
-        }
-      ],
-      "duration_ms": 191166,
-      "name": "A Donzela Se Casou",
-      "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "BabyBaby",
+        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 206484,
+      "name": "BabyBaby",
+      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Tobog\u00e3",
         "url": "https://open.spotify.com/album/18k5MYAMRC8y6BrOiMQOaM"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 219486,
       "name": "Tobog\u00e3",
       "url": "https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "BabyBaby",
-        "url": "https://open.spotify.com/album/7noIaTUzmAOAsF8o5IIw0c"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 206484,
-      "name": "BabyBaby",
-      "url": "https://open.spotify.com/track/229evEIYKtbAxTSVXxWIjk"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
+        "name": "Na Can\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2eLJBKPl926NFmQu5ml8CR"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1bio Jr.",
+          "url": "https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU"
+        }
+      ],
+      "duration_ms": 145416,
+      "name": "Na Can\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/6FJnOvFisHuRl54X9wedcP"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 332106,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5uMzEzOgJv7tfhV5CxgyVJ"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Na Can\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2eLJBKPl926NFmQu5ml8CR"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1bio Jr.",
-          "url": "https://open.spotify.com/artist/60iOwdF3A0p4pAwgUXMaWU"
-        }
-      ],
-      "duration_ms": 145416,
-      "name": "Na Can\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Jovens, fantasmas e dinheiro",
-        "url": "https://open.spotify.com/album/61Fhk7mWilI50sCIF5jkOf"
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
       },
       "artists": [
         {
-          "name": "Sanza",
-          "url": "https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx"
-        },
-        {
-          "name": "Nova Alquimia",
-          "url": "https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m"
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
         }
       ],
-      "duration_ms": 119206,
-      "name": "Jovens, fantasmas e dinheiro",
-      "url": "https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9"
+      "duration_ms": 189666,
+      "name": "Clube",
+      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
+        "name": "Jovens, fantasmas e dinheiro",
+        "url": "https://open.spotify.com/album/61Fhk7mWilI50sCIF5jkOf"
       },
       "artists": [
         {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+          "name": "Sanza",
+          "url": "https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx"
+        },
+        {
+          "name": "Nova Alquimia",
+          "url": "https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m"
         }
       ],
-      "duration_ms": 189666,
-      "name": "Clube",
-      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
+      "duration_ms": 119206,
+      "name": "Jovens, fantasmas e dinheiro",
+      "url": "https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "E o Tempo Agora Quer Voar",
-        "url": "https://open.spotify.com/album/3anQ7h3Q9qFf1Z20l68Rfl"
-      },
-      "artists": [
-        {
-          "name": "Ala\u00edde Costa",
-          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
-        }
-      ],
-      "duration_ms": 209461,
-      "name": "Foi S\u00f3 Porque Voc\u00ea N\u00e3o Quis",
-      "url": "https://open.spotify.com/track/6UP16pYJ5dUKWlSnyf21cg"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1259,6 +1243,38 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "E o Tempo Agora Quer Voar",
+        "url": "https://open.spotify.com/album/3anQ7h3Q9qFf1Z20l68Rfl"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde Costa",
+          "url": "https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs"
+        }
+      ],
+      "duration_ms": 209461,
+      "name": "Foi S\u00f3 Porque Voc\u00ea N\u00e3o Quis",
+      "url": "https://open.spotify.com/track/6UP16pYJ5dUKWlSnyf21cg"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1291,22 +1307,6 @@
       "duration_ms": 232576,
       "name": "Porvir",
       "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "J\u00e3o",
-        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
+        "name": "Misteriosa",
+        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
       },
       "artists": [
         {
-          "name": "MOMO.",
-          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 300225,
-      "name": "J\u00e3o",
-      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
+      "duration_ms": 348000,
+      "name": "Macap\u00e1",
+      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1511,6 +1511,22 @@
       "duration_ms": 168973,
       "name": "Vento no Canavial",
       "url": "https://open.spotify.com/track/60Cd1TrpjBkCvU53BbEdKL"
+    },
+    {
+      "added_at": "2024-08-09 15:15:51",
+      "album": {
+        "name": "J\u00e3o",
+        "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
+      },
+      "artists": [
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "duration_ms": 300225,
+      "name": "J\u00e3o",
+      "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1551,34 +1567,22 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Domingo \u00c0 Noite",
-        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
       },
       "artists": [
         {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 221137,
-      "name": "Domingo \u00c0 Noite",
-      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
-    },
-    {
-      "added_at": "2024-08-09 15:15:51",
-      "album": {
-        "name": "Misteriosa",
-        "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
-      },
-      "artists": [
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Macap\u00e1",
-      "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-08-09 15:15:51",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2024-08-09 15:15:51",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
       },
       "artists": [
         {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
         }
       ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-08-09 15:15:51",

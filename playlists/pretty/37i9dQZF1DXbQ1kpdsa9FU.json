@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 607491,
+  "num_followers": 607613,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 209595,
       "name": "Counting My Blessings",
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "The EXILE",
-        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226083,
-      "name": "Somebody Prayed",
-      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Unknown - EP",
         "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 183280,
       "name": "Tremble - Studio Version",
       "url": "https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "The EXILE",
+        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Somebody Prayed",
+      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "The Father's House",
-        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 253640,
-      "name": "The Father's House - Studio",
-      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Ben Fuller",
         "url": "https://open.spotify.com/album/6WqQf3KhrFg6stz7INLpqT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231320,
       "name": "If I Got Jesus",
       "url": "https://open.spotify.com/track/4sxYX9ls1zBH7YhhejzsSi"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "The Father's House",
+        "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 253640,
+      "name": "The Father's House - Studio",
+      "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "The Beginning & Everything After",
         "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 202480,
       "name": "I Will Fear No More",
       "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Look At God",
-        "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 219514,
-      "name": "Look At God",
-      "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Church Pew",
         "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 183558,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Look At God",
+        "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 219514,
+      "name": "Look At God",
+      "url": "https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 202703,
+      "name": "Always Only Jesus - Single Version",
+      "url": "https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "Always Only Jesus",
-        "url": "https://open.spotify.com/album/5fmYFHD0y6zDlUKQLnCf1b"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 202703,
-      "name": "Always Only Jesus - Single Version",
-      "url": "https://open.spotify.com/track/2WoikaPwX24vxIv0ABp2LH"
     },
     {
       "added_at": "2024-06-23 01:51:00",

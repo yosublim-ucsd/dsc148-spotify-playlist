@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 204545,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 142522,
       "name": "Colorful Cutlery",
       "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
@@ -7074,7 +7074,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 243691,
       "name": "Disgusted",
       "url": "https://open.spotify.com/track/4uaaWQL4XikhR7IXyLEXmB"
@@ -9429,6 +9429,28 @@
     },
     {
       "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152768,
+      "name": "Favorite (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
+    },
+    {
+      "album": {
         "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
         "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
@@ -11086,7 +11108,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 186272,
       "name": "GARDEN",
       "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
@@ -21574,7 +21596,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 574634,
       "name": "One (feat. Robert Trujillo) - Instrumental",
       "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
@@ -26255,6 +26277,28 @@
     },
     {
       "album": {
+        "name": "Shaolin Spitters",
+        "url": "https://open.spotify.com/album/02LZWN7zMbWfJp9DKh8XJj"
+      },
+      "artists": [
+        {
+          "name": "Crazy Peppsta",
+          "url": "https://open.spotify.com/artist/0ogaGB0FYdH30wr2ymWkvs"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194311,
+      "name": "Shaolin Spitters",
+      "url": "https://open.spotify.com/track/0vbBu4qlfhhVw8CiQTpgQR"
+    },
+    {
+      "album": {
         "name": "Shaolin's Revenge",
         "url": "https://open.spotify.com/album/0pQHdDDKjOHgRIL9j7sOfZ"
       },
@@ -27014,7 +27058,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 196285,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
@@ -31460,7 +31504,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 146109,
       "name": "Too Shy to Say - Cover",
       "url": "https://open.spotify.com/track/73V9aIv4o4f5Zq8x3EOA5H"
@@ -32962,7 +33006,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 142799,
       "name": "War (feat. Ari Lennox & Jeremih)",
       "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
@@ -33382,7 +33426,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 120293,
       "name": "We're All Connected (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3KqiWn5vvFf431S88SYMlA"

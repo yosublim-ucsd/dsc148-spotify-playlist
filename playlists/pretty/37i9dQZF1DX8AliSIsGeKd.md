@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Jil Tanner
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,235 likes - 90 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,401 likes - 90 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 17 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |
 | 18 | [The Telepath](https://open.spotify.com/track/56rfbVxwhyZ8ru7uo1BJrJ) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [The Telepath](https://open.spotify.com/album/7MKlDCqLisacqJ2ynQ9FVQ) | 3:36 |
 | 19 | [Violently Patient \(lau.ra Remix\)](https://open.spotify.com/track/4qNJJjnoBTmBDOqwZDiVE0) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [Violently Patient \(lau.ra Remix\)](https://open.spotify.com/album/2mizZjBErIkiS6pVr2qY1w) | 4:34 |
-| 20 | [I'm in a Cage](https://open.spotify.com/track/79Lwaucgw5kD5MZbOb4oU6) | [LALENA](https://open.spotify.com/artist/3iZef2nspphvK6MLOhVvU8), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Jannis Klimpel](https://open.spotify.com/artist/6ZPq6iUvlVDRnrDYY4dAjY), [Cage](https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo) | [I'm in a Cage](https://open.spotify.com/album/6LJ7N8k7lPbM6I9lXZShft) | 5:48 |
+| 20 | [I'm in a Cage](https://open.spotify.com/track/79Lwaucgw5kD5MZbOb4oU6) | [LALENA](https://open.spotify.com/artist/3iZef2nspphvK6MLOhVvU8), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Cage](https://open.spotify.com/artist/5AcetCgP402g9PqzkcSxNo) | [I'm in a Cage](https://open.spotify.com/album/6LJ7N8k7lPbM6I9lXZShft) | 5:48 |
 | 21 | [Higher](https://open.spotify.com/track/2TuZF5WP5KK3f8KupYYYu9) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ), [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [Higher](https://open.spotify.com/album/5gHHcTXeyxGVcPkIRxw1wF) | 3:23 |
 | 22 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 | 23 | [Don't Stop](https://open.spotify.com/track/4hXapk3xMtF1xub69xTBAv) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 14](https://open.spotify.com/album/4kgqeuv9mCkuxNc23yVWl0) | 4:56 |

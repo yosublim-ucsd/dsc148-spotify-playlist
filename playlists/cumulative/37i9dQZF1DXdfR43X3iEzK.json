@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "360 featuring robyn and yung lean",
+        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "360 featuring robyn and yung lean",
+      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
+    },
+    {
+      "album": {
         "name": "Club Shy (extended)",
         "url": "https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g"
       },
@@ -692,6 +718,28 @@
       "duration_ms": 191840,
       "name": "Free",
       "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
+    },
+    {
+      "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "album": {
@@ -1687,32 +1735,6 @@
     },
     {
       "album": {
-        "name": "The 360 remix with robyn and yung lean",
-        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "date_added": "2024-06-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129761,
-      "name": "The 360 remix with robyn and yung lean",
-      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
-    },
-    {
-      "album": {
         "name": "The Alibi",
         "url": "https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x"
       },
@@ -1746,28 +1768,6 @@
       "duration_ms": 255800,
       "name": "The Conflict Of The Mind",
       "url": "https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp"
-    },
-    {
-      "album": {
-        "name": "The girl, so confusing version with lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "date_added": "2024-07-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "album": {

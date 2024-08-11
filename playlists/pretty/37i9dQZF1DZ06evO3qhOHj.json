@@ -1,29 +1,13 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 27654,
+  "num_followers": 27663,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAACrx8R0gBBvnVk2wxQmx9Wr",
+  "snapshot_id": "ZrVcAAAAAABimTQd3dWKLOV0BfagMes9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 277980,
-      "name": "Right Outta Here",
-      "url": "https://open.spotify.com/track/3EoX27Xc5qO0dAtrKozdQZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 198470,
-      "name": "What Were You Thinking",
-      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
+      "duration_ms": 256790,
+      "name": "Sunday Morning Kinda Girl",
+      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
     },
     {
       "added_at": null,
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 256790,
-      "name": "Sunday Morning Kinda Girl",
-      "url": "https://open.spotify.com/track/09gUkWZ0yRbXHnIg8hTLJx"
+      "duration_ms": 198470,
+      "name": "What Were You Thinking",
+      "url": "https://open.spotify.com/track/6z6RHWh4mk0MXg3gFWJDpw"
     },
     {
       "added_at": null,
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 232011,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
-      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+      "duration_ms": 274150,
+      "name": "Up On You",
+      "url": "https://open.spotify.com/track/0ZTINWCGsFVcPAHokb1P0s"
     },
     {
       "added_at": null,
@@ -471,6 +439,22 @@
       "duration_ms": 288600,
       "name": "If That's What It Takes",
       "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 274150,
-      "name": "Up On You",
-      "url": "https://open.spotify.com/track/0ZTINWCGsFVcPAHokb1P0s"
+      "duration_ms": 232011,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/5HnbBZhHvyvmwOGYQPlm31"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+      "duration_ms": 183013,
+      "name": "Dancin' Right into the Flame",
+      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
       "artists": [
         {
@@ -580,25 +564,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Dancin' Right into the Flame",
-      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -615,6 +583,22 @@
       "duration_ms": 230120,
       "name": "Rock & Roll Over - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,

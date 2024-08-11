@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-188 songs - 10 hr 14 min
+189 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,11 +50,12 @@
 | [Deixe Me Ir \- Acústico](https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Baviera](https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy) | [Deixe Me Ir \(Acústico\)](https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr) | 3:33 | 2021-11-12 |  |
 | [Descanso de Tela](https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb) | [Golden Tears](https://open.spotify.com/artist/3plkOZoZTpgkYUtfN2LQ8T), [Orfeu](https://open.spotify.com/artist/18uMcBWoSMzUxHBvz9vzRi), [Odin Chan](https://open.spotify.com/artist/0qbrywRB2LieMLyAtfWSPR), [Osijé](https://open.spotify.com/artist/6TyVy8z8gEOLqXbcdfvFME) | [Descanso de Tela](https://open.spotify.com/album/2boa2yzlE1amlQzyVZiOwa) | 2:52 | 2023-11-17 | 2024-01-06 |
 | [Desce](https://open.spotify.com/track/1FQQ7JbPW1xvzwCCZ9WjSd) | [CARTE](https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89), [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Desce](https://open.spotify.com/album/7GumqQ218g9ztXePPLfdht) | 2:40 | 2023-03-17 | 2023-04-01 |
+| [Dias de Luta Dias de Glória](https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Dias de Luta Dias de Glória](https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8) | 2:17 | 2024-08-09 |  |
 | [Djavu](https://open.spotify.com/track/2WH637f5jibXgY3Be06EC9) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Tertto](https://open.spotify.com/artist/2Ab3GEqPRCoaRDCBhkUgIr), [Raonir Braz](https://open.spotify.com/artist/44w1bg6i4nDOZMvNnGiRdg), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy) | [Djavu](https://open.spotify.com/album/3teEapeQnAL8iGDlIUb9Cq) | 4:11 | 2024-01-26 | 2024-03-13 |
 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [K.E](https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 | 2021-11-12 |  |
 | [DOUTOR](https://open.spotify.com/track/0vDhaB1GfGp1lpzVipq4pR) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [DOUTOR](https://open.spotify.com/album/4qVtkOVXvzzLV2JFR7eqT2) | 2:48 | 2024-06-21 |  |
 | [ELA ME TEM](https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [ELA ME TEM](https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN) | 2:27 | 2023-03-24 | 2023-06-24 |
-| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 |  |
+| [Ela Não Cansa](https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Mel](https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94) | [Ela Não Cansa](https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H) | 2:54 | 2023-02-25 | 2024-08-11 |
 | [Ela É Um Vício](https://open.spotify.com/track/4rn4T3egGnLa8i7TsKaozp) | [Flay](https://open.spotify.com/artist/7aaNhMElpyzTnU2LgccyR3), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ela É Um Vício](https://open.spotify.com/album/53fQ4HgmJBcrmjxC6z9NYJ) | 2:55 | 2024-04-26 |  |
 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 | 2021-11-12 |  |
 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 | 2022-06-17 | 2023-10-14 |

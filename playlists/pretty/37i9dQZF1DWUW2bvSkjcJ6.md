@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Chapo102,  Bausa
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,224 likes - 83 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,325 likes - 83 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

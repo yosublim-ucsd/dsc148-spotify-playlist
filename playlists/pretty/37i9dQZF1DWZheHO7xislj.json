@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140784,
+  "num_followers": 140777,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -199,6 +183,22 @@
       "duration_ms": 255133,
       "name": "Got To Give It Up - Pt. 1",
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "The Man In The Street: The Complete Yellow Stax Solo Singles (1968-1974)",
         "url": "https://open.spotify.com/album/0mRmuRVY94yZmwcItjpg5b"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 142746,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/3a19dv4IRhGjkyvgdUxEDu"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 316160,
-      "name": "On Broadway",
-      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Tell It Like It Is - The Par Lo Years",
         "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 165960,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 316160,
+      "name": "On Broadway",
+      "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
       "artists": [
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
+      "duration_ms": 210280,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/61xW0GqeX38uF0elO3jjql"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 208555,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Complete Calla, Port and Roulette Recordings",
-        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
         "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Complete Calla, Port and Roulette Recordings",
+        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Boss Man",
-        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Playlist: The ATCO Singles",
         "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 174706,
       "name": "I'm About Loving You",
       "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Boss Man",
+        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2148,9 +2148,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2244,9 +2244,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Give Me a Reason",
-        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
-      },
-      "artists": [
-        {
-          "name": "The Tibbs",
-          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
-        }
-      ],
-      "duration_ms": 178966,
-      "name": "Give Me a Reason",
-      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
         "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 254040,
       "name": "Kissing My Love",
       "url": "https://open.spotify.com/track/7fljysjck4bLIJrJihDngN"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Give Me a Reason",
+        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2727,6 +2727,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "How Does It Feel (Radio Edit)",
+        "url": "https://open.spotify.com/album/4Rv4wL7wVch0BVcy3oYFio"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "How Does It Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/1Xr1t0vvUdBZeUIuBFVicO"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -2859,22 +2875,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "How Does It Feel (Radio Edit)",
-        "url": "https://open.spotify.com/album/4Rv4wL7wVch0BVcy3oYFio"
-      },
-      "artists": [
-        {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "How Does It Feel - Radio Edit",
-      "url": "https://open.spotify.com/track/1Xr1t0vvUdBZeUIuBFVicO"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Signed Sealed And Delivered",
         "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
       },
@@ -2887,6 +2887,22 @@
       "duration_ms": 200440,
       "name": "We Can Work It Out",
       "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Satellite Love",
+        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Forgive My Soul",
+      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2987,22 +3003,6 @@
       "duration_ms": 183440,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/2RE8rBl5QfF1NA5aLc3dvA"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Satellite Love",
-        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
-      },
-      "artists": [
-        {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Forgive My Soul",
-      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
     },
     {
       "added_at": "2024-07-08 07:31:01",

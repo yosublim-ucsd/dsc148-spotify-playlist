@@ -59,6 +59,32 @@
     },
     {
       "album": {
+        "name": "360 featuring robyn and yung lean",
+        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129761,
+      "name": "360 featuring robyn and yung lean",
+      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
+    },
+    {
+      "album": {
         "name": "Adi\u00f3s (feat. Juuna Chill)",
         "url": "https://open.spotify.com/album/2PAyYsAVyhllixYkVH1SUQ"
       },
@@ -820,6 +846,28 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "album": {
+        "name": "Doblexx\u00f3",
+        "url": "https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
     },
     {
       "album": {
@@ -1806,7 +1854,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 201333,
       "name": "Juostaan (feat. Sexmane)",
       "url": "https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO"
@@ -3652,32 +3700,6 @@
       "duration_ms": 196363,
       "name": "Tears For Fun",
       "url": "https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru"
-    },
-    {
-      "album": {
-        "name": "The 360 remix with robyn and yung lean",
-        "url": "https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "date_added": "2024-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129761,
-      "name": "The 360 remix with robyn and yung lean",
-      "url": "https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS"
     },
     {
       "album": {

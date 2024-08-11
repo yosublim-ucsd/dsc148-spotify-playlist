@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Lee Yerin\(이예린\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Jeong Gayi\(정가이\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-516 songs - 1 day 6 hr 43 min
+518 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
-| [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 |  |
+| [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 | 2024-08-11 |
 | [Did you miss me? \(feat\. 임철\)](https://open.spotify.com/track/22rbXKRME0ASiBHcH8OBPu) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH), [임철](https://open.spotify.com/artist/3RabhGGr0SjsaDgcrrF7EW) | [Replay](https://open.spotify.com/album/4APXVX9x7dCCrzLvQYO6tP) | 3:41 | 2023-06-14 | 2023-07-02 |
 | [Diving](https://open.spotify.com/track/49QAAi1tZEROASlvApjnrn) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Forty](https://open.spotify.com/album/13JzvhyivpmgMUlmySRjvH) | 3:17 | 2024-03-15 | 2024-03-29 |
 | [dog\-ear serenade](https://open.spotify.com/track/67Ik5JjDPh8woWj712RxEk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [serenade](https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby) | 4:35 | 2024-05-24 | 2024-06-20 |
@@ -265,7 +265,7 @@
 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2023-01-25 | 2023-02-25 |
 | [My Best, My Love 고생많았어](https://open.spotify.com/track/0IqHoofEMMDF8PNGa4cBXZ) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [HIDDEN TRACK NO.V Vol.1](https://open.spotify.com/album/06p1MyiQ9pmdEFOTlglNBA) | 4:09 | 2022-03-31 | 2022-04-20 |
 | [My darling](https://open.spotify.com/track/6dN3zl2CPLQtyZpRcLemy5) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [My darling](https://open.spotify.com/album/2SwPIGMwdkzE4DkCmcNfFr) | 3:20 | 2022-01-13 | 2022-04-14 |
-| [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 | 2021-12-10 |  |
+| [My Day](https://open.spotify.com/track/6tRGDcL8puwtHHPhac0uoq) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Navillera \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e) | 3:06 | 2021-12-10 | 2024-08-11 |
 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [J.UNA](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 | 2022-07-04 | 2022-09-26 |
 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 | 2024-05-09 |  |
 | [My Dearest](https://open.spotify.com/track/5wypJbC2SO46N03RaEhy3w) | [DRAWMODE](https://open.spotify.com/artist/5GyIzYxwroBU1oR2y7cdDB) | [My Dearest](https://open.spotify.com/album/7vmIcDy2nEGulK63hHo3HY) | 3:21 | 2023-01-19 | 2023-02-07 |
@@ -333,6 +333,7 @@
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2023-10-08 |
 | [Room for You \(Feat\. 10CM\)](https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Blank](https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk) | 3:46 | 2022-08-12 | 2022-08-19 |
+| [Rosy](https://open.spotify.com/track/5HRZc7kGDmKvu2x5OhcRG6) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [Rosy](https://open.spotify.com/album/2xS4080eyHIBBvJ0W31osc) | 3:18 | 2024-08-10 |  |
 | [Running \- Acoustic](https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [START\-UP \(Acoustic\)](https://open.spotify.com/album/6DaW5wC8oRPAuCSy4A4ggk) | 3:14 | 2021-12-10 | 2022-07-08 |
 | [salt](https://open.spotify.com/track/7uPCZiAnILMxx8F402dmne) | [YOUNG IN](https://open.spotify.com/artist/4oul845EBgCRnFKfMTZLOl) | [salt](https://open.spotify.com/album/0fLVOF1PoCGnV5s6qNlU85) | 3:08 | 2023-01-25 | 2023-02-25 |
 | [Sapiens](https://open.spotify.com/track/0FsbtDdRJI7QjRPmqthg3r) | [Lucid Fall](https://open.spotify.com/artist/4uKVLCvDKjjNM58cXtKitT) | [Voice beside Guitar](https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4) | 3:34 | 2022-11-20 | 2022-11-25 |
@@ -435,6 +436,7 @@
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-04-12 | 2022-04-21 |
 | [twenty\-one fifteen](https://open.spotify.com/track/2u1UBXv3k8tOo5Pn4NuhfJ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:06 | 2022-05-03 | 2022-05-12 |
 | [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 | 2024-02-21 |
+| [Umbrella](https://open.spotify.com/track/0o18OyyGIciA1QbaSWiMm0) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Fractal](https://open.spotify.com/album/7nRBNnnHayboasRapn3I91) | 2:56 | 2024-08-10 |  |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 |  |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 |  |

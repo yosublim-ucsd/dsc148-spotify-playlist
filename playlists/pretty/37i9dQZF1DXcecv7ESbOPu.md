@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,247 likes - 116 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,254 likes - 116 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 |
 | 105 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 |
 | 106 | [Lost & Found](https://open.spotify.com/track/7kcftNo9hCnHUVUo86PY8B) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Telquist](https://open.spotify.com/artist/1P7bWg37j6b4baXFeNNzrE) | [Lost & Found](https://open.spotify.com/album/7y4Bl3QfbiuDJdd8GbsWV9) | 3:22 |
-| 107 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \(English Version\)](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
+| 107 | [Marameo \- English Version](https://open.spotify.com/track/4kktNWDPRE412w7wIwNj8f) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Marameo \- English Version](https://open.spotify.com/album/5HIMzgLXrf08ltssYKMvul) | 2:28 |
 | 108 | [The Way](https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU) | [The Boppers](https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql) | [The Way](https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM) | 3:58 |
 | 109 | [Run It Up \(feat\. BossMan Dlow\)](https://open.spotify.com/track/1bpHOhTahBPeL08SVrxvjc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Run It Up \(feat\. BossMan Dlow\)](https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2) | 3:11 |
 | 110 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 |

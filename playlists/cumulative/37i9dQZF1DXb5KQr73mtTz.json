@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Don't Leave Me Alone",
+        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
+      },
+      "artists": [
+        {
+          "name": "RYU JIHYUN",
+          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207760,
+      "name": "Don\u2019t Leave Me Alone",
+      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
+    },
+    {
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 207666,
       "name": "Dumb (Feat. Kim Seungmin, Chan)",
       "url": "https://open.spotify.com/track/7ikmONRRDAN8Qi6C0B2qSp"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 216830,
       "name": "Let`s never meet again",
       "url": "https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 219413,
       "name": "LONER",
       "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 316506,
       "name": "My sea",
       "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
@@ -4048,7 +4066,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 225171,
       "name": "This Love",
       "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 186114,
       "name": "Unreachable (Feat. Milena)",
       "url": "https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
@@ -4214,7 +4232,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 176111,
       "name": "Why Would I",
       "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 87942,
       "name": "\uc5f0 \ub9d0",
       "url": "https://open.spotify.com/track/5wePQ8qFuBt436u2L8vNbF"
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 267146,
       "name": "\uc751\uae09\uc2e4",
       "url": "https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m"

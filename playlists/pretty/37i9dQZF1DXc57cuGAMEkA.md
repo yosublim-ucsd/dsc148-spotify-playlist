@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。米津玄師, Mrs\. GREEN APPLE, The Kid LAROI, The Killers and more! cover: 米津玄師
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,010 likes - 91 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,026 likes - 91 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

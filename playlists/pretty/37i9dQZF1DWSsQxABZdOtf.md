@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,588 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,596 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 6 | [HIGH GRADE!](https://open.spotify.com/track/47pwQ1JvatY0uVKjV7nYbI) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [HIGH GRADE!](https://open.spotify.com/album/5ybpytJxt8JQagmDgNq2nt) | 1:27 |
 | 7 | [CHANEL](https://open.spotify.com/track/6BYjJobgPPKpO61Ry4HyQp) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:48 |
 | 8 | [BET YOU NEVER](https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [BET YOU NEVER](https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y) | 3:51 |
-| 9 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
+| 9 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 10 | [TAKA \- Caribou Remix](https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [TAKA \(Caribou Remix\)](https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5) | 3:57 |
 | 11 | [Time To](https://open.spotify.com/track/7rpO2j8wtIsB9UM8okvoAh) | [Bamao Yendé](https://open.spotify.com/artist/0nL6DyhvhTN6caBD4uSOi3) | [Dios Mio](https://open.spotify.com/album/2pPej78IY0aF0OKWDjq9ez) | 4:12 |
 | 12 | [@t The Club](https://open.spotify.com/track/0avlLX3KhhIDAhKW5g1mbc) | [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [@t The Club](https://open.spotify.com/album/6MZ46QBQ6mct458tFWHGE0) | 3:08 |

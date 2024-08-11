@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1319634,
+  "num_followers": 1320082,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
+        "name": "Trip to Valhalla",
+        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Trip to Valhalla",
+      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
         "name": "Free (feat. Starsplash)",
         "url": "https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "Trip to Valhalla",
-        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 232950,
-      "name": "Trip to Valhalla",
-      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "DAS IST KEIN TECHNO",
-        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "DAS IST KEIN TECHNO",
-      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Can Can",
         "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 128812,
       "name": "Can Can",
       "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "DAS IST KEIN TECHNO",
+        "url": "https://open.spotify.com/album/5a1KFvAwgyQuVQXlZoJR8m"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        }
+      ],
+      "duration_ms": 165003,
+      "name": "DAS IST KEIN TECHNO",
+      "url": "https://open.spotify.com/track/3wm8Rei9gYJRGKfWVCAB2x"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
-      },
-      "artists": [
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
-        },
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 187794,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "2 Be High",
         "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 128250,
       "name": "Japan",
       "url": "https://open.spotify.com/track/0B96WBW2UjHxmxuDGd7hUA"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/5GSLv4dJrExZmK9tvAaeXf"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        },
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 187794,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1EbRl91ytoWtnOoLO7Z91p"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1919,30 +1919,26 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
-        "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
+        "name": "Oh Fortuna",
+        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
       },
       "artists": [
         {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
         },
         {
-          "name": "MC Livid",
-          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
-        },
-        {
-          "name": "Mark Vayne",
-          "url": "https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F"
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
         }
       ],
-      "duration_ms": 238875,
-      "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
-      "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
+      "duration_ms": 170117,
+      "name": "Oh Fortuna - Carmina Burana",
+      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -1967,26 +1963,30 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Oh Fortuna",
-        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+        "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+        "url": "https://open.spotify.com/album/2KsPJDWa8KnaFlkQu4wnEN"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
         },
         {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
         },
         {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+          "name": "MC Livid",
+          "url": "https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe"
+        },
+        {
+          "name": "Mark Vayne",
+          "url": "https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F"
         }
       ],
-      "duration_ms": 170117,
-      "name": "Oh Fortuna - Carmina Burana",
-      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+      "duration_ms": 238875,
+      "name": "DISCOVER THE MAYHEM (Official REBiRTH Festival 2024 Anthem)",
+      "url": "https://open.spotify.com/track/1Wv5JiJLCJL8xZ5PNH1IEB"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
         "name": "Apologize",
         "url": "https://open.spotify.com/album/2BIcvpImPWZgqa2mi791Ti"
       },
@@ -2263,22 +2247,34 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Timmy Trumpet's SINPHONY No. 2",
-        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Frontliner",
-          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Addicted To Rave",
-      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Do Whatcha Say",
+        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+      },
+      "artists": [
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "duration_ms": 164300,
+      "name": "Do Whatcha Say",
+      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2303,18 +2299,22 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Do Whatcha Say",
-        "url": "https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq"
+        "name": "Timmy Trumpet's SINPHONY No. 2",
+        "url": "https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm"
       },
       "artists": [
         {
-          "name": "Mark With a K",
-          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
         }
       ],
-      "duration_ms": 164300,
-      "name": "Do Whatcha Say",
-      "url": "https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR"
+      "duration_ms": 169000,
+      "name": "Addicted To Rave",
+      "url": "https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2559,22 +2559,18 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Feel The Rhythm",
-        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
       },
       "artists": [
         {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 201483,
-      "name": "Feel The Rhythm",
-      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2599,34 +2595,22 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+        "name": "Feel The Rhythm",
+        "url": "https://open.spotify.com/album/1iSToSJOSSNjSCuDEEg76H"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "Sandstorm",
-        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
-      },
-      "artists": [
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        },
         {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+          "name": "Firelite",
+          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
         }
       ],
-      "duration_ms": 188774,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
+      "duration_ms": 201483,
+      "name": "Feel The Rhythm",
+      "url": "https://open.spotify.com/track/57lWgVfNM9AMcYRaGbq96T"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2699,38 +2683,18 @@
     {
       "added_at": "2024-08-02 06:47:07",
       "album": {
-        "name": "Ode To My Body",
-        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a"
       },
       "artists": [
         {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        },
-        {
-          "name": "Nathalie Blue",
-          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Ode To My Body",
-      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
-    },
-    {
-      "added_at": "2024-08-02 06:47:07",
-      "album": {
-        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
-        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 235348,
-      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
-      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
+      "duration_ms": 188774,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
     },
     {
       "added_at": "2024-08-02 06:47:07",
@@ -2751,6 +2715,42 @@
       "duration_ms": 234021,
       "name": "Fiyaaah!",
       "url": "https://open.spotify.com/track/1gWAtvmMbhH6WPLes1swNh"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 235348,
+      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
+      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
+    },
+    {
+      "added_at": "2024-08-02 06:47:07",
+      "album": {
+        "name": "Ode To My Body",
+        "url": "https://open.spotify.com/album/3gaZDgOzdovrklfNvelPn7"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Ode To My Body",
+      "url": "https://open.spotify.com/track/2UtT0Vbj38TUz5rYHy5fQE"
     },
     {
       "added_at": "2024-08-02 06:47:07",

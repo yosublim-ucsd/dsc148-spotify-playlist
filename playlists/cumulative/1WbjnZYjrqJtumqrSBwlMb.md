@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-982 songs - 2 day 12 hr 18 min
+983 songs - 2 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Eat That Up, It's Good For You](https://open.spotify.com/track/0DJiuelj6PgdXzB8Ifl4De) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History \(Deluxe Edition\)](https://open.spotify.com/album/6XFQE0ZYhEwk2hgh0jHgAV) | 3:43 | 2022-08-21 |  |
 | [Edge of Reality \(Tame Impala Remix\)](https://open.spotify.com/track/5bqd5nA80kuFDtrNcaXly9) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 2:42 | 2022-08-04 |  |
 | [Ego Death](https://open.spotify.com/track/58dU5XM0pgFcksg8xRO1ol) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Voice Memos](https://open.spotify.com/album/3RB5ET1MaWKP7LQuYGzaZR) | 3:54 | 2022-05-18 |  |
+| [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 | 2024-08-10 |  |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2019-12-30 |  |
 | [Emotional Eternal](https://open.spotify.com/track/6d1M1R1EcM07juyUwDuAMi) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Emotional Eternal](https://open.spotify.com/album/0GXQpIFaT0uAi4y59t4nKg) | 3:46 | 2022-12-22 |  |
 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 | 2022-09-17 |  |

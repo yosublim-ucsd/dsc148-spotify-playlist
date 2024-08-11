@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 59463,
+  "num_followers": 59479,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+        "name": "Correria",
+        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Sarah Soul",
+          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
+        },
+        {
+          "name": "Carol Terra",
+          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
         }
       ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+      "duration_ms": 146769,
+      "name": "Noite em Febre",
+      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
     },
     {
       "added_at": "2024-07-26 03:01:00",
@@ -623,22 +627,18 @@
     {
       "added_at": "2024-07-26 03:01:00",
       "album": {
-        "name": "Correria",
-        "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
       "artists": [
         {
-          "name": "Sarah Soul",
-          "url": "https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv"
-        },
-        {
-          "name": "Carol Terra",
-          "url": "https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp"
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Noite em Febre",
-      "url": "https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ"
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
     },
     {
       "added_at": "2024-07-26 03:01:00",

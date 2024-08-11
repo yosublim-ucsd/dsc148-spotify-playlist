@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 222727,
       "name": "Our little island",
       "url": "https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z"
@@ -2008,6 +2008,24 @@
       "duration_ms": 187500,
       "name": "Quince Tree",
       "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
+    },
+    {
+      "album": {
+        "name": "Ride out a storm",
+        "url": "https://open.spotify.com/album/0yedFecGqUyvUQrO1MsO4s"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "Ride out a storm",
+      "url": "https://open.spotify.com/track/2sJvM5HVO1T2u2eq04dWgF"
     },
     {
       "album": {
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 206573,
       "name": "Smile Box",
       "url": "https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW"
@@ -2626,6 +2644,24 @@
       "duration_ms": 196386,
       "name": "The Film",
       "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
+    },
+    {
+      "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "They say, that is the love",
+      "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
     },
     {
       "album": {

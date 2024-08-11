@@ -2,7 +2,7 @@
 
 ### [This Is Judas Priest](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q6zh6)
 
-> This is Judas Priest\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Judas Priest\. The essential tracks, all in one playlist.
 
 87 songs - 6 hr 21 min
 

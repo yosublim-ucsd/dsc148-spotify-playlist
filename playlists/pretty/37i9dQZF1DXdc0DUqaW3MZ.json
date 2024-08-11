@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 346915,
+  "num_followers": 346966,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -367,7 +367,7 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Daydreaming (Sgt Slick Remix)",
+        "name": "Daydreaming - Sgt Slick Remix",
         "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
       },
       "artists": [
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Ego Slide",
-        "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Ego Slide",
-      "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Ego Slide",
+        "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ego Slide",
+      "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "Deafened (feat. Family Habits)",
+        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Family Habits",
+          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Deafened (feat. Family Habits)",
+      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
@@ -827,22 +847,18 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Deafened (feat. Family Habits)",
-        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
+        "name": "Walked In The Room",
+        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Family Habits",
-          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Deafened (feat. Family Habits)",
-      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+      "duration_ms": 198306,
+      "name": "Walked In The Room",
+      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -867,22 +883,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "Walked In The Room",
-        "url": "https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Walked In The Room",
-      "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
-      },
-      "artists": [
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Shaken To My Soul (feat. Ruti)",
         "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Ma Jo Lo",
         "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Things You Didn't Know",
-        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Things You Didn't Know",
-      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "U Lyk My Style",
         "url": "https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 172500,
       "name": "U Lyk My Style",
       "url": "https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Things You Didn't Know",
+        "url": "https://open.spotify.com/album/2HTyQBoeBAs3PirTkspsUh"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Things You Didn't Know",
+      "url": "https://open.spotify.com/track/7HD9y0OUwitJUbZubKNX1k"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Click Bait",
         "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "SOLID (Adam Swim Remix)",
         "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 311578,
       "name": "SOLID - Adam Swim Remix",
       "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1379,26 +1379,18 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Let Me Know (The Cypher)",
-        "url": "https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0"
+        "name": "Da Bump",
+        "url": "https://open.spotify.com/album/6KvcL7bYlbKre0ywXkiw7y"
       },
       "artists": [
         {
-          "name": "Kadeem Tyrell",
-          "url": "https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh"
-        },
-        {
-          "name": "Shae Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        },
-        {
-          "name": "Geovarn",
-          "url": "https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk"
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
         }
       ],
-      "duration_ms": 241475,
-      "name": "Let Me Know - The Cypher",
-      "url": "https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j"
+      "duration_ms": 205679,
+      "name": "Da Bump",
+      "url": "https://open.spotify.com/track/53uo8HtqXUDJdeZ4Vd5PsE"
     }
   ],
   "unique_name": "Soultronic",

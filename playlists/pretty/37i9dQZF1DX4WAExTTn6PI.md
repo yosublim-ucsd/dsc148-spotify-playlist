@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Cassandra Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,256 likes - 101 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,270 likes - 101 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

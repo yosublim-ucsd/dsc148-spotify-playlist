@@ -1,12 +1,12 @@
 {
   "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
-  "num_followers": 8996,
+  "num_followers": 9002,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAA81qcWNIxp/2Y3SUOf2fb/",
+  "snapshot_id": "ZrVcAAAAAADrtDgMwGmXQKd+UWzRjMAL",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,38 @@
       "duration_ms": 352423,
       "name": "Palladio Reimagined: 2. Largo",
       "url": "https://open.spotify.com/track/2nKVNgpcvRCawtxiAq2Kb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stravaganza",
+        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Zands Duggan",
+          "url": "https://open.spotify.com/artist/7GLnMJ1o1ae8HVjwYqpqqb"
+        },
+        {
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/2OCsnuIVNquZXJFgRPqAiv"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Stravaganza: 4. Flight \u2026 of fancy",
+      "url": "https://open.spotify.com/track/7INwPED9WGKEuLIXZqtdS8"
     },
     {
       "added_at": null,
@@ -419,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus IV - The Eternal Knot",
-        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
       },
       "artists": [
         {
@@ -432,37 +464,17 @@
           "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
         },
         {
-          "name": "Adiemus Orchestra",
-          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
         },
         {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
-        },
-        {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
-        },
-        {
-          "name": "Caryl Ebenezer",
-          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
-        },
-        {
-          "name": "Pamela Thorby",
-          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        },
-        {
-          "name": "Davy Spillane",
-          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
         }
       ],
-      "duration_ms": 105706,
-      "name": "Hermit Of The Sea Rock",
-      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
+      "duration_ms": 272426,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
     },
     {
       "added_at": null,
@@ -527,6 +539,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adiemus IV - The Eternal Knot",
+        "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Adiemus Orchestra",
+          "url": "https://open.spotify.com/artist/6BTVcb228WGbBFjPOihsiM"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Caryl Ebenezer",
+          "url": "https://open.spotify.com/artist/6P8ZedIptIzbutcTXov2oM"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        },
+        {
+          "name": "Davy Spillane",
+          "url": "https://open.spotify.com/artist/4BEaTskgF4brSLE7FPvfDx"
+        }
+      ],
+      "duration_ms": 105706,
+      "name": "Hermit Of The Sea Rock",
+      "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiemus III - Dances Of Time",
         "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
       },
@@ -548,33 +608,9 @@
           "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
         }
       ],
-      "duration_ms": 272426,
-      "name": "Rain Dance",
-      "url": "https://open.spotify.com/track/5IztdN9OdOroPGNH73RVT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphonic Adiemus",
-        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Peter Pejtsik",
-          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
-        },
-        {
-          "name": "Adiemus Symphony Orchestra Of Europe",
-          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Chorale: Elegia",
-      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
+      "duration_ms": 279066,
+      "name": "Zarabanda (Saraband)",
+      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
     },
     {
       "added_at": null,
@@ -623,6 +659,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symphonic Adiemus",
+        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Peter Pejtsik",
+          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
+        },
+        {
+          "name": "Adiemus Symphony Orchestra Of Europe",
+          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Chorale: Elegia",
+      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jenkins: The Armed Man: A Mass for Peace: Benedictus",
         "url": "https://open.spotify.com/album/0rfsrteDWx9YiNBIGzhpJd"
       },
@@ -655,34 +715,6 @@
       "duration_ms": 280000,
       "name": "The Armed Man: A Mass for Peace: Benedictus",
       "url": "https://open.spotify.com/track/2BpsJWceOCEl69IxyIzhIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Zarabanda (Saraband)",
-      "url": "https://open.spotify.com/track/2SEHhHjRmbaNIbNccvoUeR"
     },
     {
       "added_at": null,
@@ -939,6 +971,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stravaganza: 2. Dreams & Drones",
+        "url": "https://open.spotify.com/album/0L2XraOpqZu9Le9RLUyRbM"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "duration_ms": 340360,
+      "name": "Stravaganza: 2. Dreams & Drones",
+      "url": "https://open.spotify.com/track/2hVkfl9L8QkvyU90dGuGfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Peacemakers",
         "url": "https://open.spotify.com/album/3VeF83HSONBqXVcPh47sHA"
       },
@@ -975,30 +1031,6 @@
       "duration_ms": 321026,
       "name": "The Peacemakers: VI. Healing Light: A Celtic Prayer",
       "url": "https://open.spotify.com/track/2TdrRMgEeGDrP7H8EnSWfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stravaganza: 2. Dreams & Drones",
-        "url": "https://open.spotify.com/album/0L2XraOpqZu9Le9RLUyRbM"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        }
-      ],
-      "duration_ms": 340360,
-      "name": "Stravaganza: 2. Dreams & Drones",
-      "url": "https://open.spotify.com/track/2hVkfl9L8QkvyU90dGuGfa"
     },
     {
       "added_at": null,

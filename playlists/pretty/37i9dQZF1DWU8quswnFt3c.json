@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: DOROFEEVA.",
-  "num_followers": 953033,
+  "num_followers": 953605,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -243,7 +243,7 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "The girl, so confusing version with lorde",
+        "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
       },
       "artists": [
@@ -257,7 +257,7 @@
         }
       ],
       "duration_ms": 205938,
-      "name": "The girl, so confusing version with lorde",
+      "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
         "name": "Finding You",
         "url": "https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 191000,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Silence Is Loud",
-        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 172389,
-      "name": "Crowded Roomz",
-      "url": "https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/7LtN6cHZCPLkA3IPGx0p9Z"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181927,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/0JmPjf44OKneEFD8Xnfogq"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "Silence Is Loud",
+        "url": "https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 172389,
+      "name": "Crowded Roomz",
+      "url": "https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ"
     },
     {
       "added_at": "2024-08-07 04:00:00",

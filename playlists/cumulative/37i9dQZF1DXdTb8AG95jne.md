@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-756 songs - 1 day 22 hr 13 min
+757 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,7 +687,7 @@
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-31 | 2022-04-03 |
 | [We Shine at Night](https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5) | 6:27 | 2023-01-25 | 2023-02-15 |
 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/0O3bqvyOzebItVBHaWdFxB) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 | 2022-06-13 | 2024-06-13 |
-| [we'll we'll we'll](https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [OUR Ocean](https://open.spotify.com/album/2zWRj9NgN35Im7JHxG3tGR) | 2:38 | 2024-08-05 |  |
+| [we'll we'll we'll](https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [OUR Ocean](https://open.spotify.com/album/2zWRj9NgN35Im7JHxG3tGR) | 2:38 | 2024-08-05 | 2024-08-11 |
 | [Wedding diary 신혼일기](https://open.spotify.com/track/0mT5mNsNgqlOovlJRE4I4F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Wedding diary 신혼일기](https://open.spotify.com/album/54g9wr8FNNiOCSgtQMqwnZ) | 3:23 | 2022-03-31 | 2022-04-18 |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-18 | 2022-04-16 |
 | [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-04-12 | 2024-05-01 |
@@ -754,6 +754,7 @@
 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 |  |
 | [방랑자](https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [방랑자](https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX) | 3:20 | 2023-09-15 | 2024-05-10 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
+| [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-10 |  |
 | [사랑해 줘](https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [사랑해 줘](https://open.spotify.com/album/4bFd58vyDLdhNYLK5lJb5D) | 3:37 | 2023-01-10 | 2023-01-26 |
 | [슬퍼하지마 Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [슬퍼하지마 Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2024-01-15 | 2024-03-02 |
 | [실크 셔츠](https://open.spotify.com/track/16VP50D6es9JbzcCsEaHUm) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [실크 셔츠](https://open.spotify.com/album/3xa31ssGj9fokLcxaEAtNX) | 4:54 | 2024-04-30 | 2024-05-09 |

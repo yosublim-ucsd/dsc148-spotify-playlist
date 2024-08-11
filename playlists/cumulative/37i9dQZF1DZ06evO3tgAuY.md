@@ -2,7 +2,7 @@
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This Is Alex Favela\. Los temas esenciales, todos en una lista.
+> This is Alex Favela\. Track\-track unggulan, semuanya dalam satu playlist.
 
 51 songs - 2 hr 21 min
 

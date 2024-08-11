@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-179 songs - 10 hr 29 min
+180 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 | 2024-02-16 |  |
 | [One Thing](https://open.spotify.com/track/3wwGGBZr7zYNWD0uh6cF4I) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [One Thing](https://open.spotify.com/album/2SRTAXGiuC5rWYGibpnkLd) | 2:27 | 2023-10-06 |  |
 | [One To Leave](https://open.spotify.com/track/5TStZRNSWIbAfqkXJkTFi6) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [One To Leave](https://open.spotify.com/album/0RdeYywSOaDSF6OsiiWBDY) | 2:34 | 2024-07-12 |  |
+| [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 | 2024-08-02 |  |
 | [Play](https://open.spotify.com/track/2yscq5BPVUjmQgIXr7fqZx) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Play](https://open.spotify.com/album/5YEMhgJxSgvHmP7vaE9t1o) | 5:08 | 2022-11-25 | 2023-01-25 |
 | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/track/2xoeyiHgdFQtALq4bjwscy) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Poolside \(feat\. Katy Alex\)](https://open.spotify.com/album/5We5TEZ4yRugprf8QqcfmW) | 2:56 | 2022-11-25 | 2024-06-28 |
 | [Pressure](https://open.spotify.com/track/15UU4ZRs2H51EerpEoGhZ7) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Pressure](https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU) | 2:37 | 2024-03-22 | 2024-06-01 |
@@ -170,7 +171,7 @@
 | [The Way Things Were \- Joe Hertz Remix](https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [The Way Things Were \(Joe Hertz Remix\)](https://open.spotify.com/album/5DLG0cVM3E83yWDsGFkzmf) | 3:20 | 2024-02-23 |  |
 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 | 2022-11-25 |  |
 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 | 2023-10-20 |  |
-| [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-06-08 |  |
+| [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 | 2023-06-08 | 2024-08-11 |
 | [This Time of Morning \- Mikey B Remix](https://open.spotify.com/track/2ZHeK3mdGj6IirKolEQ50z) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [This Time of Morning \(Mikey B Remix\) \(feat\. Local\)](https://open.spotify.com/album/4XYjOIWcFXIPmvCBpNASXD) | 3:40 | 2022-11-25 | 2024-01-04 |
 | [Top Bins](https://open.spotify.com/track/0VWVhmYPwdFRce984U8VVv) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Top Bins](https://open.spotify.com/album/3KB35teeyZFnY8sEFUlwY5) | 1:59 | 2024-06-28 |  |
 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 | 2024-03-01 |  |

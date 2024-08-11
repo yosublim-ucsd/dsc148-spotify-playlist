@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 278354,
+  "num_followers": 278370,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABMQHbkjEzZ2pdZj022YEJT",
+  "snapshot_id": "ZrVcAAAAAABFAdoiyok97CI3J9N8z9h9",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUBA Remix",
-        "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
       "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        },
-        {
-          "name": "Marley no Beat",
-          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 162700,
-      "name": "CUBA Remix",
-      "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
+      "duration_ms": 155654,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
     },
     {
       "added_at": null,
@@ -143,18 +135,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
+        "name": "CUBA Remix",
+        "url": "https://open.spotify.com/album/6sJgvH0e4Y0BBQmSdixOtY"
       },
       "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        },
+        {
+          "name": "Marley no Beat",
+          "url": "https://open.spotify.com/artist/1LYVhCzrcczttykOd4ukkH"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 155654,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
+      "duration_ms": 162700,
+      "name": "CUBA Remix",
+      "url": "https://open.spotify.com/track/0a3IsWmHYDYXCqIsCVx4TF"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH"
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2T87baR51cs7KbpppR7I1M"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 183713,
-      "name": "Ai Ai Ai Mega Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2T87baR51cs7KbpppR7I1M"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH"
     },
     {
       "added_at": null,

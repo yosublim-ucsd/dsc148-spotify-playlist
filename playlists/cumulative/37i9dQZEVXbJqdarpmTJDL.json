@@ -2165,6 +2165,28 @@
     },
     {
       "album": {
+        "name": "Alli Mia Fora",
+        "url": "https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203557,
+      "name": "Alli Mia Fora",
+      "url": "https://open.spotify.com/track/12zzuRnz63FyuBtgTP464y"
+    },
+    {
+      "album": {
         "name": "Dope Sport (Vol. 2)",
         "url": "https://open.spotify.com/album/73s3tfrxtsG4VoS2d0qDO1"
       },
@@ -9220,7 +9242,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 155185,
       "name": "DYSKOLA",
       "url": "https://open.spotify.com/track/1Dun90OyVqpId8DTYivlCz"
@@ -9480,7 +9502,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 142439,
       "name": "EGW KAI ESU",
       "url": "https://open.spotify.com/track/1FEebAg4bMVFMxOOtJ7RSX"
@@ -9564,7 +9586,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 220741,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf"
@@ -14104,7 +14126,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 153449,
       "name": "HABIBI",
       "url": "https://open.spotify.com/track/0YXYyaO1htrSUjdL79yp9n"
@@ -21548,7 +21570,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 192515,
       "name": "Messy",
       "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
@@ -26086,7 +26108,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 171538,
       "name": "Panselinos",
       "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
@@ -31088,6 +31110,28 @@
       "duration_ms": 228000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/25EQ2K52izRy1WkMFbym2Z"
+    },
+    {
+      "album": {
+        "name": "XRISOS - SORRY GIAUTO",
+        "url": "https://open.spotify.com/album/0foZqVON24z4DuAplzYG6w"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "X ORFEAS",
+          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138806,
+      "name": "SORRY GIAUTO",
+      "url": "https://open.spotify.com/track/6YmEYabZiREAuzLqBUix4L"
     },
     {
       "album": {
@@ -36892,10 +36936,32 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"
+    },
+    {
+      "album": {
+        "name": "XRISOS - SORRY GIAUTO",
+        "url": "https://open.spotify.com/album/0foZqVON24z4DuAplzYG6w"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "X ORFEAS",
+          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96243,
+      "name": "XRISOS",
+      "url": "https://open.spotify.com/track/4bnx03kz0ZUQ8wKIHj1M3f"
     },
     {
       "album": {

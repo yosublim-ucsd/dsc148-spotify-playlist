@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,791 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,083 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 46 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |
 | 47 | [Somebody That I Used To Know](https://open.spotify.com/track/5fmqHkDeezD3eFxU52kVyF) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Deepierro](https://open.spotify.com/artist/6RjLqpWiji9AdDMVNm6QrX) | [Somebody That I Used To Know](https://open.spotify.com/album/0LhH26IhizANNyTbJCu1rl) | 2:36 |
 | 48 | [Again](https://open.spotify.com/track/01TV5z8ij5Lipu7dB6BaQq) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/2IPrSr4rOtsy6c4AaRjfbl) | 6:03 |
-| 49 | [Lagana](https://open.spotify.com/track/0RjVoktGn4BWvCKcVpo95s) | [Amna](https://open.spotify.com/artist/1xrPCPIPZUekjoVY5lRrOe) | [Lagana](https://open.spotify.com/album/57YuixvjtMcokwykgU314v) | 2:14 |
-| 50 | [Napapiri](https://open.spotify.com/track/5oJtgSpYNcB13VJewlNVFn) | [Rasta](https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP), [PAVILLION](https://open.spotify.com/artist/30HssesKIHEbgYfPM7EaDg), [Jahve](https://open.spotify.com/artist/47mtdyaAChiDUTvyBu1Ocf) | [Napapiri](https://open.spotify.com/album/4ufzGdUJcrZea0Guy4KZtI) | 2:48 |
+| 49 | [Napapiri](https://open.spotify.com/track/5oJtgSpYNcB13VJewlNVFn) | [Rasta](https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP), [PAVILLION](https://open.spotify.com/artist/30HssesKIHEbgYfPM7EaDg), [Jahve](https://open.spotify.com/artist/47mtdyaAChiDUTvyBu1Ocf) | [Napapiri](https://open.spotify.com/album/4ufzGdUJcrZea0Guy4KZtI) | 2:48 |
+| 50 | [Lagana](https://open.spotify.com/track/0RjVoktGn4BWvCKcVpo95s) | [Amna](https://open.spotify.com/artist/1xrPCPIPZUekjoVY5lRrOe) | [Lagana](https://open.spotify.com/album/57YuixvjtMcokwykgU314v) | 2:14 |
 
 Snapshot ID: `ZqwFYAAAAADCFRrTsFlMs9AdFwA5pYhF`

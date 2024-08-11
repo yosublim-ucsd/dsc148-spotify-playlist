@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwPMCzMU9f.md) - [plain]
 
 > 💔 ahí voy de tonto recordando y nunca paro, siempre lo mismo, solito me daño 💔 Foto: Luis Alfonso, Jessi Uribe, Pipe Bueno, Ciro Quiñonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,158 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,198 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 257799,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN"
@@ -7407,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "Beyond [1. Black Shimmer]",
+        "url": "https://open.spotify.com/album/2YOQdB8NyCo2XBpM7WOnmP"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250748,
+      "name": "STAR CANDY",
+      "url": "https://open.spotify.com/track/1Vu7HH95mvpbtmnHe2Odql"
+    },
+    {
+      "album": {
         "name": "Starry Eyes",
         "url": "https://open.spotify.com/album/6KYvOpG0MkGWzyutrcqSpy"
       },
@@ -7472,7 +7490,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -8706,7 +8724,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"

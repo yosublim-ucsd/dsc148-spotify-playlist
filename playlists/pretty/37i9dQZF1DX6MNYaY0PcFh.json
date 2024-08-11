@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 79270,
+  "num_followers": 79281,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-08-02 10:57:39",
       "album": {
+        "name": "Without U",
+        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Without U - Radio Edit",
+      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
+    },
+    {
+      "added_at": "2024-08-02 10:57:39",
+      "album": {
         "name": "How It Is",
         "url": "https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o"
       },
@@ -1023,22 +1043,22 @@
     {
       "added_at": "2024-08-02 10:57:39",
       "album": {
-        "name": "Without U",
-        "url": "https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN"
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         },
         {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Without U - Radio Edit",
-      "url": "https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE"
+      "duration_ms": 215392,
+      "name": "U Could Be Mine",
+      "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"
     },
     {
       "added_at": "2024-08-02 10:57:39",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2024-08-02 10:57:39",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
-        }
-      ],
-      "duration_ms": 215392,
-      "name": "U Could Be Mine",
-      "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"
-    },
-    {
-      "added_at": "2024-08-02 10:57:39",
-      "album": {
         "name": "KEEP IT ROLLING",
         "url": "https://open.spotify.com/album/4MpX9eNo7VVmunEY3BB6SH"
       },
@@ -1107,26 +1107,22 @@
     {
       "added_at": "2024-08-02 10:57:39",
       "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
+        "name": "Party All Night",
+        "url": "https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP"
       },
       "artists": [
         {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
         },
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Jamie Hai",
+          "url": "https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
+      "duration_ms": 152888,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL"
     },
     {
       "added_at": "2024-08-02 10:57:39",

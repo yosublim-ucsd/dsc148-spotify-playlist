@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 228226,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
@@ -3095,6 +3095,28 @@
     },
     {
       "album": {
+        "name": "Q&A (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "Q&A (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
+    },
+    {
+      "album": {
         "name": "Rain Drop \uc8fc\ub974\ub975",
         "url": "https://open.spotify.com/album/0Cnt5CZL9rJoXVxjBXma0S"
       },
@@ -3410,6 +3432,32 @@
       "duration_ms": 182615,
       "name": "Skip again (With Jin Jun Wang)",
       "url": "https://open.spotify.com/track/7AvOQ2j6Q98ISq5YeIzRBq"
+    },
+    {
+      "album": {
+        "name": "Some",
+        "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        },
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211374,
+      "name": "Some (feat. Lil Boi)",
+      "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
       "album": {

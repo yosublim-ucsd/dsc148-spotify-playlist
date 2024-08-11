@@ -1,13 +1,69 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Aug 16:02 UTC.",
   "num_followers": 81,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKUNe48D6tGgbD4v1naZtwEBz/My1J",
+  "snapshot_id": "AAAKVm47pRo7TbLW4BnCmK8nUB+LntEo",
   "tracks": [
+    {
+      "added_at": "2024-08-10 10:02:52",
+      "album": {
+        "name": "Old Streets 2",
+        "url": "https://open.spotify.com/album/2KhsT6vL802qGz8SYugxL3"
+      },
+      "artists": [
+        {
+          "name": "2KBABY",
+          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Old Streets 2",
+      "url": "https://open.spotify.com/track/7L3g5ZNPS3UL1BZWFGLh9w"
+    },
+    {
+      "added_at": "2024-08-10 16:02:51",
+      "album": {
+        "name": "BAMBI",
+        "url": "https://open.spotify.com/album/7bknc9MTLDwX5DsYz411ia"
+      },
+      "artists": [
+        {
+          "name": "STOMACH BOOK",
+          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
+        },
+        {
+          "name": "zombAe",
+          "url": "https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D"
+        }
+      ],
+      "duration_ms": 185581,
+      "name": "BAMBI",
+      "url": "https://open.spotify.com/track/1BuCEYUiLcIEbG9PBeCtHi"
+    },
+    {
+      "added_at": "2024-08-10 04:03:30",
+      "album": {
+        "name": "Xandemic of 2017",
+        "url": "https://open.spotify.com/album/6q9l1P7GMQfexgVnFcwTTr"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Xandemic of 2017",
+      "url": "https://open.spotify.com/track/47BYIqoaWeNj9PRr0J5zRf"
+    },
     {
       "added_at": "2024-08-09 10:03:00",
       "album": {
@@ -147,6 +203,22 @@
       "duration_ms": 185553,
       "name": "Unpopular",
       "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
+    },
+    {
+      "added_at": "2024-08-10 04:03:30",
+      "album": {
+        "name": "Fendi Bucket",
+        "url": "https://open.spotify.com/album/38ncSH6mIjvPvBU21g8RB2"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 112340,
+      "name": "Fendi Bucket",
+      "url": "https://open.spotify.com/track/6qNDyiUi0Hhlr0ZParhOU4"
     },
     {
       "added_at": "2024-08-09 10:03:00",
@@ -597,6 +669,22 @@
       "url": "https://open.spotify.com/track/6lSfVtKtMnx9flxGnXivTY"
     },
     {
+      "added_at": "2024-08-10 10:02:52",
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/5fh8n7LNbYnl122kqx2wfx"
+      },
+      "artists": [
+        {
+          "name": "BOI WHAT",
+          "url": "https://open.spotify.com/artist/3abEoUbTl6Mghy9aLG3uiC"
+        }
+      ],
+      "duration_ms": 182474,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/7iSYyT5UOBsmDVcWGXrdT2"
+    },
+    {
       "added_at": "2024-08-09 04:04:53",
       "album": {
         "name": "\u0413\u041b\u0423\u0411\u0418\u041d\u0410",
@@ -643,6 +731,22 @@
       "duration_ms": 128690,
       "name": "Quaresma",
       "url": "https://open.spotify.com/track/1iALuscxa3nQzu9bYt2lVK"
+    },
+    {
+      "added_at": "2024-08-10 16:02:51",
+      "album": {
+        "name": "Phosphor / Micrology",
+        "url": "https://open.spotify.com/album/0O8MF8jaAcygttxNUmIQJQ"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 214241,
+      "name": "Phosphor",
+      "url": "https://open.spotify.com/track/5ULDLsvil3tKgp77NXcZVN"
     },
     {
       "added_at": "2024-08-09 10:03:00",
@@ -755,102 +859,6 @@
       "duration_ms": 300000,
       "name": "Untold",
       "url": "https://open.spotify.com/track/4a2GN04ljotwF4LVB7DFA8"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "People Need People",
-        "url": "https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6"
-      },
-      "artists": [
-        {
-          "name": "JOBA",
-          "url": "https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "People Need People",
-      "url": "https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/3252lcU4fMifaU9eKwHh5r"
-      },
-      "artists": [
-        {
-          "name": "Rill",
-          "url": "https://open.spotify.com/artist/2C9gfZqYe1UrhZP3ADjIm9"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6rT5cXeXeSLyRTDjzf3FkB"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "NRW",
-        "url": "https://open.spotify.com/album/75iLWdnRwaUWASQJrUszGk"
-      },
-      "artists": [
-        {
-          "name": "Boondawg",
-          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "NRW",
-      "url": "https://open.spotify.com/track/2q9C9FtYAahZLoXFEWEU2b"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Can't Sleep 25",
-        "url": "https://open.spotify.com/album/2YNb29pjjxvJQKYUdLyBCT"
-      },
-      "artists": [
-        {
-          "name": "Feo Night",
-          "url": "https://open.spotify.com/artist/4w4DiUDjrVnwUBMtey8L5U"
-        }
-      ],
-      "duration_ms": 139403,
-      "name": "Can't Sleep 25",
-      "url": "https://open.spotify.com/track/5aEx0f6zDCL4O9e7zuBakm"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "WESTE WEISS",
-        "url": "https://open.spotify.com/album/47p8Kis5vZ5Nt3PKcI9CmV"
-      },
-      "artists": [
-        {
-          "name": "TANO77",
-          "url": "https://open.spotify.com/artist/6Gp1AegbZ89bXSSkWUV0UA"
-        }
-      ],
-      "duration_ms": 145063,
-      "name": "WESTE WEISS",
-      "url": "https://open.spotify.com/track/5ES30yO770SMD6QSyPxIio"
-    },
-    {
-      "added_at": "2024-08-09 04:04:53",
-      "album": {
-        "name": "Ich bitte dich",
-        "url": "https://open.spotify.com/album/6JD7Lh1dUbKBYF7hi8tnxm"
-      },
-      "artists": [
-        {
-          "name": "Tommyn",
-          "url": "https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug"
-        }
-      ],
-      "duration_ms": 102788,
-      "name": "Ich bitte dich",
-      "url": "https://open.spotify.com/track/26PoPLMdZDk5Qv8CSpPDOM"
     }
   ],
   "unique_name": "New Singles Now",

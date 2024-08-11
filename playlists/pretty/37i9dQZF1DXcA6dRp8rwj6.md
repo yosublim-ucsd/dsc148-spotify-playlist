@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Hanumankind\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,204 likes - 108 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,223 likes - 108 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

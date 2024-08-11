@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAClTbHX6tHFoiuhpPc4vr4o",
+  "snapshot_id": "AAAAAAAAAAAeR5k4mApgr7jibptjiIil",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -103,138 +103,42 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/63gSt4lQ8pzArSwaR56ZdT"
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
       "artists": [
         {
-          "name": "Jon Benjamin - Jazz Daredevil",
-          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
-        },
-        {
-          "name": "H. Jon Benjamin",
-          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
-        },
-        {
-          "name": "Alexis Kesselman",
-          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
-        }
-      ],
-      "duration_ms": 202752,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "We're All Connected (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/6w6FNe09Z0EYZivFpneqb9"
-      },
-      "artists": [
-        {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
         },
         {
           "name": "Anderson .Paak",
           "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 120293,
-      "name": "We're All Connected (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3KqiWn5vvFf431S88SYMlA"
+      "duration_ms": 152768,
+      "name": "Favorite (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Colorful Cutlery",
-        "url": "https://open.spotify.com/album/093ezhBgkDlXiYoSvIItQe"
+        "name": "Shaolin Spitters",
+        "url": "https://open.spotify.com/album/02LZWN7zMbWfJp9DKh8XJj"
       },
       "artists": [
         {
-          "name": "SARKASTIKJ",
-          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
+          "name": "Crazy Peppsta",
+          "url": "https://open.spotify.com/artist/0ogaGB0FYdH30wr2ymWkvs"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 142522,
-      "name": "Colorful Cutlery",
-      "url": "https://open.spotify.com/track/0w7FEMzLpwtZR04euj7OIf"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
-      },
-      "artists": [
-        {
-          "name": "Rigz",
-          "url": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 278260,
-      "name": "No limit to the sky",
-      "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "The Embrace, Vol. 1",
-        "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
-      },
-      "artists": [
-        {
-          "name": "Noah Halpern",
-          "url": "https://open.spotify.com/artist/4nOk7W3A282Jh3bVeLZxSm"
-        },
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 223862,
-      "name": "Lost in Your Eyes (Solo Piano)",
-      "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
+      "duration_ms": 194311,
+      "name": "Shaolin Spitters",
+      "url": "https://open.spotify.com/track/0vbBu4qlfhhVw8CiQTpgQR"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -259,6 +163,102 @@
       "duration_ms": 156450,
       "name": "Speshal Methods",
       "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/63gSt4lQ8pzArSwaR56ZdT"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "duration_ms": 202752,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Magnum Opus",
+        "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
+      },
+      "artists": [
+        {
+          "name": "Rigz",
+          "url": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 278260,
+      "name": "No limit to the sky",
+      "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Embrace, Vol. 1",
+        "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
+      },
+      "artists": [
+        {
+          "name": "Noah Halpern",
+          "url": "https://open.spotify.com/artist/4nOk7W3A282Jh3bVeLZxSm"
+        },
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 223862,
+      "name": "Lost in Your Eyes (Solo Piano)",
+      "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Mid Spiral",
-        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Best Left Unsolved - Bonus Track",
-      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
-      },
-      "artists": [
-        {
-          "name": "Black Alley",
-          "url": "https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/221anSbYZzWbghtK9h3usE"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "3:AM (feat. Erykah Badu) [Live]",
         "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
       },
@@ -671,134 +655,6 @@
       "duration_ms": 178362,
       "name": "Ten Summers Or Better",
       "url": "https://open.spotify.com/track/2hVQloocwFpCC5SSstLVJQ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "GARDEN",
-        "url": "https://open.spotify.com/album/3M0yFfkVWQnAmjMpe2TGlH"
-      },
-      "artists": [
-        {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
-        }
-      ],
-      "duration_ms": 186272,
-      "name": "GARDEN",
-      "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5UHRbkgIGjmLQspuigKh3R"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
-          "name": "Elena Pinderhughes",
-          "url": "https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BMH1sCsVtRe0AHY7OKuI3"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "COSM",
-        "url": "https://open.spotify.com/album/53GnrSyRkPcoG4Irsno3sp"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne Collabos",
-          "url": "https://open.spotify.com/artist/4UOlRVifrFdQHW9qu5ep8t"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 243691,
-      "name": "Disgusted",
-      "url": "https://open.spotify.com/track/4uaaWQL4XikhR7IXyLEXmB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "War (feat. Ari Lennox & Jeremih)",
-        "url": "https://open.spotify.com/album/3tR4PWPHf5CdhFbXUJ3AyV"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 142799,
-      "name": "War (feat. Ari Lennox & Jeremih)",
-      "url": "https://open.spotify.com/track/4q2nRKWOSBH1IFp4EK1n3w"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Too Shy to Say (Cover)",
-        "url": "https://open.spotify.com/album/0wruphfbmn62MPOK8jjljf"
-      },
-      "artists": [
-        {
-          "name": "Josh Augustin",
-          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
-        }
-      ],
-      "duration_ms": 146109,
-      "name": "Too Shy to Say - Cover",
-      "url": "https://open.spotify.com/track/73V9aIv4o4f5Zq8x3EOA5H"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

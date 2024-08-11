@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Rekha Bhardwaj
 
-351 songs - 20 hr 34 min
+352 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/track/4TqeKFVrlFn379UpRT157n) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Sushmita Sen](https://open.spotify.com/artist/4dVweXe1vuDaks0htRp54l) | [Sherni Aayi \(From "Aarya 3"\)](https://open.spotify.com/album/3mpPx4U4uZRUWkHTwRL0wC) | 2:10 | 2023-11-06 | 2023-11-30 |
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-02-01 | 2023-03-03 |
 | [Shreaam Pagal](https://open.spotify.com/track/62cpYYBQua4OCT07FItvCR) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Shreaam Pagal](https://open.spotify.com/album/1kPmkdxQy0l7lqZAETqZLa) | 3:54 | 2022-01-04 | 2022-02-02 |
+| [Sirf Mere Ho](https://open.spotify.com/track/6UeNl3CIWIihMr1O1H9Sw0) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shruti Prakash](https://open.spotify.com/artist/4wTxusmB0eB08npurjqk5T), [Gam Kairanvi](https://open.spotify.com/artist/725DutSXO0i4ooXWGpBEgQ) | [Sirf Mere Ho](https://open.spotify.com/album/4g6mHoLbJv80YhAPDrVSDo) | 2:07 | 2024-08-10 |  |
 | [Sleep Walking](https://open.spotify.com/track/1SL4efhZ3hlnoPewOmClQF) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [The Jeremiah Project](https://open.spotify.com/artist/0dqDdOL1AXyEXy70M2QAcm), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c), [Krishna Kishor](https://open.spotify.com/artist/3prbdBU7w1NADsMOoSK3xZ), [Naveen Napier](https://open.spotify.com/artist/6cb5MRs9wImoyoZjnQ8vb1), [David Joseph](https://open.spotify.com/artist/4DtuDzNNMh0AyrL2tlIwJa) | [Flavors](https://open.spotify.com/album/05aUOvpdNReQlFybLgVLNe) | 4:43 | 2022-09-06 | 2023-03-03 |
 | [Sona Lagda](https://open.spotify.com/track/7pef1s876Fl3KO2LH1eSFx) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ) | [Sona Lagda](https://open.spotify.com/album/7Aahwh6SP0FaZlt0fgc6EE) | 3:15 | 2022-02-01 | 2023-01-04 |
 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 | 2024-05-08 | 2024-07-30 |

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,183 songs - 1 day 21 hr 2 min
+1,184 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Euphoria](https://open.spotify.com/track/0qgXZF5hTjzDwDPlA6HpnU) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Warm Nights](https://open.spotify.com/album/0qnFGkqi7L34QsotdUuamX) | 2:20 | 2021-11-10 | 2022-12-10 |
 | [Euphoria](https://open.spotify.com/track/39yS0HJkCRzrRjh5OelsAW) | [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [Euphoria](https://open.spotify.com/album/3ZjqNRHAUFViOd9jbiWWuS) | 2:20 | 2021-11-10 | 2022-12-10 |
 | [Euphoric](https://open.spotify.com/track/0AaQgKARIKwxBYUrS3qXdW) | [Arcade Portal](https://open.spotify.com/artist/2ylDslxcPkV822VyLZ5yky) | [Euphoric](https://open.spotify.com/album/05puUua8zmqcIT6OQiIxls) | 1:57 | 2021-11-10 | 2022-12-10 |
-| [Evening at El Rubicon](https://open.spotify.com/track/1VRr9QpEWsPp36GarUrBIe) | [ondol](https://open.spotify.com/artist/2gCP5uIoV0Ux8sqUB9qyi3) | [Evening at El Rubicon](https://open.spotify.com/album/2IA6hUQaCPi0nasvBTL2wc) | 3:12 | 2023-05-19 |  |
+| [Evening at El Rubicon](https://open.spotify.com/track/1VRr9QpEWsPp36GarUrBIe) | [ondol](https://open.spotify.com/artist/2gCP5uIoV0Ux8sqUB9qyi3) | [Evening at El Rubicon](https://open.spotify.com/album/2IA6hUQaCPi0nasvBTL2wc) | 3:12 | 2023-05-19 | 2024-08-11 |
 | [Evening Grind](https://open.spotify.com/track/7iuUWvi6wWOdhHuu79avnP) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Evening Grind](https://open.spotify.com/album/56X343jHdxghcmRxtms8YD) | 2:51 | 2023-01-06 | 2023-08-04 |
 | [evergreen](https://open.spotify.com/track/0AXHwu7A7Rmj64CCXmkyv5) | [wide awake](https://open.spotify.com/artist/5mFEU3OmlfXzQzSWqykm0a) | [evergreen](https://open.spotify.com/album/6vAgu3x7RDVzT4aWV81JBr) | 1:51 | 2022-06-24 | 2022-09-09 |
 | [Excellent](https://open.spotify.com/track/3GRTUabfguVlwCQmU3W7ps) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Excellent](https://open.spotify.com/album/3awGDNrYh2GzlZ9NfeqiBf) | 2:40 | 2021-11-10 | 2024-07-21 |
@@ -749,6 +749,7 @@
 | [NoHo Walks](https://open.spotify.com/track/1TyXDp22IIpopBKJUdoLcZ) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [NoHo Walks](https://open.spotify.com/album/0Zjpq0e6GZzxhvtPkMIxDb) | 1:40 | 2022-09-16 | 2023-08-04 |
 | [Norway](https://open.spotify.com/track/06Co3dkZW9abpw0feyJWl5) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Starcrossed](https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Nostalgia](https://open.spotify.com/track/12zINLpjdMmXVesmTDP63h) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nostalgia](https://open.spotify.com/album/5GJo1YoJaHfV19pQF3Pn21) | 2:20 | 2022-08-05 | 2022-10-01 |
+| [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 | 2024-08-08 |  |
 | [Not Your Fault](https://open.spotify.com/track/0TS96G5W7gGGGgj9bnllhR) | [Maudii](https://open.spotify.com/artist/4sh66zMHXR6pqwSnw82Tdj) | [Not Your Fault](https://open.spotify.com/album/2XR9LVtLFAoUecxJX256wa) | 2:27 | 2023-01-06 |  |
 | [November Jam](https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [222](https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN) | 1:58 | 2022-03-21 |  |
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2021-11-10 | 2022-05-27 |

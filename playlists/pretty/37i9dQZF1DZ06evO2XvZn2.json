@@ -1,12 +1,12 @@
 {
-  "description": "This is Evaluna Montaner. Tutti i brani in un'unica playlist.",
-  "num_followers": 15039,
+  "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
+  "num_followers": 15038,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABOnSvdA1ZKmT/E5XGH/6Wi",
+  "snapshot_id": "ZrVcAAAAAAAdQ46nwdO7d9xjPES3SONS",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si Existe",
+        "url": "https://open.spotify.com/album/4RAHRRXkzErtE6F2OGCTp9"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 273413,
+      "name": "Si Existe",
+      "url": "https://open.spotify.com/track/2V1lhszC64pVFw79uB0RhL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 177852,
       "name": "Ladrona (feat. Carolina Mestrovic)",
       "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Existe",
-        "url": "https://open.spotify.com/album/4RAHRRXkzErtE6F2OGCTp9"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 273413,
-      "name": "Si Existe",
-      "url": "https://open.spotify.com/track/2V1lhszC64pVFw79uB0RhL"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Tu Amor",
+        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 194118,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 184770,
       "name": "Cuando Te Enamores de M\u00ed",
       "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Tu Amor",
-        "url": "https://open.spotify.com/album/1UTdQUyAlL3h4uGtOPnecP"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 194118,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/16hxPVDdazmOOo6QT2grK5"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 268880,
-      "name": "Me Va a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
         "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 236843,
       "name": "Monta\u00f1as Y Valles - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/6LZj3lcbJo5CPsChzLR1dE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 268880,
+      "name": "Me Va a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6caUAXmSdkOYsYb0C2Dtjd"
     },
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 178225,
       "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 137676,
       "name": "El Tiempo Corre al Rev\u00e9s",
       "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -679,34 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 175353,
-      "name": "Algo Bueno Va a Pasar (feat. Fefi Oliveira & Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/5gAsh9ARvb03FCffajAXyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
         "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
       },
@@ -739,6 +711,34 @@
       "duration_ms": 177626,
       "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
       "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 175353,
+      "name": "Algo Bueno Va a Pasar (feat. Fefi Oliveira & Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/5gAsh9ARvb03FCffajAXyE"
     },
     {
       "added_at": null,

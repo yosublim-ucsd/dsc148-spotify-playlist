@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "A little slower",
+        "url": "https://open.spotify.com/album/477KPeLAr2M0aMLEtkGQLb"
+      },
+      "artists": [
+        {
+          "name": "Youngsang",
+          "url": "https://open.spotify.com/artist/0hFSd0WXqSF5eXyARmKtig"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "A little slower",
+      "url": "https://open.spotify.com/track/4Ba3VI0Grn91gnuRE3wljj"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.13",
         "url": "https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS"
       },
@@ -1935,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Bake",
+        "url": "https://open.spotify.com/album/0lMKr6wiAPCfF2IY91dS14"
+      },
+      "artists": [
+        {
+          "name": "9wall",
+          "url": "https://open.spotify.com/artist/6rqYMINHw5oUTaS8K17k2D"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "Bake",
+      "url": "https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE"
+    },
+    {
+      "album": {
         "name": "Barcarolle for lovers",
         "url": "https://open.spotify.com/album/2TQMY9LpIYwfJRpXQyzVlf"
       },
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 160000,
       "name": "Bing-Bing (feat. h3hyeon)",
       "url": "https://open.spotify.com/track/0MwNk4V37dY6bV9b7b7yIu"
@@ -3392,7 +3428,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 182282,
       "name": "Call Me If You",
       "url": "https://open.spotify.com/track/1e8lyNt5TQKxahIK5CGBAC"
@@ -4214,7 +4250,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 214714,
       "name": "Cocktail love",
       "url": "https://open.spotify.com/track/4eqVxp7h7cTGJaKzefDRhJ"
@@ -5100,7 +5136,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 191541,
       "name": "Days Passed Me By",
       "url": "https://open.spotify.com/track/5nxJQWYSNhX80zd6eWly9c"
@@ -7864,7 +7900,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 187783,
       "name": "Following you once again",
       "url": "https://open.spotify.com/track/1KBsOceByEC8AeetRM6EcK"
@@ -9038,6 +9074,24 @@
       "duration_ms": 237601,
       "name": "Greetings rain",
       "url": "https://open.spotify.com/track/4ngEkVwwoXVioWGwla4NKX"
+    },
+    {
+      "album": {
+        "name": "grow up",
+        "url": "https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26"
+      },
+      "artists": [
+        {
+          "name": "ido",
+          "url": "https://open.spotify.com/artist/2qJKjapYm6cY0MkeJkWDRj"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183039,
+      "name": "grow up",
+      "url": "https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu"
     },
     {
       "album": {
@@ -10925,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "Idleness and summer",
+        "url": "https://open.spotify.com/album/6s9VRfX6cHuZtn7LuP5Dou"
+      },
+      "artists": [
+        {
+          "name": "Jin Hwi PARK",
+          "url": "https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Idleness and summer",
+      "url": "https://open.spotify.com/track/6rd3PcFe6PnLEAgRMTpCjU"
+    },
+    {
+      "album": {
         "name": "IDTAY (I don\u2019t think anything of you)",
         "url": "https://open.spotify.com/album/7J5zzwqZmrg3RJAu6r8tyO"
       },
@@ -11442,6 +11514,24 @@
       "duration_ms": 250440,
       "name": "Invitation to Me",
       "url": "https://open.spotify.com/track/2VBy7ZWzVEEwHk6zEysJkB"
+    },
+    {
+      "album": {
+        "name": "Is It Love",
+        "url": "https://open.spotify.com/album/2zQSMd6xEd1gKNlsQOyImC"
+      },
+      "artists": [
+        {
+          "name": "Lim Ji Soo",
+          "url": "https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Is It Love",
+      "url": "https://open.spotify.com/track/3ZqPFmCR4UgxSMV60CIskQ"
     },
     {
       "album": {
@@ -12764,7 +12854,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 208000,
       "name": "Like a Star",
       "url": "https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX"
@@ -16157,6 +16247,24 @@
     },
     {
       "album": {
+        "name": "one by one",
+        "url": "https://open.spotify.com/album/4i4M8CmiCriaG709LX1T2K"
+      },
+      "artists": [
+        {
+          "name": "heyseunghey",
+          "url": "https://open.spotify.com/artist/7JFpChAurxPuVqG0KsXR9g"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243136,
+      "name": "one by one",
+      "url": "https://open.spotify.com/track/6Ynd6fV8o4uxjlf8xPxrx5"
+    },
+    {
+      "album": {
         "name": "One For The Old School (feat. twlv)",
         "url": "https://open.spotify.com/album/4rs3oxnLGxXGFmDVdootNr"
       },
@@ -17840,7 +17948,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 193786,
       "name": "Really Like You - Spring Version",
       "url": "https://open.spotify.com/track/2DFudW1pZSLY739UrsPDTV"
@@ -18218,7 +18326,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 144414,
       "name": "Ring Finger (Feat. Gist)",
       "url": "https://open.spotify.com/track/59rFPXfBvCvHYI3unX76RA"
@@ -19411,6 +19519,24 @@
     },
     {
       "album": {
+        "name": "SLOWDOWN",
+        "url": "https://open.spotify.com/album/6uqzxFO5MdPpZKfBoPSyoB"
+      },
+      "artists": [
+        {
+          "name": "ODD Cloud",
+          "url": "https://open.spotify.com/artist/0EsmRvqVdlPTIwkpOLw3Gi"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "SLOWDOWN",
+      "url": "https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx"
+    },
+    {
+      "album": {
         "name": "pheromone 0",
         "url": "https://open.spotify.com/album/777Zw7cckoA28eoXt4v1UZ"
       },
@@ -19929,6 +20055,24 @@
     },
     {
       "album": {
+        "name": "Spielplatz",
+        "url": "https://open.spotify.com/album/4M1BFpGth22rS4JiUNYiur"
+      },
+      "artists": [
+        {
+          "name": "jiseau",
+          "url": "https://open.spotify.com/artist/7sU98UJRUD9QSjKWsCQVbU"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199236,
+      "name": "Spielplatz",
+      "url": "https://open.spotify.com/track/3mQlBNnKPKHcqDPZIhhudD"
+    },
+    {
+      "album": {
         "name": "Long Money Short Life LP",
         "url": "https://open.spotify.com/album/1pqP6XE6S40VkuR0sWqQui"
       },
@@ -20424,7 +20568,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 169564,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/6Mp6OHHzY2qmTqUhMF8thZ"
@@ -25167,6 +25311,24 @@
     },
     {
       "album": {
+        "name": "you still break my hearts",
+        "url": "https://open.spotify.com/album/6j4TPD2c8oFVzH9ylJaKqP"
+      },
+      "artists": [
+        {
+          "name": "cory jan",
+          "url": "https://open.spotify.com/artist/69PvdRC1vnu2zpsX5fXuHi"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161445,
+      "name": "you still break my hearts",
+      "url": "https://open.spotify.com/track/3KRWav3WkqCSF0bdTEjHey"
+    },
+    {
+      "album": {
         "name": "Now On, Showtime! (Original Television Soundtrack) - 'YOU YOU YOU'",
         "url": "https://open.spotify.com/album/0qIJnaW3ADumGC4HSwzxlX"
       },
@@ -26262,7 +26424,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 197413,
       "name": "\uc544\ub984\ub2e4\uc6e0\ub358 \ub108\uc5d0\uac8c (Feat. \ucd94\uc11c\uc900)",
       "url": "https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF"
@@ -26718,6 +26880,24 @@
       "duration_ms": 177500,
       "name": "\ud488",
       "url": "https://open.spotify.com/track/3jylDNmrfXP8pVZmJxcIqt"
+    },
+    {
+      "album": {
+        "name": "\ud55c\uc794\ud574",
+        "url": "https://open.spotify.com/album/4wXvS1a1jwKk9JmDuqTEij"
+      },
+      "artists": [
+        {
+          "name": "kiwasulli",
+          "url": "https://open.spotify.com/artist/3qge5Ct9ZrQRP4VGqoiqxM"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "\ud55c\uc794\ud574",
+      "url": "https://open.spotify.com/track/63JiLIQzycuf9bvK5xrHvn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc"

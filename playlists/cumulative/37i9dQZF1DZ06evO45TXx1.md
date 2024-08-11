@@ -2,7 +2,7 @@
 
 ### [This Is Mc Luanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45TXx1)
 
-> This is Mc Luanna\. The essential tracks, all in one playlist.
+> This Is Mc Luanna\. Los temas esenciales, todos en una lista.
 
 73 songs - 3 hr 39 min
 

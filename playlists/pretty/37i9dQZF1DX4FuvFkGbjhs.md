@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,515 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,496 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 39 | [Orbit](https://open.spotify.com/track/1TkEWeHCOXZF9Y7m54Qwcf) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Orbit](https://open.spotify.com/album/5nHf4LM02Ly3uZAsC8tBhJ) | 3:02 |
 | 40 | [Running Around \(feat\. Fousheé\)](https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:34 |
 | 41 | [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 |
-| 42 | [DANCING LIKE WE'LL NEVER DIE](https://open.spotify.com/track/35dwjl1Zr9N6z4zwYdvNfS) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [HOTEL HEAVEN \(Extended\)](https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH) | 5:10 |
+| 42 | [DANCING LIKE WE'LL NEVER DIE](https://open.spotify.com/track/35dwjl1Zr9N6z4zwYdvNfS) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [HOTEL HEAVEN \- Extended](https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH) | 5:10 |
 | 43 | [Vibe Check](https://open.spotify.com/track/4LTsw7bbXuzWc04178l54T) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1) | [Vibe Check](https://open.spotify.com/album/1Y1K1R7mEn7W33DboUcMDj) | 2:36 |
 | 44 | [Bubble Wrap](https://open.spotify.com/track/5fcMtHMqoUB5j7nx08XylC) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [BETWEEN2WORLDS](https://open.spotify.com/album/0vU9edLqvX0azxdWwKzCKl) | 2:41 |
 | 45 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 |

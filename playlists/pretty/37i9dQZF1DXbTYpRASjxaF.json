@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131140,
+  "num_followers": 131141,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,34 @@
     {
       "added_at": "2024-08-09 19:09:05",
       "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "added_at": "2024-08-09 19:09:05",
+      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -935,26 +963,6 @@
     {
       "added_at": "2024-08-09 19:09:05",
       "album": {
-        "name": "Outra Hora",
-        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Outra Hora",
-      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
-    },
-    {
-      "added_at": "2024-08-09 19:09:05",
-      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -983,6 +991,26 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
+    },
+    {
+      "added_at": "2024-08-09 19:09:05",
+      "album": {
+        "name": "Outra Hora",
+        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Outra Hora",
+      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
     },
     {
       "added_at": "2024-08-09 19:09:05",
@@ -1175,30 +1203,6 @@
     {
       "added_at": "2024-08-09 19:09:05",
       "album": {
-        "name": "Degusta",
-        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
-      },
-      "artists": [
-        {
-          "name": "Legusta Beatz",
-          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
-        },
-        {
-          "name": "Ber\u00eata",
-          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
-        },
-        {
-          "name": "DigZion",
-          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Nos Embalos de Jersey a Noite",
-      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
-    },
-    {
-      "added_at": "2024-08-09 19:09:05",
-      "album": {
         "name": "MAGIC SHOW (DELUXE)",
         "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
@@ -1219,6 +1223,30 @@
       "duration_ms": 134848,
       "name": "STARS (INTERL\u00daDIO)",
       "url": "https://open.spotify.com/track/5Hl8GKGt1ruEG261KZJKmE"
+    },
+    {
+      "added_at": "2024-08-09 19:09:05",
+      "album": {
+        "name": "Degusta",
+        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
+      },
+      "artists": [
+        {
+          "name": "Legusta Beatz",
+          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
+        },
+        {
+          "name": "Ber\u00eata",
+          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
+        },
+        {
+          "name": "DigZion",
+          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Nos Embalos de Jersey a Noite",
+      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
     },
     {
       "added_at": "2024-08-09 19:09:05",
@@ -1259,6 +1287,30 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "added_at": "2024-08-09 19:09:05",
+      "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "otrashy",
+          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
+        }
+      ],
+      "duration_ms": 136708,
+      "name": "Dialeto Delinquente",
+      "url": "https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb"
     },
     {
       "added_at": "2024-08-09 19:09:05",
@@ -1319,30 +1371,6 @@
     {
       "added_at": "2024-08-09 19:09:05",
       "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "otrashy",
-          "url": "https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD"
-        }
-      ],
-      "duration_ms": 136708,
-      "name": "Dialeto Delinquente",
-      "url": "https://open.spotify.com/track/3muvegwUqYhIygF4hXfcEb"
-    },
-    {
-      "added_at": "2024-08-09 19:09:05",
-      "album": {
         "name": "Fora Da Panela (Mixtape)",
         "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
       },
@@ -1359,34 +1387,6 @@
       "duration_ms": 164571,
       "name": "Belo Horizonte 30 Graus A Noite",
       "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
-    },
-    {
-      "added_at": "2024-08-09 19:09:05",
-      "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     }
   ],
   "unique_name": "Cop\u00e3o na M\u00e3o",

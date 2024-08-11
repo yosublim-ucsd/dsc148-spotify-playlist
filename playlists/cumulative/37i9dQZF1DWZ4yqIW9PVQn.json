@@ -1329,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "I don't know",
+        "url": "https://open.spotify.com/album/7kdiatYisaEzy62pKS05ds"
+      },
+      "artists": [
+        {
+          "name": "\ub9e5\ub4c0",
+          "url": "https://open.spotify.com/artist/62s0HvMq2MJjtSY7DSbmDR"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/4ke5GbODGhAlWR6DiIsVso"
+    },
+    {
+      "album": {
         "name": "Shape of me",
         "url": "https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju"
       },
@@ -2714,6 +2732,24 @@
       "duration_ms": 247435,
       "name": "Time And Fallen Leaves",
       "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
+    },
+    {
+      "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/7DZVRDnf7r0aR3PBBmQ0Pq"
+      },
+      "artists": [
+        {
+          "name": "gnay",
+          "url": "https://open.spotify.com/artist/7Fni4XZIpShWwVpEMtyqzi"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221564,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/3ppS6pCWBP6Yh47ypI3zEo"
     },
     {
       "album": {

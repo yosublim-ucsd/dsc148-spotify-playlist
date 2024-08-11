@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Verrassing",
-        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 192010,
-      "name": "Verrassing",
-      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Bricks",
         "url": "https://open.spotify.com/album/2rhNRVQaqL1mhwXvC1gunX"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Sirocco",
-        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
+        "name": "Verrassing",
+        "url": "https://open.spotify.com/album/6qfMiCG2E4fWvYt1tWFSFS"
       },
       "artists": [
         {
-          "name": "Sirocco",
-          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
         }
       ],
-      "duration_ms": 262039,
-      "name": "Vientu",
-      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+      "duration_ms": 192010,
+      "name": "Verrassing",
+      "url": "https://open.spotify.com/track/0vpLvQxFOjyvy6tAaeTKfR"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -383,6 +367,22 @@
       "duration_ms": 209109,
       "name": "Sleeptalk",
       "url": "https://open.spotify.com/track/1T70LLYXcqRucK2nLO2dLA"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Sirocco",
+        "url": "https://open.spotify.com/album/66n3hUwcOBU8vOzxkqu3J0"
+      },
+      "artists": [
+        {
+          "name": "Sirocco",
+          "url": "https://open.spotify.com/artist/2bsNvdyVIKezcGI4QxXdDd"
+        }
+      ],
+      "duration_ms": 262039,
+      "name": "Vientu",
+      "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "The Hanging Clown",
+        "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
+      },
+      "artists": [
+        {
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "The Hanging Clown",
+      "url": "https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "A Price To Pay",
         "url": "https://open.spotify.com/album/0VFNHdKroUHNy1RAPaPMcC"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 222462,
       "name": "My disguise",
       "url": "https://open.spotify.com/track/1BpSr89lqd2Nl3FHUii20O"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "The Hanging Clown",
-        "url": "https://open.spotify.com/album/0N5ymTiuUtpvnkHxBD92H4"
-      },
-      "artists": [
-        {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
-        }
-      ],
-      "duration_ms": 177023,
-      "name": "The Hanging Clown",
-      "url": "https://open.spotify.com/track/4hdOCUzRA6xT8KlfdZPLlQ"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+      },
+      "artists": [
+        {
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Mama Dankjewel",
         "url": "https://open.spotify.com/album/4ggIWKdq8bfW2cO8T9SduC"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
       },
       "artists": [
         {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
         }
       ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
+      "duration_ms": 178382,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -727,18 +743,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/5vDmmQHLJZimZ0TqamqwK3"
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
       },
       "artists": [
         {
-          "name": "Zo Lief",
-          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
         }
       ],
-      "duration_ms": 178382,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5nzLpp5vDgXj4J70Hi0aXX"
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Everything I Need Is Here",
-        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Everything I Need Is Here",
-      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "Blushing Over Nothing",
         "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 173138,
       "name": "Blushing Over Nothing",
       "url": "https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Everything I Need Is Here",
+        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Everything I Need Is Here",
+      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
+        "name": "IK WIL EEN PORSCHE",
+        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
+      },
+      "artists": [
+        {
+          "name": "Viccens",
+          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
+        }
+      ],
+      "duration_ms": 126816,
+      "name": "IK WIL EEN PORSCHE",
+      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/2PmJb1X6naVRybkZADPjyj"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "IK WIL EEN PORSCHE",
-        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
+        "name": "Happy Child",
+        "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
       },
       "artists": [
         {
-          "name": "Viccens",
-          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
+          "name": "Carmen Jaci",
+          "url": "https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3"
         }
       ],
-      "duration_ms": 126816,
-      "name": "IK WIL EEN PORSCHE",
-      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+      "duration_ms": 298999,
+      "name": "Danse lunaire",
+      "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1207,22 +1223,6 @@
       "duration_ms": 170883,
       "name": "Zwemmen In Het Geld",
       "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
-        "name": "Happy Child",
-        "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
-      },
-      "artists": [
-        {
-          "name": "Carmen Jaci",
-          "url": "https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3"
-        }
-      ],
-      "duration_ms": 298999,
-      "name": "Danse lunaire",
-      "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "Whirligig",
-        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
-      },
-      "artists": [
-        {
-          "name": "Mo Bedick",
-          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "Cemetery Caretaker",
-      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "What's The Rush",
         "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 337733,
       "name": "Jerome",
       "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "Whirligig",
+        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
+      },
+      "artists": [
+        {
+          "name": "Mo Bedick",
+          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "Cemetery Caretaker",
+      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
     },
     {
       "added_at": "2024-07-01 08:44:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-01 08:44:42",
       "album": {
-        "name": "A Place Called Home (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
-      },
-      "artists": [
-        {
-          "name": "Eveline Ypma",
-          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Home Is Not a Place",
-      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
-    },
-    {
-      "added_at": "2024-07-01 08:44:42",
-      "album": {
         "name": "As Time Went By",
         "url": "https://open.spotify.com/album/4GE7rF9A8vD61Kuo8qEgKz"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 204100,
       "name": "Again",
       "url": "https://open.spotify.com/track/5a75z8ZqnRb4a7LHD23fWi"
+    },
+    {
+      "added_at": "2024-07-01 08:44:42",
+      "album": {
+        "name": "A Place Called Home (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6BMXEHWe34KWrKe857K2lb"
+      },
+      "artists": [
+        {
+          "name": "Eveline Ypma",
+          "url": "https://open.spotify.com/artist/3NYVdezO3RWbm4512vhoPH"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Home Is Not a Place",
+      "url": "https://open.spotify.com/track/4pmBo4y4Ri0ZxAxers3Ixa"
     },
     {
       "added_at": "2024-07-01 08:44:42",

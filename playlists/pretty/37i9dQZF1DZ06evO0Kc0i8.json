@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 719810,
+  "num_followers": 720123,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABNMYUX+Uv+K2nLAt39N9HY",
+  "snapshot_id": "ZrVcAAAAAACAf6AiyLpm7Ez8JqWAdze3",
   "tracks": [
     {
       "added_at": null,
@@ -1099,22 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 242819,
-      "name": "AL CALLAO'",
-      "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap Cake, Vol. 1",
         "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 250838,
       "name": "Al Mismo Tiempo",
       "url": "https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 242819,
+      "name": "AL CALLAO'",
+      "url": "https://open.spotify.com/track/110wwp2SRousmXjvx8zIoI"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

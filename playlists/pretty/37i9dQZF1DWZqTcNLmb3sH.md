@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover :  Tenant
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,304 likes - 78 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,320 likes - 78 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

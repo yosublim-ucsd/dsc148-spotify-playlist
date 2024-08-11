@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,640 likes - 116 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,642 likes - 116 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

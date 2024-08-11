@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Barsa Hai",
+        "url": "https://open.spotify.com/album/1ZUkEiW26xpKQsfHzy8Fwf"
+      },
+      "artists": [
+        {
+          "name": "Trishita Recs",
+          "url": "https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Barsa Hai",
+      "url": "https://open.spotify.com/track/0dWakILE5r3Zt3M0mCDSDP"
+    },
+    {
+      "album": {
         "name": "Barsaat Aa Gayi (Acoustic)",
         "url": "https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam"
       },
@@ -1136,6 +1154,28 @@
       "duration_ms": 157894,
       "name": "Calmoshiya",
       "url": "https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU"
+    },
+    {
+      "album": {
+        "name": "can you / hai kyun",
+        "url": "https://open.spotify.com/album/5Mzxo6zj8XO6GUESDoSheH"
+      },
+      "artists": [
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        },
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "can you / hai kyun",
+      "url": "https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt"
     },
     {
       "album": {
@@ -5390,7 +5430,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 234435,
       "name": "Putla",
       "url": "https://open.spotify.com/track/1MctTuryb5Fud6HJeEoZtJ"
@@ -5862,7 +5902,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 133608,
       "name": "Sabr",
       "url": "https://open.spotify.com/track/3ONSKtGBGpK6i5Jx2KP2z9"

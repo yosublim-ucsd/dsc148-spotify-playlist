@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 502251,
+  "num_followers": 502376,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Struttin' My Stuff",
-        "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Fooled Around And Fell In Love",
-      "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Struttin' My Stuff",
+        "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Fooled Around And Fell In Love",
+      "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Million Mile Reflections",
-        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+        "name": "It'll Shine When It Shines",
+        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "The Ozark Mountain Daredevils",
+          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
         }
       ],
-      "duration_ms": 215066,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+      "duration_ms": 250120,
+      "name": "Jackie Blue",
+      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "It'll Shine When It Shines",
-        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
       "artists": [
         {
-          "name": "The Ozark Mountain Daredevils",
-          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Jackie Blue",
-      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
-        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 222893,
       "name": "I'm No Angel",
       "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
+        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "The Allman Brothers Band (Deluxe)",
         "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 227751,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Potlatch",
         "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Bishop Black",
         "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 245906,
       "name": "Southern Hospitality",
       "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Southern Delight/Barefoot Jerry",
+        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
+      },
+      "artists": [
+        {
+          "name": "Barefoot Jerry",
+          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Castle Rock",
+      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Southern Delight/Barefoot Jerry",
-        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
-      },
-      "artists": [
-        {
-          "name": "Barefoot Jerry",
-          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Castle Rock",
-      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 252466,
       "name": "Thorn And A Wild Rose",
       "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
-        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 293800,
-      "name": "Georgia Rhythm",
-      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1263,34 +1247,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "You Are Here",
-        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
       "artists": [
         {
-          "name": "Amberson-Baggett Band",
-          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Rise of the Rebel",
-      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+      "duration_ms": 293800,
+      "name": "Georgia Rhythm",
+      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1311,34 +1279,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "I'm No Angel",
-        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
         }
       ],
-      "duration_ms": 242106,
-      "name": "Can't Keep Running",
-      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1355,6 +1307,54 @@
       "duration_ms": 341933,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "I'm No Angel",
+        "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Can't Keep Running",
+      "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "You Are Here",
+        "url": "https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7"
+      },
+      "artists": [
+        {
+          "name": "Amberson-Baggett Band",
+          "url": "https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Rise of the Rebel",
+      "url": "https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-07-05 17:03:45",

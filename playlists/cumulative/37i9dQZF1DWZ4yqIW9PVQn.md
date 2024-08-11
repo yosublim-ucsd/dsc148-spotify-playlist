@@ -4,7 +4,7 @@
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-170 songs - 10 hr 15 min
+172 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2022-07-04 |  |
 | [HYE](https://open.spotify.com/track/2hMLyprzSqOWiW2RCdhXWa) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/6BoAOP9rSYxsCiucBIUwXC) | 4:07 | 2023-08-05 | 2024-04-19 |
 | [HYE](https://open.spotify.com/track/5tx6Y6j4Q8MCdTOtVILLX5) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/4u5ud7hSAmYr5KEXltpwk8) | 4:07 | 2022-07-04 |  |
+| [I don't know](https://open.spotify.com/track/4ke5GbODGhAlWR6DiIsVso) | [맥듀](https://open.spotify.com/artist/62s0HvMq2MJjtSY7DSbmDR) | [I don't know](https://open.spotify.com/album/7kdiatYisaEzy62pKS05ds) | 3:15 | 2024-08-10 |  |
 | [I got lucky](https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Shape of me](https://open.spotify.com/album/1GU9TwATIkJ6GpVqrtX2ju) | 4:16 | 2022-11-01 |  |
 | [I just miss you](https://open.spotify.com/track/6RMOoOvtoOL4bunthGqA9x) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [I just miss you](https://open.spotify.com/album/7tn5xTjttuaRYO2XnPiAQJ) | 3:38 | 2023-10-16 |  |
 | [I Like It](https://open.spotify.com/track/5a4o5ARfYHze8y7O7R5PDJ) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [I Like It](https://open.spotify.com/album/3ZHTXCdbf8pfChmWNSXnHy) | 3:38 | 2022-11-01 |  |
@@ -150,6 +151,7 @@
 | [Think About You](https://open.spotify.com/track/43laCvl60fjDslrcpCtArV) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Think About You](https://open.spotify.com/album/6yD6WVtYmXQ5AV9IpgYz2r) | 4:04 | 2024-03-08 |  |
 | [Think About You \(Prod\. by 'Lee Chanhyuk\)](https://open.spotify.com/track/2sYcXLI2dtHvHTYKTjpccl) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Think About You](https://open.spotify.com/album/4657RzDqZ0HX96GbkmkWs8) | 4:04 | 2022-11-01 | 2024-04-19 |
 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 | 2022-11-01 |  |
+| [Time Travel](https://open.spotify.com/track/3ppS6pCWBP6Yh47ypI3zEo) | [gnay](https://open.spotify.com/artist/7Fni4XZIpShWwVpEMtyqzi) | [Time Travel](https://open.spotify.com/album/7DZVRDnf7r0aR3PBBmQ0Pq) | 3:41 | 2024-08-10 |  |
 | [Too Much Regret](https://open.spotify.com/track/1InF7ads6F8QSsJzOwG52n) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 2nd](https://open.spotify.com/album/3CAAJzd9d3rvMhHY16dI18) | 4:16 | 2022-11-01 | 2024-04-19 |
 | [Too Much Regret](https://open.spotify.com/track/6t6riYF9r4gdSPawYDT7Ll) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 2nd](https://open.spotify.com/album/26FAZpDK8CXWDonOAN5Riw) | 4:16 | 2024-03-08 |  |
 | [Trouble \(Feat\. Ahn Byeong Woong\)](https://open.spotify.com/track/6UMrmpf4OjwHzz8vYNXoFG) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Trouble & I'll be with u](https://open.spotify.com/album/3Iw7qUjvEfF5haZTLWo8oA) | 2:57 | 2023-09-20 |  |

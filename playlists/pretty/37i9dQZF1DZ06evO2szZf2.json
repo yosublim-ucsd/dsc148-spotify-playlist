@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34634,
+  "description": "This is: Mc Dricka. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 34636,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAADzvi/IGiOq7TpR/nbIdRpF",
+  "snapshot_id": "ZrVcAAAAAAB9F9GLDvXViX5NGfvdn+/b",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se o Port\u00e3o Tiver Trancado",
+        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 103105,
+      "name": "Se o Port\u00e3o Tiver Trancado",
+      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se o Port\u00e3o Tiver Trancado",
-        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 103105,
-      "name": "Se o Port\u00e3o Tiver Trancado",
-      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
     },
     {
       "added_at": null,
@@ -835,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -887,50 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Cara Maluco",
-        "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
-      },
-      "artists": [
-        {
-          "name": "MC Celo BK",
-          "url": "https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c"
-        },
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Que Cara Maluco",
-      "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mochila nas Costas / Empurra Empurra",
         "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 241777,
       "name": "Mochila nas Costas / Empurra Empurra",
       "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Cara Maluco",
+        "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
+      },
+      "artists": [
+        {
+          "name": "MC Celo BK",
+          "url": "https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c"
+        },
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Que Cara Maluco",
+      "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
     },
     {
       "added_at": null,
@@ -1155,30 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PANCADA",
-        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "PANCADA",
-      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Elas Te Preferem",
         "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
       },
@@ -1203,22 +1179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
       },
       "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
         }
       ],
-      "duration_ms": 141813,
-      "name": "Sapat\u00e3o",
-      "url": "https://open.spotify.com/track/185cEZ3ppksB8C8qjybR5E"
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
     },
     {
       "added_at": null,
@@ -1275,6 +1255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 141813,
+      "name": "Sapat\u00e3o",
+      "url": "https://open.spotify.com/track/185cEZ3ppksB8C8qjybR5E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1299,26 +1299,6 @@
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Ery",
-          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
-        }
-      ],
-      "duration_ms": 122317,
-      "name": "Inten\u00e7\u00e3o do Vapo Vapo",
-      "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
     },
     {
       "added_at": null,
@@ -1363,6 +1343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
+        }
+      ],
+      "duration_ms": 122317,
+      "name": "Inten\u00e7\u00e3o do Vapo Vapo",
+      "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rickweek",
         "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 126511,
       "name": "Vagabunda do Caralho",
       "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj luan pj",
-          "url": "https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Paga de Superado",
-      "url": "https://open.spotify.com/track/6nxboFKvd1nCIK1juskjhW"
     },
     {
       "added_at": null,
@@ -1451,6 +1431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj luan pj",
+          "url": "https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Paga de Superado",
+      "url": "https://open.spotify.com/track/6nxboFKvd1nCIK1juskjhW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colocadinha",
         "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
       },
@@ -1471,30 +1471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+        "name": "Pa\u00b4Las Joyas",
+        "url": "https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO"
       },
       "artists": [
         {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
-        },
-        {
-          "name": "Dj Lv Mdp",
-          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
         }
       ],
-      "duration_ms": 160600,
-      "name": "Sentimento",
-      "url": "https://open.spotify.com/track/0n2FssbKEZdO3RecOSrRzO"
+      "duration_ms": 164401,
+      "name": "Pa\u00b4Las Joyas",
+      "url": "https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L"
     },
     {
       "added_at": null,
@@ -1527,30 +1519,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "38 Carregado",
-        "url": "https://open.spotify.com/album/7rRRBPuisxQKGRQsglK20U"
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
       },
       "artists": [
         {
-          "name": "O Brutto",
-          "url": "https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV"
-        },
-        {
-          "name": "Tinho do Coque",
-          "url": "https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt"
-        },
-        {
-          "name": "Augusto e Jo\u00e3ozinho",
-          "url": "https://open.spotify.com/artist/3zmGUCTcp7G0uOdTQ1z9YX"
-        },
-        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
         }
       ],
-      "duration_ms": 126249,
-      "name": "38 Carregado",
-      "url": "https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig"
+      "duration_ms": 160600,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/0n2FssbKEZdO3RecOSrRzO"
     }
   ],
   "unique_name": "This Is Mc Dricka",

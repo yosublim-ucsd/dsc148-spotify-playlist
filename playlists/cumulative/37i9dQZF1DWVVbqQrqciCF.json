@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "On the Stage",
+        "url": "https://open.spotify.com/album/4qN1V7yOkQxuxw6l0BNwge"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207958,
+      "name": "On the Stage",
+      "url": "https://open.spotify.com/track/72n66qrnruvdjh2Ndpc86g"
+    },
+    {
+      "album": {
         "name": "RGB",
         "url": "https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2"
       },

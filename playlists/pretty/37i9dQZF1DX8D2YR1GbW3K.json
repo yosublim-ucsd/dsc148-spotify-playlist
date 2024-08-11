@@ -1,6 +1,6 @@
 {
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favorites from the 2010s.",
-  "num_followers": 222402,
+  "num_followers": 222462,
   "original_name": "Headliners",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Cola",
-        "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 223869,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
-    },
-    {
-      "added_at": "2024-07-09 21:05:06",
-      "album": {
         "name": "Heads Will Roll",
         "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 383546,
       "name": "Heads Will Roll - A-Trak Remix",
       "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
+    },
+    {
+      "added_at": "2024-07-09 21:05:06",
+      "album": {
+        "name": "Cola",
+        "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 223869,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
     },
     {
       "added_at": "2024-07-09 21:05:06",
@@ -1435,7 +1435,7 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Settle (Deluxe)",
+        "name": "Settle - Deluxe",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
       "artists": [
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/5rUoj6gJCE7aLq562hyIKd"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 298125,
-      "name": "Thunder - Original Mix",
-      "url": "https://open.spotify.com/track/092dz2yORKaJpC05ZlN9ME"
-    },
-    {
-      "added_at": "2024-07-09 21:05:06",
-      "album": {
         "name": "Running Out",
         "url": "https://open.spotify.com/album/74E19vt4CK4rHhIzw1hBAC"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 451042,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/4tvnMCFnbjJngcYJB1kzPs"
+    },
+    {
+      "added_at": "2024-07-09 21:05:06",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/5rUoj6gJCE7aLq562hyIKd"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 298125,
+      "name": "Thunder - Original Mix",
+      "url": "https://open.spotify.com/track/092dz2yORKaJpC05ZlN9ME"
     },
     {
       "added_at": "2024-07-09 21:05:06",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2024-07-09 21:05:06",
       "album": {
-        "name": "For Lack of a Better Name (The Extended Mixes)",
-        "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "Rob Swire",
-          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
-      "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
-    },
-    {
-      "added_at": "2024-07-09 21:05:06",
-      "album": {
         "name": "Boneless (Remixes)",
         "url": "https://open.spotify.com/album/3EJZwYDh3zfdpjw1HX4MYA"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
+    },
+    {
+      "added_at": "2024-07-09 21:05:06",
+      "album": {
+        "name": "For Lack of a Better Name (The Extended Mixes)",
+        "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Ghosts 'n' Stuff (feat. Rob Swire)",
+      "url": "https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7"
     },
     {
       "added_at": "2024-07-09 21:05:06",

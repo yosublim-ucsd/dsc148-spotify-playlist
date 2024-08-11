@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "IN THE ZONE",
+        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169985,
+      "name": "IN THE ZONE",
+      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
+    },
+    {
+      "album": {
         "name": "Incantate",
         "url": "https://open.spotify.com/album/5q5lbHaktTz85S1sS2IOol"
       },
@@ -7830,7 +7848,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"

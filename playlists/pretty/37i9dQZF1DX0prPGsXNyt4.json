@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 80507,
+  "num_followers": 80578,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,34 @@
     {
       "added_at": "2024-04-22 12:55:30",
       "album": {
+        "name": "Ap\u00ea 1001",
+        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
+    },
+    {
+      "added_at": "2024-04-22 12:55:30",
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma",
         "url": "https://open.spotify.com/album/6drqaBLJWKqoNlKvOQeBTm"
       },
@@ -443,34 +471,6 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma",
       "url": "https://open.spotify.com/track/2fmeSswdyVq4wcqhY41UHk"
-    },
-    {
-      "added_at": "2024-04-22 12:55:30",
-      "album": {
-        "name": "Ap\u00ea 1001",
-        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2024-04-22 12:55:30",
@@ -559,34 +559,6 @@
     {
       "added_at": "2024-04-22 12:55:30",
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Todo T\u00edmido",
-      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
-    },
-    {
-      "added_at": "2024-04-22 12:55:30",
-      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -663,6 +635,34 @@
     {
       "added_at": "2024-04-22 12:55:30",
       "album": {
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Todo T\u00edmido",
+      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
+    },
+    {
+      "added_at": "2024-04-22 12:55:30",
+      "album": {
         "name": "Amor de Fim de Noite",
         "url": "https://open.spotify.com/album/0ZR4TfAlmGulel1uFDDxRM"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 221142,
       "name": "Amor de Fim de Noite",
       "url": "https://open.spotify.com/track/0nDnvGagGAQP5vpgCyS5yH"
+    },
+    {
+      "added_at": "2024-04-22 12:55:30",
+      "album": {
+        "name": "Baby C\u00ea \u00e9 Gata",
+        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 118976,
+      "name": "Baby C\u00ea \u00e9 Gata",
+      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2024-04-22 12:55:30",
@@ -731,26 +751,6 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica 11: Nada Mudou",
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
-    },
-    {
-      "added_at": "2024-04-22 12:55:30",
-      "album": {
-        "name": "Baby C\u00ea \u00e9 Gata",
-        "url": "https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 118976,
-      "name": "Baby C\u00ea \u00e9 Gata",
-      "url": "https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW"
     },
     {
       "added_at": "2024-04-22 12:55:30",

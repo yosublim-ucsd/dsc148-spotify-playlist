@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: Nikita the Wicked
 
-500 songs - 1 day 2 hr 38 min
+501 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Flying Spaghetti Monster](https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Animal Vegetable Mineral Pt\. 1](https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w) | 4:09 | 2022-02-01 | 2023-11-18 |
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-02-01 |
 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 | 2024-06-21 |  |
+| [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 | 2024-08-09 |  |
 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 | 2022-02-01 | 2024-07-13 |
 | [freeworld](https://open.spotify.com/track/3HBHVolxiWQzQzYFkcwsng) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Nessly](https://open.spotify.com/artist/6POMCYQE1sq1BJ8FnAvTA8) | [freeworld](https://open.spotify.com/album/4hlEHLcPxKeeYIfNDM6TJY) | 2:54 | 2024-01-19 | 2024-01-27 |
 | [Fresh Outta Japan](https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a) | [Yasko](https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS) | [Fresh Outta Japan](https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i) | 1:56 | 2021-11-19 | 2023-12-13 |
@@ -379,7 +380,7 @@
 | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/track/0tWgUaqAz1g9RoKbYYfUTG) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Sad B\*tch \(Tisoki Remix\)](https://open.spotify.com/album/2aOduwWZEWYDJ8389eDUar) | 3:12 | 2021-11-19 | 2023-03-02 |
 | [Save Me](https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Save Me](https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD) | 2:07 | 2021-11-19 | 2023-11-25 |
 | [Schism](https://open.spotify.com/track/6ORBymYSqdRRqAyZvybcXq) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Schism](https://open.spotify.com/album/7DM9QTovHnLVjFjRkDNQ1F) | 2:33 | 2021-11-19 | 2022-02-02 |
-| [Seething Eyes](https://open.spotify.com/track/3BuSWoesMmhaEbvvw3schE) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Seething Eyes](https://open.spotify.com/album/1DLHwMmGwxEaIHTVm7vfIx) | 4:01 | 2024-04-05 |  |
+| [Seething Eyes](https://open.spotify.com/track/3BuSWoesMmhaEbvvw3schE) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Seething Eyes](https://open.spotify.com/album/1DLHwMmGwxEaIHTVm7vfIx) | 4:01 | 2024-04-05 | 2024-08-11 |
 | [Sense](https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB) | [capshun](https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL), [Pryzms](https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Sense](https://open.spotify.com/album/2Ll4zYTAQXnBHi18Jg4K04) | 2:46 | 2022-06-17 | 2022-07-29 |
 | [Serpent King](https://open.spotify.com/track/4yPwWHGAuXyFWTVRcxMS1m) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Serpent King](https://open.spotify.com/album/1B4JbQx0AKOvy92GoFE6AK) | 2:48 | 2024-07-12 | 2024-08-10 |
 | [Set Me Free](https://open.spotify.com/track/1pSVHYdn6KP0ZNqD6hqtV9) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Set Me Free](https://open.spotify.com/album/6NO1HcyAGwBtGf4AOAlxtB) | 3:31 | 2024-02-16 | 2024-04-06 |

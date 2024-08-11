@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,896 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 17 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
 | 18 | [Mairzy Doats](https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m) | [The Merry Macs](https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH) | [The Merry Macs Sing Mairzy Doats](https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr) | 2:44 |
 | 19 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
-| 20 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
-| 21 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
+| 20 | [To the Aisle](https://open.spotify.com/track/08KiBWh7EreFKWKSv8SIrh) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [50 Best Hits](https://open.spotify.com/album/7eugEzpVGg4umQRaFD4ocg) | 2:44 |
+| 21 | [Dream](https://open.spotify.com/track/0AtVA7axXKVFnjQsN4xBIy) | [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [What is This Thing Called Love?](https://open.spotify.com/album/0tn2qcrEjAcoBvWhZVZvjN) | 2:48 |
 | 22 | [The Object Of My Affection \(with Jimmie Grier\) \- 78 rpm Version](https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN), [Jimmie Grier](https://open.spotify.com/artist/0J5t0Dwzv8SbJMf1K6Vp02) | [That's How Rhythm Was Born](https://open.spotify.com/album/3yQZ3s8FaMVOxp9KNhD6cj) | 3:21 |
 | 23 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 24 | [Standing On the Corner](https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs](https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE) | 2:51 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 38 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 39 | [Mr\. Sandman \- 1954 \#1 Billboard chart hit](https://open.spotify.com/track/3zopUGxKy1Uz4cKtDGjZry) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | ["They're Riding High" Says Archie](https://open.spotify.com/album/2fBVKQwJG7e5NvOizP3jCm) | 2:23 |
 | 40 | [Tuxedo Junction](https://open.spotify.com/track/2gE1UVwRrEW7Q09ht0SpHJ) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc) | [The Manhattan Transfer](https://open.spotify.com/album/27PX6QHcZXHdepfrNqbPh8) | 3:05 |
-| 41 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
-| 42 | [Since I Don't Have You](https://open.spotify.com/track/5m1bCro6fYB2Vl6aRGCMpJ) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Doo Wop: Hits](https://open.spotify.com/album/58JdpTiup8BkfmblgsMMr1) | 2:38 |
+| 41 | [Since I Don't Have You](https://open.spotify.com/track/5m1bCro6fYB2Vl6aRGCMpJ) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Doo Wop: Hits](https://open.spotify.com/album/58JdpTiup8BkfmblgsMMr1) | 2:38 |
+| 42 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 | 43 | [Three Coins In The Fountain](https://open.spotify.com/track/3myhs1DFwJnd5TA4RZl1Hc) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [The Best Of The Four Aces](https://open.spotify.com/album/1vzieeDkE35305fd80OtCU) | 3:00 |
 | 44 | [It's Sand, Man!](https://open.spotify.com/track/1mhOW7fYuOTEv1oJxqgXJG) | [Jon Hendricks](https://open.spotify.com/artist/2Kn5swSfLmUU2WEJVlQvJY), [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy), [Lambert, Hendricks & Ross](https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg) | [Sing A Song Of Basie](https://open.spotify.com/album/2TmARLhB8VuTpm7y1nhrY7) | 2:27 |
 | 45 | [\(Up A\) Lazy River](https://open.spotify.com/track/5g2h9vP1ZU1eGVhVZa0kms) | [The Mills Brothers](https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Board Of Directors](https://open.spotify.com/album/2F2pS1PP3ZPhhxhsL6aRfU) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,001 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,994 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 33 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 |
 | 34 | [DBZ](https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [DBZ](https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S) | 3:11 |
 | 35 | [Love Life](https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:56 |
-| 36 | [Sega](https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Sega](https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1) | 1:45 |
-| 37 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
+| 36 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
+| 37 | [Sega](https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Sega](https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1) | 1:45 |
 | 38 | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1) | 3:28 |
 | 39 | [I Didn't Go](https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 5:48 |
 | 40 | [St\. Juliana](https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Across The Tracks](https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt) | 2:17 |

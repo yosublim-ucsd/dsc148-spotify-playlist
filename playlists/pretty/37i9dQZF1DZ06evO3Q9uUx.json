@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14578,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14583,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAAJfAzUDEob4TOzpYwTvLNI",
+  "snapshot_id": "ZrVcAAAAAAA30irNndZPMzuEFx3yojnl",
   "tracks": [
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Was Said?",
-        "url": "https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5"
-      },
-      "artists": [
-        {
-          "name": "Lebra Jolie",
-          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 140875,
-      "name": "Yeah (with BIA)",
-      "url": "https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drunken Wordz Sober Thoughtz",
         "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 168269,
       "name": "Nasty Girl",
       "url": "https://open.spotify.com/track/2JqW1Pne5WQWiKongjX8kA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Was Said?",
+        "url": "https://open.spotify.com/album/789NgjZwh9qga5RsFoBsZ5"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 140875,
+      "name": "Yeah (with BIA)",
+      "url": "https://open.spotify.com/track/7rlFkTnWBAqXbNVyR36jZq"
     },
     {
       "added_at": null,

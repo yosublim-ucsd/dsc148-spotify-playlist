@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Jere Klein.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,048 likes - 106 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,174 likes - 106 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHIKA MALA](https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [CHIKA MALA](https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc) | 2:54 |
 | 2 | [JAIRO VERA \| DJ TAO Turreo Sessions \#25](https://open.spotify.com/track/5TdpGWFBA7iz2jdoaqnIHq) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [JAIRO VERA \| DJ TAO Turreo Sessions \#25](https://open.spotify.com/album/6Zh2P87SkQP69M8ZwZIeJz) | 2:33 |
 | 3 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 |
-| 4 | [TU TA RIKA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:04 |
+| 4 | [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 |
 | 5 | [Mami Dime](https://open.spotify.com/track/6ibULAFMPUxZYGDmBNXG3b) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Mami Dime](https://open.spotify.com/album/0XjT13dlm0xNjC9e2Bpgrt) | 2:52 |
 | 6 | [No Me Mire Así](https://open.spotify.com/track/1YkOJMothJIkGssEUO3gp4) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [No Me Mire Así](https://open.spotify.com/album/0EPvTMXdTqYOMSUzP9W0Ku) | 2:24 |
 | 7 | [Corte Gangster](https://open.spotify.com/track/5IZsaDvrsmMJKgbNHyJpc2) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [QuixSmell](https://open.spotify.com/artist/0MrBxgZbiw0uUO3NUqWFKp), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Corte Gangster](https://open.spotify.com/album/2JgsvGAwKpcORrrlWNqPax) | 3:53 |

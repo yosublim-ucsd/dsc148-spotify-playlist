@@ -1,12 +1,12 @@
 {
   "description": "This Is Generaci\u00f3n 12. Los temas esenciales, todos en una lista.",
-  "num_followers": 41558,
+  "num_followers": 41573,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAAA9tDvMWU6Q3d6PfXXYCQ3U",
+  "snapshot_id": "ZrVcAAAAAADbFyczmieP8geUxfaEOpv/",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 280886,
       "name": "Eres Todo Para Mi (feat. Alex Campos))",
       "url": "https://open.spotify.com/track/3vAnKEiuCiAMhrCTHrVB28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 469537,
+      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 469537,
-      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
-      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
     },
     {
       "added_at": null,

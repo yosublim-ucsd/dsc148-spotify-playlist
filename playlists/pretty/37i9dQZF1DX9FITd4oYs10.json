@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17936,
+  "num_followers": 17935,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 258742,
+      "name": "Rainha da Pista",
+      "url": "https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 219466,
       "name": "CORRA",
       "url": "https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 258742,
-      "name": "Rainha da Pista",
-      "url": "https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -255,6 +255,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos (feat. Lourena)",
+      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Slow Flow",
         "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 223892,
       "name": "O Mundo \u00e9 Nosso",
       "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos (feat. Lourena)",
-      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -519,46 +519,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Poesia Ac\u00fastica #3: Capricorniana",
-        "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
-        },
-        {
-          "name": "Lord",
-          "url": "https://open.spotify.com/artist/46Br1jGl5tGhHOJWXUaFA8"
-        },
-        {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
-        },
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
-        }
-      ],
-      "duration_ms": 430296,
-      "name": "Poesia Ac\u00fastica #3: Capricorniana",
-      "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Estilo Coyote",
         "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
       },
@@ -571,6 +531,26 @@
       "duration_ms": 174211,
       "name": "Estilo Coyote",
       "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Caro Vapor / Vida e Veneno de Don L",
+        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 229889,
+      "name": "Beira de Piscina (Remix)",
+      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -635,22 +615,42 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Caro Vapor / Vida e Veneno de Don L",
-        "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
+        "name": "Poesia Ac\u00fastica #3: Capricorniana",
+        "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
       },
       "artists": [
         {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
+        },
+        {
+          "name": "Lord",
+          "url": "https://open.spotify.com/artist/46Br1jGl5tGhHOJWXUaFA8"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
         }
       ],
-      "duration_ms": 229889,
-      "name": "Beira de Piscina (Remix)",
-      "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
+      "duration_ms": 430296,
+      "name": "Poesia Ac\u00fastica #3: Capricorniana",
+      "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Como Deus Quiser",
-      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
         "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 368024,
       "name": "Aquela F\u00e9",
       "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": "2024-02-23 18:00:29",

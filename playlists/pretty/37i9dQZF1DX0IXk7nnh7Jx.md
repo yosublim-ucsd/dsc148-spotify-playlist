@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,787 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,801 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 22 | [Shine On Me](https://open.spotify.com/track/21EQMC1r0O0aPjBDZMOldz) | [MUCH MORE](https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs) | [Shine On Me](https://open.spotify.com/album/7tm1C50uKADF5BfPkbXV6x) | 3:30 |
 | 23 | [I’ll Be Here Fighting](https://open.spotify.com/track/4Q4lcXwZkVBkV9AOslPPRz) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [I’ll Be Here Fighting](https://open.spotify.com/album/4SsuwQpcrZhFhMz7B7vWbX) | 3:04 |
 | 24 | [Way back](https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Way back](https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O) | 2:39 |
-| 25 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
+| 25 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 26 | [change](https://open.spotify.com/track/2kd5RRR696cC1lWIdDFWTY) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [change](https://open.spotify.com/album/4I0E9mBELs6a1OQ51GVH5i) | 3:01 |
 | 27 | [Deliver Me](https://open.spotify.com/track/1OdUajD83Dkebt8xdqOiaX) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Deliver Me](https://open.spotify.com/album/4XT1nhhMHafQF4vJQDD0Nl) | 2:18 |
 | 28 | [LOST](https://open.spotify.com/track/41L3ekHUfoMQFzTAaEqCBH) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Addie Hailey](https://open.spotify.com/artist/3Dh3IYgjQEYePRN8JUTJdA), [Vennisay](https://open.spotify.com/artist/47fuPz0K0cyruPcpXiBo2W) | [LOST](https://open.spotify.com/album/3pl3IQ2X4cXp9Vq2xqyuiH) | 2:41 |

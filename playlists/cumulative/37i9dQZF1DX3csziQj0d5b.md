@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-705 songs - 1 day 14 hr 14 min
+706 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Breeze](https://open.spotify.com/track/4GYUFc9nA3CqfotomfA95m) | [Matt Hylom](https://open.spotify.com/artist/3FQ8OZA3NwBaVfTbldZYa5) | [Breeze](https://open.spotify.com/album/1uRgqvN7v9cYCEZWkpvJa2) | 1:51 | 2022-04-14 | 2022-04-21 |
 | [Broke](https://open.spotify.com/track/1HgtvcT9glbQatbAyrBgSj) | [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Broke](https://open.spotify.com/album/1lJDPnEA1FiJCDqbUh6Agc) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2022-09-09 | 2022-10-08 |
+| [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-09 |  |
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2022-07-08 | 2023-07-01 |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-08-04 | 2023-08-19 |
 | [Call Me Yours](https://open.spotify.com/track/0BhdrTIB5flACZyaLjdzp4) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Call Me Yours](https://open.spotify.com/album/4T7MQ3hv0M7lJoO4uONsoh) | 2:31 | 2024-04-16 | 2024-04-27 |
@@ -174,7 +175,7 @@
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-27 | 2024-07-09 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-29 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-15 |  |
-| [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-09 |  |
+| [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-09 | 2024-08-11 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-03-29 |  |
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-05-31 |  |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2022-04-14 | 2023-01-22 |

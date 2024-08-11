@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43443,
+  "num_followers": 43450,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAACmAb5LRnv1fxUGp6dNrsDl",
+  "snapshot_id": "ZrVcAAAAAACxhabqVdJxCWHLrOnXYsmy",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "To Be Young (Is to Be Sad, Is to Be High)",
-      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211666,
       "name": "When The Stars Go Blue",
       "url": "https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 184671,
+      "name": "To Be Young (Is to Be Sad, Is to Be High)",
+      "url": "https://open.spotify.com/track/0aLk2Za7r0eGlLOepW2hzL"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 318102,
-      "name": "Come Pick Me Up",
-      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 132680,
       "name": "Dear Chicago",
       "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318102,
+      "name": "Come Pick Me Up",
+      "url": "https://open.spotify.com/track/0lngUitwRDbvZ5yVO76dVN"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 192732,
-      "name": "My Winding Wheel",
-      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 158293,
       "name": "Two",
       "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 192732,
+      "name": "My Winding Wheel",
+      "url": "https://open.spotify.com/track/2xogiMuoVDFDKpxgZpmPfQ"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -267,6 +283,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
+        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "Wasted Years - Live from Glasgow",
+      "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Answering Bell",
+      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -276,9 +324,25 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1JhAt4FmhLKj0Z5QpsadNa"
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 128248,
+      "name": "Damn Sam (I Love a Woman That Rains)",
+      "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
     },
     {
       "added_at": null,
@@ -300,70 +364,6 @@
       "added_at": null,
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Answering Bell",
-      "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 128248,
-      "name": "Damn Sam (I Love a Woman That Rains)",
-      "url": "https://open.spotify.com/track/07A4I35sBKxJ43iPZmWMqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance with Somebody (Live from Saskatoon, SK. 2023)",
-        "url": "https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 184369,
-      "name": "I Wanna Dance With Somebody (Who Loves Me) - Live from Saskatoon, SK. 2023",
-      "url": "https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
       "artists": [
@@ -375,22 +375,6 @@
       "duration_ms": 301013,
       "name": "La Cienega Just Smiled",
       "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 182524,
-      "name": "Be Wrong",
-      "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
     },
     {
       "added_at": null,
@@ -411,6 +395,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wanna Dance with Somebody (Live from Saskatoon, SK. 2023)",
+        "url": "https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 184369,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Live from Saskatoon, SK. 2023",
+      "url": "https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Sign",
+        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 182524,
+      "name": "Be Wrong",
+      "url": "https://open.spotify.com/track/63et5T8L2cyXHDQ9Gk21j6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Chin Up, Cheer Up",
-      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+      "duration_ms": 235120,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 235120,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+      "duration_ms": 178706,
+      "name": "Chin Up, Cheer Up",
+      "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
-        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 233858,
-      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
-      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Livin' On A Prayer (Live from Red Bank, NJ. 2023)",
+        "url": "https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 233858,
+      "name": "Living On A Prayer - Live from Red Bank, NJ. 2023",
+      "url": "https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 151960,
-      "name": "Oh My God, Whatever, Etc.",
-      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
+      "duration_ms": 164466,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin City (Live from Bensalem, PA. 2023)",
-        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 211713,
-      "name": "Sin City - Live from Bensalem, PA. 2023",
-      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "English Girls Approximately",
-      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
+      "duration_ms": 151960,
+      "name": "Oh My God, Whatever, Etc.",
+      "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "English Girls Approximately",
+      "url": "https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin City (Live from Bensalem, PA. 2023)",
+        "url": "https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 211713,
+      "name": "Sin City - Live from Bensalem, PA. 2023",
+      "url": "https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After the Gold Rush (Live from Calgary, AL. 2023)",
         "url": "https://open.spotify.com/album/5KBjPeuLIyBBsCMAVTBn5k"
       },
@@ -779,6 +795,22 @@
       "duration_ms": 256312,
       "name": "After the Gold Rush - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/5mSZ68WFTCbaeRuXfoVkWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoners (Live)",
+        "url": "https://open.spotify.com/album/1EoOe8LmjUh7PB4M885Oqx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "To Be With You (Live)",
+      "url": "https://open.spotify.com/track/7G0mtQvZD2kIRV2kI3mD3p"
     },
     {
       "added_at": null,
@@ -811,38 +843,6 @@
       "duration_ms": 168503,
       "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
       "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Diamond (Live from Madison, WI. 2023)",
-        "url": "https://open.spotify.com/album/0HhBQkXHHhBdVy4WJa59ec"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 146072,
-      "name": "Black Diamond - Live from Madison, WI. 2023",
-      "url": "https://open.spotify.com/track/4ROi74e8WRjli3wgTcHyZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
-        "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 264699,
-      "name": "When Doves Cry - Live from Minneapolis, MN. 2022.",
-      "url": "https://open.spotify.com/track/07DYpYvOfxSSx7Rwk4WZRm"
     }
   ],
   "unique_name": "This Is Ryan Adams",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Gera MX y Paty Cantú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,807 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,838 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 50 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 |
 | 51 | [Sin pistola](https://open.spotify.com/track/008gGt53LBG5eBo7rfganm) | [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Sin pistola](https://open.spotify.com/album/1HSPfrQ8Cz51hsc1ttXoHy) | 2:33 |
 | 52 | [3x4](https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3x4](https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e) | 2:47 |
-| 53 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
+| 53 | [Tú Tienes el Son](https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Tú Tienes el Son](https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E) | 3:01 |
 | 54 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 |
 | 55 | [0cm](https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [0cm](https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe) | 2:38 |
 | 56 | [Dale Suave](https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Dale Suave](https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD) | 3:00 |

@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-64 songs - 3 hr 28 min
+65 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Take It Slow](https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Take It Slow](https://open.spotify.com/album/0yvYev6X53DfOZ5zWfLTDN) | 2:50 | 2023-11-09 |  |
 | [things happen](https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F) | [gyomunapchick](https://open.spotify.com/artist/4vqiBnhsibr88FzJEGhlEg) | [mindset](https://open.spotify.com/album/2OlnR72oOhgAvPmZRj8BAW) | 3:12 | 2023-11-09 |  |
 | [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 |  |
+| [Weightless](https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I) | [SoNakByul](https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM) | [Weightless](https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS) | 2:16 | 2024-08-10 |  |
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 |  |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-29 |  |

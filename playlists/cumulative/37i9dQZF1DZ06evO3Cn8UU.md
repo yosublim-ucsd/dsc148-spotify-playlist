@@ -2,7 +2,7 @@
 
 ### [This Is Teddy Pendergrass](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cn8UU)
 
-> This is Teddy Pendergrass\. The essential tracks, all in one playlist.
+> This is: Teddy Pendergrass\. Alle wichtigen Tracks in einer Playlist.
 
 78 songs - 6 hr 40 min
 

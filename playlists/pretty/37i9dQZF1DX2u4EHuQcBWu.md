@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,252 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,293 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 86 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
 | 87 | [María Landó](https://open.spotify.com/track/1GVgU5BK361ZtYx17yxaUZ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [María Landó](https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2) | 4:30 |
 | 88 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
-| 89 | [Los dinosaurios](https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:29 |
-| 90 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 |
+| 89 | [Regalé Mis Ojos](https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Regalé Mis Ojos](https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS) | 4:20 |
+| 90 | [Los dinosaurios](https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:29 |
 | 91 | [Empresaurio](https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [La Dieta del Lagarto](https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw) | 3:14 |
 | 92 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
 | 93 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 97 | [Promesas y Perdones](https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Split](https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1) | 3:40 |
 | 98 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
 | 99 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |
-| 100 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
+| 100 | [Mujer detente](https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [VOLVER AL CORAZÓN \(Canciones testimoniales compuestas con mujeres en prisión\)](https://open.spotify.com/album/0SI5W9qiOsYDqyCALl8xNT) | 2:40 |
 
 Snapshot ID: `Zobl8wAAAADSuc2o3shougLhSid6HxaH`

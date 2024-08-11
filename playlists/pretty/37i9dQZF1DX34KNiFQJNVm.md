@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Poze, Ret e Ryan, PEDRO SAMPAIO, Yasmin Santos  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,684 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,982 likes - 81 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [Tudo Ao Contrário \- Ao Vivo](https://open.spotify.com/track/18Ap6Yh17R9Qrs7LdOvkW2) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Eu, Yasmin Santos \- Vol 01](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 3:09 |
 | 7 | [Eu Vou Sentar \- Ao Vivo em São Paulo](https://open.spotify.com/track/1lcq5kIcGIAUPrhTH73RSt) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Estilo Nattanzinho \- Ao Vivo em São Paulo](https://open.spotify.com/album/5ZV75Hjx4E4BhCJYUridzi) | 2:34 |
 | 8 | [Poesia Acústica 16](https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 16](https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y) | 12:37 |
-| 9 | [Salve Jorge \- Ao Vivo](https://open.spotify.com/track/0qFIyni8ve8T2RHSLuuWRt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Salve Jorge \- Ao Vivo](https://open.spotify.com/album/4w3n3RyUixa0WtblFtK3py) | 3:48 |
+| 9 | [Salve Jorge \- Ao Vivo](https://open.spotify.com/track/0qFIyni8ve8T2RHSLuuWRt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Salve Jorge \- Ao Vivo](https://open.spotify.com/album/4w3n3RyUixa0WtblFtK3py) | 3:18 |
 | 10 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
 | 11 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 |
 | 12 | [Dueto](https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Vnoahh](https://open.spotify.com/artist/1qo3Lj86g1pMIBzgK7OaWl), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [M.A.D 2](https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH) | 2:19 |

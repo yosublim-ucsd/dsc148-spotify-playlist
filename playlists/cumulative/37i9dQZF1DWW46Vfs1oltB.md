@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: lIlBOI\(릴보이\)\)
 
-1,289 songs - 2 day 21 hr 56 min
+1,291 songs - 2 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1242,6 +1242,7 @@
 | [WORK](https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Upgrade V](https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk) | 2:39 | 2024-03-08 | 2024-06-05 |
 | [Work Hard](https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [GROWTH](https://open.spotify.com/album/5Qxlt7a2djvLCXT2tD6mG0) | 3:24 | 2021-12-21 | 2022-07-08 |
 | [WORK HARD PLAY HARD](https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [WORK HARD PLAY HARD](https://open.spotify.com/album/6Efi04Cj81zpJVsPxpWDul) | 3:33 | 2023-07-17 | 2023-11-16 |
+| [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/track/5gbVjgDhcTX1V3QX4Okv95) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [WORK Pt.4 \- ATEEZ X G\-Eazy](https://open.spotify.com/album/4h3ZKq4zO8z4FKpJOO0vvl) | 3:22 | 2024-08-10 |  |
 | [WORK Remix \(Prod\. Jeffrey White\)](https://open.spotify.com/track/5qbIGzVIB229Lw7KdMqvB5) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc) | [Monthly AP \- April, 2024](https://open.spotify.com/album/7crxq1hGkURZoGF81Xnd47) | 2:35 | 2024-04-28 |  |
 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 | 2022-12-27 | 2023-01-04 |
 | [WORLDWIDE](https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 6:02 | 2022-09-17 | 2022-11-02 |
@@ -1272,6 +1273,7 @@
 | [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-15 | 2023-03-25 |
 | [ZUMO \(feat\. Jay Park\)](https://open.spotify.com/track/5MpKhDvROouEcppiAbBKBT) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [ZUMO](https://open.spotify.com/album/3WFDNoQy1JNX2ywiAIYsse) | 3:10 | 2022-09-01 | 2022-12-10 |
 | [Ü](https://open.spotify.com/track/1lZv5rGGJ2VEPXhWs9GndB) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [The Star](https://open.spotify.com/album/0T9hFotUzoCdwNs0lF69QK) | 2:56 | 2024-05-17 |  |
+| [거리에서](https://open.spotify.com/track/1pBb1QXg4ufhi04Kyr1d18) | [NERDY GANG](https://open.spotify.com/artist/50ZXQMyrsx3T8QbhJvPtQh) | [Korea ballad album](https://open.spotify.com/album/0IXcG8rSnqIIGuEvtkefce) | 2:12 | 2024-08-10 |  |
 | [거울 Mirror \(feat\. SINCE, CHOILB\)](https://open.spotify.com/track/346s2Zke1wZJFkqgHVQVpR) | [Alive Funk](https://open.spotify.com/artist/0DyFGnh0tpbFK19DM7wvlI), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [거울 Mirror \(feat\. SINCE, CHOILB\)](https://open.spotify.com/album/6M9nFA5twcUXG490qqhy4b) | 3:09 | 2023-03-27 | 2023-04-19 |
 | [난 널 원해](https://open.spotify.com/track/5LuiS6pmJ9VoIFPnxPNYxK) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:53 | 2023-12-15 | 2023-12-27 |
 | [내 얘기 같아 \(Based On A True Story\)](https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT) | 3:54 | 2021-12-18 | 2022-07-08 |

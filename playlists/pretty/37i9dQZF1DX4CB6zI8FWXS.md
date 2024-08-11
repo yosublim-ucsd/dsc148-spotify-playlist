@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,329 likes - 81 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,340 likes - 81 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

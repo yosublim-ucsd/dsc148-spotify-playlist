@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Featuring the film "Riffs & Runs: WE LIVE"  Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,900 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,969 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 66 | [My Eyes Will Dry](https://open.spotify.com/track/4YxOdOIpybIBjtN29LQZpO) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [My Eyes Will Dry](https://open.spotify.com/album/5ncJKXdmqnHrAlgAD8aHuh) | 3:06 |
 | 67 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 |
 | 68 | [Is It A Crime? \- Unplugged](https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [No Guidnce \- Unplugged](https://open.spotify.com/album/2GpbE6KxDwyCZgWnX2q7ue) | 3:02 |
-| 69 | [Made For Me \- Soul Train Performance Live](https://open.spotify.com/track/0avIl6Ss5Xa4ybAc3kup4g) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me \(Soul Train Performance Live\)](https://open.spotify.com/album/3rhtJIUiZIxNmKYpMkfoMG) | 3:28 |
+| 69 | [Made For Me \- Soul Train Performance Live](https://open.spotify.com/track/0avIl6Ss5Xa4ybAc3kup4g) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me \- Soul Train Performance Live](https://open.spotify.com/album/3rhtJIUiZIxNmKYpMkfoMG) | 3:28 |
 | 70 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 |
 | 71 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 |
 | 72 | [1:59 \(feat\. Gunna\)](https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [1:59 \(feat\. Gunna\)](https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d) | 3:12 |

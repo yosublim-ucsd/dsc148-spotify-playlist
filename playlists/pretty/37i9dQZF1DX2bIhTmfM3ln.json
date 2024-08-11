@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 37322,
+  "num_followers": 37358,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "If I Be You",
-        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 136719,
-      "name": "If I Be You",
-      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6VLlcv2OAuGSR5oDD5yzWl"
       },
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Island 54",
-        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+        "name": "If I Be You",
+        "url": "https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E"
       },
       "artists": [
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 172265,
-      "name": "Different Sides (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
+      "duration_ms": 136719,
+      "name": "If I Be You",
+      "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1351,6 +1331,26 @@
       "duration_ms": 154426,
       "name": "Permission Granted (feat. Fave)",
       "url": "https://open.spotify.com/track/3L3I7JMb7TzCazVAHtqhLa"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Island 54",
+        "url": "https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 172265,
+      "name": "Different Sides (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69"
     },
     {
       "added_at": "2024-08-02 00:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10162,
+  "num_followers": 10163,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "radar",
-        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 160694,
-      "name": "radar",
-      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Amandititita",
         "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 198413,
       "name": "La Muy Muy - (Album Version)",
       "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "radar",
+        "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 160694,
+      "name": "radar",
+      "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 162421,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Mio Gladiatore",
-        "url": "https://open.spotify.com/album/4OHHVQ4t5fuNtwJGuJSYV3"
+        "name": "Agujas",
+        "url": "https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m"
       },
       "artists": [
         {
-          "name": "Zemmoa",
-          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Mio Gladiatore",
-      "url": "https://open.spotify.com/track/3sx2amfdadccDQLOAx3IIf"
+      "duration_ms": 91328,
+      "name": "Agujas",
+      "url": "https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET"
     }
   ],
   "unique_name": "Ruidosas",

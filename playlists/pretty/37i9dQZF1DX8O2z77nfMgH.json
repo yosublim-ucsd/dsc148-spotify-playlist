@@ -1,6 +1,6 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Portada: Tiago PZK, Emilia, Anitta",
-  "num_followers": 883637,
+  "num_followers": 883624,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -100,8 +100,8 @@
           "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
         }
       ],
-      "duration_ms": 124805,
-      "name": "TU TA RIKA",
+      "duration_ms": 121200,
+      "name": "TU TA RICA",
       "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
     },
     {
@@ -515,14 +515,10 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Vaquero (Remix)",
+        "name": "Vaquero - Remix",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
       "artists": [
-        {
-          "name": "Andres Castillo",
-          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
-        },
         {
           "name": "Bellakath",
           "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
@@ -532,12 +528,16 @@
           "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "La Dinastia",
-          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
-        },
-        {
           "name": "El Bogueto",
           "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
         },
         {
           "name": "Riky Produce",
@@ -922,6 +922,14 @@
         {
           "name": "Soley",
           "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
         }
       ],
       "duration_ms": 198373,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20304,
+  "num_followers": 20308,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrQKgAAAAABSTv8RCpjxaf5ZYhmWXGo4",
+  "snapshot_id": "ZrVcAAAAAAAucBPJFJoRi9qw/cnYu5Ic",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
+      "duration_ms": 256853,
+      "name": "Yer Bounda Fara",
+      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Yer Bounda Fara",
-      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Cinquante six",
+      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 392226,
       "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Cinquante six",
-      "url": "https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq"
     },
     {
       "added_at": null,

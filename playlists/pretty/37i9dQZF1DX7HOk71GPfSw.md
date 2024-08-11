@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > tsubi club is back
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,955 likes - 155 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,011 likes - 155 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Poze, Ret e Ryan, PEDRO SAMPAIO, Yasmin Santos  e muito mais!
 
-11,580 songs - 24 day 12 hr 2 min
+11,580 songs - 24 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8909,7 +8909,7 @@
 | [Salve A Favela](https://open.spotify.com/track/63HYpMDcQo0Fryhmje08Bl) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Salve A Favela](https://open.spotify.com/album/6voO4re2hvr5NQVG7ho0Qs) | 5:00 | 2023-03-24 | 2023-04-01 |
 | [Salve Baby / Citação: Vamos Fugir](https://open.spotify.com/track/2xh1dqyZ5uxz3dREAREJaR) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Salve Baby / Citação: Vamos Fugir](https://open.spotify.com/album/5QujY89eTMjDncsm8e62zu) | 3:51 | 2022-02-18 | 2022-02-26 |
 | [Salve Favela](https://open.spotify.com/track/321SYQg2rNJn7d2hZdGka4) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [Babu Santana](https://open.spotify.com/artist/0qA5UtcBL55QFvtjDmxRK8) | [Salve Favela](https://open.spotify.com/album/6ngKD9HEGRfFdnQODU9lud) | 2:53 | 2022-06-17 | 2022-06-25 |
-| [Salve Jorge \- Ao Vivo](https://open.spotify.com/track/0qFIyni8ve8T2RHSLuuWRt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Salve Jorge \- Ao Vivo](https://open.spotify.com/album/4w3n3RyUixa0WtblFtK3py) | 3:48 | 2024-08-09 |  |
+| [Salve Jorge \- Ao Vivo](https://open.spotify.com/track/0qFIyni8ve8T2RHSLuuWRt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Salve Jorge \- Ao Vivo](https://open.spotify.com/album/4w3n3RyUixa0WtblFtK3py) | 3:18 | 2024-08-09 |  |
 | [Salário Digno](https://open.spotify.com/track/1d6y5I0zomDNMDuGsc9Dks) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Pacto Global](https://open.spotify.com/artist/2bEn2vNBOph9vdufxwBXct), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Salário Digno](https://open.spotify.com/album/7s4CzkkLBItJW60WtKCvvC) | 3:22 | 2022-05-08 | 2022-05-14 |
 | [Samaúma](https://open.spotify.com/track/1E6GK4b9InIVIFy4dgLQg8) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Samaúma](https://open.spotify.com/album/4ule3lQXZ7RYZnYftY5Prm) | 5:05 | 2022-09-09 | 2022-09-17 |
 | [Samba Afro Caboclo Jazz](https://open.spotify.com/track/6822nP8nVRb0pGFxOKynQA) | [Tunico](https://open.spotify.com/artist/2t5uKP8Pn8srdTfKFGPWNn), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Ilê Ayiê da Bahia](https://open.spotify.com/artist/0TTjH9LLfL758qKzWb23JE) | [Samba Afro Caboclo Jazz](https://open.spotify.com/album/7iKI7xwM5LfhDs4Ew5R0dV) | 6:46 | 2022-01-21 | 2022-01-29 |

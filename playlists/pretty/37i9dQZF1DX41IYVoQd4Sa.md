@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,979 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,985 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 30 | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc) | 2:59 |
 | 31 | [חלליות \- Bonus Track](https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Live 2022](https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP) | 4:32 |
 | 32 | [מגדל המים](https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [מגדל המים](https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU) | 3:47 |
-| 33 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
+| 33 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
 | 34 | [דמיון חופשי](https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:21 |
-| 35 | [ככה זה](https://open.spotify.com/track/4JzG1XWdSjEKlRJMlVWJ3f) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [ככה זה](https://open.spotify.com/album/0Q8Ok7CxprEMtjPKR6XA2e) | 4:08 |
+| 35 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
 | 36 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
 | 37 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 |
 | 38 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 50 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 |
 | 51 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 |
 | 52 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 53 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
-| 54 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
+| 53 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
+| 54 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 |
 | 55 | [עמוק באדמה](https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc) | [Patrick Sebag](https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC), [Erez Lev Ari](https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN) | [עמוק באדמה](https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA) | 3:17 |
 | 56 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
 | 57 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
 | 58 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
 | 59 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
-| 60 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
+| 60 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
 
 Snapshot ID: `ZrUx0AAAAAD/v7lpAW2N0AMLrqvWOxMR`

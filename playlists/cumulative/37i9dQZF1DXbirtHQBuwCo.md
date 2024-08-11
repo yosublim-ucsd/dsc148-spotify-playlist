@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: SOLE\(쏠\)\)
 
-733 songs - 1 day 15 hr 12 min
+735 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 | 2022-04-19 | 2023-07-08 |
 | [BYOB](https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [PoPoMo](https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG) | [PoPoMo](https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG) | 4:12 | 2024-01-23 | 2024-02-07 |
 | [CACTUS \(feat\. Crush & Beenzino\)](https://open.spotify.com/track/7sAsLAOMLLYoGyDEFK3Dh1) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 2:38 | 2022-10-28 | 2022-12-06 |
+| [Call Me](https://open.spotify.com/track/0Vj6qVJYN84hmV5vxQ4dYk) | [ISHA](https://open.spotify.com/artist/7IZVQOfFqJtCQLtdV5ieTt) | [Call Me](https://open.spotify.com/album/1Q8y5BWNiEptm6TYvm7Zyr) | 2:34 | 2024-08-10 |  |
 | [CALL ME BACK](https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [GIRL](https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv) | 3:47 | 2023-09-27 | 2023-10-07 |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 | 2022-07-13 |
 | [camellia](https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [camellia](https://open.spotify.com/album/6EEKOptTOOPOQUCglyUjb8) | 2:31 | 2022-04-19 | 2023-07-08 |
@@ -427,7 +428,7 @@
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2022-12-09 | 2023-01-11 |
 | [Microphone](https://open.spotify.com/track/4qaVcA4yzqG1dlGNdvyTh4) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:16 | 2022-07-07 | 2022-07-23 |
 | [Mm Mm](https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:46 | 2022-04-19 | 2022-07-28 |
-| [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 |  |
+| [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 | 2024-08-11 |
 | [Moon&Back](https://open.spotify.com/track/5EFPZrR8SC2izgbBFDcNr4) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [Moon&Back](https://open.spotify.com/album/4U9vidHdzVMySNompXFcug) | 3:42 | 2022-10-07 | 2022-10-23 |
 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 | 2023-01-26 | 2023-02-22 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-08-31 |
@@ -531,6 +532,7 @@
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-16 | 2024-03-06 |
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 | 2023-06-14 |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-11 | 2022-05-29 |
+| [Q&A \(Feat\. g0nny\)](https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n) | 2:32 | 2024-08-10 |  |
 | [RADIONA \(Feat\. GIST\)](https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [RADIONA](https://open.spotify.com/album/14jzyg9CvAWyVomsapigey) | 3:08 | 2022-11-03 | 2022-11-10 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 | 2022-07-08 |
 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 | 2022-05-04 | 2022-07-17 |
@@ -656,7 +658,7 @@
 | [Today's Weather](https://open.spotify.com/track/5qFmtbxP5KjekiXwv0axsh) | [Son Dong Woon](https://open.spotify.com/artist/5UzpNJd6zHGN9syxBN8fRY) | [Happy Birthday](https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg) | 3:06 | 2022-06-09 | 2022-06-21 |
 | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/track/5oodXSTHKXbciMByyywlC8) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Tonight \(Feat\. Summer Soul\)](https://open.spotify.com/album/6KeFlvykuxCkKSHYPXrc8u) | 3:22 | 2022-12-19 | 2022-12-28 |
 | [Treasure](https://open.spotify.com/track/4PSPmhEsbuBVizYKGNZ0CN) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Backstreet Rookie \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/6uGnOboMjfiQ9ZOuPgmU7Q) | 3:43 | 2022-06-20 | 2022-06-24 |
-| [Treat Me Better](https://open.spotify.com/track/1hmaRc3ZDI9M1v06q0sDom) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Treat Me Better](https://open.spotify.com/album/0FhphJWHqernJzgewzKawK) | 2:57 | 2024-07-31 |  |
+| [Treat Me Better](https://open.spotify.com/track/1hmaRc3ZDI9M1v06q0sDom) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Treat Me Better](https://open.spotify.com/album/0FhphJWHqernJzgewzKawK) | 2:57 | 2024-07-31 | 2024-08-11 |
 | [Trigger](https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Trigger](https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde) | 3:20 | 2022-05-09 | 2022-07-13 |
 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 | 2022-06-23 | 2024-05-06 |
 | [Tropical](https://open.spotify.com/track/0mChhyeHONd7iEiyfETprG) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Seoul Check\-in OST Part 12](https://open.spotify.com/album/3oMeuwSCtpt0e1ln0o4IHO) | 3:04 | 2022-12-15 | 2022-12-20 |

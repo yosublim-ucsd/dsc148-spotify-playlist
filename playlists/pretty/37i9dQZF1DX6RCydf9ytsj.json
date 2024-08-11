@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 640909,
+  "num_followers": 641099,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Buenas Noches From a Lonely Room",
         "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 168213,
       "name": "Streets of Bakersfield",
       "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "The Conversation (with Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The Essential Jerry Reed",
         "url": "https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 196173,
       "name": "She Got the Goldmine (I Got the Shaft)",
       "url": "https://open.spotify.com/track/0AbYscoIblUGiNqn2Iw6fq"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "The Conversation (with Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Still The Same Ole Me",
-        "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "Same Ole Me",
-      "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
       },
@@ -1891,22 +1875,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Ultimate Waylon Jennings",
-        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+        "name": "Still The Same Ole Me",
+        "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Just to Satisfy You",
-      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+      "duration_ms": 170733,
+      "name": "Same Ole Me",
+      "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1943,6 +1923,26 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Just to Satisfy You",
+      "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 194160,
-      "name": "Heartbroke",
-      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "My Kind Of Country",
         "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "Heartbroke",
+      "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "The First Of A Million Kisses",
         "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
       },
@@ -2075,18 +2055,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn"
       },
       "artists": [
         {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
         }
       ],
-      "duration_ms": 188893,
-      "name": "Highway 40 Blues",
-      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+      "duration_ms": 239440,
+      "name": "That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2119,6 +2103,22 @@
       "duration_ms": 245733,
       "name": "Do Ya'",
       "url": "https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Highway 40 Blues",
+      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
     },
     {
       "added_at": "2024-07-05 20:32:07",

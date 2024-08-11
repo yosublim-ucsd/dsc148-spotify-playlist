@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 23684,
+  "num_followers": 23716,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -275,26 +275,18 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+        "name": "KEHLANI",
+        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
       "artists": [
         {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+      "duration_ms": 122360,
+      "name": "KEHLANI",
+      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -319,18 +311,26 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
       "artists": [
         {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
         }
       ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-08-06 11:04:43",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2024-08-06 11:04:43",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "Rim Tim Tagi Dim",
-        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
-      },
-      "artists": [
-        {
-          "name": "Baby Lasagna",
-          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
-        }
-      ],
-      "duration_ms": 179062,
-      "name": "Rim Tim Tagi Dim",
-      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
-    },
-    {
-      "added_at": "2024-08-06 11:04:43",
-      "album": {
         "name": "Mon amour",
         "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 180908,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
+    },
+    {
+      "added_at": "2024-08-06 11:04:43",
+      "album": {
+        "name": "Rim Tim Tagi Dim",
+        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
+      },
+      "artists": [
+        {
+          "name": "Baby Lasagna",
+          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
+        }
+      ],
+      "duration_ms": 179062,
+      "name": "Rim Tim Tagi Dim",
+      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
+    },
+    {
+      "added_at": "2024-08-06 11:04:43",
+      "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 154800,
       "name": "Voodoo Baba",
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
-    },
-    {
-      "added_at": "2024-08-06 11:04:43",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "introvert\u00e1lt dal",
-      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "MEGGYF\u00c1N",
+      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+    },
+    {
+      "added_at": "2024-08-06 11:04:43",
+      "album": {
         "name": "Ali Ali",
         "url": "https://open.spotify.com/album/0YOzjLEm1PqHp70POGMo02"
       },
@@ -1255,26 +1275,6 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "MEGGYF\u00c1N",
-      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
-    },
-    {
-      "added_at": "2024-08-06 11:04:43",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/2nKNusskARBW5lMEt3996z"
       },
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "G\u00c1Z",
-        "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
+        "name": "kelet",
+        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         },
         {
-          "name": "Jaber",
-          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
+          "name": "Signo",
+          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
         }
       ],
-      "duration_ms": 185333,
-      "name": "G\u00c1Z",
-      "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
+      "duration_ms": 207818,
+      "name": "kelet",
+      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
     },
     {
       "added_at": "2024-08-06 11:04:43",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2024-08-06 11:04:43",
       "album": {
-        "name": "kelet",
-        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
+        "name": "G\u00c1Z",
+        "url": "https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         },
         {
-          "name": "Signo",
-          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
+          "name": "Jaber",
+          "url": "https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo"
         }
       ],
-      "duration_ms": 207818,
-      "name": "kelet",
-      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
+      "duration_ms": 185333,
+      "name": "G\u00c1Z",
+      "url": "https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc"
     },
     {
       "added_at": "2024-08-06 11:04:43",

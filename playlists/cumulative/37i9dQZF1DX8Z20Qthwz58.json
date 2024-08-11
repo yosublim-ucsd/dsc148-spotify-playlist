@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 167999,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/3mq0dLTh4wC8goZY3s6oLQ"
@@ -328,6 +328,24 @@
       "duration_ms": 219034,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
+    },
+    {
+      "album": {
+        "name": "DEAR A.I",
+        "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149308,
+      "name": "dear a.i",
+      "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
     },
     {
       "album": {
@@ -1385,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Radio Echoes",
+        "url": "https://open.spotify.com/album/6IcRJUK7hLhKHvzplQObHw"
+      },
+      "artists": [
+        {
+          "name": "Lunart",
+          "url": "https://open.spotify.com/artist/43RCNUKlGB7Eez9apyCVN7"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140785,
+      "name": "Radio Echoes",
+      "url": "https://open.spotify.com/track/3vMiGQdy6F68piq9lWTq45"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -1585,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Sover",
+        "url": "https://open.spotify.com/album/3KNFq8vyJ8soYkdRh0xlfS"
+      },
+      "artists": [
+        {
+          "name": "VIN",
+          "url": "https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4"
+        },
+        {
+          "name": "EFFY",
+          "url": "https://open.spotify.com/artist/5Hq1SKAbACg8QBPQalqUGD"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162147,
+      "name": "Sover (feat. EFFY)",
+      "url": "https://open.spotify.com/track/0wKiDGK0fkx6dSDCpa0zl9"
+    },
+    {
+      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -1676,7 +1734,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
@@ -1908,6 +1966,24 @@
       "duration_ms": 183000,
       "name": "Winded",
       "url": "https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg"
+    },
+    {
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/5YLJahKZqwIifVLzMH0l3x"
+      },
+      "artists": [
+        {
+          "name": "CLADI",
+          "url": "https://open.spotify.com/artist/2SK3DBft7HTqdzudpRYbYR"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224463,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5whsr6IaUmrwDRsb8vI1ba"
     },
     {
       "album": {

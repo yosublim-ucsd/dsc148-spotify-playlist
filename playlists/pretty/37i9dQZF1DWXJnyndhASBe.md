@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kuban, Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,423 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,521 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 5 | [Multisport](https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [Multisport](https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa) | 2:59 |
 | 6 | [Ona Mówi](https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa) | [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8) | [Ona Mówi](https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU) | 2:32 |
 | 7 | [zostań, proszę](https://open.spotify.com/track/5i0KjwixfbjGyD1Dxa6vxS) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [zostań, proszę](https://open.spotify.com/album/4ZCCHJbKdusUv15RU5lJZH) | 2:44 |
-| 8 | [Za tych co nie mogą](https://open.spotify.com/track/38x9Tgp32A6fKYWihm3JUw) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/2B1qzhgPVz2eb4M7DxOadz), [Wardza20k](https://open.spotify.com/artist/2ezG16Od6YnOUmoy9DjkxZ) | [Za tych co nie mogą](https://open.spotify.com/album/7e3YauilUY873Qfqph6woB) | 3:37 |
+| 8 | [Za tych co nie mogą](https://open.spotify.com/track/38x9Tgp32A6fKYWihm3JUw) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/2B1qzhgPVz2eb4M7DxOadz), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [Za tych co nie mogą](https://open.spotify.com/album/7e3YauilUY873Qfqph6woB) | 3:37 |
 | 9 | [Wosk](https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u) | [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Wosk](https://open.spotify.com/album/2Urv8R4iILFJDzrVrVoPDs) | 2:46 |
 | 10 | [Deszcz Pieniędzy](https://open.spotify.com/track/1qzlyUhA8eGdgK0JoFrEaY) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [WIRTUOZ](https://open.spotify.com/album/1gK5TWRqoEPMmEToOeNJ7n) | 3:00 |
 | 11 | [STRZELAM PETEM](https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [STRZELAM PETEM](https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE) | 3:03 |

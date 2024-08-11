@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 289681,
       "name": "Summer night's dream",
       "url": "https://open.spotify.com/track/0yOaoryUIH4LWkOJOHq4Xo"
@@ -1212,6 +1212,28 @@
       "duration_ms": 278431,
       "name": "\uc5b4\ud5c8\uad6c\uc790",
       "url": "https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY"
+    },
+    {
+      "album": {
+        "name": "\uc5d0\ub728\uc648",
+        "url": "https://open.spotify.com/album/3bFMUbaU5yf73Yr00gmLgl"
+      },
+      "artists": [
+        {
+          "name": "KlanKlang",
+          "url": "https://open.spotify.com/artist/4iTCrzL3zKjw4swuHrrDTR"
+        },
+        {
+          "name": "\uc57c\uae08\uc57c\uae08",
+          "url": "https://open.spotify.com/artist/3ZLnkGh0sftUrIzdaKqdpz"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "\uc5d0\ub728\uc648 (feat. \uc57c\uae08\uc57c\uae08)",
+      "url": "https://open.spotify.com/track/3J1BgqPoJL7Nxf513rpJZx"
     },
     {
       "album": {

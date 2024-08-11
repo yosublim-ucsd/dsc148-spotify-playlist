@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,451 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,485 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 57 | [Cuando Tus Ojos Me Ven](https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y) | [uni](https://open.spotify.com/artist/6jeR6yw4TRocXdVOj603mW) | [Cuando Tus Ojos Me Ven](https://open.spotify.com/album/6lfXpaBMaT6JMBqFXOeAoR) | 2:58 |
 | 58 | [visto](https://open.spotify.com/track/47mWV6wRaoUfePvkHBdsok) | [Spreen](https://open.spotify.com/artist/1NIDfe1B5J1EyNiJcPZsfZ), [Matute Sureda](https://open.spotify.com/artist/5qjZfbkr8aFI59GczLw53s) | [visto](https://open.spotify.com/album/3xbbxhT3qaXIhauOCIyrmL) | 2:00 |
 | 59 | [LALALÁ](https://open.spotify.com/track/1XGlvC36zhgG89NDih0IWk) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [LALALÁ](https://open.spotify.com/album/37JeUPws94fpXAlCb3aBTF) | 2:46 |
-| 60 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
+| 60 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 61 | [Dalí](https://open.spotify.com/track/5W9sfme2wRkcgx2RSkqGsp) | [MARCOS YTZ](https://open.spotify.com/artist/6cYga5r2iZY7SCrT56FUWj) | [Dalí](https://open.spotify.com/album/0f7lJFC5UgF55NI6Y5Loyv) | 3:05 |
 | 62 | [AGUA](https://open.spotify.com/track/0gTyeWsGE071NCvkq36roh) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:20 |
 | 63 | [De Repente](https://open.spotify.com/track/2rdIwRAiQUigchIXOCzshk) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [De Repente](https://open.spotify.com/album/0YnFmayvcgCGZlaXjGsaKq) | 3:34 |

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAGWHxBOTi7aI8xI0HSSDhilB9ibiS0",
+  "snapshot_id": "AAAGWul+rHj9d5CjPwSWBStCmlUQa5p1",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -6823,7 +6823,7 @@
     {
       "added_at": "2024-03-03 17:15:57",
       "album": {
-        "name": "Reggatta De Blanc (Remastered 2003)",
+        "name": "Reggatta De Blanc - Remastered 2003",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
       "artists": [
@@ -7679,22 +7679,6 @@
       "duration_ms": 269066,
       "name": "Nappy Heads",
       "url": "https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS"
-    },
-    {
-      "added_at": "2024-05-27 04:14:03",
-      "album": {
-        "name": "Dark Times",
-        "url": "https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 31145,
-      "name": "Close Your Eyes and Swing",
-      "url": "https://open.spotify.com/track/3YLGWFX2FfHIVV7EJvRlrn"
     },
     {
       "added_at": "2024-05-27 04:14:49",
@@ -8587,6 +8571,34 @@
       "duration_ms": 142720,
       "name": "Hymnal",
       "url": "https://open.spotify.com/track/5YhHAIAq6sFAeqjBOe40Lc"
+    },
+    {
+      "added_at": "2024-08-11 03:13:27",
+      "album": {
+        "name": "We Buy Diabetic Test Strips",
+        "url": "https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "Landlines",
+      "url": "https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU"
     }
   ],
   "unique_name": "Zacklog",

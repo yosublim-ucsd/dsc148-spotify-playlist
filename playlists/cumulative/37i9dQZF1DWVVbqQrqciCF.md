@@ -4,7 +4,7 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-70 songs - 5 hr 8 min
+71 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [manimani](https://open.spotify.com/track/0JXxrmM7bHmpwHczGTjCUm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 4:16 | 2024-04-11 |  |
 | [Mister](https://open.spotify.com/track/6sHinRfFGZcxeTTdCvxgCG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:04 | 2024-04-11 |  |
 | [Monster](https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Monster](https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv) | 3:25 | 2022-11-17 |  |
+| [On the Stage](https://open.spotify.com/track/72n66qrnruvdjh2Ndpc86g) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [On the Stage](https://open.spotify.com/album/4qN1V7yOkQxuxw6l0BNwge) | 3:27 | 2024-08-09 |  |
 | [RGB](https://open.spotify.com/track/55O5PJor96At64xOQSWnkc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [RGB](https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2) | 3:42 | 2022-11-17 |  |
 | [Romance](https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 2:46 | 2022-11-17 | 2024-04-19 |
 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 | 2022-11-17 |  |

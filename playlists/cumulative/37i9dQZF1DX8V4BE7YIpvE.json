@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 289200,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Ck57y28RGO0G0liJXg5rh"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 173287,
       "name": "Crystals",
       "url": "https://open.spotify.com/track/3tlcvdh3LigtCJSIiBRsYm"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 182222,
       "name": "Dream Sync",
       "url": "https://open.spotify.com/track/53qDR5jz1qhcaemVlIe46E"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Harsh Light",
+        "url": "https://open.spotify.com/album/14m691uqlsr4P4nWPOJsil"
+      },
+      "artists": [
+        {
+          "name": "Moir\u00e9 Lights",
+          "url": "https://open.spotify.com/artist/0hvQek6XUHfM89K9bBFiqe"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181899,
+      "name": "Glint",
+      "url": "https://open.spotify.com/track/3wq9bm0WA6PjX1thMwojWI"
+    },
+    {
+      "album": {
         "name": "Great Ones",
         "url": "https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 139090,
       "name": "Like Math and Science",
       "url": "https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 178142,
       "name": "Neon Lights Neon Dreams",
       "url": "https://open.spotify.com/track/27n3QDmpOsE5Pd26qHaAi8"
@@ -888,6 +906,24 @@
       "duration_ms": 185924,
       "name": "New Frontier",
       "url": "https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd"
+    },
+    {
+      "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/1FdQQYcNnrWlywWDnYmVpn"
+      },
+      "artists": [
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203416,
+      "name": "New Passenger",
+      "url": "https://open.spotify.com/track/1lkBLaxwo4uh6y5IrudKC1"
     },
     {
       "album": {
@@ -1522,7 +1558,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-11",
       "duration_ms": 201600,
       "name": "Vision",
       "url": "https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr"

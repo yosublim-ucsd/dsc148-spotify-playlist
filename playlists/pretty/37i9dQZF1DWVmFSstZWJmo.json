@@ -1,6 +1,6 @@
 {
   "description": "Is \"indie sleaze\" in the room with us now? ft. The Dare ",
-  "num_followers": 155453,
+  "num_followers": 155789,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2024-08-08 16:30:14",
       "album": {
-        "name": "Antidotes",
-        "url": "https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM"
+        "name": "Crushed By Everyone",
+        "url": "https://open.spotify.com/album/7eZiMrZzSi2oktv44Or1MU"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 229520,
-      "name": "Cassius",
-      "url": "https://open.spotify.com/track/2UU4NqZQ3RK7pTSq6le2t3"
+      "duration_ms": 193266,
+      "name": "Out There - The Dare Version",
+      "url": "https://open.spotify.com/track/3nenhYDvVKIM7xTwpRdSr0"
     }
   ],
   "unique_name": "Indie Sleaze",

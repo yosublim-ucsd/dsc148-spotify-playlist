@@ -1569,32 +1569,6 @@
     },
     {
       "album": {
-        "name": "GEN Z KUWALEMEA",
-        "url": "https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr"
-      },
-      "artists": [
-        {
-          "name": "Mr.Tee",
-          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
-        },
-        {
-          "name": "MUNGA MKADINALI",
-          "url": "https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm"
-        },
-        {
-          "name": "SOSATHEPRODIGY",
-          "url": "https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm"
-        }
-      ],
-      "date_added": "2024-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163185,
-      "name": "GEN Z KUWALEMEA",
-      "url": "https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT"
-    },
-    {
-      "album": {
         "name": "EXPOSED (Munga`s Revenge)",
         "url": "https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n"
       },
@@ -2334,6 +2308,32 @@
       "duration_ms": 178442,
       "name": "Kuwa Strong",
       "url": "https://open.spotify.com/track/0QM3gpqToq417bchLwu85C"
+    },
+    {
+      "album": {
+        "name": "KUWALEMEA",
+        "url": "https://open.spotify.com/album/3zYa672gvfFg5JwkkwH8rr"
+      },
+      "artists": [
+        {
+          "name": "Mr.Tee",
+          "url": "https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw"
+        },
+        {
+          "name": "MUNGA MKADINALI",
+          "url": "https://open.spotify.com/artist/39m6eCI1C0YX4XeOEewMGm"
+        },
+        {
+          "name": "SOSATHEPRODIGY",
+          "url": "https://open.spotify.com/artist/0W8SDXPes9KDEQLEO198Wm"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163185,
+      "name": "KUWALEMEA",
+      "url": "https://open.spotify.com/track/7pxhYk6mLAUEaOeM89fofT"
     },
     {
       "album": {

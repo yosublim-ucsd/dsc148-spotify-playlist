@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Karol G",
-  "num_followers": 964908,
+  "num_followers": 964917,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "\u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "\u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Potra Salvaje",
         "url": "https://open.spotify.com/album/3D9wp2XCEWWoZMCS271WzI"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "\u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "\u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "La Raz\u00f3n",
         "url": "https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg"
       },
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+      },
+      "artists": [
+        {
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Dime Solo Si Has Pensao",
         "url": "https://open.spotify.com/album/30KmhNLsj1grpBecNljqRX"
       },
@@ -415,22 +435,6 @@
       "duration_ms": 175715,
       "name": "Dime Solo Si Has Pensao",
       "url": "https://open.spotify.com/track/4V8B7hx9GvtvKypXV3rPIq"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
     },
     {
       "added_at": "2024-08-05 15:25:51",
@@ -455,6 +459,22 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
+      },
+      "artists": [
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "duration_ms": 164599,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 205779,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
-      },
-      "artists": [
-        {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": "2024-08-05 15:25:51",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 168292,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "A Las 12",
         "url": "https://open.spotify.com/album/0lg6WmcaL9mkwWo2bQQU7f"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188693,
       "name": "A Las 12",
       "url": "https://open.spotify.com/track/0btPVfNIE43s6ZFtp0GgVh"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 168292,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP"
     },
     {
       "added_at": "2024-08-05 15:25:51",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
-        "name": "EL FORASTERO",
-        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "EL FORASTERO",
-      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
         "name": "AMALFI",
         "url": "https://open.spotify.com/album/7cCGN8rn9b3M72bdqHJEIc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 136791,
       "name": "AMALFI",
       "url": "https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
+        "name": "EL FORASTERO",
+        "url": "https://open.spotify.com/album/3L8AXncbQzk35NwewM00X7"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "EL FORASTERO",
+      "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
     },
     {
       "added_at": "2024-08-05 15:25:51",
@@ -783,6 +783,26 @@
     {
       "added_at": "2024-08-05 15:25:51",
       "album": {
+        "name": "doble AA",
+        "url": "https://open.spotify.com/album/6WTSjDzE4i69qWjlYrGtGV"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 138285,
+      "name": "doble AA",
+      "url": "https://open.spotify.com/track/4eNfKoVNsUNNsFppsYuIWr"
+    },
+    {
+      "added_at": "2024-08-05 15:25:51",
+      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 177000,
       "name": "Sin Filtro",
       "url": "https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT"
-    },
-    {
-      "added_at": "2024-08-05 15:25:51",
-      "album": {
-        "name": "doble AA",
-        "url": "https://open.spotify.com/album/6WTSjDzE4i69qWjlYrGtGV"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 138285,
-      "name": "doble AA",
-      "url": "https://open.spotify.com/track/4eNfKoVNsUNNsFppsYuIWr"
     },
     {
       "added_at": "2024-08-05 15:25:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,223 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,250 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 22 | [To The Lamb](https://open.spotify.com/track/5IILKBAHeBrZyyrdYq8FwA) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life is Hard\. God is Good.](https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp) | 5:30 |
 | 23 | [Carried](https://open.spotify.com/track/38W4csHLFPvdw4HTQCXTI1) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Charmed](https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc) | 2:17 |
 | 24 | [It is Done \- Live](https://open.spotify.com/track/737zghobTBR0SauNxmcXrt) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [It is Done \(Live\)](https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG) | 5:55 |
-| 25 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
+| 25 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 26 | [Highest One \- Live](https://open.spotify.com/track/0pvbLvGMwQwgVJCo3J8Eza) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Highest One \(Live\)](https://open.spotify.com/album/5GayCFNegvwSjU3piW8MdV) | 7:21 |
 | 27 | [Long Live The King \- Acoustic](https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Versions\) \- EP](https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH) | 5:53 |
 | 28 | [Nothing But Goodness](https://open.spotify.com/track/4DU8Zt3YZe75FHrcQj5QIu) | [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Nothing But Goodness](https://open.spotify.com/album/2QGV907RuLEKx6ynC8jjfW) | 8:42 |
